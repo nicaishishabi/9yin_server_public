@@ -1,0 +1,36 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	Plot	Title	Step	SearchID	Line	AcceptNpc	SubmitNpc	SceneID	AcceptSceneID	SubmitSceneID	AutoAcceptID	AutoSubmit	PreTaskLimit	NextTaskLimit	NotShowMenu	Relation	LuckValue	AcceptLimit	SubmitLimit	AcceptDecMoney	SubFunction	TaskItemList	RefreshMonster	TimeLimitLength	SubmitNpcEx	TaskScript	TitleId	ContextId	AcceptDialogId	CompleteDialogId	UnCompleteDialogId	TaskTargetId	TrackInfoID	LineNextInfo	CanAcceptMenu	UncompleteMenu	CompleteMenu	AcceptMovie	SubmitMovie	DramaAccept	DramaSubmit	CanGiveup	ShareType	RepeatType	RepeatPeriod	CountDayLimit	DifficultCoefficient	DifficultLevel	NeedVip
+58001	4			s1300101	2	npc_4neidh_jlg	npc_4neidh_jlg		8	8				58002				1274;25309							SubmitNpcEx_58001		title_58001	context_58001	accept_58001_1;menu_58001_1	complete_58001;submit_58001		target_58001			CanAcceptMenu_58001		CompleteMenu_58001					0	0	0	0	0			
+58002	4			s1300101	2	npc_4neidh_jlg	npc_4neidh_jlg		8	8			58001	58003				1274							SubmitNpcEx_58002		title_58002	context_58002	accept_58002_1;menu_58002_1	complete_58002;submit_58002		target_58002			CanAcceptMenu_58002		CompleteMenu_58002					0	0	0	0	0			
+58003	4			s1300101	2	npc_4neidh_jlg	npc_4neidh_jlg		8	8			58002	58004				1274							SubmitNpcEx_58003		title_58003	context_58003	accept_58003_1;menu_58003_1	complete_58003;submit_58003		target_58003			CanAcceptMenu_58003		CompleteMenu_58003					0	0	0	0	0			
+58004	4			s1300101	2	npc_4neidh_jlg	npc_4neidh_jlg		8	8			58003	58005				1274							SubmitNpcEx_58004		title_58004	context_58004	accept_58004_1;menu_58004_1	complete_58004;submit_58004		target_58004			CanAcceptMenu_58004		CompleteMenu_58004					0	0	0	0	0			
+58005	4			s1300101	2	npc_4neidh_jlg	npc_4neidh_jlg		8	8			58004					1274							SubmitNpcEx_58005		title_58005	context_58005	accept_58005_1;menu_58005_1	complete_58005;submit_58005		target_58005			CanAcceptMenu_58005		CompleteMenu_58005		5757			0	0	0	0	0			
+58011	2			s1300101	2	npc_4neidh_jlg			8		58012	1		58012				1274;25310									title_58011	context_58011	accept_58011_1;menu_58011_1	complete_58011;submit_58011		target_58011			CanAcceptMenu_58011		CompleteMenu_58011		5756			0	0	0	0	0			
+58012	2			s1300101	2		npc_4neidh_jlg			8			58011	58013				1274							SubmitNpcEx_58012		title_58012	context_58012		complete_58012;submit_58012		target_58012			CanAcceptMenu_58012		CompleteMenu_58012					0	0	0	0	0			
+58013	2			s1300101	2	npc_4neidh_jlg	npc_4neidh_jlg		8	8			58012	58014				1274							SubmitNpcEx_58013		title_58013	context_58013	accept_58013_1;menu_58013_1	complete_58013;submit_58013		target_58013			CanAcceptMenu_58013		CompleteMenu_58013					0	0	0	0	0			
+58014	2			s1300101	2	npc_4neidh_jlg	npc_4neidh_jlg		8	8			58013	58015				1274							SubmitNpcEx_58014		title_58014	context_58014	accept_58014_1;menu_58014_1	complete_58014;submit_58014		target_58014			CanAcceptMenu_58014		CompleteMenu_58014					0	0	0	0	0			
+58015	2			s1300101	2	npc_4neidh_jlg			8		58016	1	58014	58016				1274									title_58015	context_58015	accept_58015_1;menu_58015_1	complete_58015;submit_58015		target_58015			CanAcceptMenu_58015		CompleteMenu_58015					0	0	0	0	0			
+58016	2			s1300101	2		npc_4neidh_jlg			8			58015	58017				1274							SubmitNpcEx_58016		title_58016	context_58016		complete_58016;submit_58016		target_58016			CanAcceptMenu_58016		CompleteMenu_58016					0	0	0	0	0			
+58017	2			s1300101	2	npc_4neidh_jlg	npc_4neidh_jlg		8	8			58016					1274							SubmitNpcEx_58017		title_58017	context_58017	accept_58017_1;menu_58017_1	complete_58017;submit_58017		target_58017			CanAcceptMenu_58017		CompleteMenu_58017					0	0	0	0	0			
+58018	3			s1300101	2	npc_4neidh_jlg			8		58019	1		58019				1274;25311									title_58018	context_58018	accept_58018_1;menu_58018_1			target_58018			CanAcceptMenu_58018		CompleteMenu_58018		5758			0	0	0	0	0			
+58019	3			s1300101	2						58020	1	58018	58020				1274									title_58019	context_58019		complete_58019;submit_58019		target_58019			CanAcceptMenu_58019		CompleteMenu_58019					0	0	0	0	0			
+58020	3			s1300101	2						58021	1	58019	58021				1274									title_58020	context_58020				target_58020			CanAcceptMenu_58020		CompleteMenu_58020					0	0	0	0	0			
+58021	3			s1300101	2						58022	1	58020	58022				1274									title_58021	context_58021				target_58021										0	0	0	0	0			
+58022	3			s1300101	2						58023	1	58021	58023				1274									title_58022	context_58022				target_58022										0	0	0	0	0			
+58023	3			s1300101	2						58024	1	58022	58024				1274									title_58023	context_58023				target_58023		next_58023								0	0	0	0	0			
+58024	3			s1300101	2		npc_4neidh_jlg			8			58023					1274									title_58024	context_58024		complete_58024;submit_58024		target_58024		next_58024			CompleteMenu_58024					0	0	0	0	0			
+58031				s1300101	2						58032							1274									title_58031	context_58031	accept_58031_1;menu_58031_1	complete_58031;submit_58031		target_58031		next_58031	CanAcceptMenu_58031		CompleteMenu_58031					0	0	1	1	1			
+58032				s1300101	2		npc_4neidh_jlg			8								1274									title_58032	context_58032				target_58032		next_58032								0	0	1	1	1			
+58041				s1300101	2	WorldNpc03816	WorldNpc03816		8	8				58042				1274;25395									title_58041	context_58041	accept_58041_1;menu_58041_1	complete_58041;submit_58041		target_58041			CanAcceptMenu_58041		CompleteMenu_58041					0	0	0	0	0			
+58042				s1300101	2	WorldNpc03816	NPCxszhh_4nei_yuming		8	15			58041	57532				1274							SubmitNpcEx_58042		title_58042	context_58042	accept_58042_1;menu_58042_1|accept_58042_2;menu_58042_2	complete_58042;submit_58042		target_58042		next_58042	CanAcceptMenu_58042		CompleteMenu_58042					0	0	0	0	0			
+58043				s1300101	2	WorldNpc03816	WorldNpc03816		8	8								1274;106236									title_58043	context_58043	accept_58043_1;menu_58043_1	complete_58043;submit_58043		target_58043			CanAcceptMenu_58043		CompleteMenu_58043					0	0	0	0	0			
+58050				s1300102	2	npc_5neidh_jlg			8	8	58051	1		58051				26756									title_58050	context_58050	accept_58050_1;menu_58050_1			target_58050		next_58050	CanAcceptMenu_58050							1	0	0					
+58051				s1300102	2						58052	1	58050	58052													title_58051	context_58051				target_58051										0	0	0					
+58052				s1300102	2						58053	1	58051	58053													title_58052	context_58052				target_58052										0	0	0					
+58053				s1300102	2						58054	1	58052	58054													title_58053	context_58053				target_58053										0	0	0					
+58054				s1300102	2						58055	1	58053	58055													title_58054	context_58054				target_58054										0	0	0					
+58055				s1300102	2		WorldNpc03816			8			58054												SubmitNpcEx_58055		title_58055	context_58055		complete_58055;submit_58055		target_58055					CompleteMenu_58055					0	0	0					
+58056				s1300102																																													
+58057				s1300102																																													
+58058				s1300102																																													
+58059				s1300102																																													

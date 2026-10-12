@@ -1,0 +1,401 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	NpcId	SceneID	DialogID	GetItems	LostItems	TrackInfo	OkMenu	TaskID	HideNpcID	BufferID
+102	JobQianDZ006	1	DialogID_102	book_hw_normal-1		interactinfo_102	okmenu_102	1041		
+115	JobChengD006	17	DialogID_115	book_hw_normal-1		interactinfo_115	okmenu_115	1044		
+117	JobMoHZ006	4	DialogID_117	book_hw_normal-1		interactinfo_117	okmenu_117	1045		
+119	JobLuoY006	16	DialogID_119	book_hw_normal-1		interactinfo_119	okmenu_119	1046		
+101	JobQianDZ006	1	DialogID_101	hw_fb_rw_01001-60		interactinfo_101	okmenu_101	1041		
+114	JobChengD006	17	DialogID_114	hw_fb_rw_01001-60		interactinfo_114	okmenu_114	1044		
+116	JobMoHZ006	4	DialogID_116	hw_fb_rw_01001-60		interactinfo_116	okmenu_116	1045		
+118	JobLuoY006	16	DialogID_118	hw_fb_rw_01001-60		interactinfo_118	okmenu_118	1046		
+103	JobQianDZ011	1	DialogID_103			interactinfo_103	okmenu_103			
+104	JobYanYZ011	3	DialogID_104			interactinfo_104	okmenu_104			
+105	JobChengD011	17	DialogID_105			interactinfo_105	okmenu_105			
+106	JobMoHZ011	4	DialogID_106			interactinfo_106	okmenu_106			
+107	JobLuoY011	16	DialogID_107			interactinfo_107	okmenu_107			
+130	Event_yd_qd01	1				interactinfo_130		1002		
+132	Event_yd_yyz01	3				interactinfo_132		1006		
+134	Event_yd_cd01	17				interactinfo_134		1011		
+136	Event_yd_jmy01	4				interactinfo_136		1016		
+138	Event_yd_ly01	16				interactinfo_138		1021		
+140	Event_yd_qd02	1				interactinfo_140		1026		
+123	WorldNpc10005	16	DialogID_123	tbook_zhenfa_jh_01-1		interactinfo_123	okmenu_123	1171		
+124	FuncNpc00003	1	DialogID_124	tbook_zhenfa_jh_01-1		interactinfo_124	okmenu_124	1172		
+128	WorldNpc10005	16	DialogID_128	tbook_zf_jh_01_01-1		interactinfo_128	okmenu_128	1177		
+129	FuncNpc00003	1	DialogID_129	tbook_zf_jh_01_01-1		interactinfo_129	okmenu_129	1178		
+111	JobQianDZ006	1	DialogID_111	book_hw_normal-1		interactinfo_111	okmenu_111			
+110	JobQianDZ006	1	DialogID_110	hw_fb_rw_01001-60		interactinfo_110	okmenu_110			
+142	WorldNpc00169	1	DialogID_142			interactinfo_142	okmenu_142	"10,031,027"		
+143	WorldNpc00948	3	DialogID_142			interactinfo_143	okmenu_142	1007		
+144	cd461	17	DialogID_142			interactinfo_144	okmenu_144	1012		
+145	WorldNpc10743	4	DialogID_142			interactinfo_145	okmenu_142	1017		
+146	ly723	16	DialogID_142			interactinfo_146	okmenu_142	1022		
+148	cantsuccess	61				interactinfo_148		"100,210,111,006,101,000,000,000"		
+131	YdNpc_zdjm	61	DialogID_131	book_qinggong_4-1		interactinfo_131	okmenu_131	"100,210,111,006,101,000,000,000"		
+158	qdzai026	1								
+401	qdzai026	1								
+160	Guildfuncnpc001		DialogID_160			interactinfo_160	okmenu_160			
+159	Guildfuncnpc001		DialogID_159			interactinfo_159	okmenu_159			
+147	YdNpc_walllbook	61	DialogID_147			interactinfo_147	okmenu_147	"100,210,111,006,101,000,000,000"		
+163	JobQianDZ011	1	DialogID_163	hw_fb_rw_01001-50		interactinfo_163	okmenu_163			
+161	JobLuoY011	16	DialogID_161	hw_fb_rw_01001-50		interactinfo_161	okmenu_161			
+164	JobQianDZ011	1	DialogID_164	hw_fb_rw_01001-50		interactinfo_164	okmenu_164			
+165	JobYanYZ011	3	DialogID_165	hw_fb_rw_01001-50		interactinfo_165	okmenu_165			
+169	WorldNpc04404	11	DialogID_169	tibook_CS_wd_qfjf04-1		interactinfo_169	okmenu_169			
+172	WorldNpc04405	11	DialogID_172	tibook_CS_wd_lyjf05-1		interactinfo_172	okmenu_172	1235		
+173	WorldNpc04405	11	DialogID_173	tibook_CS_wd_lyjf04-1		interactinfo_173	okmenu_173	1236		
+176	WorldNpc02205	9	DialogID_176	tibook_CS_tm_fgzyc02-1|tibook_CS_tm_fgzyc04-1		interactinfo_176	okmenu_176	1239		
+177	WorldNpc02205	9	DialogID_177	tibook_CS_tm_fgzyc03-1		interactinfo_177	okmenu_177	1240		
+180	WorldNpc02206	9	DialogID_180	tibook_CS_tm_mhb02-1|tibook_CS_tm_mhb03-1		interactinfo_180	okmenu_180	1243		
+181	WorldNpc02206	9	DialogID_181	tibook_CS_tm_mhb05-1		interactinfo_181	okmenu_181	1244		
+182	WorldNpc02206	9	DialogID_182	tibook_CS_tm_mhb06-1		interactinfo_182	okmenu_182	1245		
+506	WorldNpc02202	9	DialogID_506	tibook_CS_tm_jsc01-1|tibook_CS_tm_jsc04-1		interactinfo_506	okmenu_506	1406		
+507	WorldNpc02202	9	DialogID_507	tibook_CS_tm_jsc06-1		interactinfo_507	okmenu_507	1407		
+508	WorldNpc02202	9	DialogID_508	tibook_CS_tm_jsc02-1|tibook_CS_tm_jsc05-1		interactinfo_508	okmenu_508	1408		
+184	WorldNpc00211	12	DialogID_184	tibook_CS_sl_wtgf02-1		interactinfo_184	okmenu_184	1247		
+185	WorldNpc00211	12	DialogID_185	tibook_CS_sl_wtgf06-1		interactinfo_185	okmenu_185	1248		
+186	WorldNpc00211	12	DialogID_186	tibook_CS_sl_wtgf03-1		interactinfo_186	okmenu_186	1249		
+187	WorldNpc00202	12	DialogID_187	tibook_CS_sl_djgq02-1|tibook_CS_sl_djgq07-1		interactinfo_187	okmenu_187	1250		
+188	WorldNpc00202	12	DialogID_188	tibook_CS_sl_djgq05-1|tibook_CS_sl_djgq08-1		interactinfo_188	okmenu_188	1251		
+189	WorldNpc00202	12	DialogID_189	tibook_CS_sl_djgq06-1		interactinfo_189	okmenu_189	1252		
+190	WorldNpc00202	12	DialogID_190	tibook_CS_sl_djgq03-1|tibook_CS_sl_djgq04-1		interactinfo_190	okmenu_190	1253		
+510	WorldNpc00210	12	DialogID_510	tibook_CS_sl_dmgf04-1|tibook_CS_sl_dmgf05-1		interactinfo_510	okmenu_510	1410		
+511	WorldNpc00210	12	DialogID_511	tibook_CS_sl_dmgf01-1		interactinfo_511	okmenu_511	1411		
+192	WorldNpc02629	10	DialogID_192	tibook_CS_em_yxc03-1|tibook_CS_em_yxc04-1		interactinfo_192	okmenu_192	1255		
+193	WorldNpc02629	10	DialogID_193	tibook_CS_em_yxc05-1		interactinfo_193	okmenu_193	1256		
+195	WorldNpc02605	10	DialogID_195	tibook_CS_em_jdmz01-1|tibook_CS_em_jdmz03-1		interactinfo_195	okmenu_195	1258		
+196	WorldNpc02605	10	DialogID_196	tibook_CS_em_jdmz04-1|tibook_CS_em_jdmz05-1		interactinfo_196	okmenu_196	1259		
+197	WorldNpc02605	10	DialogID_197	tibook_CS_em_jdmz06-1		interactinfo_197	okmenu_197	1260		
+200	WorldNpc03807	8	DialogID_200	tibook_CS_jl_shuangci03-1|tibook_CS_jl_shuangci08-1		interactinfo_200	okmenu_200	1263		
+201	WorldNpc03807	8	DialogID_201	tibook_CS_jl_shuangci04-1|tibook_CS_jl_shuangci06-1		interactinfo_201	okmenu_201	1264		
+202	WorldNpc03807	8	DialogID_202	tibook_CS_jl_shuangci02-1|tibook_CS_jl_shuangci07-1		interactinfo_202	okmenu_202	1265		
+204	WorldNpc03808	8	DialogID_204	tibook_CS_jl_zfd02-1		interactinfo_204	okmenu_204	1267		
+205	WorldNpc03808	8	DialogID_205	tibook_CS_jl_zfd03-1|tibook_CS_jl_zfd04-1		interactinfo_205	okmenu_205	1268		
+208	WorldNpc04104	5	DialogID_208	tibook_CS_jy_shd02-1|tibook_CS_jy_shd04-1		interactinfo_208	okmenu_208	1271		
+216	WorldNpc03012	6	DialogID_216	tibook_CS_gb_lsbf02-1|tibook_CS_gb_lsbf05-1		interactinfo_216	okmenu_216	1279		
+217	WorldNpc03012	6	DialogID_217	tibook_CS_gb_lsbf03-1		interactinfo_217	okmenu_217	1280		
+219	WorldNpc03005	6	DialogID_219	tibook_CS_gb_lhz02-1|tibook_CS_gb_lhz05-1		interactinfo_219	okmenu_219	1282		
+220	WorldNpc03005	6	DialogID_220	tibook_CS_gb_lhz03-1		interactinfo_220	okmenu_220	1283		
+221	WorldNpc03005	6	DialogID_221	tibook_CS_gb_lhz01-1|tibook_CS_gb_lhz04-1		interactinfo_221	okmenu_221	1284		
+526	WorldNpc03004	6	DialogID_526	tibook_CS_gb_ksbf05-1		interactinfo_526	okmenu_526	1426		
+527	WorldNpc03004	6	DialogID_527	tibook_CS_gb_ksbf01-1|tibook_CS_gb_ksbf04-1		interactinfo_527	okmenu_527	1427		
+224	WorldNpc03315	7	DialogID_224	tibook_CS_jz_wyjf05-1		interactinfo_224	okmenu_224	1287		
+225	WorldNpc03315	7	DialogID_225	tibook_CS_jz_wyjf06-1		interactinfo_225	okmenu_225	1288		
+227	WorldNpc03316	7	DialogID_227	tibook_CS_jz_xytf01-1|tibook_CS_jz_xytf02-1		interactinfo_227	okmenu_227	1290		
+228	WorldNpc03316	7	DialogID_228	tibook_CS_jz_xytf03-1|tibook_CS_jz_xytf05-1		interactinfo_228	okmenu_228	1291		
+229	WorldNpc03316	7	DialogID_229	tibook_CS_jz_xytf04-1		interactinfo_229	okmenu_229	1292		
+530	WorldNpc03308	7	DialogID_530	tibook_CS_jz_lyfh01-1|tibook_CS_jz_lyfh07-1		interactinfo_530	okmenu_530	1430		
+531	WorldNpc03308	7	DialogID_531	tibook_CS_jz_lyfh04-1|tibook_CS_jz_lyfh08-1		interactinfo_531	okmenu_531	1431		
+532	WorldNpc03308	7	DialogID_532	tibook_CS_jz_lyfh03-1|tibook_CS_jz_lyfh06-1		interactinfo_532	okmenu_532	1432		
+514	WorldNpc02634	10	DialogID_514	tibook_CS_em_lbc02-1|tibook_CS_em_lbc08-1		interactinfo_514	okmenu_514	1414		
+515	WorldNpc02634	10	DialogID_515	tibook_CS_em_lbc04-1|tibook_CS_em_lbc07-1		interactinfo_515	okmenu_515	1415		
+516	WorldNpc02634	10	DialogID_516	tibook_CS_em_lbc05-1|tibook_CS_em_lbc06-1		interactinfo_516	okmenu_516	1416		
+174	WorldNpc04405	11	DialogID_174	tibook_CS_wd_lyjf06-1|tibook_CS_wd_lyjf07-1		interactinfo_174	okmenu_174	1237		
+178	WorldNpc02205	9	DialogID_178	tibook_CS_tm_fgzyc06-1|tibook_CS_tm_fgzyc07-1		interactinfo_178	okmenu_178	1241		
+512	WorldNpc00210	12	DialogID_512	tibook_CS_sl_dmgf06-1|tibook_CS_sl_dmgf07-1		interactinfo_512	okmenu_512	1412		
+194	WorldNpc02629	10	DialogID_194	tibook_CS_em_yxc06-1|tibook_CS_em_yxc07-1		interactinfo_194	okmenu_194	1257		
+198	WorldNpc02605	10	DialogID_198	tibook_CS_em_jdmz02-1|tibook_CS_em_jdmz07-1		interactinfo_198	okmenu_198	1261		
+528	WorldNpc03004	6	DialogID_528	tibook_CS_gb_ksbf06-1|tibook_CS_gb_ksbf07-1		interactinfo_528	okmenu_528	1428		
+226	WorldNpc03315	7	DialogID_226	tibook_CS_jz_wyjf01-1|tibook_CS_jz_wyjf07-1		interactinfo_226	okmenu_226	1289		
+230	WorldNpc03316	7	DialogID_230	tibook_CS_jz_xytf06-1|tibook_CS_jz_xytf07-1		interactinfo_230	okmenu_230	1293		
+171	WorldNpc04405	11	DialogID_171	tibook_CS_wd_lyjf01-1|tibook_CS_wd_lyjf02-1|tibook_CS_wd_lyjf03-1|ssword_wd_10101-1		interactinfo_171	okmenu_171	1234		
+175	WorldNpc02205	9	DialogID_175	tibook_CS_tm_fgzyc01-1|tibook_CS_tm_fgzyc05-1|thorn_tm_10101-1		interactinfo_175	okmenu_175	1238		
+179	WorldNpc02206	9	DialogID_179	tibook_CS_tm_mhb01-1|tibook_CS_tm_mhb04-1|hw_fb_10401-500		interactinfo_179	okmenu_179	1242		
+505	WorldNpc02202	9	DialogID_505	tibook_CS_tm_jsc03-1|tibook_CS_tm_jsc07-1|thorn_tm_10101-1		interactinfo_505	okmenu_505	1405		
+183	WorldNpc00211	12	DialogID_183	tibook_CS_sl_wtgf01-1|tibook_CS_sl_wtgf04-1|tibook_CS_sl_wtgf05-1|lstuff_sl_10101-1		interactinfo_183	okmenu_183	1246		
+509	WorldNpc00210	12	DialogID_509	tibook_CS_sl_dmgf02-1|tibook_CS_sl_dmgf03-1|lstuff_sl_10101-1		interactinfo_509	okmenu_509	1409		
+191	WorldNpc02629	10	DialogID_191	tibook_CS_em_yxc01-1|tibook_CS_em_yxc02-1|thorn_em_10101-1		interactinfo_191	okmenu_191	1254		
+513	WorldNpc02634	10	DialogID_513	tibook_CS_em_lbc01-1|tibook_CS_em_lbc03-1|sthorn_em_10101-1		interactinfo_513	okmenu_513	1413		
+215	WorldNpc03012	6	DialogID_215	tibook_CS_gb_lsbf01-1|tibook_CS_gb_lsbf04-1|cosh_gb_10101-1		interactinfo_215	okmenu_215	1278		
+525	WorldNpc03004	6	DialogID_525	tibook_CS_gb_ksbf02-1|tibook_CS_gb_ksbf03-1|cosh_gb_10101-1		interactinfo_525	okmenu_525	1425		
+223	WorldNpc03315	7	DialogID_223	tibook_CS_jz_wyjf03-1|tibook_CS_jz_wyjf02-1|tibook_CS_jz_wyjf04-1|ssword_jz_10101-1		interactinfo_223	okmenu_223	1286		
+529	WorldNpc03308	7	DialogID_529	tibook_CS_jz_lyfh02-1|tibook_CS_jz_lyfh05-1|sword_jz_10101-1		interactinfo_529	okmenu_529	1429		
+222	WorldNpc03005	6	DialogID_222	tibook_CS_gb_lhz06-1|tibook_CS_gb_lhz07-1|tibook_CS_gb_lhz08-1		interactinfo_222	okmenu_222	1285		
+218	WorldNpc03012	6	DialogID_218	tibook_CS_gb_lsbf06-1|tibook_CS_gb_lsbf07-1		interactinfo_218	okmenu_218	1281		
+166	WorldNpc04404	11	DialogID_166	tibook_CS_wd_tjj08-1|tibook_CS_wd_tjj04-1|sword_wd_10101-1		interactinfo_166	okmenu_166	1230		
+167	WorldNpc04404	11	DialogID_167	tibook_CS_wd_tjj05-1|tibook_CS_wd_tjj06-1|tibook_CS_wd_tjj03-1		interactinfo_167	okmenu_167	1231		
+168	WorldNpc04404	11	DialogID_168	tibook_CS_wd_tjj01-1		interactinfo_168	okmenu_168	1232		
+170	WorldNpc04404	11	DialogID_170	tibook_CS_wd_tjj07-1|tibook_CS_wd_tjj02-1|tibook_CS_wd_tjj09-1		interactinfo_170	okmenu_170	1233		
+501	WorldNpc04430	11	DialogID_501	tibook_CS_wd_qfjf05-1|tibook_CS_wd_qfjf02-1|sword_wd_10101-1		interactinfo_501	okmenu_501	1401		
+502	WorldNpc04430	11	DialogID_502	tibook_CS_wd_qfjf04-1|tibook_CS_wd_qfjf01-1		interactinfo_502	okmenu_502	1402		
+503	WorldNpc04430	11	DialogID_503	tibook_CS_wd_qfjf06-1		interactinfo_503	okmenu_503	1403		
+504	WorldNpc04430	11	DialogID_504	tibook_CS_wd_qfjf03-1|tibook_CS_wd_qfjf07-1		interactinfo_504	okmenu_504	1404		
+203	WorldNpc03808	8	DialogID_203	tibook_CS_jl_zfd01-1|tibook_CS_jl_zfd05-1|sblade_jl_10101-1		interactinfo_203	okmenu_203	1266		
+517	WorldNpc03811	8	DialogID_517	tibook_CS_jl_fgz04-1|tibook_CS_jl_fgz03-1		interactinfo_517	okmenu_517	1417		
+518	WorldNpc03811	8	DialogID_518	tibook_CS_jl_fgz01-1|tibook_CS_jl_fgz02-1		interactinfo_518	okmenu_518	1418		
+519	WorldNpc03811	8	DialogID_519	tibook_CS_jl_fgz05-1|tibook_CS_jl_fgz06-1		interactinfo_519	okmenu_519	1419		
+520	WorldNpc03811	8	DialogID_520	tibook_CS_jl_fgz07-1|tibook_CS_jl_fgz08-1		interactinfo_520	okmenu_520	1420		
+207	WorldNpc04104	5	DialogID_207	tibook_CS_jy_shd03-1|tibook_CS_jy_shd05-1|blade_jy_10101-1		interactinfo_207	okmenu_207	1270		
+210	WorldNpc04104	5	DialogID_210	tibook_CS_jy_shd06-1		interactinfo_210	okmenu_210	1273		
+211	WorldNpc04103	5	DialogID_211	tibook_CS_jy_yzq01-1|tibook_CS_jy_yzq02-1		interactinfo_211	okmenu_211	1274		
+214	WorldNpc04103	5	DialogID_214	tibook_CS_jy_yzq03-1|tibook_CS_jy_yzq05-1		interactinfo_214	okmenu_214	1277		
+522	WorldNpc04201	5	DialogID_522	tibook_CS_jh_dldm06-1|tibook_CS_jh_dldm02-1		interactinfo_522	okmenu_522	1422		
+523	WorldNpc04201	5	DialogID_523	tibook_CS_jh_dldm07-1		interactinfo_523	okmenu_523	1423		
+524	WorldNpc04201	5	DialogID_524	tibook_CS_jh_dldm04-1|tibook_CS_jh_dldm03-1		interactinfo_524	okmenu_524	1424		
+199	WorldNpc03807	8	DialogID_199	tibook_CS_jl_shuangci01-1|tibook_CS_jl_shuangci05-1|sthorn_jl_10101-1		interactinfo_199	okmenu_199	1262		
+206	WorldNpc03808	8	DialogID_206	tibook_CS_jl_zfd06-1|tibook_CS_jl_zfd07-1		interactinfo_206	okmenu_206	1269		
+209	WorldNpc04104	5	DialogID_209	tibook_CS_jy_shd01-1|tibook_CS_jy_shd07-1		interactinfo_209	okmenu_209	1272		
+521	WorldNpc04201	5	DialogID_521	tibook_CS_jh_dldm05-1|tibook_CS_jh_dldm01-1|hw_claws_10101-1		interactinfo_521	okmenu_521	1421		
+213	WorldNpc04103	5	DialogID_213	tibook_CS_jy_yzq06-1|tibook_CS_jy_yzq08-1		interactinfo_213	okmenu_213	1276		
+212	WorldNpc04103	5	DialogID_212	tibook_CS_jy_yzq04-1|tibook_CS_jy_yzq07-1		interactinfo_212	okmenu_212	1275		
+149	spynpc_tm	9	DialogID_149			interactinfo_149	okmenu_149			
+150	spynpc_em	10	DialogID_150			interactinfo_150	okmenu_150			
+151	spynpc_wd	11	DialogID_151			interactinfo_151	okmenu_151			
+152	spynpc_sl	12	DialogID_152			interactinfo_152	okmenu_152			
+153	spynpc_tm	9	DialogID_153			interactinfo_153	okmenu_153			
+154	spynpc_em	10	DialogID_154			interactinfo_154	okmenu_154			
+155	spynpc_wd	11	DialogID_155			interactinfo_155	okmenu_155			
+157	spynpc_cd	17	DialogID_157			interactinfo_157	okmenu_157			
+156	spynpc_sl	12	DialogID_156			interactinfo_156	okmenu_156			
+162	spynpc_sz	12	DialogID_162			interactinfo_162	okmenu_162			
+533	FuncNpc00003	1	DialogID_533	book_zs_suicide-1		interactinfo_533	okmenu_533	1001		
+534	FuncNpc00058	3	DialogID_533	book_zs_suicide-1		interactinfo_533	okmenu_533	1005		
+535	FuncNpc00609	17	DialogID_533	book_zs_suicide-1		interactinfo_533	okmenu_533	1010		
+536	WorldNpc10616	4	DialogID_533	book_zs_suicide-1		interactinfo_533	okmenu_533	1015		
+537	WorldNpc10005	16	DialogID_533	book_zs_suicide-1		interactinfo_533	okmenu_533			
+538	Npc_yd_wg_jx_sl01	288	DialogID_538	ng_tbook_sl_001-1		interactinfo_538	okmenu_538	1151		
+539	Npc_yd_wg_jx_wd01	287	DialogID_539	ng_tbook_wd_001-1		interactinfo_539	okmenu_539	1152		
+451	Npc_yd_wg_jx_wd01	287	DialogID_451			interactinfo_451	okmenu_451	1652		
+452	Npc_yd_wg_jx_wd01	287	DialogID_452			interactinfo_452	okmenu_452	1653		
+540	Npc_yd_wg_jx_em01	289	DialogID_540	ng_tbook_em_001-1		interactinfo_540	okmenu_540	1153		
+541	Npc_yd_wg_jx_gb01	290	DialogID_541	ng_tbook_gb_001-1		interactinfo_541	okmenu_541	1154		
+542	Npc_yd_wg_jx_tm01	291	DialogID_542	ng_tbook_tm_001-1		interactinfo_542	okmenu_542	1155		
+543	Npc_yd_wg_jx_jy01	293	DialogID_543	ng_tbook_jy_001-1		interactinfo_543	okmenu_543	1156		
+544	Npc_yd_wg_jx_jl01	294	DialogID_544	ng_tbook_jl_001-1		interactinfo_544	okmenu_544	1157		
+545	Npc_yd_wg_jx_jz01	292	DialogID_545	ng_tbook_jz_001-1		interactinfo_545	okmenu_545	1158		
+112	anqiyindao002	3	DialogID_112	hw_fb_rw_01001-60		interactinfo_112	okmenu_112	1043		
+113	anqiyindao002	3	DialogID_113	book_hw_normal-1		interactinfo_113	okmenu_113	1043		
+546	WorldNpc08965	13	DialogID_546			interactinfo_546	okmenu_546			
+554	cd483	17	DialogID_554			interactinfo_554	okmenu_554			
+552	ly735	16	DialogID_552			interactinfo_552	okmenu_552			
+550	jl607	15	DialogID_550			interactinfo_550	okmenu_550			
+548	WorldNpc01246	14	DialogID_548			interactinfo_548	okmenu_548			
+421	bjyd011	13	DialogID_421			interactinfo_421		1476		
+424	bjyd011	17	DialogID_424			interactinfo_424		1479		
+423	bjyd011	16	DialogID_423			interactinfo_423		1478		
+422	bjyd011	14	DialogID_422			interactinfo_422		1477		
+435	bjyd012	13				interactinfo_435		1484		
+436	bjyd012	14				interactinfo_436		1485		
+437	bjyd012	16				interactinfo_437		1486		
+438	bjyd012	17				interactinfo_438		1487		
+439	FuncNpc00104	13	DialogID_439			interactinfo_439	okmenu_439	1484		
+440	WorldNpc10316	14	DialogID_440			interactinfo_440	okmenu_440	1485		
+441	FuncNpc00604	16	DialogID_441			interactinfo_441	okmenu_441	1486		
+442	WorldNpc08410	17	DialogID_442			interactinfo_442	okmenu_442	1487		
+450	cd483	17	DialogID_450		bj_yd03	interactinfo_450	okmenu_450	1491		
+447	WorldNpc08965	13	DialogID_447		bj_yd03	interactinfo_447	okmenu_447	1488		
+449	ly735	16	DialogID_449		bj_yd03	interactinfo_449	okmenu_449	1490		
+448	WorldNpc01246	14	DialogID_448		bj_yd03	interactinfo_448	okmenu_448	1489		
+555	event_japan_task01		DialogID_555		toxicant_1001-5|jiu_10003-5|buliao_1002-5|tre_1001-5|drug_1001-5	interactinfo_555	okmenu_555			
+302	spynpc_sl	12	DialogID_302			interactinfo_302	okmenu_302	1435		
+371	spynpc_sl	12	DialogID_371			interactinfo_371	okmenu_371	1443		
+305	spynpc_wd	11	DialogID_305			interactinfo_305	okmenu_305	1436		
+308	spynpc_em	10	DialogID_308			interactinfo_308	okmenu_308	1437		
+311	spynpc_gb	6	DialogID_311			interactinfo_311	okmenu_311	1438		
+314	spynpc_jyw	5	DialogID_314			interactinfo_314	okmenu_314	1439		
+317	spynpc_jlg	8	DialogID_317			interactinfo_317	okmenu_317	1440		
+320	spynpc_jzt	7	DialogID_320			interactinfo_320	okmenu_320	1441		
+323	spynpc_tm	9	DialogID_323			interactinfo_323	okmenu_323	1442		
+571	EventNpc1211	1	DialogID_571			interactinfo_571	okmenu_571	1211		
+572	EventNpc1212	3	DialogID_572			interactinfo_572	okmenu_572	1212		
+573	EventNpc1213	17	DialogID_573			interactinfo_573	okmenu_573	1213		
+470	booknpc_sl	12	DialogID_470			interactinfo_470	okmenu_470			
+381	booknpc_sl	12	DialogID_381			interactinfo_381	okmenu_381	1467		
+372	spynpc_wd	11	DialogID_372			interactinfo_372	okmenu_372	1444		
+373	spynpc_em	10	DialogID_373			interactinfo_373	okmenu_373	1445		
+374	spynpc_gb	6	DialogID_374			interactinfo_374	okmenu_374	1446		
+375	spynpc_jyw	5	DialogID_375			interactinfo_375	okmenu_375	1447		
+376	spynpc_jlg	8	DialogID_376			interactinfo_376	okmenu_376	1448		
+377	spynpc_jzt	7	DialogID_377			interactinfo_377	okmenu_377	1449		
+378	spynpc_tm	9	DialogID_378			interactinfo_378	okmenu_378	1450		
+348	booknpc_gb	6	DialogID_348			interactinfo_348	okmenu_348			
+574	EventNpc1214	4	DialogID_574			interactinfo_574	okmenu_574	1214		
+391	booknpc_sl	12	DialogID_391		book_yd	interactinfo_391	okmenu_391	1451		
+382	booknpc_wd	11	DialogID_382			interactinfo_382	okmenu_382	1468		
+383	booknpc_em	10	DialogID_383			interactinfo_383	okmenu_383	1469		
+385	booknpc_jyw	5	DialogID_385			interactinfo_385	okmenu_385	1471		
+386	booknpc_jlg	8	DialogID_386			interactinfo_386	okmenu_386	1472		
+387	booknpc_jzt	7	DialogID_387			interactinfo_387	okmenu_387	1473		
+388	booknpc_tm	9	DialogID_388			interactinfo_388	okmenu_388	1474		
+392	booknpc_wd	11	DialogID_392		book_yd	interactinfo_392	okmenu_392	1452		
+393	booknpc_em	10	DialogID_393		book_yd	interactinfo_393	okmenu_393	1453		
+395	booknpc_jyw	5	DialogID_395		book_yd	interactinfo_395	okmenu_395	1455		
+396	booknpc_jlg	8	DialogID_396		book_yd	interactinfo_396	okmenu_396	1456		
+397	booknpc_jzt	7	DialogID_397		book_yd	interactinfo_397	okmenu_397	1457		
+398	booknpc_tm	9	DialogID_398		book_yd	interactinfo_398	okmenu_398	1458		
+384	booknpc_gb	6	DialogID_384			interactinfo_384	okmenu_384	1470		
+394	booknpc_gb	6	DialogID_394	book_yd		interactinfo_394	okmenu_394	1454		
+577	FuncNpc00003	1	DialogID_577			interactinfo_577	okmenu_577	1101		
+578	FuncNpc00058	3	DialogID_578			interactinfo_578	okmenu_578	1102		
+579	WorldNpc10616	4	DialogID_579			interactinfo_579	okmenu_579	1103		
+580	FuncNpc00609	17	DialogID_580			interactinfo_580	okmenu_580	1104		
+581	FuncNpc00003	1	DialogID_581			interactinfo_581	okmenu_581	1105		
+582	FuncNpc00003	1	DialogID_582	zhenqi_item_005-1		interactinfo_582	okmenu_582	1105		
+584	WorldNpc10616	4	DialogID_584			interactinfo_584	okmenu_584	1107		
+585	WorldNpc10616	4	DialogID_585	zhenqi_item_005-1		interactinfo_585	okmenu_585	1107		
+587	YdNpc_place1	3	DialogID_587			interactinfo_587	okmenu_587	1106		
+588	YdNpc_place1	3	DialogID_588	zhenqi_item_005-1		interactinfo_588	okmenu_588	1106		
+590	FuncNpc00609	17	DialogID_590			interactinfo_590	okmenu_590	1108		
+591	FuncNpc00609	17	DialogID_591	zhenqi_item_005-1		interactinfo_591	okmenu_591	1108		
+593	FuncNpc00003	1	DialogID_593	qizhen_0101-1		interactinfo_593	okmenu_593	1109		
+594	FuncNpc00003	1	DialogID_594	tdrop_reasure_bwyd-1		interactinfo_594	okmenu_594	1575		
+595	YdNpc_place1	3	DialogID_595	qizhen_0101-1		interactinfo_595	okmenu_595	1110		
+596	YdNpc_place1	3	DialogID_596	tdrop_reasure_bwyd-1		interactinfo_596	okmenu_596	1576		
+597	WorldNpc10616	4	DialogID_597	qizhen_0101-1		interactinfo_597	okmenu_597	1111		
+598	WorldNpc10616	4	DialogID_598	tdrop_reasure_bwyd-1		interactinfo_598	okmenu_598	1577		
+599	FuncNpc00609	17	DialogID_599	qizhen_0101-1		interactinfo_599	okmenu_599	1112		
+231	WorldNpc02604	10	DialogID_231			interactinfo_231	okmenu_231	1113		
+232	WorldNpc03305	7	DialogID_232			interactinfo_232	okmenu_232	1117		
+233	WorldNpc03816	8	DialogID_233			interactinfo_233	okmenu_233	1383		
+234	WorldNpc02201	9	DialogID_234			interactinfo_234	okmenu_234	1387		
+583	WorldNpc00183	1	DialogID_583			interactinfo_583	okmenu_583	1105		
+589	WorldNpc00184	3	DialogID_589			interactinfo_589	okmenu_589	1106		
+586	WorldNpc00185	4	DialogID_586			interactinfo_586	okmenu_586	1107		
+592	WorldNpc00186	17	DialogID_592			interactinfo_592	okmenu_592	1108		
+235	worldnpc04101	5	DialogID_235			interactinfo_235	okmenu_235	1563		
+238	YdNpc_place1	3	DialogID_238	VIP_CARD_002-1		interactinfo_238	okmenu_238	1568		
+239	YdNpc_place1	3	DialogID_239			interactinfo_239	okmenu_239	1568		
+267	FuncNpc00609	17	DialogID_267	tdrop_reasure_bwyd-1		interactinfo_267	okmenu_267	1578		
+556	funnpcborn003031		DialogID_556			interactinfo_556	okmenu_556	1340		
+565	funnpcborn003033		DialogID_565			interactinfo_565	okmenu_565	1344		
+567	funnpcborn003033		DialogID_567			interactinfo_567	okmenu_567	1344		
+562	funnpcborn003032		DialogID_562	book_zs_default_01-1		interactinfo_562	okmenu_562	1342		
+570	funnpcborn003032		DialogID_570	book_hw_normal-1		interactinfo_570	okmenu_570	1342		
+564	funnpcborn003033		DialogID_564	book_qinggong_4-1		interactinfo_564	okmenu_564	1344		
+558	funnpcborn003035		DialogID_558	tbook_CS_jh_cqgf03-1		interactinfo_558	okmenu_558	1347		
+559	funnpcborn003035		DialogID_559	tbook_CS_jh_cqgf02-1		interactinfo_559	okmenu_559	1347		
+560	funnpcborn003035		DialogID_560	tbook_CS_jh_cqgf05-1		interactinfo_560	okmenu_560	1347		
+561	funnpcborn003035		DialogID_561			interactinfo_561	okmenu_561	1347		
+575	funnpcborn003042		DialogID_575	useitem_museborn_2-1		interactinfo_575	okmenu_575	1343		
+566	funnpcborn003033		DialogID_566	ng_tbook_jh_001-1	item_museborn_1-1	interactinfo_566	okmenu_566	1344		
+568	EventNpcBorn003003					interactinfo_568		1346		
+576	GatherBorn003001		DialogID_576	item_museborn_1-1		interactinfo_576	okmenu_576	1344		
+270	funnpcborn003040	300	DialogID_270			interactinfo_270	okmenu_270	1348		
+272	funnpcborn003044	300	DialogID_272			interactinfo_272	okmenu_272	1349		
+271	funnpcborn003044	300	DialogID_271	zhenqi_item_005-4		interactinfo_271	okmenu_271	1349		
+269	funnpcborn003044	300	DialogID_269			interactinfo_269	okmenu_269	1349		
+273	funnpcborn003045	300	DialogID_273	sd_027-1		interactinfo_273	okmenu_273	1339		
+471	spynpc_sl	12	DialogID_471			interactinfo_471	okmenu_471	1731		
+487	booknpc_sl	12	DialogID_487		bookyd_ds	interactinfo_487	okmenu_487	1755		
+486	lurknpc_tm01	9	DialogID_486			interactinfo_486	okmenu_486	1741		
+479	lurknpc_sl01	12	DialogID_479			interactinfo_479	okmenu_479	1740		
+277	spynpc_sl	12	DialogID_277			interactinfo_277	okmenu_277	1739		
+278	spynpc_wd	11	DialogID_278			interactinfo_278	okmenu_278	1740		
+480	lurknpc_wd03	11	DialogID_480			interactinfo_480	okmenu_480	1739		
+490	WorldNpc08965	13	DialogID_490			interactinfo_490	okmenu_490	1771		
+491	WorldNpc01246	14	DialogID_491			interactinfo_491	okmenu_491	1772		
+492	ly735	16	DialogID_492			interactinfo_492	okmenu_492	1773		
+493	cd483	17	DialogID_493			interactinfo_493	okmenu_493	1774		
+488	booknpc_wd	11	DialogID_488		bookyd_ds	interactinfo_488	okmenu_488	1756		
+489	booknpc_em	10	DialogID_489		bookyd_ds	interactinfo_489	okmenu_489	1757		
+262	booknpc_tm	9	DialogID_262		bookyd_ds	interactinfo_262	okmenu_262			
+290	booknpc_jlg	8	DialogID_290		bookyd_hs	interactinfo_290	okmenu_290	"17,681,768"		
+291	booknpc_jzt	7	DialogID_291		bookyd_hs	interactinfo_291	okmenu_291	"17,691,769"		
+292	booknpc_tm	9	DialogID_292		bookyd_hs	interactinfo_292	okmenu_292	"17,701,770"		
+289	booknpc_jyw	5	DialogID_289		bookyd_hs	interactinfo_289	okmenu_289	"17,671,767"		
+288	booknpc_gb	6	DialogID_288		bookyd_hs	interactinfo_288	okmenu_288	"17,661,766"		
+287	booknpc_em	10	DialogID_287		bookyd_hs	interactinfo_287	okmenu_287	"17,651,765"		
+286	booknpc_wd	11	DialogID_286		bookyd_hs	interactinfo_286	okmenu_286	"17,641,764"		
+285	booknpc_sl	12	DialogID_285		bookyd_hs	interactinfo_285	okmenu_285	1763		
+482	lurknpc_gb01	6	DialogID_482			interactinfo_482	okmenu_482	1743		
+281	spynpc_jyw	5	DialogID_281			interactinfo_281	okmenu_281	1743		
+279	spynpc_em	10	DialogID_279			interactinfo_279	okmenu_279	1741		
+483	lurknpc_jyw01	5	DialogID_483			interactinfo_483	okmenu_483	1742		
+280	spynpc_gb	6	DialogID_280			interactinfo_280	okmenu_280	1742		
+283	spynpc_jzt	7	DialogID_283			interactinfo_283	okmenu_283	1745		
+481	lurknpc_em01	10	DialogID_481			interactinfo_481	okmenu_481	1746		
+284	spynpc_tm	9	DialogID_284			interactinfo_284	okmenu_284	1746		
+472	spynpc_wd	11	DialogID_472			interactinfo_472	okmenu_472	1732		
+473	spynpc_em	10	DialogID_473			interactinfo_473	okmenu_473	1733		
+474	spynpc_gb	6	DialogID_474			interactinfo_474	okmenu_474	1734		
+475	spynpc_jyw	5	DialogID_475			interactinfo_475	okmenu_475	1735		
+476	spynpc_jlg	8	DialogID_476			interactinfo_476	okmenu_476	1736		
+477	spynpc_jzt	7	DialogID_477			interactinfo_477	okmenu_477	1737		
+478	spynpc_tm	9	DialogID_478			interactinfo_478	okmenu_478	1738		
+351	ctnpc_wd	11	DialogID_351			interactinfo_351	okmenu_351			
+352	ctnpc_sl	12	DialogID_352			interactinfo_352	okmenu_352			
+353	ctnpc_tm	9	DialogID_353			interactinfo_353	okmenu_353			
+354	ctnpc_jyw	5	DialogID_354			interactinfo_354	okmenu_354			
+355	ctnpc_gb	6	DialogID_355			interactinfo_355	okmenu_355			
+356	ctnpc_jzt	7	DialogID_356			interactinfo_356	okmenu_356			
+358	ctnpc_em	10	DialogID_358			interactinfo_358	okmenu_358			
+257	booknpc_gb	6	DialogID_257		bookyd_ds	interactinfo_257	okmenu_257			
+258	booknpc_jyw	5	DialogID_258		bookyd_ds	interactinfo_258	okmenu_258			
+259	booknpc_jlg	8	DialogID_259		bookyd_ds	interactinfo_259	okmenu_259			
+261	booknpc_jzt	7	DialogID_261		bookyd_ds	interactinfo_261	okmenu_261			
+496	funnpcborn003044	300	DialogID_496	qizhen_0101-1		interactinfo_496	okmenu_496			
+330	Transschool07A	11	DialogID_330			interactinfo_330	okmenu_330			
+332	Transschool03A	7	DialogID_332			interactinfo_332	okmenu_332			
+333	Transschool05A	9	DialogID_333			interactinfo_333	okmenu_333			
+334	Transschool02A	6	DialogID_334			interactinfo_334	okmenu_334			
+335	Transschool04A	8	DialogID_335			interactinfo_335	okmenu_335			
+336	Transschool08A	12	DialogID_336			interactinfo_336	okmenu_336			
+337	Transschool06A	10	DialogID_337			interactinfo_337	okmenu_337			
+331	Transschool01A	5	DialogID_331			interactinfo_331	okmenu_331			
+108	WorldNpc00068	1	DialogID_108	tbook_zhenfa_jh_01-1		interactinfo_108	okmenu_108	1167		
+109	WorldNpc00068	1	DialogID_109	tbook_zf_jh_01_01-1		interactinfo_109	okmenu_109	1173		
+120	yyz093	3	DialogID_120	tbook_zhenfa_jh_01-1		interactinfo_120	okmenu_120	1168		
+125	yyz093	3	DialogID_125	tbook_zf_jh_01_01-1		interactinfo_125	okmenu_125	1174		
+121	WorldNpc09759	17	DialogID_121	tbook_zhenfa_jh_01-1		interactinfo_121	okmenu_121	1169		
+126	WorldNpc09759	17	DialogID_126	tbook_zf_jh_01_01-1		interactinfo_126	okmenu_126	1175		
+122	WorldNpc00961	4	DialogID_122	tbook_zhenfa_jh_01-1		interactinfo_122	okmenu_122	1170		
+127	WorldNpc00961	4	DialogID_127	tbook_zf_jh_01_01-1		interactinfo_127	okmenu_127	1176		
+402	WorldNpc04404	11	DialogID_402	tdrop_reasure_bwyd-1		interactinfo_402	okmenu_402	1221		
+403	WorldNpc00210	12	DialogID_403	tdrop_reasure_bwyd-1		interactinfo_403	okmenu_403	1222		
+404	WorldNpc02605	10	DialogID_404	tdrop_reasure_bwyd-1		interactinfo_404	okmenu_404	1223		
+405	WorldNpc03012	6	DialogID_405	tdrop_reasure_bwyd-1		interactinfo_405	okmenu_405	1224		
+406	WorldNpc02206	9	DialogID_406	tdrop_reasure_bwyd-1		interactinfo_406	okmenu_406	1225		
+407	WorldNpc03316	7	DialogID_407	tdrop_reasure_bwyd-1		interactinfo_407	okmenu_407	1226		
+408	WorldNpc04103	5	DialogID_408	tdrop_reasure_bwyd-1		interactinfo_408	okmenu_408	1227		
+409	WorldNpc03811	8	DialogID_409	tdrop_reasure_bwyd-1		interactinfo_409	okmenu_409	1228		
+338	hbyd001	13	DialogID_338			interactinfo_338	okmenu_338			
+339	hbyd002	14	DialogID_339			interactinfo_339	okmenu_339			
+340	hbyd004	16	DialogID_340			interactinfo_340	okmenu_340			
+341	hbyd005	17	DialogID_341			interactinfo_341	okmenu_341			
+350	Event_wmp_2ndy_1775	15				interactinfo_350		1775		buf_wmp_2ndy_gmdt
+410	Event_wmp_2ndy_1776z	15				interactinfo_410		1776		
+411	Event_wmp_2ndy_j1776	15				interactinfo_411		1776		buf_wmp_2ndy_dfkq
+412	Event_wmp_2ndy_1777	15				interactinfo_412		1777		buf_wmp_2ndy_gmdt
+414	Event_wmp_2ndy_1778z	15				interactinfo_414		1778		
+415	Event_wmp_2ndy_j1778	15				interactinfo_415		1778		
+416	Event_wmp_2ndy_1779	15				interactinfo_416		1779		buf_wmp_2ndy_gmdt
+418	Event_wmp_2ndy_1780z	15				interactinfo_418		1780		
+419	Event_wmp_2ndy_j1780	15				interactinfo_419		1780		
+420	Event_wmp_2ndy_1781	15				interactinfo_420		1781		buf_wmp_2ndy_gmdt
+445	Event_wmp_2ndy_1782z	15				interactinfo_445		1782		
+446	Event_wmp_2ndy_j1782	15				interactinfo_446		1782		
+400	Event_wmp_2ndy_1776	15				interactinfo_400		1776		buf_wmp_2ndy_qwtm
+413	Event_wmp_2ndy_1778	15				interactinfo_413		1778		buf_wmp_2ndy_qwtm
+417	Event_wmp_2ndy_1780	15				interactinfo_417		1780		buf_wmp_2ndy_qwtm
+430	Event_wmp_2ndy_1782	15				interactinfo_430		1782		buf_wmp_2ndy_qwtm
+282	spynpc_jlg	8	DialogID_282			interactinfo_282	okmenu_282	1744		
+485	lurknpc_jzt01	7	DialogID_485			interactinfo_485	okmenu_485	1744		
+357	ctnpc_jlg	8	DialogID_357			interactinfo_357	okmenu_357	1745		
+484	lurknpc_jlg01	8	DialogID_484			interactinfo_484	okmenu_484	1745		
+460	Event_wmp_2ndy_1776j	15				interactinfo_460		1776		
+461	Event_wmp_2ndy_1778j	15				interactinfo_461		1778		
+462	Event_wmp_2ndy_1780j	15				interactinfo_462		1780		
+463	Event_wmp_2ndy_1782j	15				interactinfo_463		1782		
+453	Npc_yd_wg_jx_sl01	288	DialogID_453			interactinfo_453	okmenu_453	1662		
+454	Npc_yd_wg_jx_sl01	288	DialogID_454			interactinfo_454	okmenu_454	1663		
+455	Npc_yd_wg_jx_em01	289	DialogID_455			interactinfo_455	okmenu_455	1667		
+456	Npc_yd_wg_jx_em01	289	DialogID_456			interactinfo_456	okmenu_456	1668		
+457	Npc_yd_wg_jx_gb01	290	DialogID_457			interactinfo_457	okmenu_457	1672		
+458	Npc_yd_wg_jx_gb01	290	DialogID_458			interactinfo_458	okmenu_458	1673		
+459	Npc_yd_wg_jx_tm01	291	DialogID_459			interactinfo_459	okmenu_459	1677		
+464	Npc_yd_wg_jx_tm01	291	DialogID_464			interactinfo_464	okmenu_464	1678		
+465	Npc_yd_wg_jx_jz01	292	DialogID_465			interactinfo_465	okmenu_465	1682		
+466	Npc_yd_wg_jx_jz01	292	DialogID_466			interactinfo_466	okmenu_466	1683		
+467	Npc_yd_wg_jx_jy01	293	DialogID_467			interactinfo_467	okmenu_467	1687		
+468	Npc_yd_wg_jx_jy01	293	DialogID_468			interactinfo_468	okmenu_468	1688		
+497	Npc_yd_wg_jx_jl01	294	DialogID_497			interactinfo_497	okmenu_497	1692		
+498	Npc_yd_wg_jx_jl01	294	DialogID_498			interactinfo_498	okmenu_498	1693		
+342	xjz_021	17	DialogID_342		taskitem_wmp_xjz-1	interactinfo_342	okmenu_342	1332		
+343	WorldNpc100048	17	DialogID_343		taskitem_wmp_jzsj-1	interactinfo_343	okmenu_343	1333		
+344	wssz_132	6	DialogID_344		taskitem_wmp_wssz-1	interactinfo_344	okmenu_344	1334		
+139	funnpcborn003032		DialogID_139	hw_fb_rw_01003-60		interactinfo_139	okmenu_139	1342		
+499	home_wuxuexl_002_npc	435	DialogID_499			interactinfo_499	okmenu_499	1844		
+500	home_xiulian_yuchi_mu_gg	435	DialogID_500			interactinfo_500	okmenu_500	1844		
+399	home_xn	435	DialogID_399			interactinfo_399	okmenu_399	1844		
+293	Newtreasure001	14	DialogID_293			interactinfo_293	okmenu_293	1836		
+260	funnpcborn003037	300	DialogID_260			interactinfo_260	okmenu_260			

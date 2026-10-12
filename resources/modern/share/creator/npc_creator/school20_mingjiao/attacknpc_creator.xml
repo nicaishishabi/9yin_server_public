@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="526914F0445D4661A79D593B105631BE" x="184.452" y="93.060" z="89.992" radius="10.0" WakeupRange="10.0" ChaseRange="10.0" PatrolRange="10.0" SpringRange="10" TaskSubId="73164" TaskSubType="1" HateLink="1">
+            <item No="1" id="spynpcyd_xl" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="刺探NPC">
+                <position x="190.365" z="90.373" ay="-1" />
+                <position x="180.980" z="84.909" ay="-1" />
+                <position x="181.350" z="94.356" ay="-1" />
+            </item>
+        </creator>
+        <creator No="59C14C13325B4F9EA5842258D4F330C8" x="186.921" y="93.060" z="161.729" radius="10.0" WakeupRange="10.0" ChaseRange="10.0" PatrolRange="10.0" SpringRange="10" TaskSubId="73167" TaskSubType="2" HateLink="1">
+            <item No="1" id="lootnpcyd_hs" ay="-1" amount="1" refreshtime="10000" NotPositive="0" desc="夺书NPC" />
+        </creator>
+        <creator No="5AB3374FE01D41089A0AA6253BC2F109" x="101.140" y="46.659" z="-338.574" radius="5.0" WakeupRange="16.0" ChaseRange="30.0" PatrolRange="10.0" SpringRange="30" HateLink="1">
+            <item No="1" id="monm769001" ay="-1" amount="3" refreshtime="30000" desc="明教嗜武弟子">
+                <position x="103.327" z="-339.261" ay="-1" />
+                <position x="98.210" z="-339.131" ay="-1" />
+                <position x="101.965" z="-335.240" ay="-1" />
+            </item>
+        </creator>
+        <creator No="EE59F4C0A59948F7A0F1DAB04CDD0EBC" x="103.012" y="46.433" z="-353.074" radius="5.0" WakeupRange="16.0" ChaseRange="30.0" PatrolRange="10.0" SpringRange="30" HateLink="1">
+            <item No="1" id="monm769001" ay="-1" amount="3" refreshtime="30000" desc="明教嗜武弟子">
+                <position x="105.346" z="-353.066" ay="-1" />
+                <position x="100.335" z="-352.959" ay="-1" />
+                <position x="104.002" z="-350.037" ay="-1" />
+            </item>
+        </creator>
+        <creator No="CB220E5A3752447791095047F6A11439" x="92.552" y="46.196" z="-365.239" radius="5.0" WakeupRange="16.0" ChaseRange="30.0" PatrolRange="10.0" SpringRange="30" HateLink="1">
+            <item No="1" id="monm769001" ay="-1" amount="3" refreshtime="30000" desc="明教嗜武弟子">
+                <position x="91.487" z="-367.869" ay="-1" />
+                <position x="95.296" z="-364.741" ay="-1" />
+                <position x="91.341" z="-362.314" ay="-1" />
+            </item>
+        </creator>
+        <creator No="B97851D0DA624E9496E15719E428C86E" x="91.653" y="48.564" z="-352.419" radius="5.0" WakeupRange="16.0" ChaseRange="30.0" PatrolRange="10.0" SpringRange="30" HateLink="1">
+            <item No="1" id="monm769001" ay="-1" amount="3" refreshtime="30000" desc="明教嗜武弟子">
+                <position x="89.759" z="-354.352" ay="-1" />
+                <position x="92.880" z="-355.433" ay="-1" />
+                <position x="92.968" z="-349.933" ay="-1" />
+            </item>
+        </creator>
+        <creator No="06DE5E8BA4D14C71A7D317B5342C776C" x="93.824" y="45.717" z="-382.313" radius="5.0" WakeupRange="16.0" ChaseRange="30.0" PatrolRange="10.0" SpringRange="30" HateLink="1">
+            <item No="1" id="monm769001" ay="-1" amount="3" refreshtime="30000" desc="明教嗜武弟子">
+                <position x="90.846" z="-383.266" ay="-1" />
+                <position x="95.716" z="-386.130" ay="-1" />
+                <position x="95.123" z="-379.119" ay="-1" />
+            </item>
+        </creator>
+        <creator No="3AC9F07B5AB44FFC9065A7FD3FC2FB4F" x="138.006" y="42.654" z="-370.841" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="monm769001" ay="-1" amount="3" refreshtime="30000" desc="明教嗜武弟子">
+                <position x="139.664" z="-373.461" ay="-1" />
+                <position x="140.913" z="-369.654" ay="-1" />
+                <position x="135.314" z="-369.025" ay="-1" />
+            </item>
+        </creator>
+        <creator No="D3AFEE7771564598B909B45EE5415EF9" x="130.113" y="45.761" z="-399.118" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="monm769001" ay="-1" amount="3" refreshtime="30000" desc="明教嗜武弟子">
+                <position x="130.943" z="-400.698" ay="-1" />
+                <position x="132.658" z="-397.521" ay="-1" />
+                <position x="127.070" z="-398.373" ay="-1" />
+            </item>
+        </creator>
+        <creator No="72F48FF394E34474B000907F0B5CC9D1" x="218.711" y="46.245" z="-400.686" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="monm769002" ay="-1" amount="3" refreshtime="30000" desc="明教顽劣弟子">
+                <position x="218.138" z="-397.667" ay="-1" />
+                <position x="219.924" z="-402.959" ay="-1" />
+                <position x="215.633" z="-400.520" ay="-1" />
+            </item>
+        </creator>
+        <creator No="5327E24B2E204046BC767D4F611C1679" x="219.048" y="41.750" z="-380.507" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="monm769002" ay="-1" amount="3" refreshtime="30000" desc="明教顽劣弟子">
+                <position x="219.575" z="-377.705" ay="-1" />
+                <position x="221.217" z="-381.710" ay="-1" />
+                <position x="216.210" z="-380.303" ay="-1" />
+            </item>
+        </creator>
+        <creator No="062BB42C35A94E09B83291592C2FD8AE" x="237.756" y="41.108" z="-376.564" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="monm769002" ay="-1" amount="3" refreshtime="30000" desc="明教顽劣弟子">
+                <position x="235.696" z="-375.982" ay="-1" />
+                <position x="238.818" z="-378.583" ay="-1" />
+                <position x="237.876" z="-373.574" ay="-1" />
+            </item>
+        </creator>
+        <creator No="211E97CF705F4D43869837DB12F3CC84" x="234.586" y="36.453" z="-357.832" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="monm769002" ay="-1" amount="3" refreshtime="30000" desc="明教顽劣弟子">
+                <position x="236.824" z="-357.473" ay="-1" />
+                <position x="232.160" z="-358.093" ay="-1" />
+                <position x="234.200" z="-356.080" ay="-1" />
+            </item>
+        </creator>
+        <creator No="6C785F4509584D569659469B980338BB" x="219.724" y="35.099" z="-350.329" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="monm769002" ay="-1" amount="3" refreshtime="30000" desc="明教顽劣弟子">
+                <position x="222.152" z="-350.495" ay="-1" />
+                <position x="216.955" z="-352.331" ay="-1" />
+                <position x="219.035" z="-348.935" ay="-1" />
+            </item>
+        </creator>
+        <creator No="506EF08A1B744F45BD09E1C26F96278A" x="200.338" y="40.584" z="-364.861" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="monm769002" ay="-1" amount="3" refreshtime="30000" desc="明教顽劣弟子">
+                <position x="202.411" z="-362.949" ay="-1" />
+                <position x="198.473" z="-366.942" ay="-1" />
+                <position x="199.323" z="-362.596" ay="-1" />
+            </item>
+        </creator>
+        <creator No="A28BE2B92250406DA7934F8A31EDEE82" x="195.024" y="38.748" z="-345.125" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="monm769002" ay="-1" amount="3" refreshtime="30000" desc="明教顽劣弟子">
+                <position x="196.767" z="-342.373" ay="-1" />
+                <position x="194.406" z="-347.724" ay="-1" />
+                <position x="192.347" z="-343.923" ay="-1" />
+            </item>
+        </creator>
+        <creator No="19BB841B3DDC49D6BEEFC2A3FAF7F153" x="289.303" y="28.562" z="-281.568" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="monm769003" ay="-1" amount="3" refreshtime="30000" desc="鬼祟的江湖人">
+                <position x="290.897" z="-283.033" ay="-1" />
+                <position x="289.651" z="-279.260" ay="-1" />
+                <position x="287.148" z="-282.202" ay="-1" />
+            </item>
+        </creator>
+        <creator No="6906CF2745E34848B383314CD0E48D77" x="308.740" y="27.463" z="-272.487" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="monm769003" ay="-1" amount="3" refreshtime="30000" desc="鬼祟的江湖人">
+                <position x="311.457" z="-272.821" ay="-1" />
+                <position x="308.115" z="-270.084" ay="-1" />
+                <position x="306.247" z="-274.941" ay="-1" />
+            </item>
+        </creator>
+        <creator No="3F91D87DC0BD468AACB84F6E48375E90" x="331.457" y="28.830" z="-282.593" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="monm769003" ay="-1" amount="3" refreshtime="30000" desc="鬼祟的江湖人">
+                <position x="333.099" z="-284.352" ay="-1" />
+                <position x="332.961" z="-280.201" ay="-1" />
+                <position x="329.290" z="-282.654" ay="-1" />
+            </item>
+        </creator>
+        <creator No="27D4CB5DCF7745519DDE7CF676D126B5" x="323.106" y="31.395" z="-303.256" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="monm769003" ay="-1" amount="3" refreshtime="30000" desc="鬼祟的江湖人">
+                <position x="324.881" z="-304.835" ay="-1" />
+                <position x="325.394" z="-302.165" ay="-1" />
+                <position x="320.745" z="-303.603" ay="-1" />
+            </item>
+        </creator>
+        <creator No="386C22A5F3AF44FC8B87CBBD3E671A7F" x="352.181" y="30.159" z="-284.812" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="monm769003" ay="-1" amount="3" refreshtime="30000" desc="鬼祟的江湖人">
+                <position x="351.296" z="-286.461" ay="-1" />
+                <position x="355.025" z="-285.442" ay="-1" />
+                <position x="351.743" z="-282.527" ay="-1" />
+            </item>
+        </creator>
+        <creator No="A287917B5C934039916ED84E7CA2E517" x="353.291" y="26.551" z="-256.924" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="monm769003" ay="-1" amount="3" refreshtime="30000" desc="鬼祟的江湖人">
+                <position x="355.632" z="-258.126" ay="-1" />
+                <position x="354.786" z="-254.421" ay="-1" />
+                <position x="351.376" z="-257.340" ay="-1" />
+            </item>
+        </creator>
+        <creator No="34FA0A4C28AA4C668353C7ECAEFDC8CB" x="328.852" y="26.228" z="-259.666" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="monm769003" ay="-1" amount="3" refreshtime="30000" desc="鬼祟的江湖人">
+                <position x="330.320" z="-262.127" ay="-1" />
+                <position x="330.905" z="-257.253" ay="-1" />
+                <position x="325.773" z="-260.239" ay="-1" />
+            </item>
+        </creator>
+        <creator No="30777DEE9C364968A95AA4A581808609" x="377.445" y="30.802" z="-278.266" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="monm769003" ay="-1" amount="3" refreshtime="30000" desc="鬼祟的江湖人">
+                <position x="377.299" z="-280.896" ay="-1" />
+                <position x="379.741" z="-279.703" ay="-1" />
+                <position x="376.518" z="-276.124" ay="-1" />
+            </item>
+        </creator>
+        <creator No="AA74AD56CBD9445AB431E93F452D1BCD" x="132.028" y="93.061" z="154.945" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="72702" TaskSubType="1" HateLink="1" SubSceneNo="9047">
+            <item No="1" id="hunter_mjzyb_001" ay="3.861" amount="1" refreshtime="-1" NotPositive="0" desc="八大门派弟子" />
+        </creator>
+    </randomcreator>
+</object>

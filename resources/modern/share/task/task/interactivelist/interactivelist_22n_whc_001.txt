@@ -1,0 +1,56 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	NpcId	SceneID	DialogID	GetItems	LostItems	TrackInfo	OkMenu	TaskID	BufferID
+77263	nmpwhc_hhm_008	1	DialogID_77263			interactinfo_77263	okmenu_77263		
+77276	nmpwhc_hhm_014		DialogID_77276			interactinfo_77276	okmenu_77276		
+77281	Eventnpc_whc_002	1				interactinfo_77281			
+77211	Eventnpc_whz_dy_04	17				interactinfo_77211		77211	
+77261	nmpwhc_hhm_006_new	1079	DialogID_77261			interactinfo_77261	okmenu_77261	77261	
+77262	nmpwhc_hhm_007_new	1079	DialogID_77262			interactinfo_77262	okmenu_77262	77261	
+77265	Eventnpc_whc_001	1079				interactinfo_77265		77262	
+77291	Eventnpc_whc_002	1079				interactinfo_77291		77266	
+77255	Eventnpc_whc_003	1079				interactinfo_77255		77269	
+77257	taskwch_hhm_004	1079	DialogID_77257			interactinfo_77257	okmenu_77257	77269	
+77258	taskwch_hhm_005	1079	DialogID_77258			interactinfo_77258	okmenu_77258	77269	
+77259	taskwch_hhm_006	1079	DialogID_77259			interactinfo_77259	okmenu_77259	77269	
+77213		17				interactinfo_77213		77214	
+77207	Eventnpc_whz_dy_01	17				interactinfo_77207		77208	buff_whz_dy_01
+77208	npc_whc_dy_06	17	DialogID_77208			interactinfo_77208	okmenu_77208	77208	
+77209	Eventnpc_whz_dy_02	17				interactinfo_77209		77210	buff_whz_dy_02
+77210	Eventnpc_whz_dy_03	17				interactinfo_77210		77210	buff_whz_dy_05
+77212	Eventnpc_whz_dy_05	17				interactinfo_77212		77212	buff_whz_dy_06
+77204						interactinfo_77204		77206	
+77201	npc_whc_dy_40	1082	DialogID_77201			interactinfo_77201	okmenu_77201	77204	
+77202	npc_whc_dy_41	1082	DialogID_77202			interactinfo_77202	okmenu_77202	77204	
+77203	npc_whc_dy_42	1082	DialogID_77203			interactinfo_77203	okmenu_77203	77204	
+77205	npc_whc_dy_39	1082	DialogID_77205	item_whz_dy_01-1		interactinfo_77205	okmenu_77205	77206	
+77206	npc_whc_dy_04	1082	DialogID_77206		item_whz_dy_01-1	interactinfo_77206	okmenu_77206	77206	
+77214	npc_whc_dy_32	1079	DialogID_77214	useitem_whz_dy_02-1		interactinfo_77214	okmenu_77214	77216	
+77215	Eventnpc_whz_dy_19	1079				interactinfo_77215		77217	buff_whz_dy_14
+77216	npc_whc_dy_58	1079	DialogID_77216			interactinfo_77216	okmenu_77216	77217	
+77234	Eventnpc_whz_dy_18	17				interactinfo_77234		77212	buff_whz_dy_07
+77235	Eventnpc_whz_dy_20	1079				interactinfo_77235		77217	buff_whz_dy_16
+77218	Eventnpc_whz_dy_07	1079				interactinfo_77218		77218	buff_whz_dy_20
+77221	Eventnpc_whz_dy_08	1079				interactinfo_77221		77219	buff_whz_dy_21
+77222	Eventnpc_whz_dy_09	1079				interactinfo_77222		77219	buff_whz_dy_22
+77223	Eventnpc_whz_dy_10	1079				interactinfo_77223		77219	buff_whz_dy_23
+77225	npc_whc_dy_37	1079	DialogID_77225		useitem_whz_dy_06-1	interactinfo_77225	okmenu_77225	77220	
+77224	npc_whc_dy_37	1079	DialogID_77224	useitem_whz_dy_06-1		interactinfo_77224	okmenu_77224	77220	
+77226	Eventnpc_whz_dy_11	1079				interactinfo_77226		77221	buff_whz_dy_24
+77227	Eventnpc_whz_dy_12	1079				interactinfo_77227		77221	buff_whz_dy_25
+77228	Eventnpc_whz_dy_13	1079				interactinfo_77228		77221	buff_whz_dy_26
+77230	Eventnpc_whz_dy_15	1079				interactinfo_77230		77221	buff_whz_dy_27
+77229	Eventnpc_whz_dy_14	1079				interactinfo_77229			
+77233	Eventnpc_whz_dy_17	1079				interactinfo_77233		77222	buff_whz_dy_39
+77237	Eventnpc_whz_dy_22	1079				interactinfo_77237		77223	buff_whz_dy_18
+77219	newmp_whz_002	1079	DialogID_77219		useitem_whz_dy_05-1	interactinfo_77219	okmenu_77219	77218	
+77231	Eventnpc_whz_dy_16	1079				interactinfo_77231		77221	buff_whz_dy_29
+77232	npc_whc_dy_51	1079	DialogID_77232			interactinfo_77232	okmenu_77232	77222	buff_whz_dy_36
+77220	newmp_whz_003	1079	DialogID_77220	item_whz_dy_02-1		interactinfo_77220	okmenu_77220	77219	
+77217	npc_whc_dy_48	1079	DialogID_77217	useitem_whz_dy_05-1		interactinfo_77217	okmenu_77217	77223	
+77236	Eventnpc_whz_dy_21	1079				interactinfo_77236		77217	
+77241	nmpwhc_gsfhhm_010	1079	DialogID_77241			interactinfo_77241	okmenu_77241	77273	
+77293	nmpwhc_gsfhhm_010	1079	DialogID_77293			interactinfo_77293	okmenu_77293	77275	
+77264	newmp_whz_004	1079	DialogID_77264	item_wch_hhm_001-1		interactinfo_77264	okmenu_77264	77262	
+77299	nmpwhc_hhm_038	1079	DialogID_77299			interactinfo_77299	okmenu_77299	77263	buff_whz_hhm_01
+77292	Event_whz_hhm_001	1079				interactinfo_77292			
+77251	hd_wyhd_001	14	DialogID_77251			interactinfo_77251	okmenu_77251		

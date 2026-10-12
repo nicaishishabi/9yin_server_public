@@ -1,0 +1,13 @@
+NPC编号	对象类型	ini注释名称	NPC类型	选择操作	鼠标形状	模型编号	防守方ID	进攻方ID	进攻开始的时间戳	进攻总时间	读条时间	是否处于争夺状态	争夺的玩家阵营临时属性名	NPC的类型，0 复活点，1 哨塔	NPC能不能被争夺
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	script	Name	NpcType	SelectState	CursorShape	Resource	QiZhiDefendID	QiZhiAttackID	StartTimeStamp	TotalTime	DelayTime	IsInAttack	PlayerCamp	TowerType	CanBeStrived
+															
+outlandwar_lpf008	BeStrivedNpc	中原前线墓地	258	2	2	npc\erg_zq_01	2300			60	10		OutlandWarCamp	0	1
+outlandwar_lpf009	BeStrivedNpc	武林战旗（东）	258	2	2	npc\erg_zq_01	2300			180	10		OutlandWarCamp	1	1
+outlandwar_lpf010	BeStrivedNpc	武林战旗（南）	258	2	2	npc\erg_zq_01	2300			180	10		OutlandWarCamp	1	1
+outlandwar_lpf011	BeStrivedNpc	中原后方墓地	258	2	2	npc\erg_zq_01	2300			60	10		OutlandWarCamp	0	0
+outlandwar_lpf012	BeStrivedNpc	外域前线墓地	258	2	2	npc\erg_zq_02	2301			60	10		OutlandWarCamp	0	1
+outlandwar_lpf013	BeStrivedNpc	武林战旗（西）	258	2	2	npc\erg_zq_02	2301			180	10		OutlandWarCamp	1	1
+outlandwar_lpf014	BeStrivedNpc	武林战旗（北）	258	2	2	npc\erg_zq_02	2301			180	10		OutlandWarCamp	1	1
+outlandwar_lpf015	BeStrivedNpc	外域后方墓地	258	2	2	npc\erg_zq_02	2301			60	10		OutlandWarCamp	0	0
+outlandwar_lpf016	BeStrivedNpc	武林战旗（中）	258	2	2	npc\erg_zq_03	0			180	10		OutlandWarCamp	1	1

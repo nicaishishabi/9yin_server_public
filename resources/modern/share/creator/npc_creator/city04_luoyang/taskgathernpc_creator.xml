@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="CC9ED7233FD54E649E893B349C394602" x="410.834" y="-21.224" z="562.711" radius="4.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather0047yl" ay="-1" amount="5" refreshtime="2000" NotPositive="0" desc="清琼草">
+                <position x="410.069" z="560.775" ay="-1" />
+                <position x="410.411" z="565.133" ay="-1" />
+                <position x="412.473" z="563.126" ay="-1" />
+                <position x="412.513" z="561.005" ay="-1" />
+                <position x="411.490" z="561.754" ay="-1" />
+            </item>
+        </creator>
+        <creator No="22D056C7D3F2400EBF6F87C4A48326BA" x="704.781" y="-27.437" z="1164.318" radius="1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather0048yl" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="盒子">
+                <position x="704.281" z="1164.533" ay="-1" />
+            </item>
+        </creator>
+        <creator No="80F57D4A151C43D58FAF270A02259D1B" x="979.637" y="-17.271" z="1150.738" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather0050yl" ay="-1" amount="4" refreshtime="5" NotPositive="0" desc="怀菊花">
+                <position x="982.162" z="1148.660" ay="-1" />
+                <position x="977.975" z="1148.765" ay="-1" />
+                <position x="976.135" z="1149.511" ay="-1" />
+                <position x="981.846" z="1153.121" ay="-1" />
+                <position x="979.716" z="1154.246" ay="-1" />
+                <position x="980.951" z="1150.779" ay="-1" />
+                <position x="976.683" z="1151.655" ay="-1" />
+            </item>
+        </creator>
+        <creator No="23EAE2A4CBEF4BF3BECAEC98138E2B87" x="980.089" y="-10.284" z="1189.831" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather0051yl" ay="-1" amount="5" refreshtime="5" NotPositive="0" desc="怀牛膝">
+                <position x="980.406" z="1187.407" ay="-1" />
+                <position x="978.777" z="1188.482" ay="-1" />
+                <position x="978.330" z="1190.258" ay="-1" />
+                <position x="977.079" z="1190.701" ay="-1" />
+                <position x="977.899" z="1192.361" ay="-1" />
+                <position x="979.571" z="1187.110" ay="-1" />
+                <position x="976.777" z="1189.231" ay="-1" />
+            </item>
+        </creator>
+        <creator No="5F13C1012B1546FDA09820DF44838040" x="1085.301" y="3.613" z="358.034" radius="1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="bjyd011" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="绑匪麻袋">
+                <position x="1085.301" z="358.034" ay="-1" />
+            </item>
+        </creator>
+        <creator No="D55E0363BB8346B18ADBA21A87989C5E" x="805.547" y="-12.347" z="1104.097" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" StaticY="1" HateLink="1">
+            <item No="1" id="Gather_4nei_fenmu" ay="0.495" amount="1" refreshtime="5" NotPositive="0" desc="坟墓">
+                <position x="803.883" y="-12.372" z="1104.606" ay="0.495" />
+            </item>
+        </creator>
+        <creator No="068393BD3559402B9795EA7795870A52" x="388.308" y="69.898" z="1279.508" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="15636" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_xdm_dy_zc5" ay="-0.522" amount="1" refreshtime="10000" NotPositive="0" desc="大漠奇草" />
+        </creator>
+        <creator No="B2B700887F0C42C4875E0EBFBDE3FA04" x="584.100" y="-56.251" z="261.940" radius="2.0" WakeupRange="2.0" ChaseRange="2.0" PatrolRange="2.0" TaskSubId="71163" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_ymsj_caoyaoguj004" ay="-1" amount="1" refreshtime="5000" NotPositive="0" desc="鸽子" />
+        </creator>
+    </randomcreator>
+</object>

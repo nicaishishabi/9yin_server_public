@@ -1,0 +1,45 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	NpcId	SceneID	DialogID	GetItems	LostItems	TrackInfo	OkMenu	TaskID	BufferID
+76304	EventyNpc_2021sy_002	15				interactinfo_76304		76303	
+76305	JQnpc_2021sy_001	15	DialogID_76305	item_2021zyb_001-1		interactinfo_76305	okmenu_76305	76304	
+76306	EventyNpc_2021sy_003	15				interactinfo_76306		76305	
+76303	EventyNpc_2021sy_004	15				interactinfo_76303		76306	
+76307	EventyNpc_2021sy_005	15				interactinfo_76307		76306	
+76308	JQnpc_2021sy_012	15	DialogID_76308			interactinfo_76308	okmenu_76308	76307	
+76309	EventyNpc_2021sy_006	15				interactinfo_76309		76310	
+76310	JQnpc_2021sy_015	15	DialogID_76310	item_2021zybsy_005-1		interactinfo_76310	okmenu_76310	76311	
+76311	JQnpc_2021sy_013	15	DialogID_76311		item_2021zybsy_005-1	interactinfo_76311	okmenu_76311	76311	
+76313	EventyNpc_2021sy_008	15				interactinfo_76313		76315	
+76314	EventyNpc_2021sy_009	15				interactinfo_76314		76315	
+76316	EventyNpc_2021sy_010	15				interactinfo_76316		76317	
+76317	EventyNpc_2021sy_017	15				interactinfo_76317		76317	
+76318	EventyNpc_2021sy_011	15				interactinfo_76318		76318	
+76319	EventyNpc_2021sy_012	15				interactinfo_76319		76319	
+76321	EventyNpc_2021sy_018	15				interactinfo_76321		76322	
+76320	EventyNpc_2021sy_013	15				interactinfo_76320		76321	
+76315	EventyNpc_2021sy_019	15				interactinfo_76315		76316	
+76301	EventyNpc_2021sy_001	15				interactinfo_76301		76302	
+76302	JQnpc_2021sy_001	15	DialogID_76302			interactinfo_76302	okmenu_76302		
+76322	EventyNpc_2021sy_015	15				interactinfo_76322		76323	
+76323	EventyNpc_2021sy_016	15				interactinfo_76323		76323	
+76324	EventyNpc_2021sy_014	15	DialogID_76324			interactinfo_76324		76323	
+76312	EventyNpc_2021sy_007	15				interactinfo_76312	okmenu_76312	76312	
+76328	npc_tls_dy_22	15	DialogID_76328			interactinfo_76328	okmenu_76328	76330	
+76330	npc_tls_dy_23	15	DialogID_76330	item_tls_dy_01-1		interactinfo_76330	okmenu_76330	76331	
+76332	npc_tls_dy_25	15	DialogID_76332	item_tls_dy_01-1		interactinfo_76332	okmenu_76332	76332	
+76331	npc_tls_dy_24	15	DialogID_76331		item_tls_dy_01-1	interactinfo_76331	okmenu_76331	76331	
+76335	npc_tls_dy_07	930	DialogID_76335			interactinfo_76335	okmenu_76335	76333	
+76337	npc_tls_dy_001	930	DialogID_76337	useitem_tls_dy_001-1		interactinfo_76337	okmenu_76337	76339	
+76326	Eventnpc_tls_dy_05	15				interactinfo_76326		76329	
+76327	Eventnpc_tls_dy_01	15				interactinfo_76327		76330	buff_tls_dy_07
+76336	Eventnpc_tls_dy_04	930				interactinfo_76336		76336	buff_tls_dy_10
+76333	Eventnpc_tls_dy_03	930				interactinfo_76333		76333	buff_tls_dy_09
+76340	npc_2108dy_017	473	DialogID_76340	useitem_2108dy_003-1		interactinfo_76340	okmenu_76340	76349	
+76342	npc_2108dy_010	473	DialogID_76342	useitem_2108dy_001-1|useitem_2108dy_002-1		interactinfo_76342	okmenu_76342	76346	
+76341	npc_2108dy_019	473	DialogID_76341	useitem_2108dy_004-1		interactinfo_76341	okmenu_76341	76350	
+76325	JQnpc_2021sy_011	15	DialogID_76325			interactinfo_76325	okmenu_76325	76307	
+76334	Eventnpc_tls_dy_04	930				interactinfo_76334			
+76329	Eventnpc_tls_dy_02	15				interactinfo_76329		76331	buff_tls_dy_08
+76338	Eventnpc_tls_dy_001	930				interactinfo_76338			buff_tls_dy_11
+76339	Eventnpc_tls_dy_002	930				interactinfo_76339		76340	buff_tls_dy_12
+76343	npc_xcc_task_10	473	DialogID_76343	useitem_xcc_kyf_001-1|useitem_xcc_kyf_002-1		interactinfo_76343	okmenu_76343		

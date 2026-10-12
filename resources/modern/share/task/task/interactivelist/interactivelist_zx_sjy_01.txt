@@ -1,0 +1,48 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	NpcId	SceneID	DialogID	GetItems	LostItems	TrackInfo	OkMenu	TaskID	HideNpcID	BufferID
+73305										
+73201	sjy_zyb_001	769	DialogID_73201	item_sjyzyb_001-1		interactinfo_73201	okmenu_73201	73205		
+73202	newmp_mj_001	769	DialogID_73202		item_sjyzyb_001-1	interactinfo_73202	okmenu_73202	73205		
+73214										
+73210	newmp_sjy_003	786	DialogID_73210			interactinfo_73210	okmenu_73210	73210		
+73212	newmp_sjy_003	786	DialogID_73212			interactinfo_73212	okmenu_73212	73210		
+73211	event_jqsjy_001	786				interactinfo_73211		73210		
+73213	event_jqsjy_002	786				interactinfo_73213		73211		
+73216	newmp_jusjy_006	13	DialogID_73216	item_jqsjy_zyb005-1		interactinfo_73216	okmenu_73216	73216		
+73217	newmp_jusjy_007	13	DialogID_73217	item_jqsjy_zyb006-1		interactinfo_73217	okmenu_73217	73216		
+73218	newmp_jusjy_005	13	DialogID_73218	item_jqsjy_zyb007-1		interactinfo_73218	okmenu_73218	73217		
+73219	newmp_jusjy_008	13	DialogID_73219		item_jqsjy_zyb007-1	interactinfo_73219	okmenu_73219	73217		
+73220	event_jqsjy_004	13				interactinfo_73220		73218		
+73308	newmp_sjy_mjdh01	786	DialogID_73308			interactinfo_73308	okmenu_73308	73201		
+73310	newmp_sjy_001	786	DialogID_73310			interactinfo_73310	okmenu_73310	73201		
+73311	newmp_mj_001	769	DialogID_73311			interactinfo_73311	okmenu_73311	73202		
+73312	newmp_sjy_001	786	DialogID_73312			interactinfo_73312	okmenu_73312	73203		
+73313	newmp_sjy_mjdh01	786	DialogID_73313			interactinfo_73313	okmenu_73313	73204		
+73203	sjy_zyb_002	13	DialogID_73203		item_sjyzyb_002-1	interactinfo_73203	okmenu_73203	73206		
+73204	eventsjy_zyb_001	13				interactinfo_73204		73206		
+73208	newmp_sjy_003	786	DialogID_73208			interactinfo_73208	okmenu_73208	73209		
+73209						interactinfo_73209		73209		
+73206	sjy_zyb_002	13	DialogID_73206	item_sjyzyb_004-1		interactinfo_73206	okmenu_73206	73208		
+73207	newmp_sjy_001	786	DialogID_73207		item_sjyzyb_004-1	interactinfo_73207	okmenu_73207	73208		
+73205	eventsjy_zyb_002	13				interactinfo_73205		73208		
+73215	event_jqsjy_003	13				interactinfo_73215		73214		
+73318	newmp_sjy_008	786				interactinfo_73318				
+73319										
+73309	newmp_sjy_001	786	DialogID_73309			interactinfo_73309	okmenu_73309	73201		
+73225	newmp_sjy_003	786	DialogID_73225			interactinfo_73225	okmenu_73225	73224		
+73226						interactinfo_73226		73224		
+73317	newmp_sjy_njxl_002	786	DialogID_73317			interactinfo_73317	okmenu_73317			
+73301	newmp_sjy_001	786	DialogID_73301		item_sjy_zcgw-1	interactinfo_73301	okmenu_73301	73301		
+73302	newmp_sjy_002	786	DialogID_73302		item_sjy_zcgw-1	interactinfo_73302	okmenu_73302	73302		
+73303	newmp_sjy_003	786	DialogID_73303		item_sjy_zcgw-1	interactinfo_73303	okmenu_73303	73303		
+73304	newmp_sjy_004	786	DialogID_73304		item_sjy_zcgw-1	interactinfo_73304	okmenu_73304	73304		
+73306	newmp_sjy_005	786	DialogID_73306		item_sjy_zcgw-1	interactinfo_73306	okmenu_73306	73306		
+73307	newmp_sjy_006	786	DialogID_73307		item_sjy_zcgw-1	interactinfo_73307	okmenu_73307	73307		
+73323	newmp_sjy_007	786	DialogID_73323		item_sjy_zcgw-1	interactinfo_73323	okmenu_73323	73309		
+73221	event_jqsjy_005	13				interactinfo_73221		73221		
+73222	event_jqsjy_006	13				interactinfo_73222		73221		
+73320	EventNpc_sjy_lzy_qdlc001	786	DialogID_73320			interactinfo_73320	okmenu_73320	73400		
+73321	EventNpc_sjy_lzy_ysjz001	786	DialogID_73321			interactinfo_73321	okmenu_73321	73401		
+73322	newmp_sjy_lzy_rcrw001	786	DialogID_73322			interactinfo_73322	okmenu_73322			
+73224	event_jqsjy_007	13				interactinfo_73224		73222		
+73223	newmp_jusjy_010	13	DialogID_73223			interactinfo_73223	okmenu_73223	73221		

@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="02ADD1D9E3BB4399B6BBBD5C193B2B9B" x="1194.125" y="4.295" z="558.790" radius="50.0" WakeupRange="30.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="4.748" amount="33" refreshtime="-1" desc="龙门关守兵">
+                <position x="1185.666" z="546.505" ay="4.748" />
+                <position x="1189.556" z="546.500" ay="4.728" />
+                <position x="1193.410" z="546.584" ay="4.728" />
+                <position x="1193.458" z="550.400" ay="4.728" />
+                <position x="1189.534" z="550.483" ay="4.728" />
+                <position x="1185.644" z="550.489" ay="4.748" />
+                <position x="1193.415" z="554.605" ay="4.728" />
+                <position x="1189.523" z="554.484" ay="4.728" />
+                <position x="1185.633" z="554.489" ay="4.748" />
+                <position x="1181.716" z="546.663" ay="4.728" />
+                <position x="1197.391" z="546.533" ay="4.728" />
+                <position x="1181.764" z="550.478" ay="4.728" />
+                <position x="1197.369" z="550.517" ay="4.728" />
+                <position x="1181.786" z="554.439" ay="4.728" />
+                <position x="1197.358" z="554.517" ay="4.728" />
+                <position x="1181.659" z="558.699" ay="4.728" />
+                <position x="1197.334" z="558.570" ay="4.728" />
+                <position x="1181.838" z="562.599" ay="4.728" />
+                <position x="1197.342" z="562.618" ay="4.728" />
+                <position x="1181.834" z="566.596" ay="4.728" />
+                <position x="1197.349" z="566.618" ay="4.728" />
+                <position x="1193.364" z="558.826" ay="4.728" />
+                <position x="1189.510" z="558.742" ay="4.728" />
+                <position x="1193.543" z="562.726" ay="4.728" />
+                <position x="1185.628" z="562.795" ay="4.748" />
+                <position x="1185.620" z="558.747" ay="4.748" />
+                <position x="1193.539" z="566.723" ay="4.728" />
+                <position x="1189.525" z="566.789" ay="4.728" />
+                <position x="1185.635" z="566.795" ay="4.748" />
+                <position x="1206.335" z="541.175" ay="4.700" />
+                <position x="1186.604" z="585.373" ay="0.012" />
+                <position x="1180.870" z="585.203" ay="6.250" />
+                <position x="1189.506" z="562.801" ay="4.728" />
+            </item>
+            <item No="2" id="funnpccloneTZ002054" ay="1.565" amount="2" refreshtime="-1" desc="龙门关戍兵头领">
+                <position x="1173.500" z="558.306" ay="1.565" WeaponMode="lspear1_1" />
+                <position x="1173.368" z="551.878" ay="1.565" WeaponMode="lspear1_1" />
+            </item>
+            <item No="3" id="funnpccloneTZ002053" ay="1.675" amount="1" refreshtime="-1" desc="龙门关统领">
+                <position x="1176.518" z="555.048" ay="1.675" BornAction="b_stand_3" WeaponName="删除武器" WeaponMode="blade1_1" />
+            </item>
+            <item No="4" id="FunnpcCloneTZ000001" ay="4.815" amount="1" refreshtime="-1" NotPositive="0" desc="禁地守卫·毒" />
+            <item No="5" id="FunnpcCloneTZ000002" ay="4.815" amount="2" refreshtime="-1" NotPositive="0" desc="禁地守卫·怒">
+                <position x="1183.892" z="579.221" ay="4.815" />
+                <position x="1167.934" z="573.459" ay="4.815" />
+            </item>
+            <item No="6" id="FunnpcCloneTZ000003" ay="4.815" amount="1" refreshtime="-1" NotPositive="0" desc="禁地守卫·袭" />
+        </creator>
+        <creator No="D75EFE4E6D584917AE90FE740E11660D" x="437.970" y="50.508" z="924.870" radius="50.0" WakeupRange="30.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002047" ay="2.882" amount="4" refreshtime="-1" desc="马贼喽啰">
+                <position x="414.084" z="881.901" ay="2.882" />
+                <position x="398.629" z="906.755" ay="2.097" />
+                <position x="400.191" z="904.130" ay="0.592" />
+                <position x="401.217" z="906.698" ay="4.172" />
+            </item>
+        </creator>
+        <creator No="BEC979D30614461AA0CED343BBFF01C3" x="942.573" y="22.817" z="591.661" radius="22.0" WakeupRange="30.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="1.639" amount="6" refreshtime="-1" desc="龙门关守兵">
+                <position x="935.134" z="574.840" ay="1.639" />
+                <position x="957.589" z="578.382" ay="4.729" />
+                <position x="949.130" z="597.922" ay="1.595" />
+                <position x="949.052" z="603.436" ay="1.580" />
+                <position x="936.996" z="603.368" ay="4.699" />
+                <position x="937.067" z="598.022" ay="4.729" />
+            </item>
+        </creator>
+        <creator No="3DF457C8C7E34C66973796A554C69E2A" x="944.298" y="22.774" z="620.533" radius="17.0" WakeupRange="30.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="4.708" amount="3" refreshtime="-1" desc="龙门关守兵">
+                <position x="957.998" z="623.094" ay="4.708" />
+                <position x="935.477" z="626.511" ay="1.587" />
+                <position x="961.592" z="606.306" ay="3.123" />
+            </item>
+        </creator>
+        <creator No="1A26F68CCB944C15AFC67E6AE2FB59CE" x="941.826" y="18.752" z="646.451" radius="8.0" WakeupRange="30.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="1.612" amount="1" refreshtime="-1" desc="龙门关守兵">
+                <position x="936.626" z="648.341" ay="1.612" />
+            </item>
+        </creator>
+        <creator No="82DE739BD4894C93A5C4140996A63F7E" x="968.962" y="12.462" z="523.280" radius="5.0" WakeupRange="30.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="0.010" amount="2" refreshtime="-1" desc="龙门关守兵">
+                <position x="967.364" z="519.097" ay="0.010" />
+                <position x="967.471" z="527.237" ay="3.180" />
+            </item>
+        </creator>
+        <creator No="2257A6CBCD5A4BAB9F37A837AF7C58A2" x="968.283" y="12.461" z="678.372" radius="6.0" WakeupRange="30.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="0.010" amount="2" refreshtime="-1" desc="龙门关守兵">
+                <position x="967.571" z="672.871" ay="0.010" />
+                <position x="967.479" z="682.681" ay="3.125" />
+            </item>
+        </creator>
+        <creator No="AFF4A2CEDA6940CCB3F948878B23DE0D" x="1203.545" y="18.697" z="692.593" radius="8.0" WakeupRange="30.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="3.135" amount="2" refreshtime="-1" desc="龙门关守兵">
+                <position x="1199.318" z="698.211" ay="3.135" />
+                <position x="1206.851" z="698.257" ay="3.135" />
+            </item>
+        </creator>
+        <creator No="51E50CFBAA5748E48ECBB0A079DFF5B2" x="1198.680" y="12.434" z="523.786" radius="6.0" WakeupRange="30.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="3.128" amount="2" refreshtime="-1" desc="龙门关守兵">
+                <position x="1199.527" z="528.260" ay="3.128" />
+                <position x="1199.487" z="519.185" ay="0.030" />
+            </item>
+        </creator>
+        <creator No="47642C2CDFD54AB29EA981CCB2630092" x="1198.982" y="12.434" z="678.281" radius="7.0" WakeupRange="6.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="3.155" amount="2" refreshtime="-1" desc="龙门关守兵">
+                <position x="1199.945" z="682.816" ay="3.155" />
+                <position x="1199.844" z="673.397" ay="0.007" />
+            </item>
+        </creator>
+        <creator No="ED9333642DB24EF18F3D1154F53E94B5" x="1229.737" y="22.746" z="596.524" radius="35.0" WakeupRange="6.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="4.767" amount="8" refreshtime="-1" desc="龙门关守兵">
+                <position x="1232.218" z="628.471" ay="4.767" />
+                <position x="1218.359" z="603.491" ay="4.730" />
+                <position x="1218.242" z="598.495" ay="4.735" />
+                <position x="1232.229" z="573.317" ay="4.752" />
+                <position x="1216.401" z="578.463" ay="4.730" />
+                <position x="1230.021" z="598.272" ay="1.592" BornAction="fi_stand" />
+                <position x="1229.998" z="603.699" ay="1.592" BornAction="fi_stand" />
+                <position x="1216.524" z="623.368" ay="4.727" />
+            </item>
+            <item No="2" id="funnpccloneTZ002054" ay="1.405" amount="2" refreshtime="-1" desc="龙门关戍兵头领">
+                <position x="1222.497" z="607.978" ay="1.405" WeaponMode="lspear1_1" />
+                <position x="1226.556" z="608.445" ay="4.755" WeaponMode="lspear1_1" />
+            </item>
+            <item No="3" id="funnpccloneTZ002030" ay="1.565" amount="2" refreshtime="-1" desc="戌兵弓箭手">
+                <position x="1238.396" z="603.085" ay="1.565" />
+                <position x="1238.331" z="598.894" ay="1.565" />
+            </item>
+            <item No="4" id="funnpccloneTZ002053" ay="3.590" amount="1" refreshtime="-1" desc="龙门关统领">
+                <position x="1224.596" z="611.319" ay="3.590" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="9CDE72259F7949968F2DF485BBD0404D" x="188.746" y="15.633" z="507.896" radius="100.0" WakeupRange="6.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002015" ay="5.318" amount="1" refreshtime="-1" desc="王府高手">
+                <position x="164.875" z="502.584" ay="5.318" BornAction="h_stand_2" />
+            </item>
+            <item No="2" id="funnpccloneTZ002016" sx="1.100" sy="1.100" sz="1.100" ay="1.790" amount="3" refreshtime="-1" desc="王府侍卫">
+                <position x="171.114" z="508.385" sx="1.100" sy="1.100" sz="1.100" ay="1.790" />
+                <position x="160.478" z="516.357" sx="1.100" sy="1.100" sz="1.100" ay="4.680" />
+                <position x="160.717" z="512.871" sx="1.100" sy="1.100" sz="1.100" ay="4.815" />
+            </item>
+        </creator>
+        <creator No="71F4B3B872D647AD8E473F2973AFEC68" x="1090.054" y="6.264" z="664.479" radius="8.0" WakeupRange="5.0" ChaseRange="50.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002054" ay="4.797" amount="4" refreshtime="-1" desc="龙门关戍兵头领">
+                <position x="1092.813" z="665.186" ay="4.797" BornAction="lst_stand_2" RandomAction="" WeaponMode="lspear1_1" />
+                <position x="1088.290" z="665.391" ay="1.654" BornAction="lst_stand_2" RandomAction="" WeaponMode="lspear1_1" />
+                <position x="1088.202" z="662.787" ay="0.362" BornAction="lst_stand_2" RandomAction="" WeaponMode="lstuff1_1" />
+                <position x="1092.712" z="662.514" ay="4.762" BornAction="lst_stand_2" RandomAction="" WeaponMode="lspear1_1" />
+            </item>
+            <item No="2" id="funnpccloneTZ002053" ay="3.182" amount="1" refreshtime="-1" desc="龙门关统领">
+                <position x="1090.226" z="667.579" ay="3.182" BornAction="b_stand_1" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="70492E34DB5141AEB8B84A090198949B" x="1054.285" y="4.295" z="617.704" radius="60.0" WakeupRange="10.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="3.139" amount="5" refreshtime="-1" desc="龙门关守兵">
+                <position x="1056.494" z="615.800" ay="3.139" />
+                <position x="1087.487" z="650.790" ay="3.032" />
+                <position x="1093.335" z="650.583" ay="3.032" />
+                <position x="1102.499" z="635.801" ay="0.009" />
+                <position x="1098.519" z="635.709" ay="0.009" />
+            </item>
+        </creator>
+        <creator No="EFB39D93763141A489C49F1D5AF43254" x="994.872" y="4.297" z="573.776" radius="6.0" WakeupRange="15.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="1.681" amount="2" refreshtime="-1" desc="龙门关守兵">
+                <position x="993.200" z="578.199" ay="1.681" />
+                <position x="993.155" z="570.009" ay="1.531" />
+            </item>
+            <item No="2" id="FunnpcCloneTZ000002" ay="4.815" amount="1" refreshtime="-1" NotPositive="0" desc="禁地守卫·怒" />
+        </creator>
+        <creator No="FF21DB7DE7E14F3C9214B2234A958DED" x="1106.460" y="4.295" z="555.194" radius="40.0" WakeupRange="20.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="0.032" amount="8" refreshtime="-1" desc="龙门关守兵">
+                <position x="1106.415" z="537.669" ay="0.032" />
+                <position x="1111.004" z="537.643" ay="6.246" />
+                <position x="1127.937" z="558.609" ay="4.676" />
+                <position x="1127.896" z="553.760" ay="4.576" />
+                <position x="1105.775" z="575.645" ay="4.821" />
+                <position x="1089.076" z="573.575" ay="1.407" />
+                <position x="1091.616" z="572.310" ay="5.716" />
+                <position x="1092.425" z="573.762" ay="4.621" />
+            </item>
+        </creator>
+        <creator No="29F8A6C624BA4057B275C62D44DE6AAD" x="941.386" y="3.844" z="600.368" radius="25.0" WakeupRange="10.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="0.037" amount="4" refreshtime="-1" desc="龙门关守兵">
+                <position x="950.351" z="596.380" ay="0.037" />
+                <position x="933.445" z="596.349" ay="0.027" />
+                <position x="950.323" z="604.832" ay="3.132" />
+                <position x="933.437" z="604.730" ay="3.152" />
+            </item>
+        </creator>
+        <creator No="3DDFBDDC41F44ED1808C7ADA9B56ECFB" x="409.226" y="49.729" z="877.990" radius="1.0" WakeupRange="10.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002047" ay="2.092" amount="1" refreshtime="-1" desc="马贼喽啰">
+                <position x="409.778" z="878.113" ay="2.092" />
+            </item>
+        </creator>
+        <creator No="2D3F2280F41E4117A0DBC41FB54533C3" x="393.098" y="49.243" z="890.586" radius="5.0" WakeupRange="10.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002047" ay="0.912" amount="2" refreshtime="-1" desc="马贼喽啰">
+                <position x="390.503" z="892.330" ay="0.912" />
+                <position x="394.696" z="889.252" ay="0.672" />
+            </item>
+            <item No="2" id="FunnpcCloneTZ000002" ay="4.815" amount="1" refreshtime="-1" NotPositive="0" desc="禁地守卫·怒" />
+        </creator>
+        <creator No="7828471CC5254A74BDB3A3F57C2E5F39" x="376.899" y="52.116" z="926.460" radius="3.0" WakeupRange="10.0" ChaseRange="50.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002065" ay="4.032" amount="2" refreshtime="-1" desc="贺虎看守">
+                <position x="378.005" z="925.841" ay="4.032" WeaponMode="blade1_1" />
+                <position x="375.822" z="927.262" ay="3.777" WeaponMode="blade1_1" />
+            </item>
+            <item No="2" id="FunnpcCloneTZ000001" ay="4.815" amount="1" refreshtime="-1" NotPositive="0" desc="禁地守卫·毒" />
+        </creator>
+        <creator No="621F27CE8C0743C8A12B3883F6940B3A" x="360.842" y="49.254" z="911.724" radius="3.0" WakeupRange="10.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002047" ay="3.777" amount="4" refreshtime="-1" desc="马贼喽啰">
+                <position x="361.186" z="913.137" ay="3.777" />
+                <position x="359.372" z="911.852" ay="1.462" />
+                <position x="360.649" z="910.578" ay="0.352" />
+                <position x="362.925" z="911.256" ay="5.135" />
+            </item>
+            <item No="2" id="FunnpcCloneTZ000003" ay="4.815" amount="1" refreshtime="-1" NotPositive="0" desc="禁地守卫·袭" />
+        </creator>
+        <creator No="59BE8F9F23CB4F7196096842B374E9FE" x="367.294" y="49.877" z="890.369" radius="10.0" WakeupRange="10.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002047" ay="1.347" amount="3" refreshtime="-1" desc="马贼喽啰">
+                <position x="367.100" z="889.223" ay="1.347" />
+                <position x="369.099" z="889.763" ay="4.445" />
+                <position x="367.590" z="891.560" ay="3.205" />
+            </item>
+            <item No="2" id="FunnpcCloneTZ000003" ay="4.815" amount="1" refreshtime="-1" NotPositive="0" desc="禁地守卫·袭" />
+        </creator>
+        <creator No="26E06D9CB4ED452DBEFA13F6270FB9D8" x="326.858" y="58.502" z="947.935" radius="15.0" WakeupRange="5.0" ChaseRange="-1.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002047" ay="2.997" amount="2" refreshtime="-1" desc="马贼喽啰">
+                <position x="334.679" z="945.137" ay="2.997" />
+                <position x="332.094" z="941.780" ay="2.037" />
+            </item>
+            <item No="2" id="funnpccloneTZ002021" ay="0.694" amount="2" refreshtime="-1" desc="马贼蛮兵">
+                <position x="324.630" z="940.328" ay="0.694" BornAction="h_sitloop1_1" RandomAction="" WeaponMode="hand3_1" />
+                <position x="330.205" z="954.668" ay="3.817" BornAction="h_stand_1" RandomAction="" WeaponMode="hand3_1" />
+            </item>
+        </creator>
+        <creator No="69228474D53447C3BC99B2823748B073" x="347.168" y="55.473" z="939.232" radius="5.0" WakeupRange="10.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002047" ay="3.777" amount="4" refreshtime="-1" desc="马贼喽啰">
+                <position x="347.507" z="941.706" ay="3.777" />
+                <position x="345.438" z="939.798" ay="1.442" />
+                <position x="346.542" z="937.786" ay="0.662" />
+                <position x="348.933" z="939.398" ay="4.965" />
+            </item>
+        </creator>
+        <creator No="F4FC2FD1FC914F5FB0519FC9148B353A" x="1167.045" y="12.536" z="579.321" radius="1.0" WakeupRange="20.0" ChaseRange="0.0" PatrolRange="0.0" SpringRange="100">
+            <item No="1" id="funnpccloneTZ002030" ay="0.009" amount="1" refreshtime="-1" desc="戌兵弓箭手">
+                <position x="1167.045" z="579.321" ay="0.009" />
+            </item>
+        </creator>
+        <creator No="4A1B6A1B76BD4D75B0884C25C1612A30" x="1200.875" y="12.536" z="579.254" radius="1.0" WakeupRange="20.0" ChaseRange="0.0" PatrolRange="0.0" SpringRange="100">
+            <item No="1" id="funnpccloneTZ002030" ay="0.009" amount="1" refreshtime="-1" desc="戌兵弓箭手">
+                <position x="1201.001" z="579.699" ay="0.009" />
+            </item>
+        </creator>
+        <creator No="8A68D0091B1C48E893781DE96EE0D844" x="1135.073" y="10.235" z="669.377" radius="1.0" WakeupRange="20.0" ChaseRange="0.0" PatrolRange="0.0" SpringRange="100">
+            <item No="1" id="funnpccloneTZ002030" ay="2.034" amount="1" refreshtime="-1" desc="戌兵弓箭手">
+                <position x="1135.073" z="669.377" ay="2.034" />
+            </item>
+        </creator>
+        <creator No="1B0CB32CF02742DEAC77D481625C4841" x="1131.384" y="31.095" z="618.382" radius="1.0" WakeupRange="20.0" ChaseRange="0.0" PatrolRange="0.0" SpringRange="100">
+            <item No="1" id="funnpccloneTZ002030" ay="4.722" amount="1" refreshtime="-1" desc="戌兵弓箭手">
+                <position x="1131.221" z="618.334" ay="4.722" />
+            </item>
+        </creator>
+        <creator No="F58267F4C6934B67B8510863010EF079" x="977.749" y="3.478" z="548.116" radius="50.0" WakeupRange="10.0" ChaseRange="100.0" PatrolRange="0.0" SpringRange="100">
+            <item No="1" id="funnpccloneTZ002052" ay="1.499" amount="21" refreshtime="-1" desc="龙门关守兵">
+                <position x="962.064" z="565.411" ay="1.499" />
+                <position x="961.736" z="594.253" ay="0.069" />
+                <position x="961.121" z="540.454" ay="1.499" />
+                <position x="1012.983" z="534.539" ay="3.797" />
+                <position x="1013.167" z="532.274" ay="5.717" />
+                <position x="982.522" z="558.693" ay="1.499" BornAction="fi_stand;atkhit3" RandomAction="atkhit3" />
+                <position x="980.063" z="551.237" ay="1.499" BornAction="fi_stand;atkhit3" RandomAction="atkhit3" />
+                <position x="985.997" z="541.003" ay="1.499" BornAction="fi_stand;atkhit3" RandomAction="atkhit3" />
+                <position x="975.339" z="540.763" ay="1.499" BornAction="fi_stand;atkhit3" RandomAction="atkhit3" />
+                <position x="985.353" z="558.830" ay="4.749" az="6.260" BornAction="atkhit3;fi_stand" RandomAction="atkhit3" />
+                <position x="982.949" z="551.253" ay="4.749" az="6.243" BornAction="atkhit3;fi_stand" RandomAction="atkhit3" />
+                <position x="988.849" z="540.893" ay="4.749" az="6.243" BornAction="atkhit3;fi_stand" RandomAction="atkhit3" />
+                <position x="978.058" z="540.672" ay="4.749" az="6.243" BornAction="atkhit3;fi_stand" RandomAction="atkhit3" />
+                <position x="993.721" z="548.813" ay="1.499" BornAction="atkhit3;fi_stand" RandomAction="atkhit3" />
+                <position x="999.150" z="541.833" ay="1.499" BornAction="atkhit3;fi_stand" RandomAction="atkhit3" />
+                <position x="1004.814" z="548.476" ay="1.499" BornAction="atkhit3;fi_stand" RandomAction="atkhit3" />
+                <position x="1001.366" z="535.040" ay="1.499" BornAction="atkhit3;fi_stand" RandomAction="atkhit3" />
+                <position x="1007.645" z="548.613" ay="4.749" az="6.267" BornAction="fi_stand;atkhit3" RandomAction="atkhit3" />
+                <position x="996.607" z="548.830" ay="4.749" az="6.243" BornAction="fi_stand;atkhit3" RandomAction="atkhit3" />
+                <position x="1002.002" z="541.724" ay="4.749" az="6.243" BornAction="fi_stand;atkhit3" RandomAction="atkhit3" />
+                <position x="1004.085" z="534.949" ay="4.749" az="6.243" BornAction="fi_stand;atkhit3" RandomAction="atkhit3" />
+            </item>
+            <item No="2" id="FunnpcCloneTZ000003" ay="4.815" amount="1" refreshtime="-1" NotPositive="0" desc="禁地守卫·袭" />
+        </creator>
+        <creator No="C317EAB8EDED426890027516F7D6C148" x="1195.449" y="4.295" z="639.912" radius="80.0" WakeupRange="10.0" ChaseRange="100.0" PatrolRange="0.0" SpringRange="80">
+            <item No="1" id="funnpccloneTZ002052" ay="4.675" amount="7" refreshtime="-1" desc="龙门关守兵">
+                <position x="1206.043" z="660.725" ay="4.675" />
+                <position x="1206.245" z="635.428" ay="4.675" />
+                <position x="1205.434" z="607.732" ay="3.100" />
+            </item>
+            <item No="2" id="FunnpcCloneTZ000003" ay="4.815" amount="1" refreshtime="-1" NotPositive="0" desc="禁地守卫·袭" />
+        </creator>
+        <creator No="2B8BE2673048447896D800BB5B29F621" x="420.881" y="60.528" z="886.004" radius="1.0" WakeupRange="20.0" ChaseRange="0.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002022" ay="3.478" amount="1" refreshtime="-1" desc="马贼射手">
+                <position x="420.881" z="886.004" ay="3.478" />
+            </item>
+        </creator>
+        <creator No="07D03617A064437E9EEF6E93D38EAD56" x="405.495" y="60.528" z="873.821" radius="1.0" WakeupRange="20.0" ChaseRange="0.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002022" ay="1.818" amount="1" refreshtime="-1" desc="马贼射手">
+                <position x="405.424" z="873.739" ay="1.818" />
+            </item>
+        </creator>
+        <creator No="59A2D44254144E969B85C7B1A0429459" x="301.224" y="61.190" z="883.385" radius="1.0" WakeupRange="20.0" ChaseRange="0.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002022" ay="3.478" amount="1" refreshtime="-1" desc="马贼射手">
+                <position x="301.631" z="884.299" ay="3.478" />
+            </item>
+        </creator>
+        <creator No="BC386D87DCA24D91B4D809B736A27280" x="314.497" y="61.190" z="869.143" radius="1.0" WakeupRange="20.0" ChaseRange="0.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002022" ay="4.533" amount="1" refreshtime="-1" desc="马贼射手">
+                <position x="314.497" z="869.143" ay="4.533" />
+            </item>
+        </creator>
+        <creator No="5228C61731C64F28998C673135B0DBA6" x="253.488" y="64.369" z="998.374" radius="1.0" WakeupRange="20.0" ChaseRange="0.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002022" ay="2.193" amount="1" refreshtime="-1" desc="马贼射手">
+                <position x="253.621" z="998.315" ay="2.193" />
+            </item>
+        </creator>
+        <creator No="590F94A335AA445788950FE31E2822D3" x="251.161" y="65.431" z="1035.853" radius="1.0" WakeupRange="20.0" ChaseRange="0.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002022" ay="3.513" amount="1" refreshtime="-1" desc="马贼射手">
+                <position x="251.161" z="1035.853" ay="3.513" />
+            </item>
+        </creator>
+        <creator No="355078A1179A4B91B7C2BB61D38CD425" x="1019.257" y="4.295" z="611.590" radius="6.0" WakeupRange="15.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="3.256" amount="2" refreshtime="-1" desc="龙门关守兵">
+                <position x="1023.686" z="613.243" ay="3.256" />
+                <position x="1015.497" z="613.322" ay="3.106" />
+            </item>
+            <item No="2" id="FunnpcCloneTZ000004" ay="4.815" amount="1" refreshtime="-1" NotPositive="0" desc="禁地守卫·隐" />
+        </creator>
+        <creator No="913BAF1EA32046CCB1FBCAEC34453017" x="1130.140" y="4.336" z="612.450" radius="6.0" WakeupRange="15.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="3.246" amount="2" refreshtime="-1" desc="龙门关守兵">
+                <position x="1134.553" z="614.147" ay="3.246" />
+                <position x="1126.364" z="614.144" ay="3.096" />
+            </item>
+        </creator>
+        <creator No="A3FB1BD917E04B09BC0090F9D9422073" x="1153.706" y="4.533" z="584.230" radius="2.0" WakeupRange="8.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="6.229" amount="1" refreshtime="-1" desc="龙门关守兵">
+                <position x="1153.716" z="583.946" ay="6.229" />
+            </item>
+        </creator>
+        <creator No="3FD7926314A449798C503B143D9CAE72" x="1303.065" y="3.730" z="605.482" radius="60.0" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="5.0">
+            <item No="1" id="funnpccloneTZ002052" ay="1.465" amount="7" refreshtime="-1" desc="龙门关守兵">
+                <position x="1280.407" z="614.239" ay="1.465" BornAction="fi_stand" />
+                <position x="1284.974" z="582.806" ay="1.465" BornAction="fi_stand" />
+                <position x="1304.670" z="573.232" ay="1.465" BornAction="fi_stand" />
+                <position x="1295.393" z="627.557" ay="1.465" BornAction="fi_stand" />
+                <position x="1309.448" z="613.354" ay="1.465" BornAction="fi_stand" />
+                <position x="1309.924" z="640.672" ay="1.465" BornAction="fi_stand" />
+                <position x="1348.531" z="626.052" ay="1.752" BornAction="fi_stand" />
+            </item>
+            <item No="2" id="funnpccloneTZ002053" ay="1.465" amount="1" refreshtime="-1" desc="龙门关统领" />
+            <item No="3" id="funnpccloneTZ002054" ay="1.465" amount="6" refreshtime="-1" desc="龙门关戍兵头领">
+                <position x="1323.939" z="629.943" ay="1.465" WeaponMode="lspear1_1" />
+                <position x="1323.399" z="569.210" ay="1.465" BornAction="fi_stand" WeaponMode="lspear1_1" />
+                <position x="1312.133" z="596.145" ay="1.465" BornAction="fi_stand" WeaponMode="lspear1_1" />
+                <position x="1325.142" z="603.674" ay="1.465" BornAction="fi_stand" WeaponMode="lspear1_1" />
+                <position x="1339.946" z="589.644" ay="1.465" BornAction="fi_stand" WeaponMode="lspear1_1" />
+                <position x="1346.254" z="608.266" ay="1.465" BornAction="fi_stand" WeaponMode="lspear1_1" />
+            </item>
+            <item No="4" id="funnpccloneTZ002030" ay="1.595" amount="3" refreshtime="-1" desc="戌兵弓箭手">
+                <position x="1266.705" z="584.612" ay="1.595" BornAction="fi_stand" />
+                <position x="1268.145" z="601.068" ay="1.605" BornAction="fi_stand" />
+                <position x="1267.021" z="623.728" ay="1.660" BornAction="fi_stand" />
+            </item>
+        </creator>
+        <creator No="FB27E66307D847FF8865A8AC5E9305D2" x="20.326" y="0.868" z="835.532" radius="50.0" WakeupRange="8.0" ChaseRange="50.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002025" ay="1.156" amount="5" refreshtime="-1" desc="锦衣卫剑客">
+                <position x="-4.918" z="829.374" ay="1.156" BornAction="s_stand_2" RandomAction="" WeaponMode="sword1_2" />
+                <position x="-3.733" z="849.418" ay="4.325" BornAction="s_stand_2" RandomAction="" WeaponMode="sword1_2" />
+                <position x="15.423" z="855.771" ay="4.140" BornAction="s_stand_2" RandomAction="" WeaponMode="sword1_2" />
+                <position x="28.707" z="852.704" ay="3.250" BornAction="s_stand_2" RandomAction="" WeaponMode="sword1_2" />
+                <position x="20.967" z="828.046" ay="0.145" BornAction="s_stand_2" RandomAction="" WeaponMode="sword1_2" />
+            </item>
+            <item No="2" id="funnpccloneTZ002026" ay="0.300" amount="11" refreshtime="-1" desc="锦衣卫兵卒">
+                <position x="5.409" z="826.090" ay="0.300" />
+                <position x="6.185" z="828.098" ay="3.260" />
+                <position x="7.679" z="843.672" ay="0.245" />
+                <position x="8.579" z="845.215" ay="3.405" />
+                <position x="30.586" z="845.793" ay="3.375" />
+                <position x="26.870" z="845.901" ay="3.015" />
+                <position x="48.231" z="818.953" ay="2.515" />
+                <position x="44.091" z="815.319" ay="2.135" />
+                <position x="12.669" z="854.390" ay="1.440" />
+                <position x="16.360" z="853.414" ay="5.153" />
+                <position x="-11.495" z="841.841" ay="5.308" />
+            </item>
+            <item No="3" id="funnpccloneTZ002023" ay="0.805" amount="5" refreshtime="-1" desc="锦衣卫骑兵">
+                <position x="-13.534" z="841.925" ay="0.805" BornAction="b_stand_1" RandomAction="" WeaponName="b_r_npcitem321" WeaponMode="blade1_1" />
+                <position x="-12.862" z="844.086" ay="3.415" BornAction="b_stand_3" RandomAction="" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+                <position x="-3.848" z="827.564" ay="6.223" BornAction="b_stand_4" RandomAction="" WeaponName="b_r_npcitem328" WeaponMode="blade1_1" />
+                <position x="19.557" z="829.366" ay="1.730" BornAction="b_stand_4" RandomAction="" WeaponName="b_r_npcitem321" WeaponMode="blade1_1" />
+                <position x="21.777" z="829.853" ay="3.970" BornAction="s_stand_1" RandomAction="" WeaponName="s_r_npcitem026" WeaponMode="sword1_1" />
+            </item>
+            <item No="4" id="funnpccloneTZ002027" ay="0.750" amount="1" refreshtime="-1" desc="锦衣卫执行者">
+                <position x="-4.786" z="847.402" ay="0.750" BornAction="s_stand_1" RandomAction="" WeaponMode="sword1_1" />
+            </item>
+            <item No="5" id="funnpccloneTZ002051" ay="2.030" amount="1" refreshtime="-1" desc="力士">
+                <position x="-6.245" z="849.660" ay="2.030" BornAction="b_stand_4" RandomAction="" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="B9E38CCF4FCD4524BAD6E4174A8D97FD" x="379.065" y="57.725" z="984.846" radius="15.0" WakeupRange="8.0" ChaseRange="50.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002021" ay="3.875" amount="4" refreshtime="-1" desc="马贼蛮兵">
+                <position x="374.043" z="989.633" ay="3.875" BornAction="ds_stand_2" RandomAction="" WeaponName="da_rl_npcitem303" WeaponMode="dax1_1" />
+                <position x="371.926" z="989.756" ay="2.430" BornAction="h_stand_1" WeaponMode="hand3_1" />
+                <position x="383.862" z="986.893" ay="4.275" BornAction="h_stand_1" RandomAction="" WeaponMode="hand3_1" />
+                <position x="384.634" z="983.463" ay="4.740" BornAction="ds_stand_2" RandomAction="" WeaponName="da_rl_npcitem303" WeaponMode="dax1_1" />
+            </item>
+            <item No="2" id="funnpccloneTZ002047" ay="4.740" amount="3" refreshtime="-1" desc="马贼喽啰">
+                <position x="381.118" z="977.831" ay="4.740" />
+                <position x="379.985" z="976.016" ay="0.667" />
+                <position x="379.008" z="977.833" ay="2.400" />
+            </item>
+        </creator>
+        <creator No="04DCB2B4320A4EE091FBF148AF2FA301" x="363.993" y="62.288" z="945.486" radius="3.0" WakeupRange="8.0" ChaseRange="50.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002047" ay="2.000" amount="3" refreshtime="-1" desc="马贼喽啰">
+                <position x="362.264" z="946.045" ay="2.000" />
+                <position x="364.620" z="947.337" ay="3.675" />
+                <position x="365.088" z="944.874" ay="5.145" />
+            </item>
+        </creator>
+        <creator No="C8C36CA93AF144FC8A6501A26871AC99" x="377.840" y="62.288" z="964.256" radius="3.0" WakeupRange="8.0" ChaseRange="50.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002047" ay="2.000" amount="3" refreshtime="-1" desc="马贼喽啰">
+                <position x="376.111" z="964.816" ay="2.000" />
+                <position x="378.467" z="966.107" ay="3.675" />
+                <position x="378.935" z="963.645" ay="5.145" />
+            </item>
+        </creator>
+        <creator No="75496E5527744A278C060C46D408EB4B" x="362.766" y="62.288" z="970.134" radius="3.0" WakeupRange="8.0" ChaseRange="50.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002047" ay="3.675" amount="2" refreshtime="-1" desc="马贼喽啰">
+                <position x="363.393" z="971.984" ay="3.675" />
+                <position x="361.037" z="970.693" ay="2.000" />
+            </item>
+            <item No="2" id="funnpccloneTZ002021" ay="6.048" amount="1" refreshtime="-1" desc="马贼蛮兵">
+                <position x="363.291" z="969.385" ay="6.048" BornAction="h_stand_1" WeaponMode="hand3_1" />
+            </item>
+        </creator>
+        <creator No="19FB5C0D26034AEFA3593862A9551F15" x="346.770" y="57.102" z="962.028" radius="3.0" WakeupRange="8.0" ChaseRange="50.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002047" ay="3.575" amount="2" refreshtime="-1" desc="马贼喽啰">
+                <position x="344.807" z="963.711" ay="3.575" />
+                <position x="347.864" z="961.416" ay="3.925" />
+            </item>
+        </creator>
+        <creator No="86A0FB3EF84D43ED973ECCD1F0A555C6" x="349.370" y="53.158" z="880.695" radius="13.0" WakeupRange="8.0" ChaseRange="50.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002047" ay="2.000" amount="3" refreshtime="-1" desc="马贼喽啰">
+                <position x="348.248" z="881.198" ay="2.000" />
+                <position x="349.997" z="882.546" ay="3.675" />
+                <position x="350.464" z="880.083" ay="5.145" />
+            </item>
+            <item No="2" id="brokennpc002025" ay="5.145" amount="3" refreshtime="-1" desc="">
+                <position x="345.983" z="872.784" ay="5.145" />
+                <position x="344.382" z="870.874" ay="5.145" />
+                <position x="342.897" z="871.857" ay="0.597" />
+            </item>
+            <item No="3" id="FunnpcCloneTZ000003" ay="4.815" amount="1" refreshtime="-1" NotPositive="0" desc="禁地守卫·袭" />
+        </creator>
+        <creator No="FC405BC9999549408FC602C0A806B735" x="327.908" y="50.747" z="877.357" radius="3.0" WakeupRange="8.0" ChaseRange="50.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002047" ay="2.000" amount="3" refreshtime="-1" desc="马贼喽啰">
+                <position x="326.883" z="877.170" ay="2.000" />
+                <position x="328.359" z="878.352" ay="3.675" />
+                <position x="329.215" z="876.785" ay="5.145" />
+            </item>
+            <item No="2" id="FunnpcCloneTZ000001" ay="4.815" amount="1" refreshtime="-1" NotPositive="0" desc="禁地守卫·毒" />
+        </creator>
+        <creator No="EF7474E5BCA540AD9DEABC318D481AD6" x="375.214" y="52.013" z="881.417" radius="8.0" WakeupRange="8.0" ChaseRange="50.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002047" ay="2.000" amount="3" refreshtime="-1" desc="马贼喽啰">
+                <position x="373.484" z="881.977" ay="2.000" />
+                <position x="375.841" z="883.268" ay="3.675" />
+                <position x="376.308" z="880.806" ay="5.360" />
+            </item>
+            <item No="2" id="brokennpc002025" ay="0.582" amount="3" refreshtime="-1" desc="">
+                <position x="377.753" z="882.636" ay="0.582" />
+                <position x="377.089" z="886.728" ay="0.582" />
+                <position x="376.148" z="885.300" ay="0.582" />
+            </item>
+        </creator>
+        <creator No="5D05A10D34F44A4B8D7F3C2869AB5FFA" x="297.759" y="50.613" z="956.293" radius="3.0" WakeupRange="8.0" ChaseRange="50.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002047" ay="2.000" amount="3" refreshtime="-1" desc="马贼喽啰">
+                <position x="296.030" z="956.853" ay="2.000" />
+                <position x="298.387" z="958.144" ay="3.675" />
+                <position x="298.854" z="955.682" ay="5.145" />
+            </item>
+        </creator>
+        <creator No="632E2C28B6BC47C9A690FADB10991B36" x="281.914" y="50.216" z="982.946" radius="3.0" WakeupRange="8.0" ChaseRange="50.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002047" ay="2.000" amount="3" refreshtime="-1" desc="马贼喽啰">
+                <position x="280.184" z="983.506" ay="2.000" />
+                <position x="282.541" z="984.797" ay="3.675" />
+                <position x="283.008" z="982.334" ay="5.145" />
+            </item>
+            <item No="2" id="FunnpcCloneTZ000005" ay="4.815" amount="1" refreshtime="-1" NotPositive="0" desc="禁地守卫·元" />
+        </creator>
+        <creator No="210A7715EC44440D90BD49FCBCA589E1" x="223.305" y="48.724" z="1049.694" radius="3.0" WakeupRange="8.0" ChaseRange="50.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002047" ay="2.000" amount="3" refreshtime="-1" desc="马贼喽啰">
+                <position x="221.576" z="1050.254" ay="2.000" />
+                <position x="223.932" z="1051.545" ay="3.675" />
+                <position x="224.400" z="1049.083" ay="5.145" />
+            </item>
+        </creator>
+        <creator No="0AA5C1ACE30C40E0ADD7D74C34F6C853" x="311.799" y="53.583" z="915.273" radius="3.0" WakeupRange="8.0" ChaseRange="50.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002047" ay="2.000" amount="3" refreshtime="-1" desc="马贼喽啰">
+                <position x="310.070" z="915.833" ay="2.000" />
+                <position x="312.426" z="917.124" ay="3.675" />
+                <position x="312.894" z="914.662" ay="5.145" />
+            </item>
+            <item No="2" id="FunnpcCloneTZ000003" ay="4.815" amount="1" refreshtime="-1" NotPositive="0" desc="禁地守卫·袭" />
+        </creator>
+        <creator No="7DA8AF47B99F4180B71A9A9830CBD61D" x="391.401" y="50.515" z="947.606" radius="3.0" WakeupRange="8.0" ChaseRange="50.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002047" ay="2.000" amount="3" refreshtime="-1" desc="马贼喽啰">
+                <position x="389.884" z="948.062" ay="2.000" />
+                <position x="392.028" z="949.457" ay="3.675" />
+                <position x="392.496" z="946.994" ay="5.145" />
+            </item>
+        </creator>
+        <creator No="6697BEF850A9478C81AAC20F81CF1684" x="941.617" y="18.753" z="664.947" radius="8.0" WakeupRange="8.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="1.612" amount="1" refreshtime="-1" desc="龙门关守兵">
+                <position x="936.706" z="667.405" ay="1.612" />
+            </item>
+        </creator>
+        <creator No="919D8B616702456C8D16C2C3153EFBE5" x="941.643" y="18.753" z="555.631" radius="8.0" WakeupRange="8.0" ChaseRange="50.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="1.612" amount="1" refreshtime="-1" desc="龙门关守兵">
+                <position x="936.540" z="557.895" ay="1.612" />
+            </item>
+        </creator>
+        <creator No="EB6B75B29508428781AAC3B950D108B7" x="941.687" y="18.754" z="537.043" radius="8.0" WakeupRange="8.0" ChaseRange="50.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="1.612" amount="1" refreshtime="-1" desc="龙门关守兵">
+                <position x="936.742" z="533.946" ay="1.612" />
+            </item>
+        </creator>
+        <creator No="6A6F119E46BB431DA75DCF9073197824" x="1225.726" y="18.726" z="664.721" radius="8.0" WakeupRange="8.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="4.772" amount="1" refreshtime="-1" desc="龙门关守兵">
+                <position x="1230.613" z="662.538" ay="4.772" />
+            </item>
+        </creator>
+        <creator No="B65A266887C44C1BB24B144A32051FBA" x="1225.659" y="18.725" z="645.870" radius="8.0" WakeupRange="8.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="4.737" amount="1" refreshtime="-1" desc="龙门关守兵">
+                <position x="1230.749" z="643.720" ay="4.737" />
+            </item>
+        </creator>
+        <creator No="07D69BC976D642DB98F5F1E5DD6651A1" x="1225.592" y="18.725" z="555.135" radius="8.0" WakeupRange="8.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="4.737" amount="1" refreshtime="-1" desc="龙门关守兵">
+                <position x="1231.056" z="553.076" ay="4.737" />
+            </item>
+        </creator>
+        <creator No="587AF10B075B4BC7B19677CD46CAAE5C" x="1225.659" y="18.726" z="536.499" radius="8.0" WakeupRange="8.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="4.737" amount="1" refreshtime="-1" desc="龙门关守兵">
+                <position x="1231.375" z="534.898" ay="4.737" />
+            </item>
+        </creator>
+        <creator No="A249A3760A894D30B43D76B90E697DEC" x="1186.113" y="18.697" z="692.378" radius="8.0" WakeupRange="8.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="3.115" amount="2" refreshtime="-1" desc="龙门关守兵">
+                <position x="1181.775" z="697.911" ay="3.115" />
+                <position x="1189.304" z="698.107" ay="3.115" />
+            </item>
+        </creator>
+        <creator No="50118A6406B546DFB1E3B2AC813D15C0" x="980.590" y="18.723" z="692.500" radius="8.0" WakeupRange="8.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="3.150" amount="2" refreshtime="-1" desc="龙门关守兵">
+                <position x="976.448" z="698.181" ay="3.150" />
+                <position x="983.980" z="698.114" ay="3.150" />
+            </item>
+        </creator>
+        <creator No="E2D5DC4F1BF84FCCB3F70DA5A47CF84E" x="963.302" y="18.723" z="692.177" radius="8.0" WakeupRange="8.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="3.135" amount="2" refreshtime="-1" desc="龙门关守兵">
+                <position x="959.075" z="697.796" ay="3.135" />
+                <position x="966.608" z="697.841" ay="3.135" />
+            </item>
+        </creator>
+        <creator No="9F88A968623B4223B6BB208B76C83220" x="964.408" y="18.725" z="508.897" radius="8.0" WakeupRange="8.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="6.280" amount="2" refreshtime="-1" desc="龙门关守兵">
+                <position x="968.616" z="503.264" ay="6.280" />
+                <position x="961.084" z="503.244" ay="6.280" />
+            </item>
+        </creator>
+        <creator No="26D327D3ABB94550B743E5C8BCB61115" x="981.659" y="18.725" z="508.824" radius="8.0" WakeupRange="8.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="6.280" amount="2" refreshtime="-1" desc="龙门关守兵">
+                <position x="985.866" z="503.191" ay="6.280" />
+                <position x="978.334" z="503.171" ay="6.280" />
+            </item>
+        </creator>
+        <creator No="6D8A0438800F47339C16E9C7E01B1ABA" x="1204.100" y="18.697" z="509.294" radius="8.0" WakeupRange="8.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="6.280" amount="2" refreshtime="-1" desc="龙门关守兵">
+                <position x="1208.308" z="503.662" ay="6.280" />
+                <position x="1200.776" z="503.642" ay="6.280" />
+            </item>
+        </creator>
+        <creator No="E994E0DA645D49DDA2E78000202E8ECF" x="1186.609" y="18.697" z="509.467" radius="8.0" WakeupRange="8.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="6.280" amount="2" refreshtime="-1" desc="龙门关守兵">
+                <position x="1190.817" z="503.834" ay="6.280" />
+                <position x="1183.285" z="503.814" ay="6.280" />
+            </item>
+        </creator>
+        <creator No="7FA17F4B95A94ADCA3DA7B6C8C2FC373" x="995.072" y="3.620" z="643.871" radius="50.0" WakeupRange="10.0" ChaseRange="50.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="1.608" amount="6" refreshtime="-1" desc="龙门关守兵">
+                <position x="961.643" z="635.846" ay="1.608" />
+                <position x="961.280" z="659.981" ay="1.608" />
+                <position x="981.343" z="663.546" ay="0.013" />
+                <position x="981.231" z="623.752" ay="3.218" />
+                <position x="1003.481" z="645.774" ay="4.703" />
+                <position x="1003.415" z="639.057" ay="4.743" />
+            </item>
+            <item No="2" id="FunnpcCloneTZ000004" ay="4.815" amount="1" refreshtime="-1" NotPositive="0" desc="禁地守卫·隐" />
+        </creator>
+        <creator No="CF9FEBC9907841EEB88A0A68689D3017" x="1145.984" y="4.631" z="584.243" radius="2.0" WakeupRange="8.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="6.189" amount="1" refreshtime="-1" desc="龙门关守兵">
+                <position x="1146.080" z="584.375" ay="6.189" />
+            </item>
+        </creator>
+        <creator No="5F665D9DE3814785896EBE9DFAD74245" x="1151.360" y="31.095" z="578.757" radius="1.0" WakeupRange="20.0" ChaseRange="0.0" PatrolRange="0.0" SpringRange="100">
+            <item No="1" id="funnpccloneTZ002030" ay="6.157" amount="1" refreshtime="-1" desc="戌兵弓箭手" />
+        </creator>
+        <creator No="2E323C3AE75B4B57866EA80814E9228E" x="367.977" y="51.110" z="869.684" radius="10.0" WakeupRange="10.0" ChaseRange="100.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002047" ay="4.162" amount="3" refreshtime="-1" desc="马贼喽啰">
+                <position x="367.794" z="870.831" ay="4.162" />
+                <position x="366.074" z="869.679" ay="0.977" />
+                <position x="368.079" z="868.461" ay="6.020" />
+            </item>
+        </creator>
+        <creator No="AD0CD4B7DF764C929F5A95D66E108685" x="381.915" y="61.472" z="862.127" radius="1.0" WakeupRange="20.0" ChaseRange="0.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002022" ay="1.818" amount="1" refreshtime="-1" desc="马贼射手">
+                <position x="382.080" z="861.875" ay="1.818" />
+            </item>
+        </creator>
+        <creator No="B0660B37215048E7A3C3E28F7A6B45D6" x="349.472" y="61.922" z="857.408" radius="1.0" WakeupRange="20.0" ChaseRange="0.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002022" ay="1.818" amount="1" refreshtime="-1" desc="马贼射手">
+                <position x="349.607" z="857.192" ay="1.818" />
+            </item>
+        </creator>
+        <creator No="512C0C235AEB497C81828C17A6197CF4" x="1016.133" y="31.097" z="618.050" radius="1.0" WakeupRange="20.0" ChaseRange="0.0" PatrolRange="0.0" SpringRange="100">
+            <item No="1" id="funnpccloneTZ002030" ay="3.757" amount="1" refreshtime="-1" desc="戌兵弓箭手">
+                <position x="1016.187" z="618.095" ay="3.757" />
+            </item>
+        </creator>
+        <creator No="1C92352820C9444994911B3E5B2D19CA" x="1037.881" y="4.295" z="516.562" radius="5.0" WakeupRange="10.0" ChaseRange="30.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002052" ay="4.637" amount="2" refreshtime="-1" desc="龙门关守兵">
+                <position x="1038.673" z="513.701" ay="4.637" />
+                <position x="1038.676" z="518.720" ay="4.572" />
+            </item>
+        </creator>
+        <creator No="E004534E3946422E8AA479FFE95C8D13" x="443.485" y="60.873" z="924.413" radius="1.0" WakeupRange="20.0" ChaseRange="0.0" PatrolRange="0.0">
+            <item No="1" id="funnpccloneTZ002022" ay="3.643" amount="1" refreshtime="-1" desc="马贼射手">
+                <position x="443.485" z="924.413" ay="3.643" />
+            </item>
+        </creator>
+        <creator No="8DBA87051D3E48CA897E91D6F0479072" x="148.793" y="5.553" z="606.803" radius="5.0" WakeupRange="16.0" ChaseRange="50.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="funnpccloneTZ002015" ay="4.815" amount="2" refreshtime="-1" NotPositive="0" desc="王府高手">
+                <position x="151.524" z="603.571" ay="4.815" />
+                <position x="146.052" z="604.278" ay="4.815" />
+            </item>
+            <item No="2" id="funnpccloneTZ002016" ay="4.815" amount="2" refreshtime="-1" NotPositive="0" desc="王府侍卫">
+                <position x="151.438" z="609.643" ay="4.815" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="146.265" z="609.654" ay="4.815" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+            </item>
+            <item No="3" id="FunnpcCloneTZ000003" ay="4.815" amount="1" refreshtime="-1" NotPositive="0" desc="禁地守卫·袭" />
+        </creator>
+        <creator No="BEDE9DBEDE784E309B80BAA6C0FCA75B" x="188.181" y="7.487" z="591.014" radius="5.0" WakeupRange="16.0" ChaseRange="50.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="funnpccloneTZ002015" ay="4.815" amount="4" refreshtime="-1" NotPositive="0" desc="王府高手">
+                <position x="190.348" z="587.761" ay="4.815" />
+                <position x="185.401" z="588.088" ay="4.815" />
+                <position x="190.798" z="593.133" ay="4.815" />
+                <position x="185.499" z="593.114" ay="4.815" />
+            </item>
+            <item No="2" id="FunnpcCloneTZ000005" ay="4.815" amount="1" refreshtime="-1" NotPositive="0" desc="禁地守卫·元" />
+        </creator>
+        <creator No="1F3243E9185D45E083129E8EAAC8D9DF" x="170.935" y="8.792" z="577.219" radius="5.0" WakeupRange="16.0" ChaseRange="50.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="funnpccloneTZ002015" ay="4.815" amount="4" refreshtime="-1" NotPositive="0" desc="王府高手">
+                <position x="173.742" z="573.976" ay="4.815" />
+                <position x="168.158" z="573.960" ay="4.815" />
+                <position x="174.333" z="577.915" ay="4.815" />
+                <position x="167.500" z="577.498" ay="4.815" />
+            </item>
+            <item No="2" id="funnpccloneTZ002016" ay="4.815" amount="2" refreshtime="-1" NotPositive="0" desc="王府侍卫">
+                <position x="174.152" z="579.813" ay="4.815" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="168.837" z="580.094" ay="4.815" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="44A84B05817D4456B4039BC2B450A9C2" x="152.238" y="9.288" z="544.066" radius="5.0" WakeupRange="16.0" ChaseRange="50.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="funnpccloneTZ002015" ay="4.815" amount="4" refreshtime="-1" NotPositive="0" desc="王府高手">
+                <position x="155.147" z="541.377" ay="4.815" />
+                <position x="150.244" z="541.377" ay="4.815" />
+                <position x="154.314" z="545.948" ay="4.815" />
+                <position x="148.816" z="545.637" ay="4.815" />
+            </item>
+            <item No="2" id="FunnpcCloneTZ000005" ay="4.815" amount="1" refreshtime="-1" NotPositive="0" desc="禁地守卫·元" />
+        </creator>
+        <creator No="0C11A8F8D0FD41BEBF73450283B258B6" x="183.176" y="14.340" z="520.066" radius="5.0" WakeupRange="16.0" ChaseRange="50.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="funnpccloneTZ002015" ay="4.815" amount="1" refreshtime="-1" NotPositive="0" desc="王府高手" />
+            <item No="2" id="funnpccloneTZ002016" ay="4.815" amount="3" refreshtime="-1" NotPositive="0" desc="王府侍卫">
+                <position x="185.584" z="522.391" ay="4.815" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="181.699" z="522.605" ay="4.815" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="180.052" z="518.560" ay="4.815" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+            </item>
+            <item No="3" id="FunnpcCloneTZ000002" ay="4.815" amount="1" refreshtime="-1" NotPositive="0" desc="禁地守卫·怒" />
+        </creator>
+        <creator No="280643F2C0E84E5485A35E2D5F3E2228" x="142.758" y="15.958" z="508.617" radius="5.0" WakeupRange="16.0" ChaseRange="50.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="funnpccloneTZ002016" ay="4.815" amount="4" refreshtime="-1" NotPositive="0" desc="王府侍卫">
+                <position x="144.812" z="506.261" ay="4.815" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="145.233" z="510.444" ay="4.815" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="141.453" z="505.381" ay="4.815" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="141.915" z="511.077" ay="4.815" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+            </item>
+            <item No="2" id="FunnpcCloneTZ000005" ay="4.815" amount="1" refreshtime="-1" NotPositive="0" desc="禁地守卫·元" />
+        </creator>
+        <creator No="623A83D70C47410485F28133CAF7F0A3" x="153.112" y="20.722" z="466.891" radius="5.0" WakeupRange="30.0" ChaseRange="50.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="funnpccloneTZ002015" ay="4.815" amount="2" refreshtime="-1" NotPositive="0" desc="王府高手">
+                <position x="156.979" z="464.601" ay="4.815" />
+                <position x="151.092" z="463.199" ay="4.815" />
+            </item>
+            <item No="2" id="funnpccloneTZ002016" ay="4.815" amount="2" refreshtime="-1" NotPositive="0" desc="王府侍卫">
+                <position x="156.247" z="469.705" ay="4.815" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="149.961" z="468.597" ay="4.815" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+            </item>
+            <item No="3" id="FunnpcCloneTZ000004" ay="4.815" amount="1" refreshtime="-1" NotPositive="0" desc="禁地守卫·隐" />
+        </creator>
+        <creator No="5A6310C271D74DBDA7749582C8BB8557" x="213.855" y="22.110" z="466.063" radius="5.0" WakeupRange="30.0" ChaseRange="50.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="funnpccloneTZ002015" ay="4.815" amount="4" refreshtime="-1" NotPositive="0" desc="王府高手">
+                <position x="216.843" z="463.719" ay="4.815" />
+                <position x="211.846" z="463.611" ay="4.815" />
+                <position x="216.371" z="467.931" ay="4.815" />
+                <position x="210.968" z="468.479" ay="4.815" />
+            </item>
+            <item No="2" id="FunnpcCloneTZ000001" ay="4.815" amount="1" refreshtime="-1" NotPositive="0" desc="禁地守卫·毒" />
+        </creator>
+        <creator No="C24F5ECB80F44621982CFC40C99BFE88" x="81.732" y="7.614" z="544.262" radius="5.0" WakeupRange="30.0" ChaseRange="50.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="funnpccloneTZ002015" ay="4.815" amount="2" refreshtime="-1" NotPositive="0" desc="王府高手">
+                <position x="84.852" z="541.999" ay="4.815" />
+                <position x="78.871" z="541.998" ay="4.815" />
+            </item>
+            <item No="2" id="funnpccloneTZ002016" ay="4.815" amount="2" refreshtime="-1" NotPositive="0" desc="王府侍卫">
+                <position x="84.764" z="546.583" ay="4.815" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="79.239" z="546.737" ay="4.815" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="9F79E213ADFD4ACFB43E407ED4FB444B" x="80.199" y="16.711" z="493.639" radius="5.0" WakeupRange="30.0" ChaseRange="50.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="funnpccloneTZ002015" ay="4.815" amount="2" refreshtime="-1" NotPositive="0" desc="王府高手">
+                <position x="84.285" z="493.800" ay="4.815" />
+                <position x="81.844" z="490.125" ay="4.815" />
+            </item>
+            <item No="2" id="funnpccloneTZ002016" ay="4.815" amount="3" refreshtime="-1" NotPositive="0" desc="王府侍卫">
+                <position x="81.728" z="497.327" ay="4.815" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="77.788" z="495.925" ay="4.815" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="77.971" z="491.143" ay="4.815" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="C041D0038DA84CE292367DB2E9583FEB" x="111.636" y="5.911" z="607.815" radius="5.0" WakeupRange="30.0" ChaseRange="50.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="funnpccloneTZ002015" ay="4.815" amount="2" refreshtime="-1" NotPositive="0" desc="王府高手">
+                <position x="115.196" z="605.920" ay="4.815" />
+                <position x="109.588" z="605.427" ay="4.815" />
+            </item>
+            <item No="2" id="funnpccloneTZ002016" ay="4.815" amount="2" refreshtime="-1" NotPositive="0" desc="王府侍卫">
+                <position x="113.960" z="609.953" ay="4.815" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="108.693" z="609.160" ay="4.815" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="A917CAA035204C1494E94A5C95F0769F" x="225.711" y="4.651" z="610.483" radius="5.0" WakeupRange="30.0" ChaseRange="50.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="funnpccloneTZ002015" ay="4.815" amount="2" refreshtime="-1" NotPositive="0" desc="王府高手">
+                <position x="228.747" z="608.407" ay="4.815" />
+                <position x="224.775" z="607.410" ay="4.815" />
+            </item>
+            <item No="2" id="funnpccloneTZ002016" ay="4.815" amount="2" refreshtime="-1" NotPositive="0" desc="王府侍卫">
+                <position x="228.354" z="612.652" ay="4.815" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="222.815" z="611.955" ay="4.815" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+            </item>
+            <item No="3" id="FunnpcCloneTZ000003" ay="4.815" amount="1" refreshtime="-1" NotPositive="0" desc="禁地守卫·袭" />
+        </creator>
+    </randomcreator>
+</object>

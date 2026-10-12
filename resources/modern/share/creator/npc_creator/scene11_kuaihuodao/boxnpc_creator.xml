@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="220DFC75DACD42D1B1CB153FF5125812" x="-4164.761" y="10.553" z="472.638" radius="15.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1" SubSceneNo="8338">
+            <item No="1" id="box_khd_xld_002" ay="5.505" amount="5" refreshtime="-1" NotPositive="0" desc="">
+                <position x="-4158.620" z="465.762" ay="5.505" />
+                <position x="-4173.510" z="480.603" ay="2.438" />
+                <position x="-4166.340" z="464.148" ay="2.293" />
+                <position x="-4172.769" z="481.392" ay="5.507" />
+                <position x="-4168.559" z="465.724" ay="1.285" />
+            </item>
+        </creator>
+        <creator No="A4E68BE61F1F434E999A7E834431AE77" x="-4166.817" y="10.553" z="581.504" radius="15.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1" SubSceneNo="8338">
+            <item No="1" id="box_khd_xld_002" ay="-1" amount="5" refreshtime="-1" NotPositive="0" desc="">
+                <position x="-4174.682" z="583.490" ay="-1" />
+                <position x="-4172.350" z="574.734" ay="-1" />
+                <position x="-4159.283" z="591.649" ay="3.187" />
+                <position x="-4158.017" z="590.153" ay="-1" />
+                <position x="-4173.621" z="575.856" ay="-1" />
+            </item>
+        </creator>
+        <creator No="4E01781CB3C14F549C66926DE0358749" x="-4057.203" y="10.553" z="473.657" radius="15.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1" SubSceneNo="8338">
+            <item No="1" id="box_khd_xld_002" ay="2.258" amount="5" refreshtime="-1" NotPositive="0" desc="">
+                <position x="-4049.741" z="469.496" ay="2.258" />
+                <position x="-4050.567" z="479.988" ay="4.001" />
+                <position x="-4051.951" z="480.935" ay="3.926" />
+                <position x="-4049.770" z="472.548" ay="0.763" />
+                <position x="-4065.455" z="464.365" ay="0.827" />
+            </item>
+        </creator>
+        <creator No="53EC07279BAB4A4D9144CB4FDE48CD17" x="-4057.810" y="10.553" z="582.971" radius="15.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1" SubSceneNo="8338">
+            <item No="1" id="box_khd_xld_002" ay="-1" amount="5" refreshtime="-1" NotPositive="0" desc="">
+                <position x="-4055.324" z="590.718" ay="-1" />
+                <position x="-4065.092" z="591.474" ay="3.934" />
+                <position x="-4055.296" z="580.110" ay="-1" />
+                <position x="-4050.258" z="575.551" ay="-1" />
+                <position x="-4065.131" z="590.435" ay="-1" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

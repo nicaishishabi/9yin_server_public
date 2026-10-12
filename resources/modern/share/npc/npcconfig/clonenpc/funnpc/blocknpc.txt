@@ -1,0 +1,152 @@
+NPC编号	对象类型	名称	模型编号	头像	类型	NPC种类ID	响应范围	选择操作分类	脚本编号	缩放	AI编辑包	是否服务器检测碰撞	碰撞外形分类(0:圆柱形)	碰撞半径	是否预载入
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	script	Name	Resource	Photo	NpcType	CKindID	SpringRange	SelectState	LuaScript	Scale	AIEditorPackID	NoCollide	CollideShape	CollideRadius	PreLoad
+BlockNpc00001	BlockNpc	门	npc\worldnpc266	icon\funcnpc\clonedoor.png	172	4	0.1	0	npc\block_npc.lua						1
+BlockNpc00002	BlockNpc	拒马	npc\fbmac00007		172	4	0.1	0	npc\block_npc.lua						1
+BlockNpc00003	BlockNpc	水相石门	npc\fbmac00015		172	4	0.1	0	npc\block_npc.lua						1
+BlockNpc00004	BlockNpc	金相石门	npc\fbmac00014		172	4	0.1	0	npc\block_npc.lua						1
+BlockNpc00005	BlockNpc	火相石门	npc\fbmac00016		172	4	0.1	0	npc\block_npc.lua						1
+BlockNpc00006	BlockNpc	风相石门	npc\fbmac00017		172	4	0.1	0	npc\block_npc.lua						1
+BlockNpc00007	BlockNpc	天宫门	npc\fbmac00010		172	4	0.1	0	npc\block_npc.lua						
+BlockNpc00008	BlockNpc	地宫石门	npc\fbmac00011		172	4	0.1	0	npc\block_npc.lua						
+BlockNpc00009	BlockNpc	五行小塔	npc\fbmac00013		167	4	0.1	0	npc\block_npc.lua						
+BlockNpc00010	BlockNpc	地宫中央的石柱	npc\fbmac00026		172	4	0.1	0	npc\block_npc.lua						
+BlockNpc00011	BlockNpc	庄门透明墙	npc\fbblock00000		172	4	0.1	0	npc\block_npc.lua						
+BlockNpc00021	BlockNpc	庄门墙	npc\fbmac00007		172	4	0.1	0	npc\block_npc.lua						
+BlockNpc00015	BlockNpc	四相外门有光	npc\fbmac00037		172	4	0.1	0	npc\block_npc.lua						
+BlockNpc00016	BlockNpc	棺材	npc\itemnpc190		172	4	0.1	0	npc\block_npc.lua						
+BlockNpc00017	BlockNpc	四相外门无光	npc\fbmac00037a		172	4	0.1	0	npc\block_npc.lua						
+BlockNpc00018	BlockNpc	庄内透明墙	npc\fbblock00000		172	4	0.1	0	npc\block_npc.lua						
+BlockNpc00019	BlockNpc	四相外门移动光	npc\fbmac00037b		172	4	0.1	0	npc\block_npc.lua						
+BlockNpc00020	BlockNpc	防穿透透明墙	npc\fbblock00000		172	4	0.1	0	npc\block_npc.lua						
+BlockNpc00022	BlockNpc	后山透明墙	npc\fbblock00000		172	4	0.1	0	npc\block_npc.lua						
+BlockNpc00023	BlockNpc	后山墙	npc\fbmac00519a		172	4	0.1	0	npc\block_npc.lua						
+															
+															
+BlockClone005001	BlockNpc	地板机关1触发的门	npc\worldnpc266	icon\funcnpc\worldnpc097.png	172		2	2	npc\block_npc.lua						
+BlockClone005002	BlockNpc	地板机关2触发的门	npc\worldnpc266	icon\funcnpc\worldnpc097.png	172		2	2	npc\block_npc.lua						
+BlockClone005003	BlockNpc	塔林阻挡npc	npc\fbmac004013		172	4	0.1	0	npc\block_npc.lua						1
+															
+BlockClone009001	BlockNpc	副本传送门	npc\worldnpc266	icon\funcnpc\worldnpc097.png	172		2	2	npc\block_npc.lua						
+BlockClone009011	BlockNpc	舍利台	npc\itemnpc488		172		2	2	npc\block_npc.lua						
+															
+BlockClone002001	BlockNpc	客栈内墙	npc\fbmac002019		172		2	0	npc\block_npc.lua						
+BlockClone002002	BlockNpc	客栈外墙	npc\fbmac002020		172		2	0	npc\block_npc.lua						
+BlockClone002003	BlockNpc	客栈屋顶	npc\fbmac002021		172		2	0	npc\block_npc.lua						
+															
+BlockClone003001	BlockNpc	村口大门	npc\fbmac004013		172	4	0.1	0	npc\block_npc.lua						1
+BlockClone003002	BlockNpc	村口障碍	npc\fbmac004013		172	4	0.1	0	npc\block_npc.lua						1
+BlockClone003003	BlockNpc	祠堂院门	npc\fbmac004013		172	4	0.1	0	npc\block_npc.lua						1
+BlockClone003004	BlockNpc	赵家院门	npc\fbmac004013		172	4	0.1	0	npc\block_npc.lua						1
+BlockClone003005	BlockNpc	墓室墓碑	npc\fbmac004013		172	4	0.1	0	npc\block_npc.lua						1
+															
+BlockClone019006	BlockNpc	巨剑	npc\fbmac019016		172	4	5	0	npc\block_npc.lua						
+BlockClone019007	BlockNpc	阻挡空气墙	npc\fbmac004013		172	4	5	0	npc\block_npc.lua						
+BlockClone019050	BlockNpc	阻挡空气墙	npc\fbmac019011a		172	4	5	0	npc\block_npc.lua	"2.3,2.3,2.3"					
+BlockClone019051	BlockNpc	阻挡空气墙	npc\fbblock00000		172	4	5	0	npc\block_npc.lua	"2.1,2.1,2.1"					
+BlockClone019052	BlockNpc	落石1	npc\itemnpc059		172	4	5	0	npc\clone\clone019\Invisible.lua		523				
+BlockClone019053	BlockNpc	落石2	npc\itemnpc075		172	4	5	0	npc\clone\clone019\Invisible.lua		523				
+BlockClone019054	BlockNpc	落石3	npc\fbmac005011		172	4	5	0	npc\clone\clone019\Invisible.lua		523				
+BlockClone019055	BlockNpc	落石4	npc\fbmac005020a		172	4	5	0	npc\clone\clone019\Invisible.lua		523				
+BlockClone019056	BlockNpc	落石5	npc\fbmac005020b		172	4	5	0	npc\clone\clone019\Invisible.lua		523				
+BlockClone019057	BlockNpc	落石6	npc\fbmac005020c		172	4	5	0	npc\clone\clone019\Invisible.lua		523				
+BlockClone019058	BlockNpc	落石7	npc\fbmac005020d		172	4	5	0	npc\clone\clone019\Invisible.lua		523				
+BlockClone019059	BlockNpc	落石8	npc\fbmac005020e		172	4	5	0	npc\clone\clone019\Invisible.lua		523				
+BlockClone019060	BlockNpc	副本门阻挡空气墙	npc\fbmac004013		172	4	5	0	npc\block_npc.lua						
+															
+															
+BlockClone004001	BlockNpc	阻挡空气墙	npc\fbmac004013		172	4	2	0	npc\block_npc.lua						
+BlockClone004002	BlockNpc	阻挡空气墙	npc\fbmac004013		172	4	2	0	npc\block_npc.lua						
+BlockClone004003	BlockNpc	阻挡空气墙	npc\fbmac004013		172	4	2	0	npc\block_npc.lua						
+BlockClone004004	BlockNpc	暗影洞落石	npc\itemnpc669		172	4	2	0	npc\block_npc.lua						
+BlockClone004005	BlockNpc	暗影洞铁门	npc\fbmac00536		172	4	2	0	npc\block_npc.lua						
+BlockClone004006	BlockNpc	暗影洞关闭石门	npc\fbmac021033		172	4	0.1	0	npc\block_npc.lua						
+BlockClone004007	BlockNpc	暗影洞关闭石门(破碎)	npc\brokennpc\brokenitem061		172	4	0.1	0	npc\block_npc.lua						
+BlockClone004008	BlockNpc	阻挡空气墙	npc\fbmac004013		172	4	2	0	npc\block_npc.lua						
+															
+															
+BlockClone021001	BlockNpc	圆木门	npc\fbmac013028		172	4	2	0	npc\block_npc.lua						1
+BlockClone021002	BlockNpc	管家阻挡	npc\fbmac004013		172	4	2	0	npc\block_npc.lua						1
+BlockClone021003	BlockNpc	鸽笼阻挡	npc\fbmac004013		172	4	2	0	npc\block_npc.lua						1
+BlockClone021004	BlockNpc	后花园阻挡	npc\fbmac004013		172	4	2	0	npc\block_npc.lua						1
+															
+BlockYd_stone	BlockNpc	阻挡石头	npc\fbmac005020e		172	4	2	0	npc\block_npc.lua						
+															
+//奇遇用阻挡NPC															
+qy_111030_junzitang_block	BlockNpc	阻挡石门	npc\fbmac021034		172	4	2	0	npc\block_npc.lua						1
+qy_shuifudongtian	BlockNpc		npc\fbmac004013		172	4	6	0	npc\qy_shuifudongtian.lua						1
+															
+//任务用阻挡															
+GB_Block_44025	BlockNpc	后花园阻挡	npc\fbmac004013		172	4	2	0	npc\block_npc.lua						
+															
+															
+BlockNpc021001	BlockNpc	青云堡天门阵空气墙	npc\blocknpc021001		172	4	0.1	0	npc\block_npc.lua						1
+															
+BlockClone017001	BlockNpc	狱下之狱阻挡岩石	npc\fbmac005020e		172	4	2		npc\block_npc.lua						
+BlockClone017002	BlockNpc	防穿透透明墙	npc\fbblock00000		172	4	0.1	0	npc\block_npc.lua						
+BlockClone017003	BlockNpc	狱下之狱阻挡岩石	npc\fbmac005020e		172	4	2		npc\block_npc.lua						
+															
+															
+BlockClone011001	BlockNpc	杏子林空气墙	npc\fbblock00000		172	4	2	0	npc\block_npc.lua						
+BlockClone011002	BlockNpc	杏子林空气墙	npc\fbblock00000		172	4	2	0	npc\block_npc.lua						
+BlockClone011003	BlockNpc	杏子林空气墙	npc\fbblock00000		172	4	2	0	npc\block_npc.lua						
+BlockClone011004	BlockNpc	杏子林空气墙	npc\fbblock00000		172	4	2	0	npc\block_npc.lua						
+BlockClone011005	BlockNpc	杏子林空气墙	npc\fbblock00000		172	4	2	0	npc\block_npc.lua						
+BlockClone011006	BlockNpc	杏子林空气墙	npc\fbblock00000		172	4	2	0	npc\block_npc.lua						
+BlockClone011007	BlockNpc	杏子林空气墙	npc\fbblock00000		172	4	2	0	npc\block_npc.lua						
+BlockClone011008	BlockNpc	杏子林空气墙	npc\fbblock00000		172	4	2	0	npc\block_npc.lua						
+BlockClone011009	BlockNpc	杏子林空气墙	npc\fbblock00000		172	4	2	0	npc\block_npc.lua						
+BlockClone011010	BlockNpc	杏子林空气墙	npc\fbblock00000		172	4	2	0	npc\block_npc.lua						
+BlockClone011011	BlockNpc	//禁地闯关	npc\fbblock00000		172	4	2	0	npc\block_npc.lua						
+BlockClone011012	BlockNpc	//禁地闯关	npc\fbblock00000		172	4	2	0	npc\block_npc.lua						
+BlockClone011013	BlockNpc	//禁地闯关	npc\fbblock00000		172	4	2	0	npc\block_npc.lua						
+BlockClone011014	BlockNpc	//禁地闯关	npc\fbblock00000		172	4	2	0	npc\block_npc.lua						
+BlockClone011015	BlockNpc	//禁地闯关	npc\fbblock00000		172	4	2	0	npc\block_npc.lua						
+BlockClone011016	BlockNpc	//禁地闯关	npc\fbblock00000		172	4	2	0	npc\block_npc.lua						
+BlockClone011017	BlockNpc	//禁地闯关	npc\fbblock00000		172	4	2	0	npc\block_npc.lua						
+BlockClone011501	BlockNpc	破庙围栏	npc\fbblock00000		172	4	0.1	0	npc\block_npc.lua						
+BlockClone011502	BlockNpc	破庙围栏	npc\fbblock00000		172	4	0.1	0	npc\block_npc.lua						
+BlockClone011503	BlockNpc	破庙围栏	npc\fbblock00000		172	4	0.1	0	npc\block_npc.lua						
+BlockClone011504	BlockNpc	破庙围栏	npc\fbblock00000		172	4	0.1	0	npc\block_npc.lua						
+BlockClone011505	BlockNpc	破庙拒马	npc\fbmac00007		172	4	0.1	0	npc\block_npc.lua						
+BlockClone011601	BlockNpc	困难陷阱拒马	npc\fbmac00007		172	4	0.1	0	npc\block_npc.lua						
+BlockClone011602	BlockNpc	困难陷阱拒马	npc\fbmac00007		172	4	0.1	0	npc\block_npc.lua						
+BlockClone011603	BlockNpc	困难陷阱拒马	npc\fbmac00007		172	4	0.1	0	npc\block_npc.lua						
+BlockClone011604	BlockNpc	困难陷阱气墙	npc\fbblock00000		172	4	0.1	0	npc\block_npc.lua						
+BlockClone011605	BlockNpc	困难陷阱气墙	npc\fbblock00000		172	4	0.1	0	npc\block_npc.lua						
+BlockClone011606	BlockNpc	困难陷阱气墙	npc\fbblock00000		172	4	0.1	0	npc\block_npc.lua						
+BlockClone011607	BlockNpc	困难酒阵拒马	npc\fbmac00007		172	4	0.1	0	npc\block_npc.lua						
+BlockClone011608	BlockNpc	困难酒阵气墙	npc\fbblock00000		172	4	0.1	0	npc\block_npc.lua						
+BlockClone011609	BlockNpc	困难大仁拒马	npc\fbmac00007		172	4	0.1	0	npc\block_npc.lua						
+BlockClone011610	BlockNpc	困难大仁气墙	npc\fbblock00000		172	4	0.1	0	npc\block_npc.lua						
+BlockClone011611	BlockNpc	困难堵路巨石	npc\fbmac005020c		172	4	0.1	0	npc\block_npc.lua						
+BlockClone009012	BlockNpc	杏子林空气墙	npc\fbmac004013		172	4	2	0	npc\block_npc.lua						1
+BlockClone009013	BlockNpc	杏子林空气墙	npc\fbmac004013		172	4	2	0	npc\block_npc.lua						1
+BlockClone009015	BlockNpc	杏子林空气墙	npc\fbmac004013		172	4	2	0	npc\block_npc.lua						1
+BlockClone009016	BlockNpc	杏子林空气墙	npc\fbmac004013		172	4	2	0	npc\block_npc.lua						1
+BlockClone009017	BlockNpc	杏子林空气墙	npc\fbmac004013		172	4	2	0	npc\block_npc.lua						1
+BlockClone009018	BlockNpc	杏子林空气墙	npc\fbmac004013		172	4	2	0	npc\block_npc.lua						1
+BlockClone009019	BlockNpc	杏子林空气墙	npc\fbmac004013		172	4	2	0	npc\block_npc.lua						1
+BlockClone009020	BlockNpc	杏子林空气墙	npc\fbmac004013		172	4	2	0	npc\block_npc.lua						1
+BlockClone009021	BlockNpc	杏子林空气墙	npc\fbmac004013		172	4	2	0	npc\block_npc.lua						1
+BlockClone009022	BlockNpc	杏子林空气墙	npc\fbmac004013		172	4	2	0	npc\block_npc.lua						1
+BlockClone009050	BlockNpc	杏子林空气墙	npc\fbmac004013		172	4	2	0	npc\block_npc.lua						1
+npc_5nei_sl_021	BlockNpc	五内-少林五内前戏任务空气墙	npc\fbmac004013		172	4	2	0	npc\block_npc.lua	"1.3,1,10.6"					1
+//四内															
+Block_4nei_tm01	BlockNpc	唐门四内日常BOSS阻挡岩石	npc\fbmac005020e		172	4	2		npc\block_npc.lua						
+															
+BlockNpc_wgm_001	BlockNpc	修罗道试炼	npc\fbmac004013		172	4	2	0	npc\block_npc.lua						
+BlockNpc_nmp_wgm001	BlockNpc	无根门空气墙	npc\fbmac004013		172	4	0.1	0	npc\block_npc.lua						
+															
+Npc_world_38	BlockNpc	暗器之王空气墙	npc\fbmac004013		172	4	2	0	npc\block_npc.lua						
+Npc_world_39	BlockNpc	暗器之王空气墙	npc\fbmac004013		172	4	2	0	npc\block_npc.lua						
+															
+		//五内大侠养成													
+block_5nei_zy_dxyc_am	BlockNpc		npc\fbmac004013		172	4	1	0							
+															
+		//华山派师门大会													
+BlockClone_hsp_smdh01	BlockNpc	杏子林空气墙	npc\fbmac004013		172	4	2	0	npc\block_npc.lua						
+															
+		//天隐谷													
+BlockClone034001	BlockNpc	阻挡用门	npc\fbmac004013		172	4	2	0	npc\block_npc.lua	"2,120,2"					1
+BlockClone034002	BlockNpc	阻挡用门	npc\fbmac004013		172	4	2	0	npc\block_npc.lua	"2,120,2"					1

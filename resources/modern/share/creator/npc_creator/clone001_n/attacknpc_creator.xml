@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="564B2511C3C04288AC9AFDF380A3E5E2" x="244.873" y="65.591" z="547.880" radius="6.0" NpcProgress="2" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="1">
+            <item No="1" id="npcclone001008_x" ay="3.783" amount="1" refreshtime="-1" NotPositive="0" desc="李日含（低）">
+                <position x="243.732" z="547.607" ay="3.783" BornAction="da_stand_4" RandomAction="" WeaponName="da_rl_npcitem303" WeaponMode="dax1_1" />
+            </item>
+            <item No="2" id="npcclone001009_x" ay="3.783" amount="2" refreshtime="-1" desc="江湖恶棍（低）">
+                <position x="245.058" z="550.437" ay="3.783" WeaponName="b_r_npcitem317" WeaponMode="blade6_1" />
+                <position x="245.771" z="545.330" ay="5.463" WeaponName="b_r_npcitem314" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="FDBF925788F54FCFA4EA3BBFE255E21D" x="99.169" y="45.719" z="553.411" radius="16.0" NpcProgress="1" WakeupRange="18.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="1">
+            <item No="1" id="npcclone001013_x" ay="5.685" az="0.236" amount="3" refreshtime="-1" desc="白狼（低）">
+                <position x="105.858" z="544.885" ay="5.685" az="0.236" />
+                <position x="103.458" z="544.399" ax="6.021" ay="0.662" />
+                <position x="104.334" z="547.056" ax="6.104" ay="2.232" az="6.244" />
+            </item>
+        </creator>
+        <creator No="270E7CDFB956419C8015F09A9C02BB2A" x="110.955" y="45.589" z="531.293" radius="5.0" NpcProgress="1" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="1">
+            <item No="1" id="npcclone001013_x" ax="0.235" ay="4.317" az="6.263" amount="3" refreshtime="-1" desc="白狼（低）">
+                <position x="113.273" z="532.461" ax="0.235" ay="4.317" az="6.263" />
+                <position x="111.143" z="530.316" ax="0.083" ay="0.162" az="0.418" />
+                <position x="110.626" z="532.666" ax="6.138" ay="2.152" az="6.247" />
+            </item>
+        </creator>
+        <creator No="849A493D7A2148F0AF00E20B0181ECB8" x="135.395" y="50.772" z="548.800" radius="6.0" NpcProgress="1" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="1">
+            <item No="1" id="npcclone001013_x" ay="5.732" amount="3" refreshtime="-1" desc="白狼（低）">
+                <position x="133.767" z="546.952" ay="5.732" />
+                <position x="137.185" z="547.285" ay="3.942" />
+                <position x="133.106" z="549.368" ay="3.137" />
+            </item>
+        </creator>
+        <creator No="8F7B470DF064468DACFB241670EC5BCA" x="228.693" y="68.899" z="568.032" radius="5.0" NpcProgress="1" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="4.0" HateLink="1" CloneMode="1">
+            <item No="1" id="npcclone001013_x" ax="6.126" ay="0.625" amount="3" refreshtime="-1" desc="白狼（低）">
+                <position x="227.906" z="566.878" ax="6.126" ay="0.625" />
+                <position x="229.193" z="567.772" ax="6.053" ay="4.513" az="6.276" />
+                <position x="226.364" z="568.495" ax="0.048" ay="1.788" az="6.133" />
+            </item>
+        </creator>
+        <creator No="78B35FBC23604181B58F0EEAD8E5E796" x="201.129" y="60.935" z="549.563" radius="5.0" NpcProgress="1" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="1">
+            <item No="1" id="npcclone001029_x" ay="4.233" amount="2" refreshtime="-1" desc="恶童子（低）">
+                <position x="201.150" z="551.422" ay="4.233" />
+                <position x="200.983" z="548.004" ay="5.463" />
+            </item>
+        </creator>
+        <creator No="7B0908C0538B47839E74CD7B121FD836" x="222.400" y="65.700" z="538.793" radius="5.0" NpcProgress="1" WakeupRange="14.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="1">
+            <item No="1" id="npcclone001009_x" ay="4.028" amount="3" refreshtime="-1" desc="江湖恶棍（低）">
+                <position x="223.447" z="539.050" ay="4.028" />
+                <position x="220.792" z="538.769" ay="2.023" />
+                <position x="222.381" z="537.300" ay="5.983" WeaponName="b_r_npcitem024" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="C5967BA4D4134914B9CF201C958393DA" x="319.524" y="77.447" z="545.569" radius="5.0" NpcProgress="2" WakeupRange="14.0" ChaseRange="-1.0" PatrolRange="3.0" HateLink="1" CloneMode="1">
+            <item No="1" id="npcclone001101" ax="0.328" ay="3.718" az="0.022" amount="3" refreshtime="-1" desc="蛇（低）">
+                <position x="319.805" z="549.240" ax="0.328" ay="3.718" az="0.022" />
+                <position x="319.778" z="547.529" ay="5.463" />
+                <position x="321.405" z="546.897" ax="0.288" ay="3.828" />
+            </item>
+        </creator>
+        <creator No="2F370D62B1CE4AE0AD271C199B85F746" x="284.408" y="69.568" z="554.263" radius="5.0" NpcProgress="2" WakeupRange="11.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="1">
+            <item No="1" id="npcclone001029_x" ay="6.108" amount="3" refreshtime="-1" desc="恶童子（低）">
+                <position x="283.451" z="551.171" ay="6.108" />
+                <position x="284.672" z="553.756" ay="4.318" WeaponName="lsp_rl_npcitem444" WeaponMode="stuff1_1" />
+                <position x="284.145" z="551.763" ay="4.198" />
+            </item>
+        </creator>
+        <creator No="7CFFDB5194944CBDAF7B950E4618B742" x="284.934" y="77.708" z="581.349" radius="5.0" NpcProgress="2" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="1">
+            <item No="1" id="npcclone001009_x" ay="2.133" amount="3" refreshtime="-1" desc="江湖恶棍（低）">
+                <position x="282.918" z="581.876" ay="2.133" WeaponName="b_r_npcitem153" WeaponMode="blade3_1" />
+                <position x="283.596" z="580.379" ay="0.195" WeaponName="b_r_npcitem024" WeaponMode="blade2_1" />
+                <position x="284.598" z="581.429" ay="4.723" />
+            </item>
+        </creator>
+        <creator No="4632374B8D8A46F98A1C57DD7883AFB5" x="302.350" y="75.337" z="550.852" radius="10.0" NpcProgress="2" WakeupRange="18.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="1">
+            <item No="1" id="npcclone001009_x" ay="4.318" amount="3" refreshtime="-1" desc="江湖恶棍（低）">
+                <position x="307.087" z="554.094" ay="4.318" WeaponName="lb_r_npcitem447" WeaponMode="blade6_1" />
+                <position x="306.701" z="555.309" ay="3.559" WeaponName="lb_r_npcitem447" WeaponMode="blade7_1" />
+                <position x="302.557" z="558.115" ay="2.814" az="6.170" WeaponName="lb_r_npcitem447" WeaponMode="blade3_1" />
+            </item>
+        </creator>
+        <creator No="671B43C470AA4A6DB8E4C2ACA65B542E" x="322.827" y="82.655" z="492.087" radius="5.0" NpcProgress="2" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="1">
+            <item No="1" id="npcclone001017_x" ay="4.783" amount="3" refreshtime="-1" desc="孔雀豹卫（低）">
+                <position x="321.854" z="491.677" ay="4.783" WeaponName="lsp_r_npcitem207" WeaponMode="lspear1_1" />
+                <position x="323.738" z="494.828" ay="2.718" WeaponName="lsp_r_npcitem207" WeaponMode="lspear1_1" />
+                <position x="320.615" z="493.045" ay="1.925" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="22E2EC5E236D41819699881E4C9FDE48" x="525.266" y="122.519" z="414.294" radius="5.0" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="1">
+            <item No="1" id="npcclone001023" ay="5.468" amount="3" refreshtime="-1" desc="褐衣护法（低）">
+                <position x="528.070" z="411.241" ay="5.468" />
+                <position x="522.464" z="411.314" ay="0.750" />
+                <position x="522.141" z="417.193" ay="2.005" />
+            </item>
+            <item No="2" id="npcclone001024" ay="3.905" amount="1" refreshtime="-1" desc="青衣护法（低）">
+                <position x="528.280" z="416.239" ay="3.905" WeaponName="删除武器" />
+            </item>
+        </creator>
+        <creator No="98EFDFC4B7E44862B2F9C98719478058" x="565.739" y="122.495" z="481.711" radius="5.0" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="1">
+            <item No="1" id="npcclone001024" ay="1.575" amount="3" refreshtime="-1" desc="青衣护法（低）">
+                <position x="561.648" z="481.611" ay="1.575" />
+                <position x="569.960" z="482.004" ay="4.810" />
+                <position x="566.121" z="477.647" ay="6.048" />
+            </item>
+            <item No="2" id="npcclone001025" ay="2.945" amount="1" refreshtime="-1" desc="朱衣护法（低）">
+                <position x="565.092" z="485.699" ay="2.945" WeaponName="删除武器" />
+            </item>
+        </creator>
+        <creator No="86E933BD1C0D416AA1AF6C5F7BAE1936" x="613.464" y="123.154" z="457.415" radius="5.0" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="1">
+            <item No="1" id="npcclone001025" ay="1.642" amount="3" refreshtime="-1" desc="朱衣护法（低）">
+                <position x="609.713" z="459.281" ay="1.642" />
+                <position x="613.688" z="461.631" ay="2.982" />
+                <position x="617.397" z="458.897" ay="4.415" />
+            </item>
+            <item No="2" id="npcclone001022" ay="5.745" amount="1" refreshtime="-1" desc="紫衣护法（低）">
+                <position x="616.173" z="454.131" ay="5.745" WeaponName="删除武器" />
+            </item>
+        </creator>
+        <creator No="AD3B664D6BE447CDB160CD732A96DD14" x="591.410" y="122.388" z="379.558" radius="5.0" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="1">
+            <item No="1" id="npcclone001022" ay="1.642" amount="3" refreshtime="-1" desc="紫衣护法（低）">
+                <position x="587.241" z="379.357" ay="1.642" />
+                <position x="591.596" z="375.493" ay="6.160" />
+                <position x="595.573" z="379.390" ay="4.747" />
+            </item>
+            <item No="2" id="npcclone001023" ay="3.102" amount="1" refreshtime="-1" desc="褐衣护法（低）">
+                <position x="592.370" z="383.268" ay="3.102" WeaponName="删除武器" />
+            </item>
+        </creator>
+        <creator No="24AC9A47795E4738BCD846DCE4717158" x="542.634" y="121.737" z="377.384" radius="5.0" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="1">
+            <item No="1" id="npcclone001022" ay="2.267" amount="1" refreshtime="-1" desc="紫衣护法（低）">
+                <position x="539.972" z="380.617" ay="2.267" WeaponName="删除武器" />
+            </item>
+            <item No="2" id="npcclone001023" ay="0.454" amount="1" refreshtime="-1" desc="褐衣护法（低）">
+                <position x="539.265" z="374.667" ay="0.454" WeaponName="删除武器" />
+            </item>
+            <item No="3" id="npcclone001024" ay="5.607" amount="1" refreshtime="-1" desc="青衣护法（低）">
+                <position x="545.412" z="374.101" ay="5.607" WeaponName="删除武器" />
+            </item>
+            <item No="4" id="npcclone001025" ay="4.257" amount="1" refreshtime="-1" desc="朱衣护法（低）">
+                <position x="545.880" z="380.302" ay="4.257" WeaponName="删除武器" />
+            </item>
+        </creator>
+        <creator No="925AD0B8DD72483A8934655C67F98676" x="563.006" y="124.823" z="518.108" radius="5.0" WakeupRange="7.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="1">
+            <item No="1" id="npcclone001101" ay="1.615" amount="3" refreshtime="-1" desc="蛇（低）">
+                <position x="560.940" z="521.473" ay="1.615" />
+                <position x="559.614" z="518.593" ax="0.204" ay="3.705" />
+                <position x="563.576" z="519.815" ax="0.236" ay="2.285" />
+            </item>
+        </creator>
+        <creator No="EEED63E16DBB4664860BF1A97B0D8240" x="574.917" y="125.617" z="430.128" radius="6.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="5.0" HateLink="1" CloneMode="1">
+            <item No="1" id="npcclone001101" ay="3.325" amount="2" refreshtime="-1" desc="蛇（低）">
+                <position x="574.226" z="432.970" ay="3.325" />
+                <position x="577.688" z="430.523" ay="5.780" />
+            </item>
+        </creator>
+        <creator No="6C94AF35A4BA481B84E49953B5978DAC" x="415.347" y="116.104" z="402.560" radius="5.0" NpcProgress="3" WakeupRange="11.0" ChaseRange="-1.0" PatrolRange="3.0" HateLink="1" CloneMode="1">
+            <item No="1" id="npcclone001036_x" ay="2.555" amount="4" refreshtime="-1" desc="孔雀羽卫（低）">
+                <position x="418.812" z="403.379" ay="2.555" WeaponName="lsp_r_npcitem215" WeaponMode="lspear1_1" />
+                <position x="418.166" z="401.422" ay="5.853" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="417.500" z="405.320" ay="2.835" WeaponName="lsp_r_npcitem207" WeaponMode="lspear1_1" />
+                <position x="416.890" z="400.326" ay="0.195" WeaponName="lsp_r_npcitem215" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="925AD0B8DD72483A8934655C67F98676" x="563.006" y="124.823" z="518.108" radius="5.0" WakeupRange="7.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="2">
+            <item No="1" id="npcclone001202" ay="1.615" amount="3" refreshtime="-1" desc="蛇（中）">
+                <position x="560.940" z="521.473" ay="1.615" />
+                <position x="559.614" z="518.593" ax="0.204" ay="3.705" />
+                <position x="563.576" z="519.815" ax="0.236" ay="2.285" />
+            </item>
+        </creator>
+        <creator No="564B2511C3C04288AC9AFDF380A3E5E2" x="346.300" y="82.630" z="504.900" radius="6.0" NpcProgress="2" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001303_x" ay="3.658" amount="2" refreshtime="-1" desc="江湖恶棍（高）">
+                <position x="346.485" z="507.457" ay="3.658" WeaponName="b_r_npcitem317" WeaponMode="blade6_1" />
+                <position x="347.198" z="502.350" ay="5.463" WeaponName="b_r_npcitem314" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="57A72CFF1EF94EC7AB464B791AF8E3A6" x="330.937" y="103.422" z="304.049" radius="4.0" NpcProgress="3" WakeupRange="8.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001318_x" ay="3.154" amount="2" refreshtime="-1" NotPositive="0" desc="山庄隐卫（高）">
+                <position x="330.640" z="307.200" ay="3.154" WeaponName="b_r_32" WeaponMode="blade3_1" />
+                <position x="330.312" z="300.657" ay="0.009" WeaponName="b_r_32" WeaponMode="blade3_1" />
+            </item>
+        </creator>
+        <creator No="A9DDB59F3D3A4B6BB61B336DB0945CBE" x="355.147" y="99.166" z="328.285" radius="4.0" NpcProgress="3" WakeupRange="8.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001318_x" ay="1.561" amount="2" refreshtime="-1" NotPositive="0" desc="山庄隐卫（高）">
+                <position x="351.722" z="328.128" ay="1.561" WeaponName="b_r_32" WeaponMode="blade3_1" />
+                <position x="358.477" z="328.082" ay="4.806" WeaponName="b_r_32" WeaponMode="blade3_1" />
+            </item>
+        </creator>
+        <creator No="46C296E7895745DBAD91800A1A70FD0A" x="303.474" y="99.166" z="340.269" radius="4.0" NpcProgress="3" WakeupRange="8.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001318_x" ay="1.561" amount="2" refreshtime="-1" NotPositive="0" desc="山庄隐卫（高）">
+                <position x="300.158" z="340.620" ay="1.561" WeaponName="b_r_32" WeaponMode="blade3_1" />
+                <position x="306.763" z="340.047" ay="4.731" WeaponName="b_r_32" WeaponMode="blade3_1" />
+            </item>
+        </creator>
+        <creator No="5EF4DCE38AE14F75A409D591C281449F" x="362.655" y="99.166" z="343.950" radius="4.0" NpcProgress="3" WakeupRange="8.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001318_x" ay="3.216" amount="2" refreshtime="-1" NotPositive="0" desc="山庄隐卫（高）">
+                <position x="361.031" z="346.984" ay="3.216" WeaponName="b_r_32" WeaponMode="blade3_1" />
+                <position x="363.060" z="340.485" ay="5.516" WeaponName="b_r_32" WeaponMode="blade3_1" />
+            </item>
+        </creator>
+        <creator No="AD96C9C4CAEE4B778ACFD0C70C223E77" x="365.924" y="99.166" z="361.727" radius="4.0" NpcProgress="3" WakeupRange="8.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001318_x" ay="1.476" amount="4" refreshtime="-1" NotPositive="0" desc="山庄隐卫（高）">
+                <position x="362.709" z="363.788" ay="1.476" WeaponName="b_r_32" WeaponMode="blade3_1" />
+                <position x="362.669" z="360.102" ay="1.468" WeaponName="b_r_32" WeaponMode="blade3_1" />
+                <position x="362.720" z="361.292" ay="1.576" WeaponName="b_r_32" WeaponMode="blade3_1" />
+                <position x="362.774" z="362.667" ay="1.721" WeaponName="b_r_32" WeaponMode="blade3_1" />
+            </item>
+        </creator>
+        <creator No="FDBF925788F54FCFA4EA3BBFE255E21D" x="99.169" y="45.719" z="553.411" radius="16.0" NpcProgress="1" WakeupRange="18.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001301_x" ay="5.685" az="0.236" amount="3" refreshtime="-1" desc="白狼（高）">
+                <position x="105.858" z="544.885" ay="5.685" az="0.236" />
+                <position x="103.458" z="544.399" ax="6.021" ay="0.662" />
+                <position x="104.334" z="547.056" ax="6.104" ay="2.232" az="6.244" />
+            </item>
+        </creator>
+        <creator No="270E7CDFB956419C8015F09A9C02BB2A" x="110.955" y="45.589" z="531.293" radius="5.0" NpcProgress="1" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001301_x" ax="0.235" ay="4.317" az="6.263" amount="3" refreshtime="-1" desc="白狼（高）">
+                <position x="113.273" z="532.461" ax="0.235" ay="4.317" az="6.263" />
+                <position x="111.143" z="530.316" ax="0.083" ay="0.162" az="0.418" />
+                <position x="110.626" z="532.666" ax="6.138" ay="2.152" az="6.247" />
+            </item>
+        </creator>
+        <creator No="849A493D7A2148F0AF00E20B0181ECB8" x="135.395" y="50.772" z="548.800" radius="6.0" NpcProgress="1" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001301_x" ay="5.732" amount="3" refreshtime="-1" desc="白狼（高）">
+                <position x="133.767" z="546.952" ay="5.732" />
+                <position x="137.185" z="547.285" ay="3.942" />
+                <position x="133.106" z="549.368" ay="3.137" />
+            </item>
+        </creator>
+        <creator No="8F7B470DF064468DACFB241670EC5BCA" x="228.693" y="68.899" z="568.032" radius="5.0" NpcProgress="1" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="4.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001301_x" ax="6.126" ay="0.625" amount="3" refreshtime="-1" desc="白狼（高）">
+                <position x="227.906" z="566.878" ax="6.126" ay="0.625" />
+                <position x="229.193" z="567.772" ax="6.053" ay="4.513" az="6.276" />
+                <position x="226.364" z="568.495" ax="0.048" ay="1.788" az="6.133" />
+            </item>
+        </creator>
+        <creator No="78B35FBC23604181B58F0EEAD8E5E796" x="201.129" y="60.935" z="549.563" radius="5.0" NpcProgress="1" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001304_x" ay="4.233" amount="2" refreshtime="-1" desc="恶童子（高）">
+                <position x="201.150" z="551.422" ay="4.233" />
+                <position x="200.983" z="548.004" ay="5.463" />
+            </item>
+        </creator>
+        <creator No="7B0908C0538B47839E74CD7B121FD836" x="222.400" y="65.700" z="538.793" radius="5.0" NpcProgress="1" WakeupRange="14.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001303_x" ay="4.028" amount="3" refreshtime="-1" desc="江湖恶棍（高）">
+                <position x="223.447" z="539.050" ay="4.028" />
+                <position x="220.792" z="538.769" ay="2.023" />
+                <position x="222.381" z="537.300" ay="5.983" WeaponName="b_r_npcitem024" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="C5967BA4D4134914B9CF201C958393DA" x="319.524" y="77.447" z="545.569" radius="5.0" NpcProgress="2" WakeupRange="14.0" ChaseRange="-1.0" PatrolRange="3.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001302_x" ax="0.328" ay="3.718" az="0.022" amount="3" refreshtime="-1" desc="蛇（高）">
+                <position x="319.805" z="549.240" ax="0.328" ay="3.718" az="0.022" />
+                <position x="319.778" z="547.529" ay="5.463" />
+                <position x="321.405" z="546.897" ax="0.288" ay="3.828" />
+            </item>
+        </creator>
+        <creator No="2F370D62B1CE4AE0AD271C199B85F746" x="284.408" y="69.568" z="554.263" radius="5.0" NpcProgress="2" WakeupRange="11.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001304_x" ay="6.108" amount="3" refreshtime="-1" desc="恶童子（高）">
+                <position x="283.451" z="551.171" ay="6.108" />
+                <position x="284.672" z="553.756" ay="4.318" WeaponName="lsp_rl_npcitem444" WeaponMode="stuff1_1" />
+                <position x="284.145" z="551.763" ay="4.198" />
+            </item>
+        </creator>
+        <creator No="7CFFDB5194944CBDAF7B950E4618B742" x="284.934" y="77.708" z="581.349" radius="5.0" NpcProgress="2" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001303_x" ay="2.133" amount="3" refreshtime="-1" desc="江湖恶棍（高）">
+                <position x="282.918" z="581.876" ay="2.133" WeaponName="b_r_npcitem153" WeaponMode="blade3_1" />
+                <position x="283.596" z="580.379" ay="0.195" WeaponName="b_r_npcitem024" WeaponMode="blade2_1" />
+                <position x="284.598" z="581.429" ay="4.723" />
+            </item>
+        </creator>
+        <creator No="4632374B8D8A46F98A1C57DD7883AFB5" x="302.350" y="75.337" z="550.852" radius="10.0" NpcProgress="2" WakeupRange="18.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001303_x" ay="4.318" amount="3" refreshtime="-1" desc="江湖恶棍（高）">
+                <position x="307.087" z="554.094" ay="4.318" WeaponName="lb_r_npcitem447" WeaponMode="blade6_1" />
+                <position x="306.701" z="555.309" ay="3.559" WeaponName="lb_r_npcitem447" WeaponMode="blade7_1" />
+                <position x="302.557" z="558.115" ay="2.814" az="6.170" WeaponName="lb_r_npcitem447" WeaponMode="blade3_1" />
+            </item>
+        </creator>
+        <creator No="671B43C470AA4A6DB8E4C2ACA65B542E" x="322.827" y="82.655" z="492.087" radius="5.0" NpcProgress="2" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001306_x" ay="4.783" amount="3" refreshtime="-1" desc="孔雀豹卫（高）">
+                <position x="321.854" z="491.677" ay="4.783" WeaponName="lsp_r_npcitem207" WeaponMode="lspear1_1" />
+                <position x="323.738" z="494.828" ay="2.718" WeaponName="lsp_r_npcitem207" WeaponMode="lspear1_1" />
+                <position x="320.615" z="493.045" ay="1.925" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="22E2EC5E236D41819699881E4C9FDE48" x="525.266" y="122.519" z="414.294" radius="5.0" NpcProgress="2" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001314_x" ay="5.468" amount="3" refreshtime="-1" desc="褐衣护法（高）">
+                <position x="528.070" z="411.241" ay="5.468" />
+                <position x="522.464" z="411.314" ay="0.750" />
+                <position x="522.141" z="417.193" ay="2.005" />
+            </item>
+            <item No="2" id="npcclone001315_x" ay="3.905" amount="1" refreshtime="-1" desc="青衣护法（高）">
+                <position x="528.280" z="416.239" ay="3.905" WeaponName="删除武器" />
+            </item>
+            <item No="3" id="npcclone001326_x" ay="2.271" amount="1" refreshtime="-1" desc="五行护法（高）">
+                <position x="524.419" z="417.338" ay="2.271" WeaponName="s_r_npcitem391" WeaponMode="sword3_1" />
+            </item>
+        </creator>
+        <creator No="98EFDFC4B7E44862B2F9C98719478058" x="565.739" y="122.495" z="481.711" radius="5.0" NpcProgress="2" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001315_x" ay="1.575" amount="3" refreshtime="-1" desc="青衣护法（高）">
+                <position x="561.648" z="481.611" ay="1.575" />
+                <position x="569.960" z="482.004" ay="4.810" />
+                <position x="566.121" z="477.647" ay="6.048" />
+            </item>
+            <item No="2" id="npcclone001317_x" ay="2.945" amount="1" refreshtime="-1" desc="朱衣护法（高）">
+                <position x="565.092" z="485.699" ay="2.945" WeaponName="删除武器" />
+            </item>
+            <item No="3" id="npcclone001326_x" ay="4.666" amount="1" refreshtime="-1" desc="五行护法（高）">
+                <position x="568.639" z="480.047" ay="4.666" WeaponName="s_r_npcitem391" WeaponMode="sword3_1" />
+            </item>
+        </creator>
+        <creator No="86E933BD1C0D416AA1AF6C5F7BAE1936" x="613.464" y="123.154" z="457.415" radius="5.0" NpcProgress="2" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001317_x" ay="1.642" amount="3" refreshtime="-1" desc="朱衣护法（高）">
+                <position x="609.713" z="459.281" ay="1.642" />
+                <position x="613.688" z="461.631" ay="2.981" />
+                <position x="617.397" z="458.897" ay="4.415" />
+            </item>
+            <item No="2" id="npcclone001316_x" ay="5.745" amount="1" refreshtime="-1" desc="紫衣护法（高）">
+                <position x="616.173" z="454.131" ay="5.745" WeaponName="删除武器" />
+            </item>
+            <item No="3" id="npcclone001326_x" ay="2.989" amount="1" refreshtime="-1" desc="五行护法（高）">
+                <position x="614.729" z="460.004" ay="2.989" WeaponName="s_r_npcitem391" WeaponMode="sword3_1" />
+            </item>
+        </creator>
+        <creator No="AD3B664D6BE447CDB160CD732A96DD14" x="591.410" y="122.388" z="379.558" radius="5.0" NpcProgress="2" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001316_x" ay="1.642" amount="3" refreshtime="-1" desc="紫衣护法（高）">
+                <position x="587.241" z="379.357" ay="1.642" />
+                <position x="591.596" z="375.493" ay="6.160" />
+                <position x="595.573" z="379.390" ay="4.747" />
+            </item>
+            <item No="2" id="npcclone001314_x" ay="3.102" amount="1" refreshtime="-1" desc="褐衣护法（高）">
+                <position x="592.370" z="383.268" ay="3.102" WeaponName="删除武器" />
+            </item>
+            <item No="3" id="npcclone001326_x" ay="5.259" amount="1" refreshtime="-1" desc="五行护法（高）">
+                <position x="594.102" z="376.782" ay="5.259" WeaponName="s_r_npcitem391" WeaponMode="sword3_1" />
+            </item>
+        </creator>
+        <creator No="24AC9A47795E4738BCD846DCE4717158" x="542.634" y="121.737" z="377.384" radius="5.0" NpcProgress="2" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001316_x" ay="2.267" amount="1" refreshtime="-1" desc="紫衣护法（高）">
+                <position x="539.972" z="380.617" ay="2.267" WeaponName="删除武器" />
+            </item>
+            <item No="2" id="npcclone001314_x" ay="0.454" amount="1" refreshtime="-1" desc="褐衣护法（高）">
+                <position x="539.265" z="374.667" ay="0.454" WeaponName="删除武器" />
+            </item>
+            <item No="3" id="npcclone001315_x" ay="5.607" amount="1" refreshtime="-1" desc="青衣护法（高）">
+                <position x="545.412" z="374.101" ay="5.607" WeaponName="删除武器" />
+            </item>
+            <item No="4" id="npcclone001317_x" ay="4.257" amount="1" refreshtime="-1" desc="朱衣护法（高）">
+                <position x="545.880" z="380.302" ay="4.257" WeaponName="删除武器" />
+            </item>
+            <item No="5" id="npcclone001326_x" ay="5.784" amount="1" refreshtime="-1" desc="五行护法（高）">
+                <position x="541.980" z="373.823" ay="5.784" WeaponName="s_r_npcitem391" WeaponMode="sword3_1" />
+            </item>
+        </creator>
+        <creator No="925AD0B8DD72483A8934655C67F98676" x="563.006" y="124.823" z="518.108" radius="5.0" NpcProgress="2" WakeupRange="7.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001302_x" ay="1.615" amount="3" refreshtime="-1" desc="蛇（高）">
+                <position x="560.940" z="521.473" ay="1.615" />
+                <position x="559.614" z="518.593" ax="0.204" ay="3.705" />
+                <position x="563.576" z="519.815" ax="0.236" ay="2.285" />
+            </item>
+        </creator>
+        <creator No="EEED63E16DBB4664860BF1A97B0D8240" x="580.816" y="125.617" z="419.832" radius="6.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="5.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001302_x" ay="3.325" amount="2" refreshtime="-1" desc="蛇（高）">
+                <position x="580.125" z="422.674" ay="3.325" />
+                <position x="583.587" z="420.227" ay="5.780" />
+            </item>
+        </creator>
+        <creator No="DE76DE9D7EE04D22A3B5B8F94DDE9A0E" x="338.379" y="94.652" z="446.067" radius="10.0" NpcProgress="3" WakeupRange="12.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001310_x" ay="4.746" amount="2" refreshtime="-1" desc="孔雀铁甲卫（高）">
+                <position x="341.480" z="450.941" ay="4.746" WeaponMode="lstuff1_1" />
+                <position x="335.144" z="450.950" ay="1.561" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="2" id="npcclone001305_x" ay="4.791" amount="4" refreshtime="-1" desc="孔雀庄丁（高）">
+                <position x="347.803" z="446.677" ay="4.791" />
+                <position x="347.643" z="444.980" ay="4.726" />
+                <position x="328.818" z="446.491" ay="1.556" />
+                <position x="328.893" z="444.743" ay="1.606" />
+            </item>
+        </creator>
+        <creator No="5EEC87CC4BDB42B98B9144F548CEA9C0" x="307.886" y="94.421" z="434.052" radius="5.0" NpcProgress="3" WakeupRange="11.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001307_x" ay="1.561" amount="2" refreshtime="-1" desc="孔雀熊卫（高）">
+                <position x="306.594" z="437.108" ay="1.561" WeaponName="dc_rl_npcitem212" WeaponMode="dcrutch2_1" />
+                <position x="308.206" z="438.421" ay="3.261" WeaponName="dc_rl_npcitem212" WeaponMode="dcrutch2_1" />
+            </item>
+            <item No="2" id="npcclone001309_x" ay="0.303" amount="2" refreshtime="-1" desc="孔雀黑衣卫（高）">
+                <position x="307.708" z="435.256" ay="0.303" WeaponName="k_r_npcitem307" WeaponMode="knife1_2" />
+                <position x="306.930" z="435.732" ay="0.461" WeaponName="dk_rl_npcitem479" WeaponMode="dknife2_2" />
+            </item>
+        </creator>
+        <creator No="C46E5A9B0EC44CE49230B85E588A86DB" x="314.971" y="99.083" z="402.144" radius="6.0" NpcProgress="3" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001307_x" ay="0.426" amount="4" refreshtime="-1" desc="孔雀熊卫（高）">
+                <position x="312.218" z="403.856" ay="0.426" WeaponName="dc_rl_npcitem212" WeaponMode="dcrutch3_1" />
+                <position x="312.179" z="406.216" ay="2.942" WeaponName="dc_rl_npcitem212" WeaponMode="dcrutch3_1" />
+                <position x="318.324" z="401.228" ay="3.812" WeaponName="dc_rl_npcitem212" WeaponMode="dcrutch4_1" />
+                <position x="317.880" z="398.238" ay="0.013" WeaponName="dc_rl_npcitem212" WeaponMode="dcrutch1_1" />
+            </item>
+        </creator>
+        <creator No="CB785833A9F54480BB9CE8DE3E867591" x="315.451" y="99.166" z="380.061" radius="5.0" NpcProgress="3" WakeupRange="8.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001305_x" ay="4.740" amount="2" refreshtime="-1" desc="孔雀庄丁（高）">
+                <position x="318.622" z="381.686" ay="4.740" />
+                <position x="312.505" z="381.639" ay="1.547" WeaponName="删除武器" />
+            </item>
+        </creator>
+        <creator No="DA7EBEEC8B7F4FCB9665DD7F39A0F003" x="314.515" y="99.166" z="357.819" radius="5.0" NpcProgress="3" WakeupRange="8.0" ChaseRange="-1.0" PatrolRange="4.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001305_x" ay="5.195" amount="2" refreshtime="-1" desc="孔雀庄丁（高）">
+                <position x="318.158" z="355.513" ay="5.195" />
+                <position x="311.917" z="358.897" ay="2.937" />
+            </item>
+        </creator>
+        <creator No="35D466A2CE67494ABBC380A5829923EC" x="308.458" y="100.514" z="322.280" radius="6.0" NpcProgress="3" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001305_x" ay="4.665" amount="4" refreshtime="-1" desc="孔雀庄丁（高）">
+                <position x="311.035" z="324.323" ay="4.665" />
+                <position x="305.930" z="327.048" ay="2.455" />
+                <position x="305.979" z="321.271" ay="0.672" />
+                <position x="309.356" z="321.297" ay="5.575" />
+            </item>
+            <item No="2" id="npcclone001307_x" ay="2.455" amount="1" refreshtime="-1" desc="孔雀熊卫（高）">
+                <position x="307.803" z="324.252" ay="2.455" WeaponName="dc_rl_npcitem212" WeaponMode="dcrutch1_1" />
+            </item>
+        </creator>
+        <creator No="E55F1697A4EE4D4FB027267E1D000A21" x="354.433" y="99.166" z="305.012" radius="5.0" NpcProgress="3" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="3.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001307_x" ay="3.030" amount="3" refreshtime="-1" desc="孔雀熊卫（高）">
+                <position x="356.702" z="307.679" ay="3.030" WeaponName="dc_rl_npcitem212" WeaponMode="dcrutch2_1" />
+                <position x="353.250" z="306.104" ay="2.455" WeaponName="dc_rl_npcitem212" WeaponMode="dcrutch2_1" />
+                <position x="354.767" z="301.682" ay="0.925" WeaponName="dc_rl_npcitem212" WeaponMode="dcrutch5_1" />
+            </item>
+        </creator>
+        <creator No="6FCE0BFB91AD404EBCCC49DD3A257253" x="368.284" y="101.033" z="392.009" radius="10.0" NpcProgress="3" WakeupRange="12.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001310_x" ay="3.126" amount="2" refreshtime="-1" desc="孔雀铁甲卫（高）">
+                <position x="362.939" z="389.076" ay="3.126" WeaponMode="lstuff1_1" />
+                <position x="369.443" z="389.075" ay="3.126" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="2" id="npcclone001309_x" ay="4.731" amount="3" refreshtime="-1" desc="孔雀黑衣卫（高）">
+                <position x="376.694" z="390.071" ay="4.731" WeaponName="s_r_npcitem204" WeaponMode="sword2_2" />
+                <position x="376.169" z="389.232" ay="0.201" WeaponName="b_r_npcitem153" WeaponMode="blade2_2" />
+                <position x="374.533" z="390.063" ay="2.116" WeaponName="k_r_npcitem307" WeaponMode="knife1_2" />
+            </item>
+        </creator>
+        <creator No="E01C77FD612242A5802070A0E69828D5" x="384.214" y="104.141" z="428.109" radius="10.0" NpcProgress="3" WakeupRange="14.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001310_x" ay="4.751" amount="2" refreshtime="-1" desc="孔雀铁甲卫（高）">
+                <position x="376.006" z="431.591" ay="4.751" WeaponMode="lstuff1_1" />
+                <position x="375.886" z="424.476" ay="4.646" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="2" id="npcclone001308_x" ay="4.711" amount="2" refreshtime="-1" desc="孔雀羽卫（高）">
+                <position x="386.697" z="433.098" ay="4.711" WeaponName="db_rl_npcitem419/420" WeaponMode="dsword1_1" />
+                <position x="386.835" z="426.179" ay="4.736" WeaponName="ds_rl_npcitem324" WeaponMode="dsword2_1" />
+            </item>
+        </creator>
+        <creator No="E4BCFCDAD259431FA3E99D8D7B6472E8" x="400.133" y="115.565" z="417.076" radius="8.0" NpcProgress="3" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001310_x" ay="0.028" amount="2" refreshtime="-1" desc="孔雀铁甲卫（高）">
+                <position x="398.064" z="416.498" ay="0.028" WeaponMode="lstuff1_1" />
+                <position x="402.146" z="416.569" ay="6.146" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="2" id="npcclone001309_x" ay="4.711" amount="3" refreshtime="-1" desc="孔雀黑衣卫（高）">
+                <position x="405.664" z="415.096" ay="4.711" WeaponName="dk_rl_npcitem413" WeaponMode="dknife2_2" />
+                <position x="404.237" z="414.995" ay="3.021" WeaponName="dk_rl_npcitem392" WeaponMode="dknife1_2" />
+                <position x="404.878" z="414.273" ay="5.171" WeaponName="dk_rl_npcitem479" WeaponMode="dknife3_2" />
+            </item>
+        </creator>
+        <creator No="DABC75BB9CE2439F90F83F63156C5AD3" x="399.834" y="115.558" z="407.009" radius="5.0" NpcProgress="3" WakeupRange="7.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001308_x" ay="1.540" amount="4" refreshtime="-1" desc="孔雀羽卫（高）">
+                <position x="401.260" z="403.572" ay="1.540" WeaponName="ds_rl_npcitem324" WeaponMode="dsword3_1" />
+                <position x="398.261" z="402.991" ay="4.433" WeaponName="ds_rl_npcitem324" WeaponMode="dsword2_1" />
+                <position x="401.979" z="404.464" ay="3.123" WeaponName="ds_rl_npcitem324" WeaponMode="dsword4_1" />
+                <position x="397.051" z="404.082" ay="1.975" WeaponName="ds_rl_npcitem324" WeaponMode="dsword1_1" />
+            </item>
+        </creator>
+        <creator No="6C94AF35A4BA481B84E49953B5978DAC" x="415.347" y="116.104" z="402.560" radius="5.0" NpcProgress="3" WakeupRange="11.0" ChaseRange="-1.0" PatrolRange="3.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001308_x" ay="2.555" amount="4" refreshtime="-1" desc="孔雀羽卫（高）">
+                <position x="418.812" z="403.379" ay="2.555" WeaponName="lsp_r_npcitem215" WeaponMode="lspear1_1" />
+                <position x="418.166" z="401.422" ay="5.853" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="417.500" z="405.320" ay="2.835" WeaponName="lsp_r_npcitem207" WeaponMode="lspear1_1" />
+                <position x="416.890" z="400.326" ay="0.195" WeaponName="lsp_r_npcitem215" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="0348A3B7F9864FEDACAC93750D959D3F" x="408.799" y="115.417" z="374.386" radius="12.0" NpcProgress="4" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="8.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001320_x" ay="1.625" amount="4" refreshtime="-1" desc="鬼祟行者（高）">
+                <position x="414.645" z="377.042" ay="1.625" WeaponName="b_r_npcitem326" WeaponMode="blade7_1" />
+                <position x="398.914" z="374.174" ay="4.887" WeaponName="gb_r_npcitem325" WeaponMode="blade1_1" />
+                <position x="410.696" z="369.720" ay="3.705" WeaponName="b_r_npcitem309" WeaponMode="blade3_1" />
+                <position x="409.306" z="369.695" ay="2.230" WeaponName="b_r_npcitem390" WeaponMode="blade3_1" />
+            </item>
+        </creator>
+        <creator No="F40A2C7911BF46F4B53EA1A2CA45100C" x="415.315" y="113.912" z="346.471" radius="10.0" NpcProgress="4" WakeupRange="12.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001322_x" ay="0.899" amount="1" refreshtime="-1" desc="嗜血隐者（高）">
+                <position x="408.295" z="344.742" ay="0.899" WeaponName="s_r_npcitem202" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="npcclone001311_x" ay="4.807" amount="3" refreshtime="-1" desc="幽灵蛛卫（高）">
+                <position x="410.431" z="347.004" ay="4.807" WeaponName="dk_rl_npcitem300" WeaponMode="dknife2_1" />
+                <position x="410.881" z="342.111" ay="4.887" WeaponName="dk_rl_npcitem479" WeaponMode="dknife2_1" />
+                <position x="410.865" z="344.660" ay="4.237" WeaponName="dk_rl_npcitem307" WeaponMode="dknife4_1" />
+            </item>
+        </creator>
+        <creator No="37C9D1A7431B47039466498B87157119" x="396.335" y="128.762" z="243.989" radius="10.0" NpcProgress="4" WakeupRange="13.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001322_x" ay="0.899" amount="1" refreshtime="-1" desc="嗜血隐者（高）">
+                <position x="388.644" z="240.984" ay="0.899" WeaponName="s_r_npcitem202" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="npcclone001311_x" ay="2.827" amount="3" refreshtime="-1" desc="幽灵蛛卫（高）">
+                <position x="389.012" z="243.857" ay="2.827" WeaponName="dk_rl_npcitem217" WeaponMode="dknife2_1" />
+                <position x="391.901" z="239.629" ay="4.877" WeaponName="dk_rl_npcitem479" WeaponMode="dknife2_1" />
+                <position x="391.142" z="243.362" ay="4.047" WeaponName="dk_rl_npcitem307" WeaponMode="dknife4_1" />
+            </item>
+        </creator>
+        <creator No="7B99828DEB26489298C8A7EC2411584A" x="408.037" y="115.458" z="311.018" radius="10.0" NpcProgress="4" WakeupRange="18.0" ChaseRange="-1.0" PatrolRange="5.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001322_x" ay="4.487" amount="1" refreshtime="-1" desc="嗜血隐者（高）" />
+            <item No="2" id="npcclone001311_x" ay="4.882" amount="3" refreshtime="-1" desc="幽灵蛛卫（高）">
+                <position x="410.660" z="315.149" ay="4.882" WeaponName="dk_rl_npcitem392" WeaponMode="dknife2_1" />
+                <position x="410.124" z="312.375" ay="0.004" WeaponName="dk_rl_npcitem479" WeaponMode="dknife2_1" />
+                <position x="412.247" z="308.945" ay="4.237" WeaponName="dk_rl_npcitem307" WeaponMode="dknife4_1" />
+            </item>
+        </creator>
+        <creator No="AD4E2ED83A3D42988A93FB01515244C4" x="400.696" y="123.103" z="275.061" radius="10.0" NpcProgress="4" WakeupRange="20.0" ChaseRange="-1.0" PatrolRange="5.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001322_x" ay="0.449" amount="1" refreshtime="-1" desc="嗜血隐者（高）" />
+            <item No="2" id="npcclone001311_x" ay="4.807" amount="3" refreshtime="-1" desc="幽灵蛛卫（高）">
+                <position x="394.771" z="277.976" ay="4.807" WeaponName="dk_rl_npcitem307" WeaponMode="dknife2_1" />
+                <position x="395.750" z="268.572" ay="4.017" WeaponName="dk_rl_npcitem479" WeaponMode="dknife2_1" />
+                <position x="395.427" z="274.110" ay="4.782" WeaponName="dk_rl_npcitem307" WeaponMode="dknife4_1" />
+            </item>
+        </creator>
+        <creator No="AF7E77C691C2459592AD672D22BC1889" x="415.176" y="131.767" z="234.897" radius="7.0" NpcProgress="4" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001323_x" ay="4.346" amount="2" refreshtime="-1" desc="剑影侍者（高）">
+                <position x="413.719" z="238.487" ay="4.346" WeaponName="s_r_npcitem388" WeaponMode="sword5_1" />
+                <position x="411.401" z="233.422" ay="6.171" WeaponName="s_r_npcitem312" WeaponMode="sword2_1" />
+            </item>
+            <item No="2" id="npcclone001320_x" ay="3.466" amount="2" refreshtime="-1" desc="鬼祟行者（高）">
+                <position x="419.701" z="234.812" ay="3.466" WeaponName="b_r_npcitem314" WeaponMode="blade3_1" />
+                <position x="418.634" z="231.799" ay="5.446" WeaponName="b_r_npcitem389" WeaponMode="blade4f_1" />
+            </item>
+        </creator>
+        <creator No="BA56413DAD1D4229804ED1B8BB991364" x="446.304" y="131.855" z="221.802" radius="5.0" NpcProgress="4" WakeupRange="8.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001321_x" ay="1.278" amount="1" refreshtime="-1" desc="幻灵使者（高）">
+                <position x="444.010" z="222.887" ay="1.278" WeaponName="dk_rl_npcitem300" WeaponMode="dknife1_2" />
+            </item>
+        </creator>
+        <creator No="2BB26641CB8046F991E188E16C4276E8" x="436.706" y="128.911" z="199.741" radius="5.0" NpcProgress="4" WakeupRange="8.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001321_x" ay="1.278" amount="1" refreshtime="-1" desc="幻灵使者（高）">
+                <position x="433.351" z="199.560" ay="1.278" WeaponName="dk_rl_npcitem300" WeaponMode="dknife1_2" />
+            </item>
+        </creator>
+        <creator No="97CD56D40C8547E6869938962116F1FF" x="863.466" y="131.829" z="202.638" radius="20.0" NpcProgress="6" WakeupRange="30.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001320_x" ay="3.446" amount="4" refreshtime="-1" desc="鬼祟行者（高）">
+                <position x="862.748" z="183.463" ay="3.446" WeaponName="da_rl_npcitem303" WeaponMode="dax2_1" />
+                <position x="844.758" z="203.213" ay="5.486" WeaponName="db_rl_npcitem024" WeaponMode="gblade1_1" />
+                <position x="863.544" z="221.118" ay="5.486" WeaponName="b_r_npcitem415" WeaponMode="blade2_1" />
+                <position x="882.671" z="202.397" ay="1.548" />
+            </item>
+        </creator>
+        <creator No="B3BCEA3645BE4D6182EC09B10D344212" x="244.777" y="65.592" z="547.587" radius="5.0" NpcProgress="1" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001303_x" ay="5.673" amount="2" refreshtime="-1" desc="江湖恶棍（高）">
+                <position x="244.929" z="544.534" ay="5.673" WeaponMode="hand2_1" />
+                <position x="243.018" z="550.083" ay="3.633" WeaponMode="hand3_1" />
+            </item>
+        </creator>
+        <creator No="79540CE06E13456F8DA4F1157ACB7DEF" x="405.906" y="115.447" z="392.517" radius="5.0" NpcProgress="3" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001308_x" ay="6.228" amount="4" refreshtime="-1" desc="孔雀羽卫（高）">
+                <position x="403.970" z="394.605" ay="6.228" WeaponName="k_r_npcitem307" WeaponMode="knife2_1" />
+                <position x="404.382" z="392.742" ay="0.195" WeaponName="s_r_npcitem332" WeaponMode="sword1_1" />
+                <position x="407.237" z="392.784" ay="0.195" WeaponName="s_r_npcitem332" WeaponMode="sword2_1" />
+                <position x="407.466" z="394.785" ay="0.195" WeaponName="k_r_npcitem307" WeaponMode="knife2_1" />
+            </item>
+        </creator>
+        <creator No="564B2511C3C04288AC9AFDF380A3E5E2" x="346.300" y="82.630" z="504.900" radius="6.0" NpcProgress="2" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001324_x" ay="4.903" amount="1" refreshtime="-1" NotPositive="0" desc="李日含（高）">
+                <position x="348.400" z="504.700" ay="4.903" BornAction="da_stand_4" RandomAction="" WeaponName="da_rl_npcitem303" WeaponMode="dax1_1" />
+            </item>
+            <item No="2" id="npcclone001303_x" ay="3.658" amount="2" refreshtime="-1" desc="江湖恶棍（高）">
+                <position x="346.485" z="507.457" ay="3.658" WeaponName="b_r_npcitem317" WeaponMode="blade6_1" />
+                <position x="347.198" z="502.350" ay="5.463" WeaponName="b_r_npcitem314" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="57A72CFF1EF94EC7AB464B791AF8E3A6" x="330.937" y="103.422" z="304.049" radius="4.0" NpcProgress="3" WakeupRange="8.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001318_x" ay="3.154" amount="2" refreshtime="-1" NotPositive="0" desc="山庄隐卫（高）">
+                <position x="330.640" z="307.200" ay="3.154" WeaponName="b_r_32" WeaponMode="blade3_1" />
+                <position x="330.312" z="300.657" ay="0.009" WeaponName="b_r_32" WeaponMode="blade3_1" />
+            </item>
+        </creator>
+        <creator No="A9DDB59F3D3A4B6BB61B336DB0945CBE" x="355.147" y="99.166" z="328.285" radius="4.0" NpcProgress="3" WakeupRange="8.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001318_x" ay="1.561" amount="2" refreshtime="-1" NotPositive="0" desc="山庄隐卫（高）">
+                <position x="351.722" z="328.128" ay="1.561" WeaponName="b_r_32" WeaponMode="blade3_1" />
+                <position x="358.477" z="328.082" ay="4.806" WeaponName="b_r_32" WeaponMode="blade3_1" />
+            </item>
+        </creator>
+        <creator No="46C296E7895745DBAD91800A1A70FD0A" x="303.474" y="99.166" z="340.269" radius="4.0" NpcProgress="3" WakeupRange="8.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001318_x" ay="1.561" amount="2" refreshtime="-1" NotPositive="0" desc="山庄隐卫（高）">
+                <position x="300.158" z="340.620" ay="1.561" WeaponName="b_r_32" WeaponMode="blade3_1" />
+                <position x="306.763" z="340.047" ay="4.731" WeaponName="b_r_32" WeaponMode="blade3_1" />
+            </item>
+        </creator>
+        <creator No="5EF4DCE38AE14F75A409D591C281449F" x="362.655" y="99.166" z="343.950" radius="4.0" NpcProgress="3" WakeupRange="8.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001318_x" ay="3.216" amount="2" refreshtime="-1" NotPositive="0" desc="山庄隐卫（高）">
+                <position x="361.031" z="346.984" ay="3.216" WeaponName="b_r_32" WeaponMode="blade3_1" />
+                <position x="363.060" z="340.485" ay="5.516" WeaponName="b_r_32" WeaponMode="blade3_1" />
+            </item>
+        </creator>
+        <creator No="AD96C9C4CAEE4B778ACFD0C70C223E77" x="365.924" y="99.166" z="361.727" radius="4.0" NpcProgress="3" WakeupRange="8.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001318_x" ay="1.476" amount="4" refreshtime="-1" NotPositive="0" desc="山庄隐卫（高）">
+                <position x="362.709" z="363.788" ay="1.476" WeaponName="b_r_32" WeaponMode="blade3_1" />
+                <position x="362.669" z="360.102" ay="1.468" WeaponName="b_r_32" WeaponMode="blade3_1" />
+                <position x="362.720" z="361.292" ay="1.576" WeaponName="b_r_32" WeaponMode="blade3_1" />
+                <position x="362.774" z="362.667" ay="1.721" WeaponName="b_r_32" WeaponMode="blade3_1" />
+            </item>
+        </creator>
+        <creator No="FDBF925788F54FCFA4EA3BBFE255E21D" x="99.169" y="45.719" z="553.411" radius="16.0" NpcProgress="1" WakeupRange="18.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001301_x" ay="5.685" az="0.236" amount="3" refreshtime="-1" desc="白狼（高）">
+                <position x="105.858" z="544.885" ay="5.685" az="0.236" />
+                <position x="103.458" z="544.399" ax="6.021" ay="0.662" />
+                <position x="104.334" z="547.056" ax="6.104" ay="2.232" az="6.244" />
+            </item>
+        </creator>
+        <creator No="270E7CDFB956419C8015F09A9C02BB2A" x="110.955" y="45.589" z="531.293" radius="5.0" NpcProgress="1" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001301_x" ax="0.235" ay="4.317" az="6.263" amount="3" refreshtime="-1" desc="白狼（高）">
+                <position x="113.273" z="532.461" ax="0.235" ay="4.317" az="6.263" />
+                <position x="111.143" z="530.316" ax="0.083" ay="0.162" az="0.418" />
+                <position x="110.626" z="532.666" ax="6.138" ay="2.152" az="6.247" />
+            </item>
+        </creator>
+        <creator No="849A493D7A2148F0AF00E20B0181ECB8" x="135.395" y="50.772" z="548.800" radius="6.0" NpcProgress="1" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001301_x" ay="5.732" amount="3" refreshtime="-1" desc="白狼（高）">
+                <position x="133.767" z="546.952" ay="5.732" />
+                <position x="137.185" z="547.285" ay="3.942" />
+                <position x="133.106" z="549.368" ay="3.137" />
+            </item>
+        </creator>
+        <creator No="8F7B470DF064468DACFB241670EC5BCA" x="228.693" y="68.899" z="568.032" radius="5.0" NpcProgress="1" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="4.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001301_x" ax="6.126" ay="0.625" amount="3" refreshtime="-1" desc="白狼（高）">
+                <position x="227.906" z="566.878" ax="6.126" ay="0.625" />
+                <position x="229.193" z="567.772" ax="6.053" ay="4.513" az="6.276" />
+                <position x="226.364" z="568.495" ax="0.048" ay="1.788" az="6.133" />
+            </item>
+        </creator>
+        <creator No="78B35FBC23604181B58F0EEAD8E5E796" x="201.129" y="60.935" z="549.563" radius="5.0" NpcProgress="1" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001304_x" ay="4.233" amount="2" refreshtime="-1" desc="恶童子（高）">
+                <position x="201.150" z="551.422" ay="4.233" />
+                <position x="200.983" z="548.004" ay="5.463" />
+            </item>
+        </creator>
+        <creator No="7B0908C0538B47839E74CD7B121FD836" x="222.400" y="65.700" z="538.793" radius="5.0" NpcProgress="1" WakeupRange="14.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001303_x" ay="4.028" amount="3" refreshtime="-1" desc="江湖恶棍（高）">
+                <position x="223.447" z="539.050" ay="4.028" />
+                <position x="220.792" z="538.769" ay="2.023" />
+                <position x="222.381" z="537.300" ay="5.983" WeaponName="b_r_npcitem024" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="C5967BA4D4134914B9CF201C958393DA" x="319.524" y="77.447" z="545.569" radius="5.0" NpcProgress="2" WakeupRange="14.0" ChaseRange="-1.0" PatrolRange="3.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001302_x" ax="0.328" ay="3.718" az="0.022" amount="3" refreshtime="-1" desc="蛇（高）">
+                <position x="319.805" z="549.240" ax="0.328" ay="3.718" az="0.022" />
+                <position x="319.778" z="547.529" ay="5.463" />
+                <position x="321.405" z="546.897" ax="0.288" ay="3.828" />
+            </item>
+        </creator>
+        <creator No="2F370D62B1CE4AE0AD271C199B85F746" x="284.408" y="69.568" z="554.263" radius="5.0" NpcProgress="2" WakeupRange="11.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001304_x" ay="6.108" amount="3" refreshtime="-1" desc="恶童子（高）">
+                <position x="283.451" z="551.171" ay="6.108" />
+                <position x="284.672" z="553.756" ay="4.318" WeaponName="lsp_rl_npcitem444" WeaponMode="stuff1_1" />
+                <position x="284.145" z="551.763" ay="4.198" />
+            </item>
+        </creator>
+        <creator No="7CFFDB5194944CBDAF7B950E4618B742" x="284.934" y="77.708" z="581.349" radius="5.0" NpcProgress="2" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001303_x" ay="2.133" amount="3" refreshtime="-1" desc="江湖恶棍（高）">
+                <position x="282.918" z="581.876" ay="2.133" WeaponName="b_r_npcitem153" WeaponMode="blade3_1" />
+                <position x="283.596" z="580.379" ay="0.195" WeaponName="b_r_npcitem024" WeaponMode="blade2_1" />
+                <position x="284.598" z="581.429" ay="4.723" />
+            </item>
+        </creator>
+        <creator No="4632374B8D8A46F98A1C57DD7883AFB5" x="302.350" y="75.337" z="550.852" radius="10.0" NpcProgress="2" WakeupRange="18.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001303_x" ay="4.318" amount="3" refreshtime="-1" desc="江湖恶棍（高）">
+                <position x="307.087" z="554.094" ay="4.318" WeaponName="lb_r_npcitem447" WeaponMode="blade6_1" />
+                <position x="306.701" z="555.309" ay="3.559" WeaponName="lb_r_npcitem447" WeaponMode="blade7_1" />
+                <position x="302.557" z="558.115" ay="2.814" az="6.170" WeaponName="lb_r_npcitem447" WeaponMode="blade3_1" />
+            </item>
+            <item No="2" id="npcclone001313_x" ax="0.039" ay="3.699" amount="1" refreshtime="-1" desc="绿林大盗（高）">
+                <position x="304.659" z="556.134" ax="0.039" ay="3.699" WeaponName="da_rl_npcitem205" WeaponMode="dax3_1" />
+            </item>
+        </creator>
+        <creator No="F96B646BC54E408C96B496FD4E8E4E15" x="326.046" y="79.359" z="524.128" radius="5.0" NpcProgress="2" WakeupRange="11.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001313_x" ay="4.728" amount="2" refreshtime="-1" desc="绿林大盗（高）">
+                <position x="327.818" z="526.132" ay="4.728" WeaponName="lst_r_npcitem210" WeaponMode="lstuff1_1" />
+                <position x="323.512" z="521.462" ay="0.300" WeaponName="lst_r_npcitem210" WeaponMode="lstuff1_1" />
+            </item>
+        </creator>
+        <creator No="671B43C470AA4A6DB8E4C2ACA65B542E" x="322.827" y="82.655" z="492.087" radius="5.0" NpcProgress="2" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001306_x" ay="4.783" amount="3" refreshtime="-1" desc="孔雀豹卫（高）">
+                <position x="321.854" z="491.677" ay="4.783" WeaponName="lsp_r_npcitem207" WeaponMode="lspear1_1" />
+                <position x="323.738" z="494.828" ay="2.718" WeaponName="lsp_r_npcitem207" WeaponMode="lspear1_1" />
+                <position x="320.615" z="493.045" ay="1.925" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="22E2EC5E236D41819699881E4C9FDE48" x="525.266" y="122.519" z="414.294" radius="5.0" NpcProgress="2" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001314_x" ay="5.468" amount="3" refreshtime="-1" desc="褐衣护法（高）">
+                <position x="528.070" z="411.241" ay="5.468" />
+                <position x="522.464" z="411.314" ay="0.750" />
+                <position x="522.141" z="417.193" ay="2.005" />
+            </item>
+            <item No="2" id="npcclone001315_x" ay="3.905" amount="1" refreshtime="-1" desc="青衣护法（高）">
+                <position x="528.280" z="416.239" ay="3.905" WeaponName="删除武器" />
+            </item>
+            <item No="3" id="npcclone001326_x" ay="2.271" amount="1" refreshtime="-1" desc="五行护法（高）">
+                <position x="524.419" z="417.338" ay="2.271" WeaponName="s_r_npcitem391" WeaponMode="sword3_1" />
+            </item>
+        </creator>
+        <creator No="98EFDFC4B7E44862B2F9C98719478058" x="565.739" y="122.495" z="481.711" radius="5.0" NpcProgress="2" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001315_x" ay="1.575" amount="3" refreshtime="-1" desc="青衣护法（高）">
+                <position x="561.648" z="481.611" ay="1.575" />
+                <position x="569.960" z="482.004" ay="4.810" />
+                <position x="566.121" z="477.647" ay="6.048" />
+            </item>
+            <item No="2" id="npcclone001317_x" ay="2.945" amount="1" refreshtime="-1" desc="朱衣护法（高）">
+                <position x="565.092" z="485.699" ay="2.945" WeaponName="删除武器" />
+            </item>
+            <item No="3" id="npcclone001326_x" ay="4.666" amount="1" refreshtime="-1" desc="五行护法（高）">
+                <position x="568.639" z="480.047" ay="4.666" WeaponName="s_r_npcitem391" WeaponMode="sword3_1" />
+            </item>
+        </creator>
+        <creator No="86E933BD1C0D416AA1AF6C5F7BAE1936" x="613.464" y="123.154" z="457.415" radius="5.0" NpcProgress="2" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001317_x" ay="1.642" amount="3" refreshtime="-1" desc="朱衣护法（高）">
+                <position x="609.713" z="459.281" ay="1.642" />
+                <position x="613.688" z="461.631" ay="2.981" />
+                <position x="617.397" z="458.897" ay="4.415" />
+            </item>
+            <item No="2" id="npcclone001316_x" ay="5.745" amount="1" refreshtime="-1" desc="紫衣护法（高）">
+                <position x="616.173" z="454.131" ay="5.745" WeaponName="删除武器" />
+            </item>
+            <item No="3" id="npcclone001326_x" ay="2.989" amount="1" refreshtime="-1" desc="五行护法（高）">
+                <position x="614.729" z="460.004" ay="2.989" WeaponName="s_r_npcitem391" WeaponMode="sword3_1" />
+            </item>
+        </creator>
+        <creator No="AD3B664D6BE447CDB160CD732A96DD14" x="591.410" y="122.388" z="379.558" radius="5.0" NpcProgress="2" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001316_x" ay="1.642" amount="3" refreshtime="-1" desc="紫衣护法（高）">
+                <position x="587.241" z="379.357" ay="1.642" />
+                <position x="591.596" z="375.493" ay="6.160" />
+                <position x="595.573" z="379.390" ay="4.747" />
+            </item>
+            <item No="2" id="npcclone001314_x" ay="3.102" amount="1" refreshtime="-1" desc="褐衣护法（高）">
+                <position x="592.370" z="383.268" ay="3.102" WeaponName="删除武器" />
+            </item>
+            <item No="3" id="npcclone001326_x" ay="5.259" amount="1" refreshtime="-1" desc="五行护法（高）">
+                <position x="594.102" z="376.782" ay="5.259" WeaponName="s_r_npcitem391" WeaponMode="sword3_1" />
+            </item>
+        </creator>
+        <creator No="24AC9A47795E4738BCD846DCE4717158" x="542.634" y="121.737" z="377.384" radius="5.0" NpcProgress="2" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001316_x" ay="2.267" amount="1" refreshtime="-1" desc="紫衣护法（高）">
+                <position x="539.972" z="380.617" ay="2.267" WeaponName="删除武器" />
+            </item>
+            <item No="2" id="npcclone001314_x" ay="0.454" amount="1" refreshtime="-1" desc="褐衣护法（高）">
+                <position x="539.265" z="374.667" ay="0.454" WeaponName="删除武器" />
+            </item>
+            <item No="3" id="npcclone001315_x" ay="5.607" amount="1" refreshtime="-1" desc="青衣护法（高）">
+                <position x="545.412" z="374.101" ay="5.607" WeaponName="删除武器" />
+            </item>
+            <item No="4" id="npcclone001317_x" ay="4.257" amount="1" refreshtime="-1" desc="朱衣护法（高）">
+                <position x="545.880" z="380.302" ay="4.257" WeaponName="删除武器" />
+            </item>
+            <item No="5" id="npcclone001326_x" ay="5.784" amount="1" refreshtime="-1" desc="五行护法（高）">
+                <position x="541.980" z="373.823" ay="5.784" WeaponName="s_r_npcitem391" WeaponMode="sword3_1" />
+            </item>
+        </creator>
+        <creator No="925AD0B8DD72483A8934655C67F98676" x="563.006" y="124.823" z="518.108" radius="5.0" NpcProgress="2" WakeupRange="7.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001302_x" ay="1.615" amount="3" refreshtime="-1" desc="蛇（高）">
+                <position x="560.940" z="521.473" ay="1.615" />
+                <position x="559.614" z="518.593" ax="0.204" ay="3.705" />
+                <position x="563.576" z="519.815" ax="0.236" ay="2.285" />
+            </item>
+        </creator>
+        <creator No="EEED63E16DBB4664860BF1A97B0D8240" x="574.917" y="125.617" z="430.128" radius="6.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="5.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001302_x" ay="3.325" amount="2" refreshtime="-1" desc="蛇（高）">
+                <position x="574.226" z="432.970" ay="3.325" />
+                <position x="577.688" z="430.523" ay="5.780" />
+            </item>
+        </creator>
+        <creator No="DE76DE9D7EE04D22A3B5B8F94DDE9A0E" x="338.379" y="94.652" z="446.067" radius="10.0" NpcProgress="3" WakeupRange="12.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001310_x" ay="4.746" amount="2" refreshtime="-1" desc="孔雀铁甲卫（高）">
+                <position x="341.480" z="450.941" ay="4.746" WeaponMode="lstuff1_1" />
+                <position x="335.144" z="450.950" ay="1.561" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="2" id="npcclone001305_x" ay="4.791" amount="4" refreshtime="-1" desc="孔雀庄丁（高）">
+                <position x="347.803" z="446.677" ay="4.791" />
+                <position x="347.643" z="444.980" ay="4.726" />
+                <position x="328.818" z="446.491" ay="1.556" />
+                <position x="328.893" z="444.743" ay="1.606" />
+            </item>
+        </creator>
+        <creator No="5EEC87CC4BDB42B98B9144F548CEA9C0" x="307.886" y="94.421" z="434.052" radius="5.0" NpcProgress="3" WakeupRange="11.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001307_x" ay="1.561" amount="2" refreshtime="-1" desc="孔雀熊卫（高）">
+                <position x="306.594" z="437.108" ay="1.561" WeaponName="dc_rl_npcitem212" WeaponMode="dcrutch2_1" />
+                <position x="308.206" z="438.421" ay="3.261" WeaponName="dc_rl_npcitem212" WeaponMode="dcrutch2_1" />
+            </item>
+            <item No="2" id="npcclone001309_x" ay="0.303" amount="2" refreshtime="-1" desc="孔雀黑衣卫（高）">
+                <position x="307.708" z="435.256" ay="0.303" WeaponName="k_r_npcitem307" WeaponMode="knife1_2" />
+                <position x="306.930" z="435.732" ay="0.461" WeaponName="dk_rl_npcitem479" WeaponMode="dknife2_2" />
+            </item>
+        </creator>
+        <creator No="C46E5A9B0EC44CE49230B85E588A86DB" x="314.971" y="99.083" z="402.144" radius="6.0" NpcProgress="3" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001307_x" ay="0.426" amount="4" refreshtime="-1" desc="孔雀熊卫（高）">
+                <position x="312.218" z="403.856" ay="0.426" WeaponName="dc_rl_npcitem212" WeaponMode="dcrutch3_1" />
+                <position x="312.179" z="406.216" ay="2.942" WeaponName="dc_rl_npcitem212" WeaponMode="dcrutch3_1" />
+                <position x="318.324" z="401.228" ay="3.812" WeaponName="dc_rl_npcitem212" WeaponMode="dcrutch4_1" />
+                <position x="317.880" z="398.238" ay="0.013" WeaponName="dc_rl_npcitem212" WeaponMode="dcrutch1_1" />
+            </item>
+        </creator>
+        <creator No="CB785833A9F54480BB9CE8DE3E867591" x="315.451" y="99.166" z="380.061" radius="5.0" NpcProgress="3" WakeupRange="8.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001305_x" ay="4.740" amount="2" refreshtime="-1" desc="孔雀庄丁（高）">
+                <position x="318.622" z="381.686" ay="4.740" />
+                <position x="312.505" z="381.639" ay="1.547" WeaponName="删除武器" />
+            </item>
+        </creator>
+        <creator No="DA7EBEEC8B7F4FCB9665DD7F39A0F003" x="314.515" y="99.166" z="357.819" radius="5.0" NpcProgress="3" WakeupRange="8.0" ChaseRange="-1.0" PatrolRange="4.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001305_x" ay="5.195" amount="2" refreshtime="-1" desc="孔雀庄丁（高）">
+                <position x="318.158" z="355.513" ay="5.195" />
+                <position x="311.917" z="358.897" ay="2.937" />
+            </item>
+        </creator>
+        <creator No="35D466A2CE67494ABBC380A5829923EC" x="308.458" y="100.514" z="322.280" radius="6.0" NpcProgress="3" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001305_x" ay="4.665" amount="4" refreshtime="-1" desc="孔雀庄丁（高）">
+                <position x="311.035" z="324.323" ay="4.665" />
+                <position x="305.930" z="327.048" ay="2.455" />
+                <position x="305.979" z="321.271" ay="0.672" />
+                <position x="309.356" z="321.297" ay="5.575" />
+            </item>
+            <item No="2" id="npcclone001307_x" ay="2.455" amount="1" refreshtime="-1" desc="孔雀熊卫（高）">
+                <position x="307.803" z="324.252" ay="2.455" WeaponName="dc_rl_npcitem212" WeaponMode="dcrutch1_1" />
+            </item>
+        </creator>
+        <creator No="E55F1697A4EE4D4FB027267E1D000A21" x="354.433" y="99.166" z="305.012" radius="5.0" NpcProgress="3" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="3.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001307_x" ay="3.030" amount="3" refreshtime="-1" desc="孔雀熊卫（高）">
+                <position x="356.702" z="307.679" ay="3.030" WeaponName="dc_rl_npcitem212" WeaponMode="dcrutch2_1" />
+                <position x="353.250" z="306.104" ay="2.455" WeaponName="dc_rl_npcitem212" WeaponMode="dcrutch2_1" />
+                <position x="354.767" z="301.682" ay="0.925" WeaponName="dc_rl_npcitem212" WeaponMode="dcrutch5_1" />
+            </item>
+        </creator>
+        <creator No="6FCE0BFB91AD404EBCCC49DD3A257253" x="368.284" y="101.033" z="392.009" radius="10.0" NpcProgress="3" WakeupRange="12.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001310_x" ay="3.126" amount="2" refreshtime="-1" desc="孔雀铁甲卫（高）">
+                <position x="362.939" z="389.076" ay="3.126" WeaponMode="lstuff1_1" />
+                <position x="369.443" z="389.075" ay="3.126" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="2" id="npcclone001309_x" ay="4.731" amount="3" refreshtime="-1" desc="孔雀黑衣卫（高）">
+                <position x="376.694" z="390.071" ay="4.731" WeaponName="s_r_npcitem204" WeaponMode="sword2_2" />
+                <position x="376.169" z="389.232" ay="0.201" WeaponName="b_r_npcitem153" WeaponMode="blade2_2" />
+                <position x="374.533" z="390.063" ay="2.116" WeaponName="k_r_npcitem307" WeaponMode="knife1_2" />
+            </item>
+        </creator>
+        <creator No="E01C77FD612242A5802070A0E69828D5" x="384.214" y="104.141" z="428.109" radius="10.0" NpcProgress="3" WakeupRange="14.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001310_x" ay="4.751" amount="2" refreshtime="-1" desc="孔雀铁甲卫（高）">
+                <position x="376.006" z="431.591" ay="4.751" WeaponMode="lstuff1_1" />
+                <position x="375.886" z="424.476" ay="4.646" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="2" id="npcclone001308_x" ay="4.711" amount="2" refreshtime="-1" desc="孔雀羽卫（高）">
+                <position x="386.697" z="433.098" ay="4.711" WeaponName="db_rl_npcitem419/420" WeaponMode="dsword1_1" />
+                <position x="386.835" z="426.179" ay="4.736" WeaponName="ds_rl_npcitem324" WeaponMode="dsword2_1" />
+            </item>
+        </creator>
+        <creator No="E4BCFCDAD259431FA3E99D8D7B6472E8" x="400.133" y="115.565" z="417.076" radius="8.0" NpcProgress="3" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001310_x" ay="0.028" amount="2" refreshtime="-1" desc="孔雀铁甲卫（高）">
+                <position x="398.064" z="416.498" ay="0.028" WeaponMode="lstuff1_1" />
+                <position x="402.146" z="416.569" ay="6.146" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="2" id="npcclone001309_x" ay="4.711" amount="3" refreshtime="-1" desc="孔雀黑衣卫（高）">
+                <position x="405.664" z="415.096" ay="4.711" WeaponName="dk_rl_npcitem413" WeaponMode="dknife2_2" />
+                <position x="404.237" z="414.995" ay="3.021" WeaponName="dk_rl_npcitem392" WeaponMode="dknife1_2" />
+                <position x="404.878" z="414.273" ay="5.171" WeaponName="dk_rl_npcitem479" WeaponMode="dknife3_2" />
+            </item>
+        </creator>
+        <creator No="DABC75BB9CE2439F90F83F63156C5AD3" x="399.834" y="115.558" z="407.009" radius="5.0" NpcProgress="3" WakeupRange="7.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001308_x" ay="1.540" amount="4" refreshtime="-1" desc="孔雀羽卫（高）">
+                <position x="401.260" z="403.572" ay="1.540" WeaponName="ds_rl_npcitem324" WeaponMode="dsword3_1" />
+                <position x="398.261" z="402.991" ay="4.433" WeaponName="ds_rl_npcitem324" WeaponMode="dsword2_1" />
+                <position x="401.979" z="404.464" ay="3.123" WeaponName="ds_rl_npcitem324" WeaponMode="dsword4_1" />
+                <position x="397.051" z="404.082" ay="1.975" WeaponName="ds_rl_npcitem324" WeaponMode="dsword1_1" />
+            </item>
+        </creator>
+        <creator No="6C94AF35A4BA481B84E49953B5978DAC" x="415.347" y="116.104" z="402.560" radius="5.0" NpcProgress="3" WakeupRange="11.0" ChaseRange="-1.0" PatrolRange="3.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001308_x" ay="2.555" amount="4" refreshtime="-1" desc="孔雀羽卫（高）">
+                <position x="418.812" z="403.379" ay="2.555" WeaponName="lsp_r_npcitem215" WeaponMode="lspear1_1" />
+                <position x="418.166" z="401.422" ay="5.853" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="417.500" z="405.320" ay="2.835" WeaponName="lsp_r_npcitem207" WeaponMode="lspear1_1" />
+                <position x="416.890" z="400.326" ay="0.195" WeaponName="lsp_r_npcitem215" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="0348A3B7F9864FEDACAC93750D959D3F" x="408.799" y="115.417" z="374.386" radius="12.0" NpcProgress="4" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="8.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001320_x" ay="1.625" amount="4" refreshtime="-1" desc="鬼祟行者（高）">
+                <position x="414.645" z="377.042" ay="1.625" WeaponName="b_r_npcitem326" WeaponMode="blade7_1" />
+                <position x="398.914" z="374.174" ay="4.887" WeaponName="gb_r_npcitem325" WeaponMode="blade1_1" />
+                <position x="410.696" z="369.720" ay="3.705" WeaponName="b_r_npcitem309" WeaponMode="blade3_1" />
+                <position x="409.306" z="369.695" ay="2.230" WeaponName="b_r_npcitem390" WeaponMode="blade3_1" />
+            </item>
+        </creator>
+        <creator No="F40A2C7911BF46F4B53EA1A2CA45100C" x="415.315" y="113.912" z="346.471" radius="10.0" NpcProgress="4" WakeupRange="12.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001322_x" ay="0.899" amount="1" refreshtime="-1" desc="嗜血隐者（高）">
+                <position x="408.295" z="344.742" ay="0.899" WeaponName="s_r_npcitem202" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="npcclone001311_x" ay="4.807" amount="3" refreshtime="-1" desc="幽灵蛛卫（高）">
+                <position x="410.431" z="347.004" ay="4.807" WeaponName="dk_rl_npcitem300" WeaponMode="dknife2_1" />
+                <position x="410.881" z="342.111" ay="4.887" WeaponName="dk_rl_npcitem479" WeaponMode="dknife2_1" />
+                <position x="410.865" z="344.660" ay="4.237" WeaponName="dk_rl_npcitem307" WeaponMode="dknife4_1" />
+            </item>
+        </creator>
+        <creator No="37C9D1A7431B47039466498B87157119" x="396.335" y="128.762" z="243.989" radius="10.0" NpcProgress="4" WakeupRange="13.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001322_x" ay="0.899" amount="1" refreshtime="-1" desc="嗜血隐者（高）">
+                <position x="388.644" z="240.984" ay="0.899" WeaponName="s_r_npcitem202" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="npcclone001311_x" ay="2.827" amount="3" refreshtime="-1" desc="幽灵蛛卫（高）">
+                <position x="389.012" z="243.857" ay="2.827" WeaponName="dk_rl_npcitem217" WeaponMode="dknife2_1" />
+                <position x="391.901" z="239.629" ay="4.877" WeaponName="dk_rl_npcitem479" WeaponMode="dknife2_1" />
+                <position x="391.142" z="243.362" ay="4.047" WeaponName="dk_rl_npcitem307" WeaponMode="dknife4_1" />
+            </item>
+        </creator>
+        <creator No="7B99828DEB26489298C8A7EC2411584A" x="408.037" y="115.458" z="311.018" radius="10.0" NpcProgress="4" WakeupRange="18.0" ChaseRange="-1.0" PatrolRange="5.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001322_x" ay="4.487" amount="1" refreshtime="-1" desc="嗜血隐者（高）" />
+            <item No="2" id="npcclone001311_x" ay="4.882" amount="3" refreshtime="-1" desc="幽灵蛛卫（高）">
+                <position x="410.660" z="315.149" ay="4.882" WeaponName="dk_rl_npcitem392" WeaponMode="dknife2_1" />
+                <position x="410.124" z="312.375" ay="0.004" WeaponName="dk_rl_npcitem479" WeaponMode="dknife2_1" />
+                <position x="412.247" z="308.945" ay="4.237" WeaponName="dk_rl_npcitem307" WeaponMode="dknife4_1" />
+            </item>
+        </creator>
+        <creator No="AD4E2ED83A3D42988A93FB01515244C4" x="400.696" y="123.103" z="275.061" radius="10.0" NpcProgress="4" WakeupRange="20.0" ChaseRange="-1.0" PatrolRange="5.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001322_x" ay="0.449" amount="1" refreshtime="-1" desc="嗜血隐者（高）" />
+            <item No="2" id="npcclone001311_x" ay="4.807" amount="3" refreshtime="-1" desc="幽灵蛛卫（高）">
+                <position x="394.771" z="277.976" ay="4.807" WeaponName="dk_rl_npcitem307" WeaponMode="dknife2_1" />
+                <position x="395.750" z="268.572" ay="4.017" WeaponName="dk_rl_npcitem479" WeaponMode="dknife2_1" />
+                <position x="395.427" z="274.110" ay="4.782" WeaponName="dk_rl_npcitem307" WeaponMode="dknife4_1" />
+            </item>
+        </creator>
+        <creator No="AF7E77C691C2459592AD672D22BC1889" x="415.176" y="131.767" z="234.897" radius="7.0" NpcProgress="4" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001323_x" ay="4.346" amount="2" refreshtime="-1" desc="剑影侍者（高）">
+                <position x="413.719" z="238.487" ay="4.346" WeaponName="s_r_npcitem388" WeaponMode="sword5_1" />
+                <position x="411.401" z="233.422" ay="6.171" WeaponName="s_r_npcitem312" WeaponMode="sword2_1" />
+            </item>
+            <item No="2" id="npcclone001320_x" ay="3.466" amount="2" refreshtime="-1" desc="鬼祟行者（高）">
+                <position x="419.701" z="234.812" ay="3.466" WeaponName="b_r_npcitem314" WeaponMode="blade3_1" />
+                <position x="418.634" z="231.799" ay="5.446" WeaponName="b_r_npcitem389" WeaponMode="blade4f_1" />
+            </item>
+        </creator>
+        <creator No="BA56413DAD1D4229804ED1B8BB991364" x="446.304" y="131.855" z="221.802" radius="5.0" NpcProgress="4" WakeupRange="8.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001312_x" ay="4.621" amount="3" refreshtime="-1" desc="幽灵蝎卫（高）">
+                <position x="448.263" z="223.311" ay="4.621" />
+                <position x="445.592" z="224.275" ay="2.623" />
+                <position x="443.742" z="219.349" ay="0.303" />
+            </item>
+            <item No="2" id="npcclone001321_x" ay="1.278" amount="1" refreshtime="-1" desc="幻灵使者（高）">
+                <position x="444.010" z="222.887" ay="1.278" WeaponName="dk_rl_npcitem300" WeaponMode="dknife1_2" />
+            </item>
+        </creator>
+        <creator No="2BB26641CB8046F991E188E16C4276E8" x="436.706" y="128.911" z="199.741" radius="5.0" NpcProgress="4" WakeupRange="8.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001312_x" ay="5.006" amount="3" refreshtime="-1" desc="幽灵蝎卫（高）">
+                <position x="439.057" z="198.973" ay="5.006" />
+                <position x="435.994" z="202.214" ay="2.623" />
+                <position x="435.077" z="196.690" ay="0.303" />
+            </item>
+            <item No="2" id="npcclone001321_x" ay="1.278" amount="1" refreshtime="-1" desc="幻灵使者（高）">
+                <position x="433.351" z="199.560" ay="1.278" WeaponName="dk_rl_npcitem300" WeaponMode="dknife1_2" />
+            </item>
+        </creator>
+        <creator No="B525F92794DA4F0D847CC398DB853674" x="492.895" y="128.983" z="177.108" radius="8.0" NpcProgress="4" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001312_x" ay="3.483" amount="6" refreshtime="-1" desc="幽灵蝎卫（高）">
+                <position x="497.188" z="178.275" ay="3.483" />
+                <position x="493.571" z="178.518" ay="2.318" />
+                <position x="493.094" z="174.669" ay="0.618" />
+                <position x="495.434" z="179.042" ay="3.203" />
+                <position x="496.366" z="174.220" ay="5.651" />
+                <position x="494.490" z="173.863" ay="5.996" />
+            </item>
+            <item No="2" id="npcclone001321_x" ay="4.313" amount="2" refreshtime="-1" desc="幻灵使者（高）">
+                <position x="498.566" z="176.850" ay="4.313" WeaponName="b_r_npcitem309" WeaponMode="blade1_2" />
+                <position x="498.119" z="175.203" ay="5.486" WeaponName="gb_r_npcitem201" WeaponMode="blade1f_2" />
+            </item>
+        </creator>
+        <creator No="97CD56D40C8547E6869938962116F1FF" x="863.466" y="131.829" z="202.638" radius="20.0" NpcProgress="6" WakeupRange="30.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001320_x" ay="3.446" amount="4" refreshtime="-1" desc="鬼祟行者（高）">
+                <position x="862.748" z="183.463" ay="3.446" WeaponName="da_rl_npcitem303" WeaponMode="dax2_1" />
+                <position x="844.758" z="203.213" ay="5.486" WeaponName="db_rl_npcitem024" WeaponMode="gblade1_1" />
+                <position x="863.544" z="221.118" ay="5.486" WeaponName="b_r_npcitem415" WeaponMode="blade2_1" />
+                <position x="882.671" z="202.397" ay="1.548" />
+            </item>
+        </creator>
+        <creator No="B3BCEA3645BE4D6182EC09B10D344212" x="244.777" y="65.592" z="547.587" radius="5.0" NpcProgress="1" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001313_x" ay="4.928" amount="2" refreshtime="-1" desc="绿林大盗（高）">
+                <position x="246.951" z="546.325" ay="4.928" WeaponName="lst_r_npcitem316" WeaponMode="lstuff1_1" />
+                <position x="245.699" z="549.230" ay="4.493" WeaponName="lst_r_npcitem316" WeaponMode="lstuff2_1" />
+            </item>
+            <item No="2" id="npcclone001303_x" ay="5.673" amount="2" refreshtime="-1" desc="江湖恶棍（高）">
+                <position x="244.929" z="544.534" ay="5.673" WeaponMode="hand2_1" />
+                <position x="243.018" z="550.083" ay="3.633" WeaponMode="hand3_1" />
+            </item>
+        </creator>
+        <creator No="79540CE06E13456F8DA4F1157ACB7DEF" x="405.906" y="115.447" z="392.517" radius="5.0" NpcProgress="3" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001308_x" ay="6.228" amount="4" refreshtime="-1" desc="孔雀羽卫（高）">
+                <position x="403.970" z="394.605" ay="6.228" WeaponName="k_r_npcitem307" WeaponMode="knife2_1" />
+                <position x="404.382" z="392.742" ay="0.195" WeaponName="s_r_npcitem332" WeaponMode="sword1_1" />
+                <position x="407.237" z="392.784" ay="0.195" WeaponName="s_r_npcitem332" WeaponMode="sword2_1" />
+                <position x="407.466" z="394.785" ay="0.195" WeaponName="k_r_npcitem307" WeaponMode="knife2_1" />
+            </item>
+        </creator>
+        <creator No="57A72CFF1EF94EC7AB464B791AF8E3A6" x="565.676" y="134.928" z="271.080" radius="8.0" NpcProgress="4" WakeupRange="6.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001318_x" ay="2.129" amount="2" refreshtime="-1" NotPositive="0" desc="山庄隐卫（高）">
+                <position x="561.215" z="269.947" ay="2.129" WeaponName="b_r_32" WeaponMode="blade3_1" />
+                <position x="570.723" z="271.392" ay="5.267" WeaponName="b_r_32" WeaponMode="blade3_1" />
+            </item>
+        </creator>
+        <creator No="57A72CFF1EF94EC7AB464B791AF8E3A6" x="578.494" y="134.928" z="175.149" radius="8.0" NpcProgress="4" WakeupRange="6.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001318_x" ay="2.129" amount="2" refreshtime="-1" NotPositive="0" desc="山庄隐卫（高）">
+                <position x="574.033" z="174.016" ay="2.129" WeaponName="b_r_32" WeaponMode="blade3_1" />
+                <position x="583.541" z="175.461" ay="5.267" WeaponName="b_r_32" WeaponMode="blade3_1" />
+            </item>
+        </creator>
+        <creator No="57A72CFF1EF94EC7AB464B791AF8E3A6" x="616.851" y="134.928" z="204.665" radius="8.0" NpcProgress="4" WakeupRange="6.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001318_x" ay="4.269" amount="2" refreshtime="-1" NotPositive="0" desc="山庄隐卫（高）">
+                <position x="618.300" z="209.032" ay="4.269" WeaponName="b_r_32" WeaponMode="blade3_1" />
+                <position x="614.393" z="200.246" ay="1.124" WeaponName="b_r_32" WeaponMode="blade3_1" />
+            </item>
+        </creator>
+        <creator No="57A72CFF1EF94EC7AB464B791AF8E3A6" x="610.529" y="134.928" z="252.588" radius="8.0" NpcProgress="4" WakeupRange="6.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001318_x" ay="3.154" amount="2" refreshtime="-1" NotPositive="0" desc="山庄隐卫（高）">
+                <position x="607.245" z="255.812" ay="3.154" WeaponName="b_r_32" WeaponMode="blade3_1" />
+                <position x="613.415" z="248.436" ay="0.009" WeaponName="b_r_32" WeaponMode="blade3_1" />
+            </item>
+        </creator>
+        <creator No="57A72CFF1EF94EC7AB464B791AF8E3A6" x="527.430" y="134.928" z="241.431" radius="8.0" NpcProgress="4" WakeupRange="6.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001318_x" ay="4.069" amount="2" refreshtime="-1" NotPositive="0" desc="山庄隐卫（高）">
+                <position x="527.983" z="246.000" ay="4.069" WeaponName="b_r_32" WeaponMode="blade3_1" />
+                <position x="525.899" z="236.612" ay="0.924" WeaponName="b_r_32" WeaponMode="blade3_1" />
+            </item>
+        </creator>
+        <creator No="57A72CFF1EF94EC7AB464B791AF8E3A6" x="533.747" y="134.928" z="193.648" radius="8.0" NpcProgress="4" WakeupRange="6.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="4">
+            <item No="1" id="npcclone001318_x" ay="3.154" amount="2" refreshtime="-1" NotPositive="0" desc="山庄隐卫（高）">
+                <position x="530.463" z="196.872" ay="3.154" WeaponName="b_r_32" WeaponMode="blade3_1" />
+                <position x="536.633" z="189.496" ay="0.009" WeaponName="b_r_32" WeaponMode="blade3_1" />
+            </item>
+        </creator>
+        <creator No="3669B4066A6244E79EB29B0E4ECCD4E6" x="766.538" y="127.415" z="203.006" radius="5.7" WakeupRange="15.1" ChaseRange="27.5" PatrolRange="5.7" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001058_x" ay="-1" amount="5" refreshtime="-1" NotPositive="0" desc="青龙护卫">
+                <position x="766.615" z="200.988" ay="-1" />
+                <position x="769.255" z="203.533" ay="-1" />
+                <position x="766.724" z="205.520" ay="-1" />
+                <position x="763.996" z="203.509" ay="-1" />
+                <position x="769.481" z="201.225" ay="-1" />
+            </item>
+        </creator>
+        <creator No="712254CCA2684088BF3F403DBDE262C1" x="757.623" y="127.415" z="194.117" radius="5.0" WakeupRange="10.0" ChaseRange="28.8" PatrolRange="5.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001058_x" ay="-1" amount="5" refreshtime="-1" NotPositive="0" desc="青龙护卫">
+                <position x="758.874" z="195.073" ay="-1" />
+                <position x="756.348" z="195.763" ay="-1" />
+                <position x="755.701" z="192.067" ay="-1" />
+                <position x="759.692" z="191.713" ay="-1" />
+                <position x="755.044" z="194.825" ay="-1" />
+            </item>
+        </creator>
+        <creator No="ADE8F2A53F934C5F95DB5AF80EEDAB4D" x="757.648" y="127.415" z="212.662" radius="5.0" WakeupRange="10.0" ChaseRange="28.9" PatrolRange="5.0" HateLink="1" CloneMode="3">
+            <item No="1" id="npcclone001058_x" ay="-1" amount="5" refreshtime="-1" NotPositive="0" desc="青龙护卫">
+                <position x="757.289" z="209.836" ay="-1" />
+                <position x="760.057" z="210.100" ay="-1" />
+                <position x="761.352" z="212.813" ay="-1" />
+                <position x="758.825" z="214.581" ay="-1" />
+                <position x="757.587" z="211.789" ay="-1" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

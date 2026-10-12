@@ -1,0 +1,42 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	ItemID	ProCount	AddPro	TrackInfoID	DeleteSelf	LockTarget	Radius	SceneID	Water	AddItems	DeleteItems	TargetConfig	TaskID
+12002	useitem_11b	1	1	useiteminfo_12002	1	1	0	12	0			WorldNpc00462	38039
+12003	useitem_5b	1	1	useiteminfo_12003	1	1	0	12	0			WorldNpc00462	38042
+12004	useitem_12b	1	1	useiteminfo_12004	1	1	0	12	0			WorldNpc00462	38043
+12005	useitem_1j	1	1	useiteminfo_12005	0	0	20	12	0			EventNpc38054	38054
+12006	useitem_2j	1	1	useiteminfo_12006	1	1	0	12	0			WorldNpc00485	38058
+12010	useitem_36b	1	1	useiteminfo_12010	1	1	0	11	0			WorldNpc04569	38141
+12011	useitem_10b	1	1	useiteminfo_12011	1	1	0	12	0			WorldNpc00201	38120
+12012	useitem_6b	1	1	useiteminfo_12012	1	1	5	13	0			WorldNpc08924	38359
+12013	useitem_2b	1	1	useiteminfo_12013	1	0	0		0				38362
+12014	useitem_1b	1	1	useiteminfo_12014	1	1	5	13	0			WorldNpc08920	38367
+12015	useitem_3b	1	1	useiteminfo_12015	1	0	0		0				38425
+12016	useitem_1d	1	1	useiteminfo_12016	1	0	0		0				38497
+12017	useitem_2d	1	1	useiteminfo_12017	1	1	5	9	0			WorldNpc02519	38506
+12019	useitem_2h	1	1	useiteminfo_12019	0	1	0	21	0			Gather00003h	38534
+12020	useitem_3h	1	1	useiteminfo_12020	1	0	0		0				38546
+12021	useitem_4h	1	1	useiteminfo_12021	1	0	5	21	0			EventNpc38546	38543
+12022	useitem_7h	1	1	useiteminfo_12022	1	0	5	21	0			EventNpc38561	38561
+12023	useitem_1g	1	1	useiteminfo_12023	1	0	20	2	1			EventNpc38282	38282
+12024	useitem_2g	1	1	useiteminfo_12024	1	0	5	2	0			EventNpc38281	38281
+12025	useitem_3g	1	1	useiteminfo_12025	0	0	20	12	0			EventNpc38296	38296
+12026	useitem_4g	1	1	useiteminfo_12026	1	0	0		0				38304
+12027	useitem_5g	1	1	useiteminfo_12027	0	0	5	14	0			EventNpc38332	38332
+12028	useitem_6g	1	1	useiteminfo_12028	1	1	5	14	0			WorldNpc01619	38334
+12029	useitem_7g	1	1	useiteminfo_12029	0	0	5	14	0		taskitem_15g	EventNpc38307	38307
+12018	useitem_1h	1	1	useiteminfo_12018	1	0	0	21	1	taskitem_93			38532
+12001	useitem_4b	1	1	useiteminfo_12001	1	1	0	12	0			WorldNpc00473	
+12030	useitem_117m	1	1	useiteminfo_12030	1			12	0	taskitem_yl066			
+12009	useitem_5j	1	1	useiteminfo_12009	1	1	0	12	0			WorldNpc00485	
+12031	useitem_117m	1	1	useiteminfo_12031	1			12	0	taskitem_yl066			38068
+12007	useitem_3j			useiteminfo_12007	1	0	20	12	1	taskitem_9k		EventNpc38060	
+12032	useitem_3j	1	1	useiteminfo_12032	1	0	50	12	1	taskitem_9k		EventNpc38060	38060
+12008	useitem_4j			useiteminfo_12008	0	0	20	12	1	taskitem_1j	taskitem_2j	EventNpc38083	
+12033	useitem_4j	1	1	useiteminfo_12033	0	0	30	12	1	taskitem_1j	taskitem_2j	EventNpc38083	38081
+12034	useitem_119m	1	1	useiteminfo_12034	1		20	12	1	taskitem_yl072		EventNpc38011	38011
+12036	useitem_121m	1	1	useiteminfo_12036	1	1	20	12	0			sl170	38022
+12038	useitem_123m	1	1	useiteminfo_12038	1	1	20	12	0			sl170	38027
+12035	useitem_120m	1	1	useiteminfo_12035				12	0				38015
+12039	useitem_126m	1	1	useiteminfo_12039	1			12	0				38027
+12040	useitem_127m	1	1	useiteminfo_12040	1	1	20	12	0			sl169	
+12037	useitem_122m	1	1	useiteminfo_12037	1	1	10	12	0	useitem_123m;useitem_126m;useitem_127m		sl170	38025

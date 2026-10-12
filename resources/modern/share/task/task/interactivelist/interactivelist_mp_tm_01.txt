@@ -1,0 +1,325 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	NpcId	SceneID	DialogID	GetItems	LostItems	TrackInfo	OkMenu	TaskID
+9001	ItemNpc02002	9	DialogID_9001_1			interactinfo_9001_1	okmenu_9001_1	50002
+9002	ItemNpc02003	9	DialogID_9002_2			interactinfo_9002_2	okmenu_9002_2	50002
+9009	WorldNpc02201	9	DialogID_9009_1			interactinfo_9009_1	okmenu_9009_1	50049
+9010	WorldNpc02236	9	DialogID_9010_1		taskitem_25h-1	interactinfo_9010_1	okmenu_9010_1	50053
+9011	WorldNpc02244	9	DialogID_9011_1			interactinfo_9011_1	okmenu_9011_1	50061
+9012	WorldNpc02241	9	DialogID_9012_1			interactinfo_9012_1	okmenu_9012_1	50066
+9013	WorldNpc02201	9	DialogID_9013_1			interactinfo_9013_1	okmenu_9013_1	50072
+9014	WorldNpc02210	9	DialogID_9014_1			interactinfo_9014_1	okmenu_9014_1	50077
+9015	WorldNpc02240	9	DialogID_9015_1			interactinfo_9015_1		50081
+9016	WorldNpc02236	9	DialogID_9016_2			interactinfo_9016_2		50081
+9017	WorldNpc02230	9	DialogID_9017			interactinfo_9017_1	okmenu_9017_1	50117
+9018	WorldNpc02205	9	DialogID_9018_1			interactinfo_9018_1	okmenu_9018_1	50125
+9020	WorldNpc02206	9	DialogID_9020_2			interactinfo_9020_2	okmenu_9020_2	50125
+9022	WorldNpc02207	9	DialogID_9022_3			interactinfo_9022_3	okmenu_9022_3	50125
+9025	WorldNpc02230	9	DialogID_9025_1			interactinfo_9025_1	okmenu_9025_1	50133
+9026	WorldNpc02205	9	DialogID_9026_1			interactinfo_9026_1	okmenu_9026_1	50139
+9028	WorldNpc02207	9	DialogID_9028_2			interactinfo_9028_2	okmenu_9028_2	50139
+9031	WorldNpc02210	9	DialogID_9031_1			interactinfo_9031_1	okmenu_9031_1	50152
+9032	WorldNpc02238	9	DialogID_9032_2			interactinfo_9032_2	okmenu_9032_2	50152
+9033	WorldNpc02238	9	DialogID_9033			interactinfo_9033_1	okmenu_9033_1	50154
+9034	WorldNpc02210	9	DialogID_9034_1			interactinfo_9034_1	okmenu_9034_1	50174
+9035	WorldNpc02209	9	DialogID_9035_2		taskitem_33d-1	interactinfo_9035_2	okmenu_9035_2	50174
+9036	WorldNpc02210	9	DialogID_9036_3			interactinfo_9036_3	okmenu_9036_3	50174
+9037	WorldNpc02238	9	DialogID_9037			interactinfo_9037_1	okmenu_9037_1	50175
+9040	WorldNpc00036	1	DialogID_9040_1	taskitem_11e-1		interactinfo_9040_1	okmenu_9040_1	50215
+9041	WorldNpc00044	1	DialogID_9041_2		taskitem_11e-1	interactinfo_9041_2	okmenu_9041_2	50215
+9042	WorldNpc00037	1	DialogID_9042			interactinfo_9042_1	okmenu_9042_1	50227
+9043	WorldNpc02201	9	DialogID_9043		taskitem_17e-1	interactinfo_9043_1	okmenu_9043_1	50236
+9044	WorldNpc02201	9	DialogID_9044	taskitem_17e-1		interactinfo_9044_1	okmenu_9044_1	50237
+9045	WorldNpc02208	9	DialogID_9045			interactinfo_9045_1	okmenu_9045_1	50243
+9046	WorldNpc02203	9	DialogID_9046			interactinfo_9046_1	okmenu_9046_1	50256
+9050	WorldNpc02211	9	DialogID_9050			interactinfo_9050_1	okmenu_9050_1	50269
+9051	WorldNpc02207	9	DialogID_9051	useitem_5e-1		interactinfo_9051_1	okmenu_9051_1	50275
+9052	WorldNpc02256	9	DialogID_9052_2			interactinfo_9052_2	okmenu_9052_2	50275
+9053	WorldNpc02208	9	DialogID_9053			interactinfo_9053_1	okmenu_9053_1	50281
+9054	WorldNpc02201	9	DialogID_9054_1			interactinfo_9054_1	okmenu_9054_1	50290
+9055	WorldNpc10032	16	DialogID_9055_1		taskitem_4l-1	interactinfo_9055_1	okmenu_9055_1	50311
+9056	WorldNpc10033	16	DialogID_9056_2		taskitem_4l-1	interactinfo_9056_2	okmenu_9056_2	50311
+9057	WorldNpc10034	16	DialogID_9057_3		taskitem_4l-1	interactinfo_9057_3	okmenu_9057_3	50311
+9058	WorldNpc02257	9	DialogID_9058_1	taskitem_12k-1		interactinfo_9058_1	okmenu_9058_1	50340
+9059	WorldNpc02203	9	DialogID_9059_2		taskitem_12k-1	interactinfo_9059_2	okmenu_9059_2	50340
+9060	EventNpc50342	10				interactinfo_9060_1		50342
+9061	WorldNpc02204	9	DialogID_9061_1			interactinfo_9061_1	okmenu_9061_1	50368
+9062	WorldNpc02215	9	DialogID_9062_2			interactinfo_9062_2	okmenu_9062_2	50368
+9063	WorldNpc02224	9	DialogID_9063			interactinfo_9063_1	okmenu_9063_1	50373
+9064	WorldNpc02204	9	DialogID_9064			interactinfo_9064_1	okmenu_9064_1	50377
+9065	WorldNpc02203	9	DialogID_9065_1	taskitem_8k-1		interactinfo_9065_1	okmenu_9065_1	50383
+9066	WorldNpc02204	9	DialogID_9066_2		taskitem_8k-1	interactinfo_9066_2	okmenu_9066_2	50383
+9067	WorldNpc02201	9	DialogID_9067			interactinfo_9067_1	okmenu_9067_1	50384
+9068	WorldNpc03417	7	DialogID_9068_1		taskitem_5j-1	interactinfo_9068_1	okmenu_9068_1	50385
+9072	WorldNpc02205	9	DialogID_9072			interactinfo_9072_1	okmenu_9072_1	50433
+9073	WorldNpc02203	9	DialogID_9073_1			interactinfo_9073_1	okmenu_9073_1	50434
+9074	WorldNpc02259	9	DialogID_9074_2			interactinfo_9074_2	okmenu_9074_2	50434
+9076	WorldNpc02261	9	DialogID_9076_1		taskitem_24k-1	interactinfo_9076_1	okmenu_9076_1	50439
+9077	WorldNpc02236	9	DialogID_9077_2		taskitem_24k-1	interactinfo_9077_2	okmenu_9077_2	50439
+9078	WorldNpc02202	9	DialogID_9078_1			interactinfo_9078_1	okmenu_9078_1	50443
+9079	WorldNpc02259	9	DialogID_9079_2			interactinfo_9079_2	okmenu_9079_2	50443
+9081	WorldNpc09302	2	DialogID_9081_1			interactinfo_9081_1	okmenu_9081_1	50445
+9083	WorldNpc02203	9	DialogID_9083_1			interactinfo_9083_1	okmenu_9083_1	50457
+9084	WorldNpc02202	9	DialogID_9084_2			interactinfo_9084_2	okmenu_9084_2	50457
+9085	WorldNpc02260	9	DialogID_9085_1	taskitem_19k-1		interactinfo_9085_1	okmenu_9085_1	50459
+9086	WorldNpc02259	9	DialogID_9086_2		taskitem_19k-1	interactinfo_9086_2	okmenu_9086_2	50459
+9089	WorldNpc02205	9	DialogID_9089_3		taskitem_21k-1	interactinfo_9089_3	okmenu_9089_3	50465
+9090	WorldNpc02260	9	DialogID_9090			interactinfo_9090	okmenu_9090	50468
+9098	WorldNpc02205	9	DialogID_9098_1			interactinfo_9098_1	okmenu_9098_1	50510
+9099	WorldNpc02206	9	DialogID_9099_2			interactinfo_9099_2	okmenu_9099_2	50510
+9100	WorldNpc02207	9	DialogID_9100_3			interactinfo_9100_3	okmenu_9100_3	50510
+9102	WorldNpc02204	9	DialogID_9102_1			interactinfo_9102_1	okmenu_9102_1	50541
+9103	WorldNpc06901	26	DialogID_9103_1		taskitem_24j-1	interactinfo_9103_1	okmenu_9103_1	50546
+9104	WorldNpc02205	9	DialogID_9104_1			interactinfo_9104_1	okmenu_9104_1	50553
+9105	WorldNpc02201	9	DialogID_9105_1		taskitem_29j-1	interactinfo_9105_1	okmenu_9105_1	50569
+9113	WorldNpc02246	9	DialogID_9113_1			interactinfo_9113_1	okmenu_9113_1	50013
+9114	WorldNpc02247	9	DialogID_9114_1			interactinfo_9114_1	okmenu_9114_1	50015
+9115	WorldNpc02248	9	DialogID_9115_2			interactinfo_9115_2	okmenu_9115_2	50017
+9116	WorldNpc02246	9	DialogID_9116_1			interactinfo_9116_1	okmenu_9116_1	50020
+9117	WorldNpc02245	9	DialogID_9117_1			interactinfo_9117_1	okmenu_9117_1	50022
+9118	WorldNpc02247	9	DialogID_9118_1			interactinfo_9118_1	okmenu_9118_1	50025
+9119	WorldNpc02249	9	DialogID_9119_1			interactinfo_9119_1	okmenu_9119_1	50027
+9120	WorldNpc02249	9	DialogID_9120_2			interactinfo_9120_2	okmenu_9120_2	50027
+9124	WorldNpc02247	9	DialogID_9124_2			interactinfo_9124_2	okmenu_9124_2	50042
+9126	EventNpc50001_2	9				interactinfo_9126_1		50001
+9128	WorldNpc02239	9	DialogID_9128_1			interactinfo_9128_1	okmenu_9128_1	50038
+9129	WorldNpc02236	9	DialogID_9129_2			interactinfo_9129_2	okmenu_9129_2	50049
+9130	WorldNpc02244	9	DialogID_9130_1			interactinfo_9130_1	okmenu_9130_1	50051
+9131	WorldNpc02244	9	DialogID_9131_2			interactinfo_9131_2	okmenu_9131_2	50053
+9132	WorldNpc02236	9	DialogID_9132_1			interactinfo_9132_1	okmenu_9132_1	50055
+9133	WorldNpc02210	9	DialogID_9133_1			interactinfo_9133_1	okmenu_9133_1	50059
+9134	WorldNpc02241	9	DialogID_9134_2		taskitem_19h-1	interactinfo_9134_2	okmenu_9134_2	50061
+9135	WorldNpc02210	9	DialogID_9135_1	useitem_13h-1		interactinfo_9135_1	okmenu_9135_1	50063
+9136	WorldNpc02241	9	DialogID_9136_2		taskitem_21h-1	interactinfo_9136_2	okmenu_9136_2	50063
+9137	WorldNpc02240	9	DialogID_9137_2		taskitem_19h-1	interactinfo_9137_2	okmenu_9137_2	50066
+9138	WorldNpc02201	9	DialogID_9138_1			interactinfo_9138_1	okmenu_9138_1	50069
+9139	WorldNpc02240	9	DialogID_9139_2			interactinfo_9139_2	okmenu_9139_2	50069
+9140	WorldNpc02205	9	DialogID_9140_1	taskitem_22h-1		interactinfo_9140_1	okmenu_9140_1	50073
+9141	WorldNpc02242	9	DialogID_9141_2			interactinfo_9141_2	okmenu_9141_2	50077
+9142	WorldNpc02240	9	DialogID_9142_1			interactinfo_9142_1	okmenu_9142_1	50082
+9143	WorldNpc02208	9	DialogID_9143_1			interactinfo_9143_1	okmenu_9143_1	50089
+9144	WorldNpc02240	9	DialogID_9144_1			interactinfo_9144_1	okmenu_9144_1	50091
+9146	Gather00013h	9		taskitem_20h-1		interactinfo_9146_3		50063
+9147	WorldNpc02230	9	DialogID_9147_1			interactinfo_9147_1	okmenu_9147_1	50097
+9148	WorldNpc02228	9	DialogID_9148_2			interactinfo_9148_2	okmenu_9148_2	50097
+9149	WorldNpc02229	9	DialogID_9149_1			interactinfo_9149_1	okmenu_9149_1	50101
+9152	WorldNpc02232	9	DialogID_9152_1		taskitem_16d-1	interactinfo_9152_1	okmenu_9152_1	50106
+9153	WorldNpc02228	9	DialogID_9153_1			interactinfo_9153_1	okmenu_9153_1	50112
+9154	WorldNpc02230	9	DialogID_9154_2			interactinfo_9154_2	okmenu_9154_2	50112
+9155	WorldNpc02210	9	DialogID_9155_1		taskitem_20d-1	interactinfo_9155_1	okmenu_9155_1	50115
+9156	WorldNpc02236	9	DialogID_9156_1			interactinfo_9156_1	okmenu_9156_1	50118
+9157	WorldNpc02211	9	DialogID_9157_1		taskitem_22d-1	interactinfo_9157_1	okmenu_9157_1	50121
+9158	WorldNpc02206	9	DialogID_9158_1		taskitem_22d-1	interactinfo_9158_1	okmenu_9158_1	50127
+9159	Gather00010d	9		useitem_4d-1		interactinfo_9159_2		50127
+9160	WorldNpc02206	9	DialogID_9160_3			interactinfo_9160_3	okmenu_9160_3	50127
+9161	Gather00006d	9		taskitem_24d-1		interactinfo_9161_1		50130
+9162	WorldNpc02206	9	DialogID_9162_2	useitem_5d-1	taskitem_24d-1	interactinfo_9162_2	okmenu_9162_2	50130
+9163	WorldNpc02207	9	DialogID_9163_2			interactinfo_9163_2	okmenu_9163_2	50133
+9164	WorldNpc02230	9	DialogID_9164_1			interactinfo_9164_1	okmenu_9164_1	50135
+9165	WorldNpc02207	9	DialogID_9165_1			interactinfo_9165_1	okmenu_9165_1	50137
+9166	WorldNpc02201	9	DialogID_9166_1	useitem_6d-1	taskitem_26d-1	interactinfo_9166_1	okmenu_9166_1	50140
+9167	WorldNpc02206	9	DialogID_9167_1	useitem_7d-1		interactinfo_9167_1	okmenu_9167_1	50142
+9168	WorldNpc02230	9	DialogID_9168_2			interactinfo_9168_2	okmenu_9168_2	50142
+9169	WorldNpc02209	9	DialogID_9169_1			interactinfo_9169_1	okmenu_9169_1	50145
+9170	WorldNpc02209	9	DialogID_9170_1		taskitem_27d-1	interactinfo_9170_1	okmenu_9170_1	50147
+9171	WorldNpc02238	9	DialogID_9171_1			interactinfo_9171_1	okmenu_9171_1	50150
+9172	WorldNpc02210	9	DialogID_9172_3			interactinfo_9172_3	okmenu_9172_3	50152
+9173	WorldNpc02210	9	DialogID_9173_2			interactinfo_9173_2	okmenu_9173_2	50154
+9174	WorldNpc09802	17	DialogID_9174_1			interactinfo_9174_1	okmenu_9174_1	50158
+9176	WorldNpc09804	17	DialogID_9176_1			interactinfo_9176_1	okmenu_9176_1	50162
+9177	WorldNpc09809	17	DialogID_9177_1			interactinfo_9177_1	okmenu_9177_1	50164
+9178	WorldNpc09809	17	DialogID_9178_2			interactinfo_9178_2	okmenu_9178_2	50164
+9179	WorldNpc09804	17	DialogID_9179_1			interactinfo_9179_1	okmenu_9179_1	50167
+9180	WorldNpc09619	17	DialogID_9180_1			interactinfo_9180_1	okmenu_9180_1	50171
+9181	WorldNpc09619	17	DialogID_9181_2	taskitem_32d-1		interactinfo_9181_2	okmenu_9181_2	50171
+9182	WorldNpc02210	9	DialogID_9182_2	useitem_9d-1		interactinfo_9182_2	okmenu_9182_2	50175
+9183	WorldNpc09802	17	DialogID_9183_1			interactinfo_9183_1	okmenu_9183_1	50179
+9184	WorldNpc09809	17	DialogID_9184_1	taskitem_35d-1		interactinfo_9184_1	okmenu_9184_1	50181
+9185	WorldNpc09618	17	DialogID_9185_2			interactinfo_9185_2	okmenu_9185_2	50184
+9187	WorldNpc09604	17	DialogID_9187_1			interactinfo_9187_1	okmenu_9187_1	50188
+9188	WorldNpc09620	17	DialogID_9188_2			interactinfo_9188_2	okmenu_9188_2	50191
+9189	WorldNpc02237	9	DialogID_9189_3		taskitem_34d-1	interactinfo_9189_3	okmenu_9189_3	50175
+9190	WorldNpc02201	9	DialogID_9190_1			interactinfo_9190_1	okmenu_9190_1	50193
+9191	WorldNpc00037	1	DialogID_9191_1			interactinfo_9191_1	okmenu_9191_1	50197
+9192	WorldNpc00039	1	DialogID_9192_1			interactinfo_9192_1	okmenu_9192_1	50200
+9193	WorldNpc00039	1	DialogID_9193_1			interactinfo_9193_1	okmenu_9193_1	50202
+9194	WorldNpc00037	1	DialogID_9194_1			interactinfo_9194_1	okmenu_9194_1	50207
+9195	WorldNpc00036	1	DialogID_9195_1	useitem_1e-1		interactinfo_9195_1	okmenu_9195_1	50209
+9196	ItemNpc00008	1	DialogID_9196_1			interactinfo_9196_1	okmenu_9196_1	50211
+9197	WorldNpc00044	1	DialogID_9197_1			interactinfo_9197_1	okmenu_9197_1	50213
+9198	WorldNpc00037	1	DialogID_9198_3			interactinfo_9198_3	okmenu_9198_3	50215
+9199	FuncNpc00004	1	DialogID_9199_1			interactinfo_9199_1	okmenu_9199_1	50217
+9200	WorldNpc00068	1	DialogID_9200_2	taskitem_12e-1		interactinfo_9200_2	okmenu_9200_2	50217
+9201	WorldNpc09622	17	DialogID_9201_1			interactinfo_9201_1	okmenu_9201_1	50222
+9202	WorldNpc00042	1	DialogID_9202_2			interactinfo_9202_2	okmenu_9202_2	50227
+9203	WorldNpc00036	1	DialogID_9203_1	useitem_7e-1		interactinfo_9203_1	okmenu_9203_1	50234
+9204	WorldNpc02209	9	DialogID_9204_2			interactinfo_9204_2	okmenu_9204_2	50237
+9205	WorldNpc00037	1	DialogID_9205_1		taskitem_17e-1	interactinfo_9205_1	okmenu_9205_1	50232
+9206	WorldNpc02208	9	DialogID_9206_1		taskitem_4m-1	interactinfo_9206_1	okmenu_9206_1	50241
+9207	WorldNpc02253	9	DialogID_9207_2	useitem_9e-1		interactinfo_9207_2	okmenu_9207_2	50241
+9208	WorldNpc05805	21	DialogID_9208_1			interactinfo_9208_1	okmenu_9208_1	50244
+9209	WorldNpc05806	21	DialogID_9209_1			interactinfo_9209_1	okmenu_9209_1	50248
+9210	WorldNpc05806	21	DialogID_9210_2			interactinfo_9210_2	okmenu_9210_2	50248
+9211	WorldNpc02254	9	DialogID_9211_1		taskitem_31e-1	interactinfo_9211_1	okmenu_9211_1	50253
+9212	WorldNpc02254	9	DialogID_9212_2			interactinfo_9212_2	okmenu_9212_2	50253
+9213	WorldNpc02210	9	DialogID_9213_1			interactinfo_9213_1	okmenu_9213_1	50257
+9214	WorldNpc02255	9	DialogID_9214_1			interactinfo_9214_1	okmenu_9214_1	50260
+9215	WorldNpc02254	9	DialogID_9215_2			interactinfo_9215_2	okmenu_9215_2	50263
+9217	WorldNpc02210	9	DialogID_9217_1			interactinfo_9217_1	okmenu_9217_1	50267
+9218	WorldNpc02223	9	DialogID_9218_2			interactinfo_9218_2	okmenu_9218_2	50269
+9219	WorldNpc02256	9	DialogID_9219_1			interactinfo_9219_1	okmenu_9219_1	50272
+9220	WorldNpc02256	9	DialogID_9220_2			interactinfo_9220_2	okmenu_9220_2	50272
+9221	WorldNpc05805	21	DialogID_9221_1			interactinfo_9221_1	okmenu_9221_1	50283
+9222	WorldNpc05805	21	DialogID_9222_1	useitem_6e-1	taskitem_7f-1	interactinfo_9222_1	okmenu_9222_1	50285
+9223	WorldNpc02208	9	DialogID_9223_1			interactinfo_9223_1	okmenu_9223_1	50287
+9225	Gather00001m	21		taskitem_7f-1		interactinfo_9225_2		50285
+9226	WorldNpc02207	9	DialogID_9226_1			interactinfo_9226_1	okmenu_9226_1	50289
+9227	WorldNpc02258	9	DialogID_9227_1	useitem_1l-1	taskitem_1l-1|taskitem_2l-1	interactinfo_9227_1	okmenu_9227_1	50291
+9228	WorldNpc02207	9	DialogID_9228_1			interactinfo_9228_1	okmenu_9228_1	50293
+9229	WorldNpc10022	16	DialogID_9229_1			interactinfo_9229_1	okmenu_9229_1	50297
+9230	WorldNpc10004	16	DialogID_9230_1			interactinfo_9230_1	okmenu_9230_1	50299
+9231	WorldNpc10023	16	DialogID_9231_1			interactinfo_9231_1	okmenu_9231_1	50301
+9232	WorldNpc10024	16	DialogID_9232_1	useitem_3l-1	taskitem_3l-1	interactinfo_9232_1	okmenu_9232_1	50304
+9233	WorldNpc10026	16	DialogID_9233_1			interactinfo_9233_1	okmenu_9233_1	50306
+9234	WorldNpc10026	16	DialogID_9234_2			interactinfo_9234_2	okmenu_9234_2	50306
+9235	WorldNpc10029	16	DialogID_9235_1			interactinfo_9235_1	okmenu_9235_1	50313
+9236	WorldNpc10029	16	DialogID_9236_2			interactinfo_9236_2	okmenu_9236_2	50313
+9237	WorldNpc10031	16	DialogID_9237_1			interactinfo_9237_1	okmenu_9237_1	50319
+9238	WorldNpc10004	16	DialogID_9238_1			interactinfo_9238_1	okmenu_9238_1	50321
+9239	WorldNpc10031	16	DialogID_9239_1		taskitem_6l-1	interactinfo_9239_1	okmenu_9239_1	50323
+9240	WorldNpc10004	16	DialogID_9240_1			interactinfo_9240_1	okmenu_9240_1	50332
+9241	WorldNpc10035	16	DialogID_9241_1			interactinfo_9241_1	okmenu_9241_1	50334
+9242	Gather00003l	16		taskitem_9l-1		interactinfo_9242_2		50332
+9243	Gather00001l	16		taskitem_3l-1		interactinfo_9243_2		50304
+9244	WorldNpc02203	9	DialogID_9244_1			interactinfo_9244_1	okmenu_9244_1	50337
+9245	WorldNpc02904	10	DialogID_9245_2			interactinfo_9245_2	okmenu_9245_2	50342
+9246	WorldNpc02906	10	DialogID_9246_1	useitem_1k-1		interactinfo_9246_1	okmenu_9246_1	50344
+9247	ItemNpc02202	10	DialogID_9247_1			interactinfo_9247_1	okmenu_9247_1	50347
+9248	WorldNpc02644	10	DialogID_9248_1			interactinfo_9248_1	okmenu_9248_1	50349
+9249	WorldNpc02605	10	DialogID_9249_1			interactinfo_9249_1	okmenu_9249_1	50351
+9250	WorldNpc02631	10	DialogID_9250_2			interactinfo_9250_2	okmenu_9250_2	50351
+9251	WorldNpc02904	10	DialogID_9251_1			interactinfo_9251_1	okmenu_9251_1	50354
+9252	WorldNpc02203	9	DialogID_9252_1			interactinfo_9252_1	okmenu_9252_1	50357
+9253	WorldNpc02602	10	DialogID_9253_1			interactinfo_9253_1	okmenu_9253_1	50361
+9254	WorldNpc02602	10	DialogID_9254_1			interactinfo_9254_1	okmenu_9254_1	50363
+9255	WorldNpc02215	9	DialogID_9255_3			interactinfo_9255_3	okmenu_9255_3	50368
+9256	WorldNpc02203	9	DialogID_9256_2			interactinfo_9256_2	okmenu_9256_2	50373
+9257	WorldNpc02203	9	DialogID_9257_2			interactinfo_9257_2	okmenu_9257_2	50377
+9258	WorldNpc02203	9	DialogID_9258_1			interactinfo_9258_1	okmenu_9258_1	50381
+9259	WorldNpc03419	7	DialogID_9259_1			interactinfo_9259_1	okmenu_9259_1	50387
+9261	WorldNpc03305	7	DialogID_9261_2			interactinfo_9261_2	okmenu_9261_2	50392
+9262	WorldNpc03420	7	DialogID_9262_1			interactinfo_9262_1	okmenu_9262_1	50394
+9263	WorldNpc03420	7	DialogID_9263_2			interactinfo_9263_2	okmenu_9263_2	50394
+9264	WorldNpc03420	7	DialogID_9264_1			interactinfo_9264_1	okmenu_9264_1	50397
+9265	WorldNpc03418	7	DialogID_9265_1			interactinfo_9265_1	okmenu_9265_1	50399
+9266	WorldNpc03305	7	DialogID_9266_2			interactinfo_9266_2	okmenu_9266_2	50399
+9267	WorldNpc03420	7	DialogID_9267_1			interactinfo_9267_1	okmenu_9267_1	50402
+9268	WorldNpc03421	7	DialogID_9268_1	useitem_6j-1		interactinfo_9268_1	okmenu_9268_1	50405
+9269	WorldNpc03305	7	DialogID_9269_1			interactinfo_9269_1	okmenu_9269_1	50409
+9270	WorldNpc03423	7	DialogID_9270_1			interactinfo_9270_1	okmenu_9270_1	50413
+9271	WorldNpc03418	7	DialogID_9271_1	useitem_8j-1		interactinfo_9271_1	okmenu_9271_1	50417
+9272	WorldNpc03422	7	DialogID_9272_2			interactinfo_9272_2	okmenu_9272_2	50417
+9273	WorldNpc03422	7	DialogID_9273_1			interactinfo_9273_1	okmenu_9273_1	50421
+9274	WorldNpc03422	7	DialogID_9274_2	taskitem_18j-1		interactinfo_9274_2	okmenu_9274_2	50421
+9275	WorldNpc03422	7	DialogID_9275_1			interactinfo_9275_1	okmenu_9275_1	50424
+9276	WorldNpc03424	7	DialogID_9276_1			interactinfo_9276_1	okmenu_9276_1	50426
+9277	WorldNpc03424	7	DialogID_9277_2			interactinfo_9277_2	okmenu_9277_2	50426
+9278	WorldNpc03421	7	DialogID_9278_1	useitem_1m-1		interactinfo_9278_1	okmenu_9278_1	50429
+9279	WorldNpc03305	7	DialogID_9279_1			interactinfo_9279_1	okmenu_9279_1	50432
+9280	Gather00005j	7		taskitem_19j-1		interactinfo_9280_2		50429
+9281	WorldNpc02208	9	DialogID_9281_1			interactinfo_9281_1	okmenu_9281_1	50481
+9282	WorldNpc02268	9	DialogID_9282_1			interactinfo_9282_1	okmenu_9282_1	50483
+9283	WorldNpc02268	9	DialogID_9283_1			interactinfo_9283_1	okmenu_9283_1	50486
+9284	WorldNpc06616	20	DialogID_9284_1			interactinfo_9284_1	okmenu_9284_1	50491
+9285	WorldNpc06618	20	DialogID_9285_1			interactinfo_9285_1	okmenu_9285_1	50493
+9287	WorldNpc06617	20	DialogID_9287_1			interactinfo_9287_1	okmenu_9287_1	50499
+9289	WorldNpc06616	20	DialogID_9289_1			interactinfo_9289_1	okmenu_9289_1	50503
+9290	WorldNpc02264	9	DialogID_9290_1			interactinfo_9290_1	okmenu_9290_1	50506
+9291	WorldNpc02208	9	DialogID_9291_1	useitem_10l-1	taskitem_17l-1	interactinfo_9291_1	okmenu_9291_1	50511
+9292	WorldNpc02264	9	DialogID_9292_1			interactinfo_9292_1	okmenu_9292_1	50513
+9293	WorldNpc02266	9	DialogID_9293_1			interactinfo_9293_1	okmenu_9293_1	50517
+9294	WorldNpc02267	9	DialogID_9294_1		taskitem_18l-1	interactinfo_9294_1	okmenu_9294_1	50519
+9295	WorldNpc02431	9	DialogID_9295_1			interactinfo_9295_1	okmenu_9295_1	50522
+9296	WorldNpc02430	9	DialogID_9296_1			interactinfo_9296_1	okmenu_9296_1	50525
+9297	Gather00004l	9	DialogID_9297_2			interactinfo_9297_2	okmenu_9297_2	50511
+9298	WorldNpc06608	20	DialogID_9298_1			interactinfo_9298_1	okmenu_9298_1	50488
+9299	WorldNpc02259	9	DialogID_9299_2			interactinfo_9299_2	okmenu_9299_2	50433
+9300	WorldNpc02204	9	DialogID_9300_1			interactinfo_9300_1	okmenu_9300_1	50435
+9301	WorldNpc02202	9	DialogID_9301_1			interactinfo_9301_1	okmenu_9301_1	50440
+9302	WorldNpc02205	9	DialogID_9302_1			interactinfo_9302_1	okmenu_9302_1	50442
+9303	WorldNpc02204	9	DialogID_9303_2			interactinfo_9303_2	okmenu_9303_2	50442
+9304	WorldNpc02259	9	DialogID_9304_3			interactinfo_9304_3	okmenu_9304_3	50445
+9305	WorldNpc09307	2	DialogID_9305_1			interactinfo_9305_1	okmenu_9305_1	50448
+9306	WorldNpc09307	2	DialogID_9306_1	useitem_8k-1		interactinfo_9306_1	okmenu_9306_1	50450
+9309	WorldNpc02259	9	DialogID_9309_1			interactinfo_9309_1	okmenu_9309_1	50461
+9310	WorldNpc02202	9	DialogID_9310_1			interactinfo_9310_1	okmenu_9310_1	50466
+9311	WorldNpc02208	9	DialogID_9311_1	useitem_10k-1		interactinfo_9311_1	okmenu_9311_1	50472
+9312	WorldNpc02359	9	DialogID_9312_1			interactinfo_9312_1	okmenu_9312_1	50475
+9313	WorldNpc02262	9	DialogID_9313_1			interactinfo_9313_1	okmenu_9313_1	50567
+9314	WorldNpc02262	9	DialogID_9314_2	taskitem_28j-1		interactinfo_9314_2	okmenu_9314_2	50567
+9315	WorldNpc02205	9	DialogID_9315_1			interactinfo_9315_1	okmenu_9315_1	50529
+9316	WorldNpc02254	9	DialogID_9316_1			interactinfo_9316_1	okmenu_9316_1	50530
+9317	WorldNpc02209	9	DialogID_9317_1			interactinfo_9317_1	okmenu_9317_1	50533
+9318	WorldNpc02205	9	DialogID_9318_1			interactinfo_9318_1	okmenu_9318_1	50536
+9319	WorldNpc02201	9	DialogID_9319_1			interactinfo_9319_1	okmenu_9319_1	50538
+9320	WorldNpc06902	26	DialogID_9320_1			interactinfo_9320_1	okmenu_9320_1	50543
+9321	WorldNpc06903	26	DialogID_9321_1			interactinfo_9321_1	okmenu_9321_1	50548
+9322	WorldNpc06903	26	DialogID_9322_1			interactinfo_9322_1	okmenu_9322_1	50550
+9323	WorldNpc02224	9	DialogID_9323_1			interactinfo_9323_1	okmenu_9323_1	50555
+9324	WorldNpc02263	9	DialogID_9324_1			interactinfo_9324_1	okmenu_9324_1	50557
+9325	WorldNpc02205	9	DialogID_9325_1			interactinfo_9325_1	okmenu_9325_1	50559
+9326	WorldNpc02205	9	DialogID_9326_1			interactinfo_9326_1	okmenu_9326_1	50561
+9327	WorldNpc02201	9	DialogID_9327_1			interactinfo_9327_1	okmenu_9327_1	50570
+9329	WorldNpc02211	9	DialogID_9329_1	taskitem_18h-1		interactinfo_9329_1	okmenu_9329_1	50057
+9330	WorldNpc02235	9	DialogID_9330_1	taskitem_17d-1|taskitem_18d-1|taskitem_19d-1		interactinfo_9330_1	okmenu_9330_1	50111
+9331	WorldNpc02230	9	DialogID_9331_2		taskitem_17d-1|taskitem_18d-1|taskitem_19d-1	interactinfo_9331_2	okmenu_9331_2	50111
+9332	WorldNpc02236	9	DialogID_9332_2	taskitem_21d-1		interactinfo_9332_2	okmenu_9332_2	50118
+9150	WorldNpc02231	9	DialogID_9150_1			interactinfo_9150	okmenu_9150_1	50103
+9151	WorldNpc02231	9	DialogID_9151_2			interactinfo_9151	okmenu_9151_2	50103
+9049	WorldNpc02203	9	DialogID_9049			interactinfo_9049	okmenu_9049_1	50265
+9216	WorldNpc02255	9	DialogID_9216_2			interactinfo_9216	okmenu_9216_2	50265
+9328	WorldNpc02205	9	DialogID_9328_1			interactinfo_9328	okmenu_9328_1	50574
+9260	WorldNpc03419	7	DialogID_9260_1			interactinfo_9260	okmenu_9260_1	50390
+9333	WorldNpc02228	9	DialogID_9333			interactinfo_9333	okmenu_9333	50001
+9334	WorldNpc02210	9	DialogID_9334			interactinfo_9334	okmenu_9334	50145
+9335	WorldNpc02209	9	DialogID_9335			interactinfo_9335	okmenu_9335	50193
+9336	WorldNpc02222	9	DialogID_9336			interactinfo_9336	okmenu_9336	50337
+9337	WorldNpc03418	7	DialogID_9337			interactinfo_9337	okmenu_9337	50385
+9338	WorldNpc02254	9	DialogID_9338			interactinfo_9338	okmenu_9338	50529
+9340	WorldNpc02245	9	DialogID_9340			interactinfo_9340	okmenu_9340	50037
+9341	WorldNpc02201	9	DialogID_9341			interactinfo_9341	okmenu_9341	50041
+9123	WorldNpc02245	9	DialogID_9123_1			interactinfo_9123_1	okmenu_9123_1	50042
+9342	WorldNpc02269	9	DialogID_9342			interactinfo_9342	okmenu_9342	50042
+9434	WorldNpc02269	9	DialogID_9434			interactinfo_9434	okmenu_9434	50048
+9435	WorldNpc02205	9	DialogID_9435			interactinfo_9435	okmenu_9435	50048
+9339	WorldNpc02269	9	DialogID_9339			interactinfo_9339	okmenu_9339	50011
+9343	WorldNpc02248	9	DialogID_9343			interactinfo_9343	okmenu_9343	50045
+9038	WorldNpc09620	17	DialogID_9038			interactinfo_9038_1	okmenu_9038_1	50184
+9186	WorldNpc09620	17	DialogID_9186_1	taskitem_36d-1		interactinfo_9186_1	okmenu_9186_1	50186
+9175	WorldNpc09802	17	DialogID_9175_1			interactinfo_9175_1	okmenu_9175_1	50160
+9145	WorldNpc02243	9	DialogID_9145_1			interactinfo_9145	okmenu_9145_1	
+9436	WorldNpc02243	9	DialogID_9436		taskitem_026mm-1	interactinfo_9436	okmenu_9436	50094
+9437	Gather0019mm	9		taskitem_026mm-1		interactinfo_9437		50094
+9039	WorldNpc02209	9	DialogID_9039			interactinfo_9039_1	okmenu_9039_1	50191
+9125	WorldNpc02252	9	DialogID_9125_1			interactinfo_9125_1	okmenu_9125_1	50045
+9439	Gather00011h	9		useitem_11h-1		interactinfo_9439		50045
+9122	WorldNpc02250	9	DialogID_9122_1			interactinfo_9122	okmenu_9122_1	50033
+9440	Gather00010h	9		useitem_10h-1		interactinfo_9440		50033
+9441	WorldNpc02228	9	DialogID_9441			interactinfo_9441	okmenu_9441	
+9438	EventNpc50094	9	DialogID_9438			interactinfo_9438		50094
+9003	ItemNpc02004	9	DialogID_9003_3			interactinfo_9003_3	okmenu_9003_3	
+9006	WorldNpc02245	9	DialogID_9006_1			interactinfo_9006_1	okmenu_9006_1	
+9121	WorldNpc02250	9	DialogID_9121_1			interactinfo_9121_1	okmenu_9121_1	
+9109	WorldNpc02208	9	DialogID_9109_1		taskitem_9h-1|taskitem_26h-1|useitem_8h-1|useitem_15h-1	interactinfo_9109_1	okmenu_9109_1	
+9442	WorldNpc02249	9	DialogID_9442	taskitem_021cyh-1		interactinfo_9442	okmenu_9442	50026
+9127	WorldNpc02206	9	DialogID_9127_1		taskitem_023cyh-1	interactinfo_9127_1	okmenu_9127_1	50004
+9004	WorldNpc02203	9	DialogID_9004_1			interactinfo_9004_1	okmenu_9004_1	50009
+9111	WorldNpc02203	9	DialogID_9111_1			interactinfo_9111_1	okmenu_9111_1	50011
+9344	WorldNpc02203	9	DialogID_9344			interactinfo_9344	okmenu_9344	50037
+9007	WorldNpc02208	9	DialogID_9007_1			interactinfo_9007_1	okmenu_9007_1	50039
+9008	WorldNpc02201	9	DialogID_9008_2			interactinfo_9008_2	okmenu_9008_2	
+9444	WorldNpc02203	9	DialogID_9444			interactinfo_9444	okmenu_9444	50005
+9445	WorldNpc02201	9	DialogID_9445			interactinfo_9445	okmenu_9445	
+9005	Gather0015cyh	9	DialogID_9005_1			interactinfo_9005_1	okmenu_9005_1	50012
+9110	WorldNpc02228	9	DialogID_9110	taskitem_025cyh-1		interactinfo_9110	okmenu_9110	50005
+9112	WorldNpc02239	9	DialogID_9112			interactinfo_9112	okmenu_9112	50005
+9443	WorldNpc02394	9	DialogID_9443			interactinfo_9443	okmenu_9443	50003

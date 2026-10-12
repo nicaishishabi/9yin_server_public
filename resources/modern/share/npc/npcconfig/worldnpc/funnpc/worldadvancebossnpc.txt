@@ -1,0 +1,15 @@
+NPC编号	对象类型	名称	模型编号	脚本编号	NPC类型	NPC种类ID	响应范围	是否可见	是否可被攻击	创建的BOSS的ID	条件ID 
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	int
+ID	script	Name	Resource	LuaScript	NpcType	CKindID	SpringRange	Invisible	CantBeAttack	BossID	ConditionID
+EventBGBoss_cd_1	WorldAdvanceBossTrigger	雕骨触发NPC	npc\fbmac019005		202		10	1	1	QYBGboss003	23870
+EventBGBoss_qd_1	WorldAdvanceBossTrigger	冶魂触发NPC	npc\itemnpc146		202		10	1	1	QYBGboss001	23872
+EventBGBoss_yyz_1	WorldAdvanceBossTrigger	画皮触发NPC	npc\npcitem566_qy		202		10	1	1	QYBGboss002	120103
+EventBGBoss_jmy_1	WorldAdvanceBossTrigger	人厨触发NPC	npc\itemnpc162		202		10	1	1	QYBGboss004	120104
+EventBGBoss_sz_1	WorldAdvanceBossTrigger	毒活触发NPC	npc\itemnpc226		202		10	1	1	QYBGboss005	23878
+EventBGBoss_cd2_1	WorldAdvanceBossTrigger	死医触发NPC	npc\npcitem014		202		10	1	1	QYBGboss006	120105
+EventBGBoss_cd_2	WorldAdvanceBossTrigger	雕骨触发NPC	npc\itemnpc057		202		10	1	1	QYBGboss003a	23633
+EventBGBoss_qd_2	WorldAdvanceBossTrigger	冶魂触发NPC	npc\itemnpc057		202		10	1	1	QYBGboss001a	23633
+EventBGBoss_yyz_2	WorldAdvanceBossTrigger	画皮触发NPC	npc\itemnpc057		202		10	1	1	QYBGboss002a	23633
+EventBGBoss_jmy_2	WorldAdvanceBossTrigger	人厨触发NPC	npc\itemnpc057		202		10	1	1	QYBGboss004a	23633
+EventBGBoss_sz_2	WorldAdvanceBossTrigger	毒活触发NPC	npc\itemnpc057		202		10	1	1	QYBGboss005a	23633
+EventBGBoss_cd2_2	WorldAdvanceBossTrigger	死医触发NPC	npc\itemnpc057		202		10	1	1	QYBGboss006a	23633

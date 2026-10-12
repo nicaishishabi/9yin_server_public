@@ -1,0 +1,71 @@
+NPC编号	实力包编号	级别	对象类型	名称	模型编号	头像	类型	NPC种类ID	选择操作分类	脚本编号	机关npc类型	绑定时持续添加的buff	绑定点名字	绑定后npc进行的动作名字	绑定后玩家进行的动作名字	NPC阵营	门派	技能表	准心技能	响应范围	AI编辑包	刷新时间	鼠标形状	锁定位移攻击	禁播受击动作	能否攻击	能不能被攻击	不能被杀死	路径编号	相对转动角度(填写该属性则出现准心，npc变为可旋转)	优先显示	走路速度	跑步速度	AI类型	巡逻模式	巡逻半径	AI编辑包	无拾取物消失时间(秒）	最大消失时间(秒）	势力归属
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	string	string	string	string	string	STRING	STRING	STRING	STRING
+ID	PowerNo	Level	script	Name	Resource	Photo	NpcType	CKindID	SelectState	LuaScript	DriveNpcType	AddBufferID	BandPointName	NpcBandAction	PlayerBandAction	Camp	School	table@SkillRec	table@CoordSkillRec	SpringRange	AIEditorPackID	RefreshTime	CursorShape	Fixed	FixedBeHitAct	CantAttack	CantBeAttack	CantBeKilled	PathID	TurnAngel	RefreshAtOnce	WalkSpeed	RunSpeed	AITemplate	PatrolMode	PatrolRange	AIEditorPackID	DestroyTime1	DestroyTime2	SelfForceID
+																																								
+DriveNpc0001	14	80	DriveNpc	镇关火炮	npc\fbmac002001	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0001.lua	1	buf_CannonNpc0001	Model::effect_02	Tpose	stand			"cannon_01,1,0;cannon_02,1,0;cannon_left,1,0;cannon_right,1,0"		3		-1		1	1															
+DriveNpc0003	14	80	DriveNpc	镇关火炮	npc\fbmac002001	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0003.lua	1	buf_CannonNpc0001	Model::effect_02	Tpose	stand			"cannon_01,1,0;cannon_02,1,0;cannon_left,1,0;cannon_right,1,0"		3		-1		1	1															
+DriveNpc0004	14	80	DriveNpc	镇关火炮	npc\fbmac002001	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0004.lua	1	buf_CannonNpc0001	Model::effect_02	Tpose	stand			"cannon_01,1,0;cannon_02,1,0;cannon_left,1,0;cannon_right,1,0"		3		-1		1	1															
+DriveNpc0005	14	80	DriveNpc	镇关火炮	npc\fbmac002001	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0005.lua	1	buf_CannonNpc0001	Model::effect_02	Tpose	stand			"cannon_01,1,0;cannon_02,1,0;cannon_left,1,0;cannon_right,1,0"		3		-1		1	1															
+DriveNpc0006	14	80	DriveNpc	镇关火炮	npc\fbmac002001	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0006.lua	1	buf_CannonNpc0001	Model::effect_02	Tpose	stand			"cannon_01,1,0;cannon_02,1,0;cannon_left,1,0;cannon_right,1,0"		3		-1		1	1															
+DriveNpc0007	14	80	DriveNpc	雁门镇关火炮	npc\fbmac002001	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0006.lua	1	buf_CannonNpc0001	Model::effect_02	Tpose	stand			"cannon_01,1,0;cannon_02,1,0;cannon_left,1,0;cannon_right,1,0"		3		-1		1	1															
+DriveNpc0002	1	1	DriveNpc	骑乘军马	npc\ride_horse_0101	icon\monster\monster550.png	163	4	2		1									3																				
+	//无门派																																							
+wmp_2ndy_hj	1	80	DriveNpc	无门派喝酒	npc\fbmac004012d	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0006.lua	1	buf_wmp_2ndy_hj	Model::effect_02	Tpose	interact420					3		-1	5	1	1															
+wmp_2ndy_yx	1	80	DriveNpc	无门派喝酒	npc\fbmac004012d	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0006.lua	1	buf_wmp_2ndy_hj1	Model::effect_02	Tpose	interact420					3		-1	5	1	1															
+wmp_2nglm_drink01	1	80	DriveNpc	无门派喝酒	npc\fbmac004012d	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0006.lua	1	buf_wmp_2n_sitdown	Model::effect_02	Tpose	interact420					3		-1	5	1	1															
+																																								
+																																								
+	//吴真大闹																																							
+wuzhendapao_0001	14	80	DriveNpc	镇关火炮	npc\fbmac002001	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0001.lua	1	buf_CannonNpc0001	Model::effect_02	Tpose	stand			"cannon_01,1,0;cannon_02,1,0;cannon_left,1,0;cannon_right,1,0"		3		-1		1	1															
+wuzhendapao_0002	14	80	DriveNpc	镇关火炮	npc\fbmac002001	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0003.lua	1	buf_CannonNpc0001	Model::effect_02	Tpose	stand			"cannon_01,1,0;cannon_02,1,0;cannon_left,1,0;cannon_right,1,0"		3		-1		1	1															
+																																								
+DriveNpc0008	1	80	DriveNpc	龙船火炮	npc\fbmac002001	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0006.lua	1	buf_CannonNpc0001	Model::effect_02	Tpose	stand			"skill_clone022_006,1,0"		3		-1		1	1															
+DriveNpc0009	1	80	DriveNpc	赌船1	npc\fbmac004012	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0006.lua	1	buf_adv009_vip6	Model::effect_02	Tpose	stand			"skilladv009001,1,0;skilladv009002,1,0;skilladv009003,1,0;skilladv009004,1,0;skilladv009005,1,0"		3		-1	5	1	1															
+DriveNpc0010	1	80	DriveNpc	赌船2	npc\fbmac004012	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0006.lua	1	buf_adv009_vip6	Model::effect_02	Tpose	stand			"skilladv009001,1,0;skilladv009002,1,0;skilladv009003,1,0;skilladv009004,1,0;skilladv009005,1,0"		3		-1	5	1	1															
+DriveNpc0011	1	80	DriveNpc	赌船3	npc\fbmac004012	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0006.lua	1	buf_adv009_vip6	Model::effect_02	Tpose	stand			"skilladv009001,1,0;skilladv009002,1,0;skilladv009003,1,0;skilladv009004,1,0;skilladv009005,1,0"		3		-1	5	1	1															
+DriveNpc0012	1	80	DriveNpc	赌船4	npc\fbmac004012	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0006.lua	1	buf_adv009_vip6	Model::effect_02	Tpose	stand			"skilladv009001,1,0;skilladv009002,1,0;skilladv009003,1,0;skilladv009004,1,0;skilladv009005,1,0"		3		-1	5	1	1															
+DriveNpc0013	1	80	DriveNpc	赌船5	npc\fbmac004012	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0006.lua	1	buf_adv009_vip6	Model::effect_02	Tpose	stand			"skilladv009001,1,0;skilladv009002,1,0;skilladv009003,1,0;skilladv009004,1,0;skilladv009005,1,0"		3		-1	5	1	1															
+DriveNpc0014	1	80	DriveNpc	赌船6	npc\fbmac004012	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0006.lua	1	buf_adv009_vip6	Model::effect_02	Tpose	stand			"skilladv009001,1,0;skilladv009002,1,0;skilladv009003,1,0;skilladv009004,1,0;skilladv009005,1,0"		3		-1	5	1	1															
+DriveNpc0015	1	80	DriveNpc	赌船7	npc\fbmac004012	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0006.lua	1	buf_adv009_vip6	Model::effect_02	Tpose	stand			"skilladv009001,1,0;skilladv009002,1,0;skilladv009003,1,0;skilladv009004,1,0;skilladv009005,1,0"		3		-1	5	1	1															
+DriveNpc0016	1	80	DriveNpc	赌船8	npc\fbmac004012	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0006.lua	1	buf_adv009_vip6	Model::effect_02	Tpose	stand			"skilladv009001,1,0;skilladv009002,1,0;skilladv009003,1,0;skilladv009004,1,0;skilladv009005,1,0"		3		-1	5	1	1															
+DriveNpc0017	1	80	DriveNpc	赌船9	npc\fbmac004012	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0006.lua	1	buf_adv009_vip6	Model::effect_02	Tpose	stand			"skilladv009001,1,0;skilladv009002,1,0;skilladv009003,1,0;skilladv009004,1,0;skilladv009005,1,0"		3		-1	5	1	1															
+DriveNpc0018	1	80	DriveNpc	赌船10	npc\fbmac004012	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0006.lua	1	buf_adv009_vip6	Model::effect_02	Tpose	stand			"skilladv009001,1,0;skilladv009002,1,0;skilladv009003,1,0;skilladv009004,1,0;skilladv009005,1,0"		3		-1	5	1	1															
+DriveNpc0019	1	80	DriveNpc	赌船11	npc\fbmac004012	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0006.lua	1	buf_adv009_vip6	Model::effect_02	Tpose	stand			"skilladv009001,1,0;skilladv009002,1,0;skilladv009003,1,0;skilladv009004,1,0;skilladv009005,1,0"		3		-1	5	1	1															
+DriveNpc0020	1	80	DriveNpc	赌船12	npc\fbmac004012	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0006.lua	1	buf_adv009_vip6	Model::effect_02	Tpose	sitdownchairfree01			"skilladv009001,1,0;skilladv009002,1,0;skilladv009003,1,0;skilladv009004,1,0;skilladv009005,1,0"		3		-1	5	1	1															
+DriveNpc0021	1	80	DriveNpc	万兽山庄骑乘1	npc\monster003	icon\monster\monster003.png	163	4	2		1	buf_wssz_pingjing	monster160_back_01	stand	sitdownfree01					3		-1	2	1	1															
+DriveNpc0022	1	80	DriveNpc	万兽山庄骑乘2	npc\monster023	icon\monster\monster023.png	163	4	2		1	buf_wssz_pingjing	monster160_back_01	stand	sitdownfree01					3		-1	2	1	1															
+DriveNpc0023	1	80	DriveNpc	万兽山庄骑乘3	npc\monster611	icon\monster\monster611.png	163	4	2		1	buf_wssz_pingjing	monster160_back_01	stand	sitdownfree01					3		-1	2	1	1															
+DriveNpc0024	1	80	DriveNpc	快活泉石凳	npc\itemnpc508	icon\monster\petm_Y_1201.png	163	4	2		1	buff_event_spa_008	Point01	stand	interact475					3		-1	5	1	1															
+DriveNpc0025	1	80	DriveNpc	万兽山庄骑乘5	npc\fbmac004012	icon\funcnpc\clonedoor.png	163	4	2		1	buf_wssz_pingjing	Model::effect_02	Tpose	sitdownfree01					3		-1	5	1	1															
+																																								
+aqzw_huopao01	14	80	DriveNpc	镇关火炮	npc\fbmac002001	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0001.lua	1	buf_CannonNpc0001	Model::effect_02	Tpose	stand			"clone021_yuancheng11,1,0;cannon_left,1,0;cannon_right,1,0"		3		-1		1	1															
+																																								
+	//五内-武当																																							
+5nei_z2_hc	1	80	DriveNpc	5内-喝茶	npc\fbmac004012d	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0006.lua	1	buf_5nei_z2_hc	Model::effect_02	Tpose	interact420					3		-1	5	1	1															
+DriveNpc_cfbj001	14	80	DriveNpc	长风镖局	npc\npcitem877	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0006.lua	1	buff_cfbj_wy_005	Model::Point01	Tpose	stand			"jn_cfbj_huopao,1,0"	jn_cfbj_huopao	3		-1	2	1	1	1	1	1		40										
+																																								
+DriveNpc_wjd_01	14	80	DriveNpc	无极岛火炮	npc\npcitem877	icon\funcnpc\clonedoor.png	714	4	2	npc\clone\clone002\DriveNpc0006.lua	1	buff_wjd_gc_038	Model::Point01	Tpose	stand			"riding_wjd_huopao1,1,0"	riding_wjd_huopao1	8		-1	2	1	1	1	1	1		40										
+																																								
+DriveNpc_sjy001	14	80	DriveNpc	神机营火炮	npc\npcitem877	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0006.lua	1	buf_sjy_dingzw_002	Model::Point01	Tpose	stand			"jn_sjy_huopao,1,0"	jn_sjy_huopao	3		-1	2	1	1	1	1	1		40										
+																																								
+DriveNpc_xmg_dy_01	1	80	DriveNpc	无门派喝酒	npc\fbmac004012d	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0006.lua	1	buff_xmg_dy_10	Model::effect_02	Tpose	interact420					3		-1	5	1	1															
+																																								
+DriveNpc_dingzw_201908y3_001	1	80	DriveNpc	酒馆喝酒	npc\fbmac004012d	icon\funcnpc\clonedoor.png	5	4	2	npc\clone\clone002\DriveNpc0006.lua	1	buf_dingzw_201908y3_sitdown	Model::effect_02	Tpose	interact420					3		-1	2	1	1															
+DriveNpc_dingzw_201908y3_002	1	80	DriveNpc	坐下休息	npc\fbmac004012d	icon\funcnpc\clonedoor.png	5	4	2	npc\clone\clone002\DriveNpc0006.lua	1	buf_dingzw_201908y3_sitdown	Model::effect_02	Tpose	interact420					3		-1	2	1	1															
+																																								
+DriveNpc_lzy_20211223hd_001	1	80	DriveNpc	剑碑蒲团	npc\itemnpc911	icon\funcnpc\clonedoor.png	163	4	2		1	buff_lzy_20211223hd_ds	Model::Point01	Tpose	interact503					3		-1	2	1	1						1									
+																																								
+DriveNpc_lzy_hgym_bl001	14	80	DocileHorse	横戈跃马边路战马01	npc\ride_horse_0301	icon\monster\monster550.png	1300	4	2		1	buff_lzy_hgym_bldm_xm	mount::Point01	ride_standfree01	ride_standfree01					2		-1	32	1	1							3	7.5	3	1	20	5934			
+																																								
+hd_zzhd_02	1	1	DriveNpc	新春撞钟活动NPC	npc\npcitem937	icon\funcnpc\npcitem937.png	535	4	2		1		Point01		stand					3														3						
+																																								
+	//新海岛东海																																							
+DriveNpc_xhd_pt	1	80	DriveNpc	剑碑蒲团	npc\itemnpc063	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0006.lua	1	buff_xhd_pt	Model::effect_02	Tpose	ng_state_1					3		-1		1	1															
+																																								
+	//23年12月活动																																							
+DriveNpc_jcyl001	14	80	DriveNpc	校场演练	npc\npcitem877	icon\funcnpc\clonedoor.png	163	4	2	npc\clone\clone002\DriveNpc0006.lua	1	buf_sjy_dingzw_002	Model::Point01	Tpose	stand			"jn_sjy_huopao,1,0"	jn_sjy_huopao	3		-1	2	1	1	1	1	1		40										
+																																								
+	//沙海护航																																							
+DriveNpc_shhh001	763	100	DriveNpc	沙海护航	npc\SHfangyu001	icon\funcnpc\clonedoor.png	165	0	2	npc\clone\clone002\DriveNpc0006.lua	1	buf_sjy_dingzw_002	Model::Point001	Tpose	stand			"jn_shhh_de_001,1,0"	jn_shhh_de_001	3	6445	-1	2	1	1	1	0	0		40								2	2	664
+DriveNpc_shhh002	763	100	DriveNpc	沙海护航	npc\SHfangyu002	icon\funcnpc\clonedoor.png	165	0	2	npc\clone\clone002\DriveNpc0006.lua	1	buf_sjy_dingzw_002	Model::Point001	Tpose	stand			"jn_shhh_de_002,1,0"	jn_shhh_de_002	3	6445	-1	2	1	1	1	0	0		40								2	2	664
+DriveNpc_shhh003	14	80	DriveNpc	沙海护航	npc\npcitem877	icon\funcnpc\clonedoor.png	165	0	2	npc\clone\clone002\DriveNpc0006.lua	1	buf_sjy_dingzw_002	Model::Point001	Tpose	stand			"jn_shhh_de_003,1,0"	jn_shhh_de_003	3		-1	2	1	1	1	0	0		40								2	2	664

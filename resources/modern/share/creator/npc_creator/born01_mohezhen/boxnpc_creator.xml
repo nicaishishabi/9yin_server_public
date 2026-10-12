@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="AD857F88313143CB8B476BD061F3C2F0" x="626.703" y="23.952" z="340.210" radius="2.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="BoxNpc10096" ax="1.691" ay="1.723" az="0.516" amount="1" refreshtime="36000000" NotPositive="0" desc="钱袋">
+                <position x="626.009" z="339.351" ax="1.691" ay="1.723" az="0.516" />
+            </item>
+        </creator>
+        <creator No="68956E1139DE46FEAE6166FA57405A17" x="574.710" y="26.316" z="342.941" radius="20.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="BoxNpc10014" sx="0.600" sy="0.600" sz="0.600" ay="3.132" amount="1" refreshtime="36000000" NotPositive="0" desc="武器架">
+                <position x="582.417" z="330.840" sx="0.600" sy="0.600" sz="0.600" ay="3.132" />
+                <position x="566.827" z="330.788" sx="0.600" sy="0.600" sz="0.600" ay="3.167" />
+                <position x="582.332" z="355.452" sx="0.600" sy="0.600" sz="0.600" ay="0.009" />
+                <position x="566.990" z="355.394" sx="0.600" sy="0.600" sz="0.600" ay="0.009" />
+            </item>
+        </creator>
+        <creator No="A0F5F98656FF4F1B981350200CA4F56C" x="589.332" y="25.712" z="281.766" radius="2.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" StaticY="1" HateLink="1">
+            <item No="1" id="BoxNpc10096" ax="1.594" ay="5.007" az="0.682" amount="1" refreshtime="36000000" NotPositive="0" desc="钱袋">
+                <position x="589.858" z="281.102" ax="1.594" ay="5.007" az="0.682" />
+            </item>
+        </creator>
+        <creator No="FC360503F2BD425CA79D56F857D7978E" x="653.901" y="25.373" z="234.151" radius="1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" StaticY="1" HateLink="1">
+            <item No="1" id="BoxNpc10096" ax="5.687" ay="2.002" amount="1" refreshtime="36000000" NotPositive="0" desc="钱袋">
+                <position x="653.192" z="234.632" ax="5.687" ay="2.002" />
+            </item>
+        </creator>
+        <creator No="312C17ADCC0D4E87989D397E298501BA" x="656.944" y="26.793" z="233.015" radius="3.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" StaticY="1" HateLink="1">
+            <item No="1" id="BoxNpc10092" sx="0.640" sy="0.640" sz="0.640" ay="5.290" amount="1" refreshtime="36000000" NotPositive="0" desc="酒坛">
+                <position x="659.870" z="232.867" sx="0.640" sy="0.640" sz="0.640" ay="5.290" />
+                <position x="658.519" z="232.925" sx="0.640" sy="0.640" sz="0.640" ay="5.270" />
+                <position x="654.120" z="233.060" sx="0.640" sy="0.640" sz="0.640" ay="5.315" />
+                <position x="655.675" z="233.038" sx="0.640" sy="0.640" sz="0.640" ay="5.275" />
+            </item>
+        </creator>
+        <creator No="35C6C88E34B14A1DA5E708007C7774DB" x="626.128" y="23.903" z="307.940" radius="3.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="BoxNpc10014" sx="0.760" sy="0.760" sz="0.760" ay="4.670" amount="1" refreshtime="36000000" NotPositive="0" desc="武器架">
+                <position x="627.767" z="307.778" sx="0.760" sy="0.760" sz="0.760" ay="4.670" />
+            </item>
+        </creator>        
+		<creator No="9DD6397541B549909056AFA114053445" x="360.472" y="151.924" z="959.769" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qy_jmy003_caoyao" ay="-1" amount="3" refreshtime="43200000" NotPositive="0" desc="神奇的草药">
+                <position x="361.275" z="958.867" ay="-1" />
+                <position x="362.275" z="959.867" ay="-1" />
+                <position x="361.275" z="959.867" ay="-1" />
+            </item>   
+		</creator> 
+    </randomcreator>
+</object>

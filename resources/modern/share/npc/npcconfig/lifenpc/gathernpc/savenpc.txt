@@ -1,0 +1,8 @@
+NPC编号	对象类型	名称	武器持握方式	模型编号	头像	NPC类型	NPC种类ID	回收时间	响应范围	选择操作分类	鼠标	需要食物概率	需要水概率	需要衣服概率	需要食物对话	需要水对话	需要衣服对话	需要食物BUFF	需要水BUFF	需要衣服BUFF	最短状态时间	最长状态持续时间	最短等待时间	最长等待时间	失败后贴玩家BUFF	成功后贴NPCBUFF	
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	script	Name	WeaponMode	Resource	Photo	NpcType	CKindID	DestroyTime	SpringRange	SelectState	CursorShape	NeedFoodRatio	NeedWaterRatio	NeedClothRatio	NeedFoodChat	NeedWaterChat	NeedClothChat	NeedFoodBuff	NeedWaterBuff	NeedClothBuff	StateTimeMin	StateTimeMax	ChangeTimeMin	ChangeTimeMax	FailBuff	SucessBuff	CureNpcType
+save_xjz_01	BeCuredNpc	老人1	hand1_1	npc\worldnpc110		420			20	2	2	50	50	50	talk_xjz_001	talk_xjz_003	talk_xjz_002	light_hold_10	light_hold_160	light_hold_51	30	60	10	30	buf_xjz_oldman_4	buf_xjz_oldman_5	1
+save_xjz_02	BeCuredNpc	老人2	hand1_1	npc\worldnpc119		420			20	2	2	50	50	50	talk_xjz_001	talk_xjz_003	talk_xjz_002	light_hold_10	light_hold_160	light_hold_51	30	60	10	30	buf_xjz_oldman_4	buf_xjz_oldman_5	1
+save_xjz_03	BeCuredNpc	老人3	hand1_1	npc\worldnpc125		420			20	2	2	50	50	50	talk_xjz_001	talk_xjz_003	talk_xjz_002	light_hold_10	light_hold_160	light_hold_51	30	60	10	30	buf_xjz_oldman_4	buf_xjz_oldman_5	1
+save_xjz_04	BeCuredNpc	老人4	hand1_1	npc\worldnpc126		420			20	2	2	50	50	50	talk_xjz_001	talk_xjz_003	talk_xjz_002	light_hold_10	light_hold_160	light_hold_51	30	60	10	30	buf_xjz_oldman_4	buf_xjz_oldman_5	1
+save_xjz_05	BeCuredNpc	老人5	hand1_1	npc\worldnpc132		420			20	2	2	50	50	50	talk_xjz_001	talk_xjz_003	talk_xjz_002	light_hold_10	light_hold_160	light_hold_51	30	60	10	30	buf_xjz_oldman_4	buf_xjz_oldman_5	1

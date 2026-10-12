@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <staticcreator>
+        <item No="4F2C255F830C40E8B07E37C5F557AF83" x="762.290" y="62.300" z="553.748" id="npc_sl_mxm01" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="13.0" NotPositive="0" desc="内应" ChildList="" PosList="" />
+        <item No="55F50DAF42C84922B0CD3DCD420F4E93" x="763.970" y="62.144" z="553.776" ay="-0.315" id="mm_ny_xu_002" RefreshTime="-1.0" PatrolMode="1" WakeupRange="5.0" ChaseRange="5.0" NotPositive="0" desc="内应" ChildList="" PosList="" />
+        <item No="76F6736BAD1D4E1F953E1A3D5F0E6646" x="1113.624" y="87.326" z="382.905" id="npc_sl_mie" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="13.0" NotPositive="0" desc="少林" ChildList="" PosList="" />
+        <item No="9189EFAC333D4A69A8D1CEBD588795E2" x="751.457" y="23.369" z="648.249" ay="-2.293" id="NPC_mm_dy_01" BornAction="ty_kneel_danxi_loop" RefreshTime="30000.0" PatrolMode="1" WakeupRange="5.0" ChaseRange="13.0" NotPositive="0" desc="少林小怪" ChildList="" PosList="" />
+        <item No="5DAE34A0A45F4498BE6907CC7D2939B7" x="817.210" y="61.563" z="493.640" id="NPC_mm_dy_16" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="13.0" NotPositive="0" desc="少林陷阱触发" ChildList="" PosList="" />
+        <item No="0B4CC6B499724B108A942753A7071EB6" x="811.915" y="72.722" z="434.917" id="NPC_mm_dy_17" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="13.0" NotPositive="0" desc="少林陷阱触发" ChildList="" PosList="" />
+    </staticcreator>
+</object>

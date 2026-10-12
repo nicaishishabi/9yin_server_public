@@ -1,0 +1,118 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	NpcId	SceneID	DialogID	GetItems	LostItems	TrackInfo	OkMenu	TaskID
+75001	EventNpc_yyczyb_009	13				interactinfo_75001		75001
+75002	EventNpc_yyczyb_001	13				interactinfo_75002		75004
+75006	EventNpc_yyczyb_002	13				interactinfo_75006		75005
+75007	EventNpc_yyczyb_003	13				interactinfo_75007		75006
+75008	EventNpc_yyczyb_004	13				interactinfo_75008		75007
+75009	EventNpc_yyczyb_005	13				interactinfo_75009		75008
+75010	EventNpc_yyczyb_006	13				interactinfo_75010		75009
+75011	EventNpc_yyczyb_007	14				interactinfo_75011		75014
+75012	EventNpc_yyczyb_008	14				interactinfo_75012		75015
+75013	worldnpc_yyczyb_009	14	DialogID_75013			interactinfo_75013	okmenu_75013	75016
+75004	worldnpc_yyczyb_003	947	DialogID_75004			interactinfo_75004	okmenu_75004	75001
+75005	worldnpc_yyczyb_002	947	DialogID_75005	item_yyczyb_001-1		interactinfo_75005	okmenu_75005	75001
+75003	EventNpc_yyczyb_011	947				interactinfo_75003		75001
+75014	EventNpc_yyz_201908jq_002	947				interactinfo_75014		75018
+75015	EventNpc_yyczyb_010	13				interactinfo_75015		75011
+75022	eventnpc_myyyc_001	931						
+75023	Eventnpc_myyyc_002	931				interactinfo_75023		75092
+75024	Eventnpc_myyyc_003	931				interactinfo_75024		75093
+75026	yyc_myzyb_009	931	DialogID_75026		itemyyc_my_002-1	interactinfo_75026	okmenu_75026	75094
+75027	yyc_myzyb_007	931	DialogID_75027		itemyyc_my_002-1	interactinfo_75027	okmenu_75027	75094
+75028	yyc_myzyb_008	931	DialogID_75028		itemyyc_my_002-1	interactinfo_75028	okmenu_75028	75094
+75029	Eventnpc_myyyc_004	931				interactinfo_75029		75094
+75025	yyc_myzyb_002	931	DialogID_75025	itemyyc_my_002-3		interactinfo_75025	okmenu_75025	75094
+75021	npc_lzy_201908jq6_002	930	DialogID_75021	itemyyc_my_001-1		interactinfo_75021	okmenu_75021	75090
+75030	Eventnpc_myyyc_005	930				interactinfo_75030		75095
+75031	Eventnpc_myyyc_002	931				interactinfo_75031		75091
+75016	com_fivesky_03	948	DialogID_75016			interactinfo_75016	okmenu_75016	75029,75059
+75017	com_fivesky_04	948	DialogID_75017			interactinfo_75017	okmenu_75017	75029,75059
+75018	com_fivesky_05	948	DialogID_75018			interactinfo_75018	okmenu_75018	75029,75059
+75019	com_fivesky_06	948	DialogID_75019			interactinfo_75019	okmenu_75019	75029,75059
+75020	com_fivesky_07	948	DialogID_75020			interactinfo_75020	okmenu_75020	75029,75059
+75032	yyc_myzyb_013	930	DialogID_75032			interactinfo_75032	okmenu_75032	75079
+75033	yyc_myzyb_013	930	DialogID_75033			interactinfo_75033	okmenu_75033	75080
+75034	com_fivesky_008	948	DialogID_75034		fivesky_item_wsj-1	interactinfo_75034	okmenu_75034	75024
+75035	com_fivesky_009	948	DialogID_75035		fivesky_item_wsj-1	interactinfo_75035	okmenu_75035	75030
+75036	com_fivesky_010	948	DialogID_75036		fivesky_item_wsj-1	interactinfo_75036	okmenu_75036	75036
+75037	com_fivesky_011	948	DialogID_75037		fivesky_item_wsj-1	interactinfo_75037	okmenu_75037	75042
+75038	com_fivesky_012	948	DialogID_75038		fivesky_item_wsj-1	interactinfo_75038	okmenu_75038	75048
+75039	caiji_gszyb_001	930	DialogID_75039			interactinfo_75039	okmenu_75039	75100
+75040	caiji_gszyb_002	930	DialogID_75040			interactinfo_75040	okmenu_75040	75100
+75041	caiji_gszyb_003	930	DialogID_75041			interactinfo_75041	okmenu_75041	75100
+75042	eventgs_zyb_001	930				interactinfo_75042		75100
+75043	eventgs_zyb_002	930				interactinfo_75043		75100
+75044	eventgs_zyb_004	930				interactinfo_75044		75101
+75045	npc_dreamtask_001	930	DialogID_75045	item_gszyb_001-1		interactinfo_75045	okmenu_75045	75102
+75051	eventgs_zyb_006	930				interactinfo_75051		75104
+75052	eventgs_zyb_007	930				interactinfo_75052		75104
+75053	caiji_gszyb_005	930				interactinfo_75053		75104
+75054	eventgs_zyb_008	951				interactinfo_75054		75105
+75055	eventgs_zyb_009	951				interactinfo_75055		75106
+75056	eventgs_zyb_010	951				interactinfo_75056		75110
+75047	eventgs_zyb_005	930				interactinfo_75047		75103
+75048	gs_zyb_003	930	DialogID_75048	item_gszyb_002-1		interactinfo_75048	okmenu_75048	75103
+75049	npc_dreamtask_001	930	DialogID_75049		item_gszyb_002-1	interactinfo_75049	okmenu_75049	75103
+75050	eventgs_zyb_005	930				interactinfo_75050		
+75046	caiji_gszyb_004	930	DialogID_75046			interactinfo_75046	okmenu_75046	75102
+75057	caiji_gszyb_006	951				interactinfo_75057		75110
+75058	Jtg_zyb_001	930	DialogID_75058	Item_jtgzyb_001-1		interactinfo_75058	okmenu_75058	75115
+75059	Event_jtgzyb_001	930				interactinfo_75059		75116
+75060	Event_jtgzyb_002	954				interactinfo_75060		75116
+75061	Jtg_zyb_003	954	DialogID_75061			interactinfo_75061	okmenu_75061	75116
+75064	Event_jtgzyb_004	954				interactinfo_75064		75119
+75063	Jtg_zyb_006	954	DialogID_75063		Item_jtgzyb_001-1	interactinfo_75063	okmenu_75063	75118
+75062	Event_jtgzyb_003	954				interactinfo_75062		75117
+75065	Event_jtgzyb_005	954				interactinfo_75065		75120
+75066	jtg_rczyb_001	930	DialogID_75066		jtg_rcitem_001-1	interactinfo_75066	okmenu_75066	
+75067	jtg_rczyb_002	930	DialogID_75067		jtg_rcitem_001-1	interactinfo_75067	okmenu_75067	
+75068	jtg_rczyb_003	930	DialogID_75068		jtg_rcitem_001-1	interactinfo_75068	okmenu_75068	
+75069	jtg_rczyb_004	930	DialogID_75069		jtg_rcitem_001-1	interactinfo_75069	okmenu_75069	
+75070	jtg_rczyb_005	930	DialogID_75070		jtg_rcitem_001-1	interactinfo_75070	okmenu_75070	
+75142								
+75143								
+75111	newdh_lxg_001	1089	DialogID_75111			interactinfo_75111	okmenu_75111	
+75112	newdh_lxg_001	1089	DialogID_75112			interactinfo_75112	okmenu_75112	
+75113	island_task_npc_010	1089	DialogID_75113			interactinfo_75113	okmenu_75113	
+75114	island_task_npc_010	1089	DialogID_75114			interactinfo_75114	okmenu_75114	
+75115	island_task_npc_010	1089	DialogID_75115			interactinfo_75115	okmenu_75115	
+75154								
+75155								
+75116	island_task_npc_002	1089	DialogID_75116			interactinfo_75116	okmenu_75116	
+75120	island_task_npc_015	1089	DialogID_75120			interactinfo_75120	okmenu_75120	
+75117	island_task_npc_012	1089	DialogID_75117			interactinfo_75117	okmenu_75117	
+75150	newdh_lxg_001	1089	DialogID_75150			interactinfo_75150	okmenu_75150	
+75110	newdh_lxg_001	1089	DialogID_75110			interactinfo_75110	okmenu_75110	
+75151	island_task_npc_002	1089	DialogID_75151			interactinfo_75151	okmenu_75151	
+75152	island_task_npc_012	1089	DialogID_75152			interactinfo_75152	okmenu_75152	
+75156	island_task_npc_013	1089	DialogID_75156			interactinfo_75156	okmenu_75156	
+75118	island_task_npc_003	1089	DialogID_75118			interactinfo_75118	okmenu_75118	
+75119	island_task_npc_014	1089	DialogID_75119			interactinfo_75119	okmenu_75119	
+75121	island_task_npc_016	1089	DialogID_75121			interactinfo_75121	okmenu_75121	
+75128	island_task_npc_016	1089	DialogID_75128			interactinfo_75128	okmenu_75128	
+75127	island_task_npc_016	1089	DialogID_75127			interactinfo_75127	okmenu_75127	
+75126	island_task_npc_016	1089	DialogID_75126			interactinfo_75126	okmenu_75126	
+75125	island_task_npc_016	1089	DialogID_75125			interactinfo_75125	okmenu_75125	
+75124	island_task_npc_016	1089	DialogID_75124			interactinfo_75124	okmenu_75124	
+75123	island_task_npc_016	1089	DialogID_75123			interactinfo_75123	okmenu_75123	
+75122	island_task_npc_016	1089	DialogID_75122			interactinfo_75122	okmenu_75122	
+75166	island_task_npc_004	1089	DialogID_75166			interactinfo_75166	okmenu_75166	
+75168	newdh_lxg_001	1089	DialogID_75168			interactinfo_75168	okmenu_75168	
+75169	island_task_npc_005	1089	DialogID_75169			interactinfo_75169	okmenu_75169	
+75129	island_task_npc_005	1089	DialogID_75129			interactinfo_75129	okmenu_75129	
+75130	island_task_npc_006	1089	DialogID_75130			interactinfo_75130	okmenu_75130	
+75131	island_task_npc_006	1089	DialogID_75131			interactinfo_75131	okmenu_75131	
+75132	island_task_npc_006	1089	DialogID_75132			interactinfo_75132	okmenu_75132	
+75133	island_task_npc_006	1089	DialogID_75133			interactinfo_75133	okmenu_75133	
+75134	island_task_npc_006	1089	DialogID_75134			interactinfo_75134	okmenu_75134	
+75135	island_task_npc_006	1089	DialogID_75135			interactinfo_75135	okmenu_75135	
+75136	island_task_npc_003	1089	DialogID_75136			interactinfo_75136	okmenu_75136	
+75137	newdh_lxg_001	1089	DialogID_75137			interactinfo_75137	okmenu_75137	
+75138	newdh_lxg_001	1089	DialogID_75138			interactinfo_75138	okmenu_75138	
+75139	island_task_npc_007	1089	DialogID_75139			interactinfo_75139	okmenu_75139	
+75140	island_task_npc_007	1089	DialogID_75140			interactinfo_75140	okmenu_75140	
+75141	island_task_npc_007	1089	DialogID_75141			interactinfo_75141	okmenu_75141	
+75144	island_task_npc_003	1089	DialogID_75144			interactinfo_75144	okmenu_75144	
+75145	island_task_npc_003	1089	DialogID_75145			interactinfo_75145	okmenu_75145	
+75146	island_task_npc_008	1089	DialogID_75146			interactinfo_75146	okmenu_75146	

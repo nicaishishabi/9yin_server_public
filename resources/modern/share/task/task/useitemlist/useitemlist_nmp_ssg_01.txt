@@ -1,0 +1,11 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	ItemID	ProCount	AddPro	TrackInfoID	DeleteSelf	LockTarget	Radius	SceneID	Water	AddItems	DeleteItems	TargetConfig	TaskID	BuffID
+16001	item_ssgrc_001	1	1	useiteminfo_16001	1	0	5	1				EventNpc_ssgrc_003		
+16002	useitem_ssg_rc_003	1	1	useiteminfo_16002	1		5	1				ysmp_ssg_rc_002		
+16000	useitem_ssg_rc_001	1	1	useiteminfo_16000	1		5	1				EventNpc_ssgrc_003		
+16006	item_shenshui_glrm_02	1	1	useiteminfo_16006	1	1	4	573				newmp_shenshui_003	21453	
+16005	item_shenshui_glrm_01	1	1	useiteminfo_16005	1	1	4	4		item_shenshui_glrm_02		newmp_shenshui_016	21451	
+16007	item_shenshui_glrm_03	1	1	useiteminfo_16007	1			4					21451	
+16003	use_item_ssg_rm_01	1	1	useiteminfo_16003	1	npc_ssg_rm_002	5	4				npc_ssg_rm_002	21423	
+16004	taskitem_ssg_zyb005	1	1	useiteminfo_16004		1	2	592				ssg_zyb_003	21503	
+16008	item_ssg_zyb_001	1	1	useiteminfo_16008		1	3	573		taskitem_ssg_zyb004		ysmp_ssg_rc_004		

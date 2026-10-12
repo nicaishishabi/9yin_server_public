@@ -1,0 +1,421 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="F78FAF304A3F4B39B76040F202A5E030" x="565.748" y="51.021" z="-1008.552" radius="200.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="Gather_xiakedao_nisha" ay="-1" amount="1" refreshtime="50" NotPositive="0" desc="泥沙">
+                <position x="555.096" z="-1019.049" ay="-1" />
+                <position x="559.023" z="-1016.812" ay="-1" />
+                <position x="562.540" z="-1014.289" ay="-1" />
+                <position x="567.319" z="-1009.757" ay="-1" />
+                <position x="574.656" z="-1000.185" ay="-1" />
+                <position x="580.843" z="-993.003" ay="-1" />
+                <position x="587.118" z="-982.286" ay="-1" />
+                <position x="598.759" z="-966.992" ay="-1" />
+            </item>
+        </creator>
+        <creator No="A157AE3A7A0A4A1C9AB4EA5D7461046E" x="126.634" y="91.389" z="-439.312" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="npc_xkd_cj_02" sx="1.350" sy="1.420" sz="1.350" ay="-1" amount="1" refreshtime="30000" NotPositive="0" desc="残破书籍" />
+        </creator>
+        <creator No="D2D51C8107B547B8A7E2E407B671A0C8" x="129.784" y="58.615" z="-447.242" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="npc_xkd_cj_03" ay="-1" amount="5" refreshtime="30000" NotPositive="0" desc="草药2">
+                <position x="125.848" z="-445.836" ay="-1" />
+                <position x="126.186" z="-450.695" ay="-1" />
+                <position x="130.760" z="-451.796" ay="-1" />
+                <position x="134.486" z="-450.411" ay="-1" />
+                <position x="133.776" z="-441.878" ay="-1" />
+            </item>
+        </creator>
+        <creator No="AA7310A1D79B4B74A09BB8809EDB5A9D" x="746.471" y="91.396" z="-725.490" radius="110.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" StaticY="1" HateLink="1">
+            <item No="1" id="tigenpc_02" ay="-1" amount="6" refreshtime="5" NotPositive="0" desc="宁静草">
+                <position x="761.728" y="65.455" z="-656.982" ay="-1" />
+                <position x="786.795" y="55.084" z="-670.776" ay="-1" />
+                <position x="774.691" y="58.502" z="-636.331" ay="-1" />
+                <position x="718.254" y="80.078" z="-624.193" ay="-1" />
+                <position x="696.013" y="92.261" z="-644.596" ay="-1" />
+                <position x="668.378" y="100.375" z="-653.867" ay="-1" />
+                <position x="653.208" y="100.660" z="-695.230" ay="-1" />
+                <position x="639.467" y="104.678" z="-732.755" ay="-1" />
+                <position x="740.862" y="89.700" z="-743.857" ay="-1" />
+                <position x="721.292" y="80.045" z="-749.408" ay="-1" />
+                <position x="713.049" y="70.616" z="-792.279" ay="-1" />
+                <position x="659.208" y="114.525" z="-784.602" ay="-1" />
+                <position x="671.035" y="106.437" z="-765.406" ay="-1" />
+                <position x="660.422" y="99.895" z="-672.617" ay="-1" />
+                <position x="709.960" y="92.418" z="-688.218" ay="-1" />
+                <position x="727.064" y="92.096" z="-711.488" ay="-1" />
+                <position x="809.512" y="57.953" z="-726.635" ay="-1" />
+                <position x="793.459" y="61.609" z="-778.583" ay="-1" />
+                <position x="749.448" y="62.668" z="-799.293" ay="-1" />
+                <position x="756.938" y="86.947" z="-719.537" ay="-1" />
+                <position x="720.526" y="92.695" z="-721.209" ay="-1" />
+                <position x="694.996" y="87.306" z="-709.522" ay="-1" />
+                <position x="640.962" y="106.228" z="-739.393" ay="-1" />
+            </item>
+        </creator>
+        <creator No="B65DCE9F22844E248CB11810FDDD88F3" x="583.985" y="101.705" z="-489.308" radius="110.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" StaticY="1" HateLink="1">
+            <item No="1" id="tigenpc_02" ay="-1" amount="6" refreshtime="5" NotPositive="0" desc="宁静草">
+                <position x="605.533" y="106.611" z="-506.761" ay="-1" />
+                <position x="639.943" y="105.899" z="-534.243" ay="-1" />
+                <position x="657.724" y="101.856" z="-560.416" ay="-1" />
+                <position x="673.401" y="95.853" z="-535.555" ay="-1" />
+                <position x="656.829" y="98.680" z="-489.787" ay="-1" />
+                <position x="615.506" y="105.816" z="-435.551" ay="-1" />
+                <position x="560.438" y="89.892" z="-395.256" ay="-1" />
+                <position x="539.028" y="96.171" z="-400.392" ay="-1" />
+                <position x="510.761" y="104.728" z="-421.251" ay="-1" />
+                <position x="497.667" y="112.527" z="-464.421" ay="-1" />
+                <position x="502.994" y="127.068" z="-505.410" ay="-1" />
+                <position x="478.830" y="127.851" z="-509.419" ay="-1" />
+                <position x="509.615" y="105.622" z="-446.212" ay="-1" />
+                <position x="600.291" y="106.930" z="-415.690" ay="-1" />
+                <position x="547.924" y="112.440" z="-487.793" ay="-1" />
+                <position x="580.874" y="104.371" z="-492.197" ay="-1" />
+            </item>
+        </creator>
+        <creator No="4C08BEA05FC8437E8F14F9AA766F0A89" x="419.507" y="60.656" z="-1066.970" radius="110.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" StaticY="1" HateLink="1">
+            <item No="1" id="tigenpc_02" ay="-1" amount="3" refreshtime="300000" NotPositive="0" desc="宁静草">
+                <position x="412.186" y="60.563" z="-1024.557" ay="-1" />
+                <position x="445.095" y="54.805" z="-1088.553" ay="-1" />
+                <position x="501.193" y="55.137" z="-1001.750" ay="-1" />
+                <position x="483.468" y="57.507" z="-1013.671" ay="-1" />
+                <position x="429.992" y="60.665" z="-1023.292" ay="-1" />
+                <position x="317.527" y="95.965" z="-1095.873" ay="-1" />
+                <position x="389.400" y="72.300" z="-1034.793" ay="-1" />
+                <position x="386.230" y="50.780" z="-1134.746" ay="-1" />
+                <position x="370.485" y="52.020" z="-1158.847" ay="-1" />
+                <position x="409.585" y="60.665" z="-1034.605" ay="-1" />
+                <position x="400.038" y="63.214" z="-1086.719" ay="-1" />
+            </item>
+        </creator>
+        <creator No="445C6DC55545495DBD0402D833F65040" x="208.796" y="145.497" z="-1168.596" radius="110.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" StaticY="1" HateLink="1">
+            <item No="1" id="tigenpc_03" ay="-1" amount="6" refreshtime="300000" NotPositive="0" desc="双生万年蕈">
+                <position x="274.377" y="110.103" z="-1099.776" ay="-1" />
+                <position x="250.568" y="116.250" z="-1100.380" ay="-1" />
+                <position x="235.065" y="136.763" z="-1143.892" ay="-1" />
+                <position x="204.513" y="153.558" z="-1146.204" ay="-1" />
+                <position x="169.695" y="160.395" z="-1129.010" ay="-1" />
+                <position x="148.930" y="157.673" z="-1166.155" ay="-1" />
+                <position x="167.840" y="138.947" z="-1196.705" ay="-1" />
+                <position x="103.921" y="132.597" z="-1163.613" ay="-1" />
+                <position x="150.366" y="116.470" z="-1235.004" ay="-1" />
+                <position x="278.117" y="129.692" z="-1164.422" ay="-1" />
+                <position x="260.681" y="128.440" z="-1134.384" ay="-1" />
+                <position x="113.198" y="116.696" z="-1208.604" ay="-1" />
+                <position x="244.289" y="121.275" z="-1190.197" ay="-1" />
+                <position x="153.909" y="144.813" z="-1079.330" ay="0.302" />
+            </item>
+        </creator>
+        <creator No="5043595965EC478692D47A0A61015523" x="-53.393" y="123.692" z="-1089.999" radius="110.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" StaticY="1" HateLink="1">
+            <item No="1" id="tigenpc_03" ay="-1" amount="3" refreshtime="300000" NotPositive="0" desc="双生万年蕈">
+                <position x="-58.031" y="123.589" z="-1088.569" ay="-1" />
+                <position x="-146.106" y="81.839" z="-1081.638" ay="-1" />
+                <position x="-61.618" y="112.149" z="-1164.745" ay="-1" />
+                <position x="-4.393" y="126.139" z="-1179.392" ay="-1" />
+                <position x="-24.781" y="124.306" z="-1112.524" ay="-1" />
+                <position x="-108.944" y="98.044" z="-1004.682" ay="-1" />
+                <position x="-128.669" y="78.462" z="-1165.409" />
+            </item>
+        </creator>
+        <creator No="09C4EFF48C2147B395EAD3F2BCC0903D" x="-48.733" y="129.760" z="-827.822" radius="110.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" StaticY="1" HateLink="1">
+            <item No="1" id="tigenpc_03" ay="-1" amount="3" refreshtime="300000" NotPositive="0" desc="双生万年蕈">
+                <position x="-79.878" y="121.876" z="-883.471" ay="-1" />
+                <position x="-58.700" y="133.770" z="-850.855" ay="-1" />
+                <position x="-95.989" y="115.034" z="-844.996" ay="-1" />
+                <position x="-74.400" y="117.869" z="-824.180" ay="-1" />
+                <position x="-14.584" y="122.982" z="-781.430" ay="-1" />
+                <position x="-24.775" y="120.231" z="-740.363" ay="-1" />
+                <position x="-61.452" y="111.723" z="-764.909" ay="-1" />
+                <position x="51.490" y="143.331" z="-859.994" ay="-1" />
+                <position x="-26.665" y="123.353" z="-827.473" ay="-1" />
+            </item>
+        </creator>
+        <creator No="0004DE93FCF340DCB0DC9014CC3B20FC" x="140.502" y="103.188" z="-563.437" radius="110.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" StaticY="1" HateLink="1">
+            <item No="1" id="tigenpc_03" ay="-1" amount="3" refreshtime="300000" NotPositive="0" desc="双生万年蕈">
+                <position x="115.163" y="101.364" z="-544.864" ay="-1" />
+                <position x="55.171" y="103.928" z="-604.681" ay="-1" />
+                <position x="93.890" y="144.010" z="-611.805" ay="-1" />
+                <position x="126.806" y="128.995" z="-600.931" ay="-1" />
+                <position x="144.827" y="115.482" z="-635.111" ay="-1" />
+                <position x="202.950" y="112.686" z="-555.878" ay="-1" />
+                <position x="195.667" y="113.833" z="-508.112" ay="-1" />
+                <position x="157.100" y="98.118" z="-466.867" ay="-1" />
+                <position x="84.335" y="88.826" z="-476.416" ay="-1" />
+                <position x="73.792" y="91.580" z="-531.967" ay="-1" />
+            </item>
+        </creator>
+        <creator No="451DC4CAA82D4D80AFD1CB46DBA4A586" x="410.064" y="133.364" z="-475.359" radius="110.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" StaticY="1" HateLink="1">
+            <item No="1" id="tigenpc_03" ay="-1" amount="5" refreshtime="300000" NotPositive="0" desc="双生万年蕈">
+                <position x="439.447" y="127.658" z="-473.180" ay="-1" />
+                <position x="446.589" y="95.032" z="-409.611" ay="-1" />
+                <position x="469.031" y="101.097" z="-423.963" ay="-1" />
+                <position x="338.223" y="124.058" z="-439.415" ay="-1" />
+                <position x="326.388" y="107.444" z="-416.555" ay="-1" />
+                <position x="331.146" y="127.474" z="-468.228" ay="-1" />
+                <position x="444.043" y="163.129" z="-575.058" ay="-1" />
+                <position x="468.617" y="126.787" z="-454.488" ay="-1" />
+                <position x="463.846" y="103.430" z="-387.853" ay="-1" />
+                <position x="396.678" y="98.081" z="-395.502" ay="-1" />
+                <position x="386.851" y="84.400" z="-373.621" ay="-1" />
+            </item>
+        </creator>
+        <creator No="0A6903DF3249480BA5A25E204411D307" x="362.137" y="127.331" z="-858.047" radius="110.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" StaticY="1" HateLink="1">
+            <item No="1" id="tigenpc_03" ay="-1" amount="5" refreshtime="300000" NotPositive="0" desc="双生万年蕈">
+                <position x="367.630" y="133.908" z="-939.807" ay="-1" />
+                <position x="426.532" y="125.257" z="-872.076" ay="-1" />
+                <position x="449.993" y="126.464" z="-831.646" ay="-1" />
+                <position x="405.932" y="125.535" z="-796.692" ay="-1" />
+                <position x="356.601" y="135.313" z="-827.432" ay="-1" />
+                <position x="297.863" y="167.283" z="-799.520" ay="-1" />
+                <position x="289.864" y="148.303" z="-876.741" ay="-1" />
+                <position x="278.748" y="143.809" z="-905.037" ay="-1" />
+                <position x="355.677" y="149.827" z="-904.891" ay="-1" />
+                <position x="466.698" y="114.227" z="-881.241" />
+                <position x="410.107" y="126.918" z="-869.924" ay="-1" />
+                <position x="383.712" y="137.150" z="-756.906" ay="-1" />
+            </item>
+        </creator>
+        <creator No="7E3C176609BF4144B35FA77C4160EFAC" x="531.138" y="142.876" z="-707.134" radius="110.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" StaticY="1" HateLink="1">
+            <item No="1" id="tigenpc_03" ay="-1" amount="5" refreshtime="300000" NotPositive="0" desc="双生万年蕈">
+                <position x="563.964" y="166.445" z="-632.074" ay="-1" />
+                <position x="489.432" y="176.840" z="-631.272" ay="-1" />
+                <position x="451.160" y="135.489" z="-751.190" ay="-1" />
+                <position x="476.186" y="137.751" z="-789.586" ay="-1" />
+                <position x="519.810" y="146.902" z="-757.202" ay="-1" />
+                <position x="573.046" y="126.001" z="-699.572" ay="-1" />
+                <position x="559.191" y="133.360" z="-720.581" ay="-1" />
+                <position x="525.718" y="148.326" z="-689.182" ay="-1" />
+                <position x="524.337" y="179.619" z="-604.012" ay="-1" />
+                <position x="457.033" y="170.795" z="-582.202" />
+                <position x="506.949" y="150.542" z="-699.269" ay="-1" />
+                <position x="626.116" y="107.182" z="-711.226" ay="-1" />
+                <position x="612.888" y="125.409" z="-672.632" ay="-1" />
+            </item>
+        </creator>
+        <creator No="17B30332B51442209C85D4EC5E808CE4" x="1369.260" y="90.370" z="-1659.566" radius="110.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" StaticY="1" HateLink="1">
+            <item No="1" id="tigenpc_02" ay="-1" amount="2" refreshtime="300000" NotPositive="0" desc="宁静草">
+                <position x="1275.508" y="85.726" z="-1707.447" ay="-1" />
+                <position x="1341.952" y="82.236" z="-1723.242" ay="-1" />
+                <position x="1382.932" y="84.809" z="-1707.756" ay="-1" />
+                <position x="1387.246" y="95.362" z="-1638.188" ay="-1" />
+                <position x="1460.311" y="65.133" z="-1616.808" ay="-1" />
+                <position x="1358.673" y="62.448" z="-1560.899" ay="-1" />
+            </item>
+        </creator>
+        <creator No="9ADC8BC7BA16422BA103F9B2D94CB7C2" x="1470.646" y="79.469" z="-1346.131" radius="110.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" StaticY="1" HateLink="1">
+            <item No="1" id="tigenpc_02" ay="-1" amount="1" refreshtime="300000" NotPositive="0" desc="宁静草">
+                <position x="1469.822" y="77.370" z="-1373.698" ay="-1" />
+                <position x="1488.916" y="84.140" z="-1438.954" ay="-1" />
+                <position x="1544.972" y="58.534" z="-1420.914" ay="-1" />
+                <position x="1525.782" y="66.624" z="-1323.403" ay="-1" />
+                <position x="1497.088" y="66.757" z="-1267.469" ay="-1" />
+                <position x="1432.954" y="59.267" z="-1327.656" ay="-1" />
+                <position x="1434.002" y="64.387" z="-1414.820" ay="-1" />
+            </item>
+        </creator>
+        <creator No="A4ACA60781CD43419A5B73CFF99E8ED8" x="1856.442" y="107.201" z="-649.804" radius="110.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" StaticY="1" HateLink="1">
+            <item No="1" id="tigenpc_03" ay="-1" amount="1" refreshtime="300000" NotPositive="0" desc="双生万年蕈">
+                <position x="1843.475" y="108.257" z="-671.114" ay="-1" />
+                <position x="1876.804" y="83.897" z="-753.109" ay="-1" />
+                <position x="1873.728" y="105.180" z="-604.406" ay="-1" />
+                <position x="1779.637" y="112.326" z="-588.359" ay="-1" />
+            </item>
+        </creator>
+        <creator No="C31FDD2CDACB4C1CAA45C7880898C4A1" x="1637.476" y="131.744" z="-551.318" radius="110.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" StaticY="1" HateLink="1">
+            <item No="1" id="tigenpc_03" ay="-1" amount="1" refreshtime="300000" NotPositive="0" desc="双生万年蕈">
+                <position x="1615.061" y="140.528" z="-546.579" ay="-1" />
+                <position x="1647.200" y="93.841" z="-474.307" ay="-1" />
+                <position x="1589.469" y="154.253" z="-526.664" ay="-1" />
+                <position x="1735.782" y="114.502" z="-573.426" ay="-1" />
+            </item>
+        </creator>
+        <creator No="ABD7D14BE2B74F28B0761F571B6715B2" x="1376.622" y="68.955" z="-467.208" radius="110.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" StaticY="1" HateLink="1">
+            <item No="1" id="tigenpc_02" ay="-1" amount="1" refreshtime="300000" NotPositive="0" desc="宁静草">
+                <position x="1325.456" y="64.983" z="-388.840" ay="-1" />
+                <position x="1387.511" y="73.980" z="-431.590" ay="-1" />
+                <position x="1320.166" y="71.039" z="-522.830" ay="-1" />
+                <position x="1374.077" y="90.718" z="-521.534" ay="-1" />
+                <position x="1403.974" y="87.113" z="-412.610" ay="-1" />
+            </item>
+        </creator>
+        <creator No="406D3F3122F04CD88B84145163F89719" x="1154.909" y="79.419" z="1126.095" radius="110.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="101.0" SpringRange="110" StaticY="1" HateLink="1">
+            <item No="1" id="tigenpc_03" ay="-1" amount="1" refreshtime="300000" NotPositive="0" desc="双生万年蕈">
+                <position x="1231.617" y="98.102" z="1138.994" ay="-1" />
+                <position x="1173.363" y="63.411" z="1072.622" ay="-1" />
+                <position x="1114.385" y="72.834" z="1076.452" ay="-1" />
+                <position x="1225.929" y="102.942" z="1146.520" ay="-1" />
+                <position x="1182.318" y="109.246" z="1197.816" ay="-1" />
+            </item>
+        </creator>
+        <creator No="A786D4B4FA834A7D95CFFDCC80DD64D2" x="1285.902" y="59.751" z="1640.968" radius="110.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" StaticY="1" HateLink="1">
+            <item No="1" id="tigenpc_03" ay="-1" amount="1" refreshtime="300000" NotPositive="0" desc="双生万年蕈">
+                <position x="1351.296" y="55.073" z="1688.213" ay="-1" />
+                <position x="1269.765" y="54.483" z="1653.325" ay="-1" />
+                <position x="1271.418" y="76.223" z="1560.101" ay="-1" />
+            </item>
+        </creator>
+        <creator No="B6847E24F75D4DC59576C49CFD895B8E" x="-233.654" y="90.090" z="1149.452" radius="110.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" StaticY="1" HateLink="1">
+            <item No="1" id="tigenpc_02" ay="-1" amount="1" refreshtime="300000" NotPositive="0" desc="宁静草">
+                <position x="-291.953" y="82.453" z="1232.403" ay="-1" />
+                <position x="-265.195" y="95.896" z="1139.776" ay="-1" />
+                <position x="-167.142" y="86.777" z="1109.648" ay="-1" />
+            </item>
+        </creator>
+        <creator No="5E70AEDADE264D2C9F9B2D3F7CBCDD65" x="-1242.338" y="94.844" z="1381.959" radius="110.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" StaticY="1" HateLink="1">
+            <item No="1" id="tigenpc_03" ay="-1" amount="1" refreshtime="300000" NotPositive="0" desc="双生万年蕈">
+                <position x="-1194.814" y="127.355" z="1336.115" ay="-1" />
+                <position x="-1225.847" y="80.855" z="1477.963" ay="-1" />
+                <position x="-1316.192" y="73.155" z="1429.032" ay="-1" />
+                <position x="-1317.593" y="98.062" z="1347.418" ay="-1" />
+            </item>
+        </creator>
+        <creator No="C4B2FAB6F9754C6D9BCA4D3103F94059" x="-141.807" y="84.624" z="-1950.328" radius="110.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" StaticY="1" HateLink="1">
+            <item No="1" id="tigenpc_03" ay="-1" amount="1" refreshtime="300000" NotPositive="0" desc="双生万年蕈">
+                <position x="-142.663" y="84.663" z="-1964.296" ay="-1" />
+                <position x="-56.623" y="65.872" z="-1896.431" ay="-1" />
+                <position x="-230.853" y="54.536" z="-1943.048" ay="-1" />
+                <position x="-168.763" y="54.230" z="-1871.579" ay="-1" />
+                <position x="-85.255" y="58.076" z="-1984.628" ay="-1" />
+            </item>
+        </creator>
+        <creator No="93B59978557C47E7BD661D8F68C636A7" x="1458.999" y="49.999" z="-1768.194" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="npc_xkd_cj_04" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="鳊鱼群">
+                <position x="1454.945" z="-1764.685" ay="-1" />
+                <position x="1463.613" z="-1763.714" ay="-1" />
+                <position x="1460.270" z="-1772.829" ay="-1" />
+            </item>
+        </creator>
+        <creator No="9152792C00B94DCD99478A9D41D4F082" x="980.742" y="79.066" z="-1310.508" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="npc_xkd_cj_01" ay="-1" amount="5" refreshtime="30000" NotPositive="0" desc="芨芨草">
+                <position x="976.590" z="-1304.886" ay="-1" />
+                <position x="977.571" z="-1309.696" ay="-1" />
+                <position x="980.426" z="-1313.578" ay="-1" />
+                <position x="985.251" z="-1313.180" ay="-1" />
+                <position x="985.026" z="-1308.911" ay="-1" />
+            </item>
+        </creator>
+        <creator No="0412D276884A4658AB92C46DA78B9CFD" x="403.932" y="168.843" z="-595.987" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="npc_xkd_cj_01" ay="1.719" amount="5" refreshtime="5" NotPositive="0" desc="芨芨草">
+                <position x="411.078" z="-594.513" ay="1.719" />
+                <position x="407.204" z="-589.732" ay="1.719" />
+                <position x="410.134" z="-599.143" ay="1.719" />
+                <position x="401.920" z="-592.533" ay="1.719" />
+                <position x="403.798" z="-600.852" ay="1.719" />
+            </item>
+        </creator>
+        <creator No="0C154A59E3284F28B066FB2B8412A935" x="222.948" y="64.158" z="-1933.957" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="npc_xkd_cj_02" ay="1.719" amount="1" refreshtime="30000" NotPositive="0" desc="残破书籍" />
+        </creator>
+        <creator No="AC2081BAF3B748C397AE320B6861B042" x="1245.031" y="71.070" z="1018.102" radius="20.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="boxnpc_xkd_10" ay="3.214" amount="3" refreshtime="5" NotPositive="0" desc="灵芝">
+                <position x="1241.216" z="1016.207" ay="3.214" />
+                <position x="1238.995" z="1019.560" ay="3.214" />
+                <position x="1232.801" z="1025.524" ay="3.214" />
+            </item>
+        </creator>
+        <creator No="0021E22620DB4C53A4C60B3A4B1B9186" x="149.101" y="157.766" z="-1164.176" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="71004" TaskSubType="2" HateLink="1">
+            <item No="1" id="gather_xkd_cc_001" ay="-1" amount="5" refreshtime="300000" NotPositive="0" desc="蚀心木">
+                <position x="145.082" z="-1168.928" ay="-1" />
+                <position x="143.812" z="-1166.145" ay="-1" />
+                <position x="146.322" z="-1159.253" ay="-1" />
+                <position x="152.767" z="-1158.690" ay="-1" />
+                <position x="152.426" z="-1166.875" ay="-1" />
+            </item>
+        </creator>
+        <creator No="A17F309BEF5042DE89982C596C1732A9" x="-63.799" y="122.012" z="-1102.643" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="71004" TaskSubType="2" HateLink="1">
+            <item No="1" id="gather_xkd_cc_001" ay="-1" amount="5" refreshtime="300000" NotPositive="0" desc="蚀心木">
+                <position x="-59.883" z="-1098.452" ay="-1" />
+                <position x="-59.848" z="-1103.886" ay="-1" />
+                <position x="-66.141" z="-1097.368" ay="-1" />
+                <position x="-69.368" z="-1102.010" ay="-1" />
+                <position x="-56.511" z="-1101.961" ay="-1" />
+            </item>
+        </creator>
+        <creator No="6716EC4387FD408E98EE61C7FA74FE98" x="-31.163" y="121.753" z="-1099.270" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="gather_xkd_cc_001" ay="-1" amount="5" refreshtime="300000" NotPositive="0" desc="蚀心木">
+                <position x="-36.835" z="-1097.977" ay="-1" />
+                <position x="-36.928" z="-1101.234" ay="-1" />
+                <position x="-33.175" z="-1104.112" ay="-1" />
+                <position x="-26.960" z="-1103.346" ay="-1" />
+                <position x="-25.840" z="-1098.427" ay="-1" />
+            </item>
+        </creator>
+        <creator No="05437C57F3A84CD7BE0F38805269910B" x="-31.746" y="125.652" z="-812.701" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="71004" TaskSubType="2" HateLink="1">
+            <item No="1" id="gather_xkd_cc_001" ay="-1" amount="5" refreshtime="300000" NotPositive="0" desc="蚀心木">
+                <position x="-36.205" z="-810.811" ay="-1" />
+                <position x="-33.135" z="-807.923" ay="-1" />
+                <position x="-27.443" z="-809.713" ay="-1" />
+                <position x="-27.536" z="-816.539" ay="-1" />
+                <position x="-35.091" z="-816.530" ay="-1" />
+            </item>
+        </creator>
+        <creator No="A58F665DD8464160AE458BEAE9EDBB0D" x="269.344" y="120.129" z="-480.453" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="71004" TaskSubType="2" HateLink="1">
+            <item No="1" id="gather_xkd_cc_001" ay="-1" amount="6" refreshtime="300000" NotPositive="0" desc="蚀心木">
+                <position x="270.592" z="-486.096" ay="-1" />
+                <position x="273.105" z="-483.453" ay="-1" />
+                <position x="275.268" z="-479.369" ay="-1" />
+                <position x="270.869" z="-476.443" ay="-1" />
+                <position x="266.888" z="-477.975" ay="-1" />
+                <position x="266.388" z="-485.686" ay="-1" />
+            </item>
+        </creator>
+        <creator No="B706176F390C407DAAE986A82BCE8012" x="612.074" y="107.641" z="-446.615" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="71004" TaskSubType="2" HateLink="1">
+            <item No="1" id="gather_xkd_cc_001" ay="-1" amount="6" refreshtime="300000" NotPositive="0" desc="蚀心木">
+                <position x="606.799" z="-445.648" ay="-1" />
+                <position x="612.241" z="-441.982" ay="-1" />
+                <position x="616.906" z="-443.403" ay="-1" />
+                <position x="616.842" z="-447.752" ay="-1" />
+                <position x="611.240" z="-449.499" ay="-1" />
+                <position x="606.808" z="-442.493" ay="-1" />
+            </item>
+        </creator>
+        <creator No="6E20FAB1E4044F65A82E5D30B20E25C6" x="720.264" y="92.149" z="-700.984" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="71004" TaskSubType="2" HateLink="1">
+            <item No="1" id="gather_xkd_cc_001" ay="-1" amount="6" refreshtime="300000" NotPositive="0" desc="蚀心木">
+                <position x="717.763" z="-705.335" ay="-1" />
+                <position x="716.553" z="-700.243" ay="-1" />
+                <position x="718.476" z="-696.605" ay="-1" />
+                <position x="724.711" z="-698.278" ay="-1" />
+                <position x="724.924" z="-705.280" ay="-1" />
+                <position x="721.434" z="-694.678" ay="-1" />
+            </item>
+        </creator>
+        <creator No="71B16AD684154351AB23BB38438C7184" x="173.912" y="130.169" z="-700.254" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="71004" TaskSubType="2" HateLink="1">
+            <item No="1" id="gather_xkd_cc_001" ay="-1" amount="6" refreshtime="300000" NotPositive="0" desc="蚀心木">
+                <position x="179.115" z="-699.198" ay="-1" />
+                <position x="175.460" z="-705.081" ay="-1" />
+                <position x="169.923" z="-704.775" ay="-1" />
+                <position x="167.622" z="-701.055" ay="-1" />
+                <position x="171.396" z="-695.778" ay="-1" />
+                <position x="176.925" z="-696.701" ay="-1" />
+            </item>
+        </creator>
+        <creator No="336065CE499E4DF58E07A041935FCEEF" x="325.512" y="138.753" z="-829.052" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="71004" TaskSubType="2" HateLink="1">
+            <item No="1" id="gather_xkd_cc_001" ay="-1" amount="6" refreshtime="300000" NotPositive="0" desc="蚀心木">
+                <position x="318.952" z="-827.903" ay="-1" />
+                <position x="324.759" z="-825.257" ay="-1" />
+                <position x="328.209" z="-824.930" ay="-1" />
+                <position x="329.761" z="-831.545" ay="-1" />
+                <position x="322.376" z="-833.858" ay="-1" />
+                <position x="321.232" z="-823.828" ay="-1" />
+            </item>
+        </creator>
+        <creator No="8E4D916B4E07481EAE0671C54464552F" x="519.090" y="148.291" z="-701.925" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="71004" TaskSubType="2" HateLink="1">
+            <item No="1" id="gather_xkd_cc_001" ay="-1" amount="5" refreshtime="300000" NotPositive="0" desc="蚀心木">
+                <position x="514.706" z="-702.901" ay="-1" />
+                <position x="517.878" z="-697.944" ay="-1" />
+                <position x="523.243" z="-699.869" ay="-1" />
+                <position x="519.097" z="-706.411" ay="-1" />
+                <position x="514.941" z="-706.883" ay="-1" />
+            </item>
+        </creator>
+        <creator No="8F597224CA6D40AF80692FD3225800AF" x="26.744" y="165.608" z="-993.991" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="71004" TaskSubType="2" HateLink="1">
+            <item No="1" id="gather_xkd_cc_001" ay="-1" amount="6" refreshtime="300000" NotPositive="0" desc="蚀心木">
+                <position x="28.853" z="-989.344" ay="-1" />
+                <position x="30.732" z="-993.015" ay="-1" />
+                <position x="30.675" z="-998.254" ay="-1" />
+                <position x="26.056" z="-1000.608" ay="-1" />
+                <position x="21.481" z="-992.274" ay="-1" />
+                <position x="23.429" z="-997.258" ay="-1" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

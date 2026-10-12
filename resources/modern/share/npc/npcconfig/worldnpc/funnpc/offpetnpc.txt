@@ -1,0 +1,15 @@
+NPC编号	对象类型	名称	模型编号	头像	类型	NPC种类ID	选择操作分类	鼠标形状	响应范围	脚本编号	是否转身	走路速度	跑步速度	对话类型	生命	AI编辑包	刷新时间	优先显示
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	script	Name	Resource	Photo	NpcType	CKindID	SelectState	CursorShape	SpringRange	LuaScript	NeedRotate	WalkSpeed	RunSpeed	NpcTalkType	LifeTime	AIEditorPackID	RefreshTime	RefreshAtonce
+																		
+OffPetNpc01	OffPetNpc	离线雇佣NPC	npc\b_offpetnpc		78	0	2	2	10		0	1	5					
+OffPetNpc02	OffPetNpc	离线雇佣NPC	npc\g_offpetnpc		78	0	2	2	10		0	1	5					
+OffAbductNpc	OffAbductNpc	装人的麻袋	npc\itemnpc560	icon\funcnpc\itemnpc165.png	79	4	2	28	10	npc\abduct_npc.lua	0	0	0	1	60000		-1	1
+MaDai	CommonNpc	麻袋	npc\itemnpc560	icon\funcnpc\itemnpc165.png	79	4					0				20000		-1	
+																		
+																		
+OffAbductNpc_0	OffAbductNpc	绑匪的麻袋	npc\itemnpc560	icon\funcnpc\itemnpc165.png	79	4	2	28	10	npc\abduct_npc.lua	0	0	0	1	60000		-1	1
+abductednpc_b	OffPetNpc	肉票npc	npc\b_pc		79	0					0	0	0		4000		-1	
+abductednpc_g	OffPetNpc	肉票npc	npc\g_pc		79	0					0	0	0		4000		-1	
+abductednpc_b_huaren	OffPetNpc	肉票npc	npc\b_xinmo		79	0					0	0	0		4000		-1	
+abductednpc_g_huaren	OffPetNpc	肉票npc	npc\g_xinmo		79	0					0	0	0		4000		-1	

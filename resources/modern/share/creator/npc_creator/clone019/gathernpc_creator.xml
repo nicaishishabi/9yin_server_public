@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="FC097D3AB9F5480BBC701F5C868F3229" x="491.052" y="26.339" z="901.766" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="MacClone019012" ay="-1" amount="8" refreshtime="-1" desc="毒使通道假花">
+                <position x="490.033" z="898.670" ay="-1" />
+                <position x="492.564" z="900.060" ay="-1" />
+                <position x="487.763" z="900.202" ay="-1" />
+                <position x="489.088" z="904.618" ay="-1" />
+                <position x="491.185" z="904.249" ay="-1" />
+                <position x="494.024" z="903.762" ay="-1" />
+                <position x="494.278" z="900.839" ay="-1" />
+                <position x="489.156" z="902.844" ay="-1" />
+            </item>
+        </creator>
+        <creator No="E64131E8BD6E41AEB325394BE1020369" x="391.326" y="25.467" z="908.190" radius="3.0" WakeupRange="3.0" ChaseRange="-1.0" PatrolRange="3.0" SpringRange="3" HateLink="1">
+            <item No="1" id="NpcClone019099" ay="-1" amount="3" refreshtime="-1" desc="毒花">
+                <position x="390.313" z="909.253" ay="-1" />
+                <position x="392.297" z="909.865" ay="-1" />
+                <position x="393.237" z="908.338" ay="-1" />
+                <position x="392.628" z="906.371" ay="-1" />
+                <position x="391.515" z="906.450" ay="-1" />
+                <position x="390.405" z="906.163" ay="-1" />
+                <position x="389.505" z="907.902" ay="-1" />
+            </item>
+        </creator>
+        <creator No="D182A0604F53434DADAB188BC8ECDBA7" x="494.993" y="26.790" z="811.923" radius="1.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="GatherClone019003" ay="-1" amount="1" refreshtime="1" desc="杨成">
+                <position x="494.723" z="812.882" ay="-1" BornAction="diedownloop" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

@@ -1,0 +1,52 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	ItemID	ProCount	AddPro	TrackInfoID	DeleteSelf	LockTarget	Radius	SceneID	Water	AddItems	DeleteItems	TargetConfig	TaskID	BufferID
+8751	item_wgm_zxdj_002	1		useiteminfo_8751			5	296				wgm_049		
+8752	item_wgm_zxdj_003	1	1	useiteminfo_8752			5	296						
+8754	item_wgm_punish_02	1	1	useiteminfo_8754	1	1	8	296	0	item_wgm_gongci		wgm_032	49820	
+8755	item_wgm_punish_03	1	1	useiteminfo_8755	1	1	8	296	0	item_wgm_gongci		wgm_032	49820	
+8756	item_wgm_punish_04	1	1	useiteminfo_8756	1	1	8	296	0	item_wgm_gongci		wgm_032	49820	
+8757	item_wgm_punish_05	1	1	useiteminfo_8757	1	1	8	296	0	item_wgm_gongci		wgm_032	49820	
+8758	item_wgm_punish_01	1	1	useiteminfo_8758	1	1	8	296	0	item_wgm_gongci		wgm_033	49820	
+8759	item_wgm_punish_02	1	1	useiteminfo_8759	1	1	8	296	0	item_wgm_gongci		wgm_033	49820	
+8760	item_wgm_punish_03	1	1	useiteminfo_8760	1	1	8	296	0	item_wgm_gongci		wgm_033	49820	
+8761	item_wgm_punish_04	1	1	useiteminfo_8761	1	1	8	296	0	item_wgm_gongci		wgm_033	49820	
+8762	item_wgm_punish_05	1	1	useiteminfo_8762	1	1	8	296	0	item_wgm_gongci		wgm_033	49820	
+8763	item_wgm_punish_01	1	1	useiteminfo_8763	1	1	8	296	0	item_wgm_gongci		wgm_034	49820	
+8764	item_wgm_punish_02	1	1	useiteminfo_8764	1	1	8	296	0	item_wgm_gongci		wgm_034	49820	
+8765	item_wgm_punish_03	1	1	useiteminfo_8765	1	1	8	296	0	item_wgm_gongci		wgm_034	49820	
+8766	item_wgm_punish_04	1	1	useiteminfo_8766	1	1	8	296	0	item_wgm_gongci		wgm_034	49820	
+8767	item_wgm_punish_05	1	1	useiteminfo_8767	1	1	8	296	0	item_wgm_gongci		wgm_034	49820	
+8768	item_wgm_punish_01	1	1	useiteminfo_8768	1	1	8	296	0	item_wgm_gongci		wgm_035	49820	
+8769	item_wgm_punish_02	1	1	useiteminfo_8769	1	1	8	296	0	item_wgm_gongci		wgm_035	49820	
+8770	item_wgm_punish_03	1	1	useiteminfo_8770	1	1	8	296	0	item_wgm_gongci		wgm_035	49820	
+8771	item_wgm_punish_04	1	1	useiteminfo_8771	1	1	8	296	0	item_wgm_gongci		wgm_035	49820	
+8772	item_wgm_punish_05	1	1	useiteminfo_8772	1	1	8	296	0	item_wgm_gongci		wgm_035	49820	
+8773	item_wgm_punish_01	1	1	useiteminfo_8773	1	1	8	296	0	item_wgm_gongci		wgm_036	49820	
+8774	item_wgm_punish_02	1	1	useiteminfo_8774	1	1	8	296	0	item_wgm_gongci		wgm_036	49820	
+8775	item_wgm_punish_03	1	1	useiteminfo_8775	1	1	8	296	0	item_wgm_gongci		wgm_036	49820	
+8776	item_wgm_punish_04	1	1	useiteminfo_8776	1	1	8	296	0	item_wgm_gongci		wgm_036	49820	
+8777	item_wgm_punish_05	1	1	useiteminfo_8777	1	1	8	296	0	item_wgm_gongci		wgm_036	49820	
+8778	item_wgm_message	1	1	useiteminfo_8778	1		5	15	0			Trigger_wgm_004	49823	
+8782	item_wgm_zxdj_003	1		useiteminfo_8782		1	5	14			item_wgm_zxdj_003	wgm_065	49533	
+8920	useitem_wgm_dy_hg	1	1	useiteminfo_8920	1		5	15		useitem_wgm_dy_bx		NPC_wgm_dy_mhg	49540	buf_wgm_dy_mhg
+8801	useitem_wgm_glm_02	1	1	useiteminfo_8801	1			5	0				49553	buf_wgm_glm_pretend
+8921	useitem_wgm_dy_bx	1	1	useiteminfo_8921	1		5	15				NPC_wgm_dy_bx	49540	buf_wgm_dy_bx
+8800	useitem_wgm_glm_01	1	1	useiteminfo_8800	1			15					49550	buf_wgm_glm_sex
+8750	item_wgm_zxdj_001	1	1	useiteminfo_8750		1	5	296		item_wgm_zx003	item_wgm_zxdj_001	wgm_049		
+8922	useitem_wgm_dy_md	1	1	useiteminfo_8922	1			15		useitem_wgm_dy_md1			49542	buf_wgm_dy_dkmd
+8923	useitem_wgm_dy_hb	1	1	useiteminfo_8923	1			15		useitem_wgm_dy_hb1			49542	buf_wgm_dy_hb
+8924	useitem_wgm_dy_md1	1	1	useiteminfo_8924	1			15					49542	buf_wgm_dy_dkmd1
+8781	item_wgm_zxdj_002	1	1	useiteminfo_8781	1	1	5	14				wgm_064	49532	
+8926	item_wgm_cc_8952	1	1	useiteminfo_8926	1			296	0	item_wgm_cc_8926			49573	
+8931	useitem_wgm_dy_yp	1	1	useiteminfo_8931	1		5	15				Event_wgm_dy_49543a	49543	buf_wgm_dy_fyp
+8925	useitem_wgm_dy_hb1	1	1	useiteminfo_8925	1		5	15		useitem_wgm_dy_yp		Event_wgm_dy_49543a	49543	buf_wgm_dy_hbhy
+8927	item_wgm_cc_s8927	1	1	useiteminfo_8927	1	1	2	296	0			npc_wgm_cc_007	49576	buf_wgm_cc_s8927
+8928	item_wgm_cc_s8928	1	1	useiteminfo_8928	1	1	2	296	0			npc_wgm_cc_007	49576	buf_wgm_cc_s8928
+8929	item_wgm_cc_s8929	1	1	useiteminfo_8929	1	1	2	296	0			npc_wgm_cc_007	49576	buf_wgm_cc_s8929
+8933	useitem_wgm_dy_yy	1	1	useiteminfo_8933	1		40	15				Event_wgm_dy_49546	49546	buf_wgm_dy_hz
+8930	item_wgm_cc_j8956	1	1	useiteminfo_8930	1		2	296	0			Event_npc_wgm_cc_8927		buf_wgm_cc_49572
+8932	useitem_wgm_dy_fgcs	1	1	useiteminfo_8932	1		5	15				Event_wgm_dy_49541a	49541	buf_wgm_dy_fgcs
+8802	useitem_wgm_glm_03	1	1	useiteminfo_8802	1	1	2	5	0			wgm_glm_009	49553	
+8753	item_wgm_punish_01	1	1	useiteminfo_8753	1	1	8	296	0	item_wgm_gongci		wgm_032	49820	
+8779	item_wgm_message	1	1	useiteminfo_8779	1		5	15	0			Trigger_wgm_005	49823	
+8780	item_wgm_message	1	1	useiteminfo_8780	1		5	15	0			Trigger_wgm_006	49823	

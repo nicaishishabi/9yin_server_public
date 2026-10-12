@@ -1,0 +1,65 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	NpcId	SceneID	DialogID	GetItems	LostItems	TrackInfo	OkMenu	TaskID	HideNpcID	BufferID
+72301	npc_ftask_001	16	DialogID_72301			interactinfo_72301	okmenu_72301	72301		
+72302	npc_ftask_002	16	DialogID_72302			interactinfo_72302	okmenu_72302	72301		
+72303	npc_ftask_004	16	DialogID_72303			interactinfo_72303	okmenu_72303	72301		
+72304	npc_ftask_006	16	DialogID_72304			interactinfo_72304	okmenu_72304	72301		
+72305	npc_ftask_008	16	DialogID_72305			interactinfo_72305	okmenu_72305	72301		
+72306	EventNpc_wywl_003	725	DialogID_72306			interactinfo_72306	okmenu_72306	72302		
+72307	EventNpc_ftask_002	2	DialogID_72307			interactinfo_72307	okmenu_72307			
+72308	npc_ftask_044	725	DialogID_72308	item_4yjq_003-1|item_4yjq_004-1|item_juqing_002-1		interactinfo_72308	okmenu_72308	72304		
+72309	npc_ftask_063	725	DialogID_72309			interactinfo_72309	okmenu_72309	72330		
+72310	npc_ftask_078	725	DialogID_72310			interactinfo_72310	okmenu_72310	72330		
+72311	npc_ftask_080	725	DialogID_72311			interactinfo_72311	okmenu_72311	72331		
+72312	npc_ftask_063	725	DialogID_72312	useitem_4yjq_001-1		interactinfo_72312	okmenu_72312	72331		
+72313	npc_ftask_080	725	DialogID_72313			interactinfo_72313	okmenu_72313	72331		
+72314	npc_ftask_081	725	DialogID_72314			interactinfo_72314	okmenu_72314	72331		
+72315	npc_ftask_081	725				interactinfo_72315		72331		
+72316	npc_ftask_084	725	DialogID_72316			interactinfo_72316	okmenu_72316	72332		
+72317	EventNpc_jqwf_xjq_004	725				interactinfo_72317		72332		
+72318	EventNpc交互播放电影	725				interactinfo_72318				
+72319	EventNpc交互播放电影	725				interactinfo_72319				
+72320	npc_ftask_063	725	DialogID_72320			interactinfo_72320	okmenu_72320	72333		
+72321	npc_ftask_064	725	DialogID_72321			interactinfo_72321	okmenu_72321	72333		
+72322	npc_ftask_097	725	DialogID_72322			interactinfo_72322	okmenu_72322	72333		
+72323	EventNpc_jqwf_xjq_007	725	DialogID_72323			interactinfo_72323	okmenu_72323	72334		
+72324	npc_ftask_096	725	DialogID_72324			interactinfo_72324	okmenu_72324	72336		
+72325	npc_ftask_097	725	DialogID_72325			interactinfo_72325	okmenu_72325	72336		
+72326	EventNpc_jqwf_xjq_011	725				interactinfo_72326		72336		
+72327	npc_ftask_027	725	DialogID_72327			interactinfo_72327	okmenu_72327	72305		
+72328	npc_ftask_027	725	DialogID_72328	taskitem_4yuejuqing_002-1		interactinfo_72328	okmenu_72328	72306		
+72329	EventNpc_jqwf_xjq_001	725	DialogID_72329			interactinfo_72329	okmenu_72329	72307		
+72330	触发器控制播放电影									
+72331	npc_ftask_063	725	DialogID_72331		item_4yjq_005-1	interactinfo_72331	okmenu_72331	72309		
+72332	WorldNpc00212	12	DialogID_72332	useitem_4yjq_005-1		interactinfo_72332	okmenu_72332	72310		
+72333	WorldNpc00212	12								
+72334	npc_ftask_066	3	DialogID_72334			interactinfo_72334	okmenu_72334	72312		
+72335	WorldNpc03816	8	DialogID_72335			interactinfo_72335	okmenu_72335	72314		
+72336	npc_ftask_124	13	DialogID_72336			interactinfo_72336	okmenu_72336	72315		
+72337	npc_ftask_072	13	DialogID_72337	item_4yjq_006-1		interactinfo_72337	okmenu_72337	72315		
+72338	npc_ftask_067	725	DialogID_72338		item_4yjq_002-1	interactinfo_72338	okmenu_72338	72317		
+72339	EventNpc_wywl_002	725	DialogID_72339			interactinfo_72339	okmenu_72339	72317		
+72340	npc_ftask_063	725	DialogID_72340			interactinfo_72340	okmenu_72340	72318		
+72341	npc_ftask_125	725	DialogID_72341			interactinfo_72341	okmenu_72341	72318		
+72342	npc_ftask_063	725	DialogID_72342			interactinfo_72342	okmenu_72342	72318		
+72343	npc_ftask_123	725	DialogID_72343	item_jqwf_001-3		interactinfo_72343	okmenu_72343	72307		
+72344	EventNpc_jqwf_xjq_009	725				interactinfo_72344		72335		
+72345	npc_ftask_066	3	DialogID_72345	useitem_4yjq_007-1		interactinfo_72345	okmenu_72345	72313		
+72346	EventNpc_jqwf_xjq_014	725	DialogID_72346			interactinfo_72346	okmenu_72346	72317		
+72347	EventNpc_jqwf_xjq_012	13	DialogID_72347			interactinfo_72347	okmenu_72347	72315		
+72348	WorldNpc00212	12	DialogID_72348	taskitem_4yuejuqing_003-1		interactinfo_72348	okmenu_72348	72311		
+72349	npc_ftask_066	3	DialogID_72349			interactinfo_72349	okmenu_72349			
+72350	npc_ftask_065	3	DialogID_72350		taskitem_4yuejuqing_003-1	interactinfo_72350	okmenu_72350			
+72363	EventNpc_jqwf_xjq_001_b	725				interactinfo_72363				
+72351	npc_ftask_063	725	DialogID_72351			interactinfo_72351	okmenu_72351	72337		
+72352	npc_ftask_063	725	DialogID_72352			interactinfo_72352	okmenu_72352	72338		
+72353	EventNpc_jqwf_xjq_016	725	DialogID_72353			interactinfo_72353	okmenu_72353	72338		
+72354	npc_ftask_063	725	DialogID_72354			interactinfo_72354	okmenu_72354	72338		
+72355	EventNpc_jqwf_xjq_017	725	DialogID_72355			interactinfo_72355	okmenu_72355	72339		
+72357	EventNpc_jqwf_xjq_018	725				interactinfo_72357		72339		
+72358	npc_ftask_063	725	DialogID_72358			interactinfo_72358	okmenu_72358	72340		
+72359	EventNpc_jqwf_xjq_020	725				interactinfo_72359		72340		
+72360	EventNpc_jqwf_xjq_022	725	DialogID_72360			interactinfo_72360		72341		
+72361	npc_ftask_063	725	DialogID_72361			interactinfo_72361	okmenu_72361	72342		
+72356	npc_jqwfmd_001	725	DialogID_72356			interactinfo_72356	okmenu_72356	72339		
+72362	npc_ftask_063	725	DialogID_72362			interactinfo_72362	okmenu_72362	72342		

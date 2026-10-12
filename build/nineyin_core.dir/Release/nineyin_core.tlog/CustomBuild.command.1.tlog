@@ -1,0 +1,10 @@
+^D:\RJDIR\ADMIN_98626617-3896-47E0-B5DE-CFE58B401590\DESKTOP\PROJECT\9YIN-CPP-SERVER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/RjDir/admin_98626617-3896-47e0-b5de-cfe58b401590/Desktop/project/9yin-cpp-server -BD:/RjDir/admin_98626617-3896-47e0-b5de-cfe58b401590/Desktop/project/9yin-cpp-server/build --check-stamp-file D:/RjDir/admin_98626617-3896-47e0-b5de-cfe58b401590/Desktop/project/9yin-cpp-server/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

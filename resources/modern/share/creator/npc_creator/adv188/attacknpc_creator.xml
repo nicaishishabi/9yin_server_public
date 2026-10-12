@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object>
+	<randomcreator>
+		<creator No="3C4E5C8992A446C6875A54316CF68D3A" x="-942.966" y="128.982" z="-1703.732" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_001" ay="4.733" amount="2" refreshtime="-1" NotPositive="0" desc="歌姬">
+				<position x="-942.616" z="-1701.128" ay="4.733"/>
+				<position x="-942.154" z="-1706.430" ay="4.761"/>
+			</item>
+		</creator>
+		<creator No="9AE603B12652417785170523AF8BB367" x="-944.678" y="128.982" z="-1725.262" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_002" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="剑术大师">
+				<position x="-944.245" z="-1727.660" ay="5.798" WeaponName="b_r_npcitem061" WeaponMode="gblade1_1"/>
+				<position x="-944.492" z="-1722.896" ay="5.813" WeaponName="b_r_npcitem061" WeaponMode="gblade1_1"/>
+			</item>
+		</creator>
+		<creator No="8951D93A7CA640DA972A5A2959B55BC4" x="-926.116" y="122.002" z="-1677.294" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_003" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="下忍男">
+				<position x="-926.704" z="-1679.759" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-925.813" z="-1674.287" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="AD934B848C8C4475A6461B07C955FE00" x="-912.946" y="122.002" z="-1657.377" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_004" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="下忍女">
+				<position x="-915.757" z="-1657.153" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-910.635" z="-1657.733" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="13739B050A79441C87B606E7219140FD" x="-882.256" y="132.260" z="-1589.644" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_005" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="中忍男">
+				<position x="-883.087" z="-1587.430" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-882.858" z="-1591.451" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="B42ED98C2E4E4AD8955DF57B0DC91499" x="-796.462" y="138.748" z="-1665.507" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_006" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="中忍女">
+				<position x="-793.510" z="-1665.626" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-799.039" z="-1666.346" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="EBC8F529C1F14521A9E79D5CCD844000" x="-819.198" y="138.588" z="-1625.527" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_007" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="上忍男">
+				<position x="-818.482" z="-1628.501" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-819.300" z="-1622.700" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="5CCBED2EE1BB4606BAF453E1002AE975" x="-726.149" y="103.562" z="-1500.055" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_008" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="上忍女">
+				<position x="-729.179" z="-1500.107" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-723.395" z="-1500.270" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="DF83A76A68A54861ADDDB6A1E018B0EA" x="-686.823" y="103.562" z="-1505.762" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_009" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="足轻">
+				<position x="-687.344" z="-1503.193" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-686.810" z="-1508.212" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="84837C2917934C2FA1A11C0ED7315637" x="-967.183" y="138.387" z="-1758.565" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_001" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="歌姬">
+				<position x="-970.150" z="-1758.978" ay="5.798"/>
+				<position x="-965.275" z="-1759.118" ay="5.798"/>
+			</item>
+		</creator>
+		<creator No="626E71B9BD1E40E6943046038A949232" x="-947.854" y="138.388" z="-1771.745" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_002" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="剑术大师">
+				<position x="-947.260" z="-1774.908" ay="5.798" WeaponName="b_r_npcitem061" WeaponMode="gblade1_1"/>
+				<position x="-947.249" z="-1769.715" ay="5.798" WeaponName="b_r_npcitem061" WeaponMode="gblade1_1"/>
+			</item>
+		</creator>
+		<creator No="6FB9C65D7A824B41BA1F73D4314DDCAC" x="-868.036" y="138.699" z="-1773.385" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_003" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="下忍男">
+				<position x="-868.226" z="-1770.422" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-868.532" z="-1776.277" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="77C747CC197D4147BDFEF98EB455D29D" x="-811.984" y="138.508" z="-1794.320" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_005" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="中忍男">
+				<position x="-809.316" z="-1794.956" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-814.276" z="-1794.488" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="2264EA75EA3A4F24BEC46C50E086BBD4" x="-747.422" y="122.863" z="-1805.951" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_006" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="中忍女">
+				<position x="-746.404" z="-1803.475" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-748.271" z="-1807.882" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="026EB18E7742481DA6F5358BB57A0846" x="-784.332" y="138.588" z="-1767.462" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_004" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="下忍女">
+				<position x="-784.728" z="-1764.654" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-784.685" z="-1769.588" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="2352444974D74C7F9DEDB27714789F31" x="-670.669" y="122.982" z="-1799.910" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_007" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="上忍男">
+				<position x="-673.088" z="-1799.203" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-667.506" z="-1799.813" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="A99CCBC8EFB24F8680664AB32B4E2C73" x="-540.193" y="98.635" z="-1801.773" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_008" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="上忍女">
+				<position x="-542.397" z="-1800.959" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-536.925" z="-1801.618" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="F7179439B1424C5B9623F42CEBA64809" x="-649.547" y="148.995" z="-1619.246" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_004" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="下忍女">
+				<position x="-650.053" z="-1617.024" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-649.823" z="-1621.438" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="F1CE45413690432083AA73BA5F54120D" x="-736.343" y="148.995" z="-1618.059" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_003" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="下忍男">
+				<position x="-738.887" z="-1618.001" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-733.522" z="-1618.151" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="3537C65E66C14719969C7D880A1267C9" x="-737.989" y="148.995" z="-1734.446" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_002" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="剑术大师">
+				<position x="-738.112" z="-1736.769" ay="5.798" WeaponName="b_r_npcitem061" WeaponMode="gblade1_1"/>
+				<position x="-737.883" z="-1731.883" ay="5.798" WeaponName="b_r_npcitem061" WeaponMode="gblade1_1"/>
+			</item>
+		</creator>
+		<creator No="3CFEB262A15C4FC8B410D03815713FB5" x="-645.386" y="148.995" z="-1735.934" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_001" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="歌姬">
+				<position x="-645.452" z="-1733.839" ay="5.798"/>
+				<position x="-645.718" z="-1738.029" ay="5.798"/>
+			</item>
+		</creator>
+		<creator No="13C3A3F103D348C0959DD97434C3DF58" x="-672.019" y="148.995" z="-1669.664" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_005" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="中忍男">
+				<position x="-669.691" z="-1668.878" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-674.429" z="-1668.888" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="1C710F44475A4660AC49B17B6BEFD415" x="-687.784" y="166.942" z="-1652.671" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_007" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="上忍男">
+				<position x="-689.567" z="-1652.241" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-686.064" z="-1652.824" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="AE2E222518B44465B50E85B6FA1FDCB4" x="-688.160" y="166.939" z="-1686.118" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_006" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="中忍女">
+				<position x="-686.259" z="-1685.299" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-690.371" z="-1684.833" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="4F8034EFA7EF4550A371F7B4DD523C6C" x="-527.443" y="71.415" z="-1624.264" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_008" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="上忍女">
+				<position x="-527.153" z="-1621.851" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-527.186" z="-1627.275" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="1951BED7F0804F4E93D580F37B508959" x="-535.407" y="84.210" z="-1517.311" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_007" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="上忍男">
+				<position x="-535.010" z="-1515.481" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-534.588" z="-1520.319" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="6B89AAD832F04B8795D2D97BBB25A508" x="-571.160" y="90.460" z="-1509.598" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_006" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="中忍女">
+				<position x="-570.709" z="-1507.232" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-571.341" z="-1512.972" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="CA3198F8DB344DDAB1B1D5C75DB21E72" x="-624.289" y="90.460" z="-1489.637" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_005" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="中忍男">
+				<position x="-624.015" z="-1492.584" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-624.515" z="-1487.442" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="BBBEE421B69743E1835AD5988B5D1659" x="-569.410" y="97.165" z="-1587.810" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_004" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="下忍女">
+				<position x="-570.382" z="-1590.406" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-569.609" z="-1585.599" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="4A8F2AE4AE274ACCBC1463280E46DB13" x="-571.074" y="121.501" z="-1658.419" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_003" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="下忍男">
+				<position x="-567.964" z="-1658.220" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-573.523" z="-1659.282" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="3D39E780218A492683B790551E1556D6" x="-619.479" y="122.774" z="-1585.867" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_002" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="剑术大师">
+				<position x="-616.752" z="-1586.406" ay="5.798" WeaponName="b_r_npcitem061" WeaponMode="gblade1_1"/>
+				<position x="-622.127" z="-1585.092" ay="5.798" WeaponName="b_r_npcitem061" WeaponMode="gblade1_1"/>
+			</item>
+		</creator>
+		<creator No="6789375E4B454CA2B7FD3AF0AE00B90A" x="-620.515" y="147.461" z="-1649.089" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_001" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="歌姬">
+				<position x="-622.456" z="-1649.391" ay="5.798"/>
+				<position x="-618.817" z="-1649.580" ay="5.798"/>
+			</item>
+		</creator>
+		<creator No="A64E67EA1FD043BE8474BE77FE8527C5" x="-691.810" y="166.941" z="-1669.229" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_014" ay="5.798" amount="1" refreshtime="-1" NotPositive="0" desc="武士3"/>
+		</creator>
+		<creator No="EFC2670DA43542E1886B6F99881FE670" x="-512.708" y="84.210" z="-1517.316" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_013" sx="2.000" sy="2.000" sz="2.000" ay="5.798" amount="1" refreshtime="-1" NotPositive="0" desc="武士2"/>
+		</creator>
+		<creator No="D8F31D46DE184E98887AC34D851FC24B" x="-697.234" y="103.563" z="-1510.681" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_012" sx="2.000" sy="2.000" sz="2.000" ay="5.798" amount="1" refreshtime="-1" NotPositive="0" desc="武士1"/>
+		</creator>
+		<creator No="3C4E5C8992A446C6875A54316CF68D3A" x="-942.966" y="128.982" z="-1703.732" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_001a" ay="4.733" amount="2" refreshtime="-1" NotPositive="0" desc="歌姬">
+				<position x="-942.616" z="-1701.128" ay="4.733"/>
+				<position x="-942.154" z="-1706.430" ay="4.761"/>
+			</item>
+		</creator>
+		<creator No="9AE603B12652417785170523AF8BB367" x="-944.678" y="128.982" z="-1725.262" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_002a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="剑术大师">
+				<position x="-944.245" z="-1727.660" ay="5.798" WeaponName="b_r_npcitem061" WeaponMode="gblade1_1"/>
+				<position x="-944.492" z="-1722.896" ay="5.813" WeaponName="b_r_npcitem061" WeaponMode="gblade1_1"/>
+			</item>
+		</creator>
+		<creator No="8951D93A7CA640DA972A5A2959B55BC4" x="-926.116" y="122.002" z="-1677.294" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_003a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="下忍男">
+				<position x="-926.704" z="-1679.759" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-925.813" z="-1674.287" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="AD934B848C8C4475A6461B07C955FE00" x="-912.946" y="122.002" z="-1657.377" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_004a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="下忍女">
+				<position x="-915.757" z="-1657.153" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-910.635" z="-1657.733" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="13739B050A79441C87B606E7219140FD" x="-882.256" y="132.260" z="-1589.644" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_005a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="中忍男">
+				<position x="-883.087" z="-1587.430" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-882.858" z="-1591.451" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="B42ED98C2E4E4AD8955DF57B0DC91499" x="-796.462" y="138.748" z="-1665.507" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_006a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="中忍女">
+				<position x="-793.510" z="-1665.626" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-799.039" z="-1666.346" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="EBC8F529C1F14521A9E79D5CCD844000" x="-819.198" y="138.588" z="-1625.527" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_007a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="上忍男">
+				<position x="-818.482" z="-1628.501" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-819.300" z="-1622.700" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="5CCBED2EE1BB4606BAF453E1002AE975" x="-726.149" y="103.562" z="-1500.055" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_008a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="上忍女">
+				<position x="-729.179" z="-1500.107" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-723.395" z="-1500.270" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="DF83A76A68A54861ADDDB6A1E018B0EA" x="-686.823" y="103.562" z="-1505.762" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_009a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="足轻">
+				<position x="-687.344" z="-1503.193" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-686.810" z="-1508.212" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="84837C2917934C2FA1A11C0ED7315637" x="-967.183" y="138.387" z="-1758.565" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_001a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="歌姬">
+				<position x="-970.150" z="-1758.978" ay="5.798"/>
+				<position x="-965.275" z="-1759.118" ay="5.798"/>
+			</item>
+		</creator>
+		<creator No="626E71B9BD1E40E6943046038A949232" x="-947.854" y="138.388" z="-1771.745" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_002a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="剑术大师">
+				<position x="-947.260" z="-1774.908" ay="5.798" WeaponName="b_r_npcitem061" WeaponMode="gblade1_1"/>
+				<position x="-947.249" z="-1769.715" ay="5.798" WeaponName="b_r_npcitem061" WeaponMode="gblade1_1"/>
+			</item>
+		</creator>
+		<creator No="6FB9C65D7A824B41BA1F73D4314DDCAC" x="-868.036" y="138.699" z="-1773.385" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_003a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="下忍男">
+				<position x="-868.226" z="-1770.422" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-868.532" z="-1776.277" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="77C747CC197D4147BDFEF98EB455D29D" x="-811.984" y="138.508" z="-1794.320" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_005a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="中忍男">
+				<position x="-809.316" z="-1794.956" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-814.276" z="-1794.488" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="2264EA75EA3A4F24BEC46C50E086BBD4" x="-747.422" y="122.863" z="-1805.951" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_006a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="中忍女">
+				<position x="-746.404" z="-1803.475" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-748.271" z="-1807.882" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="026EB18E7742481DA6F5358BB57A0846" x="-784.332" y="138.588" z="-1767.462" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_004a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="下忍女">
+				<position x="-784.728" z="-1764.654" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-784.685" z="-1769.588" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="2352444974D74C7F9DEDB27714789F31" x="-670.669" y="122.982" z="-1799.910" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_007a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="上忍男">
+				<position x="-673.088" z="-1799.203" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-667.506" z="-1799.813" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="A99CCBC8EFB24F8680664AB32B4E2C73" x="-540.193" y="98.635" z="-1801.773" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_008a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="上忍女">
+				<position x="-542.397" z="-1800.959" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-536.925" z="-1801.618" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="F7179439B1424C5B9623F42CEBA64809" x="-649.547" y="148.995" z="-1619.246" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_004a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="下忍女">
+				<position x="-650.053" z="-1617.024" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-649.823" z="-1621.438" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="F1CE45413690432083AA73BA5F54120D" x="-736.343" y="148.995" z="-1618.059" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_003a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="下忍男">
+				<position x="-738.887" z="-1618.001" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-733.522" z="-1618.151" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="3537C65E66C14719969C7D880A1267C9" x="-737.989" y="148.995" z="-1734.446" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_002a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="剑术大师">
+				<position x="-738.112" z="-1736.769" ay="5.798" WeaponName="b_r_npcitem061" WeaponMode="gblade1_1"/>
+				<position x="-737.883" z="-1731.883" ay="5.798" WeaponName="b_r_npcitem061" WeaponMode="gblade1_1"/>
+			</item>
+		</creator>
+		<creator No="3CFEB262A15C4FC8B410D03815713FB5" x="-645.386" y="148.995" z="-1735.934" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_001a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="歌姬">
+				<position x="-645.452" z="-1733.839" ay="5.798"/>
+				<position x="-645.718" z="-1738.029" ay="5.798"/>
+			</item>
+		</creator>
+		<creator No="13C3A3F103D348C0959DD97434C3DF58" x="-672.019" y="148.995" z="-1669.664" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_005a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="中忍男">
+				<position x="-669.691" z="-1668.878" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-674.429" z="-1668.888" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="1C710F44475A4660AC49B17B6BEFD415" x="-687.784" y="166.942" z="-1652.671" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_007a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="上忍男">
+				<position x="-689.567" z="-1652.241" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-686.064" z="-1652.824" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="AE2E222518B44465B50E85B6FA1FDCB4" x="-688.160" y="166.939" z="-1686.118" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_006a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="中忍女">
+				<position x="-686.259" z="-1685.299" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-690.371" z="-1684.833" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="4F8034EFA7EF4550A371F7B4DD523C6C" x="-527.443" y="71.415" z="-1624.264" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_008a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="上忍女">
+				<position x="-527.153" z="-1621.851" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-527.186" z="-1627.275" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="1951BED7F0804F4E93D580F37B508959" x="-535.407" y="84.210" z="-1517.311" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_007a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="上忍男">
+				<position x="-535.010" z="-1515.481" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-534.588" z="-1520.319" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="6B89AAD832F04B8795D2D97BBB25A508" x="-571.160" y="90.460" z="-1509.598" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_006a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="中忍女">
+				<position x="-570.709" z="-1507.232" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-571.341" z="-1512.972" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="CA3198F8DB344DDAB1B1D5C75DB21E72" x="-624.289" y="90.460" z="-1489.637" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_005a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="中忍男">
+				<position x="-624.015" z="-1492.584" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-624.515" z="-1487.442" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="BBBEE421B69743E1835AD5988B5D1659" x="-569.410" y="97.165" z="-1587.810" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_004a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="下忍女">
+				<position x="-570.382" z="-1590.406" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-569.609" z="-1585.599" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="4A8F2AE4AE274ACCBC1463280E46DB13" x="-571.074" y="121.501" z="-1658.419" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_003a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="下忍男">
+				<position x="-567.964" z="-1658.220" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-573.523" z="-1659.282" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="3D39E780218A492683B790551E1556D6" x="-619.479" y="122.774" z="-1585.867" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_002a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="剑术大师">
+				<position x="-616.752" z="-1586.406" ay="5.798" WeaponName="b_r_npcitem061" WeaponMode="gblade1_1"/>
+				<position x="-622.127" z="-1585.092" ay="5.798" WeaponName="b_r_npcitem061" WeaponMode="gblade1_1"/>
+			</item>
+		</creator>
+		<creator No="6789375E4B454CA2B7FD3AF0AE00B90A" x="-620.515" y="147.461" z="-1649.089" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_001a" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="歌姬">
+				<position x="-622.456" z="-1649.391" ay="5.798"/>
+				<position x="-618.817" z="-1649.580" ay="5.798"/>
+			</item>
+		</creator>
+		<creator No="A64E67EA1FD043BE8474BE77FE8527C5" x="-691.810" y="166.941" z="-1669.229" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_014a" ay="5.798" amount="1" refreshtime="-1" NotPositive="0" desc="武士3"/>
+		</creator>
+		<creator No="EFC2670DA43542E1886B6F99881FE670" x="-512.708" y="84.210" z="-1517.316" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_013a" sx="2.000" sy="2.000" sz="2.000" ay="5.798" amount="1" refreshtime="-1" NotPositive="0" desc="武士2"/>
+		</creator>
+		<creator No="D8F31D46DE184E98887AC34D851FC24B" x="-697.234" y="103.563" z="-1510.681" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_012a" sx="2.000" sy="2.000" sz="2.000" ay="5.798" amount="1" refreshtime="-1" NotPositive="0" desc="武士1"/>
+		</creator>
+		<creator No="3C4E5C8992A446C6875A54316CF68D3A" x="-942.966" y="128.982" z="-1703.732" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_001b" ay="4.733" amount="2" refreshtime="-1" NotPositive="0" desc="歌姬">
+				<position x="-942.616" z="-1701.128" ay="4.733"/>
+				<position x="-942.154" z="-1706.430" ay="4.761"/>
+			</item>
+		</creator>
+		<creator No="9AE603B12652417785170523AF8BB367" x="-944.678" y="128.982" z="-1725.262" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_002b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="剑术大师">
+				<position x="-944.245" z="-1727.660" ay="5.798" WeaponName="b_r_npcitem061" WeaponMode="gblade1_1"/>
+				<position x="-944.492" z="-1722.896" ay="5.813" WeaponName="b_r_npcitem061" WeaponMode="gblade1_1"/>
+			</item>
+		</creator>
+		<creator No="8951D93A7CA640DA972A5A2959B55BC4" x="-926.116" y="122.002" z="-1677.294" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_003b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="下忍男">
+				<position x="-926.704" z="-1679.759" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-925.813" z="-1674.287" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="AD934B848C8C4475A6461B07C955FE00" x="-912.946" y="122.002" z="-1657.377" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_004b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="下忍女">
+				<position x="-915.757" z="-1657.153" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-910.635" z="-1657.733" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="13739B050A79441C87B606E7219140FD" x="-882.256" y="132.260" z="-1589.644" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_005b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="中忍男">
+				<position x="-883.087" z="-1587.430" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-882.858" z="-1591.451" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="B42ED98C2E4E4AD8955DF57B0DC91499" x="-796.462" y="138.748" z="-1665.507" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_006b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="中忍女">
+				<position x="-793.510" z="-1665.626" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-799.039" z="-1666.346" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="EBC8F529C1F14521A9E79D5CCD844000" x="-819.198" y="138.588" z="-1625.527" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_007b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="上忍男">
+				<position x="-818.482" z="-1628.501" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-819.300" z="-1622.700" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="5CCBED2EE1BB4606BAF453E1002AE975" x="-726.149" y="103.562" z="-1500.055" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_008b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="上忍女">
+				<position x="-729.179" z="-1500.107" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-723.395" z="-1500.270" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="DF83A76A68A54861ADDDB6A1E018B0EA" x="-686.823" y="103.562" z="-1505.762" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_009b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="足轻">
+				<position x="-687.344" z="-1503.193" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-686.810" z="-1508.212" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="84837C2917934C2FA1A11C0ED7315637" x="-967.183" y="138.387" z="-1758.565" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_001b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="歌姬">
+				<position x="-970.150" z="-1758.978" ay="5.798"/>
+				<position x="-965.275" z="-1759.118" ay="5.798"/>
+			</item>
+		</creator>
+		<creator No="626E71B9BD1E40E6943046038A949232" x="-947.854" y="138.388" z="-1771.745" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_002b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="剑术大师">
+				<position x="-947.260" z="-1774.908" ay="5.798" WeaponName="b_r_npcitem061" WeaponMode="gblade1_1"/>
+				<position x="-947.249" z="-1769.715" ay="5.798" WeaponName="b_r_npcitem061" WeaponMode="gblade1_1"/>
+			</item>
+		</creator>
+		<creator No="6FB9C65D7A824B41BA1F73D4314DDCAC" x="-868.036" y="138.699" z="-1773.385" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_003b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="下忍男">
+				<position x="-868.226" z="-1770.422" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-868.532" z="-1776.277" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="77C747CC197D4147BDFEF98EB455D29D" x="-811.984" y="138.508" z="-1794.320" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_005b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="中忍男">
+				<position x="-809.316" z="-1794.956" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-814.276" z="-1794.488" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="2264EA75EA3A4F24BEC46C50E086BBD4" x="-747.422" y="122.863" z="-1805.951" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_006b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="中忍女">
+				<position x="-746.404" z="-1803.475" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-748.271" z="-1807.882" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="026EB18E7742481DA6F5358BB57A0846" x="-784.332" y="138.588" z="-1767.462" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_004b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="下忍女">
+				<position x="-784.728" z="-1764.654" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-784.685" z="-1769.588" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="2352444974D74C7F9DEDB27714789F31" x="-670.669" y="122.982" z="-1799.910" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_007b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="上忍男">
+				<position x="-673.088" z="-1799.203" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-667.506" z="-1799.813" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="A99CCBC8EFB24F8680664AB32B4E2C73" x="-540.193" y="98.635" z="-1801.773" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_008b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="上忍女">
+				<position x="-542.397" z="-1800.959" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-536.925" z="-1801.618" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="F7179439B1424C5B9623F42CEBA64809" x="-649.547" y="148.995" z="-1619.246" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_004b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="下忍女">
+				<position x="-650.053" z="-1617.024" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-649.823" z="-1621.438" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="F1CE45413690432083AA73BA5F54120D" x="-736.343" y="148.995" z="-1618.059" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_003b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="下忍男">
+				<position x="-738.887" z="-1618.001" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-733.522" z="-1618.151" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="3537C65E66C14719969C7D880A1267C9" x="-737.989" y="148.995" z="-1734.446" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_002b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="剑术大师">
+				<position x="-738.112" z="-1736.769" ay="5.798" WeaponName="b_r_npcitem061" WeaponMode="gblade1_1"/>
+				<position x="-737.883" z="-1731.883" ay="5.798" WeaponName="b_r_npcitem061" WeaponMode="gblade1_1"/>
+			</item>
+		</creator>
+		<creator No="3CFEB262A15C4FC8B410D03815713FB5" x="-645.386" y="148.995" z="-1735.934" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_001b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="歌姬">
+				<position x="-645.452" z="-1733.839" ay="5.798"/>
+				<position x="-645.718" z="-1738.029" ay="5.798"/>
+			</item>
+		</creator>
+		<creator No="13C3A3F103D348C0959DD97434C3DF58" x="-672.019" y="148.995" z="-1669.664" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_005b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="中忍男">
+				<position x="-669.691" z="-1668.878" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-674.429" z="-1668.888" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="1C710F44475A4660AC49B17B6BEFD415" x="-687.784" y="166.942" z="-1652.671" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_007b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="上忍男">
+				<position x="-689.567" z="-1652.241" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-686.064" z="-1652.824" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="AE2E222518B44465B50E85B6FA1FDCB4" x="-688.160" y="166.939" z="-1686.118" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_006b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="中忍女">
+				<position x="-686.259" z="-1685.299" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-690.371" z="-1684.833" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="4F8034EFA7EF4550A371F7B4DD523C6C" x="-527.443" y="71.415" z="-1624.264" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_008b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="上忍女">
+				<position x="-527.153" z="-1621.851" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-527.186" z="-1627.275" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="1951BED7F0804F4E93D580F37B508959" x="-535.407" y="84.210" z="-1517.311" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_007b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="上忍男">
+				<position x="-535.010" z="-1515.481" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-534.588" z="-1520.319" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="6B89AAD832F04B8795D2D97BBB25A508" x="-571.160" y="90.460" z="-1509.598" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_006b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="中忍女">
+				<position x="-570.709" z="-1507.232" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-571.341" z="-1512.972" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="CA3198F8DB344DDAB1B1D5C75DB21E72" x="-624.289" y="90.460" z="-1489.637" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_005b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="中忍男">
+				<position x="-624.015" z="-1492.584" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-624.515" z="-1487.442" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="BBBEE421B69743E1835AD5988B5D1659" x="-569.410" y="97.165" z="-1587.810" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_004b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="下忍女">
+				<position x="-570.382" z="-1590.406" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-569.609" z="-1585.599" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="4A8F2AE4AE274ACCBC1463280E46DB13" x="-571.074" y="121.501" z="-1658.419" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_003b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="下忍男">
+				<position x="-567.964" z="-1658.220" ay="5.798" WeaponMode="handR_01"/>
+				<position x="-573.523" z="-1659.282" ay="5.798" WeaponMode="handR_01"/>
+			</item>
+		</creator>
+		<creator No="3D39E780218A492683B790551E1556D6" x="-619.479" y="122.774" z="-1585.867" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_002b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="剑术大师">
+				<position x="-616.752" z="-1586.406" ay="5.798" WeaponName="b_r_npcitem061" WeaponMode="gblade1_1"/>
+				<position x="-622.127" z="-1585.092" ay="5.798" WeaponName="b_r_npcitem061" WeaponMode="gblade1_1"/>
+			</item>
+		</creator>
+		<creator No="6789375E4B454CA2B7FD3AF0AE00B90A" x="-620.515" y="147.461" z="-1649.089" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_001b" ay="5.798" amount="2" refreshtime="-1" NotPositive="0" desc="歌姬">
+				<position x="-622.456" z="-1649.391" ay="5.798"/>
+				<position x="-618.817" z="-1649.580" ay="5.798"/>
+			</item>
+		</creator>
+		<creator No="A64E67EA1FD043BE8474BE77FE8527C5" x="-691.810" y="166.941" z="-1669.229" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_014b" ay="5.798" amount="1" refreshtime="-1" NotPositive="0" desc="武士3"/>
+		</creator>
+		<creator No="EFC2670DA43542E1886B6F99881FE670" x="-512.708" y="84.210" z="-1517.316" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_013b" sx="2.000" sy="2.000" sz="2.000" ay="5.798" amount="1" refreshtime="-1" NotPositive="0" desc="武士2"/>
+		</creator>
+		<creator No="D8F31D46DE184E98887AC34D851FC24B" x="-697.234" y="103.563" z="-1510.681" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_012b" sx="2.000" sy="2.000" sz="2.000" ay="5.798" amount="1" refreshtime="-1" NotPositive="0" desc="武士1"/>
+		</creator>
+		<creator No="09E542990DA449F8B50446DADCC4956C" x="-966.755" y="138.387" z="-1772.794" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_015" sx="2.000" sy="2.000" sz="2.000" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="穷目"/>
+		</creator>
+		<creator No="A61115F33A744B59B9F68E56AF4FD6F3" x="-811.049" y="138.489" z="-1765.888" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_011" sx="2.000" sy="2.000" sz="2.000" ay="5.798" amount="1" refreshtime="-1" NotPositive="0" desc="足轻大将"/>
+		</creator>
+		<creator No="70D50D55A2394292A1459BE23CE9B4ED" x="-808.337" y="138.583" z="-1613.502" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_016" sx="2.000" sy="2.000" sz="2.000" ay="5.798" amount="1" refreshtime="-1" NotPositive="0" desc="邪鸦鬼"/>
+		</creator>
+		<creator No="3088D36ED4504D5EBB6BB17899D2626E" x="-571.035" y="90.460" z="-1518.357" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_017" sx="2.000" sy="2.000" sz="2.000" ay="5.798" amount="1" refreshtime="-1" NotPositive="0" desc="灰天狗"/>
+		</creator>
+		<creator No="136B018BCC794A44839C8F8277F4374E" x="-673.010" y="148.995" z="-1621.608" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9348">
+			<item No="1" id="Boss_bmhx_dy_018" sx="2.000" sy="2.000" sz="2.000" ay="5.798" amount="1" refreshtime="-1" NotPositive="0" desc="骨骸女姬"/>
+		</creator>
+		<creator No="09E542990DA449F8B50446DADCC4956C" x="-966.755" y="138.387" z="-1772.794" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_015a" sx="2.000" sy="2.000" sz="2.000" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="穷目"/>
+		</creator>
+		<creator No="A61115F33A744B59B9F68E56AF4FD6F3" x="-811.049" y="138.489" z="-1765.888" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_011a" sx="2.000" sy="2.000" sz="2.000" ay="5.798" amount="1" refreshtime="-1" NotPositive="0" desc="足轻大将"/>
+		</creator>
+		<creator No="70D50D55A2394292A1459BE23CE9B4ED" x="-808.337" y="138.583" z="-1613.502" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_016a" sx="2.000" sy="2.000" sz="2.000" ay="5.798" amount="1" refreshtime="-1" NotPositive="0" desc="邪鸦鬼"/>
+		</creator>
+		<creator No="3088D36ED4504D5EBB6BB17899D2626E" x="-571.035" y="90.460" z="-1518.357" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_017a" sx="2.000" sy="2.000" sz="2.000" ay="5.798" amount="1" refreshtime="-1" NotPositive="0" desc="灰天狗"/>
+		</creator>
+		<creator No="136B018BCC794A44839C8F8277F4374E" x="-673.010" y="148.995" z="-1621.608" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9349">
+			<item No="1" id="Boss_bmhx_dy_018a" sx="2.000" sy="2.000" sz="2.000" ay="5.798" amount="1" refreshtime="-1" NotPositive="0" desc="骨骸女姬"/>
+		</creator>
+		<creator No="09E542990DA449F8B50446DADCC4956C" x="-966.755" y="138.387" z="-1772.794" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_015b" sx="2.000" sy="2.000" sz="2.000" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="穷目"/>
+		</creator>
+		<creator No="A61115F33A744B59B9F68E56AF4FD6F3" x="-811.049" y="138.489" z="-1765.888" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_011b" sx="2.000" sy="2.000" sz="2.000" ay="5.798" amount="1" refreshtime="-1" NotPositive="0" desc="足轻大将"/>
+		</creator>
+		<creator No="70D50D55A2394292A1459BE23CE9B4ED" x="-808.337" y="138.583" z="-1613.502" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_016b" sx="2.000" sy="2.000" sz="2.000" ay="5.798" amount="1" refreshtime="-1" NotPositive="0" desc="邪鸦鬼"/>
+		</creator>
+		<creator No="3088D36ED4504D5EBB6BB17899D2626E" x="-571.035" y="90.460" z="-1518.357" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_017b" sx="2.000" sy="2.000" sz="2.000" ay="5.798" amount="1" refreshtime="-1" NotPositive="0" desc="灰天狗"/>
+		</creator>
+		<creator No="136B018BCC794A44839C8F8277F4374E" x="-673.010" y="148.995" z="-1621.608" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9350">
+			<item No="1" id="Boss_bmhx_dy_018b" sx="2.000" sy="2.000" sz="2.000" ay="5.798" amount="1" refreshtime="-1" NotPositive="0" desc="骨骸女姬"/>
+		</creator>
+	</randomcreator>
+</object>

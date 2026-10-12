@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="BE54D1AF1F6C4B0BB80B7629C071F2C0" x="439.199" y="-114.393" z="379.500" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="1021" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather0016cyh" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="破碗">
+                <position x="439.085" z="376.931" ay="-1" />
+            </item>
+        </creator>
+        <creator No="468EDD26F3E54BA4B3A7D1C428E7EBCE" x="240.336" y="-106.284" z="29.668" radius="1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="bjyd011" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="绑匪麻袋" />
+        </creator>
+        <creator No="C4C3E904B11A4B73A4064C87EFABF404" x="571.572" y="-106.284" z="275.234" radius="3.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="81503" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_4nei_gb003" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="金银花">
+                <position x="571.101" z="274.381" ay="-1" />
+            </item>
+        </creator>
+        <creator No="068393BD3559402B9795EA7795870A52" x="1618.976" y="59.458" z="406.636" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="15634" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_xdm_dy_zc3" ay="4.309" amount="1" refreshtime="10000" NotPositive="0" desc="大漠奇草" />
+        </creator>
+    </randomcreator>
+</object>

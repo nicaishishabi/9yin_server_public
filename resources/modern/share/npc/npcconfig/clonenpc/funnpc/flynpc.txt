@@ -1,0 +1,250 @@
+NPC编号	对象类型	名称	模型编号	NPC类型	移动的时候是否旋转	走路速度	跑步速度	AI类型	巡逻模式	路径编号	是否碰撞	相对于自身的可站立高度	Xz平面上可站立范围类形	"StandShape=0时为半径StandShape=1时为长,垂直于面向"	"StandShape=1时为宽,平行于面向"	脚本编号	NPC绑定点	响应范围	有无响应	AI编辑包	模型预载入	存在时间
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	script	Name	Resource	NpcType	MotionNoRotate	WalkSpeed	RunSpeed	AITemplate	PatrolMode	PathID	Collide	StandHeight	StandShape	ShapePara1	ShapePara2	LuaScript	table@LinkNpcRec	SpringRange	NoSpring	AIEditorPackID	Preload	LifeTime
+																						
+MacClone009002	FlyNpc	凌霄城电梯机关	npc\fbmac00244	48	1	1.2	3	8	0			3	1	3	3							
+FlyClone019001	FlyNpc	销魂石(外)	npc\fbmac019021	48	1	0	0	8	0		0	3	0	1.4								
+FlyClone019002	FlyNpc	销魂石(内)	npc\fbmac019021	48	1	0	0	8	0		0	3	0	1								
+FlyClone019003	FlyNpc	销魂石(内)	npc\fbmac019032	48	1	0	0	8	0		0	3	0	1								
+FlyClone019004	FlyNpc	飓风机关1	npc\itemnpc057p	48	1	7	7	8	0	clone019_017		3	0	1		npc\clone\clone019\WindDamage.lua				525		
+FlyClone019005	FlyNpc	飓风机关2	npc\itemnpc057p	48	1	7	7	8	0	clone019_018		3	0	1		npc\clone\clone019\WindDamage.lua				525		
+FlyClone019006	FlyNpc	飓风机关3	npc\itemnpc057p	48	1	7	7	8	0	clone019_019		3	0	1		npc\clone\clone019\WindDamage.lua				525		
+FlyClone019007	FlyNpc	飓风机关4	npc\itemnpc057p	48	1	7	7	8	0	clone019_020		3	0	1		npc\clone\clone019\WindDamage.lua				525		
+FlyClone019008	FlyNpc	飓风机关5	npc\itemnpc057p	48	1	7	7	8	0	clone019_021		3	0	1		npc\clone\clone019\WindDamage.lua				525		
+FlyClone015001	FlyNpc	移动平台	npc\fbmac015019	48	1	3	3	8	0		1	3	0	3	3							
+FlyClone021001	FlyNpc	休门	npc\fbmac021015	48	0	3	3	8	1	clone021_039		3	1	3	3	npc\clone\clone021\FlyClone021001.lua		10	0			
+FlyClone021002	FlyNpc	生门	npc\fbmac021014	48	0	3	3	8	1	clone021_046		3	1	3	3	npc\clone\clone021\FlyClone021001.lua		10	0			
+FlyClone021003	FlyNpc	伤门	npc\fbmac021013	48	0	3	3	8	1	clone021_045		3	1	3	3	npc\clone\clone021\FlyClone021001.lua		10	0			
+FlyClone021004	FlyNpc	杜门	npc\fbmac021012	48	0	3	3	8	1	clone021_044		3	1	3	3	npc\clone\clone021\FlyClone021001.lua		10	0			
+FlyClone021005	FlyNpc	景门	npc\fbmac021019	48	0	3	3	8	1	clone021_043		3	1	3	3	npc\clone\clone021\FlyClone021001.lua		10	0			
+FlyClone021006	FlyNpc	死门	npc\fbmac021018	48	0	3	3	8	1	clone021_042		3	1	3	3	npc\clone\clone021\FlyClone021001.lua		10	0			
+FlyClone021007	FlyNpc	惊门	npc\fbmac021017	48	0	3	3	8	1	clone021_041		3	1	3	3	npc\clone\clone021\FlyClone021001.lua		10	0			
+FlyClone021008	FlyNpc	开门	npc\fbmac021016	48	1	0	0	8	0			3	1	3	3	npc\clone\clone021\FlyClone021001.lua		10	0			
+FlyClone021009	FlyNpc	休门	npc\fbmac021015	48	1	0	0	8	0			3	1	3	3							
+FlyClone021010	FlyNpc	生门	npc\fbmac021014	48	1	0	0	8	0			3	1	3	3							
+FlyClone021011	FlyNpc	伤门	npc\fbmac021013	48	1	0	0	8	0			3	1	3	3							
+FlyClone021012	FlyNpc	杜门	npc\fbmac021012	48	1	0	0	8	0			3	1	3	3							
+FlyClone021013	FlyNpc	景门	npc\fbmac021019	48	1	0	0	8	0			3	1	3	3							
+FlyClone021014	FlyNpc	死门	npc\fbmac021018	48	1	0	0	8	0			3	1	3	3							
+FlyClone021015	FlyNpc	惊门	npc\fbmac021017	48	1	0	0	8	0			3	1	3	3							
+FlyClone021016	FlyNpc	开门	npc\fbmac021016	48	1	0	0	8	0			3	1	3	3							
+macclone013017	FlyNpc	离宫机关	npc\fbmac013017	48	1	1	1	8	0			3	1	6	6							
+macclone013038	FlyNpc	出口机关	npc\fbmac013038	48	1	1	1	8	0			3	1	3	3							
+MacClone007035	FlyNpc	武当入口机关门	npc\fbmac007002	48	1	1	1	8	0			3	1	3	3							
+FlyClone015002	FlyNpc	大船	npc\fbmac015030	48	0	7	7	8	0	clone015_041	0	3	0	3	3		"FunnpcClone015017,-0.5,1.21,11.9,0;FunnpcClone015018,-1.3,0.8,6.96,0;FunnpcClone015019,-1.5,0.8,-4.1,0;FunnpcClone015020,2.9,0.88,1.25,0;"					
+FlyClone015003	FlyNpc	小船	npc\fbmac015030	48	0	5	5	8	0	clone015_042	0	3	0	3	3							
+FlyClone015004	FlyNpc	大船	npc\fbmac015030	48	0	8	8	8	0	school03_jztfb_250	0	3	0	3	3							
+FlyClone015005	FlyNpc	小船	npc\fbmac015030	48	0	5	5	8	0	clone015_043	0	3	0	3	3							
+																						
+FlyClone017001	FlyNpc	机关通道踩踏地板砖1	npc\fbmac00522	48	0	0	0	8	0		1	3	0	3	3			3				
+FlyClone017002	FlyNpc	机关通道踩踏地板砖2	npc\fbmac00523	48	0	0	0	8	0		1	3	0	3	3			3				
+FlyClone017003	FlyNpc	机关通道踩踏地板砖3	npc\fbmac00524	48	0	0	0	8	0		1	3	0	3	3			3				
+FlyClone017004	FlyNpc	机关通道踩踏地板砖4	npc\fbmac00532	48	0	0	0	8	0		1	3	0	3	3			3				
+FlyClone017005	FlyNpc	机关通道踩踏地板砖5	npc\fbmac00533	48	0	0	0	8	0		1	3	0	3	3			3				
+FlyClone017006	FlyNpc	机关通道踩踏地板砖6	npc\fbmac00534	48	0	0	0	8	0		1	3	0	3	3			3				
+FlyClone017007	FlyNpc	机关通道踩踏地板砖7	npc\fbmac00538	48	0	0	0	8	0		1	3	0	3	3			3				
+FlyClone017008	FlyNpc	机关通道踩踏地板砖8	npc\fbmac00539	48	0	0	0	8	0		1	3	0	3	3			3				
+FlyClone017009	FlyNpc	机关通道踩踏地板砖9	npc\fbmac00540	48	0	0	0	8	0		1	3	0	3	3			3				
+																						
+flynpc002027	FlyNpc	龙门客栈西北	npc\brokennpc\brokenitem044	48	0	0	0	8	0		1	3	1	3	3			3			1	
+flynpc002028	FlyNpc	龙门客栈东北	npc\brokennpc\brokenitem045	48	0	0	0	8	0		1	3	1	3	3			3			1	
+flynpc002029	FlyNpc	龙门客栈东南	npc\brokennpc\brokenitem046	48	0	0	0	8	0		1	3	1	3	3			3			1	
+flynpc002030	FlyNpc	龙门客栈西南	npc\brokennpc\brokenitem047	48	0	0	0	8	0		1	3	1	3	3			3			1	
+flynpc002031	FlyNpc	龙门客栈风车	npc\brokennpc\brokenitem050	48	0	0	0	8	0		1	3	1	3	3			3			1	
+																						
+																						
+FlyClone004101	FlyNpc	攻城车	npc\fbmac004100	48	0	2	2	8	0		1	3	1	3	3	npc\clone\clone004\FlyClone004101.lua		3				
+																						
+flynpc002032	FlyNpc	龙门客栈1	npc\fbmac002013	48	0	0	0	8	0		1	3	1	3	3			3				
+																						
+qy_swgj_zudang	FlyNpc	龙门客栈1	npc\fbblock00000	48	0	0	0	8	0		1	3	1	3	3			3				
+qy_swgj_deng	FlyNpc	龙门客栈1	npc\fbmac021035	48	0	0	0	8	0		1	3	1	3	3			3				
+FlyClone009001	FlyNpc	生门	npc\itemnpc704a	48	0	3	3	8	1			3	1	3	3			1	0			
+FlyClone009002	FlyNpc	生门	npc\itemnpc704a	48	0	3	3	8	1			3	1	3	3			1	0			
+FlyClone009003	FlyNpc	生门	npc\itemnpc704a	48	0	3	3	8	1			3	1	3	3			1	0			
+FlyClone009004	FlyNpc	生门	npc\itemnpc704a	48	0	3	3	8	1			3	1	3	3			1	0			
+FlyClone009005	FlyNpc	生门	npc\itemnpc704a	48	0	3	3	8	1			3	1	3	3			1	0			
+FlyClone009006	FlyNpc	生门	npc\itemnpc704a	48	0	3	3	8	1			3	1	3	3			1	0			
+FlyClone009007	FlyNpc	生门	npc\itemnpc704a	48	0	3	3	8	1			3	1	3	3			1	0			
+FlyClone019009	FlyNpc		npc\itemnpc057_huo	48	0	10	10	8	1	clone019_036	1	3	1	3	3			3		557		
+FlyClone019010	FlyNpc		npc\itemnpc057_huo	48	0	11	11	8	1	clone019_037	1	3	1	3	3			3		557		
+FlyClone019011	FlyNpc		npc\itemnpc057_huo	48	0	12	12	8	1	clone019_038	1	3	1	3	3			3		557		
+FlyClone019012	FlyNpc		npc\itemnpc057_huo	48	0	13	13	8	1	clone019_039	1	3	1	3	3			3		557		
+FlyClone019013	FlyNpc		npc\itemnpc057_huo	48	0	14	14	8	1	clone019_040	1	3	1	3	3			3		557		
+FlyClone019014	FlyNpc		npc\itemnpc057_huo	48	0	15	15	8	1	clone019_041	1	3	1	3	3			3		557		
+FlyClone019015	FlyNpc		npc\itemnpc057_huo	48	0	16	16	8	1	clone019_042	1	3	1	3	3			3		557		
+FlyClone019016	FlyNpc		npc\itemnpc057_huo	48	0	17	17	8	1	clone019_043	1	3	1	3	3			3		557		
+																						
+																						
+																						
+FlyClone011001	FlyNpc	水面浮台	npc\fbmac00012	48	1	0.5	1	8	1	clone011_123		3	1	3	3			3	0			
+FlyClone011002	FlyNpc	水面浮台	npc\fbmac00012	48	1	1	1	8	1	clone011_124		3	1	3	3			3	0			
+FlyClone011003	FlyNpc	水面浮台	npc\fbmac00012	48	1	1	1	8	1	clone011_125		3	1	3	3			3	0			
+FlyClone011004	FlyNpc	水面浮台	npc\fbmac00012	48	1	1	1	8	1	clone011_126		3	1	3	3			3	0			
+FlyClone011005	FlyNpc	水面浮台	npc\fbmac00012	48	1	0.5	1	8	1	clone011_127		3	1	3	3			3	0			
+FlyClone011006	FlyNpc	水面浮台	npc\fbmac00012	48	1	1	1	8	1	clone011_128		3	1	3	3			3	0			
+FlyClone011007	FlyNpc	水面浮台	npc\fbmac00012	48	1	1	1	8	1	clone011_129		3	1	3	3			3	0			
+FlyClone011008	FlyNpc	水面浮台	npc\fbmac00012	48	1	1	1	8	1	clone011_130		3	1	3	3			3	0			
+FlyClone011009	FlyNpc	水面浮台	npc\fbmac00012	48	1	0.5	1	8	1	clone011_131		3	1	3	3			3	0			
+FlyClone011010	FlyNpc	水面浮台	npc\fbmac00012	48	1	1	1	8	1	clone011_132		3	1	3	3			3	0			
+FlyClone011011	FlyNpc	水面浮台	npc\fbmac00012	48	1	1	1	8	1	clone011_133		3	1	3	3			3	0			
+FlyClone011012	FlyNpc	水面浮台	npc\fbmac00012	48	1	1	1	8	1	clone011_134		3	1	3	3			3	0			
+FlyClone011013	FlyNpc	水面浮台	npc\fbmac00012	48	1	0.5	1	8	1	clone011_135		3	1	3	3			3	0			
+FlyClone011014	FlyNpc	水面浮台	npc\fbmac00012	48	1	1	1	8	1	clone011_136		3	1	3	3			3	0			
+FlyClone011015	FlyNpc	水面浮台	npc\fbmac00012	48	1	1	1	8	1	clone011_137		3	1	3	3			3	0			
+FlyClone011016	FlyNpc	水面浮台	npc\fbmac00012	48	1	1	1	8	1	clone011_138		3	1	3	3			3	0			
+FlyClone011017	FlyNpc	水面浮台	npc\fbmac00012	48	1	0.5	1	8	1	clone011_139		3	1	3	3			3	0			
+FlyClone011018	FlyNpc	水面浮台	npc\fbmac00012	48	1	1	1	8	1	clone011_140		3	1	3	3			3	0			
+FlyClone011019	FlyNpc	水面浮台	npc\fbmac00012	48	1	1	1	8	1	clone011_141		3	1	3	3			3	0			
+FlyClone011020	FlyNpc	水面浮台	npc\fbmac00012	48	1	1	1	8	1	clone011_142		3	1	3	3			3	0			
+FlyClone011021	FlyNpc	水面浮台	npc\fbmac00012	48	1	0.5	1	8	1	clone011_143		3	1	3	3			3	0			
+FlyClone011022	FlyNpc	水面浮台	npc\fbmac00012	48	1	1	1	8	1	clone011_144		3	1	3	3			3	0			
+FlyClone011023	FlyNpc	水面浮台	npc\fbmac00012	48	1	1	1	8	1	clone011_145		3	1	3	3			3	0			
+FlyClone011024	FlyNpc	水面浮台	npc\fbmac00012	48	1	1	1	8	1	clone011_146		3	1	3	3			3	0			
+FlyClone011025	FlyNpc	水面浮台	npc\fbmac00012	48	1	0.5	1	8	1	clone011_147		3	1	3	3			3	0			
+FlyClone011026	FlyNpc	水面浮台	npc\fbmac00012	48	1	1	1	8	1	clone011_148		3	1	3	3			3	0			
+FlyClone011027	FlyNpc	水面浮台	npc\fbmac00012	48	1	1	1	8	1	clone011_149		3	1	3	3			3	0			
+																						
+npc_5n_lzj_bird04	FlyNpc	鸽子	npc\petm_z_0600	202	0	7	7	8	1	adv031_bird_0_01	0	3	0	0	0			1	0	3658		
+npc_5n_lzj_bird05	FlyNpc	鸽子	npc\petm_z_0600	202	0	7	7	8	1	adv031_bird_0_02	0	3	0	0	0			1	0	3659		
+npc_5n_lzj_bird06	FlyNpc	鸽子	npc\petm_z_0600	202	0	7	7	8	1	adv031_bird_0_03	0	3	0	0	0			1	0	3660		
+npc_5n_lzj_bird07	FlyNpc	鸽子	npc\petm_z_0600	202	0	7	7	8	1	adv031_bird_0_04	0	3	0	0	0			1	0	3661		
+npc_5n_lzj_bird08	FlyNpc	鸽子	npc\petm_z_0600	202	0	7	7	8	1	adv031_bird_0_05	0	3	0	0	0			1	0	3662		
+npc_5n_lzj_bird09	FlyNpc	鸽子	npc\petm_z_0600	202	0	7	7	8	1	adv031_bird_0_06	0	3	0	0	0			1	0	3663		
+npc_5n_lzj_bird10	FlyNpc	鸽子	npc\petm_z_0600	202	0	7	7	8	1	adv031_bird_0_07	0	3	0	0	0			1	0	3664		
+npc_5n_lzj_bird11	FlyNpc	鸽子	npc\petm_z_0600	202	0	7	7	8	1	adv031_bird_0_08	0	3	0	0	0			1	0	3665		
+npc_5n_lzj_bird12	FlyNpc	鸽子	npc\petm_z_0600	202	0	7	7	8	1	adv031_bird_0_09	0	3	0	0	0			1	0	3666		
+npc_5n_lzj_bird13	FlyNpc	鸽子	npc\petm_z_0600	202	0	7	7	8	1	adv031_bird_0_10	0	3	0	0	0			1	0	3667		
+npc_5n_lzj_bird14	FlyNpc	鸽子	npc\petm_z_0600	202	0	7	7	8	1	adv031_bird_0_11	0	3	0	0	0			1	0	3668		
+npc_5n_lzj_bird15	FlyNpc	鸽子	npc\petm_z_0600	202	0	7	7	8	1	adv031_bird_0_12	0	3	0	0	0			1	0	3669		
+npc_5n_lzj_bird16	FlyNpc	鸽子	npc\petm_z_0600	202	0	7	7	8	1	adv031_bird_0_13	0	3	0	0	0			1	0	3670		
+npc_5n_lzj_bird17	FlyNpc	鸽子	npc\petm_z_0600	202	0	7	7	8	1	adv031_bird_0_14	0	3	0	0	0			1	0	3671		
+npc_5n_lzj_bird18	FlyNpc	鸽子	npc\petm_z_0600	202	0	7	7	8	1	adv031_bird_0_15	0	3	0	0	0			1	0	3672		
+npc_5n_lzj_bird19	FlyNpc	鸽子	npc\petm_z_0600	202	0	7	7	8	1	adv031_bird_0_16	0	3	0	0	0			1	0	3673		
+npc_5n_lzj_bird20	FlyNpc	鸽子	npc\petm_z_0600	202	0	7	7	8	1	adv031_bird_0_17	0	3	0	0	0			1	0	3674		
+npc_5n_lzj_bird21	FlyNpc	鸽子	npc\petm_z_0600	202	0	7	7	8	1	adv031_bird_0_18	0	3	0	0	0			1	0	3675		
+npc_5n_lzj_bird22	FlyNpc	鸽子	npc\petm_z_0600	202	0	7	7	8	1	adv031_bird_0_19	0	3	0	0	0			1	0	3676		
+npc_5n_lzj_bird23	FlyNpc	鸽子	npc\petm_z_0600	202	0	7	7	8	1	adv031_bird_0_20	0	3	0	0	0			1	0	3677		
+																						
+npc_5n_lzj_bird30	FlyNpc	白雕	npc\fbboss00361	202	0	9	9	8	1	adv031_bird_1_01	0	3	0	0	0			1	0	3678		
+npc_5n_lzj_bird31	FlyNpc	白雕	npc\fbboss00361	202	0	9	9	8	1	adv031_bird_1_02	0	3	0	0	0			1	0	3679		
+npc_5n_lzj_bird32	FlyNpc	白雕	npc\fbboss00361	202	0	9	9	8	1	adv031_bird_1_03	0	3	0	0	0			1	0	3680		
+npc_5n_lzj_bird33	FlyNpc	白雕	npc\fbboss00361	202	0	9	9	8	1	adv031_bird_1_04	0	3	0	0	0			1	0	3681		
+npc_5n_lzj_bird34	FlyNpc	白雕	npc\fbboss00361	202	0	9	9	8	1	adv031_bird_1_05	0	3	0	0	0			1	0	3682		
+npc_5n_lzj_bird35	FlyNpc	白雕	npc\fbboss00361	202	0	9	9	8	1	adv031_bird_1_06	0	3	0	0	0			1	0	3683		
+npc_5n_lzj_bird36	FlyNpc	白雕	npc\fbboss00361	202	0	9	9	8	1	adv031_bird_1_07	0	3	0	0	0			1	0	3684		
+npc_5n_lzj_bird37	FlyNpc	白雕	npc\fbboss00361	202	0	9	9	8	1	adv031_bird_1_08	0	3	0	0	0			1	0	3685		
+npc_5n_lzj_bird38	FlyNpc	白雕	npc\fbboss00361	202	0	9	9	8	1	adv031_bird_1_09	0	3	0	0	0			1	0	3686		
+npc_5n_lzj_bird39	FlyNpc	白雕	npc\fbboss00361	202	0	9	9	8	1	adv031_bird_1_10	0	3	0	0	0			1	0	3687		
+npc_5n_lzj_bird40	FlyNpc	白雕	npc\fbboss00361	202	0	9	9	8	1	adv031_bird_1_11	0	3	0	0	0			1	0	3688		
+npc_5n_lzj_bird41	FlyNpc	白雕	npc\fbboss00361	202	0	9	9	8	1	adv031_bird_1_12	0	3	0	0	0			1	0	3689		
+npc_5n_lzj_bird42	FlyNpc	白雕	npc\fbboss00361	202	0	9	9	8	1	adv031_bird_1_13	0	3	0	0	0			1	0	3690		
+npc_5n_lzj_bird43	FlyNpc	白雕	npc\fbboss00361	202	0	9	9	8	1	adv031_bird_1_14	0	3	0	0	0			1	0	3691		
+npc_5n_lzj_bird44	FlyNpc	白雕	npc\fbboss00361	202	0	9	9	8	1	adv031_bird_1_15	0	3	0	0	0			1	0	3692		
+npc_5n_lzj_bird45	FlyNpc	白雕	npc\fbboss00361	202	0	9	9	8	1	adv031_bird_1_16	0	3	0	0	0			1	0	3693		
+npc_5n_lzj_bird46	FlyNpc	白雕	npc\fbboss00361	202	0	9	9	8	1	adv031_bird_1_17	0	3	0	0	0			1	0	3694		
+npc_5n_lzj_bird47	FlyNpc	白雕	npc\fbboss00361	202	0	9	9	8	1	adv031_bird_1_18	0	3	0	0	0			1	0	3695		
+npc_5n_lzj_bird48	FlyNpc	白雕	npc\fbboss00361	202	0	9	9	8	1	adv031_bird_1_19	0	3	0	0	0			1	0	3696		
+npc_5n_lzj_bird49	FlyNpc	白雕	npc\fbboss00361	202	0	9	9	8	1	adv031_bird_1_20	0	3	0	0	0			1	0	3697		
+																						
+flynpc_wmd001	FlyNpc	机关	npc\npcitem788	48	0	0	0	8	0		0	3	0	3	3							
+																						
+gumu_maque001	FlyNpc	麻雀	npc\petm_c_0602_a	202	0	6	6	8	1	school14_bird001	0	3	0	0	0			1	0			
+gumu_maque002	FlyNpc	麻雀	npc\petm_c_0602_a	202	0	6	6	8	1	school14_bird002	0	3	0	0	0			1	0			
+gumu_maque003	FlyNpc	麻雀	npc\petm_c_0602_a	202	0	6	6	8	1	school14_bird003	0	3	0	0	0			1	0			
+gumu_maque004	FlyNpc	麻雀	npc\petm_c_0602_a	202	0	6	6	8	1	school14_bird004	0	3	0	0	0			1	0			
+gumu_maque005	FlyNpc	麻雀	npc\petm_c_0602_a	202	0	10	10	8	1	school14_bird005	0	3	0	0	0			1	0			
+gumu_maque006	FlyNpc	麻雀	npc\petm_c_0602_a	202	0	10	10	8	1	school14_bird006	0	3	0	0	0			1	0			
+gumu_maque007	FlyNpc	麻雀	npc\petm_c_0602_a	202	0	10	10	8	1	school14_bird007	0	3	0	0	0			1	0			
+gumu_maque008	FlyNpc	麻雀	npc\petm_c_0602_a	202	0	10	10	8	1	school14_bird008	0	3	0	0	0			1	0			
+gumu_maque009	FlyNpc	麻雀	npc\petm_c_0602_a	202	0	4	4	8	1	school14_bird009	0	3	0	0	0			1	0			
+gumu_maque010	FlyNpc	麻雀	npc\petm_c_0602_a	202	0	4	4	8	1	school14_bird010	0	3	0	0	0			1	0			
+gumu_maque011	FlyNpc	麻雀	npc\petm_c_0602_a	202	0	4	4	8	1	school14_bird011	0	3	0	0	0			1	0			
+gumu_maque012	FlyNpc	麻雀	npc\petm_c_0602_a	202	0	4	4	8	1	school14_bird012	0	3	0	0	0			1	0			
+gumu_maque013	FlyNpc	麻雀	npc\petm_c_0602_a	202	0	4	4	8	1	school14_bird013	0	3	0	0	0			1	0			
+gumu_maque014	FlyNpc	麻雀	npc\petm_c_0602_a	202	0	4	4	8	1	school14_bird001	0	3	0	0	0			1	0			
+gumu_maque015	FlyNpc	麻雀	npc\petm_c_0602_a	202	0	5	5	8	1	school14_bird002	0	3	0	0	0			1	0			
+gumu_maque016	FlyNpc	麻雀	npc\petm_c_0602_a	202	0	6	6	8	1	school14_bird003	0	3	0	0	0			1	0			
+gumu_maque017	FlyNpc	麻雀	npc\petm_c_0602_a	202	0	7	7	8	1	school14_bird004	0	3	0	0	0			1	0			
+																						
+flynpc_nlb_butterfly01	FlyNpc	蝴蝶	npc\worldnpc1108_1	202	0	2	2	8	1	AI_adv124_butterfly_001	0	3	0	0	0			1	0	3370		
+flynpc_nlb_butterfly02	FlyNpc	蝴蝶	npc\worldnpc1108_2	202	0	2	2	8	1	AI_adv124_butterfly_002	0	3	0	0	0			1	0	3372		
+flynpc_nlb_butterfly03	FlyNpc	蝴蝶	npc\worldnpc1109_1	202	0	2	2	8	1	AI_adv124_butterfly_003	0	3	0	0	0			1	0	3371		
+flynpc_nlb_butterfly04	FlyNpc	蝴蝶	npc\worldnpc1109_2	202	0	2	2	8	1	AI_adv124_butterfly_004	0	3	0	0	0			1	0	3373		
+flynpc_nlb_butterfly05	FlyNpc	蝴蝶	npc\worldnpc1108_1	202	0	2	2	8	1	AI_adv124_butterfly_005	0	3	0	0	0			1	0	3370		
+flynpc_nlb_butterfly06	FlyNpc	蝴蝶	npc\worldnpc1108_2	202	0	2	2	8	1	AI_adv124_butterfly_006	0	3	0	0	0			1	0	3372		
+flynpc_nlb_butterfly07	FlyNpc	蝴蝶	npc\worldnpc1109_1	202	0	2	2	8	1	AI_adv124_butterfly_007	0	3	0	0	0			1	0	3371		
+flynpc_nlb_butterfly08	FlyNpc	蝴蝶	npc\worldnpc1109_2	202	0	2	2	8	1	AI_adv124_butterfly_008	0	3	0	0	0			1	0	3373		
+flynpc_nlb_butterfly09	FlyNpc	蝴蝶	npc\worldnpc1108_1	202	0	2	2	8	1	AI_adv124_butterfly_009	0	3	0	0	0			1	0	3370		
+flynpc_nlb_butterfly10	FlyNpc	蝴蝶	npc\worldnpc1108_2	202	0	2	2	8	1	AI_adv124_butterfly_010	0	3	0	0	0			1	0	3372		
+flynpc_nlb_butterfly11	FlyNpc	蝴蝶	npc\worldnpc1109_1	202	0	2	2	8	1	AI_adv124_butterfly_011	0	3	0	0	0			1	0	3371		
+flynpc_nlb_butterfly12	FlyNpc	蝴蝶	npc\worldnpc1109_2	202	0	2	2	8	1	AI_adv124_butterfly_012	0	3	0	0	0			1	0	3373		
+flynpc_nlb_butterfly13	FlyNpc	蝴蝶	npc\worldnpc1108_1	202	0	2	2	8	1	AI_adv124_butterfly_013	0	3	0	0	0			1	0	3370		
+flynpc_nlb_butterfly14	FlyNpc	蝴蝶	npc\worldnpc1108_2	202	0	2	2	8	1	AI_adv124_butterfly_014	0	3	0	0	0			1	0	3372		
+flynpc_nlb_butterfly15	FlyNpc	蝴蝶	npc\worldnpc1109_1	202	0	2	2	8	1	AI_adv124_butterfly_015	0	3	0	0	0			1	0	3371		
+flynpc_nlb_butterfly16	FlyNpc	蝴蝶	npc\worldnpc1109_2	202	0	2	2	8	1	AI_adv124_butterfly_016	0	3	0	0	0			1	0	3373		
+flynpc_nlb_butterfly17	FlyNpc	蝴蝶	npc\worldnpc1108_1	202	0	2	2	8	1	AI_adv124_butterfly_017	0	3	0	0	0			1	0	3370		
+flynpc_nlb_butterfly18	FlyNpc	蝴蝶	npc\worldnpc1108_2	202	0	2	2	8	1	AI_adv124_butterfly_018	0	3	0	0	0			1	0	3372		
+flynpc_nlb_butterfly19	FlyNpc	蝴蝶	npc\worldnpc1109_1	202	0	2	2	8	1	AI_adv124_butterfly_019	0	3	0	0	0			1	0	3371		
+flynpc_nlb_butterfly20	FlyNpc	蝴蝶	npc\worldnpc1109_2	202	0	2	2	8	1	AI_adv124_butterfly_020	0	3	0	0	0			1	0	3373		
+flynpc_nlb_butterfly21	FlyNpc	蝴蝶	npc\worldnpc1108_1	202	0	2	2	8	1	AI_adv124_butterfly_021	0	3	0	0	0			1	0	3370		
+flynpc_nlb_butterfly22	FlyNpc	蝴蝶	npc\worldnpc1108_2	202	0	2	2	8	1	AI_adv124_butterfly_022	0	3	0	0	0			1	0	3372		
+flynpc_nlb_butterfly23	FlyNpc	蝴蝶	npc\worldnpc1109_1	202	0	2	2	8	1	AI_adv124_butterfly_023	0	3	0	0	0			1	0	3371		
+flynpc_nlb_butterfly24	FlyNpc	蝴蝶	npc\worldnpc1109_2	202	0	2	2	8	1	AI_adv124_butterfly_024	0	3	0	0	0			1	0	3373		
+flynpc_nlb_butterfly25	FlyNpc	蝴蝶	npc\worldnpc1108_1	202	0	2	2	8	1	AI_adv124_butterfly_025	0	3	0	0	0			1	0	3370		
+flynpc_nlb_butterfly26	FlyNpc	蝴蝶	npc\worldnpc1108_2	202	0	2	2	8	1	AI_adv124_butterfly_026	0	3	0	0	0			1	0	3372		
+flynpc_nlb_butterfly27	FlyNpc	蝴蝶	npc\worldnpc1109_1	202	0	2	2	8	1	AI_adv124_butterfly_027	0	3	0	0	0			1	0	3371		
+flynpc_nlb_butterfly28	FlyNpc	蝴蝶	npc\worldnpc1109_2	202	0	2	2	8	1	AI_adv124_butterfly_028	0	3	0	0	0			1	0	3373		
+flynpc_nlb_butterfly29	FlyNpc	蝴蝶	npc\worldnpc1108_1	202	0	2	2	8	1	AI_adv124_butterfly_029	0	3	0	0	0			1	0	3370		
+flynpc_nlb_butterfly30	FlyNpc	蝴蝶	npc\worldnpc1108_2	202	0	2	2	8	1	AI_adv124_butterfly_030	0	3	0	0	0			1	0	3372		
+flynpc_nlb_butterfly31	FlyNpc	蝴蝶	npc\worldnpc1109_1	202	0	2	2	8	1	AI_adv124_butterfly_031	0	3	0	0	0			1	0	3371		
+flynpc_nlb_butterfly32	FlyNpc	蝴蝶	npc\worldnpc1109_2	202	0	2	2	8	1	AI_adv124_butterfly_032	0	3	0	0	0			1	0	3373		
+flynpc_nlb_butterfly33	FlyNpc	蝴蝶	npc\worldnpc1108_1	202	0	2	2	8	1	AI_adv124_butterfly_033	0	3	0	0	0			1	0	3370		
+flynpc_nlb_butterfly34	FlyNpc	蝴蝶	npc\worldnpc1108_2	202	0	2	2	8	1	AI_adv124_butterfly_034	0	3	0	0	0			1	0	3372		
+flynpc_nlb_butterfly35	FlyNpc	蝴蝶	npc\worldnpc1109_1	202	0	2	2	8	1	AI_adv124_butterfly_035	0	3	0	0	0			1	0	3371		
+flynpc_nlb_butterfly36	FlyNpc	蝴蝶	npc\worldnpc1109_2	202	0	2	2	8	1	AI_adv124_butterfly_036	0	3	0	0	0			1	0	3373		
+flynpc_nlb_butterfly37	FlyNpc	蝴蝶	npc\worldnpc1108_1	202	0	2	2	8	1	AI_adv124_butterfly_037	0	3	0	0	0			1	0	3370		
+flynpc_nlb_butterfly38	FlyNpc	蝴蝶	npc\worldnpc1108_2	202	0	2	2	8	1	AI_adv124_butterfly_038	0	3	0	0	0			1	0	3372		
+flynpc_nlb_butterfly39	FlyNpc	蝴蝶	npc\worldnpc1109_1	202	0	2	2	8	1	AI_adv124_butterfly_039	0	3	0	0	0			1	0	3371		
+flynpc_nlb_butterfly40	FlyNpc	蝴蝶	npc\worldnpc1109_2	202	0	2	2	8	1	AI_adv124_butterfly_040	0	3	0	0	0			1	0	3373		
+flynpc_nlb_butterfly41	FlyNpc	蝴蝶	npc\worldnpc1108_1	202	0	2	2	8	1	AI_adv124_butterfly_041	0	3	0	0	0			1	0	3370		
+flynpc_nlb_butterfly42	FlyNpc	蝴蝶	npc\worldnpc1108_2	202	0	2	2	8	1	AI_adv124_butterfly_042	0	3	0	0	0			1	0	3372		
+flynpc_nlb_butterfly43	FlyNpc	蝴蝶	npc\worldnpc1109_1	202	0	2	2	8	1	AI_adv124_butterfly_043	0	3	0	0	0			1	0	3371		
+flynpc_nlb_butterfly44	FlyNpc	蝴蝶	npc\worldnpc1109_2	202	0	2	2	8	1	AI_adv124_butterfly_044	0	3	0	0	0			1	0	3373		
+flynpc_nlb_butterfly45	FlyNpc	蝴蝶	npc\worldnpc1108_1	202	0	2	2	8	1	AI_adv124_butterfly_045	0	3	0	0	0			1	0	3370		
+flynpc_nlb_butterfly46	FlyNpc	蝴蝶	npc\worldnpc1108_2	202	0	2	2	8	1	AI_adv124_butterfly_046	0	3	0	0	0			1	0	3372		
+flynpc_nlb_butterfly47	FlyNpc	蝴蝶	npc\worldnpc1109_1	202	0	2	2	8	1	AI_adv124_butterfly_047	0	3	0	0	0			1	0	3371		
+flynpc_nlb_butterfly48	FlyNpc	蝴蝶	npc\worldnpc1109_2	202	0	2	2	8	1	AI_adv124_butterfly_048	0	3	0	0	0			1	0	3373		
+flynpc_nlb_butterfly49	FlyNpc	蝴蝶	npc\worldnpc1108_1	202	0	2	2	8	1	AI_adv124_butterfly_049	0	3	0	0	0			1	0	3370		
+flynpc_nlb_butterfly50	FlyNpc	蝴蝶	npc\worldnpc1108_2	202	0	2	2	8	1	AI_adv124_butterfly_050	0	3	0	0	0			1	0	3372		
+flynpc_nlb_butterfly51	FlyNpc	蝴蝶	npc\worldnpc1109_1	202	0	2	2	8	1	AI_adv124_butterfly_051	0	3	0	0	0			1	0	3371		
+flynpc_nlb_butterfly52	FlyNpc	蝴蝶	npc\worldnpc1109_2	202	0	2	2	8	1	AI_adv124_butterfly_052	0	3	0	0	0			1	0	3373		
+flynpc_nlb_butterfly53	FlyNpc	蝴蝶	npc\worldnpc1108_1	202	0	2	2	8	1	AI_adv124_butterfly_053	0	3	0	0	0			1	0	3370		
+flynpc_nlb_butterfly54	FlyNpc	蝴蝶	npc\worldnpc1108_2	202	0	2	2	8	1	AI_adv124_butterfly_054	0	3	0	0	0			1	0	3372		
+flynpc_nlb_butterfly55	FlyNpc	蝴蝶	npc\worldnpc1109_1	202	0	2	2	8	1	AI_adv124_butterfly_055	0	3	0	0	0			1	0	3371		
+flynpc_nlb_butterfly56	FlyNpc	蝴蝶	npc\worldnpc1109_2	202	0	2	2	8	1	AI_adv124_butterfly_056	0	3	0	0	0			1	0	3373		
+flynpc_nlb_butterfly57	FlyNpc	蝴蝶	npc\worldnpc1108_1	202	0	2	2	8	1	AI_adv124_butterfly_057	0	3	0	0	0			1	0	3370		
+flynpc_nlb_butterfly58	FlyNpc	蝴蝶	npc\worldnpc1108_2	202	0	2	2	8	1	AI_adv124_butterfly_058	0	3	0	0	0			1	0	3372		
+flynpc_nlb_butterfly59	FlyNpc	蝴蝶	npc\worldnpc1109_1	202	0	2	2	8	1	AI_adv124_butterfly_059	0	3	0	0	0			1	0	3371		
+flynpc_nlb_butterfly60	FlyNpc	蝴蝶	npc\worldnpc1109_2	202	0	2	2	8	1	AI_adv124_butterfly_060	0	3	0	0	0			1	0	3373		
+flynpc_nlb_butterfly61	FlyNpc	蝴蝶	npc\worldnpc1108_1	202	0	2	2	8	1	AI_adv124_butterfly_057	0	3	0	0	0			1	0	3370		
+flynpc_nlb_butterfly62	FlyNpc	蝴蝶	npc\worldnpc1109_1	202	0	2	2	8	1	AI_adv124_butterfly_057	0	3	0	0	0			1	0	3371		
+flynpc_nlb_butterfly63	FlyNpc	蝴蝶	npc\worldnpc1108_2	202	0	2	2	8	1	AI_adv124_butterfly_057	0	3	0	0	0			1	0	3372		
+flynpc_nlb_butterfly64	FlyNpc	蝴蝶	npc\worldnpc1109_2	202	0	2	2	8	1	AI_adv124_butterfly_057	0	3	0	0	0			1	0	3373		
+																						
+flynpc_nlb_hh_tzsy01	FlyNpc	铁嘴山鹰	npc\petm_z_0600	202	0	7	7	8	1	AI_adv124_bird01	0	3	0	0	0			1	0			
+flynpc_nlb_hh_tzsy02	FlyNpc	铁嘴山鹰	npc\petm_z_0600	202	0	7	7	8	1	AI_adv124_bird02	0	3	0	0	0			1	0			
+flynpc_nlb_hh_tzsy03	FlyNpc	铁嘴山鹰	npc\petm_z_0600	202	0	7	7	8	1	AI_adv124_bird03	0	3	0	0	0			1	0			
+flynpc_nlb_hh_tzsy04	FlyNpc	铁嘴山鹰	npc\petm_z_0600	202	0	7	7	8	1	AI_adv124_bird01	0	3	0	0	0			1	0			
+flynpc_nlb_hh_tzsy05	FlyNpc	铁嘴山鹰	npc\petm_z_0600	202	0	7	7	8	1	AI_adv124_bird02	0	3	0	0	0			1	0			
+flynpc_nlb_hh_tzsy06	FlyNpc	铁嘴山鹰	npc\petm_z_0600	202	0	7	7	8	1	AI_adv124_bird03	0	3	0	0	0			1	0			
+flynpc_nlb_hh_tzsy07	FlyNpc	铁嘴山鹰	npc\petm_z_0600	202	0	7	7	8	1	AI_adv124_bird01	0	3	0	0	0			1	0			
+flynpc_nlb_hh_tzsy08	FlyNpc	铁嘴山鹰	npc\petm_z_0600	202	0	7	7	8	1	AI_adv124_bird02	0	3	0	0	0			1	0			
+flynpc_nlb_hh_tzsy09	FlyNpc	铁嘴山鹰	npc\petm_z_0600	202	0	7	7	8	1	AI_adv124_bird03	0	3	0	0	0			1	0			
+																						
+FlyNpc_wjd_boat01	FlyNpc	无极岛大船	npc\donghaibaochuan02	48	0	1	1	8	0		0	3	0	3	3		"DriveNpc_wjd_01,10.5,10,8,1.5;DriveNpc_wjd_01,11,10,-1.3,1.5;DriveNpc_wjd_01,-11,10,-1.3,4.5;DriveNpc_wjd_01,-11,10,8,4.5;npc_wjd_xx_007,8,10,4.5,0;DriveNpc_wjd_01,10.5,10,3,1.5;DriveNpc_wjd_01,-11,10,3,4.5;"					4000000
+npc_wjd_25_01	FlyNpc	渔船	npc\boat02	48	0	3	3	8	0		0	3	0	3	3		"npc_wjd_25_03,0,0.4,-2.5,0"	1	0			
+																						
+nangongflynpc001	FlyNpc	侍女	npc\worldnpc1433	202	0	4	4	8	1	nangong_shp_001	0	3	0	0	0			2	0			
+nangongflynpc002	FlyNpc	侍女	npc\worldnpc1433	202	0	4	4	8	1	nangong_shp_002	0	3	0	0	0			2	0			
+nangongflynpc003	FlyNpc	侍女	npc\worldnpc1433	202	0	4	4	8	1	nangong_shp_003	0	3	0	0	0			2	0			

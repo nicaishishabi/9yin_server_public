@@ -1,0 +1,44 @@
+<program>
+	<id>modifyrebateinfo</id>
+	<name>��ѻ</name>
+	<state>0</state>
+	<version>0</version>
+	
+	<opentimes>
+		<opentime>
+			<startdate>2017-11-01</startdate>
+			<enddate>2017-11-30</enddate>
+			<starttime>01:05</starttime>
+			<endtime>23:55</endtime>
+			<weektime>1#1#1#1#1#1#1#</weektime>
+		</opentime>
+	</opentimes>
+	
+	<rewards>
+		<rewardmail><title></title><content></content></rewardmail>
+		
+		<reward desc="���1��">
+			<rewardconditions condtionlogic="and">
+				<condition>
+                    <type>money</type>
+                    <valuefrom>1</valuefrom>
+                    <valueto>1</valueto>
+                </condition>
+			</rewardconditions>
+			
+			<rewarditems>1588_17173normal_01:1;</rewarditems>
+		</reward>
+		
+		<reward desc="���5��">
+			<rewardconditions condtionlogic="and">
+				<condition>
+					<type>money</type>
+					<valuefrom>5</valuefrom>
+					<valueto>5</valueto>
+				</condition>
+			</rewardconditions>
+			
+			<rewarditems>12ynewbox_xl_yxss_01:2;12ynewbox_yhqt_01:3;</rewarditems>
+		</reward>
+	</rewards>
+</program>

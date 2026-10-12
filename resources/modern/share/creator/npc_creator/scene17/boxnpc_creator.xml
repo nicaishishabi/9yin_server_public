@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="674415C665C94B5CA7756D93BF8F689E" x="187.312" y="57.955" z="-402.235" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="boxnpc_xkd_01" ay="-1" amount="1" refreshtime="10" NotPositive="0" desc="酒坛">
+                <position x="186.866" z="-399.931" ay="-1" />
+            </item>
+        </creator>
+        <creator No="DDB928429D29424CA3C4C87E23B77C5E" x="214.774" y="56.382" z="-372.290" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="boxnpc_xkd_06" sx="0.160" sy="0.160" sz="0.160" amount="0" refreshtime="30" NotPositive="0" desc="象棋子">
+                <position x="211.833" z="-371.031" sx="0.160" sy="0.160" sz="0.160" />
+            </item>
+        </creator>
+        <creator No="DB4A0B215A354199B80B23EC3ABA0D70" x="212.536" y="51.972" z="-361.821" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="boxnpc_xkd_07" sx="1.330" sy="1.330" sz="1.330" amount="0" refreshtime="30" NotPositive="0" desc="水果">
+                <position x="210.769" z="-364.205" sx="1.330" sy="1.330" sz="1.330" />
+            </item>
+        </creator>
+        <creator No="CD38F5C77F2749E49ADB23DF40C9223D" x="1117.514" y="49.999" z="-1729.052" radius="10.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" StaticY="1" HateLink="1">
+            <item No="1" id="boxnpc_xkd_04" amount="3" refreshtime="30" NotPositive="0" desc="闭目鱼">
+                <position x="1115.276" z="-1722.478" />
+                <position x="1121.882" z="-1727.661" />
+                <position x="1112.920" z="-1735.997" />
+            </item>
+        </creator>
+        <creator No="C5A70BC7A94848F69BFD7FEBDAFCBA4F" x="1357.036" y="48.512" z="-1802.097" radius="10.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" StaticY="1" HateLink="1">
+            <item No="1" id="boxnpc_xkd_05" amount="3" refreshtime="30" NotPositive="0" desc="鱼群">
+                <position x="1351.657" y="49.725" z="-1803.484" />
+                <position x="1359.978" y="49.999" z="-1797.118" />
+                <position x="1359.482" y="49.148" z="-1806.665" />
+            </item>
+        </creator>
+        <creator No="56F850E2CD4B4AFDA75091E89F3EE07B" x="294.386" y="113.260" z="-1047.908" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="boxnpc_xkd_09" amount="1" refreshtime="10000" NotPositive="0" desc="蚕架">
+                <position x="293.298" z="-1045.889" />
+            </item>
+        </creator>
+        <creator No="DEF40B6602654BE6B7D91A879A215692" x="-71.660" y="122.143" z="-1063.355" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="boxnpc_xkd_08" sx="3.140" sy="3.140" sz="3.140" amount="1" refreshtime="10000" NotPositive="0" desc="梧桐木">
+                <position x="-74.478" z="-1063.790" sx="3.140" sy="3.140" sz="3.140" />
+            </item>
+        </creator>
+        <creator No="96C5CB2A1BA9474E8FDB54721D4A2838" x="390.068" y="72.312" z="-1073.430" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="boxnpc_xkd_01" amount="1" refreshtime="30000" NotPositive="0" desc="酒坛">
+                <position x="390.297" z="-1073.987" />
+            </item>
+        </creator>
+        <creator No="968FE6C79C3B424A9544923B466824E5" x="144.073" y="52.755" z="-1871.730" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="boxnpc_xkd_06" sx="0.100" sy="0.100" sz="0.100" amount="1" refreshtime="30000" NotPositive="0" desc="象棋子">
+                <position x="143.207" z="-1871.706" sx="0.100" sy="0.100" sz="0.100" />
+            </item>
+        </creator>
+        <creator No="20E8C06F807144D49A950D0F012D6113" x="224.128" y="76.844" z="-1886.105" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="boxnpc_xkd_07" sx="1.900" sy="1.900" sz="1.900" amount="1" refreshtime="30000" NotPositive="0" desc="水果">
+                <position x="224.724" z="-1884.444" sx="1.900" sy="1.900" sz="1.900" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

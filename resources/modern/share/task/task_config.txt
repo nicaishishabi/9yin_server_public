@@ -1,0 +1,129 @@
+STRING	STRING	STRING	STRING	STRING
+ID	Name	Model	Desc	Tips
+ID		main		任务ID
+				
+NeedVip		main	是否vip	
+Step		main	任务步骤	界面显示:标准格式【1/3】
+AcceptNpc	1	main	接任务npc	空
+SubmitNpc	1	main	交任务npc	空
+SceneID		main	副本任务场景ID	"27孔雀山庄,28龙门客栈,29燕子坞,30雁门关,31木人巷,32少林派闯关,33紫霄地宫,34武当派闯关,35舍身崖,36峨眉派闯关,37杏子林,38丐帮闯关,39唐门出师,40唐门闯关,41君子堂出师,42君子堂闯关,43狱下之狱,44锦衣卫闯关,45极乐谷出师,46极乐谷闯关,99测试场景"
+AcceptSceneID		main	接任务npc场景	"1千灯镇,2恶人谷,3烟雨庄,4漠河镇,5锦衣卫,6丐帮,7君子堂,8极乐谷,9唐门,10峨眉,11武当,12少林,13燕京,14苏州,15金陵,16洛阳,17成都,18幽云十六州,19蓬莱仙境,20泛黄平原,21向阳坡,22念萝坝,23凌霄城,24梅花岭,25塞外大漠,26塞北草原"
+SubmitSceneID		main	交任务npc场景	"1千灯镇,2恶人谷,3烟雨庄,4漠河镇,5锦衣卫,6丐帮,7君子堂,8极乐谷,9唐门,10峨眉,11武当,12少林,13燕京,14苏州,15金陵,16洛阳,17成都,18幽云十六州,19蓬莱仙境,20泛黄平原,21向阳坡,22念萝坝,23凌霄城,24梅花岭,25塞外大漠,26塞北草原"
+PreTaskLimit		main	前置任务ID	空
+NextTaskLimit		main	后续任务ID	空
+ReputationLimit		main	声望限制新，接任务后无法完成进度，填写方式如repute_jianghu|383;repute_wudang|553;repute_ermei|85853	
+Line		main	任务分类	"1主线,2环式,3日常,4门派,5支线,6副本,7恩怨,8奇遇"
+CanGiveup		main	放弃类型	"1不能放弃,0能放弃"
+ShareType		main	共享类型	"0不可共享,1可共享,2自动共享,3副本专用"
+RepeatType		main	重复类型	"0不可重复,1接任务开始,n天一轮,2接任务开始,n小时一轮"
+RepeatPeriod		main	重复周期	对应RepeatType的n
+CountDayLimit		main	重复次数	空
+				
+TaskItemList	1	further	发放道具ID	道具总表ID，多个道具用；分开
+TaskScript		further	脚本路径	task\taskXXX.lua
+AcceptLimit		further	接任务限制条件	条件表ID
+SubmitLimit		further	交任务限制条件	条件表ID
+AcceptDecMoney		further	接任务游戏币限制	承接任务需要花费的游戏币，不填写则不收费
+DramaAccept		further	接任务小说	小说表id
+DramaSubmit		further	完成任务小说	小说表id
+TimeLimitLengthEx		further	超额奖励时间限制	单位：分钟
+TimeLimitLength		further	时间限制	单位：分钟
+NotShowMenu		further	不限制交任务菜单	"（支线专用）1不显示接任务菜单,2不显示交任务菜单,3都不显示"
+Relation		further	关系包ID	"（支线专用）关系包ID,配置路径20_NewExcel\Rule\NPC关系表.xlsx"
+LuckValue		further	机遇属性	"（支线专用）默认为0,可1-无限"
+AutoAcceptID		further	自动承接任务ID	
+AutoSubmit		further	是否自动提交	"0不提交,1提交"
+Plot		further	桥段ID	（支线专用）
+AcceptMovie		further	接任务动画	动画表id
+SubmitMovie		further	交任务动画	动画表id
+AcceptReputationLimit		further	客户端声望限制显示	比如:repute_jianghu|383
+ReputationLimit		further	客户端声望限制显示	比如:repute_jianghu|383
+ActivityType		further	任务产生的活跃度	任务产生的活跃度
+ConditionPrize		further	条件奖励	
+				
+ID		monster	刷怪表ID	空
+MonsterID	1	monster	刷新怪物编号	空
+RSceneID		monster	所在场景ID	"1千灯镇,2恶人谷,3烟雨庄,4漠河镇,5锦衣卫,6丐帮,7君子堂,8极乐谷,9唐门,10峨眉,11武当,12少林,13燕京,14苏州,15金陵,16洛阳,17成都,18幽云十六州,19蓬莱仙境,20泛黄平原,21向阳坡,22念萝坝,23凌霄城,24梅花岭,25塞外大漠,26塞北草原"
+RPosX		monster	刷怪坐标X	空
+RPosY		monster	刷怪坐标Y	高度
+RPosZ		monster	刷怪坐标Z	空
+RLifeTime		monster	生存时间	"单位：秒,标配1800"
+				
+ID		tool	发放道具表ID	空
+ItemId	1	tool	道具ID	空
+Count		tool	数量	空
+IsGive		tool	是否发放	"0不发放,1发放"
+back		tool	是否归还	"0不归还,1归还"
+				
+ID		hunter	猎杀表ID	空
+NpcId	1	hunter	猎杀怪物ID	空
+Count		hunter	数量	空
+IsQieCuo		hunter	切磋模式	"0不切磋,1切磋"
+SceneID		hunter	所在场景ID	"1千灯镇,2恶人谷,3烟雨庄,4漠河镇,5锦衣卫,6丐帮,7君子堂,8极乐谷,9唐门,10峨眉,11武当,12少林,13燕京,14苏州,15金陵,16洛阳,17成都,18幽云十六州,19蓬莱仙境,20泛黄平原,21向阳坡,22念萝坝,23凌霄城,24梅花岭,25塞外大漠,26塞北草原"
+HideNpcID	1	hunter	隐藏NPCID串	"半角逗号分割,"
+RefreshMonster	1	hunter	刷怪ID	刷怪表
+ActionID		hunter	动作ID	空
+				
+ID		collect	收集表ID	空
+ItemId	1	collect	道具ID	空
+Count		collect	数量	空
+Droprate		collect	概率	空
+NpcId	1	collect	掉落NPC	空
+SceneId		collect	所在场景ID	"1千灯镇,2恶人谷,3烟雨庄,4漠河镇,5锦衣卫,6丐帮,7君子堂,8极乐谷,9唐门,10峨眉,11武当,12少林,13燕京,14苏州,15金陵,16洛阳,17成都,18幽云十六州,19蓬莱仙境,20泛黄平原,21向阳坡,22念萝坝,23凌霄城,24梅花岭,25塞外大漠,26塞北草原"
+HideNpcID		collect	隐藏npc	
+IsNeedCreator		collect	怪物生成器	空
+RefreshMonster	1	collect	刷怪ID	空
+ActionID		collect	动作ID	空
+				
+ID		interact	交互表ID	空
+NpcId	1	interact	交互NpcID	空
+SceneID	1	interact	所在场景ID	"1千灯镇,2恶人谷,3烟雨庄,4漠河镇,5锦衣卫,6丐帮,7君子堂,8极乐谷,9唐门,10峨眉,11武当,12少林,13燕京,14苏州,15金陵,16洛阳,17成都,18幽云十六州,19蓬莱仙境,20泛黄平原,21向阳坡,22念萝坝,23凌霄城,24梅花岭,25塞外大漠,26塞北草原"
+HideNpcID		interact	隐藏npc	
+GetItems		interact	获得道具	空
+LostItems		interact	上缴道具	道具ID后面需加-1（1为上交数量），多个ID用|分割如taskitem001-5|taskitem002-3
+ActionID		interact	动作ID	空
+				
+ID		story	ID	空
+NpcID	1	story	讲故事NpcID	空
+SceneID		story	所在场景ID	"1千灯镇,2恶人谷,3烟雨庄,4漠河镇,5锦衣卫,6丐帮,7君子堂,8极乐谷,9唐门,10峨眉,11武当,12少林,13燕京,14苏州,15金陵,16洛阳,17成都,18幽云十六州,19蓬莱仙境,20泛黄平原,21向阳坡,22念萝坝,23凌霄城,24梅花岭,25塞外大漠,26塞北草原"
+LeaveResult		story	结束完成任务	空
+ActionID		story	动作ID	空
+				
+ID		question	ID	空
+QuestionNpc	1	question	答题NPC	空
+SceneID		question	所在场景ID	"1千灯镇,2恶人谷,3烟雨庄,4漠河镇,5锦衣卫,6丐帮,7君子堂,8极乐谷,9唐门,10峨眉,11武当,12少林,13燕京,14苏州,15金陵,16洛阳,17成都,18幽云十六州,19蓬莱仙境,20泛黄平原,21向阳坡,22念萝坝,23凌霄城,24梅花岭,25塞外大漠,26塞北草原"
+QuestionID		question	题库ID	空
+ActionID		question	动作ID	空
+				
+ID		useitem	使用道具表ID	空
+ItemID	1	useitem	道具ID	空
+AddItems		useitem	使用生成道具	空
+DeleteItems		useitem	使用删除道具	空
+DeleteSelf		useitem	使用删除自己	空
+SceneID		useitem	所在场景ID	"1千灯镇,2恶人谷,3烟雨庄,4漠河镇,5锦衣卫,6丐帮,7君子堂,8极乐谷,9唐门,10峨眉,11武当,12少林,13燕京,14苏州,15金陵,16洛阳,17成都,18幽云十六州,19蓬莱仙境,20泛黄平原,21向阳坡,22念萝坝,23凌霄城,24梅花岭,25塞外大漠,26塞北草原"
+LockTarget		useitem	强制锁定目标	1为需要锁定
+TargetConfig		useitem	使用指定目标	当需要锁定目标时添目标ID
+Radius		useitem	使用半径	空
+ProCount		useitem	进度总数量	空
+AddPro		useitem	是否增加进度	空
+Water		useitem	是否在水里	空
+ActionID		useitem	动作ID	空
+				
+ID		convoy	护送表ID	空
+NpcId	1	convoy	护送NPC的ID	空
+SceneID		convoy	所在场景ID	"1千灯镇,2恶人谷,3烟雨庄,4漠河镇,5锦衣卫,6丐帮,7君子堂,8极乐谷,9唐门,10峨眉,11武当,12少林,13燕京,14苏州,15金陵,16洛阳,17成都,18幽云十六州,19蓬莱仙境,20泛黄平原,21向阳坡,22念萝坝,23凌霄城,24梅花岭,25塞外大漠,26塞北草原"
+PathID		convoy	路径ID	空
+HideNpcID		convoy	隐藏npc的ID串	空
+ActionID		convoy	动作ID	空
+				
+ID		special	特殊表ID	空
+SpecialType	1	special	特殊类型	空
+Key1		special	关键字1	空
+Key2		special	关键字2	空
+TrackInfoID		special	路劲信息ID	空
+Count		special	Count	空
+CountEx		special	CountEx	空
+MinValue		special	最小值	缺省值为0
+MaxValue		special	最大值	缺省值为10亿
+LimitTime		special	限制时间	踢馆和副本的限制时间，单位为秒
+MarryFlag		special	夫妻	参见特殊子功能文档

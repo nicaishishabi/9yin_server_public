@@ -1,0 +1,32 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	NpcId	SceneID	DialogID	GetItems	LostItems	TrackInfo	OkMenu	TaskID	BufferID
+76801	Event_2022sy_001	16				interactinfo_76801		76801	
+76802	Eventnpc_xtb_001	1036				interactinfo_76802		76807	
+76803	Eventnpc_xtb_002	1036				interactinfo_76803		76809	
+76805	newmp_xingtb_002	1036	DialogID_76805		item_xtbzyb_001-1	interactinfo_76805	okmenu_76805	76813	
+76807	nmpxtb_zyb_005	1036	DialogID_76807			interactinfo_76807	okmenu_76807	76813	
+76808	Eventnpc_xtb_005	1042				interactinfo_76808		76814	
+76809	nmpxtb_zyb_008	1036	DialogID_76809	useitem_xtbzyb_001-1		interactinfo_76809	okmenu_76809	76819	
+76810	Eventnpc_xtb_006	1036				interactinfo_76810		76820	
+76804	Eventnpc_xtb_003	1042				interactinfo_76804			
+76811	nmpxtb_zyb_015	1036				interactinfo_76811		76818	
+76806	Eventnpc_xtb_004	1036				interactinfo_76806		76813	buf_xtb_dy_03
+76813	xtb_event_004	1036	DialogID_76813			interactinfo_76813	okmenu_76813	76851	
+76814	xtb_event_005	1036	DialogID_76814			interactinfo_76814	okmenu_76814	76851	
+76815	xtb_event_006	1036	DialogID_76815			interactinfo_76815	okmenu_76815	76851	
+76816	xtb_event_007	1036	DialogID_76816			interactinfo_76816	okmenu_76816	76851	
+76817	npc_xtb_dy_rd01	1036	DialogID_76817	useitem_xtbevent_001-3		interactinfo_76817	okmenu_76817	76850	
+76819	npc_xtb_dy_rd07	1036	DialogID_76819	useitem_xtbevent_003-3		interactinfo_76819	okmenu_76819	76856	
+76820	npc_xtb_dy_003	1036	DialogID_76820	item_xtb_dy_01-1		interactinfo_76820	okmenu_76820	76860	
+76821	npc_xtb_dy_004	1036	DialogID_76821	item_xtb_dy_02-1		interactinfo_76821	okmenu_76821	76860	
+76822	Eventnpc_xtb_dy_01	1036				interactinfo_76822		76861	buf_xtb_dy_05
+76823	npc_xtb_dy_001	1036	DialogID_76823		item_xtb_dy_01-1|item_xtb_dy_02-1	interactinfo_76823	okmenu_76823	76862	
+76824	npc_xtb_dy_008	1036	DialogID_76824			interactinfo_76824	okmenu_76824	76862	
+76825	npc_xtb_dy_009	1036	DialogID_76825	item_xtb_dy_03-1		interactinfo_76825	okmenu_76825	76863	
+76826	npc_xtb_dy_008	1036	DialogID_76826		item_xtb_dy_03-1	interactinfo_76826	okmenu_76826	76863	
+76812	Eventnpc_xtb_008	1042				interactinfo_76812		76818	
+76827	newmp_xingtb_001	1036	DialogID_76827	item_xtb_dy_04-1		interactinfo_76827	okmenu_76827	76864	
+76818	npc_xtb_dy_rd04	1036	DialogID_76818	useitem_xtbevent_002-3		interactinfo_76818	okmenu_76818	76853	
+76828	npc_xtb_dy_011	1036	DialogID_76828	item_xtb_dy_05-1		interactinfo_76828	okmenu_76828	76865	
+76829	npc_xtb_dy_012	1036	DialogID_76829	item_xtb_dy_06-1		interactinfo_76829	okmenu_76829	76865	
+76830	npc_xtb_dy_010	1036	DialogID_76830		item_xtb_dy_05-1|item_xtb_dy_06-1	interactinfo_76830	okmenu_76830	76865	

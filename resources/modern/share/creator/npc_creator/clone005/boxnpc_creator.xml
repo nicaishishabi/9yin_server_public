@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="54FBF0F8D2E3416FACFACA8DDBB6B17C" x="225.932" y="110.357" z="-444.059" radius="15.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="BoxClone005_well" sx="2.600" sy="2.600" sz="2.600" ay="2.246" amount="3" refreshtime="1" NotPositive="0" desc="水缸">
+                <position x="234.743" z="-434.649" sx="2.600" sy="2.600" sz="2.600" ay="2.246" />
+                <position x="238.118" z="-438.463" sx="3.240" sy="3.240" sz="3.240" ay="-1" />
+                <position x="239.590" z="-444.127" sx="2.580" sy="2.580" sz="2.580" ay="-1" />
+            </item>
+            <item No="2" id="BoxClone005_barrel" ay="2.001" az="1.253" amount="5" refreshtime="1" NotPositive="0" desc="水桶">
+                <position x="226.630" z="-431.658" ay="2.001" az="1.253" />
+                <position x="231.440" z="-432.231" ay="2.246" />
+                <position x="233.676" z="-453.843" ay="2.246" az="1.349" />
+                <position x="227.798" z="-446.811" ax="1.507" ay="1.157" />
+                <position x="226.233" z="-436.818" ay="2.216" az="4.622" />
+            </item>
+        </creator>
+        <creator No="3117361F22F64F6BA3A1BF6A99A26CF1" x="273.737" y="108.926" z="-542.697" radius="15.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="BoxClone005_well" sx="3.900" sy="3.900" sz="3.900" ay="-0.020" amount="3" refreshtime="1" NotPositive="0" desc="水缸">
+                <position x="282.521" z="-549.051" sx="3.900" sy="3.900" sz="3.900" ay="-0.020" />
+                <position x="283.421" z="-545.370" sx="3.470" sy="3.470" sz="3.470" ay="-0.020" />
+                <position x="274.673" z="-553.932" sx="3.530" sy="3.530" sz="3.530" ay="-0.020" />
+            </item>
+            <item No="2" id="BoxClone005_barrel" ax="1.531" ay="0.035" amount="5" refreshtime="1" NotPositive="0" desc="水桶">
+                <position x="275.805" z="-540.407" ax="1.531" ay="0.035" />
+                <position x="282.000" z="-533.428" ax="-1.082" ay="0.010" />
+                <position x="283.386" z="-535.733" ax="0.032" ay="-0.070" az="-0.889" />
+                <position x="270.226" z="-554.534" ax="-0.850" ay="-0.110" az="-0.086" />
+                <position x="279.927" z="-551.400" az="1.514" />
+                <position x="276.384" z="-531.464" ax="1.444" ay="0.740" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

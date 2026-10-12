@@ -1,0 +1,365 @@
+STRING	STRING	STRING	STRING	STRING
+ID	Type	TypeID	Order	RandCount
+70002	question	60001	-1	
+70002	question	60002	-1	
+70002	question	60003	-1	
+70002	question	60004	-1	
+70002	question	60005	-1	
+70004	question	60006	-1	
+70004	question	60007	-1	
+70004	question	60008	-1	
+70004	question	60009	-1	
+70004	question	60010	-1	
+70006	question	60011	-1	
+70006	question	60012	-1	
+70006	question	60013	-1	
+70006	question	60014	-1	
+70006	question	60015	-1	
+70008	question	60016	-1	
+70008	question	60017	-1	
+70008	question	60018	-1	
+70008	question	60019	-1	
+70008	question	60020	-1	
+70010	question	60021	-1	
+70010	question	60022	-1	
+70010	question	60023	-1	
+70010	question	60024	-1	
+70010	question	60025	-1	
+70012	question	60026	-1	
+70012	question	60027	-1	
+70012	question	60028	-1	
+70012	question	60029	-1	
+70012	question	60030	-1	
+70003	useitem	60002	1	
+70005	useitem	60003	1	
+70007	useitem	60004	1	
+70009	useitem	60005	1	
+70011	useitem	60006	1	
+70001	useitem	60001	1	
+70013	interact	60000	1	
+70015	special	1124	1	
+70020	interact	60001	1	
+70021	interact	60002	1	
+70022	interact	60003	1	
+70023	interact	60004	1	
+70016	interact	60005	1	
+70024	interact	60006	1	
+70027	question	60031	-1	
+70027	question	60032	-1	
+70027	question	60033	-1	
+70028	question	60034	-1	
+70028	question	60035	-1	
+70028	question	60036	-1	
+70029	collect	60001	2	
+70029	collect	60002	2	
+70029	collect	60003	2	
+70029	collect	60004	2	
+70029	collect	60005	2	
+70029	interact	60013	1	
+70031	story	60001	1	
+70031	interact	60020	2	
+70500	story	60002	1	
+70500	story	60003	2	
+70500	interact	60007	3	
+70501	hunter	60001	1	
+70502	interact	60008	1	
+70502	collect	60006	2	
+70502	interact	60009	3	
+70511	interact	60040	1	
+70511	interact	60041	2	
+70511	story	60012	3	
+70512	interact	60042	1	
+70512	interact	60043	2	
+70512	interact	60044	3	
+70512	hunter	60003	4	
+70512	interact	60045	5	
+70513	interact	60046	1	
+70513	collect	60008	2	
+70514	interact	60048	1	
+70514	interact	60049	2	
+70514	hunter	60004	3	
+70514	interact	60050	4	
+70514	interact	60051	5	
+70515	interact	60052	1	
+70515	collect	60009	2	
+70517	interact	60056	1	
+70517	collect	60012	2	
+70517	interact	60057	3	
+70517	hunter	60006	4	
+70503	interact	60010	1	
+70503	interact	60011	2	
+70503	interact	60012	3	
+70503	story	60004	4	
+70503	interact	60014	5	
+70505	interact	60018	1	
+70505	story	60006	2	
+70505	hunter	60002	3	
+70505	interact	60019	4	
+70508	story	60009	1	
+70508	interact	60029	2	
+70508	interact	60030	3	
+70508	interact	60031	4	
+70509	interact	60033	1	
+70509	story	60010	2	
+70509	interact	60034	3	
+70510	interact	60036	1	
+70510	interact	60037	2	
+70510	interact	60038	3	
+70510	story	60011	4	
+70516	interact	60053	1	
+70516	interact	60054	2	
+70516	collect	60010	3	
+70516	collect	60011	3	
+70516	story	60013	4	
+70506	story	60007	1	
+70506	interact	60058	2	
+70506	interact	60021	3	
+70506	interact	60022	4	
+70506	interact	60023	5	
+70506	interact	60024	6	
+70507	story	60008	1	
+70507	interact	60027	3	
+70507	interact	60028	4	
+70504	story	60005	1	
+70504	interact	60015	2	
+70504	collect	60007	3	
+70504	interact	60059	4	
+70504	interact	60016	5	
+70504	interact	60017	6	
+70036	interact	60060	1	
+70036	useitem	60009	2	
+70037	interact	60061	1	
+70037	useitem	60010	2	
+70038	interact	60062	1	
+70038	useitem	60011	2	
+70905	interact	60905	1	
+70041	special	1132	1	
+70041	special	1133	1	
+70041	special	1134	1	
+70041	special	1135	1	
+70041	special	1136	1	
+70042	special	1132	1	
+70042	special	1133	1	
+70042	special	1134	1	
+70042	special	1135	1	
+70042	special	1137	1	
+70043	special	1132	1	
+70043	special	1133	1	
+70043	special	1134	1	
+70043	special	1135	1	
+70043	special	1138	1	
+70044	special	1132	1	
+70044	special	1133	1	
+70044	special	1134	1	
+70044	special	1135	1	
+70044	special	1139	1	
+70045	special	1132	1	
+70045	special	1133	1	
+70045	special	1134	1	
+70045	special	1135	1	
+70045	special	1140	1	
+70046	special	1132	1	
+70046	special	1133	1	
+70046	special	1134	1	
+70046	special	1135	1	
+70046	special	1141	1	
+70800	interact	60063	1	
+70800	hunter	60007	2	
+70800	interact	60064	3	
+70903	interact	60903	1	
+70804	collect	60013	-1	3
+70804	collect	60014	-1	3
+70804	collect	60015	-1	3
+70804	collect	60016	-1	3
+70804	collect	60017	-1	3
+70804	collect	60018	-1	3
+70804	collect	60019	-1	3
+70804	collect	60020	-1	3
+70804	collect	60021	-1	3
+70804	collect	60022	-1	3
+70804	collect	60023	-1	3
+70804	collect	60024	-1	3
+70804	collect	60025	-1	3
+70804	collect	60026	-1	3
+70804	collect	60027	-1	3
+70804	collect	60028	-1	3
+70804	collect	60029	-1	3
+70804	collect	60030	-1	3
+70804	collect	60031	-1	3
+70804	collect	60032	-1	3
+70804	hunter	60010	-1	3
+70804	hunter	60011	-1	3
+70804	hunter	60012	-1	3
+70804	hunter	60013	-1	3
+70804	hunter	60014	-1	3
+70804	hunter	60015	-1	3
+70907	interact	60907	1	
+70904	interact	60904	1	
+70906	interact	60906	1	
+70908	interact	60908	1	
+70909	interact	60909	1	
+70910	interact	60910	1	
+70911	interact	60911	1	
+70913	interact	60913	1	
+70914	interact	60914	1	
+70915	interact	60915	1	
+70916	interact	60916	1	
+70919	interact	60919	1	
+70920	interact	60920	1	
+70803	hunter	60009	1	
+70805	special	1142	1	
+70806	special	1143	1	
+70807	story	60014	1	
+70808	hunter	60910		
+70807	interact	60065	1	
+70048	collect	60033	1	
+70048	collect	60034	1	
+70048	collect	60035	1	
+70048	collect	60036	1	
+70047	special	1144	2	
+70047	interact	60067	1	
+70050	interact	60069	-1	
+70050	interact	60070	-1	
+70050	interact	60071	-1	
+70050	interact	60072	-1	
+70049	special	1145	1	
+70049	interact	60068	2	
+70049	interact	60073	3	
+70051	special	1146	1	
+70053	interact	60075	1	
+70052	interact	60074	1	
+70054	special	1147	1	
+70055	special	1148	1	
+70056	special	1149	1	
+70057	special	1150	1	
+70058	special	1151	1	
+70059	special	1161	1	
+70061	collect	60037	1	
+70207	interact	60078	1	
+70207	interact	60079	2	
+70203	special	1200	1	
+70201	interact	60201	1	
+70204	special	1217	1	
+70205	interact	60211	1	
+70202	collect	60202	-1	1
+70202	collect	60203	-1	1
+70202	collect	60204	-1	1
+70202	collect	60205	-1	1
+70206	collect	60206	-1	1
+70206	collect	60207	-1	1
+70206	collect	60208	-1	1
+70206	collect	60209	-1	1
+70065	special	1173	1	
+70065	special	1174	1	
+70065	special	1175	1	
+70068	special	1185	1	
+70070	interact	60213	1	
+70071	interact	60214	1	
+70072	interact	60215	1	
+70073	interact	60216	1	
+70074	interact	60217	1	
+70084	collect	60038	1	
+70083	special	1211	1	
+70083	special	1214	1	
+70401	useitem	60020	1	
+70405	interact	60223	1	
+70087	interact	60220	1	
+70087	interact	60221	1	
+70087	interact	60222	1	
+70402	hunter	60023	1	
+70404	interact	60219	1	
+70404	useitem	60021	2	
+70404	hunter	60022	3	
+70403	interact	60218	1	
+70403	special	1218	2	
+70086	hunter	60021	1	
+70088	collect	60907	1	
+70089	useitem	60022	1	
+70090	collect	60039	1	
+70091	collect	60040	1	
+70092	useitem	60023	1	
+70410	hunter	60024	1	
+70411	hunter	60025	1	
+70412	hunter	60026	1	
+70413	hunter	60027	1	
+70414	hunter	60028	1	
+70232	collect	60220	-1	
+70232	collect	60221	-1	
+70232	collect	60222	-1	
+70232	collect	60223	-1	
+70233	special	1221	1	
+70233	special	1222	1	
+70235	interact	60922	-1	
+70235	interact	60923	-1	
+70235	interact	60924	-1	
+70235	interact	60925	-1	
+70236	collect	60908	1	
+70102	interact	60926	1	
+70117	special	1359	1	
+70118	special	1360	1	
+70119	special	1361	1	
+70120	special	1362	1	
+70121	special	1363	1	
+70122	special	1364	1	
+70126	interact	60927	1	
+70131	special	1371	1	
+70131	interact	60928	2	
+70131	interact	60929	3	
+70132	interact	60930	-1	
+70132	interact	60931	-1	
+70132	interact	60932	-1	
+70132	interact	60933	-1	
+70142	special	1383	1	
+70143	interact	60080	1	
+70143	interact	60081	2	
+70143	hunter	60029	3	
+70143	interact	60082	4	
+70145	interact	60934	1	
+70146	interact	60214	1	
+70146	interact	60215	1	
+70146	interact	60216	1	
+70146	interact	60217	1	
+70157	interact	60938	1	
+70154	interact	60935	1	
+70155	interact	60936	1	
+70156	interact	60937	1	
+70162	useitem	60024	1	
+70179	special	1390	1	
+70180	special	1391	1	
+70181	special	1392	1	
+70182	special	1393	1	
+70183	special	1394	1	
+70190	interact	60926	1	
+70184	special	1395	1	
+70185	interact	60939	1	
+70415	special	1396	1	
+70187	interact	60940	1	
+70520	useitem	60025	1	
+70097	special	1419	1	
+70098	special	1420	1	
+70099	special	1421	1	
+70261	useitem	60026	1	
+70260	hunter	60300	1	
+70260	story	60016	2	
+70123	special	1368	-1	
+70123	special	1425	-1	
+70123	special	1426	-1	
+70125	special	1426	1	
+70124	special	1425	1	
+70300	interact	60100	1	
+70300	interact	60108	2	
+70301	interact	60101	1	
+70301	interact	60109	2	
+70302	interact	60102	1	
+70302	interact	60110	2	
+70303	interact	60103	1	
+70303	interact	60111	2	
+70304	interact	60104	1	
+70304	interact	60112	2	
+70305	interact	60105	1	
+70305	interact	60113	2	
+70306	interact	60106	1	
+70306	interact	60114	2	
+70307	interact	60107	1	
+70307	interact	60115	2	
+70598	useitem	60027	1	

@@ -1,0 +1,59 @@
+NPC编号	对象类型	名称	模型编号	头像	NPC种类ID	NPC类型	响应范围	选择状态	交通工具	脚本编号	传送包编号	原型场景id	鼠标形状	AI编辑包
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	script	Name	Resource	Photo	CKindID	NpcType	SpringRange	SelectState	CloneSceneFlag	LuaScript	DoorPackageID	CloneSceneConfig	CursorShape	AIEditorPackID
+														
+CloneDoorNpc00027	CloneDoor	进入27号场景副本	npc\funcnpc018	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	2138	ini\scene\clone001_n	4	
+CloneDoorNpc00028	CloneDoor	进入28号场景副本	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	2139	ini\scene\clone002_n	4	
+CloneDoorNpc00029	CloneDoor	进入29号场景副本	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	42	10	2	1	npc\CloneDoorNpc00029.lua	1002	ini\scene\clone003	4	
+CloneDoorNpc00069	CloneDoor	进入30号场景副本	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1103	ini\scene\clone004_lfs	4	
+CloneDoorNpc00067	CloneDoor	进入30号场景副本	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1104	ini\scene\clone004_jj	4	
+CloneDoorNpc00068	CloneDoor	进入30号场景副本	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1105	ini\scene\clone004_qb	4	
+CloneDoorNpc00066	CloneDoor	进入30号场景副本	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1106	ini\scene\clone004_nm	4	
+CloneDoorNpc00030	CloneDoor	进入30号场景副本	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1107	ini\scene\clone004_wln	4	
+CloneDoorNpc00031	CloneDoor	进入31号场景副本	npc\funcnpc018	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1004	ini\scene\clone005	4	
+CloneDoorNpc00032	CloneDoor	进入32号场景副本	npc\funcnpc018	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1005	ini\scene\clone006	4	
+CloneDoorNpc00033	CloneDoor	进入33号场景副本	npc\funcnpc018	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1006	ini\scene\clone007	4	
+CloneDoorNpc00034	CloneDoor	进入34号场景副本	npc\funcnpc018	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1007	ini\scene\clone008	4	
+CloneDoorNpc00035	CloneDoor	进入35号场景副本	npc\funcnpc018	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1008	ini\scene\clone009	4	
+CloneDoorNpc00036	CloneDoor	进入36号场景副本	npc\funcnpc018	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1009	ini\scene\clone010	4	
+CloneDoorNpc00037	CloneDoor	进入37号场景副本	npc\funcnpc018	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1039	ini\scene\clone011	4	
+CloneDoorNpc00038	CloneDoor	进入38号场景副本	npc\funcnpc018	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1011	ini\scene\clone012	4	
+CloneDoorNpc00039	CloneDoor	进入39号场景副本	npc\funcnpc018	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1012	ini\scene\clone013	4	
+CloneDoorNpc00040	CloneDoor	进入40号场景副本	npc\funcnpc018	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1013	ini\scene\clone014	4	
+CloneDoorNpc00041	CloneDoor	进入41号场景副本	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1014	ini\scene\clone015	4	
+CloneDoorNpc00042	CloneDoor	进入42号场景副本	npc\funcnpc018	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1015	ini\scene\clone016	4	
+CloneDoorNpc00043	CloneDoor	进入43号场景副本	npc\funcnpc018	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1016	ini\scene\clone017	4	
+CloneDoorNpc00044	CloneDoor	进入44号场景副本	npc\funcnpc018	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1017	ini\scene\clone018	4	
+CloneDoorNpc00045	CloneDoor	进入45号场景副本	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1018	ini\scene\clone019	4	
+CloneDoorNpc00046	CloneDoor	进入46号场景副本	npc\funcnpc018	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1019	ini\scene\clone020	4	
+CloneDoorNpc00048	CloneDoor	进入48号场景副本	npc\funcnpc018	icon\funcnpc\clonedoor.png	4	42	10	2	1	npc\CloneDoorNpc00048.lua	1032	ini\scene\clone021	4	
+														
+CloneDoorNpc00242	CloneDoor	塔	npc\fbnpc021021	icon\monster\fbnpc021021.png	4	42	10	2			2005	ini\scene\adv023_clone	4	
+CloneDoorNpc00243	CloneDoor	侠客山洞	npc\fbnpc021021	icon\monster\fbnpc021021.png	4	42	10	2			2006	ini\scene\adv032_clone	4	
+CloneDoorNpc00244	CloneDoor	水府洞天	npc\fbnpc021021	icon\monster\fbnpc021021.png	4	42	10	2			2007	ini\scene\adv033_clone	4	
+CloneDoorNpc00245	CloneDoor	雪峰	npc\fbnpc021021	icon\monster\fbnpc021021.png	4	42	10	2			2008	ini\scene\adv101_clone	4	
+CloneDoorNpc00246	CloneDoor	古狱	npc\fbnpc021021	icon\monster\fbnpc021021.png	4	42	10	2			2009	ini\scene\adv100_clone	4	
+														
+CloneDoorNpc00251	CloneDoor	赌船	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1113	ini\scene\adv009	4	
+														
+CloneDoorNpc00338	CloneDoor	进入338号场景副本	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1146	ini\scene\clonetl002_ql	4	
+														
+CloneDoorNpc00346	CloneDoor	千灯镇副本	npc\funcnpc018	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1148	ini\scene\clone032	4	
+CloneDoorNpc00345	CloneDoor	快活岛副本	npc\funcnpc018	icon\funcnpc\clonedoor.png	4	42	10	2	1	npc\clone_door_npc.lua	1152	ini\scene\clone036	4	
+CloneDoorNpc00347	CloneDoor	金陵变	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1151	ini\scene\clone033	4	
+CloneDoorNpc00348	CloneDoor	晴瑶宫	npc\funcnpc018	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1165	ini\scene\clone035	4	
+CloneDoorNpc00575	CloneDoor	动态禁地	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1167	ini\scene\clonezone001	4	
+CloneDoorNpc00576	CloneDoor	动态禁地	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1170	ini\scene\clonezone002	4	
+CloneDoorNpc00688	CloneDoor	大漠鬼城	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1174	ini\scene\clone038	4	
+CloneDoorNpc00691	CloneDoor	进入千苍峡副本	npc\funcnpc018	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1176	ini\scene\clone039	4	
+														
+CloneDoorNpc00900	CloneDoor	隐王峰	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	2172	ini\scene\clone043	4	
+														
+CloneDoorNpc00901	CloneDoor	五行天宫	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	2186	ini\scene\clone044	4	
+														
+CloneDoorNpc00952	CloneDoor	无间鬼市	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1178	ini\scene\clone045	4	
+CloneDoorNpc00953	CloneDoor	喋血蛇窟	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1179	ini\scene\clone046	4	
+														
+CloneDoorNpc00954	CloneDoor	宗门试炼	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	1182	ini\scene\clone047	4	
+														
+CloneDoorNpc00456	CloneDoor	阴阳颠倒宫	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	42	10	2		npc\clone_door_npc.lua	2209	ini\scene\clone053	4	

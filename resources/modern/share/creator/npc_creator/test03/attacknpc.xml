@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <staticcreator>
+        <item x="1235.761" y="84.023" z="627.600" id="Leader_chengdu1" RefreshTime="30000.0" PathId="city05_add_01" PatrolMode="1" WakeupRange="16.0" ChaseRange="27.0" NotPositive="0" desc="右前厅女剑客巡逻" ChildList="monc051819" PosList="0.000,0.000" />
+        <item x="1271.993" y="83.897" z="723.087" ay="3.098" id="Leader_chengdu2" RefreshTime="30000.0" PathId="city05_add_02" PatrolMode="1" WakeupRange="16.0" ChaseRange="27.0" NotPositive="0" desc="左前厅男弟子巡逻" ChildList="monc051802" PosList="0.000,0.000" />
+        <item x="1355.949" y="83.896" z="741.566" ay="-1.560" id="Leader_chengdu3" RefreshTime="30000.0" PathId="city05_add_03" PatrolMode="1" WakeupRange="16.0" ChaseRange="27.0" NotPositive="0" desc="左后廊女弟子巡逻" ChildList="monc051803" PosList="0.000,0.000" />
+        <item x="1307.595" y="82.594" z="707.227" ay="-1.555" id="Leader_chengdu4" RefreshTime="30000.0" PathId="city05_add_04" PatrolMode="1" WakeupRange="16.0" ChaseRange="27.0" NotPositive="0" desc="左侧女巡逻队" ChildList="monc051819;monc051803;monc051803" PosList="0.000,1.000;-1.000,-1.000;1.000,-1.000" />
+        <item x="1232.493" y="81.430" z="704.010" ay="-3.138" id="Leader_chengdu5" RefreshTime="30000.0" PathId="city05_add_05" PatrolMode="1" WakeupRange="16.0" ChaseRange="27.0" NotPositive="0" desc="右侧男巡逻队" ChildList="monc051818;monc051802;monc051802" PosList="0.000,1.000;-1.001,-1.000;1.000,-1.000" />
+        <item x="1293.978" y="82.594" z="721.574" ay="3.060" id="Leader_chengdu6" RefreshTime="30000.0" PathId="city05_add_06" PatrolMode="1" WakeupRange="16.0" ChaseRange="27.0" NotPositive="0" desc="后院男巡逻队" ChildList="monc051818;monc051802;monc051802" PosList="0.000,1.000;-1.000,-1.000;1.000,-1.000" />
+        <item x="1371.386" y="82.594" z="593.517" id="Leader_chengdu7" RefreshTime="30000.0" PathId="city05_add_07" PatrolMode="1" WakeupRange="16.0" ChaseRange="27.0" NotPositive="0" desc="后院女巡逻队" ChildList="monc051819;monc051803;monc051803" PosList="0.000,1.000;-1.000,-1.000;1.000,-1.000" />
+        <item x="1378.478" y="83.468" z="624.134" ay="3.118" id="Leader_chengdu8" RefreshTime="30000.0" PathId="city05_add_08" PatrolMode="1" WakeupRange="16.0" ChaseRange="27.0" NotPositive="0" desc="右后廊男剑客巡逻" ChildList="monc051818" PosList="0.000,0.000" />
+        <item x="1375.067" y="83.468" z="693.114" ay="3.088" id="Leader_chengdu1" RefreshTime="30000.0" PathId="test03_09" PatrolMode="1" WakeupRange="16.0" ChaseRange="27.0" NotPositive="0" desc="右前厅女剑客巡逻" ChildList="monc051817" PosList="-0.000,0.000" />
+        <item x="1240.730" y="81.560" z="654.727" id="Leader_chengdu1" RefreshTime="30000.0" PathId="test03_10" PatrolMode="1" WakeupRange="16.0" ChaseRange="27.0" NotPositive="0" desc="右前厅女剑客巡逻" ChildList="monc051803" PosList="0.000,0.000" />
+        <item x="1295.836" y="82.594" z="635.266" ay="0.090" id="Leader_chengdu1" RefreshTime="30000.0" PathId="test03_11" PatrolMode="1" WakeupRange="16.0" ChaseRange="27.0" NotPositive="0" desc="右前厅女剑客巡逻" ChildList="monc051819" PosList="0.000,0.000" />
+    </staticcreator>
+</object>

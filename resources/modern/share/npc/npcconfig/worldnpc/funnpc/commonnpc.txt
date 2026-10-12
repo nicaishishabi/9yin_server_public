@@ -1,0 +1,8 @@
+NPC编号	对象类型	名称	模型编号	头像	NPC类型	NPC种类ID	响应范围	选择操作分类	脚本编号	运营管理读取类别	运营管理读取名称	AI编辑包
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	script	Name	Resource	Photo	NpcType	CKindID	SpringRange	SelectState	LuaScript	QTypeID	QName	AIEditorPackID
+												
+ComposeNpc0001	TableNpc	打铁台	npc\itemnpc057	icon\funcnpc\itemnpc057.png	154	4	0	0		13	13	
+ComposeNpc0002	TableNpc	灶台	npc\itemnpc057	icon\funcnpc\itemnpc057.png	155	4	0	0		13	13	
+ComposeNpc0003	TableNpc	裁缝桌	npc\itemnpc057	icon\funcnpc\itemnpc057.png	156	4	0	0		13	13	
+ComposeNpc0004	TableNpc	打造台	npc\itemnpc057	icon\funcnpc\itemnpc057.png	157	4	0	0		13	13	

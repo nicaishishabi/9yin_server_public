@@ -1,0 +1,11 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	Title	Step	SearchID	Line	AcceptNpc	SubmitNpc	AcceptSceneID	SubmitSceneID	AutoAcceptID	AutoSubmit	PreTaskLimit	NextTaskLimit	AcceptLimit	AcceptReputationLimit	SubmitLimit	SubFunction	TaskItemList	RefreshMonster	TimeLimitLength	SubmitNpcEx	TaskScript	TitleId	ContextId	AcceptDialogId	CompleteDialogId	UnCompleteDialogId	TaskTargetId	TrackInfoID	LineNextInfo	CanAcceptMenu	UncompleteMenu	CompleteMenu	AcceptMovie	SubmitMovie	DramaAccept	DramaSubmit	CanGiveup	ShareType	RepeatType	RepeatPeriod	CountDayLimit	DifficultCoefficient	DifficultLevel	TiaozhanTime
+75451			s1750101	20			930	930	75452	1		75452										title_75451	context_75451				target_75451		next_75451								0	0	0	0	0			
+75452			s1750101	20			930	930	75453	1	75451	75453										title_75452	context_75452				target_75452		next_75452								0	0	0	0	0			
+75453			s1750101	20			930	930	75454	1	75452	75454										title_75453	context_75453				target_75453		next_75453								0	0	0	0	0			
+75454			s1750101	20			930	930	75455	1	75453	75455										title_75454	context_75454				target_75454		next_75454								0	0	0	0	0			
+75455			s1750101	20			930	930	75456	1	75454	75456										title_75455	context_75455				target_75455		next_75455								0	0	0	0	0			
+75456			s1750101	20			930	930	75457	1	75455	75457										title_75456	context_75456				target_75456		next_75456								0	0	0	0	0			
+75457			s1750101	20			930	930	75458	1	75456	75478										title_75457	context_75457				target_75457		next_75457								0	0	0	0	0			
+75458			s1750101	20			930	930	75459	1	75457	75459										title_75458	context_75458				target_75458		next_75458								0	0	0	0	0			
+75459			s1750101	20		npc_lzy_201908jq6_018	930	930			75458											title_75459	context_75459		complete_75459;submit_75459		target_75459		next_75459			CompleteMenu_75459					0	0	0	0	0			

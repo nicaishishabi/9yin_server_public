@@ -1,0 +1,365 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	NpcId	SceneID	DialogID	GetItems	LostItems	TrackInfo	OkMenu	TaskID	ActionID	HideNpcID
+4003	WorldNpc00007	1	DialogID_4003			interactinfo_4003	okmenu24011			
+4010	Gather00004f	1	0			interactinfo_4010				
+4011	Gather00004f	1	0			interactinfo_4011				
+4020	Gather00019f	22	DialogID_4020_1			interactinfo_4020_1				
+4021	WorldNpc09801	17	DialogID_4021_1			interactinfo_4021_1				
+4024	WorldNpc00032	4	DialogID_4024_1			interactinfo_4024				
+4025	WorldNpc00031	4	DialogID_4025_1		taskitem_9b-1	interactinfo_4025_1				
+4027	WorldNpc06459	20	DialogID_4027_1			interactinfo_4027				
+4029	WorldNpc06459	20	DialogID_4029_1			interactinfo_4029_1				
+4030	Gather00010a	20	DialogID_24323_1			interactinfo_4030				
+4036	WorldNpc02907	10	DialogID_4036_1			interactinfo_4036_1	okmenu_4036_1			
+4038	WorldNpc02522	9	DialogID_4038_1	taskitem_12a-1		interactinfo_4038_1				
+4039	WorldNpc02523	9	DialogID_4039_2		taskitem_12a-1	interactinfo_4039_2				
+4041	WorldNpc02526	9	DialogID_4041_2		taskitem_22a-1	interactinfo_4041_2				
+4042	EventNpc24445	9				interactinfo_4042_1				
+4044	WorldNpc02533	9	DialogID_4044_1		taskitem_414-1	interactinfo_4044_1				
+4045	WorldNpc02534	9	DialogID_4045_1	useitem_8a-1		interactinfo_4045_1				
+4046	Gather00016a	22				interactinfo_4046_1				
+4047	WorldNpc02533	9	DialogID_4047_1			interact24499_1				
+4048	WorldNpc06128	22	DialogID_4048_1			interact24508_1				
+4049	WorldNpc06132	22	DialogID_24515_1		taskitem_27a-1	interact24515_1				
+4050	Gather00019a	22				interact24519_1				
+4051	Gather00020a	22				interact24519_2				
+4052	Gather00021a	22				interact24519_3				
+4053	WorldNpc06128	22	DialogID_4053_1		taskitem_30a-1	interact24528_1				
+4054	EventNpc24538_1	9				interact24538_1				
+4055	EventNpc24538_2	9				interact24538_2				
+4056	EventNpc24538_3	9				interact24538_3				
+4057	Gather00023a	9		useitem_17a-1		interactinfo_4057				
+4058	Gather00024a	9		useitem_19a-1		interactinfo_4058_1				
+4059	WorldNpc02450	9	DialogID_24589_1		taskitem_35a-1	interact24589_1				
+4060	WorldNpc02451	9	DialogID_24589_2		taskitem_36a-1	interact24589_2				
+4061	WorldNpc02450	9	DialogID_4061_1	taskitem_38a-1		interact24591_1				
+4062	WorldNpc02479	9	DialogID_4062_2		taskitem_38a-1|taskitem_39a-1	interact24591_2				
+4063	WorldNpc02451	9	DialogID_4063_1		taskitem_35a-1	interact24593_1				
+4064	WorldNpc02450	9	DialogID_4064_2		taskitem_36a-1	interact24593_2				
+4065	WorldNpc04706	11	DialogID_4065_1			interactinfo_4065_1				
+4067	WorldNpc04810	11	DialogID_4067_1		useitem_26b-1	interactinfo_4067_1				
+4071	WorldNpc04429	11	DialogID_24673_1		taskitem_29b-1	interact24673_1				
+4072	WorldNpc04707	11				interact24679_1				
+4073	WorldNpc04555	11	DialogID_24691_1	taskitem_88-1		interact24691_1				
+4074	WorldNpc04710	11	DialogID_24691_2		taskitem_88-1	interact24691_2				
+4075	WorldNpc04556	11	DialogID_24692_1	taskitem_24b-1		interact24692_1				
+4076	WorldNpc04710	11	DialogID_24692_2		taskitem_24b-1	interact24692_2				
+4077	WorldNpc04557	11	DialogID_24694_1			interact24694_1				
+4081	WorldNpc09813	17	DialogID_4081_1	useitem_5h-1		interactinfo_4081_1				
+4142	WorldNpc06009	21	DialogID_4142_1			interactinfo_4142_1	okmenu_4142_1			
+4150	WorldNpc06110	22	DialogID_4150_2	useitem_18f-1	useitem_42b-1	interactinfo_4150_2	okmenu_4150_2			
+4196	WorldNpc08858	13	DialogID_4196_1		taskitem_1a-5	interactinfo_4196_1	okmenu_4196_1			
+4207	EventNpc24326	20				interactinfo_4207_1				
+4242	Gather00031b	9		useitem_17a-1		interactinfo_4242_1				
+4252	WorldNpc02449	9	DialogID_4252_1			interactinfo_4252_1	okmenu_4252_1			
+4001	EventNpc24001	1				interactinfo_4001_1		24002		
+4005	Gather00003f	1	0			interactinfo_4005		24013		
+4012	FuncNpc00002	1	DialogID_4012_1	useitem_39b-1		interactinfo_4012_1	okmenu_4012	24034		
+4013	FuncNpc00004		DialogID_4013_1			interactinfo_4013_1	okmenu_4013	24037		
+4082	WorldNpc00016	1	DialogID_4082_1			interactinfo_4082_1	okmenu_4082_1	24026		
+4083	WorldNpc00016	1	DialogID_4083_2			interactinfo_4083_2	okmenu_4083_2	24026		
+4088	WorldNpc00001	1	DialogID_4088_1			interactinfo_4088_1	okmenu_4088_2	24005	ty_think	ty_think
+4089	WorldNpc00003	1	DialogID_4089_1			interactinfo_4089_1	okmenu_4089_1	24010	ty_kv6_5	ty_kv6_5
+4090	WorldNpc00005	1	DialogID_4090_2			interactinfo_4090_2	okmenu_4090_2	24010	ty_shake	ty_shake
+4091	WorldNpc00006	1	DialogID_4091_3			interactinfo_4091_3	okmenu_4091_3	24010	ty_shake	ty_shake
+4094	EventNpc24016	1				interactinfo_4094_1		24016		
+4095	EventNpc24019	1				interactinfo_4095_1		24019		
+4096	WorldNpc00014	1	DialogID_4096_1		taskitem_2f-1	interactinfo_4096_1	okmenu_4096	24024		
+4097	WorldNpc00017	1	DialogID_4097_1			interactinfo_4097_1	okmenu_4097_1	24031		
+4098	Gather00003b	1	DialogID_4098_2	useitem_3f-1		interactinfo_4098_2	okmenu_4098_2	24031		
+4084	Gather00003f	1	0			interactinfo_4005		24013		
+4006	Gather00003f	1	0			interactinfo_4005		24013		
+4299	WorldNpc02604	10	DialogID_4299_1			interactinfo_4299_2	okmenu_4299_1			
+4040	WorldNpc02526	9	DialogID_4040_1		taskitem_13a-1	interactinfo_4040_1				
+4162	EventNpc24201	17				interactinfo_4162_1				
+4099	FuncNpc00004	1	DialogID_4099			interactinfo_4099_1	okmenu_4099	24041		
+4100	WorldNpc00168	1	DialogID_4100			interactinfo_4100_2	okmenu_4100	24041		
+4101	WorldNpc00018	1	DialogID_4101			interactinfo_4101_3	okmenu_4101	24041		
+4102	WorldNpc00020	1	DialogID_4102_1	useitem_5f-1		interactinfo_4102	okmenu_4102	24046		
+4002	WorldNpc00002	1	DialogID_4002			interactinfo_4002	okmenu_4002	24005	bow_1	bow_1
+4314	EventNpc24042	1				interactinfo_4314		24046		
+4315	WorldNpc02734	10	DialogID_4315			interactinfo_4315	okmenu_4315			
+4015	WorldNpc02623	10	DialogID_4015_1			interactinfo_4015_1	okmenu_4015_1			
+4017	WorldNpc02629	10	DialogID_4017_3			interactinfo_4017_3	okmenu_4017_3			
+4018	WorldNpc02626	10	DialogID_4018_4			interactinfo_4018_4	okmenu_4018_4			
+4320	Qiandengqy_001	1	DialogID_4320			interactinfo_4320	okmenu_4320	24035		
+4321	Qiandengqy_002	1	DialogID_4321			interactinfo_4321	okmenu_4321	24035		
+4322	Qiandengqy_003	1	DialogID_4322			interactinfo_4322	okmenu_4322	24035		
+4323	Qiandengqy_004	1	DialogID_4323			interactinfo_4323	okmenu_4323	24035		
+4324	FuncNpc00001	1	DialogID_4324	taskitemqdadd_002-1	taskitemqdadd_001-1	interactinfo_4324	okmenu_4324	24028		
+4007	Gather00026f	1	0			interactinfo_4007		24021		
+4008	Gather00027f	1	0			interactinfo_4008		24021		
+4009	Gather00028f	1	0			interactinfo_4009		24021		
+4327	FuncNpc00004	1	DialogID_4327	taskitemqdadd_001-1		interactinfo_4327	okmenu_4327	24028		
+4325	EventNpc24039	1				interactinfo_4325				
+4326	TGnpc004	1	DialogID_4326			interactinfo_4326	okmenu_4326			
+4329	FuncNpc00004	1				interactinfo_4329				
+4330	WorldNpc00047	1	DialogID_4330	taskitem_2f-1		interactinfo_4330	okmenu_4330	24024		
+4087	WorldNpc00001	1	DialogID_4087_2			interactinfo_4087_2	okmenu_4087_1			
+4092	EventNpc24015	1				interactinfo_4092_1		24015		
+4331	EventNpc24077	1				interactinfo_4331		24017		
+4332	WorldNpc00085	1	DialogID_4332			interactinfo_4332	okmenu_4332	24040		
+4328	EventNpc24044	1	DialogID_4328			interactinfo_4328	okmenu_4328	24044		
+4016	WorldNpc02634	10	DialogID_4016_2			interactinfo_4016_2	okmenu_4016_2			
+4114	WorldNpc00026	1	DialogID_4114_1			interactinfo_4114_1	okmenu_4114			
+4118	WorldNpc02602	10	DialogID_4118			interactinfo_4118	okmenu_4118			
+4119	WorldNpc02605	10	DialogID_4119_1			interactinfo_4119_1	okmenu_4119			
+4120	WorldNpc02607	10	DialogID_4120_1			interactinfo_4120_1	okmenu_4120			
+4121	WorldNpc02608	10	DialogID_4121_1		useitem_10f-1	interactinfo_4121_1	okmenu_4121			
+4313	WorldNpc02602	10	DialogID_4313		taskitem_336m-1	interactinfo_4313	okmenu_4313			
+4316	WorldNpc02734	10	DialogID_4316			interactinfo_4316	okmenu_4316			
+4104	EventNpc24049	1				interactinfo_4104_1				
+4105	WorldNpc00012	1	DialogID_4105_1			interactinfo_4105_2	okmenu_4105			
+4342	FuncNpc00003	1	DialogID_4342			interactinfo_4342	okmenu_4342	24049		
+4106	FuncNpc00002	1	DialogID_4106		taskitem_11f-1	interactinfo_4106	okmenu_4106			
+4107	FuncNpc00002	1	DialogID_4107			interactinfo_4107	okmenu_4107			
+4338	Funcnpc00009	1		taskitem_048sj-1						
+4339	WorldNpc00004	1								
+4344	´¥·¢NPC	1	DialogID_4344			interactinfo_4344	okmenu_4344			
+4116	Gather00009f	1		taskitem_9f-1		interactinfo_4116_1				
+4117	EventNpc24074	10				interactinfo_4117_2				
+4336	WorldNpc02601	10	DialogID_4336			interactinfo_4336	okmenu_4336			
+4109	EventNpc24061	1				interactinfo_4109				
+4343	EventNpc24050	1				interactinfo_4343		24050		
+4345	EventNpc24050_2	10				interactinfo_4345		24062		
+4346	EventNpc24050_3	10				interactinfo_4346		24073		
+4348	EventNpc24050_1	1				interactinfo_4348		24053		
+4347	EventNpc24050_4	10				interactinfo_4347		24075		
+4349	FuncNpc00004	1	DialogID_4349			interactinfo_4349	okmenu_4349	24055		
+4110	WorldNpc00045	1	DialogID_4110_1			interactinfo_4110_1	okmenu_4110_1			
+4108	WorldNpc00020	1	DialogID_4108_1	taskitem_5f-6|taskitem_6f-5	useitem_6f-1	interactinfo_4108_1	okmenu_4108_1			
+4350	EventNpc24058	1				interactinfo_4350		24058		
+4112	qdzai065	1	DialogID_4112			interactinfo_4112	okmenu_4112	24068		
+4014	qdzai066	1	DialogID_4014		taskitem_38f-1	interactinfo_4014	okmenu_4014	24059		
+4122	EventNpc24063	1				interactinfo_4122		24063		
+4113	EventNpc24068	1				interactinfo_4113		24068		
+4337	EventNpc24091	10				interactinfo_4337		24091		
+4019	WorldNpc06008	10	DialogID_4019_1			interactinfo_4019	okmenu_4019_1			
+4022	WorldNpc09606	17	DialogID_4022_1			interactinfo_4022_1	okmenu_4022_1			
+4023	WorldNpc09602	17	DialogID_4023_1			interactinfo_4023_1	okmenu_4023_1			
+4031	WorldNpc08399	13	DialogID_4031_1	taskitem_412-2		interactinfo_4031_1	okmenu_4031_1			
+4032	WorldNpc08835	13	DialogID_4032_2		taskitem_412-2	interactinfo_4032_2	okmenu_4032_2			
+4033	Gather00010b	13				interactinfo_4033_3				
+4034	WorldNpc02640	10	DialogID_4034_1			interactinfo_4034_1	okmenu_4034_1			
+4035	EventNpc24385	10				interactinfo_4035_1				
+4037	WorldNpc02910	10	DialogID_4037_1			interactinfo_4037_1	okmenu_4037_1			
+4043	EventNpc24447	9				interactinfo_4043_1				
+4080	WorldNpc05923	21	DialogID_4080_1			interactinfo_4080_1	okmenu_4080_1			
+4115	WorldNpc00048	1	DialogID_4115_1			interactinfo_4115_1	okmenu_4115			
+4123	EventNpc25180	21				interactinfo_4123_1				
+4124	WorldNpc05927	21	DialogID_4124_1			interactinfo_4124_1	okmenu_4124_1			
+4126	WorldNpc05928	21	DialogID_4126_1			interactinfo_4126_1	okmenu_4126_1			
+4127	WorldNpc05924	21	DialogID_4127_1			interactinfo_4127_1	okmenu_4127_1			
+4128	WorldNpc05925	21	DialogID_4128_1			interactinfo_4128_1	okmenu_4128_1			
+4129	ItemNpc04001	21	DialogID_4129_1			interactinfo_4129_1	okmenu_4129_1			
+4130	ItemNpc04003	21	DialogID_4130_2			interactinfo_4130_2	okmenu_4130_2			
+4131	EventNpc24111	21				interactinfo_4131_1				
+4132	WorldNpc05930	21	DialogID_4132_1		taskitem_22f-1	interactinfo_4132_1	okmenu_4132_1			
+4133	EventNpc24113	21				interactinfo_4133_2				
+4134	WorldNpc05853	21	DialogID_4134_1			interactinfo_4134_1	okmenu_4134_1			
+4135	WorldNpc05853	21	DialogID_4135_2			interactinfo_4135_2	okmenu_4135_2			
+4137	WorldNpc06001	21	DialogID_4137_1			interactinfo_4137_1	okmenu_4137_1			
+4139	EventNpc24123_1	21				interactinfo_4139_1				
+4140	EventNpc24123_2	21				interactinfo_4140_2				
+4141	WorldNpc06003	21	DialogID_4141_1			interactinfo_4141_1	okmenu_4141_1			
+4143	EventNpc24132	21				interactinfo_4143_1				
+4144	WorldNpc06006	21	DialogID_4144_1			interactinfo_4144_1	okmenu_4144_1			
+4145	EventNpc24144	22				interactinfo_4145_1				
+4146	WorldNpc06103	22	DialogID_4146_1			interactinfo_4146_1	okmenu_4146_1			
+4147	WorldNpc06107	22	DialogID_4147_1	useitem_40b-1		interactinfo_4147_1	okmenu_4147_1			
+4148	WorldNpc06112	22	DialogID_4148_1			interactinfo_4148_1	okmenu_4148_1			
+4149	EventNpc24162	22				interactinfo_4149_2				
+4151	EventNpc24165	22				interactinfo_4151_1				
+4152	WorldNpc06115	22	DialogID_4152_1			interactinfo_4152_1	okmenu_4152_1			
+4153	Gather00022f	22		taskitem_28f-1		interactinfo_4153_1				
+4154	WorldNpc06122	22	DialogID_4154_1	useitem_19f-1	taskitem_28f-1	interactinfo_4154_1	okmenu_4154_1			
+4155	WorldNpc06118	22	DialogID_4155_1			interactinfo_4155_1	okmenu_4155_1			
+4156	WorldNpc06119	22	DialogID_4156_1			interactinfo_4156_1	okmenu_4156_1			
+4158	WorldNpc06125	22	DialogID_4158_1			interactinfo_4158_1	okmenu_4158_1			
+4159	ItemNpc12001	17	DialogID_4159_1			interactinfo_4159_1	okmenu_4159_1			
+4160	WorldNpc09607	17	DialogID_4160_2			interactinfo_4160_2	okmenu_4160_2			
+4161	EventNpc24199	17				interactinfo_4161_1				
+4163	WorldNpc09609	17	DialogID_4163_1			interactinfo_4163_1	okmenu_4163_1			
+4164	ItemNpc12002	17	DialogID_4164_1	taskitem_5h-1		interactinfo_4164_1	okmenu_4164_1			
+4165	WorldNpc09803	17	DialogID_4165_1		taskitem_5h-1	interactinfo_4165_1	okmenu_4165_1			
+4166	WorldNpc09803	17	DialogID_4166_1			interactinfo_4166_1	okmenu_4166_1			
+4167	ItemNpc12002	17	DialogID_4167_1			interactinfo_4167_1	okmenu_4167_1			
+4168	EventNpc24213	17				interactinfo_4168_2				
+4169	WorldNpc09806	17	DialogID_4169_1			interactinfo_4169_1	okmenu_4169_1			
+4170	WorldNpc09806	17	DialogID_4170_2	taskitem_6h-1		interactinfo_4170_2	okmenu_4170_2			
+4171	WorldNpc09602	17	DialogID_4171_1			interactinfo_4171_1	okmenu_4171_1			
+4172	WorldNpc09601	17	DialogID_4172_2			interactinfo_4172_2	okmenu_4172_2			
+4173	WorldNpc09605	17	DialogID_4173_1		taskitem_6h-1	interactinfo_4173_1	okmenu_4173_1			
+4174	WorldNpc09602	17	DialogID_4174_1			interactinfo_4174_1	okmenu_4174_1			
+4175	WorldNpc09801	17	DialogID_4175_2			interactinfo_4175_2	okmenu_4175_2			
+4176	WorldNpc09813	17	DialogID_4176_1			interactinfo_4176_1	okmenu_4176_1			
+4177	WorldNpc09601	17	DialogID_4177_1			interactinfo_4177_1	okmenu_4177_1			
+4178	WorldNpc09601	17	DialogID_4178_2			interactinfo_4178_2	okmenu_4178_2			
+4179	WorldNpc09611	17	DialogID_4179_1			interactinfo_4179_1	okmenu_4179_1			
+4180	FuncNpc00005	1	DialogID_4180_1	taskitem_3b-1		interactinfo_4180_1	okmenu_4180_1			
+4181	WorldNpc00028	1	DialogID_4181_1			interactinfo_4181_1	okmenu_4181_1			
+4182	WorldNpc00052	1	DialogID_4182_1			interactinfo_4182_1	okmenu_4182_1			
+4183	EventNpc24251	1				interactinfo_4183_1				
+4184	WorldNpc00032	1	DialogID_4184_1			interactinfo_4184_1	okmenu_4184_1			
+4185	WorldNpc00031	1	DialogID_4185_2			interactinfo_4185_2	okmenu_4185_2			
+4186	WorldNpc00032	1	DialogID_4186_1			interactinfo_4186_1	okmenu_4186_1			
+4187	WorldNpc05803	21	DialogID_4187_1			interactinfo_4187_1	okmenu_4187_1			
+4188	WorldNpc05803	21	DialogID_4188_2			interactinfo_4188_2	okmenu_4188_2			
+4189	WorldNpc05804	21	DialogID_4189_1			interactinfo_4189_1	okmenu_4189_1			
+4192	FuncNpc00006	1	DialogID_4192_1	taskitem_8b-1		interactinfo_4192_1	okmenu_4192_1			
+4193	WorldNpc09603	17	DialogID_4193_1			interactinfo_4193_1	okmenu_4193_1			
+4194	WorldNpc09603	17	DialogID_4194_1			interactinfo_4194_1	okmenu_4194_1			
+4195	WorldNpc06003	21	DialogID_4195_2		taskitem_36f-1|taskitem_37f-1	interactinfo_4195_2	okmenu_4195_2			
+4197	EventNpc24296	13				interactinfo_4197_1				
+4198	WorldNpc08841	13	DialogID_4198_1			interactinfo_4198_1	okmenu_4198_1			
+4199	WorldNpc06643	20	DialogID_4199_1			interactinfo_4199_1	okmenu_4199_1			
+4200	WorldNpc06643	20	DialogID_4200_1			interactinfo_4200_1	okmenu_4200_1			
+4201	Gather00023f	21		taskitem_36f-1		interactinfo_4201_3				
+4202	Gather00024f	21		taskitem_37f-1		interactinfo_4202_4				
+4204	WorldNpc06643	20	DialogID_4204_1			interactinfo_4204_1	okmenu_4204_1			
+4205	EventNpc24317	20				interactinfo_4205_1				
+4206	WorldNpc06444	20	DialogID_4206_1			interactinfo_4206_1	okmenu_4206_1			
+4208	EventNpc24332	20				interactinfo_4208_1				
+4209	WorldNpc08399	13	DialogID_4209_1			interactinfo_4209_1	okmenu_4209_1			
+4210	WorldNpc08408	13	DialogID_4210_1			interactinfo_4210_1	okmenu_4210_1			
+4211	WorldNpc08399	13	DialogID_4211_1			interactinfo_4211_1	okmenu_4211_1			
+4212	WorldNpc08836	13	DialogID_4212_1	taskitem_414-1		interactinfo_4212_1	okmenu_4212_1			
+4213	WorldNpc08838	13	DialogID_4213_1			interactinfo_4213_1	okmenu_4213_1			
+4214	WorldNpc02909	10	DialogID_4214_1			interactinfo_4214_1	okmenu_4214_1			
+4215	WorldNpc02912	10	DialogID_4215_1			interactinfo_4215_1	okmenu_4215_1			
+4216	Gather00022b	10		taskitem_27b-1		interactinfo_4216_1				
+4217	WorldNpc02911	10	DialogID_4217_1			interactinfo_4217_2	okmenu_4217_1			
+4218	Gather00023b	10		useitem_43b-1		interactinfo_4218_1				
+4219	WorldNpc02911	10	DialogID_4219_1			interactinfo_4219_2	okmenu_4219_1			
+4220	WorldNpc02912	10	DialogID_4220_1		taskitem_50b-1	interactinfo_4220_1	okmenu_4220_1			
+4222	EventNpc24418	10				interactinfo_4222_1				
+4223	WorldNpc02642	10	DialogID_4223_1		taskitem_51b-1	interactinfo_4223_1	okmenu_4223_1			
+4225	WorldNpc02545	9	DialogID_4225_1			interactinfo_4225_1	okmenu_4225_1			
+4226	Gather00024b	9		useitem_45b-1		interactinfo_4226_1				
+4227	EventNpc24463	9				interactinfo_4227_1				
+4228	WorldNpc02501	9	DialogID_4228_1			interactinfo_4228_1	okmenu_4228_1			
+4240	EventNpc24539	9				interactinfo_4240_1				
+4241	EventNpc24543	9				interactinfo_4241_1				
+4243	EventNpc24550	9				interactinfo_4243_1				
+4246	WorldNpc02545	9	DialogID_4246_2	taskitem_14a-1		interactinfo_4246_2	okmenu_4246_2			
+4248	EventNpc24567	9				interactinfo_4248_1				
+4257	EventNpc24601	9				interactinfo_4257_1				
+4258	EventNpc24610	9				interactinfo_4258_1				
+4261	EventNpc24621	11				interactinfo_4261_2				
+4281	WorldNpc04805	11	DialogID_4281_1			interactinfo_4281_1	okmenu_4281_1			
+4224	EventNpc24439	9	DialogID_4224			interactinfo_4224_1				
+4111	WorldNpc00022	1	DialogID_4111_1	useitem_7f-1		interactinfo_4111	okmenu_4111			
+4254	WorldNpc05921	21	DialogID_4254_1			interactinfo_4254	okmenu_4254_1			
+4229	WorldNpc06128	22	DialogID_4229_1			interactinfo_4229	okmenu_4229_1			
+4301	Gather00026b	22				interactinfo_4301				
+4305	Gather00027b	22				interactinfo_4305				
+4230	EventNpc24489	22				interactinfo_4230				
+4231	WorldNpc06183	22	DialogID_4231_1			interactinfo_4231	okmenu_4231_1			
+4232	WorldNpc02533	9	DialogID_4232_1			interactinfo_4232	okmenu_4232_1			
+4233	WorldNpc02501	9	DialogID_4233_1			interactinfo_4233	okmenu_4233_1			
+4309	Gather00028b	22				interactinfo_4309				
+4234	EventNpc24502	22				interactinfo_4234				
+4235	WorldNpc06128	22	DialogID_4235_1			interactinfo_4235	okmenu_4235_1			
+4236	WorldNpc06128	22	DialogID_4236_1			interactinfo_4236	okmenu_4236_1			
+4239	WorldNpc06128	22	DialogID_4239_1			interactinfo_4239	okmenu_4239_1			
+4237	WorldNpc02203	9	DialogID_4237_1			interactinfo_4237	okmenu_4237_1			
+4238	EventNpc24525	9				interactinfo_4238				
+4244	Gather00024a	9		useitem_19a-1		interactinfo_4244				
+4245	Gather00032b	9		useitem_15a-1		interactinfo_4245				
+4247	WorldNpc02434	9	DialogID_4247_1	useitem_20a-1		interactinfo_4247	okmenu_4247_1			
+4249	WorldNpc02444	9	DialogID_4249_1			interactinfo_4249	okmenu_4249_1			
+4250	WorldNpc02443	9	DialogID_4250_2			interactinfo_4250	okmenu_4250_2			
+4251	WorldNpc02446	9	DialogID_4251_1			interactinfo_4251	okmenu_4251_1			
+4253	WorldNpc02479	9	DialogID_4253_1		taskitem_34a-1	interactinfo_4253	okmenu_4253_1			
+4255	WorldNpc02451	9	DialogID_4255_1		taskitem_36a-1|useitem_50b-1	interactinfo_4255	okmenu_4255_1			
+4256	WorldNpc02450	9	DialogID_4256_2		taskitem_35a-1|useitem_50b-1	interactinfo_4256	okmenu_4256_2			
+4259	Gather00035b	9		taskitem_45a-1		interactinfo_4259				
+4260	WorldNpc02429	9	DialogID_4260_1			interactinfo_4260	okmenu_4260_1			
+4262	WorldNpc04706	11	DialogID_4262_1			interactinfo_4262	okmenu_4262_1			
+4263	WorldNpc04707	11	DialogID_4263_2			interactinfo_4263	okmenu_4263_2			
+4264	WorldNpc04708	11	DialogID_4264_1			interactinfo_4264	okmenu_4264_1			
+4265	EventNpc24634	11				interactinfo_4265				
+4066	Gather00014b	11				interactinfo_4066				
+4266	WorldNpc04805	11	DialogID_4266_1			interactinfo_4266	okmenu_4266_1			
+4268	ItemNpc03201	11	DialogID_4268_1			interactinfo_4268	okmenu_4268_1			
+4267	EventNpc24649	11				interactinfo_4267				
+4269	WorldNpc04425	11	DialogID_4269_1	useitem_20b-1		interactinfo_4269	okmenu_4269_1			
+4270	EventNpc24660	11				interactinfo_4270				
+4271	WorldNpc04810	11	DialogID_4271			interactinfo_4271	okmenu_4271			
+4272	WorldNpc04809	11	DialogID_4272_1			interactinfo_4272	okmenu_4272_1			
+4273	EventNpc24666	11				interactinfo_4273				
+4068	EventNpc24671_1	11				interactinfo_4068				
+4069	EventNpc24671_2	11				interactinfo_4069				
+4070	EventNpc24671_3	11				interactinfo_4070				
+4275	WorldNpc04426	11	DialogID_4275_1		taskitem_29b-1	interactinfo_4275	okmenu_4275_1			
+4276	WorldNpc04401	11	DialogID_4276_1			interactinfo_4276	okmenu_4276_1			
+4277	WorldNpc04710	11	DialogID_4277_1	taskitem_64b-1	taskitem_63b-1	interactinfo_4277	okmenu_4277_1			
+4278	WorldNpc04557	11	DialogID_4278_2		taskitem_64b-1	interactinfo_4278	okmenu_4278_2			
+4279	WorldNpc04709	11	DialogID_4279_1	taskitem_65b-1		interactinfo_4279	okmenu_4279_1			
+4280	WorldNpc04805	11	DialogID_4280_1			interactinfo_4280	okmenu_4280_1			
+4282	WorldNpc04805	11	DialogID_4282_1	useitem_23b-3|useitem_24b-3		interactinfo_4282	okmenu_4282_1			
+4283	EventNpc24719	11				interactinfo_4283				
+4284	EventNpc24722	17				interactinfo_4284				
+4285	EventNpc24727	17				interactinfo_4285				
+4298	Gather00038b	17		taskitem_70b-1		interactinfo_4298				
+4286	EventNpc24729	10				interactinfo_4286				
+4288	WorldNpc02636	10	DialogID_4288_2			interactinfo_4288	okmenu_4288_2			
+4287	WorldNpc02911	10	DialogID_4287_1			interactinfo_4287	okmenu_4287_1			
+4289	WorldNpc02706	10	DialogID_4289_1			interactinfo_4289	okmenu_4289_1			
+4290	EventNpc24739_1	10				interactinfo_4290				
+4291	EventNpc24739_2	10				interactinfo_4291				
+4292	WorldNpc02709	10	DialogID_4292_1	useitem_52b-1|taskitem_71b-1		interactinfo_4292	okmenu_4292_1			
+4300	WorldNpc02604	10	DialogID_4300_1			interactinfo_4300	okmenu_4300_1			
+4293	Gather00039b	10				interactinfo_4293				
+4294	EventNpc24746	10				interactinfo_4294				
+4295	WorldNpc02710	10	DialogID_4295_1			interactinfo_4295	okmenu_4295_1			
+4296	EventNpc24761	10				interactinfo_4296				
+4297	EventNpc24763	23				interactinfo_4297				
+4310	WorldNpc00033	1	DialogID_4310	taskitem_5b-1		interactinfo_4310	okmenu_4310			
+4302	Gather00026b	22				interactinfo_4301				
+4303	Gather00026b	22				interactinfo_4301				
+4304	Gather00026b	22				interactinfo_4301				
+4306	Gather00027b	22				interactinfo_4305				
+4307	Gather00027b	22				interactinfo_4305				
+4308	Gather00027b	22				interactinfo_4305				
+4125	WorldNpc05927	21	DialogID_4125_2			interactinfo_4125	okmenu_4125_2			
+4274	WorldNpc04807	11	DialogID_4274_1			interactinfo_4274	okmenu_4274_1			
+4203	Gather00205b	1		useitem_41b-1		interactinfo_4203_2				
+4311	WorldNpc05804	21	DialogID_4311	taskitem_11b-1		interactinfo_4311	okmenu_4311			
+4157	WorldNpc06112	22	DialogID_4157_1			interactinfo_4157_1	okmenu_4157_1			
+4078	Gather00014f	21	0	taskitem_15f-1		interactinfo_4078				
+4079	Gather00015f	21	0	taskitem_16f-1		interactinfo_4079				
+4317	WorldNpc05924	21	DialogID_4317		taskitem_18f-1	interactinfo_4317	okmenu_4317			
+4136	EventNpc24120	21				interactinfo_4136				
+4026	WorldNpc09097	13	DialogID_4026			interactinfo_4026	okmenu_4026			
+4318	WorldNpc06045	21	DialogID_4318			interactinfo_4318	okmenu_4318			
+4319	EventNpcLHX	22				interactinfo_4319				
+4190	Transbron04D	1	DialogID_4190_1			interactinfo_4190_1	okmenu_4190_1			
+4191	Transbron04D	1	DialogID_4191_2			interactinfo_4191_2	okmenu_4191_2			
+4333	WorldNpc02680	10	DialogID_4333			interactinfo_4333	okmenu_4333			
+4335	WorldNpc02768	10	DialogID_4335		useitem_25h_1	interactinfo_4335	okmenu_4335			
+4093	WorldNpc00010	1	DialogID_4093_1			interactinfo_4093_2	okmenu_4093	24015,24017		
+4341	WorldNpc02620	10								
+4334	EventNpc24089	10	DialogID_4334			interactinfo_4334	okmenu_4334	24089		
+4351	EventNpc24064	1				interactinfo_4351		24064		WorldNpc00045
+4221	WorldNpc02718	10	DialogID_4221			interactinfo_4221	okmenu_4221	24079		
+4352	zx_fhs_006	595	DialogID_4352			interactinfo_4352	okmenu_4352	24096		
+4353	zx_fhs_012	595	DialogID_4353	item_zx_fhs_005-1		interactinfo_4353	okmenu_4353	24097		
+4354	zx_fhs_013	595	DialogID_4354			interactinfo_4354	okmenu_4354	24098		zx_fhs_012
+4355	zx_fhs_014	595	DialogID_4355			interactinfo_4355	okmenu_4355	24098		zx_fhs_012
+4356	zx_fhs_015	595	DialogID_4356			interactinfo_4356	okmenu_4356	24098		zx_fhs_012
+4357	zx_fhs_013_a	595	DialogID_4357			interactinfo_4357	okmenu_4357	24098		zx_fhs_012
+4358	zx_fhs_015_a	595	DialogID_4358			interactinfo_4358	okmenu_4358	24098		zx_fhs_012
+4359	zx_fhs_014	595	DialogID_4359	item_zx_fhs_001-1		interactinfo_4359	okmenu_4359	24099		
+4360	zx_fhs_014	595	DialogID_4360	item_zx_fhs_002-1		interactinfo_4360	okmenu_4360	24099		
+4361	23333	595				interactinfo_4361		24101		
+4363	zx_fhs_023	595	DialogID_4363			interactinfo_4363	okmenu_4363	24102		
+4364	zx_fhs_024	595	DialogID_4364			interactinfo_4364	okmenu_4364	24102		
+4365	zx_fhs_025	595	DialogID_4365			interactinfo_4365	okmenu_4365	24102		
+4366	zx_fhs_024	595	DialogID_4366			interactinfo_4366	okmenu_4366	24102		
+4368	EventNpc_zx_fhs_009	595				interactinfo_4368		24103		
+4367	zx_fhs_024	595	DialogID_4367			interactinfo_4367	okmenu_4367	24103		
+4362	zx_fhs_022	595	DialogID_4362			interactinfo_4362	okmenu_4362	24101		
+4312	FuncNpc00001	1	DialogID_4312	taskitem_26f-1		interactinfo_4312	okmenu_4312	24028,24029		
+4369	zx_fhs_029	17	DialogID_4369			interactinfo_4369	okmenu_4369	24104		
+4340	event_qdzzyb_001	1				interactinfo_4340				

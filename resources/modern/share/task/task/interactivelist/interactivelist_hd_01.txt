@@ -1,0 +1,79 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	NpcId	SceneID	DialogID	GetItems	LostItems	TrackInfo	OkMenu	TaskID	HideNpcID	BufferID
+5750	ldjhd_03	17	DialogID_5750			interactinfo_5750	okmenu_5750	43752		
+5752	ldjhd_07	17	DialogID_5752			interactinfo_5752	okmenu_5752	43754		
+5755	ldjhd_05	17	DialogID_5755			interactinfo_5755	okmenu_5755	43753		
+5753	ldjhd_09	17	DialogID_5753			interactinfo_5753	okmenu_5753	43755		
+5751	FuncNpc00607	17	DialogID_5751	taskitem_ldj_02-1		interactinfo_5751	okmenu_5751	43752		
+5754	ldjhd_03	17	DialogID_5754		taskitem_ldj_02-1	interactinfo_5754	okmenu_5754	43752		
+5758	hd_dw_001		DialogID_5758		taskitem_dwhd001-1|taskitem_dwhd002-1|taskitem_dwhd003-1	interactinfo_5758	okmenu_5758			
+5766	jltq_qz_xmz04	15	DialogID_5766			interactinfo_5766	okmenu_5766	43802		
+5763	jltq_qz_003	15	DialogID_5763	items_jltq_wensh-1		interactinfo_5763	okmenu_5763	43801		
+5760	jltq_qz_001	15	DialogID_5760			interactinfo_5760	okmenu_5760			
+5761	EventNpc_jltq_001	15	DialogID_5761			interactinfo_5761	okmenu_5761			
+5764	jltq_qz_003	15	DialogID_5764	item_jltq_lp_01-1		interactinfo_5764	okmenu_5764	43801		
+5775	EventNpc_jltq_007	15	DialogID_5775			interactinfo_5775	okmenu_5775	43801		buf_jltq_04
+5772	jltq_qz_xmz03	15	DialogID_5772			interactinfo_5772	okmenu_5772	43811		
+5773	jltq_qz_001	15	DialogID_5773			interactinfo_5773	okmenu_5773	43812		
+5768	jltq_qz_001	15	DialogID_5768			interactinfo_5768	okmenu_5768	43810		
+5769	jltq_qz_001	15	DialogID_5769	111		interactinfo_5769	okmenu_5769	43810		
+5770	EventNpc_jltq_003	15	DialogID_5770			interactinfo_5770	okmenu_5770	43810		
+5762	jltq_qz_002	15	DialogID_5762			interactinfo_5762	okmenu_5762			
+5785	EventNpc_jltq_012	15				interactinfo_5785		43800		
+5786	EventNpc_jltq_011	15				interactinfo_5786		43811		
+5774	jltq_qz_xmz03	15	DialogID_5774			interactinfo_5774	okmenu_5774	43812		buf_jltq_07
+5776	jltq_qz_xmz04	15	DialogID_5776	item_jltq_02-1		interactinfo_5776	okmenu_5776	43813		
+5788	EventNpc_jltq_014	15				interactinfo_5788		43811		
+5767	jltq_qz_xmz04	15	DialogID_5767	item_jltq_xw-1	item_jltq_lp_01-1	interactinfo_5767	okmenu_5767	43802		buf_jltq_05
+5787	EventNpc_pqw_001		DialogID_5787			interactinfo_5787	okmenu_5787	43771		
+5790	hd_pwq_npc003		DialogID_5790			interactinfo_5790	okmenu_5790	43773		
+5789	hd_pwq_npc002		DialogID_5789		growitem_1-100	interactinfo_5789	okmenu_5789	43772		
+5791	hd_pwq_npc002		DialogID_5791		growitem_1-100	interactinfo_5791	okmenu_5791	43774		
+5792	hd_pwq_npc002		DialogID_5792		growitem_1-100	interactinfo_5792	okmenu_5792	43775		
+5794	hd_pwq_npc008			item_spa_001-10						
+5797	hd_gq2014_001		DialogID_5797		item_gq2014_001-1	interactinfo_5797	okmenu_5797	43795		
+5813	hd_qm_005			qingming_1291-1						
+5815	hd_zzhd_01	14	DialogID_5815			interactinfo_5815	okmenu_5815	43862		
+5821	hd_bdn_01	17	DialogID_5821			interactinfo_5821	okmenu_5821	43870		
+5822	bdn_ly320	16	DialogID_5822			interactinfo_5822	okmenu_5822	43871		
+5823	bdn_ly321	16	DialogID_5823			interactinfo_5823	okmenu_5823	43871		
+5824	bdn_ly322	16	DialogID_5824			interactinfo_5824	okmenu_5824	43871		
+5825	hd_bdn_01	17	DialogID_5825			interactinfo_5825	okmenu_5825	43872		
+5826	FuncNpc00603	17	DialogID_5826	taskitem_99-1		interactinfo_5826	okmenu_5826	43872		
+5827	FuncNpc00604	17	DialogID_5827	taskitem_hs151-1		interactinfo_5827	okmenu_5827	43872		
+5829	WorldNpc08556	13	DialogID_5829		taskitem_bdnguj14-1	interactinfo_5829	okmenu_5829	43873		
+5830	WorldNpc08557	13	DialogID_5830		taskitem_bdnguj14-1	interactinfo_5830	okmenu_5830	43873		
+5831	WorldNpc10178	16	DialogID_5831		taskitem_bdnguj14-1	interactinfo_5831	okmenu_5831	43873		
+5832	WorldNpc10179	16	DialogID_5832		taskitem_bdnguj14-1	interactinfo_5832	okmenu_5832	43873		
+5834	WorldNpc04401	11	DialogID_5834			interactinfo_5834	okmenu_5834	43876		
+5835	WorldNpc02203	9	DialogID_5835			interactinfo_5835	okmenu_5835	43876		
+5836	WorldNpc03305	7	DialogID_5836			interactinfo_5836	okmenu_5836	43876		
+5837	WorldNpc03003	6	DialogID_5837			interactinfo_5837	okmenu_5837	43876		
+5838	WorldNpc02604	10	DialogID_5838			interactinfo_5838	okmenu_5838	43876		
+5816	hd_bdn_01	17	DialogID_5816			interactinfo_5816	okmenu_5816	43866		
+5817	hd_bdn_cl_01	17	DialogID_5817			interactinfo_5817	okmenu_5817	43866		
+5833	hd_bdn_js	17	DialogID_5833			interactinfo_5833	okmenu_5833	43874		
+5820	hd_bdn_01	17	DialogID_5820			interactinfo_5820	okmenu_5820	43869		
+5839	hd_bdn_01	17	DialogID_5839			interactinfo_5839	okmenu_5839	43877		
+5818	hd_bdn_01	17	DialogID_5818			interactinfo_5818	okmenu_5818	43867		
+5819	hd_bdn_01	17	DialogID_5819			interactinfo_5819	okmenu_5819	43867		
+5828	JobChengD007	17	DialogID_5828	useitem_bdnguj_006-1	taskitem_99-1|taskitem_hs151-1	interactinfo_5828	okmenu_5828	43872		
+5841	hd_qm_006	15	DialogID_5841	qingming_43879a-1		interactinfo_5841	okmenu_5841	43879		
+5842	hd_qm_006	15	DialogID_5842	qingming_43880a-1		interactinfo_5842	okmenu_5842	43880		
+5756	ldjhd_01	17	DialogID_5756			interactinfo_5756	okmenu_5756	43751		
+5757	hd_dw_001		DialogID_5757		taskitem_dwhd001-1|taskitem_dwhd002-1|taskitem_dwhd003-1	interactinfo_5757	okmenu_5757	43758		
+5765	jltq_qz_004	15	DialogID_5765			interactinfo_5765	okmenu_5765			
+5793	hd_pwq_npc007			item_spa_001-10						
+5795	gn_hdzyb_005		DialogID_5795	taskitem_zyb_gn_001-1		interactinfo_5795	okmenu_5795	43779		
+5796	operation_manage		DialogID_5796		kuangshi_1_1004-10|tre_1002-10|fish_10004-10|animal_02004-10|cropper_10002-10	interactinfo_5796	okmenu_5796	43956		
+5798	hd_gq2014_001		DialogID_5798	item_gq2014_003-1		interactinfo_5798	okmenu_5798			
+5799	hd_gq2014_003		DialogID_5799	item_gq2014_006-1		interactinfo_5799	okmenu_5799	43798		
+5802	meigui		DialogID_5802	seed1042_b-9		interactinfo_5802	okmenu_5802	43821		
+5803	meigui		DialogID_5803		cropper_40054_b-9	interactinfo_5803	okmenu_5803	43821		
+5800	hd_ssy_01		DialogID_5800	seed1042_a-9		interactinfo_5800	okmenu_5800	43820		
+5801	hd_ssy_01		DialogID_5801		cropper_40054_a-9	interactinfo_5801	okmenu_5801	43820		
+5840	hd_bdn_js	17	DialogID_5840	taskitem_bdn_xiang-1		interactinfo_5840	okmenu_5840	43874		
+5843	hd_dw_001		DialogID_5843			interactinfo_5843	okmenu_5843	43890		
+5844	meigui		DialogID_5844		cropper_50005-10	interactinfo_5844	okmenu_5844			
+5845	hd_dw_001		DialogID_5845			interactinfo_5845	okmenu_5845			
+5846	hd_dw_001		DialogID_5846			interactinfo_5846	okmenu_5846	43935			

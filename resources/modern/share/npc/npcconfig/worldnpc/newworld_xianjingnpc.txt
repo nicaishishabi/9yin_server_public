@@ -1,0 +1,9 @@
+NPC编号	对象类型	ini注释名称	破除陷阱的buff	陷阱伤害buff	陷阱范围（这个范围用于判定可以存在的陷阱个数）	（LimitRange范围内存在其他陷阱的个数）	当前场景存在陷阱的数量	陷阱存在时间（单位秒，-1则为永久存在）	NPC类型	选择操作	鼠标形状	模型编号	模型半径	图片	响应范围	陷阱类型（0：人1：骑乘2：人和骑乘）	陷阱扫描buff间隔（单位秒最短3秒）	陷阱游戏（0为没有小游戏，数字为小游戏难度）	"1：解除骑乘状态
+2：解除骑乘并且播放自身动作"
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	script	Name	BreakHideBuffID	HurtBuffID	LimitRange	LimitNum	SceneLimitNum	ExistTime	NpcType	SelectState	CursorShape	Resource	CollideRadius	Photo	SpringRange	TrapType	TrapCheckTime	MiniGameLevel	RideOffEffect
+																			
+newworld_xj_1001	TrapNpc	火焰莲花	buff_xianjin_zhenshi_01	buf_diaozhatian_2	30	1	50	1200	81	2	2	npc\itemnpc1373		icon\funcnpc\funcnpc001.png	10	0	4	10	1
+newworld_xj_1002	TrapNpc	捕兽夹	buff_xianjin_zhenshi_01	buf_diaozhatian_3	30	1	50	1200	81	2	2	npc\itemnpc1372		icon\funcnpc\funcnpc001.png	10	0	4	10	1
+newworld_xj_1003	TrapNpc	绊马索	buff_xianjin_zhenshi_01	buf_diaozhatian_1	30	1	50	1200	81	2	2	npc\itemnpc1371		icon\funcnpc\funcnpc001.png	10	1	4	10	2
+newworld_xj_1004	TrapNpc	腐骨泥沼	buff_xianjin_zhenshi_01	buf_diaozhatian_4	30	1	30	1200	81	2	2	npc\itemnpc1374		icon\funcnpc\funcnpc001.png	10	2	4	10	2

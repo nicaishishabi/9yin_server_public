@@ -1,0 +1,2353 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="AF1079B4C8EB4852A1BB117009ABA384" x="247.926" y="8.954" z="361.153" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" TaskSubId="12099" TaskSubType="1">
+            <item No="1" id="monrf070200" ay="3.713" amount="2" refreshtime="5000" desc="歹人">
+                <position x="249.814" z="362.037" ay="3.713" />
+            </item>
+            <item No="2" id="monrf070300" ay="3.713" amount="3" refreshtime="5000" desc="蛇">
+                <position x="246.037" z="359.768" ay="3.713" />
+                <position x="247.567" z="358.722" ay="3.713" />
+            </item>
+        </creator>
+        <creator No="9B94E8B559444071ACA595749E308E4D" x="388.117" y="17.883" z="457.338" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" SpringRange="30" TaskSubId="7024" TaskSubType="1">
+            <item No="1" id="monrf070400" ay="-1" amount="3" refreshtime="5000" desc="快活林刺客">
+                <position x="389.611" z="455.832" ay="-1" />
+                <position x="386.314" z="457.900" ay="-1" />
+                <position x="389.086" z="458.213" ay="-1" />
+            </item>
+        </creator>
+        <creator No="7CDF94886DD34D49980DE50FF2BC39CD" x="683.712" y="5.999" z="256.098" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="7.0">
+            <item No="1" id="lifeanimalf07001" ay="-1" amount="1" refreshtime="30000" desc="白鹅" />
+        </creator>
+        <creator No="B9ED8817180247B9B0D4B2926F2E50F6" x="666.135" y="5.999" z="242.278" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="7.0">
+            <item No="1" id="lifeanimalf07001" ay="-1" amount="1" refreshtime="30000" desc="白鹅" />
+        </creator>
+        <creator No="19D3B86918D845D295B9F0EF1B0A3C19" x="665.937" y="5.999" z="314.481" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="7.0">
+            <item No="1" id="lifeanimalf07001" ay="-1" amount="1" refreshtime="30000" desc="白鹅" />
+        </creator>
+        <creator No="73CCDA237CE54EA39A13EEC8BD63D3B1" x="692.031" y="5.999" z="261.546" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="7.0">
+            <item No="1" id="lifeanimalf07001" ay="-1" amount="1" refreshtime="30000" desc="白鹅" />
+        </creator>
+        <creator No="991C7637D92C440C8EB77A9A78D628C3" x="675.100" y="5.999" z="325.770" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="7.0">
+            <item No="1" id="lifeanimalf07001" ay="-1" amount="1" refreshtime="30000" desc="白鹅" />
+        </creator>
+        <creator No="246CD976EDA34A3DB41915AB6732F2B0" x="683.872" y="5.999" z="336.242" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="7.0">
+            <item No="1" id="lifeanimalf07001" ay="-1" amount="1" refreshtime="30000" desc="白鹅" />
+        </creator>
+        <creator No="DACB257B5D444303AD6C1FE482C46601" x="697.202" y="5.999" z="348.828" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="7.0">
+            <item No="1" id="lifeanimalf07001" ay="-1" amount="1" refreshtime="30000" desc="白鹅" />
+        </creator>
+        <creator No="BE9220D9653F46F9B2EA2A01CDEE3B36" x="726.953" y="5.999" z="348.450" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="7.0">
+            <item No="1" id="lifeanimalf07001" ay="-1" amount="1" refreshtime="30000" desc="白鹅" />
+        </creator>
+        <creator No="DEB7B0A12CD34D1EB44E0663273B144D" x="681.838" y="5.999" z="242.591" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="7.0">
+            <item No="1" id="lifeanimalf07001" ay="-1" amount="1" refreshtime="30000" desc="白鹅" />
+        </creator>
+        <creator No="6BE34726AD3E423CB34A74A33C966788" x="691.405" y="5.999" z="255.177" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="7.0">
+            <item No="1" id="lifeanimalf07001" ay="-1" amount="1" refreshtime="30000" desc="白鹅" />
+        </creator>
+        <creator No="87EAEE58861F490CA50F910810546E57" x="508.024" y="9.107" z="48.022" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0">
+            <item No="1" id="monf071100" ay="1.723" amount="1" refreshtime="30000" desc="青花蛇" />
+        </creator>
+        <creator No="AC91808EABAA49EF8D405DC19517E091" x="463.751" y="32.760" z="-74.864" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0">
+            <item No="1" id="monf071200" ay="1.724" amount="1" refreshtime="30000" desc="滋事野猪" />
+        </creator>
+        <creator No="D350003D9591481F84685D64B37D57F4" x="805.187" y="36.457" z="572.256" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" TaskSubId="8045" TaskSubType="1">
+            <item No="1" id="monrf070500" ay="-1" amount="1" refreshtime="5000" desc="叶顶天" />
+            <item No="2" id="monrf071100" ay="-1" amount="3" refreshtime="5000" desc="霹雳堂帮众">
+                <position x="805.009" z="570.538" ay="-1" />
+                <position x="804.008" z="570.799" ay="-1" />
+                <position x="802.684" z="572.327" ay="-1" />
+            </item>
+        </creator>
+        <creator No="105E8D8CEA18486D937931AE23810A9B" x="710.917" y="36.457" z="494.740" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" TaskSubId="8046" TaskSubType="1">
+            <item No="1" id="monrf070600" ay="-1" amount="3" refreshtime="5000" desc="官府衙役">
+                <position x="712.802" z="495.695" ay="-1" />
+                <position x="710.946" z="496.693" ay="-1" />
+                <position x="711.932" z="492.582" ay="-1" />
+                <position x="708.003" z="495.209" ay="-1" />
+                <position x="712.003" z="497.073" ay="-1" />
+            </item>
+        </creator>
+        <creator No="75370EA0DDE64138A20512E90123E840" x="749.356" y="36.457" z="550.291" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" TaskSubId="8021" TaskSubType="2">
+            <item No="1" id="monrf070700" ay="-1" amount="1" refreshtime="5000" desc="司空无痕" />
+        </creator>
+        <creator No="F0AED17EC9B64E34B6E034B740D75587" x="805.005" y="36.457" z="544.826" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" TaskSubId="8043" TaskSubType="1">
+            <item No="1" id="monrf070500" ay="-1" amount="1" refreshtime="5000" desc="叶顶天" />
+            <item No="2" id="monrf071100" ay="-1" amount="5" refreshtime="5000" desc="霹雳堂帮众">
+                <position x="805.770" z="545.692" ay="-1" />
+                <position x="807.445" z="545.262" ay="-1" />
+                <position x="805.701" z="542.177" ay="-1" />
+                <position x="806.429" z="546.757" ay="-1" />
+                <position x="808.187" z="546.224" ay="-1" />
+            </item>
+        </creator>
+        <creator No="3FD4011EFBA04C8F9CB08E9DD5738217" x="542.267" y="42.530" z="460.019" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" TaskSubId="8049" TaskSubType="1">
+            <item No="1" id="monrf070900" ay="-1" amount="3" refreshtime="5000" desc="铁剑门弟子">
+                <position x="543.418" z="461.691" ay="-1" />
+                <position x="541.492" z="461.295" ay="-1" />
+                <position x="540.537" z="459.461" ay="-1" />
+                <position x="542.868" z="458.376" ay="-1" />
+                <position x="540.087" z="460.679" ay="-1" />
+                <position x="542.110" z="462.404" ay="-1" />
+            </item>
+        </creator>
+        <creator No="1ED0C7C83A82491CA0CA14C998F225C9" x="695.269" y="26.148" z="412.005" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" TaskSubId="8023" TaskSubType="2">
+            <item No="1" id="monrf070800" ay="-1" amount="1" refreshtime="5000" desc="凌铭" />
+            <item No="2" id="monrf071100" ay="-1" amount="3" refreshtime="5000" desc="霹雳堂帮众">
+                <position x="693.207" z="413.311" ay="-1" />
+                <position x="694.328" z="414.306" ay="-1" />
+            </item>
+        </creator>
+        <creator No="DEE79AD8C8B545C88483B8BF94AB9CBD" x="428.821" y="6.061" z="146.204" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" TaskSubId="5025" TaskSubType="1">
+            <item No="1" id="monrf071400" ay="-1" amount="3" refreshtime="5000" desc="丐帮弟子">
+                <position x="430.490" z="146.582" ay="-1" />
+                <position x="430.007" z="147.192" ay="-1" />
+                <position x="429.433" z="147.793" ay="-1" />
+            </item>
+        </creator>
+        <creator No="22778B625F854F5DA4F4C12DD295C1D7" x="353.138" y="13.742" z="212.291" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" TaskSubId="5027" TaskSubType="1">
+            <item No="1" id="monrf071500" ay="-1" amount="3" refreshtime="5000" desc="神秘杀手">
+                <position x="350.994" z="212.477" ay="-1" />
+                <position x="352.199" z="210.004" ay="-1" />
+                <position x="355.514" z="212.348" ay="-1" />
+            </item>
+        </creator>
+        <creator No="159575B2A5D04303B33577EAFF3689BD" x="239.356" y="7.119" z="60.079" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" TaskSubId="5029" TaskSubType="1">
+            <item No="1" id="monrf071600" ay="-1" amount="3" refreshtime="5000" desc="锦衣卫打手">
+                <position x="237.969" z="59.369" ay="-1" />
+                <position x="238.018" z="61.390" ay="-1" />
+                <position x="238.598" z="59.683" ay="-1" />
+            </item>
+        </creator>
+        <creator No="F0AB185C3E03403BA34E6E91B79EC927" x="239.342" y="6.811" z="55.214" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" TaskSubId="5031" TaskSubType="1">
+            <item No="1" id="monrf071700" ay="-1" amount="3" refreshtime="5000" desc="杀手">
+                <position x="238.002" z="54.899" ay="-1" />
+                <position x="239.085" z="54.275" ay="-1" />
+                <position x="240.963" z="55.910" ay="-1" />
+            </item>
+        </creator>
+        <creator No="4BD3075DB3D24055AD94058650A0931D" x="251.805" y="30.765" z="219.513" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" TaskSubId="5311" TaskSubType="1">
+            <item No="1" id="monrf071301" ay="6.087" amount="3" refreshtime="5000" desc="黑衣人">
+                <position x="250.059" z="217.436" ay="6.087" />
+                <position x="252.837" z="220.728" ay="-1" />
+                <position x="249.008" z="220.710" ay="5.839" />
+            </item>
+        </creator>
+        <creator No="BF7C39B909F14B419EE9F629651293E8" x="85.023" y="27.370" z="473.262" radius="4.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" TaskSubId="5317" TaskSubType="1">
+            <item No="1" id="monrf071302" ay="5.839" amount="4" refreshtime="5000" desc="万梅山庄弟子">
+                <position x="83.397" z="472.681" ay="5.839" />
+                <position x="82.505" z="470.861" ay="2.611" />
+                <position x="86.148" z="471.597" ay="1.756" />
+                <position x="88.018" z="474.030" ay="0.801" />
+            </item>
+        </creator>
+        <creator No="11DFF635C62047D485A8787C377F4C2D" x="-17.922" y="26.341" z="428.148" radius="3.5" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" TaskSubId="5313" TaskSubType="1" HateLink="1">
+            <item No="1" id="monrf071303" ay="5.509" amount="4" refreshtime="5000" desc="昆仑剑客">
+                <position x="-18.511" z="429.135" ay="5.509" />
+                <position x="-14.976" z="428.158" ay="4.629" />
+                <position x="-16.939" z="427.132" ay="5.209" />
+                <position x="-18.689" z="426.957" ay="5.474" />
+            </item>
+        </creator>
+        <creator No="40BA5CD8E0FA46E49995D4D02B3CB199" x="-104.099" y="26.139" z="450.804" radius="4.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" TaskSubId="5316" TaskSubType="1">
+            <item No="1" id="monrf071304" ay="5.304" amount="4" refreshtime="5000" desc="江湖死士">
+                <position x="-105.390" z="450.515" ay="5.304" />
+                <position x="-101.522" z="450.904" ay="4.629" />
+                <position x="-103.610" z="449.972" ay="3.544" />
+                <position x="-106.273" z="449.352" ay="2.374" />
+            </item>
+        </creator>
+        <creator No="79F78CA72D0E44C596558D3510E65800" x="82.246" y="26.718" z="502.277" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" TaskSubId="5317">
+            <item No="1" id="monrf071302" ay="5.304" amount="4" refreshtime="5000" desc="万梅山庄弟子">
+                <position x="79.641" z="500.641" ay="5.304" />
+                <position x="82.026" z="500.330" ay="2.754" />
+                <position x="84.605" z="504.003" ay="5.304" />
+                <position x="85.428" z="501.028" ay="6.214" />
+            </item>
+        </creator>
+        <creator No="FAA9E7A9F091420DBB664F5578D1BC9A" x="-1.127" y="26.732" z="425.865" radius="6.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" TaskSubId="5318" TaskSubType="1" HateLink="1">
+            <item No="1" id="monrf071306" ay="1.951" amount="3" refreshtime="30000" desc="万梅山庄弟子">
+                <position x="-3.802" z="428.828" ay="1.951" />
+                <position x="-5.114" z="426.530" ay="0.716" />
+                <position x="-2.473" z="428.580" ay="0.716" />
+            </item>
+        </creator>
+        <creator No="A2E1106BD9544DC68278D07E7013B69F" x="54.874" y="76.971" z="298.011" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" TaskSubId="5320">
+            <item No="1" id="monrf071301" ay="5.504" amount="3" refreshtime="5000" desc="黑衣人">
+                <position x="53.851" z="297.204" ay="5.504" />
+                <position x="55.442" z="297.524" ay="5.101" />
+                <position x="55.120" z="296.236" ay="5.316" />
+            </item>
+        </creator>
+        <creator No="C3C1F085F8ED46BFBB660B6D28072B8F" x="247.188" y="33.764" z="-135.852" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071700" ay="6.234" amount="1" refreshtime="30000" desc="黑店打手">
+                <position x="246.577" z="-135.941" ay="6.234" />
+            </item>
+        </creator>
+        <creator No="EB3B4C9EE2134F59971A92784EDB0151" x="273.676" y="34.065" z="-161.533" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071700" ay="5.964" amount="1" refreshtime="30000" desc="黑店打手">
+                <position x="273.369" z="-160.997" ay="5.964" />
+            </item>
+        </creator>
+        <creator No="92EF862E6F3344118784A73CDF2F4735" x="248.422" y="34.378" z="-189.569" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071700" ay="0.267" amount="2" refreshtime="30000" desc="黑店打手">
+                <position x="248.906" z="-188.651" ay="0.267" BornAction="ty_sitground_lookround" />
+                <position x="249.328" z="-190.644" ay="6.165" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="DE0CE23C8962456A89FD2FDAC29334E7" x="243.594" y="37.534" z="-154.732" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071700" ay="-1.771" amount="2" refreshtime="30000" desc="黑店打手">
+                <position x="244.457" z="-156.241" ay="-1.771" BornAction="ty_talk3" />
+                <position x="242.728" z="-156.408" ay="1.617" BornAction="ty_talk" />
+            </item>
+        </creator>
+        <creator No="950B069721D0427C8970CD9AC4DB2559" x="233.359" y="37.295" z="-167.675" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071701" ay="0.901" amount="1" refreshtime="30000" desc="黑店小二">
+                <position x="233.242" z="-168.564" ay="0.901" />
+            </item>
+        </creator>
+        <creator No="28744E750C684C98896CAB1E3946C4B6" x="241.362" y="36.835" z="-201.755" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071702" ay="-1.771" amount="1" refreshtime="30000" desc="黑店厨子">
+                <position x="242.226" z="-203.264" ay="-1.771" BornAction="ty_talk5" />
+            </item>
+            <item No="2" id="monf071701" ay="1.617" amount="1" refreshtime="30000" desc="黑店小二">
+                <position x="240.497" z="-203.431" ay="1.617" BornAction="ty_nod" />
+            </item>
+        </creator>
+        <creator No="9E825A3186F6418CB49C9634B75B67E1" x="216.413" y="36.834" z="-176.082" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071701" ay="1.862" amount="1" refreshtime="30000" desc="黑店小二">
+                <position x="217.025" z="-177.348" ay="1.862" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="FF7C680D8247482188D676E130969B56" x="198.390" y="37.761" z="-219.001" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071702" ay="-1.771" amount="2" refreshtime="30000" desc="黑店厨子">
+                <position x="199.254" z="-220.510" ay="-1.771" BornAction="ty_talk" />
+                <position x="197.525" z="-220.676" ay="1.617" BornAction="ty_talk4" />
+            </item>
+        </creator>
+        <creator No="A8811F1374174FD0A97C0D05BAFE1E82" x="221.222" y="38.044" z="-213.243" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071702" ay="5.394" amount="1" refreshtime="30000" desc="黑店厨子">
+                <position x="221.016" z="-213.809" ay="5.394" />
+            </item>
+        </creator>
+        <creator No="213360949B3D46E6A02DA2BC402C290C" x="204.535" y="36.888" z="-188.110" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071701" ay="-1.771" amount="2" refreshtime="30000" desc="黑店小二">
+                <position x="205.399" z="-189.619" ay="-1.771" BornAction="ty_talk2" />
+                <position x="203.670" z="-189.786" ay="1.617" BornAction="ty_talk" />
+            </item>
+        </creator>
+        <creator No="D72636117CD845A9BE3659CB7DE28EA9" x="155.893" y="42.074" z="-199.140" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071701" ay="1.279" amount="1" refreshtime="30000" desc="黑店小二" />
+            <item No="2" id="monf071702" ay="-0.946" amount="1" refreshtime="30000" desc="黑店厨子">
+                <position x="156.242" z="-197.670" ay="-0.946" BornAction="ty_smile3" />
+            </item>
+        </creator>
+        <creator No="E635A10B31F34FC688C5A86FFB52B72B" x="159.630" y="33.836" z="-219.329" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071702" ay="2.065" amount="1" refreshtime="30000" desc="黑店厨子">
+                <position x="159.017" z="-220.115" ay="2.065" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="00FF0C41E5684C948D159F763B11AAB8" x="213.079" y="36.789" z="-212.521" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071700" ay="5.761" amount="1" refreshtime="30000" desc="黑店打手">
+                <position x="212.496" z="-212.458" ay="5.761" WeaponMode="hand12_1" />
+            </item>
+        </creator>
+        <creator No="7D297B6F34734C02BFDA4F5EB246F533" x="183.954" y="34.592" z="-241.337" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071700" ay="1.776" amount="1" refreshtime="30000" desc="黑店打手" />
+        </creator>
+        <creator No="0F09685EEDC243DF95E17FB4264B4F53" x="466.896" y="31.963" z="-62.871" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0">
+            <item No="1" id="monf071200" ay="1.724" amount="1" refreshtime="30000" desc="滋事野猪" />
+        </creator>
+        <creator No="B2D8180E5F6E41909E3456E658299D8E" x="459.458" y="33.186" z="-55.678" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0">
+            <item No="1" id="monf071200" ay="1.724" amount="1" refreshtime="30000" desc="滋事野猪" />
+        </creator>
+        <creator No="622D71C01AFB4DA6A70528246964EF33" x="458.702" y="33.642" z="-68.865" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0">
+            <item No="1" id="monf071200" ay="1.724" amount="1" refreshtime="30000" desc="滋事野猪" />
+        </creator>
+        <creator No="E32DD24A0BBE41AF988E461AD1DF62C5" x="457.307" y="34.066" z="-68.942" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0">
+            <item No="1" id="monf071200" ay="1.724" amount="1" refreshtime="30000" desc="滋事野猪" />
+        </creator>
+        <creator No="0F75FB8D030A4C0D878EAD5905CC7733" x="490.373" y="29.695" z="-36.876" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0">
+            <item No="1" id="monf071200" ay="1.724" amount="1" refreshtime="30000" desc="滋事野猪" />
+        </creator>
+        <creator No="61A501E2AA72489F929CCB938B7F54C4" x="466.365" y="31.795" z="-54.622" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0">
+            <item No="1" id="monf071200" ay="1.724" amount="1" refreshtime="30000" desc="滋事野猪" />
+        </creator>
+        <creator No="729E39C46D434F93842338E97412FC4F" x="452.805" y="32.985" z="-37.548" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0">
+            <item No="1" id="monf071200" ay="1.724" amount="1" refreshtime="30000" desc="滋事野猪" />
+        </creator>
+        <creator No="1504FD2C289D4FF490A354F0FCD9F621" x="481.092" y="30.180" z="-39.519" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0">
+            <item No="1" id="monf071200" ay="1.724" amount="1" refreshtime="30000" desc="滋事野猪" />
+        </creator>
+        <creator No="514F75F7D2E54352BD93A966149B7808" x="470.591" y="31.355" z="-38.477" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0">
+            <item No="1" id="monf071200" ay="1.724" amount="1" refreshtime="30000" desc="滋事野猪" />
+        </creator>
+        <creator No="33545796D9B0498FB8F79C6832DA6FD4" x="473.978" y="32.961" z="-28.673" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0">
+            <item No="1" id="monf071201" ay="1.724" amount="1" refreshtime="30000" desc="滋事野猪头目" />
+        </creator>
+        <creator No="EBEA57EB1A494A6EAF7D4FF27E7AADC0" x="466.860" y="32.575" z="-28.110" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0">
+            <item No="1" id="monf071200" ay="1.724" amount="1" refreshtime="30000" desc="滋事野猪" />
+        </creator>
+        <creator No="74719DF881EB40FFA9DAC75C88272C8E" x="525.757" y="8.932" z="74.885" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0">
+            <item No="1" id="monf071100" ay="1.724" amount="1" refreshtime="30000" desc="青花蛇" />
+        </creator>
+        <creator No="31A18C36AEFC4769B5FAB9FE175079FB" x="522.441" y="6.965" z="87.473" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0">
+            <item No="1" id="monf071100" ay="1.724" amount="1" refreshtime="30000" desc="青花蛇" />
+        </creator>
+        <creator No="DA6B7B56D5C84E518BC444EA3A533A9D" x="505.003" y="7.399" z="65.958" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0">
+            <item No="1" id="monf071100" ay="1.724" amount="1" refreshtime="30000" desc="青花蛇" />
+        </creator>
+        <creator No="F088E816B8674B38A7BEEA972C4CBFD7" x="479.436" y="12.015" z="96.558" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0">
+            <item No="1" id="monf071100" ay="1.724" amount="1" refreshtime="30000" desc="青花蛇" />
+        </creator>
+        <creator No="4D0BD55F4FBB4EE28E6CA6A2ECCC28C1" x="475.578" y="8.340" z="112.738" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0">
+            <item No="1" id="monf071100" ay="3.404" amount="1" refreshtime="30000" desc="青花蛇" />
+        </creator>
+        <creator No="7A91E2246FB2439AA41D06915CFB27F7" x="503.611" y="7.700" z="119.629" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0">
+            <item No="1" id="monf071100" ay="1.724" amount="1" refreshtime="30000" desc="青花蛇" />
+        </creator>
+        <creator No="43C6F19691164AAD91EEEC260811FD7E" x="489.960" y="7.211" z="86.591" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0">
+            <item No="1" id="monf071100" ay="3.549" amount="1" refreshtime="30000" desc="青花蛇" />
+        </creator>
+        <creator No="D0E05418B8BE4FCAA97477C1BD369BD3" x="480.876" y="6.824" z="64.982" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0">
+            <item No="1" id="monf071100" ay="1.723" amount="1" refreshtime="30000" desc="青花蛇" />
+        </creator>
+        <creator No="64D171FE54D442BC8F5EFB87DE86F17E" x="454.813" y="8.281" z="124.243" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0">
+            <item No="1" id="monf071104" ay="1.724" amount="1" refreshtime="30000" desc="沼林蟒蛇" />
+        </creator>
+        <creator No="216B9933921E4971964ED23D8DF53966" x="458.454" y="8.159" z="130.622" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0">
+            <item No="1" id="monf071104" ay="1.724" amount="1" refreshtime="30000" desc="沼林蟒蛇" />
+        </creator>
+        <creator No="6937EFD8F5FC404ABE4C25B9E8AD3AF4" x="462.784" y="9.224" z="165.317" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0">
+            <item No="1" id="monf071104" ay="1.724" amount="1" refreshtime="30000" desc="沼林蟒蛇" />
+        </creator>
+        <creator No="F0D8BB377E4D470EB178FF1A10008FD6" x="398.828" y="7.275" z="155.837" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0">
+            <item No="1" id="monf071104" ay="1.724" amount="1" refreshtime="30000" desc="沼林蟒蛇" />
+        </creator>
+        <creator No="DAEEF18B88E84F5A9AA0B9ED62FAADB1" x="454.355" y="7.706" z="172.344" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0">
+            <item No="1" id="monf071104" ay="1.724" amount="1" refreshtime="30000" desc="沼林蟒蛇" />
+        </creator>
+        <creator No="44A4B570C47E418E80D780383EB4E4CA" x="451.964" y="10.601" z="141.949" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0">
+            <item No="1" id="monf071104" ay="1.724" amount="1" refreshtime="30000" desc="沼林蟒蛇" />
+        </creator>
+        <creator No="F11A101F55DF47159AB4387729F5A00D" x="384.610" y="6.121" z="152.957" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0">
+            <item No="1" id="monf071104" ay="1.724" amount="1" refreshtime="30000" desc="沼林蟒蛇" />
+        </creator>
+        <creator No="07443C6CC6DC4533AB03CD1F4FBECD86" x="396.838" y="6.186" z="165.023" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0">
+            <item No="1" id="monf071104" ay="1.724" amount="1" refreshtime="30000" desc="沼林蟒蛇" />
+        </creator>
+        <creator No="D1614BCE21124452991A25FD13E0E5D3" x="330.199" y="6.892" z="113.577" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071103" ay="1.724" amount="1" refreshtime="30000" desc="肉多的鳄鱼" />
+        </creator>
+        <creator No="FD8B7BB1D77D422EB4B659F011B67066" x="333.633" y="6.444" z="140.456" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071103" ay="1.724" amount="1" refreshtime="30000" desc="肉多的鳄鱼" />
+        </creator>
+        <creator No="30E802CAD5BB43D4B2B9F151112537FA" x="326.353" y="7.538" z="137.050" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071103" ay="1.724" amount="1" refreshtime="30000" desc="肉多的鳄鱼" />
+        </creator>
+        <creator No="A0838B6EB28B4A288CE20B361B2EAB29" x="367.767" y="8.086" z="123.213" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071103" ay="1.724" amount="1" refreshtime="30000" desc="肉多的鳄鱼" />
+        </creator>
+        <creator No="01B8E1B5F816497D8904ACCCB8BE23D9" x="363.173" y="8.603" z="130.587" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071103" ay="1.724" amount="1" refreshtime="30000" desc="肉多的鳄鱼" />
+        </creator>
+        <creator No="7BBCAB2E0A144E669BA83974F3E937BA" x="319.408" y="6.438" z="61.451" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071103" ay="1.724" amount="1" refreshtime="30000" desc="肉多的鳄鱼" />
+        </creator>
+        <creator No="F9BE67BAED39483FAE8F1FF7E436BC7B" x="302.268" y="6.907" z="66.118" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071103" ay="1.724" amount="1" refreshtime="30000" desc="肉多的鳄鱼" />
+        </creator>
+        <creator No="9D95407970504F059E7AECA76EB900A4" x="319.045" y="6.565" z="100.246" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071103" ay="1.724" amount="1" refreshtime="30000" desc="肉多的鳄鱼" />
+        </creator>
+        <creator No="1FE6AFBA69164020B0A86F6140EF4763" x="359.121" y="6.704" z="107.456" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071102" ay="1.724" amount="1" refreshtime="30000" desc="食人鳄" />
+        </creator>
+        <creator No="11990410607742258BAF1F3E0137E468" x="343.699" y="7.428" z="115.798" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071102" ay="1.724" amount="1" refreshtime="30000" desc="食人鳄" />
+        </creator>
+        <creator No="D4B6FD1E724D4C539E370D6FB44F8643" x="295.946" y="7.124" z="99.552" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071102" ay="1.724" amount="1" refreshtime="30000" desc="食人鳄" />
+        </creator>
+        <creator No="806D1B3B7FEC42B1B7A89C2D6A537206" x="323.958" y="6.764" z="79.121" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071102" ay="1.724" amount="1" refreshtime="30000" desc="食人鳄" />
+        </creator>
+        <creator No="F146C5C9BDB342B08B78683040E6A78F" x="312.147" y="7.369" z="81.329" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071102" ay="1.724" amount="1" refreshtime="30000" desc="食人鳄" />
+        </creator>
+        <creator No="4AD6701710224498AD01EFA29E1B881D" x="290.573" y="6.240" z="92.957" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071102" ay="1.724" amount="1" refreshtime="30000" desc="食人鳄" />
+        </creator>
+        <creator No="81B7FDE2C6C64DCFBF518CAAFAD5925D" x="340.166" y="6.200" z="98.535" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071102" ay="1.724" amount="1" refreshtime="30000" desc="食人鳄" />
+        </creator>
+        <creator No="41A090D0ED1F4E829E2741412CDAF1A4" x="354.896" y="9.493" z="118.667" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071102" ay="1.724" amount="1" refreshtime="30000" desc="食人鳄" />
+        </creator>
+        <creator No="776B8A7720CA468FA2AB50B86588F63C" x="302.586" y="6.329" z="42.921" radius="4.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071600" ay="0.824" amount="2" refreshtime="30000" desc="神秘过路客">
+                <position x="303.308" z="43.693" ay="0.824" BornAction="ty_drink3" />
+                <position x="302.588" z="44.929" ay="-0.623" />
+            </item>
+        </creator>
+        <creator No="AD2AEF6F9CAC4E54B436530B8578548D" x="371.886" y="11.159" z="40.272" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071600" ay="2.065" amount="1" refreshtime="30000" desc="神秘过路客">
+                <position x="371.273" z="39.486" ay="2.065" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="B2F4F3ABB1F84767AEA7C819F824A01B" x="389.178" y="8.005" z="49.792" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071600" ay="1.776" amount="1" refreshtime="30000" desc="神秘过路客">
+                <position x="388.871" z="50.328" ay="1.776" />
+            </item>
+        </creator>
+        <creator No="6C597ACFD2C447388C144F427C949D95" x="372.466" y="12.347" z="2.786" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="monf071600" ay="0.925" amount="2" refreshtime="30000" desc="神秘过路客">
+                <position x="374.364" z="5.341" ay="0.925" BornAction="ty_sitground_lookround" />
+                <position x="371.928" z="1.488" ay="0.975" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="B1BA8AE54EEB48D6AB810107B073BDF0" x="349.095" y="9.267" z="24.544" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071600" ay="-1.771" amount="2" refreshtime="30000" desc="神秘过路客">
+                <position x="349.958" z="23.035" ay="-1.771" BornAction="ty_talk4" />
+                <position x="348.229" z="22.868" ay="1.617" BornAction="ty_talk2" />
+            </item>
+        </creator>
+        <creator No="7F1BF51F25F646A0B3E6F4A70E22A416" x="350.978" y="6.902" z="37.132" radius="4.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071600" ay="-0.623" amount="1" refreshtime="30000" desc="神秘过路客">
+                <position x="350.980" z="39.140" ay="-0.623" />
+            </item>
+        </creator>
+        <creator No="54546062D394412892706BE97EC67B38" x="344.357" y="17.874" z="-30.802" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071601" ay="-1.771" amount="1" refreshtime="30000" desc="古怪老者">
+                <position x="345.221" z="-32.311" ay="-1.771" BornAction="ty_talk" />
+            </item>
+            <item No="2" id="monf071600" ay="1.617" amount="1" refreshtime="30000" desc="神秘过路客">
+                <position x="343.492" z="-32.478" ay="1.617" BornAction="ty_talk" />
+            </item>
+        </creator>
+        <creator No="D86FBADF687648448D3D9FE2DABBE8C2" x="333.181" y="13.326" z="-20.674" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071600" ay="6.099" amount="1" refreshtime="30000" desc="神秘过路客">
+                <position x="334.517" z="-21.153" ay="6.099" />
+            </item>
+        </creator>
+        <creator No="57F373D947F94D53B4063B72FC933DAF" x="333.777" y="7.965" z="38.834" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071600" ay="2.065" amount="1" refreshtime="30000" desc="神秘过路客">
+                <position x="333.164" z="38.048" ay="2.065" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="5F18D54EC76F4FC1A68CF2D60F82E01E" x="300.763" y="10.892" z="29.693" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071600" ay="1.995" amount="1" refreshtime="30000" desc="神秘过路客">
+                <position x="303.324" z="29.212" ay="1.995" BornAction="ty_sitground_lookround" />
+            </item>
+            <item No="2" id="monf071601" ay="1.810" amount="1" refreshtime="30000" desc="古怪老者">
+                <position x="302.135" z="32.020" ay="1.810" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="1A5EB20F7A694758BFB413AFE2C526AB" x="322.508" y="8.108" z="19.556" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071600" ay="-1.771" amount="1" refreshtime="30000" desc="神秘过路客">
+                <position x="323.372" z="18.047" ay="-1.771" BornAction="ty_talk5" />
+            </item>
+            <item No="2" id="monf071601" ay="1.617" amount="1" refreshtime="30000" desc="古怪老者">
+                <position x="321.642" z="17.880" ay="1.617" BornAction="ty_nod" />
+            </item>
+        </creator>
+        <creator No="DFED0A4817C3447395287528939617F8" x="421.790" y="7.558" z="158.505" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0">
+            <item No="1" id="monf071104" ay="1.724" amount="1" refreshtime="30000" desc="沼林蟒蛇" />
+        </creator>
+        <creator No="9C8ECBC739C343BFBC27D58FF0B3CD63" x="373.618" y="7.237" z="253.678" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="2.0" HateLink="1">
+            <item No="1" id="monf071101" ay="1.724" amount="1" refreshtime="30000" desc="小鳄鱼" />
+        </creator>
+        <creator No="A00BFB2833CD4252A804EC2DB2D196E7" x="348.930" y="6.845" z="251.688" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="2.0" HateLink="1">
+            <item No="1" id="monf071101" ay="1.724" amount="1" refreshtime="30000" desc="小鳄鱼" />
+        </creator>
+        <creator No="9ED717E7B04649F79403C883FB060197" x="356.818" y="8.087" z="242.527" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="2.0" HateLink="1">
+            <item No="1" id="monf071101" ay="1.724" amount="1" refreshtime="30000" desc="小鳄鱼" />
+        </creator>
+        <creator No="006F09AEFB704596883FD2B32DB087D3" x="355.688" y="6.356" z="250.733" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="2.0" HateLink="1">
+            <item No="1" id="monf071101" ay="1.724" amount="1" refreshtime="30000" desc="小鳄鱼" />
+        </creator>
+        <creator No="3D17EEF5D56344CE90E2C6D89BBB0BD9" x="381.022" y="6.170" z="260.051" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071101" ay="1.724" amount="1" refreshtime="30000" desc="小鳄鱼" />
+        </creator>
+        <creator No="7EE70BEE66D84402B45BFE9DE8AE6D86" x="401.885" y="6.761" z="259.162" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071101" ay="1.724" amount="1" refreshtime="30000" desc="小鳄鱼" />
+        </creator>
+        <creator No="6622787193454F71B8A95F76C53E2994" x="414.433" y="7.145" z="252.143" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071101" ay="1.724" amount="1" refreshtime="30000" desc="小鳄鱼" />
+        </creator>
+        <creator No="78AE3C5EEB26423F89C468FFABE05ADC" x="396.736" y="7.312" z="254.977" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071101" ay="1.724" amount="1" refreshtime="30000" desc="小鳄鱼" />
+        </creator>
+        <creator No="6DBC15F73DD8478089E28857EFBEAE48" x="381.404" y="6.582" z="238.345" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="2.0" HateLink="1">
+            <item No="1" id="monf071101" ay="1.724" amount="1" refreshtime="30000" desc="小鳄鱼" />
+        </creator>
+        <creator No="EC92C36FBE6F4AD9B4A5EC5A415B1678" x="392.614" y="6.558" z="240.698" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071101" ay="1.724" amount="1" refreshtime="30000" desc="小鳄鱼" />
+        </creator>
+        <creator No="2109FC60047943DBA69D5FB051094BF9" x="385.169" y="6.940" z="225.361" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="2.0" HateLink="1">
+            <item No="1" id="monf071101" ay="1.724" amount="1" refreshtime="30000" desc="小鳄鱼" />
+        </creator>
+        <creator No="9B434FAEFAC84981BAAD7BC57266337C" x="375.250" y="7.325" z="247.182" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="2.0" HateLink="1">
+            <item No="1" id="monf071101" ay="1.724" amount="1" refreshtime="30000" desc="小鳄鱼" />
+        </creator>
+        <creator No="AC9A393E232A4516B3CD3554656B7E9B" x="383.773" y="6.669" z="248.347" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="2.0" HateLink="1">
+            <item No="1" id="monf071101" ay="1.724" amount="1" refreshtime="30000" desc="小鳄鱼" />
+        </creator>
+        <creator No="8E51106A731644F0BD641821E21F58EE" x="530.675" y="6.345" z="162.401" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071300" ay="1.724" amount="1" refreshtime="30000" desc="毒蝎" />
+        </creator>
+        <creator No="37EB0504AF854808BF6D94CC5C1F6EBA" x="541.088" y="10.064" z="151.433" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071300" ay="1.724" amount="1" refreshtime="30000" desc="毒蝎" />
+        </creator>
+        <creator No="71D0426A72D446499E393AFD20102D35" x="511.042" y="6.232" z="169.959" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071300" ay="1.724" amount="1" refreshtime="30000" desc="毒蝎" />
+        </creator>
+        <creator No="89085FF8FFB64D1B9D5781113C8C4195" x="578.966" y="6.465" z="241.125" radius="3.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071301" ay="1.724" amount="1" refreshtime="30000" desc="毒蛛" />
+        </creator>
+        <creator No="779C094979834E0686B1CA527A24C8AD" x="614.188" y="7.110" z="239.948" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071301" ay="1.724" amount="1" refreshtime="30000" desc="毒蛛" />
+        </creator>
+        <creator No="DCA654C10C51476892209E605BD9F39D" x="588.533" y="6.710" z="216.605" radius="3.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071301" ay="1.724" amount="1" refreshtime="30000" desc="毒蛛" />
+        </creator>
+        <creator No="A11C60098CB245FB8BD532743DE6F3F0" x="660.660" y="7.307" z="192.517" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071301" ay="1.724" amount="1" refreshtime="30000" desc="毒蛛" />
+        </creator>
+        <creator No="0C4C64F023CD4148BA968BDED87DFB60" x="672.305" y="7.035" z="188.784" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071301" ay="1.724" amount="1" refreshtime="30000" desc="毒蛛" />
+        </creator>
+        <creator No="FF274DBF80A14BD8B999F47F4C9F1968" x="661.810" y="6.570" z="205.199" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071301" ay="1.724" amount="1" refreshtime="30000" desc="毒蛛" />
+        </creator>
+        <creator No="B7EC0285F90F4660998E0E4FF155DAFD" x="634.192" y="7.892" z="220.480" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071301" ay="1.724" amount="1" refreshtime="30000" desc="毒蛛" />
+        </creator>
+        <creator No="8AB317C7AC8E49F08BE36EBB7F30C3C3" x="567.930" y="7.340" z="220.638" radius="3.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071301" ay="1.724" amount="1" refreshtime="30000" desc="毒蛛" />
+        </creator>
+        <creator No="040DCF2D4BA843129C583CE932F525CB" x="562.813" y="7.482" z="214.313" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071302" ay="1.724" amount="1" refreshtime="30000" desc="毒蛇" />
+        </creator>
+        <creator No="414E53033367424E88EE0065AF45256E" x="583.125" y="6.448" z="208.993" radius="3.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071302" ay="1.724" amount="1" refreshtime="30000" desc="毒蛇" />
+        </creator>
+        <creator No="8E0BF566A6784638AE2DC15519C64A6C" x="592.065" y="8.237" z="187.499" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071302" ay="1.724" amount="1" refreshtime="30000" desc="毒蛇" />
+        </creator>
+        <creator No="02745D3DE99941D8B285BF52FE2271F7" x="566.827" y="7.083" z="172.166" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071302" ay="1.724" amount="1" refreshtime="30000" desc="毒蛇" />
+        </creator>
+        <creator No="36D1605F9A474784B301FB83218C6804" x="542.599" y="6.394" z="187.280" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071302" ay="1.724" amount="1" refreshtime="30000" desc="毒蛇" />
+        </creator>
+        <creator No="527734A3D4BA4FC6A32E54466F0DC4DC" x="551.391" y="6.049" z="205.090" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071302" ay="1.724" amount="1" refreshtime="30000" desc="毒蛇" />
+        </creator>
+        <creator No="A636F3474D1942FCB275897B8C67B102" x="600.366" y="6.486" z="168.438" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071302" ay="1.724" amount="1" refreshtime="30000" desc="毒蛇" />
+        </creator>
+        <creator No="EDE55BBD6F4945CDA5177DB34A432840" x="632.000" y="6.464" z="161.896" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071302" ay="1.724" amount="1" refreshtime="30000" desc="毒蛇" />
+        </creator>
+        <creator No="38ED36771F624FFAB60FC028D6F35D7D" x="629.824" y="6.358" z="179.564" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071302" ay="1.724" amount="1" refreshtime="30000" desc="毒蛇" />
+        </creator>
+        <creator No="AD366289F7BC4099A470E2F87D152987" x="612.374" y="6.737" z="193.549" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071302" ay="1.724" amount="1" refreshtime="30000" desc="毒蛇" />
+        </creator>
+        <creator No="EC13EE8B2D7542F0BF01FE3C4759A1D6" x="639.002" y="6.338" z="212.253" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071302" ay="1.724" amount="1" refreshtime="30000" desc="毒蛇" />
+        </creator>
+        <creator No="2752B2C1FC67451788340AD007D46AF7" x="622.229" y="8.258" z="156.480" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071302" ay="1.724" amount="1" refreshtime="30000" desc="毒蛇" />
+        </creator>
+        <creator No="21C73ECCA9B34B79B25C38CC1F59314F" x="551.343" y="6.548" z="154.750" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071302" ay="1.724" amount="1" refreshtime="30000" desc="毒蛇" />
+        </creator>
+        <creator No="E1D1041AF6BD444B8A8FDFAEC5693C64" x="507.010" y="7.389" z="208.287" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071301" ay="1.724" amount="1" refreshtime="30000" desc="毒蛛" />
+        </creator>
+        <creator No="3CB8A5A7949B4E1CB381F67B5D3A5462" x="542.046" y="6.618" z="224.206" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071301" ay="1.724" amount="1" refreshtime="30000" desc="毒蛛" />
+        </creator>
+        <creator No="0DDEBADB818D4B828FDF80E0CBE11FC0" x="743.509" y="6.826" z="306.034" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071501" ay="-1.771" amount="1" refreshtime="30000" desc="沼林盗贼头目">
+                <position x="744.373" z="304.525" ay="-1.771" BornAction="ty_talk5" />
+            </item>
+            <item No="2" id="monf071500" ay="1.617" amount="1" refreshtime="30000" desc="沼林盗贼">
+                <position x="742.644" z="304.358" ay="1.617" BornAction="ty_nod" />
+            </item>
+        </creator>
+        <creator No="FC9A8DD5CF6C4F3E9EF678D7298A661C" x="741.992" y="6.758" z="326.243" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="monf071500" ay="3.540" amount="2" refreshtime="30000" desc="沼林盗贼">
+                <position x="741.577" z="323.670" ay="3.540" BornAction="ty_sitground_lookround" />
+                <position x="743.165" z="327.018" ay="4.710" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="FA77F4A9B4964202A7BE3242A06FD28D" x="732.775" y="8.261" z="331.384" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071500" ay="0.662" amount="1" refreshtime="30000" desc="沼林盗贼">
+                <position x="732.242" z="332.687" ay="0.662" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="B07C928301484D87913C5274EC793265" x="706.939" y="6.521" z="337.789" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071500" ay="1.862" amount="1" refreshtime="30000" desc="沼林盗贼">
+                <position x="707.551" z="336.523" ay="1.862" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="3BAA57B958674658B91FCAA825EFF89D" x="731.070" y="7.087" z="282.260" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071500" ay="-2.211" amount="2" refreshtime="30000" desc="沼林盗贼">
+                <position x="733.511" z="281.974" ay="-2.211" BornAction="sitloop" />
+                <position x="731.472" z="283.377" ay="2.132" BornAction="ty_talk6" />
+            </item>
+        </creator>
+        <creator No="A84D39A47DE2437E8BB60506F529131F" x="705.257" y="6.329" z="250.114" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071500" ay="0.096" amount="1" refreshtime="30000" desc="沼林盗贼">
+                <position x="705.466" z="250.770" ay="0.096" />
+            </item>
+        </creator>
+        <creator No="C313D87A99C84E56BC48564F4D34F318" x="674.126" y="7.397" z="267.896" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071500" ay="5.929" amount="1" refreshtime="30000" desc="沼林盗贼">
+                <position x="673.819" z="268.432" ay="5.929" />
+            </item>
+        </creator>
+        <creator No="7CA625CDA95A464EAE79ABD1A0691E0F" x="726.638" y="7.894" z="316.631" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071500" ay="-1.771" amount="2" refreshtime="30000" desc="沼林盗贼">
+                <position x="727.502" z="315.123" ay="-1.771" BornAction="ty_talk2" />
+                <position x="725.772" z="314.956" ay="1.617" BornAction="ty_talk" />
+            </item>
+        </creator>
+        <creator No="2ED892019A274504BF30618C74F42699" x="686.444" y="6.732" z="316.689" radius="4.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071500" ay="-0.623" amount="1" refreshtime="30000" desc="沼林盗贼">
+                <position x="686.446" z="318.697" ay="-0.623" />
+            </item>
+        </creator>
+        <creator No="FC96B7AC96D847B993B178BA139318C0" x="708.601" y="7.134" z="295.061" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071500" ay="3.146" amount="1" refreshtime="30000" desc="沼林盗贼">
+                <position x="709.065" z="295.468" ay="3.146" />
+            </item>
+        </creator>
+        <creator No="68B27B9BD3B940F58D70D3313865F5AF" x="690.201" y="7.953" z="310.726" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071500" ay="2.295" amount="1" refreshtime="30000" desc="沼林盗贼">
+                <position x="691.568" z="310.828" ay="2.295" BornAction="ty_lie_talk2" />
+            </item>
+        </creator>
+        <creator No="D2D7C96D931D4E708F77CC4166146BBE" x="648.438" y="7.253" z="284.518" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071500" ay="0.073" amount="1" refreshtime="30000" desc="沼林盗贼">
+                <position x="647.832" z="285.030" ay="0.073" BornAction="ty_crouch_loop" />
+            </item>
+        </creator>
+        <creator No="EBC7C35ABE8C4AF4B4DE56D55B4462F4" x="692.817" y="6.502" z="289.315" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf071500" ay="1.776" amount="1" refreshtime="30000" desc="沼林盗贼" />
+        </creator>
+        <creator No="062969A4D0F3494FA1AA5EA511636259" x="770.264" y="6.527" z="271.002" radius="4.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071400" ay="0.519" amount="2" refreshtime="30000" desc="沼林猎人">
+                <position x="771.895" z="272.917" ay="0.519" BornAction="ty_drink3" />
+                <position x="769.409" z="272.880" ay="5.955" />
+            </item>
+        </creator>
+        <creator No="34DAC47FFA6645D99E75EBE969B7FD17" x="755.410" y="7.059" z="250.280" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071400" ay="4.655" amount="1" refreshtime="30000" desc="沼林猎人">
+                <position x="754.773" z="250.027" ay="4.655" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="55C31808B25E49E6ADCD5AA7D5216F3C" x="786.489" y="12.601" z="193.278" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071400" ay="-0.351" amount="2" refreshtime="30000" desc="沼林猎人">
+                <position x="789.463" z="193.969" ay="-0.351" BornAction="ty_lie_loop" />
+                <position x="786.891" z="194.395" ay="2.132" BornAction="sitloop" />
+            </item>
+        </creator>
+        <creator No="7391F0C7F28E4692A05C879FAB7CD938" x="777.158" y="11.554" z="193.320" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071400" ay="6.120" amount="1" refreshtime="30000" desc="沼林猎人">
+                <position x="777.712" z="192.640" ay="6.120" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="E25F1825BDE64085A29EF6709503DA64" x="719.461" y="8.092" z="210.062" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071400" ay="0.543" amount="1" refreshtime="30000" desc="沼林猎人">
+                <position x="718.952" z="209.454" ay="0.543" BornAction="ty_crouch_loop" />
+            </item>
+        </creator>
+        <creator No="631A4087F4AC4138816488754D49E3E3" x="720.033" y="6.490" z="183.040" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071400" ay="-1.771" amount="2" refreshtime="30000" desc="沼林猎人">
+                <position x="720.897" z="181.531" ay="-1.771" BornAction="ty_talk3" />
+                <position x="719.167" z="181.365" ay="1.617" BornAction="ty_talk4" />
+            </item>
+        </creator>
+        <creator No="F6384D649B25469588A71E705652ADCC" x="777.746" y="6.311" z="164.935" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071401" ay="5.402" amount="1" refreshtime="30000" desc="沼林樵夫">
+                <position x="777.735" z="164.754" ay="5.402" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="F1124A33D2BA42218A706B7E5F93A059" x="776.016" y="6.311" z="171.618" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071400" ay="-1.771" amount="1" refreshtime="30000" desc="沼林猎人">
+                <position x="776.880" z="170.109" ay="-1.771" BornAction="ty_talk5" />
+            </item>
+            <item No="2" id="monf071401" ay="1.617" amount="1" refreshtime="30000" desc="沼林樵夫">
+                <position x="775.150" z="169.943" ay="1.617" BornAction="ty_nod" />
+            </item>
+        </creator>
+        <creator No="095F69AAB7A34030B8973AAB710E7E4B" x="766.136" y="6.027" z="164.583" radius="4.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071400" ay="0.824" amount="1" refreshtime="30000" desc="沼林猎人">
+                <position x="765.858" z="163.475" ay="0.824" BornAction="ty_drink3" />
+            </item>
+        </creator>
+        <creator No="17F6FC6F5E154CBBA0F9A2B852C05473" x="771.147" y="6.218" z="177.492" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071401" ay="4.636" amount="1" refreshtime="30000" desc="沼林樵夫">
+                <position x="770.838" z="176.993" ay="4.636" WeaponMode="hand12_1" />
+            </item>
+        </creator>
+        <creator No="58C441D8574F476D9981BEDCD9029BE7" x="754.305" y="9.724" z="185.295" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071400" ay="5.549" amount="1" refreshtime="30000" desc="沼林猎人">
+                <position x="753.998" z="185.831" ay="5.549" />
+            </item>
+        </creator>
+        <creator No="1BC4506EE0254C9CB045AA28EECA2213" x="715.529" y="8.574" z="155.050" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071400" ay="4.106" amount="1" refreshtime="30000" desc="沼林猎人">
+                <position x="715.222" z="155.586" ay="4.106" />
+            </item>
+        </creator>
+        <creator No="ED1704EB609D47719B3070E288DCFA79" x="741.012" y="6.921" z="153.120" radius="5.0" WakeupRange="7.0" ChaseRange="15.2" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071400" ay="0.945" amount="2" refreshtime="30000" desc="沼林猎人">
+                <position x="741.397" z="151.722" ay="0.945" BornAction="ty_lie_talk2" />
+                <position x="739.830" z="153.881" ay="2.725" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="9959E3D6409F4C3C93A34BFA632B9049" x="727.918" y="7.685" z="122.634" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071400" ay="-2.211" amount="1" refreshtime="30000" desc="沼林猎人">
+                <position x="730.358" z="122.348" ay="-2.211" BornAction="sitloop" />
+            </item>
+            <item No="2" id="monf071401" ay="2.132" amount="1" refreshtime="30000" desc="沼林樵夫">
+                <position x="728.320" z="123.751" ay="2.132" BornAction="ty_talk6" />
+            </item>
+        </creator>
+        <creator No="8DCADDDADBC4459BBE99292B150433FC" x="768.590" y="6.401" z="130.121" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071401" ay="0.715" amount="1" refreshtime="30000" desc="沼林樵夫">
+                <position x="767.716" z="127.272" ay="0.715" BornAction="ty_fan2" />
+            </item>
+            <item No="2" id="monf071400" ay="-1.122" amount="1" refreshtime="30000" desc="沼林猎人">
+                <position x="766.909" z="129.999" ay="-1.122" />
+            </item>
+        </creator>
+        <creator No="4166844FEC334161A269D3141EA783DC" x="772.568" y="6.359" z="136.304" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071400" ay="1.574" amount="1" refreshtime="30000" desc="沼林猎人">
+                <position x="770.720" z="134.780" ay="1.574" BornAction="ty_sitground_drink" />
+            </item>
+            <item No="2" id="monf071401" ay="-1.584" amount="1" refreshtime="30000" desc="沼林樵夫">
+                <position x="772.862" z="135.214" ay="-1.584" BornAction="ty_sitground_eat" />
+            </item>
+        </creator>
+        <creator No="C000DFFBE6A64C8AB03E0275328D3856" x="776.634" y="6.860" z="141.423" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071400" ay="4.100" amount="1" refreshtime="30000" desc="沼林猎人">
+                <position x="776.389" z="140.406" ay="4.100" BornAction="ty_lie_talk2" />
+            </item>
+        </creator>
+        <creator No="E2FD928909254943A405DE6615AFDD11" x="743.685" y="27.032" z="57.991" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071800" ay="4.620" amount="2" refreshtime="30000" desc="逍遥观道士">
+                <position x="742.654" z="60.307" ay="4.620" />
+                <position x="742.757" z="56.196" ay="4.958" />
+            </item>
+        </creator>
+        <creator No="A0FF5281ACE9408E91AB236E4808BB74" x="750.796" y="26.982" z="91.220" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071800" ay="5.659" amount="1" refreshtime="30000" desc="逍遥观道士">
+                <position x="750.632" z="92.747" ay="5.659" />
+            </item>
+        </creator>
+        <creator No="A3B38C202D174026A389BAB1FB73F771" x="750.492" y="26.729" z="28.276" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071800" ay="-1.771" amount="1" refreshtime="30000" desc="逍遥观道士">
+                <position x="751.355" z="26.767" ay="-1.771" BornAction="ty_talk" />
+            </item>
+            <item No="2" id="monf071802" ay="1.617" amount="1" refreshtime="30000" desc="逍遥观童子">
+                <position x="749.626" z="26.601" ay="1.617" BornAction="ty_talk4" />
+            </item>
+        </creator>
+        <creator No="A25D0F7BEB494AA7A2172E715BAC0FDB" x="766.545" y="26.729" z="70.616" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071801" ay="-1.771" amount="1" refreshtime="30000" desc="逍遥观道长">
+                <position x="767.409" z="69.107" ay="-1.771" BornAction="ty_talk5" />
+            </item>
+            <item No="2" id="monf071802" ay="1.617" amount="1" refreshtime="30000" desc="逍遥观童子">
+                <position x="765.680" z="68.941" ay="1.617" BornAction="ty_nod" />
+            </item>
+        </creator>
+        <creator No="7FFB234C54454612AB92793FEDA9371C" x="771.779" y="31.862" z="18.891" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071800" ay="5.930" amount="1" refreshtime="30000" desc="逍遥观道士">
+                <position x="770.243" z="19.890" ay="5.930" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="8DE8DD3785384E77A32915F64F53A723" x="816.419" y="31.862" z="35.220" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071800" ay="0.025" amount="2" refreshtime="30000" desc="逍遥观道士">
+                <position x="817.021" z="34.932" ay="0.025" BornAction="ty_think" />
+                <position x="817.025" z="36.320" ay="3.130" BornAction="ty_sitchair_chessloop_free01" />
+            </item>
+            <item No="2" id="monf071801" ay="-2.375" amount="1" refreshtime="30000" desc="逍遥观道长">
+                <position x="817.839" z="36.542" ay="-2.375" BornAction="ty_talk" />
+            </item>
+        </creator>
+        <creator No="7358CED6A8EE477F98F9151F39FC5F54" x="817.122" y="31.790" z="82.568" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071800" ay="0.104" amount="1" refreshtime="30000" desc="逍遥观道士">
+                <position x="815.961" z="82.349" ay="0.104" BornAction="ty_talk3" />
+            </item>
+            <item No="2" id="monf071801" ay="-0.946" amount="1" refreshtime="30000" desc="逍遥观道长">
+                <position x="817.471" z="84.038" ay="-0.946" BornAction="ty_smile3" />
+            </item>
+            <item No="3" id="monf071802" ay="-2.551" amount="1" refreshtime="30000" desc="逍遥观童子">
+                <position x="816.093" z="84.749" ay="-2.551" BornAction="ty_nod" />
+            </item>
+        </creator>
+        <creator No="F4B63815C48B492B979332F80C8E18C2" x="793.848" y="34.010" z="100.543" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071802" ay="3.276" amount="1" refreshtime="30000" desc="逍遥观童子">
+                <position x="793.203" z="100.617" ay="3.276" />
+            </item>
+        </creator>
+        <creator No="72C77289E6764B2AA9E090266D2E0178" x="800.138" y="31.790" z="72.403" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071801" ay="-1.771" amount="2" refreshtime="30000" desc="逍遥观道长">
+                <position x="801.001" z="70.894" ay="-1.771" BornAction="ty_talk" />
+                <position x="799.272" z="70.727" ay="1.617" BornAction="ty_talk" />
+            </item>
+        </creator>
+        <creator No="4DE3C9FC83864D5588A4CE9027B13E6E" x="793.336" y="34.010" z="15.708" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071802" ay="-0.912" amount="1" refreshtime="30000" desc="逍遥观童子">
+                <position x="792.772" z="15.545" ay="-0.912" />
+            </item>
+        </creator>
+        <creator No="199C656650084934AE01BCF93C738A91" x="786.517" y="32.050" z="32.843" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071800" ay="4.256" amount="1" refreshtime="30000" desc="逍遥观道士">
+                <position x="786.210" z="33.379" ay="4.256" />
+            </item>
+        </creator>
+        <creator No="8536A564672E425389569599541015C4" x="812.798" y="31.862" z="17.433" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071800" ay="2.871" amount="1" refreshtime="30000" desc="逍遥观道士">
+                <position x="812.188" z="16.598" ay="2.871" BornAction="ty_think2" />
+            </item>
+        </creator>
+        <creator No="834063A3A5B7419EB9A808745CFB38C1" x="800.804" y="32.944" z="58.785" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071802" ay="4.815" amount="2" refreshtime="30000" desc="逍遥观童子">
+                <position x="803.134" z="55.038" ay="4.815" />
+                <position x="803.034" z="61.079" ay="4.738" />
+            </item>
+        </creator>
+        <creator No="87B3D39218F44FAD89ED87CD3AB0A4E5" x="787.663" y="31.790" z="92.161" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf071801" ay="-1.771" amount="1" refreshtime="30000" desc="逍遥观道长">
+                <position x="788.527" z="90.652" ay="-1.771" BornAction="ty_talk5" />
+            </item>
+            <item No="2" id="monf071802" ay="1.617" amount="1" refreshtime="30000" desc="逍遥观童子">
+                <position x="786.797" z="90.486" ay="1.617" BornAction="ty_nod" />
+            </item>
+        </creator>
+        <creator No="93F9C3551D9A4D448AB8D58E2819C65B" x="641.354" y="16.652" z="352.372" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070401" ay="1.776" amount="1" refreshtime="30000" desc="霹雳堂打手">
+                <position x="641.855" z="352.707" ay="1.776" />
+            </item>
+        </creator>
+        <creator No="DD9CF73261514B799CDFAE479555EE19" x="659.885" y="6.172" z="331.170" radius="4.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070403" ay="2.367" amount="1" refreshtime="30000" desc="市井恶棍">
+                <position x="660.495" z="329.547" ay="2.367" />
+            </item>
+        </creator>
+        <creator No="D272D2FC9E54443A91EB33C2AD09FAAB" x="668.074" y="6.869" z="338.858" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="monf070403" ay="1.995" amount="1" refreshtime="30000" desc="市井恶棍">
+                <position x="670.636" z="338.377" ay="1.995" BornAction="ty_sitground_lookround" />
+            </item>
+            <item No="2" id="monf070401" ay="4.815" amount="1" refreshtime="30000" desc="霹雳堂打手">
+                <position x="667.558" z="340.329" ay="4.815" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="D73ECEF38F8346008F1905C8586E7210" x="734.621" y="26.148" z="397.171" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070400" ay="1.995" amount="2" refreshtime="30000" desc="霹雳堂混混">
+                <position x="737.182" z="396.689" ay="1.995" BornAction="ty_sitground_lookround" />
+                <position x="733.876" z="398.363" ay="-3.118" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="70AE04FDDCA247BC886194398F7B5501" x="710.659" y="27.999" z="393.694" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070400" ay="-1.771" amount="2" refreshtime="30000" desc="霹雳堂混混">
+                <position x="711.523" z="392.185" ay="-1.771" BornAction="ty_talk5" />
+                <position x="709.794" z="392.018" ay="1.617" BornAction="ty_nod" />
+            </item>
+        </creator>
+        <creator No="63E2B520BB9147769F226EA6E11A9905" x="682.275" y="24.483" z="386.108" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070400" ay="4.171" amount="1" refreshtime="30000" desc="霹雳堂混混">
+                <position x="681.968" z="386.644" ay="4.171" />
+            </item>
+        </creator>
+        <creator No="B17F190BF48540EB9E9C4BEB5B7AA720" x="682.117" y="26.148" z="433.910" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070400" ay="2.952" amount="1" refreshtime="30000" desc="霹雳堂混混">
+                <position x="681.942" z="434.437" ay="2.952" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="DBF21270F370408685F6F148BBC23BDE" x="746.299" y="31.153" z="446.901" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070400" ay="-2.211" amount="2" refreshtime="30000" desc="霹雳堂混混">
+                <position x="748.739" z="446.616" ay="-2.211" BornAction="sitloop" />
+                <position x="746.701" z="448.019" ay="2.132" BornAction="ty_talk6" />
+            </item>
+        </creator>
+        <creator No="7283A5D12CBB4508BB0D856603D4FB85" x="755.968" y="31.153" z="448.492" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070400" ay="3.414" amount="1" refreshtime="30000" desc="霹雳堂混混">
+                <position x="754.990" z="450.678" ay="3.414" BornAction="ty_sitground_drink" />
+            </item>
+        </creator>
+        <creator No="45ACCEDBA9D748F0B1585BDF18920D07" x="751.613" y="26.148" z="428.043" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070400" ay="3.451" amount="1" refreshtime="30000" desc="霹雳堂混混">
+                <position x="752.178" z="428.292" ay="3.451" />
+            </item>
+        </creator>
+        <creator No="1D821B75CDB242479C2ACD25C69534D3" x="727.160" y="31.606" z="445.423" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070400" ay="-1.771" amount="2" refreshtime="30000" desc="霹雳堂混混">
+                <position x="728.024" z="443.914" ay="-1.771" BornAction="ty_talk2" />
+                <position x="726.295" z="443.747" ay="1.617" BornAction="ty_talk4" />
+            </item>
+        </creator>
+        <creator No="2B1F57674E8F481AB2B51C9C47A69741" x="681.271" y="31.153" z="442.514" radius="4.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070400" ay="6.202" amount="2" refreshtime="30000" desc="霹雳堂混混">
+                <position x="680.971" z="440.978" ay="6.202" BornAction="h_fi_stand_2" />
+                <position x="680.955" z="443.919" ay="3.217" BornAction="atkhit1" />
+            </item>
+        </creator>
+        <creator No="A04181F5192B470690E21ACC0A0BB389" x="694.311" y="31.153" z="449.464" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070400" ay="3.702" amount="1" refreshtime="30000" desc="霹雳堂混混">
+                <position x="692.928" z="449.211" ay="3.702" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="D26187B8A47C469D9A7971FD2678276E" x="534.522" y="44.596" z="494.579" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070100" ay="-2.211" amount="1" refreshtime="30000" desc="睦南关恶棍">
+                <position x="536.962" z="494.293" ay="-2.211" BornAction="sitloop" />
+            </item>
+            <item No="2" id="monf070101" ay="2.132" amount="1" refreshtime="30000" desc="睦南关地头蛇">
+                <position x="534.924" z="495.696" ay="2.132" BornAction="ty_talk6" />
+            </item>
+        </creator>
+        <creator No="BB04A26ADCE54B86AB80E614CF17D6AC" x="538.263" y="42.374" z="508.983" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070100" ay="-1.771" amount="2" refreshtime="30000" desc="睦南关恶棍">
+                <position x="539.127" z="507.474" ay="-1.771" BornAction="ty_talk" />
+                <position x="537.398" z="507.307" ay="1.617" BornAction="ty_talk4" />
+            </item>
+        </creator>
+        <creator No="B22925C8455F46D5A3C087D7158E6051" x="588.770" y="42.465" z="508.358" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070100" ay="1.776" amount="1" refreshtime="30000" desc="睦南关恶棍">
+                <position x="588.463" z="508.894" ay="1.776" />
+            </item>
+        </creator>
+        <creator No="876BC20229AC420D8BE0012B0CA1DF1A" x="577.748" y="40.601" z="490.147" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070100" ay="1.862" amount="1" refreshtime="30000" desc="睦南关恶棍">
+                <position x="578.360" z="488.881" ay="1.862" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="C7C94A63E05B4804AE128F52CC7F2683" x="558.717" y="42.175" z="523.053" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070100" ay="0.730" amount="2" refreshtime="30000" desc="睦南关恶棍">
+                <position x="558.254" z="521.589" ay="0.730" />
+                <position x="559.305" z="523.539" ay="-2.990" />
+            </item>
+        </creator>
+        <creator No="A52B76A4E2BD4C97A3D895B6965180E3" x="577.048" y="49.151" z="533.818" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070100" ay="4.280" amount="2" refreshtime="30000" desc="睦南关恶棍">
+                <position x="576.889" z="531.843" ay="4.280" BornAction="ty_sitground_lookround" />
+                <position x="576.303" z="535.010" ay="3.865" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="6CD036C08F0A425DB9347E8065992316" x="590.091" y="48.292" z="523.416" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070100" ay="-1.771" amount="2" refreshtime="30000" desc="睦南关恶棍">
+                <position x="590.955" z="521.907" ay="-1.771" BornAction="ty_talk5" />
+                <position x="589.226" z="521.740" ay="1.617" BornAction="ty_nod" />
+            </item>
+        </creator>
+        <creator No="F87303783D9D4039AF785185DA31A7BB" x="561.454" y="41.007" z="500.376" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070100" ay="1.138" amount="1" refreshtime="30000" desc="睦南关恶棍">
+                <position x="560.891" z="500.213" ay="1.138" WeaponMode="hand12_1" />
+            </item>
+        </creator>
+        <creator No="973157BA31A84631B94EF104686B44A2" x="558.450" y="42.378" z="484.363" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070100" ay="1.325" amount="2" refreshtime="30000" desc="睦南关恶棍">
+                <position x="558.107" z="484.093" ay="1.325" BornAction="ty_lie_talk2" />
+                <position x="559.855" z="484.882" ay="1.695" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="25BFFBA67B574FCAB9196A9691DB8206" x="667.107" y="32.234" z="575.435" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070500" ay="2.065" amount="1" refreshtime="30000" desc="胡闹醉汉">
+                <position x="666.494" z="574.649" ay="2.065" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="17641129BE5740EC9A5B24DE32810802" x="695.665" y="32.607" z="589.974" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070500" ay="3.231" amount="1" refreshtime="30000" desc="胡闹醉汉">
+                <position x="696.161" z="590.341" ay="3.231" />
+            </item>
+        </creator>
+        <creator No="9A37603B3FD94CBAA9E07AD0A8BE7F30" x="668.148" y="31.299" z="586.539" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070500" ay="1.772" amount="1" refreshtime="30000" desc="胡闹醉汉">
+                <position x="668.872" z="585.333" ay="1.772" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="1D6809486CF241EFAF363724C025158A" x="687.938" y="33.385" z="654.466" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070500" ay="-1.771" amount="2" refreshtime="30000" desc="胡闹醉汉">
+                <position x="688.802" z="652.957" ay="-1.771" BornAction="ty_talk" />
+                <position x="687.073" z="652.810" ay="1.617" BornAction="ty_talk4" />
+            </item>
+        </creator>
+        <creator No="C87B4C6232834F27AF7DDA994D45C85F" x="678.157" y="31.762" z="633.358" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070500" ay="4.470" amount="2" refreshtime="30000" desc="胡闹醉汉">
+                <position x="678.323" z="634.798" ay="4.470" BornAction="ty_lie_talk2" />
+                <position x="678.968" z="632.209" ay="6.250" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="06FF779590FC4D1780A8247C91EC6DD9" x="612.081" y="31.454" z="787.778" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070701" ay="1.776" amount="1" refreshtime="30000" desc="山林恶匪头目">
+                <position x="611.775" z="788.314" ay="1.776" />
+            </item>
+        </creator>
+        <creator No="23E1358A0F5043D29EDD36D0869EBE58" x="615.378" y="30.837" z="786.321" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070700" ay="2.720" amount="1" refreshtime="30000" desc="山林恶匪">
+                <position x="614.625" z="786.174" ay="2.720" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="2E61988902BD454A88C01076D00AF1BA" x="609.518" y="31.923" z="785.661" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070700" ay="2.682" amount="1" refreshtime="30000" desc="山林恶匪">
+                <position x="610.130" z="784.395" ay="2.682" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="FC97A395362A403ABA567446FF428FC5" x="602.077" y="33.658" z="772.463" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070700" ay="2.720" amount="2" refreshtime="30000" desc="山林恶匪">
+                <position x="604.522" z="770.850" ay="2.720" BornAction="ty_sitground_lookround" />
+                <position x="601.332" z="773.655" ay="-3.118" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="F70101B8C0294F44835C937786496934" x="661.335" y="32.523" z="787.523" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070700" ay="1.385" amount="1" refreshtime="30000" desc="山林恶匪">
+                <position x="661.088" z="786.095" ay="1.385" BornAction="ty_lie_talk2" />
+            </item>
+        </creator>
+        <creator No="4B80472A729C40908B86A5CB21D8354A" x="694.756" y="29.878" z="764.292" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070700" ay="2.065" amount="1" refreshtime="30000" desc="山林恶匪">
+                <position x="694.143" z="763.506" ay="2.065" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="621CBEFC5B6049538CEF9F9B571BF5FA" x="698.998" y="29.003" z="748.324" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070700" ay="1.776" amount="1" refreshtime="30000" desc="山林恶匪">
+                <position x="698.691" z="748.860" ay="1.776" />
+            </item>
+        </creator>
+        <creator No="8B19BCEA29F0491EA3CEF578A13D5559" x="603.143" y="30.314" z="721.011" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070700" ay="2.336" amount="1" refreshtime="30000" desc="山林恶匪">
+                <position x="603.883" z="720.790" ay="2.336" />
+            </item>
+        </creator>
+        <creator No="5B891DA8F408432E81477C5B56339A7D" x="637.266" y="30.816" z="740.650" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070700" ay="3.540" amount="1" refreshtime="30000" desc="山林恶匪">
+                <position x="636.512" z="739.997" ay="3.540" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="DE575686D5044E40B4215F209DC42A57" x="611.417" y="30.986" z="736.884" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070700" ay="-1.502" amount="1" refreshtime="30000" desc="山林恶匪">
+                <position x="609.758" z="736.839" ay="-1.502" BornAction="ty_lookup" />
+            </item>
+        </creator>
+        <creator No="DFA91266DAAD4704987305AF2B8B55A3" x="631.734" y="30.477" z="762.926" radius="4.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070700" ay="0.019" amount="2" refreshtime="30000" desc="山林恶匪">
+                <position x="631.281" z="761.428" ay="0.019" />
+                <position x="631.513" z="764.515" ay="3.317" />
+            </item>
+        </creator>
+        <creator No="AB88EC81C09D4DC9918126E27BF74C9D" x="683.596" y="29.821" z="713.840" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070600" ay="4.651" amount="1" refreshtime="30000" desc="御碑亭守卫">
+                <position x="683.289" z="714.376" ay="4.651" />
+            </item>
+        </creator>
+        <creator No="23BB8BB13C82442DBCB0BF9A3BFA4B96" x="680.646" y="29.180" z="673.384" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070600" ay="3.681" amount="1" refreshtime="30000" desc="御碑亭守卫">
+                <position x="681.150" z="673.945" ay="3.681" />
+            </item>
+        </creator>
+        <creator No="FFA3E67FB8C14ED880D185BA16AB5E19" x="692.974" y="29.279" z="682.145" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070600" ay="-1.771" amount="2" refreshtime="30000" desc="御碑亭守卫">
+                <position x="693.838" z="680.636" ay="-1.771" BornAction="ty_talk2" />
+                <position x="692.108" z="680.469" ay="1.617" BornAction="ty_talk3" />
+            </item>
+        </creator>
+        <creator No="63BED8B1B2CE47B781E0D8A6E30BEF51" x="693.987" y="29.278" z="707.923" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070600" ay="5.855" amount="1" refreshtime="30000" desc="御碑亭守卫" />
+        </creator>
+        <creator No="6D505B6A72E74C9C83CC12BCB6D553BD" x="691.788" y="28.936" z="709.859" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070600" ay="0.895" amount="1" refreshtime="30000" desc="御碑亭守卫">
+                <position x="691.175" z="709.073" ay="0.895" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="3800193E1A23483B8EE3B8A277EFBF51" x="702.162" y="28.931" z="719.932" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070600" ay="-1.771" amount="1" refreshtime="30000" desc="御碑亭守卫">
+                <position x="702.449" z="718.875" ay="-1.771" BornAction="ty_talk3" />
+            </item>
+            <item No="2" id="monf070601" ay="1.617" amount="1" refreshtime="30000" desc="御碑亭杂役">
+                <position x="701.296" z="718.256" ay="1.617" BornAction="ty_nod" />
+            </item>
+        </creator>
+        <creator No="4F8BB66A3A8A458DBE51232675AFE962" x="710.344" y="28.931" z="721.011" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070601" ay="2.377" amount="1" refreshtime="30000" desc="御碑亭杂役">
+                <position x="711.249" z="721.977" ay="2.377" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="C5220A93B34D4C9E80EC992506BC89AA" x="723.515" y="30.996" z="718.911" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070600" ay="2.161" amount="1" refreshtime="30000" desc="御碑亭守卫">
+                <position x="724.066" z="719.112" ay="2.161" WeaponMode="hand12_1" />
+            </item>
+        </creator>
+        <creator No="FD69E8C6086C4457B3E1AF5B429663D9" x="752.014" y="28.931" z="717.288" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070600" ay="-2.551" amount="1" refreshtime="30000" desc="御碑亭守卫">
+                <position x="750.985" z="719.468" ay="-2.551" BornAction="ty_nod" />
+            </item>
+            <item No="2" id="monf070602" ay="0.429" amount="1" refreshtime="30000" desc="贪婪的亭长" />
+        </creator>
+        <creator No="5AEA5B01634B4E7C80298D1ACA272AD0" x="737.532" y="28.931" z="721.134" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070601" ay="-1.771" amount="2" refreshtime="30000" desc="御碑亭杂役">
+                <position x="738.396" z="719.625" ay="-1.771" BornAction="ty_talk" />
+                <position x="736.667" z="719.458" ay="1.617" BornAction="ty_talk2" />
+            </item>
+        </creator>
+        <creator No="890DD213D4BD46C8957176C1BE9DDE34" x="736.278" y="29.785" z="675.457" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070600" ay="5.557" amount="1" refreshtime="30000" desc="御碑亭守卫">
+                <position x="737.609" z="674.037" ay="5.557" BornAction="ty_sitchair_drinkloop_free01" />
+            </item>
+        </creator>
+        <creator No="112A9F656BBD41C390556C0902623EDE" x="748.670" y="29.358" z="669.744" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070601" ay="1.385" amount="2" refreshtime="30000" desc="御碑亭杂役">
+                <position x="748.424" z="668.316" ay="1.385" BornAction="ty_lie_talk2" />
+                <position x="744.859" z="669.389" ay="4.650" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="CAA1784AC2944BDAAC4EFE72D2599370" x="521.436" y="28.931" z="684.784" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070802" ay="-1.771" amount="1" refreshtime="30000" desc="兵痞头目">
+                <position x="522.300" z="683.275" ay="-1.771" BornAction="ty_talk5" />
+            </item>
+            <item No="2" id="monf070800" ay="1.617" amount="1" refreshtime="30000" desc="逃亡兵痞">
+                <position x="520.571" z="683.109" ay="1.617" BornAction="ty_nod" />
+            </item>
+        </creator>
+        <creator No="D201A1AFB04B4CFC9863AF7278EAD2A4" x="522.480" y="28.931" z="670.731" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070800" ay="2.486" amount="1" refreshtime="30000" desc="逃亡兵痞">
+                <position x="523.066" z="670.746" ay="2.486" WeaponMode="hand12_1" />
+            </item>
+        </creator>
+        <creator No="4390EA574AE54FF6B2675720DEF8325C" x="550.907" y="34.131" z="684.835" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070800" ay="1.776" amount="1" refreshtime="30000" desc="逃亡兵痞">
+                <position x="550.600" z="685.371" ay="1.776" />
+            </item>
+        </creator>
+        <creator No="FD0819A24EC44BC092F5850198A48658" x="546.037" y="33.252" z="681.326" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070800" ay="2.770" amount="1" refreshtime="30000" desc="逃亡兵痞">
+                <position x="544.749" z="680.072" ay="2.770" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="057BCE68EF3D4925A7B3314F36CB409D" x="534.784" y="29.571" z="655.285" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070801" ay="1.698" amount="1" refreshtime="30000" desc="拦路兵痞">
+                <position x="533.737" z="654.580" ay="1.698" BornAction="ty_crouch_loop" />
+            </item>
+        </creator>
+        <creator No="6DDD91F42A2344088806EF1656C0FC04" x="535.380" y="30.072" z="669.443" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070800" ay="-1.771" amount="2" refreshtime="30000" desc="逃亡兵痞">
+                <position x="536.244" z="667.934" ay="-1.771" BornAction="ty_talk4" />
+                <position x="534.515" z="667.767" ay="1.617" BornAction="ty_talk5" />
+            </item>
+        </creator>
+        <creator No="29F0D806F2404C229BE16A3F2729B901" x="536.529" y="28.931" z="626.013" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070800" ay="5.949" amount="1" refreshtime="30000" desc="逃亡兵痞">
+                <position x="536.222" z="626.549" ay="5.949" />
+            </item>
+        </creator>
+        <creator No="61DD997E5F014C509725C19E194C60EB" x="557.755" y="28.931" z="627.388" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070801" ay="0.085" amount="1" refreshtime="30000" desc="拦路兵痞">
+                <position x="557.299" z="628.377" ay="0.085" BornAction="ty_stretch" />
+            </item>
+            <item No="2" id="monf070800" ay="0.440" amount="1" refreshtime="30000" desc="逃亡兵痞">
+                <position x="558.768" z="626.352" ay="0.440" BornAction="ty_lie_talk2" />
+            </item>
+        </creator>
+        <creator No="2E152D014E6C47FB8BBA904D2DFC0EDB" x="545.417" y="28.931" z="614.820" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070800" ay="-1.771" amount="1" refreshtime="30000" desc="逃亡兵痞">
+                <position x="546.280" z="613.311" ay="-1.771" BornAction="ty_talk" />
+            </item>
+            <item No="2" id="monf070801" ay="1.617" amount="1" refreshtime="30000" desc="拦路兵痞">
+                <position x="544.551" z="613.145" ay="1.617" BornAction="ty_talk3" />
+            </item>
+        </creator>
+        <creator No="30CE8C80E3BA47C4996E8EBC09B4CD4E" x="536.823" y="28.931" z="607.760" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070801" ay="5.116" amount="1" refreshtime="30000" desc="拦路兵痞">
+                <position x="535.857" z="607.382" ay="5.116" />
+            </item>
+        </creator>
+        <creator No="94CF571FCA434EE283D187A0C84825DD" x="502.519" y="28.941" z="676.708" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070800" ay="1.862" amount="1" refreshtime="30000" desc="逃亡兵痞">
+                <position x="503.131" z="675.442" ay="1.862" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="8C6ADEEED5574898A0E4DC1070B3D591" x="540.792" y="28.931" z="575.047" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070801" ay="1.385" amount="1" refreshtime="30000" desc="拦路兵痞">
+                <position x="540.544" z="573.619" ay="1.385" BornAction="ty_lie_talk2" />
+            </item>
+        </creator>
+        <creator No="F56183186C3146CF92C8F45E6B71A083" x="502.123" y="29.094" z="637.579" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070801" ay="1.385" amount="2" refreshtime="30000" desc="拦路兵痞">
+                <position x="501.876" z="636.151" ay="1.385" BornAction="ty_lie_talk2" />
+                <position x="504.684" z="637.097" ay="1.995" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="BF19927EEA8A4310BD648EB5558B7BD0" x="508.543" y="30.850" z="652.087" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070800" ay="2.582" amount="1" refreshtime="30000" desc="逃亡兵痞">
+                <position x="508.168" z="650.732" ay="2.582" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="2E7B261487A24D5FA7639F1D248D4559" x="518.137" y="28.992" z="635.313" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070801" ay="0.746" amount="1" refreshtime="30000" desc="拦路兵痞">
+                <position x="517.830" z="635.849" ay="0.746" />
+            </item>
+        </creator>
+        <creator No="D9B62BA4D1C14506AAC647F8F2CC5AB4" x="502.766" y="29.302" z="582.367" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070800" ay="1.017" amount="2" refreshtime="30000" desc="逃亡兵痞">
+                <position x="503.462" z="582.169" ay="1.017" BornAction="sitloop" />
+                <position x="505.174" z="581.633" ay="5.102" BornAction="ty_talk6" />
+            </item>
+        </creator>
+        <creator No="22B05ED1B5F24BDDB3BFB6A4EDF3C766" x="509.237" y="31.306" z="595.498" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070801" ay="-1.771" amount="2" refreshtime="30000" desc="拦路兵痞">
+                <position x="510.101" z="593.989" ay="-1.771" BornAction="ty_talk6" />
+                <position x="508.372" z="593.823" ay="1.617" BornAction="ty_talk" />
+            </item>
+        </creator>
+        <creator No="B088A90B491045C5A666C744E1BCB266" x="778.195" y="6.961" z="374.098" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070402" ay="2.996" amount="1" refreshtime="30000" desc="受惊镖师">
+                <position x="777.888" z="374.634" ay="2.996" />
+            </item>
+        </creator>
+        <creator No="356D5300560040DA887D33319E064AEF" x="786.881" y="6.887" z="362.142" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070402" ay="5.303" amount="1" refreshtime="30000" desc="受惊镖师">
+                <position x="787.567" z="362.865" ay="5.303" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="60EABCC055384835812AF03FE28332CC" x="801.505" y="6.384" z="322.880" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070402" ay="2.711" amount="1" refreshtime="30000" desc="受惊镖师">
+                <position x="801.198" z="323.416" ay="2.711" />
+            </item>
+        </creator>
+        <creator No="9575AC6C9CF94AB48F2ADE1B2DB6C4E5" x="778.101" y="7.002" z="348.707" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070402" ay="5.316" amount="1" refreshtime="30000" desc="受惊镖师">
+                <position x="777.354" z="348.443" ay="5.316" BornAction="ty_crouch_loop" />
+            </item>
+        </creator>
+        <creator No="F755847842014E12A3FD9B8BA33FD660" x="772.434" y="7.036" z="338.375" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070402" ay="5.247" amount="1" refreshtime="30000" desc="受惊镖师">
+                <position x="773.046" z="337.109" ay="5.247" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="BCF3E444AC0248CC81F494B6D9C0C6F0" x="821.172" y="8.599" z="341.535" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070402" ay="-2.211" amount="2" refreshtime="30000" desc="受惊镖师">
+                <position x="823.613" z="341.249" ay="-2.211" BornAction="sitloop" />
+                <position x="821.574" z="342.652" ay="2.132" BornAction="ty_talk6" />
+            </item>
+        </creator>
+        <creator No="575676BB53D842BCAA6664D03B6006E5" x="815.386" y="7.764" z="338.358" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070402" ay="3.691" amount="1" refreshtime="30000" desc="受惊镖师">
+                <position x="815.641" z="338.469" ay="3.691" WeaponMode="hand12_1" />
+            </item>
+        </creator>
+        <creator No="CADBB05227BF414DB53B682B749759E8" x="818.244" y="8.332" z="344.584" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070402" ay="-0.912" amount="1" refreshtime="30000" desc="受惊镖师">
+                <position x="818.746" z="344.270" ay="-0.912" WeaponMode="hand5_1" />
+            </item>
+        </creator>
+        <creator No="6B076BEF138F4CEE944AC12D4A03617B" x="822.512" y="7.550" z="329.905" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070402" ay="3.306" amount="1" refreshtime="30000" desc="受惊镖师">
+                <position x="822.665" z="330.196" ay="3.306" WeaponMode="hand7_1" />
+            </item>
+        </creator>
+        <creator No="7ABFA5D42D9949238646AFBE59AE215F" x="826.505" y="8.652" z="334.517" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070402" ay="-1.771" amount="2" refreshtime="30000" desc="受惊镖师">
+                <position x="827.369" z="333.009" ay="-1.771" BornAction="ty_talk4" />
+                <position x="825.639" z="332.842" ay="1.617" BornAction="ty_talk" />
+            </item>
+        </creator>
+        <creator No="932D960C6617464EB0A5E0A0303DB692" x="839.338" y="11.903" z="316.320" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070402" ay="0.104" amount="2" refreshtime="30000" desc="受惊镖师">
+                <position x="838.177" z="316.100" ay="0.104" BornAction="ty_talk" />
+                <position x="838.309" z="318.501" ay="-2.551" BornAction="ty_nod" />
+            </item>
+        </creator>
+        <creator No="0BA81B50D2D342E5950E027BF89B4A4E" x="841.804" y="12.011" z="342.142" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070402" ay="1.648" amount="1" refreshtime="30000" desc="受惊镖师">
+                <position x="842.773" z="342.856" ay="1.648" BornAction="ty_lookup" />
+            </item>
+        </creator>
+        <creator No="4169FE2DE97F40E1B50ECBB759511DA9" x="796.532" y="6.407" z="341.642" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070402" ay="-1.771" amount="2" refreshtime="30000" desc="受惊镖师">
+                <position x="797.396" z="340.133" ay="-1.771" BornAction="ty_talk5" />
+                <position x="795.666" z="339.966" ay="1.617" BornAction="ty_nod" />
+            </item>
+        </creator>
+        <creator No="58008C2321ED425CB70D58F1DF68FDB3" x="407.006" y="47.184" z="502.692" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070200" ay="1.066" amount="1" refreshtime="30000" desc="江湖游医">
+                <position x="407.759" z="502.746" ay="1.066" />
+            </item>
+        </creator>
+        <creator No="B002FD5EBF5140D28C186E1825E60DB5" x="410.314" y="45.166" z="542.993" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070200" ay="2.065" amount="1" refreshtime="30000" desc="江湖游医">
+                <position x="409.701" z="542.207" ay="2.065" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="AF8C673BCC8C4AF9859CB3555048E464" x="377.186" y="45.805" z="554.251" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070201" ay="5.684" amount="1" refreshtime="30000" desc="江湖骗子">
+                <position x="378.345" z="555.345" ay="5.684" />
+            </item>
+        </creator>
+        <creator No="D0348CFA5C4B4A9DB263E7994F1FB27F" x="379.952" y="44.786" z="536.497" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070201" ay="-1.771" amount="2" refreshtime="30000" desc="江湖骗子">
+                <position x="380.816" z="534.988" ay="-1.771" BornAction="ty_talk" />
+                <position x="379.086" z="534.821" ay="1.617" BornAction="ty_talk4" />
+            </item>
+        </creator>
+        <creator No="0D1C7BA5B07A4470A66312A1B95C0FD9" x="387.752" y="45.433" z="500.431" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070200" ay="-2.211" amount="1" refreshtime="30000" desc="江湖游医">
+                <position x="390.193" z="500.145" ay="-2.211" BornAction="sitloop" />
+            </item>
+            <item No="2" id="monf070201" ay="2.132" amount="1" refreshtime="30000" desc="江湖骗子">
+                <position x="388.154" z="501.548" ay="2.132" BornAction="ty_talk6" />
+            </item>
+        </creator>
+        <creator No="168FEC1FBD464AFF9FE596CE93833316" x="378.315" y="45.838" z="497.810" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070200" ay="-1.771" amount="2" refreshtime="30000" desc="江湖游医">
+                <position x="379.179" z="496.302" ay="-1.771" BornAction="ty_talk" />
+                <position x="377.450" z="496.135" ay="1.617" BornAction="ty_talk" />
+            </item>
+        </creator>
+        <creator No="D42C1F6517934DBFA4BFC60D3FB87A6A" x="357.208" y="48.048" z="526.252" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070201" ay="0.142" amount="1" refreshtime="30000" desc="江湖骗子">
+                <position x="357.820" z="524.986" ay="0.142" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="31258F6C255342C59B6FC7CB9D513B57" x="384.913" y="47.051" z="485.936" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070200" ay="2.840" amount="1" refreshtime="30000" desc="江湖游医">
+                <position x="385.941" z="485.369" ay="2.840" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="3CD08147949C4C918DCFBDBF0D67057A" x="348.931" y="11.907" z="413.956" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070300" ay="0.551" amount="1" refreshtime="30000" desc="快活林弟子">
+                <position x="348.319" z="412.924" ay="0.551" />
+            </item>
+        </creator>
+        <creator No="B60F59114B364B099FB7A22DEEF16C58" x="337.052" y="11.329" z="408.029" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070300" ay="5.865" amount="1" refreshtime="30000" desc="快活林弟子">
+                <position x="336.414" z="408.864" ay="5.865" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="9BF1BE19F12A40BBAB24AE15141A6F99" x="308.711" y="7.246" z="412.168" radius="2.0" WakeupRange="6.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070300" ay="2.417" amount="1" refreshtime="30000" desc="快活林弟子">
+                <position x="308.577" z="411.743" ay="2.417" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="8DFD64502BA5419D84E25794896CABBD" x="291.583" y="6.427" z="430.221" radius="4.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070300" ay="4.005" amount="1" refreshtime="30000" desc="快活林弟子">
+                <position x="289.764" z="429.771" ay="4.005" />
+            </item>
+        </creator>
+        <creator No="E6BB5C2D6962403290B145AF5793746A" x="289.337" y="6.282" z="446.630" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070300" ay="-1.771" amount="1" refreshtime="30000" desc="快活林弟子">
+                <position x="290.201" z="445.121" ay="-1.771" BornAction="ty_talk" />
+            </item>
+            <item No="2" id="monf070301" ay="1.617" amount="1" refreshtime="30000" desc="快活林高级弟子">
+                <position x="288.472" z="444.955" ay="1.617" BornAction="ty_talk3" />
+            </item>
+        </creator>
+        <creator No="3606D7EA382E43D281CC0D6B1B19E259" x="331.271" y="12.383" z="475.179" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070300" ay="3.341" amount="1" refreshtime="30000" desc="快活林弟子">
+                <position x="331.713" z="475.763" ay="3.341" />
+            </item>
+        </creator>
+        <creator No="D51B01EABED84B59A467FFF2ADF31D4F" x="313.795" y="7.279" z="431.039" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070300" ay="1.883" amount="1" refreshtime="30000" desc="快活林弟子">
+                <position x="312.351" z="430.504" ay="1.883" WeaponMode="hand12_1" />
+            </item>
+        </creator>
+        <creator No="00B76D63ECCC4770BBFB44B8048A7E0A" x="320.289" y="8.528" z="496.360" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070300" ay="3.085" amount="1" refreshtime="30000" desc="快活林弟子">
+                <position x="320.044" z="495.674" ay="3.085" BornAction="ty_lie_talk2" />
+            </item>
+        </creator>
+        <creator No="B447780624D4461981015C24F6CCF3DF" x="321.086" y="9.907" z="444.140" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070300" ay="-1.771" amount="2" refreshtime="30000" desc="快活林弟子">
+                <position x="321.949" z="442.631" ay="-1.771" BornAction="ty_talk4" />
+                <position x="320.220" z="442.464" ay="1.617" BornAction="ty_talk2" />
+            </item>
+        </creator>
+        <creator No="B83655AE615A4AABB2288BB62A9E91CF" x="299.676" y="6.953" z="422.603" radius="3.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070300" ay="0.420" amount="1" refreshtime="30000" desc="快活林弟子">
+                <position x="299.404" z="421.754" ay="0.420" BornAction="ty_clap" />
+            </item>
+            <item No="2" id="monf070301" ay="-3.118" amount="1" refreshtime="30000" desc="快活林高级弟子">
+                <position x="299.694" z="423.805" ay="-3.118" BornAction="ty_musical_dizi" />
+            </item>
+        </creator>
+        <creator No="4376CAE671624D5C89291B8F8E78FD5B" x="303.872" y="6.876" z="455.172" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070300" ay="-2.211" amount="2" refreshtime="30000" desc="快活林弟子">
+                <position x="306.312" z="454.886" ay="-2.211" BornAction="sitloop" />
+                <position x="304.270" z="456.279" ay="2.132" BornAction="ty_talk6" />
+            </item>
+        </creator>
+        <creator No="23C9B2310D2447748464BC8656591546" x="250.189" y="33.119" z="660.057" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072400" ay="6.099" amount="1" refreshtime="30000" desc="胡匪">
+                <position x="250.361" z="660.519" ay="6.099" />
+            </item>
+        </creator>
+        <creator No="488DCC37E4DF4BA48C1542DBD18E4283" x="241.030" y="31.945" z="646.939" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072400" ay="0.440" amount="1" refreshtime="30000" desc="胡匪">
+                <position x="240.417" z="646.153" ay="0.440" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="A0CCB0C0AEBF4D37B7293B10277F5ED1" x="229.124" y="30.471" z="650.486" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072400" ay="-1.771" amount="2" refreshtime="30000" desc="胡匪">
+                <position x="229.987" z="648.977" ay="-1.771" BornAction="ty_talk5" />
+                <position x="228.258" z="648.810" ay="1.617" BornAction="ty_nod" />
+            </item>
+        </creator>
+        <creator No="6C180689C6F14C1685EE429B473F301D" x="213.627" y="27.508" z="654.772" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072400" ay="5.294" amount="1" refreshtime="30000" desc="胡匪">
+                <position x="213.309" z="654.363" ay="5.294" />
+            </item>
+        </creator>
+        <creator No="0F542FE5AFD3436F9E334D063370C989" x="228.844" y="33.374" z="682.627" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072400" ay="1.776" amount="1" refreshtime="30000" desc="胡匪">
+                <position x="228.537" z="683.163" ay="1.776" />
+            </item>
+        </creator>
+        <creator No="5C47D61B5CD041CBB4CDABBA2FF71D5E" x="201.027" y="27.000" z="641.954" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072401" ay="0.104" amount="1" refreshtime="30000" desc="胡匪头目">
+                <position x="199.867" z="641.734" ay="0.104" BornAction="ty_talk5" />
+            </item>
+            <item No="2" id="monf072400" ay="-2.551" amount="1" refreshtime="30000" desc="胡匪" />
+        </creator>
+        <creator No="2DBD3F03C90546A487FF80DC748516D5" x="184.441" y="27.355" z="635.662" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072400" ay="6.228" amount="2" refreshtime="30000" desc="胡匪">
+                <position x="186.952" z="639.188" ay="6.228" BornAction="ty_lie_talk2" />
+                <position x="184.744" z="639.045" ay="0.907" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="055FE5D7F3974CC8BD30DB90817F7AC0" x="191.657" y="27.083" z="648.588" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072400" ay="0.557" amount="1" refreshtime="30000" desc="胡匪">
+                <position x="192.269" z="647.322" ay="0.557" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="279CB30E2E774768B10C81D9900B4F13" x="210.749" y="29.006" z="682.300" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072400" ay="-1.771" amount="2" refreshtime="30000" desc="胡匪">
+                <position x="211.612" z="680.791" ay="-1.771" BornAction="ty_talk3" />
+                <position x="209.883" z="680.625" ay="1.617" BornAction="ty_talk" />
+            </item>
+        </creator>
+        <creator No="43D8550170BC480FA1B7F1D4F9CDA901" x="183.571" y="27.000" z="687.949" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072400" ay="5.107" amount="2" refreshtime="30000" desc="胡匪">
+                <position x="184.571" z="685.704" ay="5.107" BornAction="sitloop" />
+                <position x="184.737" z="688.173" ay="3.167" BornAction="ty_talk6" />
+            </item>
+        </creator>
+        <creator No="11319F53F27C4363964F6420C607E4B1" x="195.995" y="27.000" z="674.469" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072400" ay="2.065" amount="1" refreshtime="30000" desc="胡匪">
+                <position x="194.473" z="674.888" ay="2.065" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="24603FE56D524D5F80245E836EE3A377" x="171.631" y="27.000" z="672.816" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf072400" ay="1.776" amount="1" refreshtime="30000" desc="胡匪" />
+        </creator>
+        <creator No="6DCA2348C09C402DBFF053E78FEF9D0B" x="178.275" y="35.836" z="632.210" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072402" ay="5.414" amount="1" refreshtime="30000" desc="胡匪淫贼">
+                <position x="178.290" z="631.592" ay="5.414" />
+            </item>
+        </creator>
+        <creator No="9B53AC8E054C425AB197F3C420C4D7C2" x="155.245" y="35.830" z="630.698" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072402" ay="6.219" amount="1" refreshtime="30000" desc="胡匪淫贼">
+                <position x="154.938" z="631.234" ay="6.219" />
+            </item>
+        </creator>
+        <creator No="D7F8ECED40CE472B896FAEC1A1940194" x="181.992" y="35.768" z="628.784" radius="3.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072402" ay="-1.771" amount="2" refreshtime="30000" desc="胡匪淫贼">
+                <position x="182.856" z="627.276" ay="-1.771" BornAction="ty_talk5" />
+                <position x="181.127" z="627.109" ay="1.617" BornAction="ty_nod" />
+            </item>
+        </creator>
+        <creator No="1F80242F160748F6898B125259978127" x="152.460" y="35.708" z="608.643" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072402" ay="-0.351" amount="2" refreshtime="30000" desc="胡匪淫贼">
+                <position x="155.434" z="609.335" ay="-0.351" BornAction="ty_lie_loop" />
+                <position x="152.862" z="609.760" ay="2.132" BornAction="sitloop" />
+            </item>
+        </creator>
+        <creator No="AEEB41BB291341A9A718F374D2552D78" x="149.587" y="35.791" z="624.260" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072402" ay="1.862" amount="1" refreshtime="30000" desc="胡匪淫贼">
+                <position x="150.199" z="622.994" ay="1.862" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="647AF3B1467C4DF4B358155436F5FBA5" x="235.670" y="10.614" z="484.867" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072800" ay="1.528" amount="1" refreshtime="30000" desc="懒散民兵">
+                <position x="234.529" z="485.235" ay="1.528" />
+            </item>
+        </creator>
+        <creator No="F3D4576E9FFA48459A4E4CA82B97A79B" x="230.793" y="9.557" z="444.252" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072800" ay="1.862" amount="1" refreshtime="30000" desc="懒散民兵">
+                <position x="231.405" z="442.986" ay="1.862" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="4EF6365DC0AB4FD1871F3ECF1867A1FD" x="217.508" y="15.802" z="444.451" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072800" ay="1.021" amount="1" refreshtime="30000" desc="懒散民兵">
+                <position x="218.466" z="443.359" ay="1.021" />
+            </item>
+        </creator>
+        <creator No="BB47DA6E7DA546F896CE5DE8B81EB4BA" x="213.182" y="25.182" z="487.825" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072801" ay="2.462" amount="1" refreshtime="30000" desc="懒散民兵队长">
+                <position x="214.138" z="488.105" ay="2.462" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="72D0FF7BA86F4BC9BF564455C762501F" x="177.098" y="20.731" z="442.077" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072802" ay="0.104" amount="1" refreshtime="30000" desc="贪财的军队教头">
+                <position x="175.938" z="441.858" ay="0.104" BornAction="ty_talk" />
+            </item>
+            <item No="2" id="monf072801" ay="-0.946" amount="1" refreshtime="30000" desc="懒散民兵队长">
+                <position x="177.447" z="443.548" ay="-0.946" BornAction="ty_smile3" />
+            </item>
+            <item No="3" id="monf072800" ay="-2.551" amount="1" refreshtime="30000" desc="懒散民兵">
+                <position x="176.069" z="444.258" ay="-2.551" BornAction="ty_nod" />
+            </item>
+        </creator>
+        <creator No="773D7C1AAC6E4F4A9A2AECB3872FD997" x="196.484" y="18.038" z="453.059" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072800" ay="2.413" amount="1" refreshtime="30000" desc="懒散民兵">
+                <position x="195.098" z="454.060" ay="2.413" />
+            </item>
+        </creator>
+        <creator No="3F88617911464B0BAF5FE28361FF09F7" x="192.342" y="15.882" z="423.887" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072800" ay="1.776" amount="1" refreshtime="30000" desc="懒散民兵">
+                <position x="192.035" z="424.423" ay="1.776" />
+            </item>
+        </creator>
+        <creator No="E29DC279D109497EBB8D5C802FDEEA23" x="211.990" y="22.739" z="424.269" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072800" ay="2.731" amount="1" refreshtime="30000" desc="懒散民兵">
+                <position x="211.965" z="423.415" ay="2.731" />
+            </item>
+        </creator>
+        <creator No="9593F242F4CE4DCE9F6E38E06BE2F7E0" x="197.851" y="20.600" z="472.822" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072800" ay="-1.771" amount="2" refreshtime="30000" desc="懒散民兵">
+                <position x="198.715" z="471.313" ay="-1.771" BornAction="ty_talk4" />
+                <position x="196.986" z="471.146" ay="1.617" BornAction="ty_talk" />
+            </item>
+        </creator>
+        <creator No="AFFE88C304DE48E8BE360425765929D1" x="190.713" y="17.638" z="446.455" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072801" ay="3.967" amount="1" refreshtime="30000" desc="懒散民兵队长">
+                <position x="192.234" z="445.612" ay="3.967" BornAction="ty_talk5" />
+            </item>
+            <item No="2" id="monf072800" ay="1.072" amount="1" refreshtime="30000" desc="懒散民兵">
+                <position x="190.842" z="444.573" ay="1.072" BornAction="ty_nod" />
+            </item>
+        </creator>
+        <creator No="8EA2C380B8E148C78EF7EDF0AB55B750" x="187.830" y="15.913" z="426.117" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072800" ay="2.065" amount="1" refreshtime="30000" desc="懒散民兵">
+                <position x="187.373" z="425.051" ay="2.065" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="F6846CFEAAC34AAB89934C657B7917EA" x="203.718" y="18.083" z="459.542" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072800" ay="1.562" amount="1" refreshtime="30000" desc="懒散民兵">
+                <position x="203.715" z="458.946" ay="1.562" />
+            </item>
+        </creator>
+        <creator No="48CCB7DDDB534E2AA38E858E5810A12D" x="212.402" y="15.897" z="435.387" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072801" ay="5.139" amount="1" refreshtime="30000" desc="懒散民兵队长">
+                <position x="214.713" z="436.017" ay="5.139" BornAction="ty_sitground_drink" />
+            </item>
+        </creator>
+        <creator No="65763DEDBC1B434D83A4CD1427F6FCC5" x="186.651" y="17.078" z="393.004" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072300" ay="0.436" amount="1" refreshtime="30000" desc="黑衣游侠">
+                <position x="186.344" z="393.540" ay="0.436" />
+            </item>
+        </creator>
+        <creator No="02E3A9C6BD4A48A5964F39CC6B01E1FF" x="201.743" y="17.445" z="365.541" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072300" ay="0.890" amount="1" refreshtime="30000" desc="黑衣游侠">
+                <position x="202.232" z="364.673" ay="0.890" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="C16A271AC6834B1B9DAD8F1DE8F4DD92" x="260.122" y="6.440" z="387.530" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072301" ay="1.574" amount="2" refreshtime="30000" desc="醉酒的黑衣游侠">
+                <position x="258.274" z="386.006" ay="1.574" BornAction="ty_sitground_drink" />
+                <position x="259.651" z="385.112" ay="5.794" BornAction="ty_sitground_drink" />
+            </item>
+        </creator>
+        <creator No="FF0353702D684309BE0D0F9328607AFC" x="263.306" y="8.827" z="368.320" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072301" ay="2.065" amount="1" refreshtime="30000" desc="醉酒的黑衣游侠">
+                <position x="262.693" z="367.534" ay="2.065" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="A6077FE94E1E4B7B9B1F164E57237BD6" x="266.146" y="6.273" z="377.484" radius="4.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072301" ay="1.607" amount="1" refreshtime="30000" desc="醉酒的黑衣游侠" />
+        </creator>
+        <creator No="9B9110F1CFA04E338B059B552459BB9E" x="213.648" y="13.249" z="364.866" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072300" ay="-1.771" amount="2" refreshtime="30000" desc="黑衣游侠">
+                <position x="214.512" z="363.357" ay="-1.771" BornAction="ty_talk" />
+                <position x="212.783" z="363.191" ay="1.617" BornAction="ty_talk4" />
+            </item>
+        </creator>
+        <creator No="989E23A91D884AC58F4998EDD8B5F407" x="244.768" y="11.158" z="339.391" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072300" ay="1.776" amount="1" refreshtime="30000" desc="黑衣游侠">
+                <position x="244.461" z="339.927" ay="1.776" />
+            </item>
+        </creator>
+        <creator No="A7332E436DEC40D4A6FC3442532B850C" x="203.716" y="17.349" z="357.977" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072300" ay="-0.351" amount="2" refreshtime="30000" desc="黑衣游侠">
+                <position x="206.690" z="358.669" ay="-0.351" BornAction="ty_lie_loop" />
+                <position x="204.118" z="359.095" ay="2.132" BornAction="sitloop" />
+            </item>
+        </creator>
+        <creator No="A5209D0CFC1F4FEFAA4FEEFDD588B5A7" x="229.748" y="10.661" z="366.937" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072300" ay="2.301" amount="1" refreshtime="30000" desc="黑衣游侠">
+                <position x="228.801" z="366.465" ay="2.301" BornAction="ty_lookup" />
+            </item>
+        </creator>
+        <creator No="77A5DEB29DEB4F2A89D4D95E7250DA32" x="237.186" y="11.567" z="354.061" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf072300" ay="1.776" amount="1" refreshtime="30000" desc="黑衣游侠" />
+        </creator>
+        <creator No="F2DD1209A5F042D19812D3D534F8FA3E" x="224.569" y="13.793" z="351.973" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072300" ay="1.250" amount="2" refreshtime="30000" desc="黑衣游侠">
+                <position x="226.778" z="353.355" ay="1.250" BornAction="ty_sitground_lookround" />
+                <position x="224.083" z="348.732" ay="0.830" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="700D1936EA1C4D4B94FED680A5691D72" x="280.882" y="6.396" z="300.552" radius="4.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072100" ay="3.394" amount="2" refreshtime="30000" desc="快刀客">
+                <position x="278.686" z="298.421" ay="3.394" BornAction="ty_drink3" />
+                <position x="280.426" z="298.597" ay="2.747" />
+            </item>
+        </creator>
+        <creator No="0DED43A323884657BC29207E69D9B909" x="268.016" y="11.459" z="312.186" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072100" ay="5.875" amount="1" refreshtime="30000" desc="快刀客">
+                <position x="269.297" z="311.140" ay="5.875" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="0889304DEDFC44A8AC0F74646D41A701" x="285.831" y="7.379" z="328.606" radius="3.0" WakeupRange="6.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072101" ay="-1.771" amount="1" refreshtime="30000" desc="蛮横快刀客">
+                <position x="286.695" z="327.097" ay="-1.771" BornAction="ty_talk5" />
+            </item>
+            <item No="2" id="monf072100" ay="1.617" amount="1" refreshtime="30000" desc="快刀客">
+                <position x="284.966" z="326.930" ay="1.617" BornAction="ty_nod" />
+            </item>
+        </creator>
+        <creator No="0FFE2C15B2C244D0BD174FA3F41500EF" x="241.430" y="20.700" z="291.565" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072100" ay="2.420" amount="1" refreshtime="30000" desc="快刀客">
+                <position x="242.791" z="290.894" ay="2.420" BornAction="ty_sitground_lookround" />
+            </item>
+            <item No="2" id="monf072101" ay="-3.118" amount="1" refreshtime="30000" desc="蛮横快刀客">
+                <position x="240.685" z="292.758" ay="-3.118" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="02E51D130F284E669829E99BB4C7F6B6" x="241.454" y="20.963" z="301.696" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072100" ay="5.551" amount="1" refreshtime="30000" desc="快刀客">
+                <position x="241.147" z="302.232" ay="5.551" />
+            </item>
+        </creator>
+        <creator No="A1BF2AF0154F464D8430CABD7A679D5D" x="280.569" y="7.559" z="315.485" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="monf072100" ay="1.131" amount="1" refreshtime="30000" desc="快刀客" />
+        </creator>
+        <creator No="CDED83CB24A640FB82DCCBACD0088908" x="218.156" y="19.310" z="302.598" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072100" ay="1.862" amount="1" refreshtime="30000" desc="快刀客">
+                <position x="218.768" z="301.332" ay="1.862" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="4795FD99BEFF45D590C763A14E951087" x="266.039" y="9.839" z="339.203" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072100" ay="4.371" amount="1" refreshtime="30000" desc="快刀客">
+                <position x="265.732" z="339.739" ay="4.371" />
+            </item>
+        </creator>
+        <creator No="898E7E2A337A44E3A5766837F37D74C9" x="262.522" y="23.941" z="301.940" radius="2.0" WakeupRange="4.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072101" ay="1.423" amount="1" refreshtime="30000" desc="蛮横快刀客">
+                <position x="263.802" z="301.708" ay="1.423" WeaponMode="hand12_1" />
+            </item>
+        </creator>
+        <creator No="CCF80006B3F347E5934B03D7428F0013" x="281.164" y="31.277" z="227.585" radius="3.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072102" ay="-1.771" amount="2" refreshtime="30000" desc="私盐贩子">
+                <position x="282.028" z="226.076" ay="-1.771" BornAction="ty_talk5" />
+                <position x="280.299" z="225.909" ay="1.617" BornAction="ty_nod" />
+            </item>
+        </creator>
+        <creator No="307F7E17D45A40889D8F8FF78EC79DED" x="280.075" y="29.065" z="241.366" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072102" ay="5.564" amount="1" refreshtime="30000" desc="私盐贩子">
+                <position x="280.416" z="241.934" ay="5.564" />
+            </item>
+        </creator>
+        <creator No="CFFEFA435B0A4679B83220A9EF2F93C9" x="239.698" y="33.510" z="213.474" radius="2.0" WakeupRange="3.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072102" ay="0.702" amount="1" refreshtime="30000" desc="私盐贩子">
+                <position x="241.103" z="213.530" ay="0.702" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="C50BA48A444844A48F6B63F5B8F66577" x="260.761" y="33.666" z="205.581" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072102" ay="0.458" amount="1" refreshtime="30000" desc="私盐贩子">
+                <position x="260.488" z="206.100" ay="0.458" WeaponMode="hand12_1" />
+            </item>
+        </creator>
+        <creator No="C90F656C8B73413D9632789CE55C8B70" x="273.882" y="34.487" z="201.019" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072102" ay="0.915" amount="1" refreshtime="30000" desc="私盐贩子">
+                <position x="273.269" z="200.233" ay="0.915" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="213CAFF1BA8C47F9937D3E58A551595C" x="265.780" y="34.106" z="204.429" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072102" ay="0.021" amount="1" refreshtime="30000" desc="私盐贩子">
+                <position x="267.019" z="203.776" ay="0.021" />
+            </item>
+        </creator>
+        <creator No="644612E2B05A429C87EF5DC3AAE844A0" x="224.079" y="33.419" z="243.699" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072102" ay="-1.771" amount="2" refreshtime="30000" desc="私盐贩子">
+                <position x="224.942" z="242.190" ay="-1.771" BornAction="ty_nod2" />
+                <position x="223.213" z="242.023" ay="1.617" BornAction="ty_talk3" />
+            </item>
+        </creator>
+        <creator No="D75BBDFD857448A59757E3E32997C7BE" x="232.254" y="33.742" z="214.043" radius="3.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072102" ay="-2.211" amount="2" refreshtime="30000" desc="私盐贩子">
+                <position x="234.695" z="213.758" ay="-2.211" BornAction="sitloop" />
+                <position x="232.656" z="215.161" ay="2.132" BornAction="ty_talk6" />
+            </item>
+        </creator>
+        <creator No="DA9AC4C641FB48809A465AA983EC10EA" x="59.746" y="92.982" z="238.636" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072200" ay="6.254" amount="2" refreshtime="30000" desc="紫筠阁守卫">
+                <position x="62.842" z="239.774" ay="6.254" WeaponMode="hand2_1" />
+                <position x="57.466" z="240.023" ay="0.073" WeaponMode="hand2_1" />
+            </item>
+        </creator>
+        <creator No="0C6F420EDDA547BD8F1638B021FE7628" x="57.576" y="93.357" z="217.607" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072200" ay="6.256" amount="1" refreshtime="30000" desc="紫筠阁守卫">
+                <position x="57.463" z="216.033" ay="6.256" WeaponMode="hand12_1" />
+            </item>
+        </creator>
+        <creator No="E2C2E4A847244C9A9D815DF89911CC5A" x="34.962" y="95.472" z="160.914" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072201" ay="1.773" amount="1" refreshtime="30000" desc="紫筠阁侍女">
+                <position x="34.927" z="159.742" ay="1.773" />
+            </item>
+        </creator>
+        <creator No="E4E0E917644C4F61A1D10441660DFBD7" x="37.659" y="91.983" z="218.043" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072200" ay="-1.771" amount="2" refreshtime="30000" desc="紫筠阁守卫">
+                <position x="38.523" z="216.534" ay="-1.771" BornAction="ty_talk3" />
+                <position x="36.793" z="216.367" ay="1.617" BornAction="ty_talk4" />
+            </item>
+        </creator>
+        <creator No="CF0E3484B27741D2BE7408BEAF93016D" x="88.399" y="94.290" z="190.018" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072200" ay="4.746" amount="1" refreshtime="30000" desc="紫筠阁守卫">
+                <position x="89.155" z="190.698" ay="4.746" />
+            </item>
+        </creator>
+        <creator No="43949D2CF9AB4BE29C9C820F4A1F4B55" x="34.651" y="93.031" z="206.380" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072200" ay="-1.771" amount="1" refreshtime="30000" desc="紫筠阁守卫">
+                <position x="35.515" z="204.871" ay="-1.771" BornAction="ty_talk4" />
+            </item>
+            <item No="2" id="monf072201" ay="1.617" amount="1" refreshtime="30000" desc="紫筠阁侍女">
+                <position x="33.785" z="204.704" ay="1.617" BornAction="ty_talk2" />
+            </item>
+        </creator>
+        <creator No="805FC079A2CA4419A50006F18469701C" x="32.079" y="94.290" z="189.567" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072201" ay="1.773" amount="1" refreshtime="30000" desc="紫筠阁侍女">
+                <position x="32.043" z="188.395" ay="1.773" />
+            </item>
+        </creator>
+        <creator No="DD6BC415F42047659518CC89AD664895" x="60.611" y="95.571" z="147.543" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072200" ay="6.189" amount="2" refreshtime="30000" desc="紫筠阁守卫">
+                <position x="64.469" z="148.362" ay="6.189" />
+                <position x="57.096" z="148.289" ay="0.073" />
+            </item>
+        </creator>
+        <creator No="15E415C058BA4CB492940A35C21A49AB" x="79.444" y="93.031" z="177.970" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072202" ay="-1.771" amount="1" refreshtime="30000" desc="万梅山庄高手">
+                <position x="80.307" z="176.461" ay="-1.771" BornAction="ty_talk" />
+            </item>
+            <item No="2" id="monf072201" ay="1.617" amount="1" refreshtime="30000" desc="紫筠阁侍女">
+                <position x="78.578" z="176.294" ay="1.617" BornAction="ty_talk2" />
+            </item>
+        </creator>
+        <creator No="7CBB364A1BD4425CA1169CA0F27D6F59" x="50.722" y="93.144" z="178.804" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072201" ay="1.776" amount="1" refreshtime="30000" desc="紫筠阁侍女" />
+        </creator>
+        <creator No="E31B7597AE1C4920B4F739EC4C735EC3" x="29.141" y="93.867" z="151.492" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072202" ay="1.760" amount="2" refreshtime="30000" desc="万梅山庄高手">
+                <position x="28.597" z="151.900" ay="1.760" BornAction="ty_sitchair_chessloop_free01" />
+                <position x="30.560" z="152.814" ay="-2.375" BornAction="ty_talk" />
+            </item>
+        </creator>
+        <creator No="89414F56E424464B96EE28AA19464428" x="95.026" y="93.031" z="147.651" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072202" ay="5.150" amount="1" refreshtime="30000" desc="万梅山庄高手">
+                <position x="94.606" z="148.992" ay="5.150" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="08DC488B42684762A5DF8EF48C6CA1CD" x="86.679" y="93.031" z="131.426" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072201" ay="0.420" amount="1" refreshtime="30000" desc="紫筠阁侍女">
+                <position x="86.406" z="130.578" ay="0.420" BornAction="ty_clap" />
+            </item>
+            <item No="2" id="monf072202" ay="-3.118" amount="1" refreshtime="30000" desc="万梅山庄高手">
+                <position x="86.696" z="132.629" ay="-3.118" BornAction="ty_musical_dizi" />
+            </item>
+        </creator>
+        <creator No="6AC3E615407341BBB3E6D17F577ABA74" x="69.336" y="95.571" z="150.330" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072201" ay="-1.771" amount="2" refreshtime="30000" desc="紫筠阁侍女">
+                <position x="70.200" z="148.821" ay="-1.771" BornAction="ty_talk" />
+                <position x="68.470" z="148.654" ay="1.617" BornAction="ty_talk2" />
+            </item>
+        </creator>
+        <creator No="D023427919FF41D29A35E6E0D81509D9" x="80.539" y="93.031" z="159.884" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072200" ay="4.746" amount="1" refreshtime="30000" desc="紫筠阁守卫">
+                <position x="81.295" z="160.565" ay="4.746" />
+            </item>
+        </creator>
+        <creator No="CA941C7119AB4C4D88F3D390E77F86AF" x="87.032" y="93.031" z="205.212" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072201" ay="4.701" amount="1" refreshtime="30000" desc="紫筠阁侍女">
+                <position x="86.469" z="205.048" ay="4.701" />
+            </item>
+        </creator>
+        <creator No="50B0C56758474CA7AEB60CF2610D616C" x="-121.783" y="27.000" z="515.604" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072700" ay="2.725" amount="2" refreshtime="30000" desc="偷懒家丁">
+                <position x="-119.006" z="516.410" ay="2.725" BornAction="ty_lie_talk2" />
+                <position x="-121.273" z="519.239" ay="3.275" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="7D275D8163254354921938D37D9D4C04" x="-98.959" y="27.996" z="475.103" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072700" ay="2.545" amount="1" refreshtime="30000" desc="偷懒家丁">
+                <position x="-99.111" z="475.795" ay="2.545" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="DC84D3ECC146443BA389D6B2AB7178E0" x="-106.581" y="28.073" z="497.112" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072700" ay="-1.771" amount="2" refreshtime="30000" desc="偷懒家丁">
+                <position x="-105.718" z="495.603" ay="-1.771" BornAction="ty_talk4" />
+                <position x="-107.447" z="495.436" ay="1.617" BornAction="ty_nod" />
+            </item>
+        </creator>
+        <creator No="A7C3C8E4816E47EFB14982BE1D0A0AD3" x="-65.536" y="27.804" z="504.541" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072700" ay="4.087" amount="1" refreshtime="30000" desc="偷懒家丁">
+                <position x="-65.230" z="504.260" ay="4.087" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="4C1BA2B0E9A34CA78A17B03B824D28C3" x="-63.150" y="27.000" z="480.324" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072701" ay="-1.771" amount="1" refreshtime="30000" desc="巡林家丁">
+                <position x="-62.286" z="478.815" ay="-1.771" BornAction="ty_talk5" />
+            </item>
+            <item No="2" id="monf072700" ay="1.617" amount="1" refreshtime="30000" desc="偷懒家丁">
+                <position x="-64.015" z="478.648" ay="1.617" BornAction="ty_nod" />
+            </item>
+        </creator>
+        <creator No="7A7B936D7BBC417C87767B57768E0031" x="-61.670" y="27.067" z="455.086" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072701" ay="3.261" amount="1" refreshtime="30000" desc="巡林家丁">
+                <position x="-61.572" z="455.555" ay="3.261" />
+            </item>
+        </creator>
+        <creator No="ABD1DB1EB8174C39A707DE8F5CC21E52" x="-119.640" y="27.000" z="453.425" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072701" ay="2.246" amount="1" refreshtime="30000" desc="巡林家丁">
+                <position x="-118.875" z="453.634" ay="2.246" BornAction="ty_crouch_loop" />
+            </item>
+        </creator>
+        <creator No="57E0BB476A854296B3C8DE04F34411F2" x="-114.926" y="27.000" z="467.013" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072701" ay="-1.771" amount="2" refreshtime="30000" desc="巡林家丁">
+                <position x="-114.062" z="465.504" ay="-1.771" BornAction="ty_talk5" />
+                <position x="-115.791" z="465.338" ay="1.617" BornAction="ty_talk3" />
+            </item>
+        </creator>
+        <creator No="A505B4B2AB9A440B9D200121C3D1D8CA" x="-94.021" y="27.572" z="465.039" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072701" ay="2.146" amount="1" refreshtime="30000" desc="巡林家丁">
+                <position x="-93.809" z="464.661" ay="2.146" WeaponMode="hand12_1" />
+            </item>
+        </creator>
+        <creator No="442D1C5FE3DE476BB455E8FCC6A27345" x="-80.444" y="27.412" z="390.246" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072600" ay="-1.502" amount="1" refreshtime="30000" desc="折梅恶棍">
+                <position x="-82.103" z="390.201" ay="-1.502" BornAction="ty_lookup" />
+            </item>
+        </creator>
+        <creator No="EE68BA009BE04BFDB06440ADE2FA2F49" x="-90.970" y="27.036" z="438.840" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072600" ay="5.771" amount="1" refreshtime="30000" desc="折梅恶棍">
+                <position x="-90.367" z="439.090" ay="5.771" />
+            </item>
+        </creator>
+        <creator No="B21C63C2A1F14B10B6D6A002EC638830" x="-104.433" y="27.480" z="426.550" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072601" ay="0.765" amount="1" refreshtime="30000" desc="喧哗酒鬼">
+                <position x="-104.231" z="426.176" ay="0.765" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="789E498215AB4187956929B48F0BDA9F" x="-51.034" y="28.179" z="421.159" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072601" ay="5.904" amount="1" refreshtime="30000" desc="喧哗酒鬼">
+                <position x="-51.341" z="421.695" ay="5.904" />
+            </item>
+        </creator>
+        <creator No="4DE37BDABACA426BA09F813BB893382F" x="-108.086" y="30.938" z="394.161" radius="5.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072601" ay="3.225" amount="2" refreshtime="30000" desc="喧哗酒鬼">
+                <position x="-106.449" z="393.454" ay="3.225" BornAction="ty_sitground_lookround" />
+                <position x="-108.765" z="394.600" ay="0.067" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="94DA4CEABB774461B103E3E5BF4A3BA4" x="-72.487" y="27.758" z="397.003" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072601" ay="1.574" amount="2" refreshtime="30000" desc="喧哗酒鬼">
+                <position x="-74.335" z="395.479" ay="1.574" BornAction="ty_sitground_drink" />
+                <position x="-72.193" z="395.912" ay="-1.584" BornAction="ty_drink3" />
+            </item>
+        </creator>
+        <creator No="036A4C0EF43E4737AC2FD0C2C8C0C361" x="-117.504" y="30.454" z="392.999" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072600" ay="5.630" amount="1" refreshtime="30000" desc="折梅恶棍">
+                <position x="-116.892" z="391.733" ay="5.630" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="113BC731660645D0AED695E400ED69B9" x="-77.532" y="27.435" z="378.864" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072600" ay="0.889" amount="2" refreshtime="30000" desc="折梅恶棍">
+                <position x="-78.693" z="378.644" ay="0.889" BornAction="ty_talk5" />
+                <position x="-77.183" z="380.334" ay="-0.946" BornAction="ty_smile3" />
+            </item>
+        </creator>
+        <creator No="345097FFFC9E4C8C9C05C39154C5FBEF" x="-260.687" y="28.346" z="400.104" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072500" ay="0.553" amount="1" refreshtime="30000" desc="黑水祠护院">
+                <position x="-260.909" z="400.648" ay="0.553" WeaponMode="hand12_1" />
+            </item>
+        </creator>
+        <creator No="EF69E944AEBD4BCF89DE3B4A6817D07B" x="-165.035" y="27.000" z="414.870" radius="1.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072501" ay="0.382" amount="1" refreshtime="30000" desc="万梅山庄家丁">
+                <position x="-164.863" z="415.361" ay="0.382" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="58862BD891604406A475A4860098F4F7" x="-189.781" y="27.824" z="438.732" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072503" ay="-1.771" amount="1" refreshtime="30000" desc="黑水祠侍女">
+                <position x="-188.917" z="437.223" ay="-1.771" />
+            </item>
+            <item No="2" id="monf072501" ay="1.617" amount="1" refreshtime="30000" desc="万梅山庄家丁">
+                <position x="-190.647" z="437.057" ay="1.617" BornAction="ty_talk" />
+            </item>
+        </creator>
+        <creator No="01E80FEB4871471993B2825F34057E6D" x="-241.530" y="27.824" z="437.489" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072501" ay="1.129" amount="1" refreshtime="30000" desc="万梅山庄家丁">
+                <position x="-242.632" z="438.817" ay="1.129" />
+            </item>
+            <item No="2" id="monf072503" ay="4.767" amount="1" refreshtime="30000" desc="黑水祠侍女">
+                <position x="-241.181" z="438.959" ay="4.767" />
+            </item>
+        </creator>
+        <creator No="E74AF7C9CE894B9C80CE36FB799C0A44" x="-192.510" y="27.000" z="365.131" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072501" ay="-1.771" amount="2" refreshtime="30000" desc="万梅山庄家丁">
+                <position x="-191.647" z="363.622" ay="-1.771" BornAction="ty_talk" />
+                <position x="-193.376" z="363.456" ay="1.617" BornAction="ty_talk6" />
+            </item>
+        </creator>
+        <creator No="D9D0A1F7343044AC81179F3242B925CD" x="-172.742" y="27.444" z="429.853" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072501" ay="4.040" amount="1" refreshtime="30000" desc="万梅山庄家丁">
+                <position x="-173.355" z="429.067" ay="4.040" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="E7506BAF7E984F8B983C4820E7B65233" x="-171.461" y="27.308" z="434.137" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072501" ay="2.625" amount="1" refreshtime="30000" desc="万梅山庄家丁">
+                <position x="-171.878" z="432.978" ay="2.625" BornAction="ty_lie_talk2" />
+            </item>
+        </creator>
+        <creator No="D126CB51EA294EDC8407E6A460170917" x="-167.665" y="27.000" z="420.956" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072501" ay="1.385" amount="1" refreshtime="30000" desc="万梅山庄家丁">
+                <position x="-167.912" z="419.528" ay="1.385" BornAction="ty_wipe_l" RandomAction="standfree" />
+            </item>
+        </creator>
+        <creator No="805721E7805C443A8B5EAE645A2E11FF" x="-218.939" y="27.825" z="360.363" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072500" ay="5.876" amount="1" refreshtime="30000" desc="黑水祠护院">
+                <position x="-219.161" z="360.906" ay="5.876" WeaponMode="hand12_1" />
+            </item>
+        </creator>
+        <creator No="2213D9BBCAB846DE99A447788747DC3F" x="-222.627" y="27.000" z="425.405" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072500" ay="2.693" amount="1" refreshtime="30000" desc="黑水祠护院">
+                <position x="-222.850" z="425.949" ay="2.693" WeaponMode="hand12_1" />
+            </item>
+        </creator>
+        <creator No="F0D1BBBCB0E746BC813164D611ABF070" x="-233.900" y="27.000" z="376.404" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072500" ay="4.792" amount="2" refreshtime="30000" desc="黑水祠护院">
+                <position x="-233.887" z="377.649" ay="4.792" BornAction="ty_zhamaloop_free01" />
+                <position x="-233.893" z="374.882" ay="4.885" BornAction="ty_zhamaloop_free01" />
+            </item>
+        </creator>
+        <creator No="22B8A677128C46CDA2E01EB9F26969B8" x="-234.018" y="27.000" z="369.167" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072500" ay="4.792" amount="2" refreshtime="30000" desc="黑水祠护院">
+                <position x="-234.004" z="370.412" ay="4.792" BornAction="ty_zhamaloop_free01" />
+                <position x="-234.011" z="367.644" ay="4.885" BornAction="ty_zhamaloop_free01" />
+            </item>
+        </creator>
+        <creator No="DDA55BB3CD7E464989D3ABB0BE5EC9AA" x="-234.298" y="27.000" z="429.691" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072500" ay="4.792" amount="2" refreshtime="30000" desc="黑水祠护院">
+                <position x="-234.285" z="430.936" ay="4.792" BornAction="ty_zhamaloop" />
+                <position x="-234.291" z="428.168" ay="4.885" BornAction="ty_zhamaloop" />
+            </item>
+        </creator>
+        <creator No="DCFF5C344704452193E3ACCFFD1AC899" x="-234.187" y="27.000" z="421.037" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072500" ay="4.792" amount="2" refreshtime="30000" desc="黑水祠护院">
+                <position x="-234.174" z="422.282" ay="4.792" BornAction="ty_zhamaloop" />
+                <position x="-234.180" z="419.514" ay="4.885" BornAction="ty_zhamaloop" />
+            </item>
+        </creator>
+        <creator No="9617DD38DE3E44579BCF76D25F793660" x="-216.808" y="28.412" z="398.662" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072501" ay="0.039" amount="2" refreshtime="30000" desc="万梅山庄家丁">
+                <position x="-217.582" z="395.875" ay="0.039" />
+                <position x="-217.118" z="402.308" ay="3.337" />
+            </item>
+        </creator>
+        <creator No="4ECA80D78EAE45049A763FA4FD1845AA" x="-210.826" y="28.412" z="392.635" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072503" ay="4.521" amount="1" refreshtime="30000" desc="黑水祠侍女">
+                <position x="-210.743" z="392.810" ay="4.521" BornAction="ty_clap" />
+            </item>
+        </creator>
+        <creator No="BECBF168B5134399BD47C8B43EC30CCC" x="-228.035" y="28.412" z="387.684" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072500" ay="0.928" amount="1" refreshtime="30000" desc="黑水祠护院">
+                <position x="-227.310" z="388.144" ay="0.928" BornAction="ty_clap" />
+            </item>
+        </creator>
+        <creator No="6B06ECA2A8A14BBABE7AA59EA9FDDC85" x="-228.134" y="28.412" z="408.989" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072500" ay="2.236" amount="1" refreshtime="30000" desc="黑水祠护院">
+                <position x="-227.321" z="408.242" ay="2.236" BornAction="ty_cheer" />
+            </item>
+        </creator>
+        <creator No="C77A00BFC82F4BEBA50E32E773B7E722" x="-215.866" y="28.412" z="385.366" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072500" ay="5.526" amount="1" refreshtime="30000" desc="黑水祠护院">
+                <position x="-215.528" z="384.086" ay="5.526" WeaponMode="hand12_1" />
+            </item>
+        </creator>
+        <creator No="690819B10E4143C884D8A99E7BD9299C" x="-170.550" y="27.000" z="357.266" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072501" ay="-1.771" amount="2" refreshtime="30000" desc="万梅山庄家丁">
+                <position x="-169.686" z="355.757" ay="-1.771" BornAction="ty_talk5" />
+                <position x="-171.415" z="355.591" ay="1.617" BornAction="ty_nod" />
+            </item>
+        </creator>
+        <creator No="88ADEC2EDBB84942B65E89F4F0683E61" x="-163.430" y="27.000" z="377.747" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072501" ay="3.846" amount="1" refreshtime="30000" desc="万梅山庄家丁">
+                <position x="-165.080" z="377.573" ay="3.846" BornAction="ty_lookup" />
+            </item>
+        </creator>
+        <creator No="CA0D881C7217422B929ADB1322B206CC" x="-168.236" y="27.316" z="382.549" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072501" ay="0.388" amount="1" refreshtime="30000" desc="万梅山庄家丁">
+                <position x="-168.381" z="381.493" ay="0.388" BornAction="ty_think2" />
+            </item>
+        </creator>
+        <creator No="6453F61C3DAF40ADBCD63792700BB62E" x="-253.487" y="27.000" z="437.304" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072502" ay="3.851" amount="1" refreshtime="30000" desc="黑水祠祭司">
+                <position x="-254.780" z="437.520" ay="3.851" BornAction="ty_sitchair_drinkloop_free01" />
+            </item>
+        </creator>
+        <creator No="4536D039B2154F1C8AD66767E4CEEF69" x="-266.876" y="27.000" z="417.504" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072503" ay="-1.771" amount="1" refreshtime="30000" desc="黑水祠侍女">
+                <position x="-266.013" z="415.995" ay="-1.771" BornAction="ty_talk3" />
+            </item>
+            <item No="2" id="monf072501" ay="1.617" amount="1" refreshtime="30000" desc="万梅山庄家丁">
+                <position x="-267.742" z="415.829" ay="1.617" BornAction="ty_nod" />
+            </item>
+        </creator>
+        <creator No="7007A0081B8E4D5A9A645AF9873EB9B6" x="-269.413" y="27.000" z="377.153" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072503" ay="0.420" amount="1" refreshtime="30000" desc="黑水祠侍女">
+                <position x="-269.686" z="376.304" ay="0.420" BornAction="ty_clap" />
+            </item>
+            <item No="2" id="monf072502" ay="-3.118" amount="1" refreshtime="30000" desc="黑水祠祭司">
+                <position x="-269.396" z="378.355" ay="-3.118" BornAction="ty_musical_dizi" />
+            </item>
+        </creator>
+        <creator No="012531251356404A89FBAE09F3C0C62B" x="-260.251" y="27.000" z="354.773" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072503" ay="-0.946" amount="1" refreshtime="30000" desc="黑水祠侍女">
+                <position x="-259.902" z="356.244" ay="-0.946" BornAction="ty_smile3" />
+            </item>
+            <item No="2" id="monf072500" ay="-2.551" amount="1" refreshtime="30000" desc="黑水祠护院">
+                <position x="-261.280" z="356.954" ay="-2.551" BornAction="ty_nod" />
+            </item>
+        </creator>
+        <creator No="F32C1F25A7504A2196BF769EB985B6A9" x="-168.130" y="27.000" z="416.069" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072501" ay="1.862" amount="1" refreshtime="30000" desc="万梅山庄家丁">
+                <position x="-167.518" z="414.803" ay="1.862" BornAction="ty_think2" />
+            </item>
+        </creator>
+        <creator No="68AC311F36FE437D872DCCE11F2AEFA2" x="690.868" y="31.292" z="604.167" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070500" ay="3.982" amount="2" refreshtime="30000" desc="胡闹醉汉">
+                <position x="693.323" z="604.102" ay="3.982" BornAction="sitloop" />
+                <position x="691.168" z="605.316" ay="2.042" BornAction="ty_talk6" />
+            </item>
+        </creator>
+        <creator No="82AF98676CB84E62AACB54DE2D8DE2D9" x="631.986" y="29.856" z="768.372" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070700" ay="-2.337" amount="1" refreshtime="30000" desc="山林恶匪">
+                <position x="632.224" z="767.337" ay="-2.337" BornAction="ty_clap" />
+            </item>
+        </creator>
+        <creator No="FDE7886DC6F244958C9CF536D9AD971E" x="638.123" y="30.072" z="786.969" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070700" ay="-1.771" amount="2" refreshtime="30000" desc="山林恶匪">
+                <position x="638.987" z="785.460" ay="-1.771" BornAction="ty_talk3" />
+                <position x="637.258" z="785.294" ay="1.617" BornAction="ty_talk2" />
+            </item>
+        </creator>
+        <creator No="E11D7BFB9BB041C7ACE61E6DAB98573D" x="708.579" y="19.668" z="79.730" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="lifeanimalf07003" ay="-1" amount="1" refreshtime="300000" desc="沙狼" />
+        </creator>
+        <creator No="DD63E9594916404F90D19E3CD66234F8" x="698.557" y="16.489" z="99.274" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="lifeanimalf07003" ay="-1" amount="1" refreshtime="300000" desc="沙狼" />
+        </creator>
+        <creator No="E3091387F8F94051BD406A88F6B69767" x="627.947" y="7.555" z="96.370" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="lifeanimalf07003" ay="-1" amount="1" refreshtime="300000" desc="沙狼" />
+        </creator>
+        <creator No="140E8ADB26444C45A683BAACE5216CEF" x="679.253" y="21.682" z="64.270" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="lifeanimalf07003" ay="-1" amount="1" refreshtime="300000" desc="沙狼" />
+        </creator>
+        <creator No="3D8D48DBC2274DF0B9AA76B5B6C8AB55" x="-99.776" y="41.926" z="372.262" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072600" ay="-2.211" amount="1" refreshtime="30000" desc="折梅恶棍">
+                <position x="-97.335" z="371.976" ay="-2.211" BornAction="sitloop" />
+            </item>
+            <item No="2" id="monf072601" ay="2.132" amount="1" refreshtime="30000" desc="喧哗酒鬼">
+                <position x="-99.374" z="373.379" ay="2.132" BornAction="ty_talk6" />
+            </item>
+        </creator>
+        <creator No="8890A912CE3647E48E80C3579418F6A7" x="593.706" y="21.279" z="366.053" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070401" ay="2.650" amount="2" refreshtime="30000" desc="霹雳堂打手">
+                <position x="592.180" z="362.885" ay="2.650" BornAction="ty_lie_talk2" />
+                <position x="594.362" z="363.878" ay="1.995" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="E83DBA031C404FB99DFDEAE26EB1B863" x="617.264" y="19.392" z="372.851" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070401" ay="-1.771" amount="2" refreshtime="30000" desc="霹雳堂打手">
+                <position x="618.128" z="371.342" ay="-1.771" BornAction="ty_talk" />
+                <position x="616.399" z="371.175" ay="1.617" BornAction="ty_talk4" />
+            </item>
+        </creator>
+        <creator No="1E3507DF961A4C9B839126A6BA4BF40B" x="607.258" y="14.896" z="353.875" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070401" ay="1.617" amount="1" refreshtime="30000" desc="霹雳堂打手">
+                <position x="606.393" z="352.199" ay="1.617" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="B054FD57A2944F1C89C6C823D030CC0F" x="598.614" y="14.657" z="342.638" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070403" ay="-1.771" amount="1" refreshtime="30000" desc="市井恶棍">
+                <position x="599.478" z="341.129" ay="-1.771" BornAction="ty_nod" />
+            </item>
+            <item No="2" id="monf070401" ay="1.617" amount="1" refreshtime="30000" desc="霹雳堂打手">
+                <position x="597.749" z="340.963" ay="1.617" BornAction="ty_talk3" />
+            </item>
+        </creator>
+        <creator No="380D7F0266364482AE393C34D2474969" x="587.326" y="16.294" z="326.762" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070403" ay="1.617" amount="1" refreshtime="30000" desc="市井恶棍">
+                <position x="586.461" z="325.086" ay="1.617" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="8CBA288D2744472CB53ED9BAF3E147DA" x="595.229" y="13.297" z="328.610" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070403" ay="3.352" amount="1" refreshtime="30000" desc="市井恶棍">
+                <position x="595.443" z="327.147" ay="3.352" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="EC9B47E0152A46C8BDE868D711397E2E" x="624.718" y="11.501" z="326.177" radius="2.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf070403" ay="-1.771" amount="2" refreshtime="30000" desc="市井恶棍">
+                <position x="625.582" z="324.668" ay="-1.771" BornAction="ty_talk4" />
+                <position x="623.852" z="324.502" ay="1.617" BornAction="ty_talk3" />
+            </item>
+        </creator>
+        <creator No="F19EE9B12F624A2F99F4FE51357FF08D" x="94.303" y="28.448" z="461.740" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" TaskSubId="16252" TaskSubType="1" HateLink="1">
+            <item No="1" id="monrf071701" ay="-1" amount="3" refreshtime="5000" desc="五毒教敌人">
+                <position x="93.134" z="460.796" ay="-1" />
+                <position x="91.937" z="462.018" ay="-1" />
+                <position x="92.973" z="464.836" ay="-1" />
+            </item>
+        </creator>
+        <creator No="18A07DDB0AD040558BF42940582CB77B" x="91.294" y="27.693" z="496.474" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" TaskSubId="16256" TaskSubType="1" HateLink="1">
+            <item No="1" id="monrf071702" ay="-1" amount="3" refreshtime="5000" desc="五仙教教徒">
+                <position x="92.256" z="494.299" ay="-1" />
+                <position x="90.279" z="494.466" ay="-1" />
+                <position x="88.170" z="496.683" ay="-1" />
+                <position x="87.995" z="494.840" ay="-1" />
+            </item>
+        </creator>
+        <creator No="077EED69F8624F53A435B51149CBB92A" x="80.548" y="27.244" z="536.674" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" TaskSubId="16253" TaskSubType="1" HateLink="1">
+            <item No="1" id="monrf071703" ay="-1" amount="3" refreshtime="5000" desc="五毒教喽啰">
+                <position x="78.740" z="539.088" ay="-1" />
+                <position x="82.483" z="538.221" ay="-1" />
+                <position x="82.198" z="535.629" ay="-1" />
+                <position x="79.088" z="535.805" ay="-1" />
+                <position x="81.125" z="534.881" ay="-1" />
+            </item>
+        </creator>
+        <creator No="BC959899D08D45D78F157C2BF2B89EB8" x="-27.469" y="27.095" z="470.266" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" SpringRange="30" TaskSubId="16232" TaskSubType="1" HateLink="1">
+            <item No="1" id="monrf071800" ay="2.904" amount="2" refreshtime="5000" desc="锦衣卫">
+                <position x="-29.392" z="471.729" ay="2.904" />
+                <position x="-24.885" z="471.555" ay="2.889" />
+            </item>
+        </creator>
+        <creator No="33FCB7C4853F4EE4B24984C75822FB31" x="-26.849" y="27.095" z="484.190" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" SpringRange="30" TaskSubId="16233" TaskSubType="1" HateLink="1">
+            <item No="1" id="monrf071900" ay="2.889" amount="1" refreshtime="5000" desc="锦衣卫指挥使" />
+        </creator>
+        <creator No="26AB78CF5C1B4DE892FD06F92014F323" x="759.680" y="36.457" z="559.477" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1" SubSceneNo="136">
+            <item No="1" id="montg10001" ay="4.745" amount="2" refreshtime="-1" desc="霹雳堂弟子">
+                <position x="759.940" z="561.738" ay="4.745" BornAction="h_stand_2" />
+                <position x="759.965" z="556.880" ay="4.696" BornAction="ty_bukuai_guard" />
+            </item>
+        </creator>
+        <creator No="CB8D20473BC94E238E9357568A3F6E99" x="774.152" y="36.457" z="551.346" radius="2.0" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" SubSceneNo="136">
+            <item No="1" id="montg10001" ay="0.111" amount="2" refreshtime="-1" desc="霹雳堂打手">
+                <position x="773.832" z="550.152" ay="0.111" BornAction="h_stand_5" />
+                <position x="773.247" z="551.801" ay="1.005" BornAction="ty_sitground_drink" />
+            </item>
+        </creator>
+        <creator No="3718202B500C4E9698F067A24FE96739" x="784.507" y="36.457" z="541.376" radius="5.0" WakeupRange="8.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" SubSceneNo="136">
+            <item No="1" id="montg10003" ay="5.680" amount="2" refreshtime="-1" desc="霹雳堂门人">
+                <position x="786.857" z="538.324" ay="5.680" BornAction="ty_sitground_fanloop_free01" />
+                <position x="781.433" z="541.082" ay="3.331" BornAction="ty_lumberloop" />
+            </item>
+        </creator>
+        <creator No="C09D7A4E03AA46CE9BDEAA368E1A58B6" x="786.870" y="36.457" z="574.723" radius="2.0" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" SubSceneNo="136">
+            <item No="1" id="montg10002" ay="6.181" amount="2" refreshtime="-1" desc="霹雳堂门人">
+                <position x="787.323" z="575.828" ay="6.181" BornAction="ty_calculateloop" />
+                <position x="786.182" z="575.781" ay="6.181" BornAction="h_stand_5" />
+            </item>
+        </creator>
+        <creator No="06C8FF6A76D24AA595D00A8F5804B731" x="803.341" y="36.457" z="574.765" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1" SubSceneNo="136">
+            <item No="1" id="montg10003" ay="6.261" amount="2" refreshtime="-1" desc="霹雳堂天煞">
+                <position x="802.770" z="575.746" ay="6.261" BornAction="ty_calculateloop" />
+                <position x="803.690" z="575.545" ay="5.426" BornAction="ty_talk4" />
+            </item>
+        </creator>
+        <creator No="A16B25CC74364382B328213E17EE3819" x="795.605" y="36.574" z="539.722" radius="3.0" WakeupRange="8.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1" SubSceneNo="136">
+            <item No="1" id="montg10007" ay="6.181" amount="2" refreshtime="-1" desc="飞弹流星手">
+                <position x="797.843" z="539.718" ay="6.181" />
+                <position x="793.533" z="539.742" ay="6.181" BornAction="ty_stretch" />
+            </item>
+        </creator>
+        <creator No="5C23A8B7FC374DED804F9416DDE79B83" x="795.353" y="36.736" z="580.018" radius="3.0" WakeupRange="7.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" SubSceneNo="136">
+            <item No="1" id="montg10006" ay="3.043" amount="2" refreshtime="-1" desc="阴磷雷羽手">
+                <position x="793.418" z="579.448" ay="3.043" />
+                <position x="797.368" z="579.439" ay="3.043" />
+            </item>
+        </creator>
+        <creator No="70C49B974748471C99744D09E6781F01" x="776.260" y="36.457" z="576.116" radius="2.0" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" SubSceneNo="136">
+            <item No="1" id="montg10001" ay="3.043" amount="2" refreshtime="-1" desc="霹雳堂弟子">
+                <position x="776.491" z="576.206" ay="3.043" BornAction="ty_talk4" />
+                <position x="776.644" z="575.389" ay="0.060" BornAction="ty_talk3" />
+            </item>
+        </creator>
+        <creator No="12ED40EF59CC4C6198F96DF93C7BD99C" x="810.340" y="36.574" z="554.307" radius="1.0" WakeupRange="8.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" SubSceneNo="136">
+            <item No="1" id="montg10005" ay="4.708" amount="1" refreshtime="-1" desc="毒火杀手">
+                <position x="810.081" z="555.273" ay="4.708" />
+            </item>
+        </creator>
+        <creator No="15CC0C40646F482DAED81971E32A32AC" x="810.267" y="36.574" z="564.182" radius="1.0" WakeupRange="8.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" SubSceneNo="136">
+            <item No="1" id="montg10005" ay="4.708" amount="1" refreshtime="-1" desc="毒火杀手">
+                <position x="810.267" z="564.182" ay="4.708" />
+            </item>
+        </creator>
+        <creator No="64CE3C69F427407FB1E7526B607D6A16" x="822.734" y="36.457" z="535.137" radius="5.0" WakeupRange="15.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" SubSceneNo="136">
+            <item No="1" id="montg10006" ay="0.086" amount="2" refreshtime="-1" desc="阴磷雷羽手">
+                <position x="822.747" z="533.772" ay="0.086" BornAction="h_stand_5" />
+                <position x="822.631" z="535.960" ay="3.325" BornAction="ty_talk" />
+            </item>
+        </creator>
+        <creator No="5A605EC1D2D445C9ADD5FD5BB68C4166" x="768.956" y="38.258" z="560.683" radius="2.0" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" SubSceneNo="136">
+            <item No="1" id="montg10001" ay="2.760" amount="2" refreshtime="-1" desc="霹雳堂弟子">
+                <position x="768.396" z="561.372" ay="2.760" BornAction="ty_talk" />
+                <position x="769.029" z="560.219" ay="5.906" BornAction="ty_talk2" />
+            </item>
+        </creator>
+        <creator No="DB280D46DAA84F0788FD7761FC1BA127" x="770.844" y="36.457" z="586.144" radius="1.0" WakeupRange="15.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" SubSceneNo="136">
+            <item No="1" id="montg10001" ay="3.353" amount="1" refreshtime="-1" desc="霹雳堂弟子">
+                <position x="771.145" z="586.023" ay="3.353" BornAction="ty_sitground_eatloop" />
+            </item>
+        </creator>
+        <creator No="DDA804D222F246369300E3D02A203B52" x="817.265" y="36.826" z="584.659" radius="2.0" WakeupRange="15.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1" SubSceneNo="136">
+            <item No="1" id="montg10004" ay="4.058" amount="1" refreshtime="-1" desc="霹雳堂弟子">
+                <position x="815.989" z="585.190" ay="4.058" BornAction="ty_lie_loop" />
+            </item>
+            <item No="2" id="montg10007" ay="5.128" amount="1" refreshtime="-1" desc="飞弹流星手">
+                <position x="817.296" z="583.759" ay="5.128" BornAction="ty_sitground_lookround" />
+            </item>
+        </creator>
+        <creator No="A86F540627114E7AABE81D86969EB993" x="810.677" y="36.457" z="536.921" radius="3.0" WakeupRange="8.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1" SubSceneNo="136">
+            <item No="1" id="montg10004" ay="3.076" amount="2" refreshtime="-1" desc="霹雳堂地劫">
+                <position x="811.147" z="537.793" ay="3.076" BornAction="ty_zhamaloop" />
+                <position x="812.336" z="537.689" ay="3.120" BornAction="ty_sl_zhama" />
+                <position x="809.952" z="537.620" ay="2.881" BornAction="ty_zhamaloop" />
+                <position x="808.721" z="537.426" ay="2.881" BornAction="ty_zhamaloop" />
+            </item>
+            <item No="2" id="montg10003" ay="6.160" amount="1" refreshtime="-1" desc="霹雳堂门人">
+                <position x="810.803" z="535.274" ay="6.160" BornAction="ty_sitground_dozeloop" />
+            </item>
+        </creator>
+        <creator No="7D59F2859009438881C724746F1FFC14" x="803.971" y="36.457" z="550.084" radius="3.0" WakeupRange="8.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1" SubSceneNo="136">
+            <item No="1" id="montg10003" ay="6.174" amount="2" refreshtime="-1" desc="霹雳堂天煞">
+                <position x="805.399" z="548.710" ay="6.174" BornAction="ty_zhamaloop" />
+                <position x="803.694" z="551.960" ay="1.681" BornAction="ty_zhamaloop_free01" />
+                <position x="806.006" z="550.654" ay="4.485" BornAction="ty_talk4" />
+                <position x="803.618" z="550.602" ay="1.681" BornAction="ty_zhamaloop_free01" />
+                <position x="803.607" z="549.128" ay="1.681" BornAction="ty_zhamaloop_free01" />
+            </item>
+        </creator>
+        <creator No="F0E46936D52F45B09B309F1D89E7D5CE" x="786.393" y="36.457" z="549.220" radius="1.0" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="5.0" HateLink="1" SubSceneNo="136">
+            <item No="1" id="montg10002" ay="4.708" amount="1" refreshtime="-1" desc="霹雳堂门人" />
+        </creator>
+        <creator No="03BC6FD53B59441EBF0601D0A05E3A89" x="784.981" y="36.574" z="564.364" radius="1.0" WakeupRange="8.0" ChaseRange="-1.0" PatrolRange="5.0" HateLink="1" SubSceneNo="136">
+            <item No="1" id="montg10002" ay="4.708" amount="1" refreshtime="-1" desc="霹雳堂门人" />
+        </creator>
+        <creator No="1001A7BC544E4E69B5566AEA5647D738" x="775.007" y="36.457" z="538.764" radius="1.0" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="5.0" HateLink="1" SubSceneNo="136">
+            <item No="1" id="montg10002" ay="5.983" amount="1" refreshtime="-1" desc="霹雳堂门人" />
+        </creator>
+        <creator No="3A905CAB70CB4E5A83BB47F2FD138151" x="810.686" y="36.457" z="576.938" radius="1.0" WakeupRange="5.0" ChaseRange="-1.0" PatrolRange="5.0" HateLink="1" SubSceneNo="136">
+            <item No="1" id="montg10002" ay="4.708" amount="1" refreshtime="-1" desc="霹雳堂门人" />
+        </creator>
+        <creator No="4487F3A164164E2186DD7CD0E4B5BD46" x="795.761" y="36.574" z="547.772" radius="1.0" WakeupRange="5.0" ChaseRange="-1.0" PatrolRange="5.0" HateLink="1" SubSceneNo="136">
+            <item No="1" id="montg10002" ay="4.708" amount="1" refreshtime="-1" desc="霹雳堂门人" />
+        </creator>
+        <creator No="6936404B7AD94FB297F9F7635ED84D8A" x="794.177" y="36.574" z="570.148" radius="1.0" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="5.0" HateLink="1" SubSceneNo="136">
+            <item No="1" id="montg10002" ay="4.708" amount="1" refreshtime="-1" desc="霹雳堂门人" />
+        </creator>
+        <creator No="8CE1AB08CD5E40F7B04971F8B7206DFB" x="809.154" y="36.457" z="543.516" radius="1.0" WakeupRange="5.0" ChaseRange="-1.0" PatrolRange="5.0" HateLink="1" SubSceneNo="136">
+            <item No="1" id="montg10004" ay="4.708" amount="1" refreshtime="-1" desc="霹雳堂地劫" />
+        </creator>
+        <creator No="7B974824DFE944EEA92394CA4FCCA20B" x="756.214" y="36.457" z="560.185" radius="1.0" WakeupRange="7.0" ChaseRange="-1.0" PatrolRange="5.0" HateLink="1" SubSceneNo="136">
+            <item No="1" id="montg10001" ay="4.708" amount="1" refreshtime="-1" desc="霹雳堂打手" />
+        </creator>
+        <creator No="200762C2CED54E158FE7889AE74E422F" x="82.196" y="27.841" z="527.482" radius="3.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" TaskSubId="16252" TaskSubType="2" HateLink="1">
+            <item No="1" id="monrf071704" ay="5.979" amount="3" refreshtime="5000" desc="五毒教高手">
+                <position x="82.485" z="526.184" ay="5.979" />
+                <position x="80.092" z="527.568" ay="5.979" />
+                <position x="82.632" z="528.512" ay="5.444" az="0.006" />
+            </item>
+        </creator>
+        <creator No="830E2BA7ABCB47048ECD50719B29231B" x="593.438" y="36.407" z="489.152" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" TaskSubId="8052" TaskSubType="1" HateLink="1">
+            <item No="1" id="monrf071000" ay="1.595" amount="3" refreshtime="5000" desc="泰山派弟子">
+                <position x="596.162" z="489.951" ay="1.595" />
+                <position x="592.700" z="491.983" ay="2.351" />
+                <position x="591.792" z="487.855" ay="2.419" />
+            </item>
+        </creator>
+        <creator No="1D037F44CBB74A879A4491AF822094CB" x="644.667" y="6.733" z="328.314" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="lifeanimalf07002" ay="-1" amount="1" refreshtime="300000" desc="野猪" />
+        </creator>
+        <creator No="DDD33A84543944C68B83C188C57231E6" x="635.724" y="7.560" z="314.172" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="lifeanimalf07002" ay="-1" amount="1" refreshtime="300000" desc="野猪" />
+        </creator>
+        <creator No="A1052E2D91824A1DA98E811415C57790" x="621.244" y="9.728" z="316.965" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="lifeanimalf07002" ay="-1" amount="1" refreshtime="300000" desc="野猪" />
+        </creator>
+        <creator No="4D05ABF7EB844727B1E0001C3CB4F3B2" x="593.924" y="15.637" z="333.543" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="lifeanimalf07002" ay="-1" amount="1" refreshtime="300000" desc="野猪" />
+        </creator>
+        <creator No="E77D1B3C3FEE4785A8AF768207557D44" x="621.373" y="6.686" z="292.668" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="lifeanimalf07002" ay="-1" amount="1" refreshtime="300000" desc="野猪" />
+        </creator>
+        <creator No="A54F38B4E5D446FF82FEFFB07959919B" x="-35.109" y="26.695" z="436.153" radius="5.0" WakeupRange="7.0" ChaseRange="30.0" PatrolRange="10.0" TaskSubId="5319" TaskSubType="1" HateLink="1">
+            <item No="1" id="monrf071305" ay="0.716" amount="4" refreshtime="30000" desc="万梅山庄的守卫">
+                <position x="-37.510" z="436.757" ay="0.716" />
+                <position x="-33.279" z="432.297" ay="0.716" />
+                <position x="-34.970" z="439.732" ay="0.716" />
+                <position x="-31.483" z="435.918" ay="0.716" />
+            </item>
+        </creator>
+        <creator No="B698A9DB7EC142568042782FE0ACCBEA" x="27.488" y="93.031" z="129.490" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072200" ay="0.215" amount="1" refreshtime="30000" desc="紫筠阁守卫" />
+        </creator>
+        <creator No="9DCD2D7FB9CE49D29AAC68B9013D655E" x="39.474" y="93.031" z="141.046" radius="2.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="monf072201" ay="4.978" amount="1" refreshtime="30000" desc="紫筠阁侍女" />
+        </creator>
+        <creator No="FCF03897EE514441915CA4BEF6274914" x="351.018" y="12.134" z="237.551" radius="5.0" WakeupRange="16.0" ChaseRange="30.0" PatrolRange="10.0" TaskSubId="5619" TaskSubType="1" HateLink="1">
+            <item No="1" id="monrf072100" ay="-1" amount="3" refreshtime="3000" desc="黑衣刺客">
+                <position x="347.786" z="237.822" ay="-1" />
+                <position x="352.419" z="234.445" ay="3.083" />
+                <position x="350.097" z="236.721" ay="-1" />
+            </item>
+        </creator>
+        <creator No="ECCF3B9AAA5F4BD1A7FD157FC308E9F0" x="126.018" y="46.233" z="326.395" radius="5.0" WakeupRange="16.0" ChaseRange="30.0" PatrolRange="10.0" TaskSubId="5017" TaskSubType="2" HateLink="1">
+            <item No="1" id="monrf072200" ay="-1" amount="3" refreshtime="3000" desc="黑水祠供应">
+                <position x="127.036" z="329.018" ay="-1" />
+                <position x="123.506" z="323.140" ay="-1" />
+                <position x="128.853" z="324.943" ay="-1" />
+            </item>
+        </creator>
+        <creator No="3A331851AA9148FD840E26C9440E7723" x="-96.532" y="27.559" z="433.966" radius="3.0" WakeupRange="16.0" ChaseRange="30.0" PatrolRange="10.0" TaskSubId="12052" TaskSubType="2" HateLink="1">
+            <item No="1" id="monrf072300" ay="5.771" amount="3" refreshtime="30000" desc="折梅恶霸">
+                <position x="-97.292" z="435.479" ay="5.771" />
+                <position x="-98.309" z="433.952" ay="5.771" />
+                <position x="-95.429" z="433.159" ay="5.771" />
+            </item>
+        </creator>
+        <creator No="D1D58D9CBFB14375BB6886730DD81BAF" x="794.469" y="36.574" z="558.437" radius="35.0" WakeupRange="16.0" ChaseRange="30.0" PatrolRange="10.0" HateLink="1" SubSceneNo="136">
+            <item No="1" id="BoxNpc10002" ay="3.165" amount="1" refreshtime="5" NotPositive="0" desc="木质宝箱">
+                <position x="808.427" z="533.355" ay="3.165" />
+                <position x="770.366" z="566.853" ay="1.570" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

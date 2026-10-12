@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="692964659EA14ECB8B5B01EEB5445BD3" x="-733.887" y="295.947" z="-590.812" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="16451" TaskSubType="3" HateLink="1">
+            <item No="1" id="gather_dmp_mxm01" ay="-1" amount="8" refreshtime="5" NotPositive="0" desc="鸡矢藤">
+                <position x="-733.456" z="-589.012" ay="-1" />
+                <position x="-734.616" z="-589.912" ay="-1" />
+                <position x="-732.621" z="-590.702" ay="-1" />
+                <position x="-734.137" z="-588.651" ay="-1" />
+                <position x="-735.801" z="-590.537" ay="-1" />
+                <position x="-732.323" z="-590.352" ay="-1" />
+                <position x="-731.368" z="-590.261" ay="-1" />
+                <position x="-732.169" z="-592.260" ay="-1" />
+            </item>
+        </creator>
+        <creator No="6054E746DB2A480BB7A48F81938229F2" x="-228.446" y="257.339" z="-320.813" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="16454" TaskSubType="3" HateLink="1">
+            <item No="1" id="gather_dmp_mxm02" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="佛珠" />
+        </creator>
+        <creator No="B485B356CFC34316A0F14C7040BBE39A" x="-259.548" y="252.325" z="-329.811" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="16455" TaskSubType="3" HateLink="1">
+            <item No="1" id="gather_dmp_mxm04" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="鸟" />
+        </creator>
+        <creator No="E720E26F30DE4CA080839B849CADC9CC" x="-731.694" y="294.411" z="-588.232" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="16452" TaskSubType="3" HateLink="1">
+            <item No="1" id="gather_dmp_mxm01" ay="-1" amount="5" refreshtime="5" NotPositive="0" desc="鸡矢藤">
+                <position x="-730.953" z="-584.568" ay="-1" />
+                <position x="-728.689" z="-585.363" ay="-1" />
+                <position x="-732.324" z="-584.619" ay="-1" />
+                <position x="-735.359" z="-584.398" ay="-1" />
+                <position x="-734.605" z="-584.617" ay="-1" />
+            </item>
+        </creator>
+        <creator No="C0D2454064BA4BA7BCF287A7E6338937" x="-737.461" y="293.322" z="-581.964" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="16453" TaskSubType="3" HateLink="1">
+            <item No="1" id="gather_dmp_mxm01" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="鸡矢藤">
+                <position x="-735.683" z="-581.053" ay="-1" />
+                <position x="-737.174" z="-580.433" ay="-1" />
+                <position x="-738.158" z="-580.992" ay="-1" />
+            </item>
+        </creator>
+        <creator No="7CADF7F41AB949008D192423D1B22941" x="-292.779" y="251.911" z="-355.912" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="16252" TaskSubType="3" HateLink="1">
+            <item No="1" id="gather_dmp_mxm05" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="佛珠" />
+        </creator>
+    </randomcreator>
+</object>

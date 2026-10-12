@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="B5A212CD301F45679115346E3FA01A3B" x="303.909" y="17.003" z="598.263" radius="3.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="50003" TaskSubType="1" HateLink="1" SubSceneNo="7054">
+            <item No="1" id="qygb3001" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="雷啸峰">
+                <position x="302.912" z="597.820" ay="-1" />
+            </item>
+        </creator>
+        <creator No="7A4E76AA2D4F4E489725692D7C9DBF30" x="304.578" y="17.003" z="587.679" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="80009" TaskSubType="1" HateLink="1" SubSceneNo="8043">
+            <item No="1" id="Boss_4nei_xcj_005" sx="1.360" sy="1.360" sz="1.360" ax="6.259" ay="0.881" az="6.236" amount="1" refreshtime="5" NotPositive="0" desc="磨刀堂日常Boss">
+                <position x="304.315" z="589.380" sx="1.360" sy="1.360" sz="1.360" ax="6.259" ay="0.881" az="6.236" WeaponName="lst_r_896" WeaponMode="lstuff1_1" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

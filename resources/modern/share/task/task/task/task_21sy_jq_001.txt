@@ -1,0 +1,74 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	Plot	Title	Step	SearchID	Line	AcceptNpc	SubmitNpc	SceneID	AcceptSceneID	SubmitSceneID	AutoAcceptID	AutoSubmit	PreTaskLimit	NextTaskLimit	NotShowMenu	Relation	LuckValue	AcceptLimit	SubmitLimit	AcceptDecMoney	SubFunction	TaskItemList	RefreshMonster	TimeLimitLength	SubmitNpcEx	TaskScript	TitleId	ContextId	AcceptDialogId	CompleteDialogId	UnCompleteDialogId	TaskTargetId	TrackInfoID	LineNextInfo	CanAcceptMenu	UncompleteMenu	CompleteMenu	AcceptMovie	SubmitMovie	DramaAccept	DramaSubmit	CanGiveup	ShareType	RepeatType	RepeatPeriod	CountDayLimit	DifficultCoefficient	DifficultLevel	TimeLimitClear	ClearDayHour	ConditionPrize
+76301				s1800101	25				15	15		1						111779									title_76301	context_76301				target_76301		next_76301								0	0	0							
+76302				s1800101	25						76304	1	76301	76304													title_76302	context_76302				target_76302		next_76302								0	0	0							
+76303				s1800101	25						76304	1	76301	76304													title_76303	context_76303				target_76303		next_76303								0	0	0							
+76304				s1800101	25						76305	1	76302;76303	76305													title_76304	context_76304				target_76304		next_76304				10109				0	0	0							
+76305				s1800101	25						76306	1	76304	76306													title_76305	context_76305				target_76305		next_76305								0	0	0							
+76306				s1800101	25						76307	1	76305	76307								76301					title_76306	context_76306				target_76306		next_76306								0	0	0							
+76307				s1800101	25	JQnpc_2021sy_011			15		76308	1	76306	76308													title_76307	context_76307	accept_76307_1;menu_76307_1			target_76307		next_76307	CanAcceptMenu_76307				10111			0	0	0	0	0					
+76308				s1800102	25		JQnpc_2021sy_013			15	76309		76307	76309													title_76308	context_76308		complete_76308;submit_76308		target_76308		next_76308			CompleteMenu_76308		10112			0	0	0	0	0					
+76309				s1800102	25	JQnpc_2021sy_013			15		76310	1	76308	76310													title_76309	context_76309	accept_76309_1;menu_76309_1			target_76309		next_76309	CanAcceptMenu_76309				10120			0	0	0	0	0					
+76310				s1800102	25		JQnpc_2021sy_014			15			76309	76311													title_76310	context_76310		complete_76310;submit_76310		target_76310		next_76310			CompleteMenu_76310					0	0	0							
+76311				s1800102	25	JQnpc_2021sy_014	JQnpc_2021sy_013		15		76312		76310	76312											SubmitNpcEx_76311		title_76311	context_76311	accept_76311_1;menu_76311_1	complete_76311;submit_76311		target_76311		next_76311	CanAcceptMenu_76311		CompleteMenu_76311					0	0	0							120652|74463|0|0|0
+76312				s1800103	25						76313	1	76311;77988	76313													title_76312	context_76312				target_76312		next_76312								0	0	0							
+76313				s1800103	25						76314	1	76312	76314													title_76313	context_76313				target_76313		next_76313					10115			0	0	0							
+76314				s1800103	25						76315	1	76313	76315													title_76314	context_76314				target_76314		next_76314					10116			0	0	0							
+76315				s1800103	25						76316	1	76314	76316													title_76315	context_76315				target_76315		next_76315					10117			0	0	0							
+76316				s1800103	25						76317	1	76315	76317													title_76316	context_76316				target_76316		next_76316					10118			0	0	0							
+76317				s1800103	25						76318	1	76316	76318													title_76317	context_76317				target_76317		next_76317								0	0	0							
+76318				s1800103	25						76319	1	76317	76319													title_76318	context_76318				target_76318		next_76318								0	0	0							
+76319				s1800103	25						76320	1	76318	76320													title_76319	context_76319				target_76319		next_76319								0	0	0							
+76320				s1800103	25						76321	1	76319	76321													title_76320	context_76320				target_76320		next_76320								0	0	0							
+76321				s1800103	25						76322	1	76320	76322													title_76321	context_76321				target_76321		next_76321								0	0	0							
+76322				s1800104	25							1	76321														title_76322	context_76322				target_76322		next_76322								0	0	0							
+76323				s1800104	25						76325	1	76322	76325													title_76323	context_76323				target_76323		next_76323					10121			0	0	0							
+76324				s1800104	25						76325	1	76322	76325													title_76324	context_76324				target_76324		next_76324								0	0	0							
+76325				s1800104	25		WorldNpc01194			14			76323;76324														title_76325	context_76325		complete_76325;submit_76325		target_76325		next_76325			CompleteMenu_76325					0	0	0							
+76365				s1800104	13	newmp_dmp_zwdh	newmp_dmp_zwdh		637	637								116282;113245									title_76365	context_76365				target_76365		next_76365								1	0	3	1	1					
+76366				s1800104	13	npc_gmp_dh08	npc_gmp_dh08		541	541								116282;109546									title_76365	context_76365				target_76365		next_76366								1	0	3	1	1					
+76367				s1800104	13	newmp_ssg_zwdh	newmp_ssg_zwdh		573	573								116282;110005									title_76365	context_76365				target_76365		next_76367								1	0	3	1	1					
+76368				s1800104	13	npc_nlb_shop_lzj06	npc_nlb_shop_lzj06		565	565								116282;110135									title_76365	context_76365				target_76365		next_76368								1	0	3	1	1					
+76369				s1800104	13	newmp_cfdh_03	newmp_cfdh_03		15	15								116282;110006									title_76365	context_76365				target_76365		next_76369								1	0	3	1	1					
+76370				s1800104	13	npc_xdm_ww04	npc_xdm_ww04		552	552								116282;109547									title_76365	context_76365				target_76365		next_76370								1	0	3	1	1					
+76371				s1800104	13	newmp_wxj_zwdh	newmp_wxj_zwdh		634	634								116282;110008									title_76365	context_76365				target_76365		next_76371								1	0	3	1	1					
+76372				s1800104	13	npc_hsp_shop_lzj06	npc_hsp_shop_lzj06		571	571								116282;110003									title_76365	context_76365				target_76365		next_76372								1	0	3	1	1					
+76373				s1800104	13	newmp_sjy_zwdh	newmp_sjy_zwdh		786	786								116282;116662									title_76365	context_76365				target_76365		next_76373								1	0	3	1	1					
+76374				s1800104	13	newmp_xmg_zxdh	newmp_xmg_zxdh		891	891								116282;117752									title_76365	context_76365				target_76365		next_76374								1	0	3	1	1					
+76375				s1800104	13	newmp_tyhg_zwdh	newmp_tyhg_zwdh		456	456								116282;119160									title_76365	context_76365				target_76365		next_76375								1	0	3	1	1					
+76376				s1800104	12	thd_003	thd_003		286	286								116282;101992									title_76365	context_76365				target_76365		next_76376								1	0	3	1	1					
+76377				s1800104	12	yhg_005	yhg_005		281	281								116282;101991									title_76365	context_76365				target_76365		next_76377								1	0	3	1	1					
+76378				s1800104	12	WorldNpc100076	WorldNpc100076		17	17								116282;103558									title_76365	context_76365				target_76365		next_76378								1	0	3	1	1					
+76379				s1800104	12	wssz_037	wssz_037		6	6								116282;103557									title_76365	context_76365				target_76365		next_76379								1	0	3	1	1					
+76380				s1800104	12	tls_007	tls_007		471	471								116282;119588									title_76365	context_76365				target_76365		next_76380								1	0	3	1	1					
+76381				s1800104	12	qyg_015	qyg_015		486	486								116282;119861;17545									title_76365	context_76365				target_76365		next_76381								1	0	3	1	1					
+76382				s1800104	12	wgm_072	wgm_072		296	296								116282;101996									title_76365	context_76365				target_76365		next_76382								1	0	3	1	1					
+76383				s1800104	12	WorldNpc09823	WorldNpc09823		17	17								116282;101993									title_76365	context_76365				target_76365		next_76383								1	0	3	1	1					
+76326				s1800201	12	npc_tls_dy_01			15	15	76327	1		76327				17119;119704;119609;659;660							SubmitNpcEx_76326		title_76326	context_76326	accept_76326_1;menu_76326_1			target_76326		next_76326	CanAcceptMenu_76326							1	0	0							
+76327				s1800201	12						76328	1	76326	76328											SubmitNpcEx_76327		title_76327	context_76327				target_76327		next_76327				10139				0	0	0							
+76328				s1800201	12				15	15	76329	1	76327	76329											SubmitNpcEx_76328		title_76328	context_76328				target_76328		next_76328								0	0	0							
+76329				s1800201	12				15	15	76330	1	76328	76330											SubmitNpcEx_76329		title_76329	context_76329				target_76329		next_76329					10140			0	0	0							
+76330				s1800201	12				15	15	76331	1	76329	76331											SubmitNpcEx_76330		title_76330	context_76330				target_76330		next_76330								0	0	0							
+76331				s1800201	12				15	15	76332	1	76330	76332											SubmitNpcEx_76331		title_76331	context_76331				target_76331		next_76331								0	0	0							
+76332				s1800201	12				15	15	76333	1	76331	76333								76302			SubmitNpcEx_76332		title_76332	context_76332				target_76332		next_76332								0	0	0							
+76333				s1800201	12				930	930	76334	1	76332	76334											SubmitNpcEx_76333		title_76333	context_76333				target_76333		next_76333								0	0	0							
+76334				s1800201	12				930	930	76335	1	76333	76335											SubmitNpcEx_76334		title_76334	context_76334				target_76334		next_76334								0	0	0							
+76335				s1800201	12				930	930	76336	1	76334	76336											SubmitNpcEx_76335		title_76335	context_76335				target_76335		next_76335								0	0	0							
+76336				s1800201	12				930	930	76337	1	76335	76337											SubmitNpcEx_76336		title_76336	context_76336				target_76336		next_76336								0	0	0							
+76337				s1800201	12				930	930	76338	1	76336	76338											SubmitNpcEx_76337		title_76337	context_76337				target_76337		next_76337								0	0	0							
+76338				s1800201	12		tls_001		930	471			76337	76401											SubmitNpcEx_76338		title_76338	context_76338		complete_76338;submit_76338		target_76338		next_76338			CompleteMenu_76338					0	0	0							
+76339				s1800202	12				930	930	76340	1		76340				659;660							SubmitNpcEx_76339		title_76339	context_76339	accept_76339_1;menu_76339_1			target_76339		next_76339	CanAcceptMenu_76339							1	0	0							
+76340				s1800202	12				930	930	76341	1	76339	76341											SubmitNpcEx_76340		title_76340	context_76340				target_76340		next_76340								0	0	0							
+76341				s1800202	12		tls_001		930	471			76340	76401											SubmitNpcEx_76341		title_76341	context_76341		complete_76341;submit_76341		target_76341		next_76341			CompleteMenu_76341					0	0	0							
+76342				s1800401	5	npc_2108dy_006	npc_2108dy_006		473	473								120711							SubmitNpcEx_76342		title_76342	context_76342	accept_76342_1;menu_76342_1	complete_76342;submit_76342		target_76342		next_76342	CanAcceptMenu_76342		CompleteMenu_76342					1	0	1	1	1					
+76343				s1800401	5	npc_2108dy_007	npc_2108dy_007		473	473								120711							SubmitNpcEx_76343		title_76343	context_76343	accept_76343_1;menu_76343_1	complete_76343;submit_76343		target_76343		next_76343	CanAcceptMenu_76343		CompleteMenu_76343					1	0	1	1	1					
+76344				s1800401	5	npc_2108dy_008	npc_2108dy_008		473	473								120711							SubmitNpcEx_76344		title_76344	context_76344	accept_76344_1;menu_76344_1	complete_76344;submit_76344		target_76344		next_76344	CanAcceptMenu_76344		CompleteMenu_76344					1	0	1	1	1					
+76345				s1800401	5	npc_2108dy_009	npc_2108dy_009		473	473								120711							SubmitNpcEx_76345		title_76345	context_76345	accept_76345_1;menu_76345_1	complete_76345;submit_76345		target_76345		next_76345	CanAcceptMenu_76345		CompleteMenu_76345					1	0	1	1	1					
+76346				s1800401	5	npc_2108dy_010	npc_2108dy_010		473	473								120711				76305;76306			SubmitNpcEx_76346		title_76346	context_76346	accept_76346_1;menu_76346_1	complete_76346;submit_76346		target_76346		next_76346	CanAcceptMenu_76346		CompleteMenu_76346					1	0	1	1	1					
+76347				s1800401	5	npc_2108dy_011	npc_2108dy_011		473	473								120711							SubmitNpcEx_76347		title_76347	context_76347	accept_76347_1;menu_76347_1	complete_76347;submit_76347		target_76347		next_76347	CanAcceptMenu_76347		CompleteMenu_76347					1	0	1	1	1					
+76348				s1800401	5	npc_2108dy_013	npc_2108dy_013		473	473								120711							SubmitNpcEx_76348		title_76348	context_76348	accept_76348_1;menu_76348_1	complete_76348;submit_76348		target_76348		next_76348	CanAcceptMenu_76348		CompleteMenu_76348					1	0	1	1	1					
+76349				s1800401	5	npc_2108dy_017	npc_2108dy_017		473	473								120711				76304			SubmitNpcEx_76349		title_76349	context_76349	accept_76349_1;menu_76349_1	complete_76349;submit_76349		target_76349		next_76349	CanAcceptMenu_76349		CompleteMenu_76349					1	0	1	1	1					
+76350				s1800401	5	npc_2108dy_019	npc_2108dy_019		473	473								120711				76307			SubmitNpcEx_76350		title_76350	context_76350	accept_76350_1;menu_76350_1	complete_76350;submit_76350		target_76350		next_76350	CanAcceptMenu_76350		CompleteMenu_76350					1	0	1	1	1					
+76351				s1800401	5	npc_2108dy_020	npc_2108dy_020		473	473								120711							SubmitNpcEx_76351		title_76351	context_76351	accept_76351_1;menu_76351_1	complete_76351;submit_76351		target_76351		next_76351	CanAcceptMenu_76351		CompleteMenu_76351					1	0	1	1	1					
+76352				s1800401	5	ClearPKNpc001	ClearPKNpc001		14	14								120752							SubmitNpcEx_76352		title_76352	context_76352				target_76352		next_76352								1	0	0							
+76353				s1800401	5	npc_xcc_task_10	npc_xcc_task_10		473	473		1										76308;76309			SubmitNpcEx_76353		title_76353	context_76353	accept_76353_1;menu_76353_1	complete_76353;submit_76353		target_76353		next_76353	CanAcceptMenu_76353		CompleteMenu_76353					1	0	2	6	1					

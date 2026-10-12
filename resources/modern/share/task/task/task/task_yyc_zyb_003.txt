@@ -1,0 +1,25 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	Title	Step	SearchID	Line	AcceptNpc	SubmitNpc	AcceptSceneID	SubmitSceneID	AutoAcceptID	AutoSubmit	PreTaskLimit	NextTaskLimit	AcceptLimit	AcceptReputationLimit	SubmitLimit	SubFunction	TaskItemList	RefreshMonster	TimeLimitLength	SubmitNpcEx	TaskScript	TitleId	ContextId	AcceptDialogId	CompleteDialogId	UnCompleteDialogId	TaskTargetId	TrackInfoID	LineNextInfo	CanAcceptMenu	UncompleteMenu	CompleteMenu	AcceptMovie	SubmitMovie	DramaAccept	DramaSubmit	CanGiveup	ShareType	RepeatType	RepeatPeriod	CountDayLimit	DifficultCoefficient	DifficultLevel	TiaozhanTime	ActivityType
+75301			s1730101	20					75302	1	75206	75302										title_75301	context_75301				target_75301										0	0	0	0	0				
+75302			s1730101	20					75303	1	75301	75303										title_75302	context_75302				target_75302							10012			0	0	0	0	0				
+75303			s1730101	20					75304	1	75302	75304										title_75303	context_75303				target_75303										0	0	0	0	0				
+75304			s1730101	20					75305	1	75303	75305										title_75304	context_75304				target_75304						10013				0	0	0	0	0				
+75305			s1730101	20					75306	1	75304	75306										title_75305	context_75305				target_75305										0	0	0	0	0				
+75306			s1730101	20					75307	1	75305	75307										title_75306	context_75306				target_75306										0	0	0	0	0				
+75307			s1730101	20					75308	1	75306	75308										title_75307	context_75307				target_75307							10014			0	0	0	0	0				
+75308			s1730101	20					75309	1	75307	75309										title_75308	context_75308				target_75308										0	0	0	0	0				
+75309			s1730101	20		Npc_dingzw_201908y3_018		16			75308											title_75309	context_75309				target_75309										0	0	0	0	0				
+75310			s1730102	20					75311	1												title_75310	context_75310				target_75310							10026			0	0	0	0	0				
+75311			s1730102	20					75312	1												title_75311	context_75311				target_75311							10047			0	0	0	0	0				
+75312			s1730102	20						1												title_75312	context_75312				target_75312										0	0	0	0	0				
+75313			s1730102	20					75317	1												title_75313	context_75313				target_75313		next_75313								0	0	0	0	0				
+75314			s1730102	20					75317	1												title_75314	context_75314				target_75314										0	0	0	0	0				
+75315			s1730102	20					75317	1												title_75315	context_75315				target_75315		next_75315								0	0	0	0	0				
+75316			s1730102	20					75317	1												title_75316	context_75316				target_75316										0	0	0	0	0				
+75317			s1730102	20					75318	1												title_75317	context_75317				target_75317		next_75317								0	0	0	0	0				
+75318			s1730102	20					75319	1												title_75318	context_75318				target_75318										0	0	0	0	0				
+75319			s1730102	20					75320	1												title_75319	context_75319				target_75319										0	0	0	0	0				
+75320			s1730102	20		Npc_dingzw_201908y4_011		930														title_75320	context_75320				target_75320		next_75320								0	0	0	0	0				
+75321			s1730102	20		npc_dreamtask_001		930														title_75321	context_75321				target_75321		next_75321								0	0	0	0	0				
+75322			s1730201	22	gs_zyb_009	gs_zyb_009	951	951					118436		118436							title_75322	context_75322				target_75322										1	0	1	1	1				101
+75323			s1730201	22	gs_zyb_010	gs_zyb_010	951	951					118436		118436							title_75323	context_75323				target_75323										1	0	1	1	1				101

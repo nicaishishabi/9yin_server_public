@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="84966A9E8C384DA2A27EFA2719D6A344" x="729.879" y="-86.390" z="55.240" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="boxnpc_ymsj_gujfenwei_001" ay="-1" amount="5" refreshtime="5000" NotPositive="0" desc="药草">
+                <position x="726.773" z="55.413" ay="-1" />
+                <position x="729.196" z="58.309" ay="-1" />
+                <position x="732.534" z="55.782" ay="-1" />
+                <position x="730.903" z="52.850" ay="-1" />
+                <position x="732.547" z="53.473" ay="-1" />
+            </item>
+        </creator>
+        <creator No="61F3F27474124B569243CD90DD9074DF" x="515.400" y="-5.291" z="87.017" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="boxnpc_ymsj_gujfenwei_002" ay="-1" amount="1" refreshtime="10000" NotPositive="0" desc="情报箱" />
+            <item No="2" id="ymsjboss_xunye_001" ay="-1" amount="1" refreshtime="5000" NotPositive="0" desc="姑洗" />
+        </creator>
+    </randomcreator>
+</object>

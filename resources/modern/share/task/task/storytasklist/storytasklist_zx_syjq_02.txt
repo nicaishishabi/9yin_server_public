@@ -1,0 +1,14 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	NpcID	contextId	titleId	LeaveTextID	LeaveResult	TrackInfoID	SceneID	TaskID	BufferID
+73801	WorldNpc01194	story_73801_1	storymenu_73801_1	9607		storyinfo_73801	14	73802	
+73806	npc_xjqdez_007	story_73806_1	storymenu_73806_1	9607		storyinfo_73806	14	73809	
+73802	WorldNpc01194	story_73802_1	storymenu_73802_1	9607		storyinfo_73802	14	73803	
+73802	WorldNpc01194	story_73802_2	storymenu_73802_2	9607		storyinfo_73802		73803	
+73803	WorldNpc01194	story_73803_1	storymenu_73803_1	9607		storyinfo_73803	14	73804	
+73803	WorldNpc01194	story_73803_2	storymenu_73803_2	9607		storyinfo_73803	14	73804	
+73805	WorldNpc01194	story_73805_1	storymenu_73805_1	9607		storyinfo_73805	14	73807	
+73805	WorldNpc01194	story_73805_2	storymenu_73805_2	9607		storyinfo_73805	14	73807	
+73804	Npc_sneakon_syxjq_003	story_73804_1	storymenu_73804_1	9607		storyinfo_73804	828	73806	
+73804	Npc_sneakon_syxjq_003	story_73804_2	storymenu_73804_2	9607	1		828	73806	buf_syjq_004
+73807	syjqmp_guj_002	story_73807_1	storymenu_73807_1	9607		storyinfo_73807	899	73811	
+73807	syjqmp_guj_002	story_73807_2	storymenu_73807_2	9607		storyinfo_73807	899	73811	

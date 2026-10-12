@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <staticcreator>
+        <item No="A2447F8C289E4676BB897333D2255EEE" x="187.736" y="21.691" z="42.105" id="flynpc_nlb_butterfly01" RefreshTime="30000.0" PathId="AI_adv124_butterfly_001" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" desc="蝴蝶" ChildList="" PosList="" />
+        <item No="A2447F8C289E4676BB897333D2255EEE" x="147.356" y="15.638" z="16.747" id="Event_nlb_cc_15853" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" SubSceneNo="8604" desc="四处走走" ChildList="" PosList="" />
+        <item No="A2447F8C289E4676BB897333D2255EEE" x="227.080" y="26.589" z="13.854" id="Event_nlb_cc_15855" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" SubSceneNo="8604" desc="花会主会场" ChildList="" PosList="" />
+        <item No="BA86252987CA430CB75C478630A1326B" x="383.588" y="25.476" z="29.365" id="PlotDoor_nlb_hh_01" RefreshTime="30000.0" PatrolMode="1" WakeupRange="27.0" ChaseRange="23.0" NotPositive="0" desc="莲花-入" ChildList="" PosList="" />
+        <item No="6F9096AF6E5844EDB080BA4FB9D53AAD" x="383.588" y="25.476" z="29.365" id="EventNpc_nlb_hh_01" RefreshTime="30000.0" PatrolMode="1" WakeupRange="35.0" ChaseRange="23.0" NotPositive="0" SubSceneNo="8602" desc="莲花-出" ChildList="" PosList="" />
+        <item No="6F9096AF6E5844EDB080BA4FB9D53AAD" x="87.340" y="7.300" z="55.888" id="PlotDoor_nlb_cc_01" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" SubSceneNo="8604" desc="花会场景传出" ChildList="" PosList="" />
+        <item No="8F6C66DE7661492D8F098140F8FB4700" x="257.639" y="32.190" z="-39.296" id="box_nlb_huak_02" RefreshTime="-1.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" SubSceneNo="8607" desc="花魁绣球" ChildList="" PosList="" />
+        <item No="04AA25A214E14399B4B03FD1DD0655E5" x="255.058" y="32.190" z="-39.283" id="box_nlb_huak_01" RefreshTime="-1.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" SubSceneNo="8607" desc="花魁绣球" ChildList="" PosList="" />
+        <item No="AD4CF5E49E8241B18629FFFCA6B1C261" x="252.542" y="32.190" z="-39.462" id="box_nlb_huak_03" RefreshTime="-1.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" SubSceneNo="8607" desc="花魁绣球" ChildList="" PosList="" />
+        <item No="332BDEE8664F4436ACADE154D6FDB4F0" x="257.215" y="32.159" z="-9.437" id="EventNpc_nianluoba_003" RefreshTime="30000.0" PatrolMode="1" WakeupRange="40.0" ChaseRange="23.0" NotPositive="0" SubSceneNo="8607" desc="花圃之战" ChildList="" PosList="" />
+    </staticcreator>
+</object>

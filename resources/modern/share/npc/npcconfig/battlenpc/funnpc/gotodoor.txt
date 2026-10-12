@@ -1,0 +1,9 @@
+NPC编号	对象类型	名称	模型编号	NPC类型	NPC种类ID	响应范围	选择状态	脚本编号	玩家最多传送人数（-1：不限制）	玩家传送坐标	npc最多传送人数（-1：不限制）	npc传送坐标	AI编辑包
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	script	Name	Resource	NpcType	CKindID	SpringRange	SelectState	LuaScript	PlayerTransferNum	PlayerTransferPosition	NpcTransferNum	NpcTransferPosition	AIEditorPackID
+SchoolWarDoor_wd01	GotoDoor	武当巨石通路传送门	npc\itemnpc057u	43		2	33	npc\goto_door_npc.lua	-1	"607.77,106.263,341.463,0.022"	0		
+SchoolWarDoor_wd02	GotoDoor	武当巨石通路传送门	npc\itemnpc057u	43		2	33	npc\goto_door_npc.lua	0		0		
+SchoolWarDoor_wd03	GotoDoor	武当铁链通路传送门	npc\itemnpc057u	43		2	33	npc\goto_door_npc.lua	-1	"303.312,119.013,412.81,2.223"	0		
+SchoolWarDoor_wd04	GotoDoor	武当铁链通路传送门	npc\itemnpc057u	43		2	33	npc\goto_door_npc.lua	0		0		
+SchoolWarDoor_em01	GotoDoor	峨眉铁链通路传送门	npc\itemnpc057u	43		2	33	npc\goto_door_npc.lua	0		0		
+SchoolWarDoor_em02	GotoDoor	峨眉铁链通路传送门	npc\itemnpc057u	43		2	33	npc\goto_door_npc.lua	-1	"349.79,168.08,16.99,1.48"	0		

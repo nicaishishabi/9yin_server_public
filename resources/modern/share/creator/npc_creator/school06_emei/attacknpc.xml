@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <staticcreator>
+        <item No="B535080528C2460D9CA300A91BD6CD10" x="509.836" y="85.088" z="558.194" ay="-3.133" id="bossm060100" RefreshTime="30000.0" PatrolMode="1" ChaseRange="30.0" NotPositive="0" desc="佟巨青竹帮高手" ChildList="" PosList="" />
+        <item No="EABF8404F628432DA24917C5CF0E36B8" x="1099.583" y="155.838" z="-79.308" ay="-2.995" id="Leader_tongyong1" RefreshTime="30000.0" PathId="school06_mst01" PatrolMode="1" ChaseRange="30.0" NotPositive="0" desc="关卡通用巡逻队" ChildList="monm062400;monm062400" PosList="0.026,1.138;0.144,-0.842" />
+        <item No="FC88024220CF40E88BABB5CE89AC30C8" x="524.017" y="123.189" z="257.322" ay="-0.775" id="Leader_tongyong1" RefreshTime="30000.0" PathId="AI_em_19" PatrolMode="1" ChaseRange="30.0" NotPositive="0" desc="关卡通用巡逻队" ChildList="em522;em522;em532" PosList="-0.652,-0.281;0.843,0.000;-0.016,1.785" />
+        <item No="EDA81320EFCC43088B30A8702FE5CBAE" x="524.458" y="144.195" z="155.083" ay="0.630" id="Leader_tongyong1" RefreshTime="30000.0" PathId="AI_em_20" PatrolMode="1" ChaseRange="30.0" NotPositive="0" desc="关卡通用巡逻队" ChildList="em522;em522" PosList="-0.607,0.092;0.079,1.184" />
+        <item No="AF2A9D9FB14F4F06AC2E2EE05889176D" x="613.236" y="123.543" z="213.155" ay="5.833" id="em054" RefreshTime="30000.0" PathId="AI_em_24" PatrolMode="0" ChaseRange="30.0" NotPositive="0" desc="欧阳婷" ChildList="" PosList="" />
+        <item No="0B431B31E036455FB32818E52A7D260A" x="555.785" y="27.057" z="684.857" ay="3.640" id="NpcQYEM0006" RefreshTime="3600000.0" PatrolMode="1" WakeupRange="16.0" ChaseRange="30.0" NotPositive="0" SubSceneNo="31" desc="峨眉高级奇遇分组场景鸣鹤观Npc3" ChildList="" PosList="" />
+        <item No="BB71E44BEAC347A584833164D5DAE289" x="226.778" y="10.810" z="714.551" ay="4.193" id="NpcQYEM0008" RefreshTime="3600000.0" PatrolMode="1" WakeupRange="16.0" ChaseRange="30.0" NotPositive="0" SubSceneNo="34" desc="峨眉高级奇遇分组场景青竹帮流氓" ChildList="" PosList="" />
+        <item No="28487A4388F449FC83E22BC5DC7EC04A" x="370.875" y="8.273" z="684.158" ay="1.820" id="NpcQYEM0001" RefreshTime="400000.0" PatrolMode="1" WakeupRange="16.0" ChaseRange="30.0" NotPositive="0" WeaponMode="hand2_1" SubSceneNo="28" desc="峨眉28号分组场景Npc1" ChildList="" PosList="" />
+        <item No="8366E20BC1C9422B99C7389A4235CA26" x="371.958" y="8.842" z="681.729" ay="0.485" id="NpcQYEM0001" RefreshTime="400000.0" PatrolMode="1" WakeupRange="16.0" ChaseRange="30.0" NotPositive="0" WeaponMode="hand2_1" SubSceneNo="28" desc="峨眉28号分组场景Npc1" ChildList="" PosList="" />
+        <item No="56699367206646B2A8DD4D2CAF683DAA" x="370.970" y="8.277" z="682.268" ay="0.760" id="NpcQYEM0001" RefreshTime="400000.0" PatrolMode="1" WakeupRange="16.0" ChaseRange="30.0" NotPositive="0" WeaponMode="hand2_1" SubSceneNo="28" desc="峨眉28号分组场景Npc1" ChildList="" PosList="" />
+        <item No="96B2CD8E4F5F4CF2A060EDB8CF86FB4B" x="645.860" y="133.782" z="290.772" ay="-1.290" id="boss_jqmz_002" RefreshTime="30000.0" PatrolMode="1" WakeupRange="16.0" ChaseRange="27.0" NotPositive="0" WeaponName="b_r_3" WeaponMode="blade1_1" SubSceneNo="9072" desc="赵止 (单人）" ChildList="" PosList="" />
+    </staticcreator>
+</object>

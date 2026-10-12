@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <staticcreator>
+        <item No="A7AECE4FD25D4D5CA4E6A5074B50E082" x="524.390" y="-24.817" z="849.314" id="EventNpc_xjqrw_002" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" desc="酒楼前往亲王府门口触发任务" ChildList="" PosList="" />
+        <item No="7FE6B6173D69468CB6BE4D59AADFFED3" x="1030.451" y="-22.345" z="1021.332" ay="2.955" id="EventNpc_xjqrw_004" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" desc="地鼠门前往亲王府途中触发进分组" ChildList="" PosList="" />
+        <item No="CC1ED05686E44C05B03D0450F3102DD3" x="980.933" y="-13.903" z="639.712" id="EventNpc_xjqrw_001" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" SubSceneNo="9064" desc="酒楼进分组后触发打江湖人士" ChildList="" PosList="" />
+        <item No="42AB2AE0E001408692C0F31A5CEFA4E7" x="879.332" y="-24.953" z="693.325" id="EventNpc_xjqrw_003" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" SubSceneNo="9065" desc="天星帮进分组后NPC" ChildList="" PosList="" />
+        <item No="ED13DAF91D1848E19345D77B183F781E" x="1048.575" y="-19.785" z="972.528" id="EventNpc_xjqrw_005" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" SubSceneNo="9066" desc="地鼠门进分组后NPC" ChildList="" PosList="" />
+        <item No="25649DF49D524385BACA8FE80EDF3E91" x="453.005" y="6.765" z="950.861" ay="2.415" id="EventNpc_xjqdez_001" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" desc="秦王府门口触发动画" ChildList="" PosList="" />
+    </staticcreator>
+</object>

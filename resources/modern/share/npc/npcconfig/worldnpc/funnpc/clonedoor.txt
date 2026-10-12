@@ -1,0 +1,5 @@
+NPC编号	对象类型	名称	模型编号	头像	NPC种类ID	NPC类型	响应范围	选择状态	脚本编号	传送包编号	原型场景id	AI编辑包
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	script	Name	Resource	Photo	CKindID	NpcType	SpringRange	SelectState	LuaScript	DoorPackageID	CloneSceneID	AIEditorPackID
+												
+CloneDoorNpc00047	CloneDoor	进入47号场景副本	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	42	3	33	npc\clone_door_npc.lua	1020	47	

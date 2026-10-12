@@ -1,0 +1,22 @@
+NPC编号	对象类型	名称	模型半径	NPC种类ID	NPC类型	子类型	模型编号	头像	等待时间	驾驶配置文件	当前行走步数	行走速度	客户端模拟速度	跑步速度	脚本编号	AI编辑包	挂载QTE	初始化马车主角动作Type
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	script	Name	CollideRadius	CKindID	NpcType	SubType	Resource	Photo	WaitTime	Driver	DriveStep	WalkSpeed	SimulateSpeed	RunSpeed	LuaScript	AIEditorPackID	BindQteRound	MacheType
+																		
+Mache00001	TransToolNpc	马车	1	4	45	0	npc\mache001	icon\funcnpc\mache001.png	600	ini\npc\funcnpc008.ini	0	4	10	10	npc\trans_tool_npc.lua			
+fb_Mache00001	TransToolNpc	马车	1	4	45	0	npc\mache001	icon\funcnpc\mache001.png	600	ini\npc\funcnpc008.ini	0	4	10	10	npc\trans_tool_npc.lua			
+duchuan00001	TransToolNpc	渡船	1	4	45	1	npc\boat02	icon\funcnpc\boat01.png	600	ini\npc\worldnpc155.ini	0	3	4.5	4.5	npc\trans_tool_npc.lua			
+duchuan00002	TransToolNpc	渡船	1	4	45	1	npc\jt_chuan02	icon\funcnpc\boat01.png	600	ini\npc\worldnpc155.ini	0	3	4.5	4.5	npc\trans_tool_npc.lua			
+duchuan00003	TransToolNpc	渡船	1	4	45	1	npc\jt_chuan03	icon\funcnpc\boat01.png	600	ini\npc\worldnpc155.ini	0	3	4.5	4.5	npc\trans_tool_npc.lua			
+duchuan00004	TransToolNpc	渡船	1	4	45	1	npc\jt_zhufa01	icon\funcnpc\boat01.png	600	ini\npc\worldnpc155.ini	0	3	4.5	4.5	npc\trans_tool_npc.lua			
+fb_duchuan00001	TransToolNpc	渡船	1	4	45	1	npc\boat02	icon\funcnpc\boat01.png	600	ini\npc\worldnpc155.ini	0	3	4.5	4.5	npc\trans_tool_npc.lua			
+duchuan00005	TransToolNpc	渡船	1	4	45	1	npc\boat01	icon\funcnpc\boat01.png	600	ini\npc\worldnpc155.ini	0	3	4.5	4.5	npc\trans_tool_npc.lua			
+fb_duchuan00006	TransToolNpc	渡船	1	4	45	1	npc\itemnpc819		600	ini\npc\worldnpc155.ini	0	3	4.5	4.5	npc\trans_tool_npc.lua			
+no_fb_thd_shayu	TransToolNpc	鲨鱼	1	4	45	1	npc\searide_thd_1		600		0	15	15	15	npc\trans_tool_npc.lua			
+fb_duchuan00002	TransToolNpc	渡船	1	4	45	1	npc\jt_chuan02	icon\funcnpc\boat01.png	600	ini\npc\worldnpc155.ini	0	3	4.5	4.5	npc\trans_tool_npc.lua			
+no_fb_lxc_xueqiao	TransToolNpc	雪橇	1	4	45	0	npc\ride_wedjifen_0301	icon\funcnpc\ride_wedjifen_0301	600		0	4	10	10	npc\trans_tool_npc.lua			1
+no_fb_changfeng_biaoche	TransToolNpc	镖车	1	4	45	0	npc\ride_biaoche01		600	ini\npc\ride_biaoche01.ini	0	4	8	8	npc\trans_tool_npc.lua		hard	1
+no_fb_changfeng_biaoche_1	TransToolNpc	镖车	1	4	45	0	npc\ride_biaoche01		600	ini\npc\ride_biaoche01.ini	0	4	6	6	npc\trans_tool_npc.lua		hard	1
+no_zhufa19	TransToolNpc	浮萍	1	4	45	1	npc\zhufa_npcitem950	icon\funcnpc\boat01.png	600	ini\npc\worldnpc155.ini	0	3	4.5	4.5	npc\trans_tool_npc.lua			
+dh_duchuan00001	TransToolNpc	渡船	1	4	45	1	npc\dh_duchuan001	icon\funcnpc\boat01.png	600	ini\npc\worldnpc155.ini	0	3	4.5	4.5	npc\trans_tool_npc.lua			
+duchuan00006	TransToolNpc	渡船	1	4	45	1	npc\jt_chuan03	icon\funcnpc\boat01.png	600	ini\npc\worldnpc155.ini	0	3	10	10	npc\trans_tool_npc.lua			
+no_zhufaschool18	TransToolNpc	渡船	1	4	45	1	npc\jt_zhufa02	icon\funcnpc\boat01.png	600	ini\npc\worldnpc155.ini	0	3	4.5	4.5	npc\trans_tool_npc.lua			

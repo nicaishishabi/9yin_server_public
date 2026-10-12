@@ -1,0 +1,78 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	NpcId	SceneID	DialogID	GetItems	LostItems	TrackInfo	OkMenu	TaskID
+42001	WorldNpc00212	12	DialogID_42001			interactinfo_42001		18801
+42002	WorldNpc00210	12	DialogID_42002_1		taskitem_12001-1	interactinfo_42002_1		18802
+42003	WorldNpc00274	12	DialogID_42003_2		taskitem_12002-1	interactinfo_42003_2		18802
+42004	WorldNpc00211	12	DialogID_42004_3		taskitem_12003-1	interactinfo_42004_3		18802
+42005	WorldNpc00355	12	DialogID_42005_4		taskitem_12004-1	interactinfo_42005_4		18802
+42006	WorldNpc00202	12	DialogID_42006_5		taskitem_12005-1	interactinfo_42006_5		18802
+42008	WorldNpc00285	12	DialogID_42008			interactinfo_42008		18804
+42011	WorldNpc00210	12	DialogID_42011_3	taskitem_12072-1	taskitem_12023-1	interactinfo_42011_3		18809
+42012	WorldNpc00274	12	DialogID_42012_4	taskitem_12073-1	taskitem_12023-1	interactinfo_42012_4		18809
+42013	WorldNpc00211	12	DialogID_42013_5	taskitem_12074-1	taskitem_12023-1	interactinfo_42013_5		18809
+42014	WorldNpc00355	12	DialogID_42014_6	taskitem_12075-1	taskitem_12023-1	interactinfo_42014_6		18809
+42015	WorldNpc00202	12	DialogID_42015_7	taskitem_12076-1	taskitem_12023-1	interactinfo_42015_7		18809
+42016	WorldNpc00212	12	DialogID_42016_8		taskitem_12071-1|taskitem_12072-1|taskitem_12073-1|taskitem_12074-1|taskitem_12075-1|taskitem_12076-1	interactinfo_42016_8		18809
+42018	WorldNpc00211	12	DialogID_42018			interactinfo_42018		18812
+42019	WorldNpc00211	12	DialogID_42019		taskitem_12050-1|taskitem_12051-1	interactinfo_42019		18814
+42020	WorldNpc00333	12	DialogID_42020		taskitem_12053-1	interactinfo_42020		18817
+42021	WorldNpc00262	12	DialogID_42021		taskitem_12055-1	interactinfo_42021		18819
+42022	WorldNpc00390	12	DialogID_42022		taskitem_12065-1	interactinfo_42022		18822
+42024	WorldNpc00393	12	DialogID_42024		taskitem_12067-1	interactinfo_42024		18825
+42025	WorldNpc00386	12	DialogID_42025			interactinfo_42025		18827
+42026	WorldNpc00388	12	DialogID_42026			interactinfo_42026		18828
+42027	WorldNpc00386	12	DialogID_42027		taskitem_12069-1	interactinfo_42027		18830
+42028	WorldNpc00388	12	DialogID_42028			interactinfo_42028		18831
+42030	WorldNpc00386	12	DialogID_42030			interactinfo_42030		18836
+42031	sl006	12	DialogID_42031			interactinfo_42031		18837
+42032	WorldNpc00359	12	DialogID_42032			interactinfo_42032		18838
+42033	WorldNpc00359	12	DialogID_42033			interactinfo_42033		18839
+42034	WorldNpc00285	12	DialogID_42034		taskitem_12020-1	interactinfo_42034		18807
+42007	WorldNpc00224	12	DialogID_42007			interactinfo_42007		18803
+42010	WorldNpc00224	12	DialogID_42010_2	taskitem_12071-1	taskitem_12023-1	interactinfo_42010_2		18809
+42017	WorldNpc00224	12	DialogID_42017			interactinfo_42017		18810
+42023	FunnpcClone005018	12	DialogID_42023		yaopin10002-5	interactinfo_42023		18823
+42009	WorldNpc00212	12	DialogID_42009_1		taskitem_12023-1	interactinfo_42009_1		
+42029	WorldNpc00395	12	DialogID_42029			interactinfo_42029		
+42035	WorldNpc00285	12	DialogID_42035		taskitem_12022-1	interactinfo_42035		
+42037	WorldNpc00383	12	DialogID_42037			interactinfo_42037	okmenu_42037	18859
+42038	WorldNpc00473	12	DialogID_42038			interactinfo_42038	okmenu_42038	18860
+42039	WorldNpc00355	12	DialogID_42039			interactinfo_42039	okmenu_42039	
+42040	WorldNpc00355	12	DialogID_42040			interactinfo_42040	okmenu_42040	18857
+42044	WorldNpc00355	12	DialogID_42044		key_shaolin_fancai*1	interactinfo_42044		
+42045	WorldNpc10397	16	DialogID_42045			interactinfo_42045	okmenu_42045	18863
+42048	FunnpcClone021003	16	DialogID_42048			interactinfo_42048	okmenu_42048	18868
+42050	WorldNpc10436	16	DialogID_42050			interactinfo_42050	okmenu_42050	18869
+42051	JobLuoY013	16	DialogID_42051			interactinfo_42051	okmenu_42051	18870
+42052	WeiqiNpc001_16	16	DialogID_42052			interactinfo_42052	okmenu_42052	18871
+42053	WorldNpc10436	16	DialogID_42053			interactinfo_42053	okmenu_42053	18872
+42055	sl074	12	DialogID_42055			interactinfo_42055	okmenu_42055	18874
+42042	WorldNpc00481	12	DialogID_42042	key_shaolin_yaowan-1		interactinfo_42042	okmenu_42042	18862
+42041	WorldNpc00481	12	DialogID_42041		key_shaolin_mingnanhua-5|key_shaolin_pandingcao-5	interactinfo_42041	okmenu_42041	18862
+42046	WorldNpc10397	16	DialogID_42046		key_shaolin_xin-1	interactinfo_42046	okmenu_42046	18864
+42049	FunnpcClone021003	16	DialogID_42049	key_shaolin_qizi-1		interactinfo_42049	okmenu_42049	18869
+42056	sl074	12	DialogID_42056	useitemkey_shaolin_shuitong-1		interactinfo_42056	okmenu_42056	18875
+42064	WorldNpc00473	12	DialogID_42064			interactinfo_42064	okmenu_42064	18861
+42036	WorldNpc00355	12	DialogID_42036			interactinfo_42036	okmenu_42036	
+42043	WorldNpc00473	12	DialogID_42043	key_shaolin_fancai-1		interactinfo_42043	okmenu_42043	
+42054	WorldNpc00497	12	DialogID_42054	qy_120401_shaolin_js3-1		interactinfo_42054	okmenu_42054	18873
+42066	wd018	11	DialogID_42066			interactinfo_42066	okmenu_42066	18902
+42067	sl057	12	DialogID_42067			interactinfo_42067	okmenu_42067	18902
+42068	WorldNpc00293	12	DialogID_42068		key_120401_shaolin_zldsn2-1	interactinfo_42068	okmenu_42068	18903
+42065	WorldNpc00473	12	DialogID_42065			interactinfo_42065	okmenu_42065	18856
+42047	WorldNpc00497	12	DialogID_42047			interactinfo_42047	okmenu_42047	18867
+42057	WorldNpc00224	12	DialogID_42057			interactinfo_42057	okmenu_42057	18876
+42058	WorldNpc00264	12	DialogID_42058			interactinfo_42058	okmenu_42058	18877
+42059	WorldNpc00336	12	DialogID_42059			interactinfo_42059	okmenu_42059	18878
+42060	WorldNpc00354	12	DialogID_42060			interactinfo_42060	okmenu_42060	18879
+42061	WorldNpc00202	12	DialogID_42061			interactinfo_42061	okmenu_42061	18880
+42062	FunnpcClone005001	12	DialogID_42062			interactinfo_42062	okmenu_42062	18881
+42063	WorldNpc00210	12	DialogID_42063			interactinfo_42063	okmenu_42063	18882
+42069	WorldNpc10536	16				interactinfo_42069		18910
+42070	Event_qygp_cc_18911	16				interactinfo_42070		18911
+42072	Gather_qygp_cc_18913_gu	16				interactinfo_42072		18913
+42073	Gather_qygp_cc_18913_tan	16				interactinfo_42073		18913
+42074	Gather_qygp_cc_18913_shui	16				interactinfo_42074		18913
+42075	Gather_qygp_cc_18913_qu	16				interactinfo_42075		18913
+42076	Gather_qygp_cc_18911	16				interactinfo_42076		18911
+42071	WorldNpc10536	16	DialogID_42071		item_qygp_cc_18911-1	interactinfo_42071	okmenu_42071	18911

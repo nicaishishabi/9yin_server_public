@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="ABD259E0ED414183812312AE3E9634C9" x="8.635" y="36.582" z="-505.651" radius="4.0" WakeupRange="6.0" ChaseRange="10.0" PatrolRange="0.0" SpringRange="20" HateLink="1">
+            <item No="1" id="NpcPrestige008" ay="5.443" amount="2" refreshtime="60000" NotPositive="0" desc="少林达摩棍法">
+                <position x="8.398" z="-508.135" ay="5.443" WeaponName="lst_r_npcitem316" WeaponMode="lstuff1_1" />
+                <position x="6.786" z="-506.712" ay="2.199" WeaponName="lst_r_npcitem316" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="2" id="NpcPrestige030" ay="4.096" amount="1" refreshtime="60000" NotPositive="0" desc="摄魂者">
+                <position x="8.780" z="-506.353" ay="4.096" />
+            </item>
+            <item No="3" id="NpcAdv033_clone001" ay="0.711" amount="1" refreshtime="60000" NotPositive="0" desc="失魂者1">
+                <position x="7.552" z="-507.718" ay="0.711" BornAction="ty_quail" RandomAction="ty_quail" />
+            </item>
+        </creator>
+        <creator No="D84900E5728744BBADB470EDCA914BCB" x="-1.658" y="36.021" z="-513.723" radius="4.0" WakeupRange="5.0" ChaseRange="10.0" PatrolRange="0.0" SpringRange="20" HateLink="1">
+            <item No="1" id="NpcPrestige008" ay="5.443" amount="2" refreshtime="60000" NotPositive="0" desc="少林达摩棍法">
+                <position x="-1.895" z="-516.206" ay="5.443" WeaponName="lst_r_npcitem316" WeaponMode="lstuff1_1" />
+                <position x="-3.507" z="-514.784" ay="2.199" WeaponName="lst_r_npcitem316" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="2" id="NpcPrestige032" ay="3.385" amount="1" refreshtime="60000" NotPositive="0" desc="摄魂者">
+                <position x="-2.098" z="-514.440" ay="3.385" />
+            </item>
+            <item No="3" id="NpcAdv033_clone003" ay="0.566" amount="1" refreshtime="60000" NotPositive="0" desc="失魂者1">
+                <position x="-2.798" z="-515.674" ay="0.566" BornAction="ty_quail" RandomAction="ty_quail" />
+            </item>
+        </creator>
+        <creator No="45D90D85A73B46DBBC2BBC0D9E1C5831" x="-14.233" y="37.015" z="-506.920" radius="4.0" WakeupRange="5.0" ChaseRange="10.0" PatrolRange="0.0" SpringRange="20" HateLink="1">
+            <item No="1" id="NpcPrestige008" ay="5.443" amount="2" refreshtime="60000" NotPositive="0" desc="少林达摩棍法">
+                <position x="-14.470" z="-509.403" ay="5.443" WeaponName="lst_r_npcitem316" WeaponMode="lstuff1_1" />
+                <position x="-16.083" z="-507.981" ay="2.199" WeaponName="lst_r_npcitem316" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="2" id="NpcPrestige033" ay="4.422" amount="1" refreshtime="60000" NotPositive="0" desc="摄魂者">
+                <position x="-13.830" z="-506.636" ay="4.422" WeaponName="b_r_1" WeaponMode="blade1_1" />
+            </item>
+            <item No="3" id="NpcAdv033_clone004" ay="0.711" amount="1" refreshtime="60000" NotPositive="0" desc="失魂者1">
+                <position x="-15.547" z="-508.620" ay="0.711" BornAction="ty_quail" RandomAction="ty_quail" />
+            </item>
+        </creator>
+        <creator No="CDB3FACFD00C4B61AA484181BCD9A1C3" x="-2.333" y="36.845" z="-502.609" radius="4.0" WakeupRange="5.0" ChaseRange="10.0" PatrolRange="0.0" SpringRange="20" HateLink="1">
+            <item No="1" id="NpcPrestige008" ay="5.443" amount="2" refreshtime="60000" NotPositive="0" desc="少林达摩棍法">
+                <position x="-2.570" z="-505.093" ay="5.443" WeaponName="lst_r_npcitem316" WeaponMode="lstuff1_1" />
+                <position x="-4.182" z="-503.670" ay="2.199" WeaponName="lst_r_npcitem316" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="2" id="NpcPrestige031" ay="3.294" amount="1" refreshtime="60000" NotPositive="0" desc="摄魂者">
+                <position x="-1.798" z="-502.754" ay="3.294" WeaponName="b_r_1" WeaponMode="blade1_1" />
+            </item>
+            <item No="3" id="NpcAdv033_clone002" ay="0.711" amount="1" refreshtime="60000" NotPositive="0" desc="失魂者2">
+                <position x="-3.332" z="-504.535" ay="0.711" BornAction="ty_quail" RandomAction="ty_quail" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

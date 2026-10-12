@@ -1,0 +1,104 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	NpcId	SceneID	DialogID	GetItems	LostItems	TrackInfo	OkMenu	TaskID	BufferID
+15501	npc_xdm_mxm	14	DialogID_15501			interactinfo_15501	okmenu_15501	20801	
+15508	npc_xdm_004	15	DialogID_15508			interactinfo_15508	okmenu_15508	20803	
+15514	npc_xdm_007	15	DialogID_15514			interactinfo_15514	okmenu_15514	20805	
+15515	Event_xdm_002	15	DialogID_15515			interactinfo_15515	okmenu_15515	20805	
+15502	Event_xdm_001	15	DialogID_15502			interactinfo_15502	okmenu_15502	20801	
+15510	npc_xdm_005	15	DialogID_15510		item_xdm_005-1	interactinfo_15510	okmenu_15510	20804	
+15506	npc_xdm_002	15	DialogID_15506		item_xdm_001-1	interactinfo_15506	okmenu_15506	20802	
+15507	npc_xdm_003	15	DialogID_15507			interactinfo_15507	okmenu_15507	20803	
+15512	npc_xdm_009	15	DialogID_15512		item_xdm_003	interactinfo_15512	okmenu_15512		
+15513	npc_xdm_006	15	DialogID_15513		item_xdm_003	interactinfo_15513	okmenu_15513		
+15516	npc_xdm_008	15	DialogID_15516			interactinfo_15516	okmenu_15516	20805	
+15517	npc_xdm_007	15	DialogID_15517			interactinfo_15517	okmenu_15517	20805	
+15509	npc_xdm_005	15	DialogID_15509	item_xdm_004-1		interactinfo_15509	okmenu_15509	20804	
+15518	Event_xdm_003	13				interactinfo_15518		20806	
+15519	Event_xdm_004	13				interactinfo_15519		20806	buff_task_20806_1
+15505	npc_xdm_011	15	DialogID_15505	item_xdm_001-1		interactinfo_15505	okmenu_15505	20802	
+15511	npc_xdm_012	15	DialogID_15511	item_xdm_005-1		interactinfo_15511	okmenu_15511	20804	
+15521	Gather_xdm_kyf_01	13				interactinfo_15521		20806	buff_task_20806
+15522		13				interactinfo_15522		20807	
+15529	npc_xdm_kyf_011	13	DialogID_15529			interactinfo_15529	okmenu_15529	20810	
+15599	NPC_xdm_wj_11		DialogID_15599			interactinfo_15599	okmenu_15599	20910	
+15600	NPC_xdm_wj_11		DialogID_15600			interactinfo_15600	okmenu_15600	20910	
+15601	NPC_xdm_wj_11		DialogID_15601			interactinfo_15601	okmenu_15601	20910	
+15602	NPC_xdm_wj_11		DialogID_15602			interactinfo_15602	okmenu_15602	20910	
+15603	NPC_xdm_wj_11		DialogID_15603			interactinfo_15603	okmenu_15603	20910	
+15528	Event_xdm_006	13	DialogID_15528			interactinfo_15528	okmenu_15528		
+15596	NPC_xdm_wj_07	1	DialogID_15596			interactinfo_15596	okmenu_15596	20903	
+15534	npc_xdm_016	5	DialogID_15534			interactinfo_15534	okmenu_15534	20813	
+15537	npc_xdm_013	5	DialogID_15537		item_xdm_011-1	interactinfo_15537	okmenu_15537	20814	
+15530	npc_xdm_014	2	DialogID_15530			interactinfo_15530	okmenu_15530	20811	
+15538	Event_xdm_011	2	DialogID_15538			interactinfo_15538	okmenu_15538	20811	
+15656									
+15658	npc_xdm_ww07		DialogID_15658		item_xdm_ww04	interactinfo_15658	okmenu_15658		
+15539	Event_xdm_014	2				interactinfo_15539		20812	
+15540	npc_xdm_013	5	DialogID_15540	item_xdm_012		interactinfo_15540	okmenu_15540		
+15655	npc_xdm_ww01		DialogID_15655		item_xdm_ww01	interactinfo_15655	okmenu_15655		
+15659	npc_xdm_ww08		DialogID_15659	item_xdm_ww04		interactinfo_15659	okmenu_15659		
+15660	npc_xdm_ww06		DialogID_15660			interactinfo_15660	okmenu_15660		
+15661	npc_xdm_ww02		DialogID_15660			interactinfo_15661	okmenu_15660		
+15571	Npc_xdm_gdj_xhd_001	552	DialogID_15571			interactinfo_15571	okmenu_15571	20893	
+15572	xdm_xianglu_gdj	552	DialogID_15572			interactinfo_15572	okmenu_15572	20896	
+15531	npc_xdm_140	2	DialogID_15531			interactinfo_15531	okmenu_15531	20812	
+15532	npc_xdm_141	2	DialogID_15532			interactinfo_15532	okmenu_15532	20815	
+15520	npc_xdm_kyf_012	13	DialogID_15520			interactinfo_15520	okmenu_15520	20806	
+15573	Npc_xdm_gdj_xhd_007	552	DialogID_15573			interactinfo_15573	okmenu_15573	20897	
+15525	Event_xdm_005	13				interactinfo_15525			
+15558	Event_xdm_dy_20840	552				interactinfo_15558		20841	buf_xdm_dy_15
+15561	Gather_xdm_dy_xhd	552	DialogID_15561			interactinfo_15561	okmenu_15561	20843	
+15565	Event_xdm_dy_20833a	552							
+15566						interactinfo_15566		20831	
+15552	Event_xdm_dy_20833	552				interactinfo_15552		20833	
+15564	NPC_xdm_dy_xsd	552	DialogID_15564			interactinfo_15564	okmenu_15564	20833	
+15556	npc_xdm_030	552	DialogID_15556	item_xdm_dy_bft-1		interactinfo_15556	okmenu_15556	20840	
+15559	npc_xdm_031	552	DialogID_15559	item_xdm_dy_md-1		interactinfo_15559	okmenu_15559	20841	
+15560	npc_xdm_032	552	DialogID_15560		item_xdm_dy_md-1	interactinfo_15560	okmenu_15560	20842	
+15523	npc_xdm_kyf_002	553	DialogID_15523			interactinfo_15523	okmenu_15523	20807	
+15524	npc_xdm_kyf_003	553	DialogID_15524			interactinfo_15524	okmenu_15524	20807	
+15595	Gather_xdm_wj_01	552	DialogID_15595			interactinfo_15595	okmenu_15595	20901	
+15557	NPC_xdm_dy_ars1	552	DialogID_15557		item_xdm_dy_bft-1	interactinfo_15557	okmenu_15557	20840	
+15567	Event_xdm_dy_20833a	552				interactinfo_15567		20833	
+15553						interactinfo_15553			
+15662	npc_xdm_141	2				interactinfo_15662			
+15541	npc_xdm_142	2	DialogID_15541	item_xdm_006-1|item_xdm_009-1|item_xdm_010-1		interactinfo_15541	okmenu_15541	20811	
+15533	worldnpc04101	5	DialogID_15533	item_xdm_011-1		interactinfo_15533	okmenu_15533	20813	
+15562	Event_xdm_dy_20843a	552				interactinfo_15562		20843	
+15563	NPC_xdm_dy_xb	552	DialogID_15563			interactinfo_15563	okmenu_15563	20844	
+15663	Gather_xdm_kyf_02	553				interactinfo_15663		20808	
+15664	Gather_xdm_kyf_03	553				interactinfo_15664		20808	
+15504	npc_xdm_002	15	DialogID_15504			interactinfo_15504	okmenu_15504	20802	
+15503	npc_xdm_001	15	DialogID_15503			interactinfo_15503	okmenu_15503	20802	
+15615	npc_xdm_028	552	DialogID_15615			interactinfo_15615	okmenu_15615	20851	
+15616	npc_xdm_028	552	DialogID_15616			interactinfo_15616	okmenu_15616	20852	
+15617	npc_xdm_026	552	DialogID_15617			interactinfo_15617	okmenu_15617	20853	
+15612	Event_xdm_012	550	DialogID_15612			interactinfo_15612	okmenu_15612	20852	
+15611	npc_xdm_025	552	DialogID_15611			interactinfo_15611	okmenu_15611	20851	
+15535	npc_xdm_017	5	DialogID_15535	item_xdm_012-1		interactinfo_15535	okmenu_15535	20813	
+15598	NPC_xdm_wj_11	5	DialogID_15598		item_xdm_wj_031-1	interactinfo_15598	okmenu_15598	20909	
+15574	Gather_xdm_st_gdj	552	DialogID_15574			interactinfo_15574	okmenu_15574	20898	
+15568	npc_xdm_dy19	552	DialogID_15568	useitem_xdm_ww04-1		interactinfo_15568	okmenu_15568	20839	
+15597	NPC_xdm_wj_18	552	DialogID_15597	item_xdm_wj_031-1		interactinfo_15597	okmenu_15597	20909	
+15665	npc_xdm_031	552	DialogID_15665			interactinfo_15665	okmenu_15665	20831	
+15666		552				interactinfo_15666		20831	
+15526	Event_xdm_006	553				interactinfo_15526		20809	
+15527	Event_xdm_007	553				interactinfo_15527		20809	
+15536	Event_xdm_013	5	DialogID_15536			interactinfo_15536	okmenu_15536	20814	
+15604	Event_xdm_016	552				interactinfo_15604		20819	
+15657	npc_xdm_ww08	552	DialogID_15657	item_xdm_ww04-1		interactinfo_15657	okmenu_15657	20817,20913	
+15605	npc_xdm_031	552	DialogID_15605			interactinfo_15605	okmenu_15605	20819	
+15551	npc_xdm_031	552	DialogID_15551	blade_10102-1|book_skill_xdm_xdq_gdj_001-1		interactinfo_15551	okmenu_15551	20831	buf_xdm_cc_002
+15569						interactinfo_15569		20831	
+15570	Event_xdm_dy_20833b	552				interactinfo_15570		20833	
+15631	NPC_xdm_dy_liuwz	552	DialogID_15631			interactinfo_15631	okmenu_15631	20838	buf_xdm_dy_21
+15632	Event_xdm_dy_20838	552				interactinfo_15632		20838	
+15554	NPC_xdm_dy_ars	552	DialogID_15554	item_xdm_dy_md-1		interactinfo_15554	okmenu_15554	20835	
+15555	npc_xdm_031	552	DialogID_15555		item_xdm_dy_md-1	interactinfo_15555	okmenu_15555	20835	buf_xdm_dy_14
+15651	EventNpc_qy_xdm_01	552				interactinfo_15651		20961	
+15652	EventNpc_qy_xdm_02	552				interactinfo_15652		20961	
+15654	npc_xdm_ww08	552	DialogID_15654	Item_xdm_qy_key005-1		interactinfo_15654	okmenu_15654	20962	
+15633	npc_xdm_032	552	DialogID_15633			interactinfo_15633	okmenu_15633	20845	
+15653	EventNpc_qy_xdm_02	552				interactinfo_15653			
+15667	npc_xdm_143	2	DialogID_15667			interactinfo_15667	okmenu_15667		
+15542	npc_xdm_cc_027	2	DialogID_15542			interactinfo_15542	okmenu_15542	20820	

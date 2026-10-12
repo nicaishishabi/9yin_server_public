@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object>
+	<randomcreator>
+		<creator No="BCF572491F33468B88026290DE92DDBA" x="321.670" y="-0.007" z="451.054" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SubSceneNo="9322" TaskSubId="74110" TaskSubType="1" HateLink="1">
+			<item No="1" id="npc_2304_dy_004" ay="-1" amount="2" refreshtime="5" NotPositive="0" desc="马匪甲">
+				<position x="323.017" z="450.410" ay="-1"/>
+				<position x="322.456" z="452.003" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="32D3F6F58E1D458695571DC009C8E59E" x="326.584" y="0.984" z="457.603" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SubSceneNo="9322" TaskSubId="74112" TaskSubType="1" HateLink="1">
+			<item No="1" id="npc_2304_dy_006" ay="-1" amount="2" refreshtime="5" NotPositive="0" desc="马匪丙">
+				<position x="327.712" z="456.738" ay="-1"/>
+				<position x="326.511" z="459.258" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="371F76D3787A42438EE10C74C3B36DC6" x="319.114" y="-0.007" z="457.837" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SubSceneNo="9322" TaskSubId="74111" TaskSubType="1" HateLink="1">
+			<item No="1" id="npc_2304_dy_005" ay="-1" amount="2" refreshtime="5" NotPositive="0" desc="马匪乙">
+				<position x="317.520" z="455.907" ay="-1"/>
+				<position x="319.537" z="459.263" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="32D3F6F58E1D458695571DC009C8E59E" x="1203.137" y="6.701" z="903.075" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SubSceneNo="9322" TaskSubId="74129" TaskSubType="1" HateLink="1">
+			<item No="1" id="npc_2304_dy_013" ay="-1" amount="5" refreshtime="5" NotPositive="0" desc="马匪丙">
+				<position x="1203.486" z="901.451" ay="-1"/>
+				<position x="1205.038" z="902.373" ay="-1"/>
+				<position x="1204.716" z="905.478" ay="-1"/>
+				<position x="1201.954" z="905.783" ay="-1"/>
+				<position x="1199.010" z="903.129" ay="-1"/>
+			</item>
+		</creator>
+	</randomcreator>
+</object>

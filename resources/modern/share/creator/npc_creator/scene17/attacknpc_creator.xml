@@ -1,0 +1,597 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<object>
+	<randomcreator>
+		<creator No="1DC5E12F2E0640F59274115949199D4B" x="503.772" y="129.524" z="-508.909" radius="20.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_009" ay="-1" amount="3" refreshtime="180" NotPositive="0" desc="波环眼蛇">
+				<position x="502.315" z="-515.302" ay="-1"/>
+				<position x="494.097" z="-509.984" ay="-1"/>
+				<position x="508.369" z="-511.255" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="83F46125D7FF4E4C9EC01013EA3193B5" x="320.631" y="126.927" z="-470.309" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_009" ay="-1" amount="3" refreshtime="180" NotPositive="0" desc="波环眼蛇">
+				<position x="322.489" z="-472.782" ay="-1"/>
+				<position x="322.740" z="-467.378" ay="-1"/>
+				<position x="317.518" z="-469.869" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="014E87785622467A937C6BD07C5D11CC" x="179.597" y="122.003" z="-521.606" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_009" ay="-1" amount="3" refreshtime="180" NotPositive="0" desc="波环眼蛇">
+				<position x="182.952" z="-520.410" ay="-1"/>
+				<position x="177.570" z="-518.629" ay="-1"/>
+				<position x="179.155" z="-521.143" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="250E4F8B009441D183785CAE7A14D233" x="167.329" y="99.070" z="-430.299" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_013" ay="-1" amount="3" refreshtime="180" desc="遗迹蟒蛇">
+				<position x="169.775" z="-431.753" ay="-1"/>
+				<position x="164.132" z="-430.943" ay="-1"/>
+				<position x="167.319" z="-427.068" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="5DA6697CABEB477192BF29B700A37160" x="64.374" y="90.214" z="-519.088" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_013" ay="-1" amount="3" refreshtime="180" desc="遗迹蟒蛇">
+				<position x="67.701" z="-518.524" ay="-1"/>
+				<position x="61.787" z="-516.820" ay="-1"/>
+				<position x="63.445" z="-522.098" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="158381193E8E4BE882F8411FA3EDCE87" x="146.181" y="234.041" z="-911.320" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_037" ay="-1" amount="2" refreshtime="180" desc="鹌鹑">
+				<position x="148.252" z="-914.656" ay="-1"/>
+				<position x="143.895" z="-908.148" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="25844D868268466AAB77163E7DE0696F" x="-1319.824" y="89.446" z="-435.026" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_021" ay="-1" amount="3" refreshtime="180" NotPositive="0" desc="百花蛇">
+				<position x="-1323.034" z="-435.792" ay="-1"/>
+				<position x="-1317.940" z="-436.892" ay="-1"/>
+				<position x="-1318.933" z="-431.778" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="5E0C82AC03564D31B88BE676FEFA7D19" x="-1525.165" y="83.257" z="-739.160" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_013" ay="-1" amount="3" refreshtime="180" desc="遗迹蟒蛇">
+				<position x="-1529.452" z="-738.416" ay="-1"/>
+				<position x="-1525.414" z="-736.405" ay="-1"/>
+				<position x="-1522.187" z="-736.931" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="6CA6FC6659C344F581640B9A4FA27BF3" x="-1558.837" y="85.287" z="-743.768" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_013" ay="-1" amount="3" refreshtime="180" desc="遗迹蟒蛇">
+				<position x="-1562.493" z="-742.573" ay="-1"/>
+				<position x="-1557.904" z="-741.696" ay="-1"/>
+				<position x="-1554.706" z="-743.489" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="036DECA3B8F14A1389CB35F31620FFA5" x="-1630.347" y="89.320" z="-711.387" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_013" ay="-1" amount="5" refreshtime="180" desc="遗迹蟒蛇">
+				<position x="-1632.988" z="-707.848" ay="-1"/>
+				<position x="-1629.712" z="-707.677" ay="-1"/>
+				<position x="-1626.386" z="-709.760" ay="-1"/>
+				<position x="-1627.124" z="-713.897" ay="-1"/>
+				<position x="-1630.819" z="-711.886" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="975BFECDABC9477E863575C94054AB67" x="-1722.103" y="83.126" z="-593.874" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_013" ay="-1" amount="3" refreshtime="180" desc="遗迹蟒蛇">
+				<position x="-1719.733" z="-591.052" ay="-1"/>
+				<position x="-1721.925" z="-594.349" ay="-1"/>
+				<position x="-1723.432" z="-597.822" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="550B7019ACEC47D281E24469414ED04A" x="-1552.088" y="90.398" z="-505.131" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_013" ay="-1" amount="3" refreshtime="180" desc="遗迹蟒蛇">
+				<position x="-1548.292" z="-504.685" ay="-1"/>
+				<position x="-1553.877" z="-508.930" ay="-1"/>
+				<position x="-1554.198" z="-504.121" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="E0524ADA18D84B1F811A8E477250C142" x="-1463.150" y="90.037" z="-461.339" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_013" ay="-1" amount="3" refreshtime="180" desc="遗迹蟒蛇">
+				<position x="-1459.004" z="-461.535" ay="-1"/>
+				<position x="-1466.534" z="-463.495" ay="-1"/>
+				<position x="-1464.431" z="-458.459" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="C241441A50D142D8860D527DBD7A94F5" x="-1384.460" y="91.153" z="-412.709" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_009" ay="-1" amount="3" refreshtime="180" NotPositive="0" desc="波环眼蛇">
+				<position x="-1381.110" z="-414.855" ay="-1"/>
+				<position x="-1385.837" z="-415.214" ay="-1"/>
+				<position x="-1387.784" z="-413.585" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="80CAF22B79F44256AB8642614BBECCED" x="-1624.368" y="105.634" z="-675.830" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_009" ay="-1" amount="3" refreshtime="180" NotPositive="0" desc="波环眼蛇">
+				<position x="-1622.125" z="-674.437" ay="-1"/>
+				<position x="-1624.069" z="-679.716" ay="-1"/>
+				<position x="-1627.587" z="-675.577" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="218CEA402EE54B1C90E1DEA32A82D9DC" x="-1560.582" y="78.931" z="-841.886" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_009" ay="-1" amount="3" refreshtime="180" NotPositive="0" desc="波环眼蛇">
+				<position x="-1557.709" z="-841.586" ay="-1"/>
+				<position x="-1562.341" z="-839.389" ay="-1"/>
+				<position x="-1562.150" z="-844.730" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="46D524B05BB94AACB604C112BAF81E9E" x="-1487.473" y="115.293" z="-999.367" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_009" ay="-1" amount="3" refreshtime="180" NotPositive="0" desc="波环眼蛇">
+				<position x="-1484.714" z="-1001.149" ay="-1"/>
+				<position x="-1487.770" z="-995.996" ay="-1"/>
+				<position x="-1490.648" z="-1001.194" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="8053709A51944216889565C6AD6F2F7D" x="106.860" y="141.363" z="-608.808" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="108.371" z="-610.128" ay="-1"/>
+				<position x="109.318" z="-607.516" ay="-1"/>
+				<position x="104.140" z="-607.384" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="714FE3F63F054426BA7C41A1C9F63273" x="104.239" y="102.783" z="-545.220" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="107.612" z="-542.520" ay="-1"/>
+				<position x="103.358" z="-548.675" ay="-1"/>
+				<position x="101.940" z="-542.986" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="F3C24E5DC09E480F9E5070E5D2AA127E" x="212.236" y="120.398" z="-646.519" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="216.292" z="-647.155" ay="-1"/>
+				<position x="212.542" z="-649.112" ay="-1"/>
+				<position x="209.426" z="-648.217" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="3736D830E8334DC0BB6E306E234D6A8D" x="172.073" y="153.208" z="-738.849" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="175.309" z="-736.901" ay="-1"/>
+				<position x="171.663" z="-741.601" ay="-1"/>
+				<position x="169.805" z="-737.569" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="D93E00CA7797452A810059163E2E9EA1" x="1386.067" y="94.044" z="-1645.116" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="1384.335" z="-1642.563" ay="-1"/>
+				<position x="1383.447" z="-1646.922" ay="-1"/>
+				<position x="1388.687" z="-1646.443" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="5F03C7A5B8EE42B0ACD0298CDEFED4A8" x="1334.654" y="86.087" z="-1663.297" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="1337.393" z="-1663.932" ay="-1"/>
+				<position x="1331.535" z="-1664.839" ay="-1"/>
+				<position x="1334.354" z="-1660.200" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="BA2B5B679EB4408C9A38D28DADBF987D" x="1340.850" y="66.880" z="-1597.413" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="1342.558" z="-1594.929" ay="-1"/>
+				<position x="1338.328" z="-1596.977" ay="-1"/>
+				<position x="1340.122" z="-1599.335" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="4EE0123F1E6146F5B26EF26636DCD514" x="1428.343" y="83.056" z="-1472.444" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="1431.777" z="-1469.502" ay="-1"/>
+				<position x="1429.469" z="-1475.492" ay="-1"/>
+				<position x="1426.723" z="-1470.757" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="44FE703CEE20441DB510E72DF821F428" x="1435.036" y="61.894" z="-1339.105" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="1435.371" z="-1335.485" ay="-1"/>
+				<position x="1438.188" z="-1341.658" ay="-1"/>
+				<position x="1433.978" z="-1339.872" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="F47EF3238F6B470BA97BA4A8603DD801" x="1456.552" y="59.052" z="-1291.197" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="1456.745" z="-1294.566" ay="-1"/>
+				<position x="1458.414" z="-1290.824" ay="-1"/>
+				<position x="1459.207" z="-1288.943" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="E3DBC27D650E477893C1A0D4D6B8E8D8" x="1474.005" y="79.111" z="-1365.439" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="1477.310" z="-1364.012" ay="-1"/>
+				<position x="1475.693" z="-1367.154" ay="-1"/>
+				<position x="1471.953" z="-1368.578" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="7467EB799BF5465CAD45C55C5B48FEC2" x="1243.375" y="64.316" z="-1226.341" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="1245.567" z="-1228.805" ay="-1"/>
+				<position x="1243.598" z="-1226.151" ay="-1"/>
+				<position x="1241.188" z="-1224.080" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="C08763255BAF4E849174C7E2BFA50DFD" x="1184.821" y="71.469" z="-1208.315" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="1187.757" z="-1210.823" ay="-1"/>
+				<position x="1184.590" z="-1210.465" ay="-1"/>
+				<position x="1181.796" z="-1207.483" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="B709A4F153E940BB966B950DA02DC7AC" x="1108.806" y="91.710" z="-1252.140" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="1110.518" z="-1250.479" ay="-1"/>
+				<position x="1110.041" z="-1255.011" ay="-1"/>
+				<position x="1106.588" z="-1252.990" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="882BF3789F354EBEB49CCE7BBF15522F" x="963.859" y="74.919" z="-1320.575" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="968.142" z="-1321.471" ay="-1"/>
+				<position x="965.200" z="-1323.753" ay="-1"/>
+				<position x="961.870" z="-1324.239" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="1594099A302A48B5A7BF9190709773C0" x="1501.651" y="193.730" z="-642.462" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="1502.133" z="-638.925" ay="-1"/>
+				<position x="1501.375" z="-642.278" ay="-1"/>
+				<position x="1499.378" z="-644.575" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="4FD6B1634D704365941BE97AEA95376A" x="1499.582" y="124.333" z="-749.944" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="1500.542" z="-746.590" ay="-1"/>
+				<position x="1497.115" z="-747.906" ay="-1"/>
+				<position x="1496.744" z="-750.970" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="7BB5507D60F9481589DB70CDECB34627" x="1619.454" y="103.796" z="-861.669" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="1615.778" z="-861.396" ay="-1"/>
+				<position x="1619.111" z="-864.399" ay="-1"/>
+				<position x="1621.903" z="-860.231" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="55F1E31CEA6F4B07AEB676B230F97218" x="1760.854" y="78.286" z="-863.156" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="1758.869" z="-862.240" ay="-1"/>
+				<position x="1759.478" z="-865.480" ay="-1"/>
+				<position x="1763.566" z="-862.454" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="9D71082A3A784CF8B4906FE3B97D72E1" x="1814.344" y="82.148" z="-816.259" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="1811.506" z="-817.389" ay="-1"/>
+				<position x="1814.994" z="-812.723" ay="-1"/>
+				<position x="1816.502" z="-816.387" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="45BC60DF2A44447D8B5842AB194DD0D3" x="1528.540" y="57.736" z="-229.253" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="1526.182" z="-227.162" ay="-1"/>
+				<position x="1528.733" z="-226.500" ay="-1"/>
+				<position x="1530.964" z="-229.655" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="2E7537FB7D464A79A3D45B9968F4DB3C" x="1530.826" y="67.114" z="125.627" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="1527.981" z="124.967" ay="-1"/>
+				<position x="1529.349" z="129.071" ay="-1"/>
+				<position x="1533.265" z="127.812" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="C01190DCA02B4ACD81F8EBDF34D3BCC0" x="1596.273" y="83.584" z="216.417" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="1594.219" z="215.558" ay="-1"/>
+				<position x="1597.045" z="214.499" ay="-1"/>
+				<position x="1597.738" z="218.830" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="7E804D7026D242758E97A9CA1F5D1A58" x="1716.432" y="74.735" z="325.710" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="1715.110" z="323.203" ay="-1"/>
+				<position x="1714.752" z="328.210" ay="-1"/>
+				<position x="1719.977" z="326.048" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="0AE4994AFA41427B83309FB2471D2066" x="222.455" y="68.375" z="-1870.894" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="225.508" z="-1868.919" ay="-1"/>
+				<position x="223.165" z="-1873.954" ay="-1"/>
+				<position x="220.721" z="-1872.933" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="4B57B4B2A6824CC8B70A6283044D0390" x="208.543" y="60.480" z="-1923.359" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="210.099" z="-1921.119" ay="-1"/>
+				<position x="206.378" z="-1921.615" ay="-1"/>
+				<position x="211.741" z="-1926.214" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="0ADE1648C4714779B69A7E26A5593698" x="267.514" y="56.080" z="-1827.082" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="267.338" z="-1829.855" ay="-1"/>
+				<position x="269.799" z="-1828.453" ay="-1"/>
+				<position x="267.226" z="-1824.367" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="F2ABF31F36E4480989480CA73084DE2B" x="-116.518" y="61.081" z="-1843.534" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="-113.634" z="-1845.339" ay="-1"/>
+				<position x="-116.498" z="-1845.193" ay="-1"/>
+				<position x="-120.136" z="-1841.812" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="0D1D2493AC0F4C84A5D18F5872D9A3DF" x="-167.680" y="71.446" z="-1928.527" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="-164.145" z="-1928.180" ay="-1"/>
+				<position x="-167.486" z="-1931.315" ay="-1"/>
+				<position x="-170.563" z="-1930.197" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="0F3D1BD0480A4BE1B8B517F2FE9B4F5D" x="-350.685" y="66.977" z="-2037.494" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="-348.391" z="-2034.789" ay="-1"/>
+				<position x="-351.103" z="-2035.568" ay="-1"/>
+				<position x="-351.911" z="-2039.423" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="EA2A68EC661A4A92BFBF616F6325A410" x="-439.143" y="84.223" z="-2129.614" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="-437.350" z="-2128.129" ay="-1"/>
+				<position x="-440.028" z="-2131.994" ay="-1"/>
+				<position x="-441.938" z="-2127.948" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="2E538211B18540339939657E9D7AEFB0" x="-896.859" y="90.847" z="-991.830" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="-898.788" z="-990.091" ay="-1"/>
+				<position x="-894.428" z="-990.049" ay="-1"/>
+				<position x="-893.715" z="-992.603" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="0BEE675FD4374B1092F98F0710A2B976" x="-881.076" y="56.284" z="-809.380" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="-877.604" z="-808.946" ay="-1"/>
+				<position x="-881.435" z="-810.964" ay="-1"/>
+				<position x="-883.647" z="-808.702" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="8D77C643141F4E1CB93082C9FAA8EF0D" x="990.699" y="78.621" z="232.711" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="994.319" z="231.509" ay="-1"/>
+				<position x="990.889" z="231.222" ay="-1"/>
+				<position x="988.295" z="232.188" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="B85B429867894482AA34371A38DDF018" x="873.544" y="75.984" z="179.580" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="873.757" z="176.665" ay="-1"/>
+				<position x="870.678" z="177.544" ay="-1"/>
+				<position x="872.628" z="181.431" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="614401D861604F4B844C8294E0752589" x="209.430" y="75.462" z="232.110" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="211.587" z="235.000" ay="-1"/>
+				<position x="210.231" z="229.180" ay="-1"/>
+				<position x="208.163" z="228.928" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="82E43417E97B4DDB9F632D0C003FC740" x="228.210" y="58.359" z="143.073" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="226.371" z="144.847" ay="-1"/>
+				<position x="225.411" z="141.567" ay="-1"/>
+				<position x="230.316" z="141.823" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="ECE55A64B543414A86ECA10BD1E98BD5" x="177.030" y="60.014" z="107.779" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="173.646" z="109.374" ay="-1"/>
+				<position x="178.054" z="109.860" ay="-1"/>
+				<position x="180.182" z="107.386" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="B87665F3403949DBAEBF40FF89547D80" x="1003.292" y="66.307" z="1023.724" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="999.849" z="1024.943" ay="-1"/>
+				<position x="1005.811" z="1025.799" ay="-1"/>
+				<position x="1004.181" z="1021.807" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="8B069ADC85A34A088690251D322A5B70" x="1015.648" y="72.180" z="1134.099" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="1019.171" z="1136.340" ay="-1"/>
+				<position x="1014.482" z="1137.672" ay="-1"/>
+				<position x="1017.771" z="1132.074" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="7A898D40784D410EA99187A962627F1A" x="1060.858" y="173.631" z="1359.224" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="1064.479" z="1360.745" ay="-1"/>
+				<position x="1060.391" z="1355.631" ay="-1"/>
+				<position x="1059.258" z="1360.624" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="1C7F5388BA924DE9A7ED3ACD924F674E" x="-34.682" y="73.533" z="1420.626" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="-32.536" z="1418.131" ay="-1"/>
+				<position x="-36.745" z="1418.705" ay="-1"/>
+				<position x="-34.225" z="1422.471" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="6A73BFBD1C1C45BBAAA275F68693C769" x="-70.155" y="77.154" z="1394.975" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="-68.615" z="1396.015" ay="-1"/>
+				<position x="-67.135" z="1395.885" ay="-1"/>
+				<position x="-73.411" z="1395.537" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="E265477B2AEA464D8D463D0B8C85E753" x="-216.478" y="85.261" z="1275.948" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="-213.494" z="1276.153" ay="-1"/>
+				<position x="-217.650" z="1272.176" ay="-1"/>
+				<position x="-219.231" z="1275.134" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="A3A61E4DA96C4B82BD59622756701E39" x="-215.903" y="97.807" z="1162.298" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="-212.843" z="1164.019" ay="-1"/>
+				<position x="-215.186" z="1160.488" ay="-1"/>
+				<position x="-216.714" z="1159.139" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="84B003FBC68B4290AA6164F7F8FA251E" x="-89.578" y="83.997" z="1120.646" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="-93.419" z="1121.999" ay="-1"/>
+				<position x="-88.228" z="1123.205" ay="-1"/>
+				<position x="-88.432" z="1118.401" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="5815E9489ED546AD85F89FEA559F5B41" x="187.538" y="80.319" z="1353.153" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="187.837" z="1357.401" ay="-1"/>
+				<position x="189.743" z="1355.365" ay="-1"/>
+				<position x="187.577" z="1352.318" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="1B08A2D1A726496A9F07C5B11D025E7B" x="-1154.034" y="84.683" z="1048.751" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="-1153.394" z="1045.642" ay="-1"/>
+				<position x="-1157.445" z="1049.975" ay="-1"/>
+				<position x="-1153.511" z="1050.721" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="0FB13F9297A647F6930C5A67F0BC6927" x="-1224.750" y="91.526" z="1125.951" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="-1225.934" z="1123.235" ay="-1"/>
+				<position x="-1222.249" z="1123.476" ay="-1"/>
+				<position x="-1227.078" z="1127.487" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="D1E65B3BDE804B91B9E3F7FA9C5DFE02" x="-1178.524" y="126.193" z="1285.937" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="-1180.473" z="1288.892" ay="-1"/>
+				<position x="-1176.361" z="1286.807" ay="-1"/>
+				<position x="-1176.413" z="1283.636" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="DE4B8DF300BD4593B6877F9A790C800A" x="-1426.598" y="63.292" z="979.904" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="-1427.264" z="983.602" ay="-1"/>
+				<position x="-1424.012" z="980.695" ay="-1"/>
+				<position x="-1424.081" z="977.645" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="C3C0A0AC31C146A0992678E25D3F4F0A" x="-1388.074" y="72.162" z="820.872" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="-1385.060" z="821.638" ay="-1"/>
+				<position x="-1390.013" z="818.903" ay="-1"/>
+				<position x="-1387.903" z="824.508" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="DE2C7BE9AC6D49E4A832D3F9DFDCA1DC" x="-1132.681" y="54.338" z="731.217" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_040" ay="-1" amount="3" refreshtime="180" desc="大蟒蛇">
+				<position x="-1135.206" z="734.312" ay="-1"/>
+				<position x="-1130.105" z="730.876" ay="-1"/>
+				<position x="-1133.966" z="728.820" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="73307989EB1644328E0090D51C96CCA2" x="-112.678" y="117.597" z="-904.892" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_043" ay="-1" amount="3" refreshtime="180" desc="野兔">
+				<position x="-111.459" z="-907.384" ay="-1"/>
+				<position x="-116.152" z="-905.280" ay="-1"/>
+				<position x="-111.082" z="-901.758" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="26F54A4ECDB74FAFB9617830F6C5FF96" x="-109.633" y="121.911" z="-920.537" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_043" ay="-1" amount="3" refreshtime="180" desc="野兔">
+				<position x="-110.000" z="-923.710" ay="-1"/>
+				<position x="-112.834" z="-920.705" ay="-1"/>
+				<position x="-108.408" z="-917.842" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="EB172C477E8B4D8FA7752BBB0FDB573A" x="-87.080" y="124.758" z="-925.921" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_043" ay="-1" amount="3" refreshtime="180" desc="野兔">
+				<position x="-88.022" z="-928.793" ay="-1"/>
+				<position x="-91.266" z="-924.010" ay="-1"/>
+				<position x="-86.569" z="-923.019" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="C70E1877CE99467A81C704B895717A0F" x="148.162" y="117.419" z="-508.409" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="xiakedao_attacknpc_043" ay="-1" amount="3" refreshtime="180" desc="野兔">
+				<position x="148.590" z="-504.763" ay="-1"/>
+				<position x="145.592" z="-507.957" ay="-1"/>
+				<position x="149.468" z="-511.097" ay="-1"/>
+			</item>
+		</creator>
+        <creator No="8589D804160C47EBAC018AAB2176D546" x="1372.784" y="86.903" z="-1699.677" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="xiakedao_attacknpc_014" ay="-1" amount="3" refreshtime="180" NotPositive="0" desc="毒蜘蛛">
+                <position x="1369.490" z="-1701.093" ay="-1" />
+                <position x="1372.103" z="-1702.880" ay="-1" />
+                <position x="1370.468" z="-1698.304" ay="-1" />
+            </item>
+        </creator>
+        <creator No="E39424D19386441E8765794ACE3583EF" x="1296.195" y="83.468" z="-1716.076" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="xiakedao_attacknpc_063" ay="-1" amount="1" refreshtime="180" desc="母猪" />
+        </creator>
+        <creator No="4362F61A753B4E87A1D964536FEEA497" x="1117.363" y="50.552" z="-1708.410" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="xiakedao_attacknpc_039" ay="-1" amount="3" refreshtime="180" desc="麻鸭">
+                <position x="1114.787" z="-1706.953" ay="-1" />
+                <position x="1115.519" z="-1710.794" ay="-1" />
+                <position x="1118.884" z="-1707.076" ay="-1" />
+            </item>
+        </creator>
+        <creator No="C907C6ACA8F14A6FBEADD66529F131F3" x="1331.866" y="50.737" z="-1544.466" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="xiakedao_attacknpc_036" ay="-1" amount="3" refreshtime="180" desc="绿头鸭">
+                <position x="1332.717" z="-1541.958" ay="-1" />
+                <position x="1328.969" z="-1544.957" ay="-1" />
+                <position x="1333.219" z="-1546.819" ay="-1" />
+            </item>
+        </creator>
+        <creator No="DC7937327D334F30B6D521AF6EE60B5F" x="1391.980" y="50.973" z="-1419.021" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="xiakedao_attacknpc_036" ay="-1" amount="3" refreshtime="180" desc="绿头鸭">
+                <position x="1392.597" z="-1415.822" ay="-1" />
+                <position x="1389.329" z="-1418.863" ay="-1" />
+                <position x="1393.344" z="-1421.356" ay="-1" />
+            </item>
+        </creator>
+        <creator No="D82C8588551C4355B0AE0B6B88B32E8A" x="1485.909" y="53.171" z="-1664.420" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="xiakedao_attacknpc_036" ay="-1" amount="3" refreshtime="180" desc="绿头鸭">
+                <position x="1486.803" z="-1666.611" ay="-1" />
+                <position x="1489.380" z="-1664.024" ay="-1" />
+                <position x="1485.119" z="-1662.034" ay="-1" />
+            </item>
+        </creator>
+        <creator No="B4DED92638D44DA09C32F6335845E0F1" x="1136.459" y="50.919" z="-1388.086" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="xiakedao_attacknpc_039" ay="-1" amount="3" refreshtime="180" desc="麻鸭">
+                <position x="1133.517" z="-1387.363" ay="-1" />
+                <position x="1135.940" z="-1390.591" ay="-1" />
+                <position x="1139.052" z="-1387.148" ay="-1" />
+            </item>
+        </creator>
+        <creator No="AB561370ECEE45B496F193361B47CD43" x="1026.294" y="77.367" z="-1355.607" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="xiakedao_attacknpc_022" ay="-1" amount="3" refreshtime="180" NotPositive="0" desc="蜈蚣">
+                <position x="1023.584" z="-1354.524" ay="-1" />
+                <position x="1026.082" z="-1358.222" ay="-1" />
+                <position x="1029.422" z="-1354.802" ay="-1" />
+            </item>
+        </creator>
+        <creator No="D9A07518299A44E49E41C1247717FA71" x="307.833" y="50.714" z="-1960.662" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="xiakedao_attacknpc_036" ay="-1" amount="3" refreshtime="180" desc="绿头鸭">
+                <position x="305.880" z="-1958.787" ay="-1" />
+                <position x="305.159" z="-1960.473" ay="-1" />
+                <position x="309.576" z="-1958.700" ay="-1" />
+            </item>
+        </creator>
+        <creator No="E8FE4A2C0EBD48A0BD0103F247C7B851" x="-135.519" y="82.250" z="-1950.435" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="xiakedao_attacknpc_002" ay="-1" amount="3" refreshtime="180" desc="野狼">
+                <position x="-136.622" z="-1952.936" ay="-1" />
+                <position x="-132.527" z="-1951.115" ay="-1" />
+                <position x="-137.893" z="-1948.138" ay="-1" />
+            </item>
+        </creator>
+        <creator No="FF61298975584292B5F458B9BC94E426" x="-54.633" y="60.856" z="-1872.058" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="xiakedao_attacknpc_002" ay="-1" amount="3" refreshtime="180" desc="野狼">
+                <position x="-55.970" z="-1873.883" ay="-1" />
+                <position x="-51.810" z="-1874.774" ay="-1" />
+                <position x="-54.314" z="-1868.028" ay="-1" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

@@ -1,0 +1,109 @@
+NPC编号	对象类型	名称	模型编号	脚本编号	AI编号	巡逻模式	寻路是是否转向	走路速度	跑步速度	路径编号	NPC类型	NPC种类ID	响应范围	是否可见	是否可被攻击	是否需要判断高度	Y轴上多近的距离才算触发	是否需要判断矩形触发范围	矩形的边长	矩形的边宽	AI编辑包	存在时间
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	script	Name	Resource	LuaScript	AITemplate	PatrolMode	MotionNoRotate	WalkSpeed	RunSpeed	PathID	NpcType	CKindID	SpringRange	Invisible	CantBeAttack	NeedYAxisTrigger	Ydistance	NeedRectRangeTrigger	RectLength	RectBoard	AIEditorPackID	LifeTime
+																						
+leitai_yanjing_area_controller	TriggerNpc	燕京擂台区域控制器	npc\itemnpc057	npc\leitai\yangjing_area_controller.lua							91	4	18	1	1	1	3	1	30	30		
+qiyu_shaolin_area_controller	TriggerNpc	少林奇遇区域触发器	npc\itemnpc057m	Adventure\qiyu_shaolin_area_controller.lua 							93	4	18	0	0	1	3	1	30	30		
+																						
+smoketg	TriggerNpc	烟雾弹	npc\itemnpc057								202	4	10	0	1			0				
+smoketg1	TriggerNpc	烟雾弹	npc\itemnpc057								202	4	10	0	1			0				
+Jhbianjie	TriggerNpc	江湖BOSS边界	npc\itemnpc057								202	4	20	0	1			0				720000
+huashan_kick1	TriggerNpc	华山论剑踢人控制器	npc\itemnpc057								202	4	5	1	1						1270	
+huashan_kick2	TriggerNpc	华山论剑踢人控制器	npc\itemnpc057								202	4	10	1	1						1270	
+huashan_kick3	TriggerNpc	华山论剑踢人控制器	npc\itemnpc057								202	4	20	1	1						1270	
+huashan_kick4	TriggerNpc	华山论剑踢人控制器	npc\itemnpc057								202	4	30	1	1						1270	
+huashan_kick5	TriggerNpc	华山论剑踢人控制器	npc\itemnpc057								202	4	50	1	1						1270	
+huashan_kick6	TriggerNpc	华山论剑踢人控制器	npc\itemnpc057								202	4	80	1	1						1270	
+huashan_kick7	TriggerNpc	华山论剑踢人控制器	npc\itemnpc057								202	4	20	1	1						1424	
+																						
+groupfight001	TriggerNpc	分组战斗标记	npc\itemnpc057_city05war_fight								202	4	1	0	1			0				30000
+groupfight002	TriggerNpc	分组战斗标记	npc\itemnpc057_city05war_fight								202	4	1	0	1			0				30000
+groupfight003	TriggerNpc	分组战斗标记	npc\itemnpc057_city05war_fight								202	4	1	0	1			0				30000
+groupfight004	TriggerNpc	分组战斗标记	npc\itemnpc057_city05war_fight								202	4	1	0	1			0				30000
+groupfight005	TriggerNpc	分组战斗标记	npc\itemnpc057_city05war_fight								202	4	1	0	1			0				30000
+helpfight001	TriggerNpc	分组战斗标记	npc\itemnpc057_city05war_baozi								202	4	1	0	1			0				30000
+helpfight002	TriggerNpc	分组战斗标记	npc\itemnpc057_city05war_dabaozi								202	4	1	0	1			0				30000
+helpfight003	TriggerNpc	分组战斗标记	npc\itemnpc057_city05war_hehua								202	4	1	0	1			0				30000
+helpfight004	TriggerNpc	分组战斗标记	npc\itemnpc057_city05war_renshen								202	4	1	0	1			0				30000
+city03war001	TriggerNpc	回收掌门	npc\itemnpc057								202	4	10	0	1			0				
+city03war002	TriggerNpc	回收叛军	npc\itemnpc780								202	4	10	0	1			0				
+city03war003	TriggerNpc	回收千情公子	npc\itemnpc780								202	4	10	0	1			0				
+city03war004a1	TriggerNpc	进度路标	npc\itemnpc057								202	4	10	0	1			0				
+city03war004a2	TriggerNpc	进度路标	npc\itemnpc057								202	4	10	0	1			0				
+city03war004a3	TriggerNpc	进度路标	npc\itemnpc057								202	4	10	0	1			0				
+city03war004a4	TriggerNpc	进度路标	npc\itemnpc057								202	4	10	0	1			0				
+city03war004a5	TriggerNpc	进度路标	npc\itemnpc057								202	4	10	0	1			0				
+city03war004b1	TriggerNpc	进度路标	npc\itemnpc057								202	4	10	0	1			0				
+city03war004b2	TriggerNpc	进度路标	npc\itemnpc057								202	4	10	0	1			0				
+city03war004b3	TriggerNpc	进度路标	npc\itemnpc057								202	4	10	0	1			0				
+city03war004b4	TriggerNpc	进度路标	npc\itemnpc057								202	4	10	0	1			0				
+city03war004b5	TriggerNpc	进度路标	npc\itemnpc057								202	4	10	0	1			0				
+city03war004c1	TriggerNpc	进度路标	npc\itemnpc057								202	4	10	0	1			0				
+city03war004c2	TriggerNpc	进度路标	npc\itemnpc057								202	4	10	0	1			0				
+city03war004c3	TriggerNpc	进度路标	npc\itemnpc057								202	4	10	0	1			0				
+city03war004c4	TriggerNpc	进度路标	npc\itemnpc057								202	4	10	0	1			0				
+city03war004c5	TriggerNpc	进度路标	npc\itemnpc057								202	4	10	0	1			0				
+city03war004d1	TriggerNpc	进度路标	npc\itemnpc057								202	4	10	0	1			0				
+city03war004d2	TriggerNpc	进度路标	npc\itemnpc057								202	4	10	0	1			0				
+city03war004d3	TriggerNpc	进度路标	npc\itemnpc057								202	4	10	0	1			0				
+city03war004d4	TriggerNpc	进度路标	npc\itemnpc057								202	4	10	0	1			0				
+city03war004d5	TriggerNpc	进度路标	npc\itemnpc057								202	4	10	0	1			0				
+																						
+sign_help02	TriggerNpc	千情出场动画	npc\itemnpc057								202	4	10	0	1			0				
+																						
+smokebombyhg	TriggerNpc	烟雾弹	npc\itemnpc057								202	4	10	0	1			0				
+tg_help01	TriggerNpc	鸡血石佛	npc\npcitem685								202	4	10	0	1			0				
+																						
+yhgtaofa_huoyan1	TriggerNpc	火焰1	npc\guildeffect003								52	4	0	0	1			0			2419	
+yhgtaofa_huoyan2	TriggerNpc	火焰2	npc\guildeffect008								52	4	0	0	1			0			2419	
+yhgtaofa_huoyan3	TriggerNpc	火焰3	npc\guildeffect002								52	4	0	0	1			0			2419	
+yhgtaofa_huoyan4	TriggerNpc	火焰4	npc\guildeffect001								52	4	0	0	1			0			2419	
+																						
+																						
+		//无根门																				
+Trigger_wgm_001	TriggerNpc	宝箱刷新点	npc\itemnpc057								202	4	20	1	1			0				
+Trigger_wgm_002	TriggerNpc	修罗道怪物1刷新点	npc\itemnpc057								202	4	20	1	1			0				
+Trigger_wgm_003	TriggerNpc	修罗道怪物2刷新点	npc\itemnpc057								202	4	20	1	1			0				
+Trigger_wgm_004	TriggerNpc	信号弹使用地点1	npc\itemnpc057								202	4	20	1	1			0				
+Trigger_wgm_005	TriggerNpc	信号弹使用地点2	npc\itemnpc057								202	4	20	1	1			0				
+Trigger_wgm_006	TriggerNpc	信号弹使用地点3	npc\itemnpc057								202	4	20	1	1			0				
+Trigger_wgm_007	TriggerNpc	进入徐家庄分组场景NPC	npc\itemnpc057								202	4	20	1	1			0				
+Trigger_wgm_008	TriggerNpc	进入金针沈家分组场景NPC	npc\itemnpc057								202	4	20	1	1			0				
+Trigger_wgm_009	TriggerNpc	进入万兽山庄分组场景NPC	npc\itemnpc057								202	4	20	1	1			0				
+Trigger_wgm_010	TriggerNpc	离开徐家庄分组场景NPC	npc\itemnpc057								202	4	20	1	1			0				
+Trigger_wgm_011	TriggerNpc	离开金针沈家分组场景NPC	npc\itemnpc057								202	4	20	1	1			0				
+Trigger_wgm_012	TriggerNpc	离开万兽山庄分组场景NPC	npc\itemnpc057								202	4	20	1	1			0				
+Trigger_wgm_013	TriggerNpc	进入巡逻分组场景NPC	npc\itemnpc057								202	4	20	1	1			0				
+Trigger_wgm_014	TriggerNpc	离开巡逻分组场景NPC	npc\itemnpc057								202	4	20	1	1			0				
+Trigger_wgm_015	TriggerNpc	进入金陵分组场景NPC	npc\itemnpc057								202	4	20	1	1			0				
+Trigger_wgm_016	TriggerNpc	离开金陵分组场景NPC	npc\itemnpc057								202	4	20	1	1			0				
+Trigger_wgm_017	TriggerNpc	进入无根门分组场景NPC	npc\itemnpc057								202	4	20	1	1			0				
+Trigger_wgm_018	TriggerNpc	离开无根门分组场景NPC	npc\itemnpc057								202	4	20	1	1			0				
+																						
+		//快活岛																				
+Trigger_khd_001	TriggerNpc	夺宝周期触发NPC	npc\itemnpc057								202	4	20	1	1			0				
+Trigger_khd_002	TriggerNpc	范围检测NPC	npc\itemnpc057								202	4	150	1	1			0				
+Trigger_khd_003	TriggerNpc	迷宫修罗道检测NPC	npc\itemnpc057								202	4	20	1	1			0				
+Trigger_khd_004	TriggerNpc	花球位置	npc\itemnpc057								202	4	20	1	1			0				
+																						
+		//移花宫势力BOSS																				
+yhgslboss001	TriggerNpc	回复类1	npc\itemnpc057_yhg05								202	4	2	0	1			0			2634	
+yhgslboss002	TriggerNpc	回复类2	npc\itemnpc057_yhg05								202	4	2	0	1			0			2635	
+yhgslboss003	TriggerNpc	回复类3	npc\itemnpc057_yhg05								202	4	2	0	1			0			2636	
+yhgslboss004	TriggerNpc	属性增益类1	npc\itemnpc057_yhg06								202	4	2	0	1			0			2703	
+yhgslboss005	TriggerNpc	移花宫势力BOSS使用5	npc\itemnpc057								202	4	5	0	1			0			2704	
+yhgslboss006	TriggerNpc	属性增益类2	npc\itemnpc057_yhg06								202	4	2	0	1			0			2696	
+yhgslboss007	TriggerNpc	属性增益类3	npc\itemnpc057_yhg06								202	4	2	0	1			0			2697	
+yhgslboss008	TriggerNpc	属性增益类4	npc\itemnpc057_yhg06								202	4	2	0	1			0			2698	
+yhgslboss009	TriggerNpc	免疫类1	npc\itemnpc057_yhg07								202	4	2	0	1			0			2699	
+yhgslboss010	TriggerNpc	免疫类2	npc\itemnpc057_yhg07								202	4	2	0	1			0			2700	
+yhgslboss011	TriggerNpc	免疫类3	npc\itemnpc057_yhg07								202	4	2	0	1			0			2701	
+yhgslboss012	TriggerNpc	免疫类3	npc\itemnpc057_yhg07								202	4	2	0	1			0			2702	
+yhgslboss013	TriggerNpc	传送门显示	npc\itemnpc057_yhg08								202	4	2	0	1			0				
+newworld_event_xiake_209	TriggerNpc	玄	npc\xktxd_005								52	4	0	0	1			0				
+newworld_event_xiake_210	TriggerNpc	赤	npc\xktxd_006								52	4	0	0	1			0				
+newworld_event_xiake_211	TriggerNpc	毒	npc\xktxd_007								52	4	0	0	1			0				
+newworld_event_xiake_213	TriggerNpc	剑	npc\xktxd_001								52	4	0	0	1			0				
+newworld_event_xiake_214	TriggerNpc	星河	npc\xktxd_002								52	4	0	0	1			0				
+newworld_event_xiake_215	TriggerNpc	火焰	npc\xktxd_003								52	4	0	0	1			0				2000
+newworld_event_xiake_216	TriggerNpc	黑洞	npc\xktxd_004								52	4	0	0	1			0				

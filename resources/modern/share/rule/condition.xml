@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Conditions>
+    <Condition name="CanParry" dest="能否防御" index="0">
+        <Args id="0">
+            <Arg type="8" />
+        </Args>
+        <And id="1">
+            <Prop id="2" entity="0" name="InParry" op="1" value="1" type="2" dest="防御标志为1说明在已经在防御状态中了，此处不可在防御状态中" />
+            <Prop id="2" entity="0" name="LogicState" op="0" value="1" type="2" dest="在战斗状态中" />
+            <Data id="3" entity="0" name="HitOutState" op="3" value="0" type="2" dest="允许防御状态" />
+            <Or id="4">
+                <Module id="5" name="SkillLockModule_IsLocked" not="1" dest="不可在技能锁定状态中">
+                    <Arg argument="0" dest="" />
+                </Module>
+                <Prop id="2" entity="0" name="CantParry" op="1" value="1" type="2" dest="不在 破防状态||禁止技能" />
+            </Or>
+            <And id="1">
+                <Type id="6" entity="0" type="2" op="0" dest="是玩家" />
+                <Or id="4">
+                    <Prop id="2" entity="0" name="OnTransToolState" op="0" value="0" type="2" dest="不在交通中" />
+                    <Prop id="2" entity="0" name="Mount" op="0" value="" type="6" dest="没坐上坐骑" />
+                </Or>
+            </And>
+            <Module id="5" name="BufferModule_FindBuffer" not="1" dest="找不到轻功移动中的buff">
+                <Arg argument="0" dest="加速轻功移动buffid" />
+                <Arg type="6" value="buf_qg_fast" dest="加速轻功移动buffid" />
+            </Module>
+            <Or id="4">
+                <Module id="5" name="FlowModule_IsAnyFlowing" not="1" dest="不在技能流程中">
+                    <Arg argument="0" />
+                </Module>
+                <Module id="5" name="FlowModule_IsPause" not="0" dest="技能流程暂停">
+                    <Arg argument="0" />
+                </Module>
+            </Or>
+        </And>
+    </Condition>
+    <Condition name="Can_SchoolWar_Translate_Bangzhu" dest="门派战帮派传送能否使用" index="1">
+        <Args id="0">
+            <Arg type="8" />
+        </Args>
+        <And id="1">
+            <Prop id="2" entity="0" name="IsInSchoolFight" op="0" value="1" type="2" dest="是否在门派战中" />
+            <Or id="4">
+                <Module id="5" name="GuildModule_IsGuildLeader" not="0" dest="是帮主">
+                    <Arg argument="0" />
+                </Module>
+                <Module id="5" name="GuildModule_IsGuildSubLeader" not="0" dest="是副帮主">
+                    <Arg argument="0" />
+                </Module>
+            </Or>
+        </And>
+    </Condition>
+    <Condition name="Can_SchoolWar_Translate_Zhangmen" dest="门派战掌门传送能否使用" index="2">
+        <Args id="0">
+            <Arg type="8" />
+        </Args>
+        <And id="1">
+            <Prop id="2" entity="0" name="IsInSchoolFight" op="0" value="1" type="2" dest="是否在门派战中" />
+            <Module id="5" name="SchoolPoseModule_IsSchoolZhangmen" not="0" dest="是掌门">
+                <Arg argument="0" />
+            </Module>
+        </And>
+    </Condition>
+    <Condition name="Can_SchoolWar_Translate_Zhanglao" dest="门派战长老传送能否使用" index="3">
+        <Args id="0">
+            <Arg type="8" />
+        </Args>
+        <And id="1">
+            <Prop id="2" entity="0" name="IsInSchoolFight" op="0" value="1" type="2" dest="是否在门派战中" />
+            <Module id="5" name="SchoolPoseModule_IsSchoolZhanglao" not="0" dest="是长老">
+                <Arg argument="0" />
+            </Module>
+        </And>
+    </Condition>
+    <Condition name="Can_SchoolWar_Translate_Zhishi" dest="门派战执事传送能否使用" index="4">
+        <Args id="0">
+            <Arg type="8" />
+        </Args>
+        <And id="1">
+            <Prop id="2" entity="0" name="IsInSchoolFight" op="0" value="1" type="2" dest="是否在门派战中" />
+            <Module id="5" name="SchoolPoseModule_IsSchoolZhishi" not="0" dest="是执事">
+                <Arg argument="0" />
+            </Module>
+        </And>
+    </Condition>
+    <Condition name="Can_SchoolWar_Be_Translate_Zhangmen" dest="门派战掌门传送" index="5">
+        <Args id="0">
+            <Arg type="8" />
+            <Arg type="6" />
+        </Args>
+        <And id="1">
+            <Prop id="2" entity="0" name="IsInSchoolFight" op="0" value="1" type="2" dest="是否在门派战中" />
+            <Module id="5" name="SchoolPoseModule_IsSameSchool" not="0" dest="是否为同一门派">
+                <Arg argument="0" />
+                <Arg argument="1" />
+            </Module>
+        </And>
+    </Condition>
+    <Condition name="Can_SchoolWar_Be_Translate_Zhanglao" dest="门派战长老传送" index="6">
+        <Args id="0">
+            <Arg type="8" />
+            <Arg type="7" />
+        </Args>
+        <And id="1">
+            <Prop id="2" entity="0" name="IsInSchoolFight" op="0" value="1" type="2" dest="是否在门派战中" />
+            <Module id="5" name="TeamModule_IsTeamMate" not="0" dest="是否为队友">
+                <Arg argument="0" />
+                <Arg argument="1" />
+            </Module>
+        </And>
+    </Condition>
+    <Condition name="Can_SchoolWar_Be_Translate_Zhishi" dest="门派战执事传送" index="7">
+        <Args id="0">
+            <Arg type="8" />
+            <Arg type="7" />
+        </Args>
+        <And id="1">
+            <Prop id="2" entity="0" name="IsInSchoolFight" op="0" value="1" type="2" dest="是否在门派战中" />
+            <Module id="5" name="TeamModule_GetTeamUnitList" not="0" dest="是否在同一小队">
+                <Arg argument="0" />
+                <Arg argument="1" />
+            </Module>
+        </And>
+    </Condition>
+    <Condition name="Can_SchoolWar_Be_Translate_Bangzhu" dest="门派战帮主传送" index="8">
+        <Args id="0">
+            <Arg type="8" />
+            <Arg type="7" />
+            <Arg type="2" />
+        </Args>
+        <And id="1">
+            <Prop id="2" entity="0" name="IsInSchoolFight" op="0" value="1" type="2" dest="是否在门派战中" />
+            <Module id="5" name="GuildModule_GetPlayerGuildName" not="0" dest="是否为同一帮派">
+                <Arg argument="0" />
+                <Arg argument="1" />
+            </Module>
+            <Module id="5" name="SchoolFightModule_GetSide" not="0" dest="在门派战中是否为同为一方">
+                <Arg argument="0" />
+                <Arg argument="2" />
+            </Module>
+        </And>
+    </Condition>
+    <Condition name="Can_Composite" dest="判断是否可以合成" index="9">
+        <Args id="0">
+            <Arg type="8" />
+            <Arg type="2" />
+        </Args>
+        <And id="1">
+            <Prop id="2" entity="0" name="FortuneTellingState" op="1" value="2" type="2" return="" dest="不在算卦" />
+            <Prop id="2" entity="0" name="StallState" op="0" value="0" type="2" return="1804" dest="不在摆摊" />
+            <Prop id="2" entity="0" name="Dead" op="1" value="1" type="2" return="1805" dest="没有死亡" />
+            <Prop id="2" entity="0" name="IsExchange" op="1" value="1" type="2" return="1803" dest="不在交易" />
+            <Prop id="2" entity="0" name="OnTransToolState" op="0" value="0" type="2" return="1810" dest="不在坐马车" />
+            <Prop id="2" entity="0" name="RideLinkState" op="1" value="2" type="2" return="1811" dest="没有坐别人的马" />
+            <Prop id="2" entity="0" name="Mount" op="0" value="" type="6" return="1811" dest="没坐上坐骑" />
+            <Prop id="2" entity="0" name="IsPenance" op="0" value="0" type="2" return="" dest="没有在悔过" />
+			<Prop id="2" entity="0" name="GameState" op="0" value="" type="6" return="" dest="不在小游戏" /> 
+            <Module id="5" name="SkillModule_IsInAir" not="1" return="" dest="不在空中">
+                <Arg argument="0" />
+            </Module>
+            <Module id="5" name="FlowModule_IsAnyFlowing" not="1" return="" dest="不在一个流程中">
+                <Arg argument="0" />
+            </Module>
+            <Module id="5" name="PlayerSeriousInjuryModule_IsInInjuredState" not="1" return="shenghuo1" dest="不处于重伤状态">
+                <Arg argument="0" />
+            </Module>
+            <Module id="5" name="MapMagModule_AreaLimit" not="1" return="71001" dest="不在区域限制内">
+                <Arg argument="0" />
+                <Arg argument="1" />
+            </Module>
+            <Module id="5" return="" dest="不在技能锁定状态中" name="SkillLockModule_IsLocked" not="1">
+                <Arg dest="self" argument="0" />
+            </Module>
+        </And>
+    </Condition>
+</Conditions>

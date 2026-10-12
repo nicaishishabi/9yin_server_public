@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="A5041093523C48D6BF8E308A41B4F320" x="411.496" y="28.205" z="654.164" radius="2.8" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="48" HateLink="1" CloneMode="0">
+            <item No="1" id="NpcClone019002p" ay="4.572" amount="1" refreshtime="-1" desc="极乐门初级守卫">
+                <position x="412.429" z="654.488" ay="4.572" WeaponMode="sword2_1" />
+            </item>
+            <item No="2" id="NpcClone019030p" ay="5.937" amount="1" refreshtime="-1" desc="极乐门初级守卫(远)">
+                <position x="410.438" z="653.310" ay="5.937" WeaponMode="hand4_1" />
+            </item>
+        </creator>
+        <creator No="EB1F45A9847C46A39955674757301C56" x="617.572" y="25.405" z="854.612" radius="5.9" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="0">
+            <item No="1" id="NpcClone019009p" ay="3.564" amount="1" refreshtime="-1" desc="毒使精兵">
+                <position x="618.779" z="855.621" ay="3.564" WeaponMode="hand1s_2" />
+            </item>
+            <item No="2" id="NpcClone019026p" ay="2.959" amount="2" refreshtime="-1" desc="毒使精兵(远)">
+                <position x="616.203" z="856.831" ay="2.959" WeaponMode="hand1s_2" />
+                <position x="614.850" z="855.137" ay="2.009" WeaponMode="hand1s_2" />
+            </item>
+            <item No="3" id="BossClone019015p" ay="5.889" amount="1" refreshtime="-1" desc="毒使死士">
+                <position x="617.502" z="853.614" ay="5.889" RandomAction="" WeaponName="b_r_npcitem329_default" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="945E8714AB1D46E39A5F7EB1BF70D67D" x="588.193" y="26.365" z="855.007" radius="5.9" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="0">
+            <item No="1" id="NpcClone019009p" ay="5.024" amount="1" refreshtime="-1" desc="毒使精兵">
+                <position x="589.066" z="851.542" ay="5.024" WeaponMode="hand1s_2" />
+            </item>
+            <item No="2" id="NpcClone019026p" ay="4.419" amount="1" refreshtime="-1" desc="毒使精兵(远)">
+                <position x="588.621" z="853.268" ay="4.419" WeaponMode="hand1s_2" />
+            </item>
+            <item No="3" id="BossClone019015p" ay="1.311" amount="1" refreshtime="-1" desc="毒使死士">
+                <position x="586.742" z="852.150" ay="1.311" RandomAction="" WeaponName="b_r_npcitem329_default" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="84D38B464FD64364A3DC5930119E683D" x="519.549" y="26.829" z="889.848" radius="5.9" WakeupRange="18.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="0">
+            <item No="1" id="NpcClone019009p" ay="2.454" amount="2" refreshtime="-1" desc="毒使精兵">
+                <position x="519.624" z="891.983" ay="2.454" WeaponMode="hand1s_2" />
+                <position x="522.106" z="890.079" ay="5.249" WeaponMode="hand1s_2" />
+            </item>
+            <item No="2" id="NpcClone019026p" ay="0.649" amount="2" refreshtime="-1" desc="毒使精兵(远)">
+                <position x="519.625" z="889.673" ay="0.649" WeaponMode="hand1s_2" />
+                <position x="522.115" z="892.431" ay="4.169" WeaponMode="hand1s_2" />
+            </item>
+        </creator>
+        <creator No="A8E80A03920745F6B76B98E80E54944D" x="603.015" y="64.498" z="934.627" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="0">
+            <item No="1" id="NpcClone019031p" ay="2.047" amount="2" refreshtime="-1" desc="极乐门隐秘弟子（远）">
+                <position x="601.224" z="934.017" ay="2.047" WeaponName="dk_rl_npcitem217" WeaponMode="dknife1_2" />
+                <position x="603.635" z="936.726" ay="2.737" WeaponName="dk_rl_npcitem217" WeaponMode="dknife1_2" />
+            </item>
+            <item No="2" id="NpcClone019032p" ay="5.070" amount="2" refreshtime="-1" desc="剑侍">
+                <position x="604.375" z="933.565" ay="5.070" WeaponName="s_r_npcitem223" WeaponMode="sword2_1" />
+            </item>
+            <item No="3" id="NpcClone019067p" ay="1.559" amount="2" refreshtime="-1" desc="剑侍">
+                <position x="601.135" z="936.462" ay="1.559" WeaponName="s_r_npcitem223" WeaponMode="sword2_1" />
+            </item>
+        </creator>
+        <creator No="DC689C06C6994A5E806159FC632C3D7D" x="617.986" y="72.402" z="978.283" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="0">
+            <item No="1" id="NpcClone019032p" ay="2.687" amount="1" refreshtime="-1" desc="剑侍">
+                <position x="616.404" z="980.012" ay="2.687" WeaponName="s_r_npcitem223" WeaponMode="sword2_1" />
+            </item>
+            <item No="2" id="NpcClone019067p" ay="2.210" amount="2" refreshtime="-1" desc="剑侍">
+                <position x="614.865" z="977.540" ay="2.210" WeaponName="s_r_npcitem223" WeaponMode="sword2_1" />
+                <position x="618.530" z="981.447" ay="2.227" WeaponName="s_r_npcitem223" WeaponMode="sword2_1" />
+            </item>
+            <item No="3" id="NpcClone019066p" ay="2.180" amount="1" refreshtime="-1" desc="剑卫">
+                <position x="619.802" z="974.719" ay="2.180" WeaponName="ds_rl_npcitem324" WeaponMode="dsword2_1" />
+            </item>
+        </creator>
+        <creator No="1DD1D47637674B03AB3ECADC0FD5B6B6" x="659.042" y="70.369" z="1025.007" radius="6.0" WakeupRange="18.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="0">
+            <item No="1" id="NpcClone019031p" ay="4.270" amount="1" refreshtime="-1" desc="极乐门隐秘弟子（远）">
+                <position x="658.787" z="1027.064" ay="4.270" WeaponName="dk_rl_npcitem217" WeaponMode="dknife1_2" />
+            </item>
+            <item No="2" id="NpcClone019032p" ay="0.412" amount="1" refreshtime="-1" desc="剑侍">
+                <position x="658.615" z="1022.601" ay="0.412" WeaponName="s_r_npcitem223" WeaponMode="sword2_1" />
+            </item>
+            <item No="3" id="NpcClone019011p" ay="4.270" amount="1" refreshtime="-1" desc="极乐门隐秘弟子">
+                <position x="661.122" z="1024.009" ay="4.270" WeaponName="dk_rl_npcitem217" WeaponMode="dknife1_2" />
+            </item>
+            <item No="4" id="NpcClone019067p" ay="1.760" amount="1" refreshtime="-1" desc="剑侍">
+                <position x="657.045" z="1024.902" ay="1.760" WeaponName="s_r_npcitem223" WeaponMode="sword2_1" />
+            </item>
+        </creator>
+        <creator No="1537F9561E7E49838E363DDE7ECC2AAC" x="711.769" y="74.465" z="1059.149" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="0">
+            <item No="1" id="NpcClone019011p" ay="2.910" amount="1" refreshtime="-1" desc="极乐门隐秘弟子">
+                <position x="711.948" z="1061.086" ay="2.910" WeaponName="dk_rl_npcitem217" WeaponMode="dknife1_2" />
+            </item>
+            <item No="2" id="NpcClone019031p" ay="3.100" amount="2" refreshtime="-1" desc="极乐门隐秘弟子（远）">
+                <position x="715.731" z="1061.158" ay="3.100" WeaponName="dk_rl_npcitem217" WeaponMode="dknife1_2" />
+                <position x="708.474" z="1059.839" ay="2.710" WeaponName="dk_rl_npcitem217" WeaponMode="dknife1_2" />
+            </item>
+            <item No="3" id="BossClone019023p" ay="2.897" amount="1" refreshtime="-1" desc="剑卫">
+                <position x="712.581" z="1056.517" ay="2.897" WeaponName="ds_rl_npcitem324" WeaponMode="dsword2_1" />
+            </item>
+        </creator>
+        <creator No="4385A302A08E4C668C38AE17498E239B" x="778.391" y="71.793" z="1051.249" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="0">
+            <item No="1" id="NpcClone019031p" ay="4.685" amount="3" refreshtime="-1" desc="极乐门隐秘弟子（远）">
+                <position x="780.988" z="1051.311" ay="4.685" WeaponName="dk_rl_npcitem217" WeaponMode="dknife1_2" />
+                <position x="777.890" z="1053.422" ay="4.045" WeaponName="dk_rl_npcitem217" WeaponMode="dknife1_2" />
+                <position x="778.589" z="1048.949" ay="5.560" WeaponName="dk_rl_npcitem217" WeaponMode="dknife1_2" />
+            </item>
+            <item No="2" id="NpcClone019066p" ay="4.557" amount="1" refreshtime="-1" desc="剑卫">
+                <position x="776.955" z="1051.289" ay="4.557" WeaponName="ds_rl_npcitem324" WeaponMode="dsword2_1" />
+            </item>
+        </creator>
+        <creator No="3C83CC66F1764A36A9956FE4B15368C9" x="831.408" y="69.863" z="995.769" radius="2.0" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="0">
+            <item No="1" id="NpcClone019032p" ay="5.545" amount="2" refreshtime="-1" desc="剑侍">
+                <position x="830.857" z="994.962" ay="5.545" WeaponName="s_r_npcitem417" WeaponMode="sword2_1" />
+                <position x="832.333" z="996.564" ay="5.795" WeaponName="s_r_npcitem417" WeaponMode="sword2_1" />
+            </item>
+        </creator>
+        <creator No="A1744AF796EA4194B36FB5A8C76B709B" x="837.060" y="69.863" z="1001.422" radius="2.0" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="0">
+            <item No="1" id="NpcClone019032p" ay="5.455" amount="2" refreshtime="-1" desc="剑侍">
+                <position x="836.453" z="1000.623" ay="5.455" WeaponName="s_r_npcitem417" WeaponMode="sword2_1" />
+                <position x="837.940" z="1002.340" ay="5.575" WeaponName="s_r_npcitem417" WeaponMode="sword2_1" />
+            </item>
+        </creator>
+        <creator No="7153673975C946109EA461028EE8DC90" x="871.569" y="69.863" z="995.648" radius="2.0" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="0">
+            <item No="1" id="NpcClone019032p" ay="0.887" amount="2" refreshtime="-1" desc="剑侍">
+                <position x="870.539" z="996.128" ay="0.887" WeaponName="s_r_npcitem213" WeaponMode="sword2_1" />
+                <position x="872.055" z="994.735" ay="0.887" WeaponName="s_r_npcitem213" WeaponMode="sword2_1" />
+            </item>
+        </creator>
+        <creator No="2558BE32347C494A8DD67CD528370F64" x="877.398" y="69.863" z="990.186" radius="2.0" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="0">
+            <item No="1" id="NpcClone019032p" ay="0.737" amount="2" refreshtime="-1" desc="剑侍">
+                <position x="876.216" z="990.447" ay="0.737" WeaponName="s_r_npcitem213" WeaponMode="sword2_1" />
+                <position x="877.761" z="989.091" ay="0.737" WeaponName="s_r_npcitem213" WeaponMode="sword2_1" />
+            </item>
+        </creator>
+        <creator No="624157364E1E4610BD1DAE01641F78EB" x="883.031" y="69.863" z="955.418" radius="2.0" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="0">
+            <item No="1" id="NpcClone019032p" ay="2.382" amount="2" refreshtime="-1" desc="剑侍">
+                <position x="882.011" z="954.841" ay="2.382" WeaponName="s_r_npcitem204" WeaponMode="sword2_1" />
+                <position x="883.515" z="956.308" ay="2.382" WeaponName="s_r_npcitem204" WeaponMode="sword2_1" />
+            </item>
+        </creator>
+        <creator No="89C82AA46D8D4671A9ECC2376BCAD8A5" x="877.551" y="69.863" z="949.859" radius="2.0" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="0">
+            <item No="1" id="NpcClone019032p" ay="2.482" amount="2" refreshtime="-1" desc="剑侍">
+                <position x="878.209" z="950.971" ay="2.482" WeaponName="s_r_npcitem213" WeaponMode="sword2_1" />
+                <position x="876.565" z="949.156" ay="2.382" WeaponName="s_r_npcitem213" WeaponMode="sword2_1" />
+            </item>
+        </creator>
+        <creator No="C855AF71A0B04AAE860A538D6A76016A" x="988.504" y="69.862" z="958.565" radius="3.0" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="85" CloneMode="0">
+            <item No="1" id="NpcClone019012p" ay="3.860" amount="1" refreshtime="-1" desc="朝廷精锐刀盾兵">
+                <position x="989.524" z="959.456" ay="3.860" BornAction="fi_stand" WeaponMode="blade_0" />
+            </item>
+            <item No="2" id="NpcClone019053" ay="0.975" amount="1" refreshtime="-1" NotPositive="0" desc="极乐门隐秘弟子">
+                <position x="987.327" z="957.331" ay="0.975" BornAction="dk_debuff1_1" RandomAction="" WeaponName="dk_rl_npcitem217" WeaponMode="dknife2_2" />
+            </item>
+        </creator>
+        <creator No="A1EE754EDA8B467EA135812D762FF2AE" x="982.274" y="69.862" z="964.762" radius="3.0" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="80" CloneMode="0">
+            <item No="1" id="NpcClone019019p" ay="4.005" amount="1" refreshtime="-1" desc="长枪兵">
+                <position x="983.240" z="965.582" ay="4.005" BornAction="fi_stand" RandomAction="" WeaponMode="lspear1_1" />
+            </item>
+            <item No="2" id="NpcClone019053" ay="1.205" amount="1" refreshtime="-1" NotPositive="0" desc="极乐门隐秘弟子">
+                <position x="981.039" z="963.631" ay="1.205" BornAction="ty_sitground_loughloop" WeaponName="dk_rl_npcitem217" WeaponMode="dknife2_2" />
+            </item>
+        </creator>
+        <creator No="4F93F3151FD14AEE8B22439BCD6851FE" x="1001.036" y="69.882" z="974.604" radius="5.0" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="90" CloneMode="0">
+            <item No="1" id="NpcClone019012p" ay="5.440" amount="1" refreshtime="-1" desc="朝廷精锐刀盾兵">
+                <position x="1003.399" z="972.020" ay="5.440" BornAction="fi_stand" WeaponMode="blade_0" />
+            </item>
+            <item No="2" id="NpcClone019019p" ay="1.827" amount="2" refreshtime="-1" desc="长枪兵">
+                <position x="998.501" z="974.593" ay="1.827" BornAction="fi_stand" WeaponMode="lspear1_1" />
+                <position x="1001.548" z="978.158" ay="2.865" BornAction="fi_stand" WeaponMode="lspear1_1" />
+            </item>
+            <item No="3" id="NpcClone019054" ay="2.440" amount="1" refreshtime="-1" NotPositive="0" desc="极乐门隐秘首领">
+                <position x="1000.986" z="974.623" ay="2.440" BornAction="debuff1" WeaponName="s_r_npcitem324" WeaponMode="sword3_1" />
+            </item>
+        </creator>
+        <creator No="55FB9D14B6D945A88F082DF392FEBF65" x="942.503" y="70.024" z="1086.395" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="80" CloneMode="0">
+            <item No="1" id="NpcClone019012p" ay="5.440" amount="1" refreshtime="-1" desc="朝廷精锐刀盾兵">
+                <position x="944.093" z="1083.851" ay="5.440" BornAction="fi_stand" RandomAction="" WeaponMode="blade_0" />
+            </item>
+            <item No="2" id="NpcClone019019p" ay="1.827" amount="2" refreshtime="-1" desc="长枪兵">
+                <position x="939.968" z="1086.383" ay="1.827" BornAction="fi_stand" RandomAction="" WeaponMode="lspear1_1" />
+                <position x="943.015" z="1089.949" ay="2.865" BornAction="fi_stand" RandomAction="" WeaponMode="lspear1_1" />
+            </item>
+            <item No="3" id="NpcClone019056" ay="2.630" amount="1" refreshtime="-1" NotPositive="0" desc="极乐门高级守卫">
+                <position x="942.293" z="1086.330" ay="2.630" BornAction="debuff1" WeaponName="ds_rl_npcitem324" WeaponMode="dsword4_1" />
+            </item>
+        </creator>
+        <creator No="645940A1F73146E8B1075DF0158D0016" x="928.634" y="69.862" z="1099.623" radius="3.0" WakeupRange="14.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="80" CloneMode="0">
+            <item No="1" id="NpcClone019019p" ay="2.460" amount="1" refreshtime="-1" desc="长枪兵">
+                <position x="927.675" z="1100.640" ay="2.460" BornAction="fi_stand" WeaponMode="lspear1_1" />
+            </item>
+            <item No="2" id="NpcClone019055" ay="5.714" amount="1" refreshtime="-1" NotPositive="0" desc="剑童">
+                <position x="929.812" z="1098.496" ay="5.714" BornAction="debuff1" WeaponName="s_r_npcitem308" WeaponMode="sword4_1" />
+            </item>
+        </creator>
+        <creator No="7A52BB18727A44EA99293706A4EB3E14" x="391.281" y="25.467" z="908.177" radius="3.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="0">
+            <item No="1" id="NpcClone019029p" ay="-1" amount="2" refreshtime="-1" desc="毒使花匠">
+                <position x="392.939" z="907.806" ay="-1" BornAction="ty_sweeploop" WeaponName="删除武器" WeaponMode="hand2_2" />
+                <position x="390.440" z="906.638" ay="0.328" BornAction="ty_sweeploop" WeaponMode="hand2_2" />
+            </item>
+            <item No="2" id="NpcClone019026p" ay="2.949" amount="1" refreshtime="-1" NotPositive="0" desc="毒使精兵(远)">
+                <position x="389.377" z="908.089" ay="2.949" />
+            </item>
+            <item No="3" id="BlockClone019019" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="布袋">
+                <position x="392.408" z="909.104" ay="-1" />
+            </item>
+        </creator>
+        <creator No="F4876D225BFE46429F8C90B88F30BD55" x="419.682" y="26.612" z="902.578" radius="4.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="0">
+            <item No="1" id="NpcClone019029p" ay="1.348" amount="2" refreshtime="-1" desc="毒使花匠">
+                <position x="418.187" z="902.695" ay="1.348" BornAction="ty_writeloop" WeaponMode="hand2_2" />
+                <position x="420.905" z="904.653" ay="3.921" BornAction="ty_sweeploop" WeaponMode="hand2_2" />
+            </item>
+            <item No="2" id="NpcClone019026p" ay="0.328" amount="1" refreshtime="-1" desc="毒使精兵(远)">
+                <position x="421.801" z="901.844" ay="0.328" WeaponName="删除武器" WeaponMode="hand1s_2" />
+            </item>
+        </creator>
+        <creator No="DCFE19F59104460CBBED6D06C51F16C9" x="454.574" y="26.471" z="924.332" radius="3.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="0">
+            <item No="1" id="NpcClone019029p" ay="0.328" amount="1" refreshtime="-1" desc="毒使花匠">
+                <position x="453.732" z="922.793" ay="0.328" BornAction="ty_sweeploop" WeaponMode="hand1s_2" />
+            </item>
+            <item No="2" id="NpcClone019026p" ay="-1" amount="1" refreshtime="-1" desc="毒使精兵(远)">
+                <position x="455.997" z="923.842" ay="-1" WeaponMode="hand1s_2" />
+            </item>
+            <item No="3" id="NpcClone019009p" ay="3.322" amount="1" refreshtime="-1" desc="毒使精兵">
+                <position x="453.962" z="925.214" ay="3.322" WeaponMode="hand1s_2" />
+            </item>
+        </creator>
+        <creator No="86E34D3F054C44F19B5A30F2B4DBF2FD" x="736.774" y="33.060" z="836.781" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="0">
+            <item No="1" id="NpcClone019033p" ay="1.215" amount="1" refreshtime="-1" desc="赶尸人">
+                <position x="734.315" z="838.116" ay="1.215" WeaponMode="hand2_1" />
+            </item>
+        </creator>
+        <creator No="4A6704B5F6584B3E9FD489DF0A3A9909" x="741.991" y="54.215" z="927.809" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="0">
+            <item No="1" id="BossClone019016p" ay="3.385" amount="2" refreshtime="-1" desc="血卫">
+                <position x="745.301" z="927.394" ay="3.385" />
+                <position x="739.288" z="927.023" ay="3.365" WeaponMode="hand1s_1" />
+            </item>
+        </creator>
+        <creator No="B82A65335B4943F88A5B7E8B62F8FB1C" x="741.914" y="57.689" z="910.353" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="0">
+            <item No="1" id="NpcClone019033p" ay="3.925" amount="2" refreshtime="-1" desc="赶尸人">
+                <position x="742.330" z="908.690" ay="3.925" WeaponMode="hand3_1" />
+                <position x="740.308" z="910.695" ay="3.925" WeaponMode="hand4_1" />
+            </item>
+        </creator>
+        <creator No="D79D48FF50DF470DA6B498258FD71558" x="424.140" y="29.498" z="572.906" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="3.0" HateLink="1" CloneMode="0">
+            <item No="1" id="NpcClone019006p" ay="0.965" amount="1" refreshtime="-1" desc="红蛇" />
+            <item No="2" id="NpcClone019007p" ay="6.043" amount="1" refreshtime="-1" desc="绿蛇" />
+        </creator>
+        <creator No="F65BA03CE2114FD4BAD411D88455A2C1" x="413.526" y="29.296" z="494.023" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="6.0" HateLink="1" CloneMode="0">
+            <item No="1" id="NpcClone019014p" sx="3.050" sy="3.050" sz="3.050" ay="4.163" amount="1" refreshtime="-1" desc="巨蝎">
+                <position x="413.526" z="494.023" sx="3.050" sy="3.050" sz="3.050" ay="4.163" />
+            </item>
+            <item No="2" id="NpcClone019006p" sx="1.440" sy="1.440" sz="1.440" ay="5.083" amount="1" refreshtime="-1" desc="红蛇">
+                <position x="414.894" z="497.782" sx="1.440" sy="1.440" sz="1.440" ay="5.083" BornAction="stand_free01" />
+            </item>
+            <item No="3" id="NpcClone019007p" sx="1.410" sy="1.410" sz="1.410" ay="6.043" amount="1" refreshtime="-1" desc="绿蛇">
+                <position x="414.521" z="493.918" sx="1.410" sy="1.410" sz="1.410" ay="6.043" />
+            </item>
+        </creator>
+        <creator No="F877D4A3D53943B7A9EBBA5666DC730C" x="437.320" y="29.694" z="471.181" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="5.0" HateLink="1" CloneMode="0">
+            <item No="1" id="NpcClone019007p" sx="1.610" sy="1.610" sz="1.610" ay="3.673" amount="1" refreshtime="-1" desc="绿蛇" />
+            <item No="2" id="NpcClone019018p" sx="2.880" sy="2.880" sz="2.880" ay="5.488" amount="2" refreshtime="-1" desc="血蛛">
+                <position x="435.900" z="471.129" sx="2.880" sy="2.880" sz="2.880" ay="5.488" />
+                <position x="437.952" z="468.853" sx="2.960" sy="2.960" sz="2.960" ay="5.488" />
+            </item>
+        </creator>
+        <creator No="2F0A3D3DA353446992F2BF704C35C85C" x="476.262" y="30.634" z="493.009" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="5.0" HateLink="1" CloneMode="0">
+            <item No="1" id="NpcClone019016p" sx="2.290" sy="2.290" sz="2.290" ay="0.245" amount="1" refreshtime="-1" desc="蜈蚣">
+                <position x="476.622" z="491.219" sx="2.290" sy="2.290" sz="2.290" ay="0.245" />
+            </item>
+            <item No="2" id="NpcClone019018p" sx="3.000" sy="3.000" sz="3.000" ay="5.113" amount="1" refreshtime="-1" desc="血蛛">
+                <position x="476.262" z="493.009" sx="3.000" sy="3.000" sz="3.000" ay="5.113" />
+            </item>
+            <item No="3" id="NpcClone019007p" sx="1.290" sy="1.290" sz="1.290" ay="3.733" amount="1" refreshtime="-1" desc="绿蛇">
+                <position x="474.370" z="491.254" sx="1.290" sy="1.290" sz="1.290" ay="3.733" />
+            </item>
+        </creator>
+        <creator No="D8EFFAC4B1C646B39CE23625BAAC2689" x="411.507" y="28.209" z="654.183" radius="2.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="5.0" HateLink="1" CloneMode="0">
+            <item No="1" id="NpcClone019030p" ay="5.937" amount="1" refreshtime="-1" desc="极乐门初级守卫(远)">
+                <position x="411.049" z="655.337" ay="5.937" WeaponMode="hand4_1" />
+            </item>
+        </creator>
+        <creator No="E8ABC35D9736457E9FA81F6D13426C4A" x="413.235" y="29.042" z="538.632" radius="3.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="3.0" HateLink="1" CloneMode="0">
+            <item No="1" id="NpcClone019007p" sx="1.360" sy="1.360" sz="1.360" ay="6.043" amount="1" refreshtime="-1" desc="绿蛇" />
+        </creator>
+        <creator No="73E59D6D21284F6A93B60C9023550142" x="714.334" y="32.225" z="855.647" radius="3.0" WakeupRange="13.0" ChaseRange="-1.0" PatrolRange="3.0" HateLink="1">
+            <item No="1" id="FunnpcClone019028" ay="6.043" amount="1" refreshtime="-1" desc="会躲">
+                <position x="715.820" z="854.309" ay="6.043" />
+            </item>
+            <item No="2" id="FunnpcClone019030" ay="6.043" amount="1" refreshtime="-1" desc="会躲">
+                <position x="712.184" z="854.317" ay="6.043" />
+            </item>
+        </creator>
+        <creator No="62D8FBC0B69243C0B963E3CFE0576015" x="709.227" y="31.866" z="855.784" radius="5.0" WakeupRange="13.0" ChaseRange="-1.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="FunnpcClone019029" ay="-1" amount="1" refreshtime="-1" desc="会躲" />
+            <item No="2" id="FunnpcClone019031" ay="-1" amount="1" refreshtime="-1" desc="会躲" />
+            <item No="3" id="FunnpcClone019030" ay="-1" amount="1" refreshtime="-1" desc="会躲" />
+        </creator>
+        <creator No="B5FEC7888337434C9CD83F657BF2A2EA" x="420.531" y="28.524" z="588.977" radius="3.0" WakeupRange="3.0" ChaseRange="-1.0" PatrolRange="3.0" HateLink="1">
+            <item No="1" id="FunnpcClone019024" ay="4.572" amount="1" refreshtime="-1" desc="仓鼠" />
+        </creator>
+        <creator No="CCD48A91DF20488583AE88FC5B8FA679" x="424.998" y="29.497" z="570.158" radius="3.0" WakeupRange="3.0" ChaseRange="-1.0" PatrolRange="3.0" HateLink="1">
+            <item No="1" id="FunnpcClone019024" ay="4.572" amount="1" refreshtime="-1" desc="仓鼠" />
+        </creator>
+        <creator No="F29C84DC0FD4479CBFD38DD2B31509A3" x="414.317" y="29.118" z="542.485" radius="3.0" WakeupRange="3.0" ChaseRange="-1.0" PatrolRange="3.0" HateLink="1">
+            <item No="1" id="FunnpcClone019024" ay="4.572" amount="2" refreshtime="-1" desc="仓鼠">
+                <position x="415.019" z="543.822" ay="4.572" />
+                <position x="412.780" z="542.931" ay="4.572" />
+            </item>
+        </creator>
+        <creator No="FF2FB83FF0BB4454B42AE31AF44CEFF6" x="413.221" y="28.537" z="516.736" radius="3.0" WakeupRange="3.0" ChaseRange="-1.0" PatrolRange="3.0" HateLink="1">
+            <item No="1" id="FunnpcClone019024" ay="4.572" amount="1" refreshtime="-1" desc="仓鼠" />
+        </creator>
+        <creator No="7B0F570F15604695A5CDDE81C1670A4A" x="414.219" y="29.498" z="477.824" radius="3.0" WakeupRange="3.0" ChaseRange="-1.0" PatrolRange="3.0" HateLink="1">
+            <item No="1" id="FunnpcClone019024" ay="4.572" amount="1" refreshtime="-1" desc="仓鼠" />
+            <item No="2" id="FunnpcClone019034" ay="-1" amount="1" refreshtime="180000" desc="兔子" />
+        </creator>
+        <creator No="D9D9DF05E6DB4D75915BA045495A4625" x="446.116" y="29.911" z="469.444" radius="3.0" WakeupRange="3.0" ChaseRange="-1.0" PatrolRange="3.0" HateLink="1">
+            <item No="1" id="FunnpcClone019024" ay="4.572" amount="1" refreshtime="-1" desc="仓鼠" />
+        </creator>
+        <creator No="13C30F29A07645B582F6ED7E6B5D9D97" x="466.497" y="30.235" z="480.701" radius="3.0" WakeupRange="3.0" ChaseRange="-1.0" PatrolRange="3.0" HateLink="1">
+            <item No="1" id="FunnpcClone019024" ay="4.572" amount="1" refreshtime="-1" desc="仓鼠" />
+        </creator>
+        <creator No="6F8067DCFB0A47968816BED86BF46F6E" x="432.867" y="30.132" z="476.027" radius="3.0" WakeupRange="3.0" ChaseRange="-1.0" PatrolRange="3.0" HateLink="1">
+            <item No="1" id="FunnpcClone019024" ay="4.572" amount="1" refreshtime="-1" desc="仓鼠" />
+        </creator>
+        <creator No="ACFFCE7A135845E6950E8AD90A5404B8" x="409.492" y="28.648" z="515.245" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="FunnpcClone019034" ay="-1" amount="2" refreshtime="180000" desc="兔子">
+                <position x="408.034" z="518.204" ay="-1" />
+                <position x="410.471" z="512.616" ay="-1" />
+            </item>
+        </creator>
+        <creator No="D59F6BAB44F1413BBA4AEA3F61DE89C5" x="418.211" y="29.316" z="475.404" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="7.0" HateLink="1">
+            <item No="1" id="FunnpcClone019034" ay="-1" amount="2" refreshtime="180000" desc="兔子">
+                <position x="420.340" z="476.337" ay="-1" />
+                <position x="418.167" z="471.824" ay="-1" />
+            </item>
+        </creator>
+        <creator No="A05CDDF9423242548E6F33E8006FD432" x="451.764" y="30.101" z="471.879" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="FunnpcClone019034" ay="-1" amount="2" refreshtime="180000" desc="兔子">
+                <position x="452.431" z="469.161" ay="-1" />
+                <position x="449.582" z="473.271" ay="-1" />
+            </item>
+        </creator>
+        <creator No="51C6EF5CEEE64E92BE901B1A98F94708" x="469.633" y="30.485" z="485.502" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="FunnpcClone019034" ay="-1" amount="1" refreshtime="180000" desc="兔子" />
+        </creator>
+        <creator No="DDAD8D8E76764088986A86A20D32C30E" x="525.781" y="25.716" z="768.473" radius="7.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019060" ay="-1" amount="2" refreshtime="5" desc="水柱NPC1">
+                <position x="523.877" z="766.551" ay="-1" />
+                <position x="524.063" z="773.134" ay="-1" r="5" />
+            </item>
+            <item No="2" id="NpcClone019061" r="5" amount="2" refreshtime="30000" desc="范围水柱" />
+        </creator>
+        <creator No="2F8C3A401AE44C6F8FFB72CBB47F463F" x="536.045" y="25.716" z="746.526" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019061" ay="5.631" amount="1" refreshtime="5" desc="水柱NPC2" />
+        </creator>
+        <creator No="6866BEB3B3EA476AAA326562869B50A1" x="539.401" y="25.999" z="737.305" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019060" ay="-1" amount="1" refreshtime="5" desc="水柱NPC1" />
+            <item No="2" id="NpcClone019061" ay="-1" amount="1" refreshtime="5" desc="水柱NPC2" />
+        </creator>
+        <creator No="E3DC4E33E5174096AEFC1FB1EF621E61" x="543.442" y="25.999" z="724.186" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019061" ay="-1" amount="2" refreshtime="5" desc="水柱NPC2">
+                <position x="538.714" z="722.616" ay="-1" />
+                <position x="547.925" z="726.399" ay="-1" />
+            </item>
+        </creator>
+        <creator No="2DD799BC65A44FE59B4C72FBB60DB02E" x="537.855" y="25.999" z="706.756" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019061" ay="-1" amount="1" refreshtime="5" desc="水柱NPC2" />
+        </creator>
+        <creator No="9CA3E7FFC8484148B7282C29ABB3C4DA" x="549.141" y="25.999" z="715.034" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019061" ay="-1" amount="1" refreshtime="5" desc="水柱NPC2" />
+            <item No="2" id="NpcClone019060" ay="-1" amount="1" refreshtime="5" desc="水柱NPC1" />
+        </creator>
+        <creator No="DF89A2FA629A46A69AE83B70879DAA18" x="534.234" y="25.999" z="753.642" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019060" ay="-1" amount="2" refreshtime="5" desc="水柱NPC1">
+                <position x="536.607" z="755.986" ay="-1" />
+                <position x="532.531" z="752.594" ay="-1" />
+            </item>
+        </creator>
+        <creator No="6C6B302BAF1440538F1395372863F19B" x="537.768" y="25.999" z="730.229" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019060" ay="-1" amount="1" refreshtime="5" desc="水柱NPC1" />
+        </creator>
+        <creator No="F39EBF09C3C54583AE415B8C57A160EB" x="492.623" y="25.999" z="673.709" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019061" ay="-1" amount="1" refreshtime="5" desc="水柱NPC2" />
+        </creator>
+        <creator No="AF08FBCA87DF4DEBB9AFA0A586557FDA" x="478.874" y="25.999" z="672.896" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019061" ay="-1" amount="1" refreshtime="5" desc="水柱NPC2" />
+        </creator>
+        <creator No="8CA39DCABEB44743AAFAE7CA30FCEE57" x="462.650" y="25.999" z="683.734" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019061" ay="-1" amount="1" refreshtime="5" desc="水柱NPC2" />
+        </creator>
+        <creator No="F79B99709A8C48FC94BEB9864F9BCE87" x="448.929" y="25.999" z="682.478" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019061" ay="-1" amount="1" refreshtime="5" desc="水柱NPC2" />
+        </creator>
+        <creator No="90C0FF00FB3646BBA73524C5A0C76D4E" x="477.320" y="25.999" z="718.694" radius="10.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019061" ay="-1" amount="1" refreshtime="5" desc="水柱NPC2">
+                <position x="481.121" z="716.482" ay="-1" />
+            </item>
+        </creator>
+        <creator No="59F3BBD727AE4102A5900C84A92EA2AA" x="484.760" y="25.999" z="712.959" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019061" ay="-1" amount="1" refreshtime="5" desc="水柱NPC2">
+                <position x="487.121" z="715.206" ay="-1" />
+            </item>
+        </creator>
+        <creator No="B1FE1BCF8F524FACB4B85B9169ED3E9F" x="504.835" y="25.999" z="708.402" radius="8.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019061" ay="-1" amount="1" refreshtime="5" desc="水柱NPC2">
+                <position x="502.712" z="707.080" ay="-1" />
+            </item>
+        </creator>
+        <creator No="966BCCCD062340C1AB801AC9A4BE371F" x="495.036" y="25.999" z="713.898" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019061" ay="-1" amount="1" refreshtime="5" desc="水柱NPC2">
+                <position x="494.711" z="713.645" ay="-1" />
+            </item>
+        </creator>
+        <creator No="815432B0E58741C58302DF6C1DAD2935" x="474.963" y="25.999" z="715.317" radius="10.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019061" ay="-1" amount="1" refreshtime="5" desc="水柱NPC2">
+                <position x="475.369" z="713.709" ay="-1" />
+            </item>
+        </creator>
+        <creator No="8C8C301F741E4CE6BE23957A0A8B6628" x="482.452" y="25.999" z="722.007" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019061" ay="-1" amount="1" refreshtime="5" desc="水柱NPC2">
+                <position x="482.496" z="722.130" ay="-1" />
+            </item>
+        </creator>
+        <creator No="F22ADAACA3724095915AEBDC93789D30" x="507.983" y="25.999" z="700.019" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019061" ay="-1" amount="1" refreshtime="5" desc="水柱NPC2">
+                <position x="507.448" z="699.566" ay="-1" />
+            </item>
+        </creator>
+        <creator No="FF5D024836DC45CEAEF478499921B6CB" x="513.446" y="25.999" z="709.247" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019061" ay="-1" amount="1" refreshtime="5" desc="水柱NPC2">
+                <position x="513.510" z="707.416" ay="-1" />
+            </item>
+        </creator>
+        <creator No="FED42687E31A403CAF376187749B3B1F" x="488.099" y="25.999" z="706.337" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019061" ay="-1" amount="1" refreshtime="5" desc="水柱NPC2">
+                <position x="488.035" z="706.558" ay="-1" />
+            </item>
+        </creator>
+        <creator No="3193CF520CB040D0B3CEBE43795B0928" x="502.717" y="25.999" z="707.929" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019061" ay="-1" amount="1" refreshtime="5" desc="水柱NPC2">
+                <position x="502.879" z="708.222" ay="-1" />
+            </item>
+        </creator>
+        <creator No="2932C7B3D0BD4DD294F4F435ED3F52D7" x="986.437" y="69.862" z="988.404" radius="5.0" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="70" CloneMode="0">
+            <item No="1" id="NpcClone019012p" ay="1.712" amount="2" refreshtime="-1" desc="朝廷精锐刀盾兵">
+                <position x="983.602" z="988.441" ay="1.712" BornAction="fi_stand" WeaponMode="blade_0" />
+                <position x="989.324" z="990.614" ay="3.155" BornAction="fi_stand" WeaponMode="blade_0" />
+            </item>
+            <item No="2" id="NpcClone019019p" ay="2.492" amount="2" refreshtime="-1" desc="长枪兵">
+                <position x="986.810" z="991.461" ay="2.492" BornAction="fi_stand" WeaponMode="lspear1_1" />
+                <position x="985.141" z="990.598" ay="2.507" BornAction="fi_stand" WeaponMode="lspear1_1" />
+            </item>
+            <item No="3" id="NpcClone019055" ay="5.359" amount="1" refreshtime="-1" NotPositive="0" desc="剑童">
+                <position x="988.416" z="988.077" ay="5.359" BornAction="debuff1" WeaponName="s_r_npcitem324" WeaponMode="sword2_1" />
+            </item>
+            <item No="4" id="NpcClone019056" ay="5.618" amount="1" refreshtime="-1" NotPositive="0" desc="极乐门高级守卫">
+                <position x="985.559" z="986.093" ay="5.618" BornAction="debuff1" WeaponName="ds_rl_npcitem324" WeaponMode="dsword3_1" />
+            </item>
+        </creator>
+        <creator No="D00FFCCC479243C99FCFC3E81C7AD054" x="495.165" y="26.621" z="812.991" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="NpcClone019023" ay="0.722" amount="4" refreshtime="1" desc="血虫">
+                <position x="494.844" z="811.394" ay="0.722" />
+                <position x="494.339" z="812.174" ay="2.177" />
+                <position x="495.489" z="812.779" ay="3.372" />
+                <position x="495.987" z="811.758" ay="5.207" />
+            </item>
+        </creator>
+        <creator No="A46A512234EA461ABDF153296DE24529" x="842.908" y="69.863" z="955.348" radius="2.0" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="0">
+            <item No="1" id="NpcClone019032p" ay="3.890" amount="2" refreshtime="-1" desc="剑侍">
+                <position x="843.759" z="954.867" ay="3.890" WeaponName="s_r_npcitem417" WeaponMode="sword2_1" />
+                <position x="842.038" z="956.203" ay="4.140" WeaponName="s_r_npcitem417" WeaponMode="sword2_1" />
+            </item>
+        </creator>
+        <creator No="32B099BC3BF44BD7BB30D79226966723" x="837.463" y="69.863" z="960.940" radius="2.0" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="0">
+            <item No="1" id="NpcClone019032p" ay="3.890" amount="2" refreshtime="-1" desc="剑侍">
+                <position x="838.314" z="960.459" ay="3.890" WeaponName="s_r_npcitem417" WeaponMode="sword2_1" />
+                <position x="836.593" z="961.795" ay="4.140" WeaponName="s_r_npcitem417" WeaponMode="sword2_1" />
+            </item>
+        </creator>
+        <creator No="8202500825B648D195B2B51B40641492" x="391.152" y="28.578" z="611.498" radius="4.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="0">
+            <item No="1" id="NpcClone019002p" ay="5.582" amount="2" refreshtime="-1" desc="极乐门初级守卫">
+                <position x="388.565" z="612.499" ay="5.582" WeaponMode="sword2_1" />
+                <position x="392.686" z="613.888" ay="5.552" WeaponMode="sword2_1" />
+            </item>
+            <item No="2" id="BossClone019011p" ay="6.117" amount="1" refreshtime="-1" desc="极乐门高级守卫">
+                <position x="391.533" z="608.872" ay="6.117" WeaponName="ds_rl_npcitem324" WeaponMode="dsword2_1" />
+            </item>
+        </creator>
+        <creator No="AF73BF9154E14DC9908331EC6CBE9BDD" x="525.315" y="25.855" z="758.085" radius="7.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019060" ay="-1" amount="2" refreshtime="5" desc="水柱NPC1">
+                <position x="523.411" y="25.750" z="756.163" ay="-1" />
+                <position x="523.597" y="25.505" z="762.746" ay="-1" r="5" />
+            </item>
+            <item No="2" id="NpcClone019061" r="5" amount="2" refreshtime="30000" desc="范围水柱" />
+        </creator>
+        <creator No="FAA1BE88D9EF447FBFA9EF3C890D8294" x="538.514" y="18.757" z="715.907" radius="7.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019060" ay="-1" amount="2" refreshtime="5" desc="水柱NPC1">
+                <position x="536.610" y="25.855" z="713.985" ay="-1" />
+                <position x="536.796" y="25.855" z="720.568" ay="-1" r="5" />
+            </item>
+            <item No="2" id="NpcClone019061" r="5" amount="2" refreshtime="30000" desc="范围水柱" />
+        </creator>
+        <creator No="692F4E7D325F425EAFC269A3D48F607D" x="555.235" y="18.231" z="758.475" radius="7.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019060" ay="-1" amount="2" refreshtime="5" desc="水柱NPC1">
+                <position x="553.331" y="25.716" z="756.553" ay="-1" />
+                <position x="553.517" y="25.716" z="763.135" ay="-1" r="5" />
+            </item>
+            <item No="2" id="NpcClone019061" r="5" amount="2" refreshtime="30000" desc="范围水柱" />
+        </creator>
+        <creator No="EE2A65873429473B9F76B848CB6BA60E" x="564.507" y="18.361" z="760.736" radius="7.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019060" ay="-1" amount="2" refreshtime="5" desc="水柱NPC1">
+                <position x="562.603" y="25.749" z="758.814" ay="-1" />
+                <position x="562.789" y="25.749" z="765.397" ay="-1" r="5" />
+            </item>
+            <item No="2" id="NpcClone019061" r="5" amount="2" refreshtime="30000" desc="范围水柱" />
+        </creator>
+        <creator No="9D2CC1B36FCD45EF8DFE1A495F43D6BD" x="557.435" y="18.406" z="758.545" radius="7.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019060" ay="-1" amount="2" refreshtime="5" desc="水柱NPC1">
+                <position x="555.531" y="25.749" z="756.623" ay="-1" />
+                <position x="555.717" y="25.749" z="763.206" ay="-1" r="5" />
+            </item>
+            <item No="2" id="NpcClone019061" r="5" amount="2" refreshtime="30000" desc="范围水柱" />
+        </creator>
+        <creator No="A3513A4413A047B48AFF20BA0DF6EFAA" x="559.419" y="18.167" z="759.963" radius="7.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019060" ay="-1" amount="2" refreshtime="5" desc="水柱NPC1">
+                <position x="557.515" y="25.749" z="758.041" ay="-1" />
+                <position x="557.701" y="25.749" z="764.624" ay="-1" r="5" />
+            </item>
+            <item No="2" id="NpcClone019061" r="5" amount="2" refreshtime="30000" desc="范围水柱" />
+        </creator>
+        <creator No="D298EC7934C4486F9D67BB83294E3D58" x="523.730" y="20.600" z="769.084" radius="7.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019060" ay="-1" amount="2" refreshtime="5" desc="水柱NPC1">
+                <position x="521.826" y="19.684" z="767.162" ay="-1" />
+                <position x="522.012" y="21.793" z="773.745" ay="-1" r="5" />
+            </item>
+            <item No="2" id="NpcClone019061" r="5" amount="2" refreshtime="30000" desc="范围水柱" />
+        </creator>
+        <creator No="8A4E7F0BC6F64523B1693C205EB0706F" x="524.726" y="20.079" z="765.019" radius="7.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019060" ay="-1" amount="2" refreshtime="5" desc="水柱NPC1">
+                <position x="522.822" y="19.127" z="763.097" ay="-1" />
+                <position x="523.008" y="21.089" z="769.680" ay="-1" r="5" />
+            </item>
+            <item No="2" id="NpcClone019061" r="5" amount="2" refreshtime="30000" desc="范围水柱" />
+        </creator>
+        <creator No="DBC35766FFEC4AC9B7A9B48B329BD38F" x="533.501" y="17.403" z="749.848" radius="7.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019060" ay="-1" amount="2" refreshtime="5" desc="水柱NPC1">
+                <position x="531.597" y="25.716" z="747.926" ay="-1" />
+                <position x="531.783" y="25.716" z="754.509" ay="-1" r="5" />
+            </item>
+            <item No="2" id="NpcClone019061" r="5" amount="2" refreshtime="30000" desc="范围水柱" />
+        </creator>
+        <creator No="AC52442CE19443BE9C06D98B8F30DE1B" x="537.976" y="16.014" z="741.601" radius="7.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019060" ay="-1" amount="2" refreshtime="5" desc="水柱NPC1">
+                <position x="536.072" y="25.716" z="739.679" ay="-1" />
+                <position x="536.258" y="25.716" z="746.262" ay="-1" r="5" />
+            </item>
+            <item No="2" id="NpcClone019061" r="5" amount="2" refreshtime="30000" desc="范围水柱" />
+        </creator>
+        <creator No="F96F47EB9BF74E839939C7BB3655971E" x="538.383" y="15.928" z="726.770" radius="7.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019060" ay="-1" amount="2" refreshtime="5" desc="水柱NPC1">
+                <position x="536.479" y="25.716" z="724.848" ay="-1" />
+                <position x="536.665" y="25.716" z="731.431" ay="-1" r="5" />
+            </item>
+            <item No="2" id="NpcClone019061" r="5" amount="2" refreshtime="30000" desc="范围水柱" />
+        </creator>
+        <creator No="C3D0BAB1FC744D21B4E9DB84278570AF" x="544.817" y="19.615" z="711.983" radius="7.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019060" ay="-1" amount="2" refreshtime="5" desc="水柱NPC1">
+                <position x="542.913" y="25.716" z="710.061" ay="-1" />
+                <position x="543.099" y="25.716" z="716.644" ay="-1" r="5" />
+            </item>
+            <item No="2" id="NpcClone019061" r="5" amount="2" refreshtime="30000" desc="范围水柱" />
+        </creator>
+        <creator No="50774DEDC90A4EB2B423AF35ADE1A507" x="492.581" y="18.718" z="670.786" radius="7.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019060" ay="-1" amount="2" refreshtime="5" desc="水柱NPC1">
+                <position x="490.677" y="25.716" z="668.864" ay="-1" />
+                <position x="490.863" y="25.716" z="675.446" ay="-1" r="5" />
+            </item>
+            <item No="2" id="NpcClone019061" r="5" amount="2" refreshtime="30000" desc="范围水柱" />
+        </creator>
+        <creator No="E9B5FB72BF4C4BDAB772B82544E67564" x="474.593" y="13.264" z="676.230" radius="7.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019060" ay="-1" amount="2" refreshtime="5" desc="水柱NPC1">
+                <position x="472.689" y="25.716" z="674.308" ay="-1" />
+                <position x="472.875" y="25.716" z="680.891" ay="-1" r="5" />
+            </item>
+            <item No="2" id="NpcClone019061" r="5" amount="2" refreshtime="30000" desc="范围水柱" />
+        </creator>
+        <creator No="5D747B7031494D93A241F0BA948A4D31" x="482.301" y="13.414" z="678.200" radius="7.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019060" ay="-1" amount="2" refreshtime="5" desc="水柱NPC1">
+                <position x="480.397" y="25.716" z="676.278" ay="-1" />
+                <position x="480.583" y="25.716" z="682.861" ay="-1" r="5" />
+            </item>
+            <item No="2" id="NpcClone019061" r="5" amount="2" refreshtime="30000" desc="范围水柱" />
+        </creator>
+        <creator No="65BB0B1DBE7F4CE0A2713B96DA333B07" x="482.883" y="13.897" z="670.796" radius="7.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019060" ay="-1" amount="2" refreshtime="5" desc="水柱NPC1">
+                <position x="480.979" y="25.716" z="668.874" ay="-1" />
+                <position x="481.165" y="25.716" z="675.457" ay="-1" r="5" />
+            </item>
+            <item No="2" id="NpcClone019061" r="5" amount="2" refreshtime="30000" desc="范围水柱" />
+        </creator>
+        <creator No="26740CB88DAF499690B84842E5A5F6F6" x="459.032" y="16.093" z="678.389" radius="7.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019060" ay="-1" amount="2" refreshtime="5" desc="水柱NPC1">
+                <position x="457.128" y="25.716" z="676.467" ay="-1" />
+                <position x="457.314" y="25.716" z="683.050" ay="-1" r="5" />
+            </item>
+            <item No="2" id="NpcClone019061" r="5" amount="2" refreshtime="30000" desc="范围水柱" />
+        </creator>
+        <creator No="C7B0A8B2C6BE499083C528593D80BAFB" x="456.350" y="18.488" z="687.405" radius="7.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019060" ay="-1" amount="2" refreshtime="5" desc="水柱NPC1">
+                <position x="454.446" y="25.716" z="685.483" ay="-1" />
+                <position x="454.632" y="25.716" z="692.066" ay="-1" r="5" />
+            </item>
+            <item No="2" id="NpcClone019061" r="5" amount="2" refreshtime="30000" desc="范围水柱" />
+        </creator>
+        <creator No="8911A0E3B59A4752A1CEEDD45C453D8A" x="452.784" y="21.748" z="690.279" radius="7.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019060" ay="-1" amount="2" refreshtime="5" desc="水柱NPC1">
+                <position x="450.880" y="25.716" z="688.357" ay="-1" />
+                <position x="451.066" y="25.716" z="694.940" ay="-1" r="5" />
+            </item>
+            <item No="2" id="NpcClone019061" r="5" amount="2" refreshtime="30000" desc="范围水柱" />
+        </creator>
+        <creator No="4883A2C6782E4596A0D48656CE3E92FF" x="445.738" y="21.327" z="681.412" radius="7.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019060" ay="-1" amount="2" refreshtime="5" desc="水柱NPC1">
+                <position x="443.834" y="25.716" z="679.490" ay="-1" />
+                <position x="444.020" y="25.716" z="686.073" ay="-1" r="5" />
+            </item>
+            <item No="2" id="NpcClone019061" r="5" amount="2" refreshtime="30000" desc="范围水柱" />
+        </creator>
+        <creator No="4D3D48F04A9B452DBA8062973F2AEA30" x="472.686" y="22.868" z="720.867" radius="7.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019060" ay="-1" amount="2" refreshtime="5" desc="水柱NPC1">
+                <position x="470.782" y="25.716" z="718.945" ay="-1" />
+                <position x="470.968" y="25.716" z="725.528" ay="-1" r="5" />
+            </item>
+            <item No="2" id="NpcClone019061" r="5" amount="2" refreshtime="30000" desc="范围水柱" />
+        </creator>
+        <creator No="7B71E83ECF784A1594311EA2FDC4E8D9" x="494.872" y="17.655" z="708.316" radius="7.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019060" ay="-1" amount="2" refreshtime="5" desc="水柱NPC1">
+                <position x="492.968" y="25.716" z="706.394" ay="-1" />
+                <position x="493.154" y="25.716" z="712.977" ay="-1" r="5" />
+            </item>
+            <item No="2" id="NpcClone019061" r="5" amount="2" refreshtime="30000" desc="范围水柱" />
+        </creator>
+        <creator No="C91EEFD5E6344667B7DAF94649BD3B1F" x="499.983" y="18.379" z="700.398" radius="7.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" SpringRange="30" StaticY="1">
+            <item No="1" id="NpcClone019060" ay="-1" amount="2" refreshtime="5" desc="水柱NPC1">
+                <position x="498.079" y="25.716" z="698.476" ay="-1" />
+                <position x="498.265" y="25.716" z="705.059" ay="-1" r="5" />
+            </item>
+            <item No="2" id="NpcClone019061" r="5" amount="2" refreshtime="30000" desc="范围水柱" />
+        </creator>
+        <creator No="DA6FE41E51724B82B1A6E93D533EC4D9" x="797.232" y="69.431" z="1264.671" radius="8.0" WakeupRange="1.0" ChaseRange="5.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="FunnpcClone019091" ay="-1" r="2" amount="9" refreshtime="5" NotPositive="0" desc="地刺">
+                <position x="794.898" z="1261.445" ay="-1" r="2" />
+                <position x="800.059" z="1261.189" ay="-1" r="2" />
+                <position x="801.488" z="1263.311" ay="-1" r="2" />
+                <position x="794.153" z="1267.670" ay="-1" r="2" />
+                <position x="800.176" z="1266.807" ay="-1" r="2" />
+                <position x="797.391" z="1269.874" ay="-1" r="2" />
+                <position x="800.805" z="1268.793" ay="-1" r="2" />
+                <position x="804.197" z="1265.478" ay="-1" r="2" />
+                <position x="801.167" z="1268.843" ay="-1" r="2" />
+            </item>
+        </creator>
+        <creator No="EBD5EF1A01164A8A8CF028D79AFAE7D8" x="784.710" y="69.431" z="1264.548" radius="8.0" WakeupRange="1.0" ChaseRange="5.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="FunnpcClone019091" ay="-1" r="2" amount="9" refreshtime="5" NotPositive="0" desc="地刺">
+                <position x="782.376" z="1261.322" ay="-1" r="2" />
+                <position x="787.538" z="1261.066" ay="-1" r="2" />
+                <position x="788.966" z="1263.188" ay="-1" r="2" />
+                <position x="781.631" z="1267.547" ay="-1" r="2" />
+                <position x="787.654" z="1266.684" ay="-1" r="2" />
+                <position x="784.869" z="1269.751" ay="-1" r="2" />
+                <position x="788.284" z="1268.671" ay="-1" r="2" />
+                <position x="791.676" z="1265.355" ay="-1" r="2" />
+                <position x="788.645" z="1268.721" ay="-1" r="2" />
+            </item>
+        </creator>
+        <creator No="CC964A94499D4E7BBE9AA2F1D297A1AC" x="751.392" y="69.431" z="1297.776" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="0">
+            <item No="1" id="BossClone019011p" ay="6.117" amount="1" refreshtime="-1" NotPositive="0" desc="极乐门高级守卫">
+                <position x="751.392" z="1297.776" ay="6.117" />
+            </item>
+            <item No="2" id="NpcClone019002p" amount="2" refreshtime="-1" NotPositive="0" desc="极乐门初级守卫">
+                <position x="752.756" z="1299.543" WeaponName="s_r_npcitem223" WeaponMode="sword2_1" />
+                <position x="753.037" z="1296.460" WeaponName="s_r_npcitem223" WeaponMode="sword2_1" />
+            </item>
+        </creator>
+        <creator No="B4882A428F344CF9866683CF2E861FE7" x="411.950" y="29.318" z="538.139" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="0.0" HateLink="1" CloneMode="0">
+            <item No="1" id="NpcClone019006p" sx="1.140" sy="1.140" sz="1.140" ay="2.785" amount="1" refreshtime="-1" desc="红蛇" />
+            <item No="2" id="NpcClone019014p" sx="3.180" sy="3.180" sz="3.180" ay="6.043" amount="1" refreshtime="-1" desc="巨蝎" />
+        </creator>
+        <creator No="F0552B4632A74DBBBE6B5C43AE9B04D0" x="766.778" y="69.431" z="1270.322" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="0">
+            <item No="1" id="BossClone019011p" ay="6.117" amount="1" refreshtime="-1" NotPositive="0" desc="极乐门高级守卫" />
+            <item No="2" id="NpcClone019002p" amount="2" refreshtime="-1" NotPositive="0" desc="极乐门初级守卫">
+                <position x="768.142" z="1272.089" WeaponName="s_r_npcitem223" WeaponMode="sword2_1" />
+                <position x="768.423" z="1269.006" WeaponName="s_r_npcitem223" WeaponMode="sword2_1" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

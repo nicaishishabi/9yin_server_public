@@ -1,0 +1,88 @@
+NPC编号	名称	对象类型	模型编号	头像	正常情况下的模型	摧毁后的模型编号	类型	NPC种类ID	对应的连通NPC	召唤的NPC	召唤NPC的X坐标	召唤NPC的Z坐标	修理动作	摧毁动作	摧毁特效	修理时间	破坏时间	触发范围	响应范围	选择操作分类	鼠标形状	脚本编号	NPC阵营	AI编辑包
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	Name	script	Resource	Photo	NormalRes	BrokenRes	NpcType	CKindID	TargetStone	Transport	TransportPosX	TransportPosZ	RepairAction	DestoryAction	BrokenEffect	RepairTime	DestoryTime	ActionRange	SpringRange	SelectState	CursorShape	LuaScript	Camp	AIEditorPackID
+	//锦衣卫-school01																							
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+	//丐帮-school02																							
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+	//君子堂-school03																							
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+	//极乐谷-school04																							
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+	//唐门-school05																							
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+	//峨眉-school06																							
+SchoolWarPost_em01	铁链柱子A	SchoolFightStone	npc\itemnpc571	icon\funcnpc\task.png			172	0	SchoolWarPost_em02	SchoolWarDoor_em01	349.41	17.89	interact041	interact041	buf_clone007_lujing	30000	30000	50	20	2	2			
+SchoolWarPost_em02	铁链柱子B	SchoolFightStone	npc\itemnpc571	icon\funcnpc\task.png			172	0	SchoolWarPost_em01	SchoolWarDoor_em02	538.26	464.76	interact041	interact041	buf_clone007_lujing	30000	30000	50	20	2	2			
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+	//武当-school07																							
+SchoolWarStone_wd01	巨石A	SchoolFightStone	npc\fbmac021033	icon\funcnpc\task.png	npc\fbmac021033	npc\itemnpc075	172	0	SchoolWarStone_wd02	SchoolWarDoor_wd01	751.1	794.79	interact014	att_Wd_0H_04		30000	30000	50	20	2	2			
+SchoolWarStone_wd02	巨石B	SchoolFightStone	npc\fbmac021033	icon\funcnpc\task.png	npc\fbmac021033	npc\itemnpc075	172	0	SchoolWarStone_wd01	SchoolWarDoor_wd01	751.1	794.79	interact014	att_Wd_0H_04		30000	30000	50	20	2	2			
+SchoolWarPost_wd01	铁链柱子A	SchoolFightStone	npc\itemnpc571	icon\funcnpc\task.png			172	0	SchoolWarPost_wd02	SchoolWarDoor_wd03	566.66	894.4	interact041	interact041	buf_clone007_lujing	30000	30000	50	20	2	2			
+SchoolWarPost_wd02	铁链柱子B	SchoolFightStone	npc\itemnpc571	icon\funcnpc\task.png			172	0	SchoolWarPost_wd01	SchoolWarDoor_wd03	566.66	894.4	interact041	interact041	buf_clone007_lujing	30000	30000	50	20	2	2			
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+	//少林-school08																							

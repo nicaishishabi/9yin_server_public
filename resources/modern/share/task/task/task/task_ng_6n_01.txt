@@ -1,0 +1,75 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	Plot	Title	Step	SearchID	Line	AcceptNpc	SubmitNpc	SceneID	AcceptSceneID	SubmitSceneID	AutoAcceptID	AutoSubmit	PreTaskLimit	NextTaskLimit	NotShowMenu	Relation	LuckValue	AcceptLimit	SubmitLimit	AcceptDecMoney	SubFunction	TaskItemList	RefreshMonster	TimeLimitLength	SubmitNpcEx	TaskScript	TitleId	ContextId	AcceptDialogId	CompleteDialogId	UnCompleteDialogId	TaskTargetId	TrackInfoID	LineNextInfo	CanAcceptMenu	UncompleteMenu	CompleteMenu	AcceptMovie	SubmitMovie	DramaAccept	DramaSubmit	CanGiveup	ShareType	RepeatType	RepeatPeriod	CountDayLimit	DifficultCoefficient	DifficultLevel	NeedVip	AcceptBuffer
+61001				s1540101	2	npc_6n_em01			17	17	61002	1		61002				111404;111578							SubmitNpcEx_61001		title_61001	context_61001	accept_61001_1;menu_61001_1			target_61001		next_61001	CanAcceptMenu_61001							1	0	0						
+61002				s1540101	2					15	61003	1	61001	61003													title_61002	context_61002	accept_61002_1;menu_61002_1	complete_61002;submit_61002		target_61002		next_61002	CanAcceptMenu_61002							0	0	0						
+61003				s1540101	2					15	61009	1	61002	61009													title_61003	context_61003				target_61003										0	0	0						
+61009				s1540101	2					15	61010	1	61003	61010													title_61009	context_61009				target_61009										0	0	0						
+61010				s1540101	2	WorldNpc11046			15	15	61011	1	61009	61011											SubmitNpcEx_61010		title_61010	context_61010				target_61010		next_61010					5465			0	0	0						
+61011				s1540101	2					15	61012	1	61010	61012													title_61011	context_61011				target_61011										0	0	0						
+61012				s1540101	2	npc_6n_mxm06	npc_6n_mxm08		16	16			61011												SubmitNpcEx_61012		title_61012	context_61012		complete_61012;submit_61012		target_61012		next_61012			CompleteMenu_61012					0	0	0						
+61026				s1540101	2	npc_6n_mxm08			16	16	61027	1	61012	61027				111575									title_61026	context_61026	accept_61026_1;menu_61026_1			target_61026		next_61026	CanAcceptMenu_61026							0	0	0						
+61027				s1540101	2					16	61035	1	61026	61035													title_61027	context_61027				target_61027		next_61027								0	0	0						
+61035				s1540101	2					16	61036	1	61027	61036											SubmitNpcEx_61035		title_61035	context_61035				target_61035		next_61035								0	0	0						
+61036				s1540101	2	npc_6n_yxy_010			16	16	61037	1	61035	61037											SubmitNpcEx_61036		title_61036	context_61036				target_61036		next_61036								0	0	0						
+61037				s1540101	2					3	61038	1	61036	61038													title_61037	context_61037				target_61037		next_61037								0	0	0						buf_6n_yxy_hz_2
+61038				s1540101	2					15	61039	1	61037	61039													title_61038	context_61038				target_61038										0	0	0						
+61039				s1540101	2		WorldNpc11046			15			61038									61002			SubmitNpcEx_61039		title_61039	context_61039		complete_61039;submit_61039		target_61039					CompleteMenu_61039					0	0	0						
+61051				s1540101	6	npc_qyby_01	npc_qyby_03		594	594		1													SubmitNpcEx_61051		title_61051	context_61051	accept_61051_1;menu_61051_1	complete_61051;submit_61051		target_61051		next_61051	CanAcceptMenu_61051		CompleteMenu_61051					0	0	0						
+61019				s1540101	2	npc_6n_lh_wyhs_join	npc_6n_lh_wyhs_join		16	16								111598;111597;111555									title_61019	context_61019	accept_61019_1;menu_61019_1	complete_61019;submit_61019		target_61019		next_61019	CanAcceptMenu_61019		CompleteMenu_61019					0	0	1	1	1				
+61016				s1540101	2	npc_6n_cc_sxsl_007	npc_6n_cc_sxsl_007		15	15								111404;111597;111599							SubmitNpcEx_61016		title_61016	context_61016	accept_61016_1;menu_61016_1	complete_61016;submit_61016		target_61016		next_61016	CanAcceptMenu_61016		CompleteMenu_61016					0	0	1	1	1				
+61015				s1540101	2	npc_6n_cc_sxsl_006	npc_6n_cc_sxsl_006		16	16								111404;111597;111600							SubmitNpcEx_61015		title_61015	context_61015	accept_61015_1;menu_61015_1	complete_61015;submit_61015		target_61015		next_61015	CanAcceptMenu_61015		CompleteMenu_61015					0	0	3	1	1				
+61017				s1540101	2	jddb_npc_01	jddb_npc_01		15	15								111404;111597;111601							SubmitNpcEx_61017		title_61017	context_61017	accept_61017_1;menu_61017_1	complete_61017;submit_61017		target_61017		next_61017	CanAcceptMenu_61017		CompleteMenu_61017					1		1	1	1				
+61018				s1540101	2	home_mj_leave	home_mj_leave		598	598								111404;111597;111650;111602;						4			title_61018	context_61018				target_61018		next_61018								1		1	1	1				
+61014				s1540101	2	npc_6n_cc_sxsl_006	npc_6n_cc_sxsl_006		16	16								111404;111597;111600							SubmitNpcEx_61014		title_61014	context_61014	accept_61014_1;menu_61014_1	complete_61014;submit_61014		target_61014		next_61014	CanAcceptMenu_61014		CompleteMenu_61014					0	0	3	1	1				
+61040				s1540101	5	hd_dw_001	hd_dw_001		14	14								28570							SubmitNpcEx_61040		title_61040	context_61040	accept_61040_1;menu_61040_1	complete_61040;submit_61040		target_61040		next_61040	CanAcceptMenu_61040		CompleteMenu_61040					1	0	1	1	1				
+61101				s1540202	2	WorldNpc00212			12	12	61102	1		61102																												0	0	0						
+61102				s1540202	2				12	12	61103	1	61101	61103																												0	0	0						
+61103				s1540202	2				12	12	61104	1	61102	61104																												0	0	0						
+61104				s1540202	2		WorldNpc00212		12	12			61103																													0	0	0						
+71011				s1540202	14				14	14	71012	1		71012													title_71011	context_71011	accept_71011_1;menu_71011_1			target_71011		next_71011	CanAcceptMenu_71011							0	0	0						
+71012				s1540202	14				14	3	71013	1	71011	71013													title_71012	context_71012				target_71012		next_71012								0	0	0						
+71013				s1540202	14		NPC_pld_dy_10		3	3	70015	1	71012												SubmitNpcEx_71013		title_71013	context_71013		complete_71013;submit_71013		target_71013		next_71013			CompleteMenu_71013					0	0	0						
+71014				s1540202	2	WorldNpc01194	NpcCloneshop01701_fc		14	603								1273;112587;17377							SubmitNpcEx_71014		title_71014	context_71014	accept_71014_1;menu_71014_1	complete_71014;submit_71014		target_71014		next_71014	CanAcceptMenu_71014		CompleteMenu_71014					0	0	0						
+71015				s1540202	2	WorldNpc01194	NpcCloneshop01101_fc		14	603								1271;112587;17377							SubmitNpcEx_71015		title_71015	context_71015	accept_71015_1;menu_71015_1	complete_71015;submit_71015		target_71015		next_71015	CanAcceptMenu_71015		CompleteMenu_71015					0	0	0						
+71016				s1540202	2	WorldNpc01194	NpcCloneshop01501_fc		14	603								1272;112587;17377							SubmitNpcEx_71016		title_71016	context_71016	accept_71016_1;menu_71016_1	complete_71016;submit_71016		target_71016		next_71016	CanAcceptMenu_71016		CompleteMenu_71016					0	0	0						
+71017				s1540202	2	WorldNpc01194	NpcCloneshop01901_fc		14	603								1274;112587;17377							SubmitNpcEx_71017		title_71017	context_71017	accept_71017_1;menu_71017_1	complete_71017;submit_71017		target_71017		next_71017	CanAcceptMenu_71017		CompleteMenu_71017					0	0	0						
+71018				s1540202	2	WorldNpc01194	NpcCloneshop01301_fc		14	603								1001;112587;17377							SubmitNpcEx_71018		title_71018	context_71018	accept_71018_1;menu_71018_1	complete_71018;submit_71018		target_71018		next_71018	CanAcceptMenu_71018		CompleteMenu_71018					0	0	0						
+71019				s1540202	2	WorldNpc01194	NpcCloneshop00901_fc		14	603								933;112587;17377							SubmitNpcEx_71019		title_71019	context_71019	accept_71019_1;menu_71019_1	complete_71019;submit_71019		target_71019		next_71019	CanAcceptMenu_71019		CompleteMenu_71019					0	0	0						
+71020				s1540202	2	WorldNpc01194	NpcCloneshop00701_fc		14	603								888;112587;17377							SubmitNpcEx_71020		title_71020	context_71020	accept_71020_1;menu_71020_1	complete_71020;submit_71020		target_71020		next_71020	CanAcceptMenu_71020		CompleteMenu_71020					0	0	0						
+71021				s1540202	2	WorldNpc01194	NpcCloneshop00501_fc		14	603								834;112587;17377							SubmitNpcEx_71021		title_71021	context_71021	accept_71021_1;menu_71021_1	complete_71021;submit_71021		target_71021		next_71021	CanAcceptMenu_71021		CompleteMenu_71021					0	0	0						
+71022				s1540202	2	WorldNpc01194	NpcCloneshopmingjiao_fc		14	603								116583;112587;17377							SubmitNpcEx_71022		title_71022	context_71022	accept_71022_1;menu_71022_1	complete_71022;submit_71022		target_71022		next_71022	CanAcceptMenu_71022		CompleteMenu_71022					0	0	0						
+61041				s1540202	2	WorldNpc01194	NpcCloneshoptianshan_fc		14	603								117488;112587;17377							SubmitNpcEx_61041		title_61041	context_61041	accept_61041_1;menu_61041_1	complete_61041;submit_61041		target_61041		next_61041	CanAcceptMenu_61041		CompleteMenu_61041					0	0	0						
+61111				s1540203	2				11	11																																0	0	0						
+61112				s1540203	2				11	11																																0	0	0						
+61113				s1540203	2				11	11																																0	0	0						
+61114				s1540203	2				11	11																																0	0	0						
+61125				s1540204	2	WorldNpc02604			10	10	61126	1		61126													title_61125	context_61125	accept_61125_1;menu_61125_1	complete_61125;submit_61125		target_61125		next_61125	CanAcceptMenu_61125							0	0	0						
+61126				s1540204	2					3	61127	1	61125	61127													title_61126	context_61126				target_61126										0	0	0						
+61127				s1540204	2					3			61126																													0	0	0						
+71008				s1540201	2	npc_xkd_mxm03					71009	1		71009													title_71008	context_71008	accept_71008_1;menu_71008_1	complete_71008;submit_71008		target_71008		next_71008	CanAcceptMenu_71008		CompleteMenu_71008					0	0	0						
+71009				s1540201	2		npc_xkd_mxm03						71008												SubmitNpcEx_71009		title_71009	context_71009	accept_71009_1;menu_71009_1	complete_71009;submit_71009		target_71009		next_71009	CanAcceptMenu_71009		CompleteMenu_71009					0	0	0						
+71051				s1540201	5	npc_zp_cc_002	npc_zp_cc_002		603	603								27970;112183;111981				71051			SubmitNpcEx_71051		title_71051	context_71051	accept_71051_1;menu_71051_1	complete_71051;submit_71051		target_71051		next_71051	CanAcceptMenu_71051		CompleteMenu_71051					1	0	1	1	1				
+71080	155			s1540201	8				1	1	71081	1		71081													title_71080	context_71080				target_71080		next_71080								1	0	1	1	1				
+71081	155			s1540201	8				1	1	71082	1	71080	71082													title_71081	context_71081				target_71081		next_71081								1	0	0	0					
+71082	155			s1540201	8				1	1	71083	1	71081	71083													title_71082	context_71082				target_71082		next_71082								1	0	0	0					
+71083	155			s1540201	8		NPC_qynew_dy_01		65	1															SubmitNpcEx_71083		title_71083	context_71083		complete_71083;submit_71083		target_71083		next_71083			CompleteMenu_71083					1	0	1	1	1				
+71084	156			s1540201	8				14	14	71085	1		71085													title_71084	context_71084				target_71084		next_71084								1	0	1	1	1				
+71085	156			s1540201	8						71086	1	71084	71086													title_71085	context_71085				target_71085		next_71085								1	0	0	0					
+71086	156			s1540201	8		NPC_qynew_dy_22		14	14		1	71085	71087											SubmitNpcEx_71086		title_71086	context_71086		complete_71086;submit_71086		target_71086		next_71086			CompleteMenu_71086					1	0	0	0					
+71087				s1540201																																														
+71088				s1540201																																														
+71089				s1540201																																														
+71090				s1540201																																														
+71091				s1540201																																														
+71092				s1540201																																														
+71093				s1540201																																														
+71094				s1540201																																														
+71095				s1540201																																														
+71096				s1540201																																														
+71097				s1540201																																														
+71098				s1540201																																														
+71099				s1540201																																														
+71100				s1540201																																														
+71052				s1540210	5	npc_pld_xu15	npc_pld_xu15		604	604								27970;111981							SubmitNpcEx_71052		title_71052	context_71052				target_71052		next_71052								1	0	1	1	1				
+71053				s1540210	2		NPC_pld_dy_06		604	604															SubmitNpcEx_71053		title_71053	context_71053		complete_71053;submit_71053		target_71053		next_71053			CompleteMenu_71053					1	0	0						
+71054				s1540210	2		NPC_pld_dy_06		604	604															SubmitNpcEx_71054		title_71054	context_71054		complete_71054;submit_71054		target_71054		next_71054			CompleteMenu_71054					1	0	0						

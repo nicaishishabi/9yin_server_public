@@ -1,0 +1,48 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	NpcId	SceneID	DialogID	GetItems	LostItems	TrackInfo	OkMenu	TaskID	BufferID
+77302	Gather_whzguj_001	1079				interactinfo_77302		77304	
+77306	Gather_whzguj_002	1079				interactinfo_77306		77307	
+77301	npcmp_gujwhz_001	1079	DialogID_77301			interactinfo_77301	okmenu_77301	77304	
+77303	npcmp_gujwhz_002	1079	DialogID_77303	useitem_whz_guj_001-1		interactinfo_77303	okmenu_77303	77305	
+77304	npcmp_gujwhz_003	1079	DialogID_77304	useitem_whz_guj_002-1		interactinfo_77304	okmenu_77304	77306	
+77305	npcmp_gujwhz_004	1079	DialogID_77305			interactinfo_77305	okmenu_77305	77307	
+77307	npcmp_gujwhz_005	1079	DialogID_77307	useitem_whz_guj_004-1		interactinfo_77307	okmenu_77307	77308	
+77308	npcmp_gujwhz_006	1079	DialogID_77308	useitem_whz_guj_006-1		interactinfo_77308	okmenu_77308	77309	
+77310	Gather_whzguj_003	1079				interactinfo_77310		77309	
+77311	npcmp_gujwhz_008	1079	DialogID_77311	useitem_whz_guj_007-1		interactinfo_77311	okmenu_77311	77311	
+77312	npcmp_gujwhz_009	1079	DialogID_77312			interactinfo_77312	okmenu_77312	77312	
+77313	npcmp_gujwhz_010	1079	DialogID_77313			interactinfo_77313	okmenu_77313	77313	
+77315	Gather_whzguj_004	1079				interactinfo_77315		77314	
+77316	Gather_whzguj_006	1079				interactinfo_77316		77314	
+77314	npcmp_gujwhz_011	1079	DialogID_77314			interactinfo_77314	okmenu_77314	77314	
+77318	Gather_whzguj_005	1079				interactinfo_77318		77315	
+77319	Gather_whzguj_007	1079				interactinfo_77319		77315	
+77317	npcmp_gujwhz_012	1079	DialogID_77317			interactinfo_77317	okmenu_77317	77315	
+77320	npcmp_gujwhz_013	1079	DialogID_77320			interactinfo_77320	okmenu_77320	77316	
+77321	npcmp_gujwhz_014	1079	DialogID_77321	item_whz_gujhd_005-1		interactinfo_77321	okmenu_77321	77317	
+77323	npcmp_gujwhz_016	1079	DialogID_77323			interactinfo_77323	okmenu_77323	77319	
+77324	npcmp_gujwhz_017	1079	DialogID_77324			interactinfo_77324	okmenu_77324	77320	
+77325	npcmp_gujwhz_018	1079	DialogID_77325			interactinfo_77325	okmenu_77325	77321	
+77326	npcmp_gujwhz_019	1079	DialogID_77326			interactinfo_77326	okmenu_77326	77322	
+77327	EventNpc_whzrcguj012	1079				interactinfo_77327		77322	
+77328	EventNpc_whzrcguj013	1079				interactinfo_77328		77322	
+77329	EventNpc_whzrcguj014	1079				interactinfo_77329		77322	
+77330	npcmp_gujwhz_020	1079	DialogID_77330			interactinfo_77330	okmenu_77330	77323	
+77309	npcmp_gujwhz_007	1079	DialogID_77309	useitem_whz_guj_009-1|useitem_whz_guj_010-1|useitem_whz_guj_011-1		interactinfo_77309	okmenu_77309	77310	
+77322	npcmp_gujwhz_015	1079	DialogID_77322	useitem_whz_guj_008-1		interactinfo_77322	okmenu_77322	77318	
+77331	EventNpc_dyldrcguj01	1089				interactinfo_77331		77325	
+77332	EventNpc_dyldrcguj02	1089				interactinfo_77332		77325	
+77333	EventNpc_dyldrcguj03	1089				interactinfo_77333		77325	
+77334	EventNpc_dyldrcguj04	1089				interactinfo_77334		77325	
+77335	EventNpc_dyldrcguj05	1089				interactinfo_77335		77325	
+77336	EventNpc_dyldrcguj06	1089				interactinfo_77336		77325	
+77337	npc_dyldguj_005	1089	DialogID_77337	item_dyld_ttlz_004-1|item_dyld_ttlz_005-1		interactinfo_77337	okmenu_77337	77327	
+77338	EventNpc_dyldrcguj01_01	1089				interactinfo_77338		77331	
+77339	EventNpc_dyldrcguj02_01	1089				interactinfo_77339		77331	
+77340	EventNpc_dyldrcguj03_01	1089				interactinfo_77340		77331	
+77341	EventNpc_dyldrcguj04_01	1089				interactinfo_77341		77331	
+77342	EventNpc_dyldrcguj05_01	1089				interactinfo_77342		77331	
+77343	EventNpc_dyldrcguj06_01	1089				interactinfo_77343		77331	
+77344	npc_dyldguj_008	1089	DialogID_77344	item_dyld_ttlz_004_01-1|item_dyld_ttlz_005_01-1		interactinfo_77344	okmenu_77344	77333	
+77345	NPC_hd_guj_dadiao_02	1178	DialogID_77345	bow_10101-1		interactinfo_77345	okmenu_77345	77340	buff_guj_xzsl_01
+77346	npc_shenjihui_zhouchang_1201					interactinfo_77346		77346	

@@ -1,0 +1,100 @@
+NPC编号	对象类型	名称	模型编号	NPC类型	NPC种类ID	响应范围	选择状态	脚本编号	玩家最多传送人数（-1：不限制）	玩家传送坐标	npc最多传送人数（-1：不限制）	npc传送坐标	AI编辑包
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	script	Name	Resource	NpcType	CKindID	SpringRange	SelectState	LuaScript	PlayerTransferNum	PlayerTransferPosition	NpcTransferNum	NpcTransferPosition	AIEditorPackID
+													
+GotoDoorCity04a	GotoDoor	白云洞外前往白云洞内	npc\funcnpc019	43		9	33	npc\goto_door_npc.lua	-1	"-306.917,30.925,-403.589,5.79"	0		
+GotoDoorCity04b	GotoDoor	白云洞内前往白云洞外	npc\funcnpc019	43		9	33	npc\goto_door_npc.lua	-1	"366.473,-29.005,303.975,1.41"	0		
+GotoDoorCity04c	GotoDoor	鸡冠洞外前往鸡冠洞内	npc\funcnpc019	43		9	33	npc\goto_door_npc.lua	-1	"-567.365,17.199,-403.888,1.98"	0		
+GotoDoorCity04d	GotoDoor	鸡冠洞内前往鸡冠洞外	npc\funcnpc019	43		9	33	npc\goto_door_npc.lua	-1	"100.03,11.101,175.741,4.55"	0		
+GotoDoorSchool05a	GotoDoor	墨溪前往唐门密道	npc\funcnpc019	43		3	33	npc\goto_door_npc.lua	-1	"2232.737,11.328,25.494,1.11"	0		
+GotoDoorSchool05b	GotoDoor	唐门密道前往墨溪	npc\funcnpc019	43		4	33	npc\goto_door_npc.lua	-1	"1312.849,-14.733,-86.735,5.93"	0		
+GotoDoorSchool05c	GotoDoor	唐门中央花园前往密道	npc\funcnpc019	43		1	33	npc\goto_door_npc.lua	-1	"2209.778,62.75,76.508,2.6"	0		
+GotoDoorSchool05d	GotoDoor	密道前往唐门中央花园	npc\funcnpc019	43		2	33	npc\goto_door_npc.lua	-1	"1285.879,168.887,-153.146,4.02"	0		
+													
+GotoDoorSchool10a	GotoDoor	桃花阵内传送	npc\funcnpc034	53		1	33	npc\goto_door_npc.lua	-1	"-480.250,46.373,63.250,0"	0		
+GotoDoorSchool10b	GotoDoor	桃花岛传送外	npc\funcnpc035	53		1	33						
+GotoDoorSchool10c	GotoDoor	桃花岛传送内	npc\funcnpc035	53		1	33	npc\goto_door_npc.lua	-1	"-387.250,43.669,52.750,1.6"	0		
+GotoDoorSchool10d	GotoDoor	桃花阵内传送	npc\funcnpc034	53		1	33	npc\goto_door_npc.lua	-1	"-118.250,59.415,-208.250,0"	0		
+GotoDoorSchool10e	GotoDoor	桃花阵内传送	npc\funcnpc034	53		1	33	npc\goto_door_npc.lua	-1	"-941.250,50.958,-179.250,0"	0		
+													
+GotoDoorSchoolFight02	GotoDoor	门派战内传送	npc\funcnpc019	43		5	33	npc\goto_door_npc.lua	-1	"601.4,5.25,473.9,2.98"	0		
+GotoDoorSchoolFight06	GotoDoor	门派战内传送	npc\funcnpc019	43		5	33	npc\goto_door_npc.lua	-1	"601.65,35.75,713.165,4"	0		
+GotoDoorSchoolFight08	GotoDoor	门派战内传送	npc\funcnpc019	43		5	33	npc\goto_door_npc.lua	-1	"654.58,-45.721,942.86,0.3"	0		
+													
+GotoDooryhg01	GotoDoor	百花谷传送至古墓蜂房	npc\funcnpc019	43		2	33	npc\goto_door_npc.lua	-1	"-15.371,356.510,-306.497,4.696"	0		
+GotoDooryhg02	GotoDoor	练功坪传送至虬松居	npc\funcnpc019	43		2	33	npc\goto_door_npc.lua	-1	"6.859,356.442,-368.069,3.141"	0		
+GotoDooryhg03	GotoDoor	花房树屋传送至傲梅居	npc\funcnpc019	43		2	33	npc\goto_door_npc.lua	-1	"7.173,356.442,-460.104,0.024"	0		
+GotoDooryhg05	GotoDoor	傲梅居传送至花房树屋	npc\funcnpc019	43		2	33	npc\goto_door_npc.lua	-1	"-1030.520,323.225,22.612,3.509"	0		
+GotoDooryhg06	GotoDoor	虬松居居传送至练功坪	npc\funcnpc019	43		2	33	npc\goto_door_npc.lua	-1	"-17.349,315.339,49.648,5.580"	0		
+GotoDooryhg09	GotoDoor	蜂房传送至百花谷	npc\funcnpc019	43		2	33	npc\goto_door_npc.lua	-1	"959.627,371.530,-808.759,3.434"	0		
+													
+GotoDooryhg10	GotoDoor	古墓派密室内部传送到密室外	npc\funcnpc019	43		2	33	npc\goto_door_npc.lua	-1	"-244.813,386.437,-576.347,0"	0		
+													
+GotoDoornlb_lh01	GotoDoor	前往十里红帐	npc\itemnpc057_gb01	43		2	33	npc\goto_door_npc.lua	-1	"1539.382813,81.781113,1255.456543,2.002581"	0		
+GotoDoornlb_lh02	GotoDoor	前往七色迷宫	npc\itemnpc057_gb01	43		2	33	npc\goto_door_npc.lua	-1	"1891.855225,119.44146,584.717651,4.856197"	0		
+GotoDoornlb_lh03	GotoDoor	前往红尘劫	npc\itemnpc057_gb01	43		2	33	npc\goto_door_npc.lua	-1	"2036.614258,119.021461,1092.5354,1.128822"	0		
+GotoDoornlb_lh04	GotoDoor	前往胭脂谷	npc\itemnpc057_gb01	43		2	33	npc\goto_door_npc.lua	-1	"2587.488525,107.972603,735.406799,2.117116"	0		
+GotoDoornlb_lh05	GotoDoor	前往天香阁	npc\itemnpc057_gb01	43		2	33	npc\goto_door_npc.lua	-1	"2089.928467,112.638535,853.205444,4.044613"	0		
+GotoDoornlb_lh06	GotoDoor	前往翠玉谷	npc\itemnpc057_gb01	43		2	33	npc\goto_door_npc.lua	-1	"1774.626587,113.597969,390.753204,2.143297"	0		
+GotoDoornlb_lh07	GotoDoor	前往云水榭	npc\itemnpc057_gb01	43		2	33	npc\goto_door_npc.lua	-1	"1932.559448,101.332993,971.083679,2.568721"	0		
+													
+GotoDoorcfbjdbdh01	GotoDoor	夺镖大会传送出比赛场景	npc\funcnpc019	43		2	33	npc\goto_door_npc.lua	-1	"731.7,4.3,1801.6,-3.1"	0		
+													
+GotoDoorhsp_jumpqz	GotoDoor	华山派气宗跳墙触发	npc\itemnpc057	43		2	33		-1	"1453.5,252.7,420.1"	0		
+GotoDoorhsp_jumprk	GotoDoor	华山派入口跳墙触发	npc\itemnpc057	43		2	33		-1	"1547.5,154.2,954.3"	0		
+GotoDoorhsp_jumpzj	GotoDoor	华山派折剑跳墙触发	npc\itemnpc057	43		2	33		-1	"1637.6,141.8,852.4"	0		
+GotoDoorhsp_jumplh	GotoDoor	华山派莲花跳墙触发	npc\itemnpc057	43		2	33		-1	"1283.1,245.3,568.5"	0		
+GotoDoorhsp_jumpzx	GotoDoor	华山派谪仙跳墙触发	npc\itemnpc057	43		2	33		-1	"1652.7,146.42,534.707"	0		
+													
+GotoDoorerg001	GotoDoor	恶人谷剧情传送	npc\itemnpc057	43		2	33	npc\goto_door_npc.lua	-1	"756.436,21.473,481.644,1.538"	0		
+													
+GotoDoorSchool20A	GotoDoor	前往密道	npc\funcnpc019	43		3	33	npc\goto_door_npc.lua	-1	"32.975,23.263,1354.311,3.12319"	0		
+GotoDoorSchool20B	GotoDoor	前往明教后山	npc\funcnpc019	43		3	33	npc\goto_door_npc.lua	-1	"181.536,205.681,542.218,-3.023183"	0		
+													
+GotoDoormj_guj04	GotoDoor	前往耀金殿	npc\itemnpc057_gb01	43		2	33	npc\goto_door_npc.lua	-1	"113.962,90.272,120.333,4.765"	0		
+GotoDoormj_guj05	GotoDoor	前往风水宝地	npc\itemnpc057_gb01	43		2	33	npc\goto_door_npc.lua	-1	"303.7,93.4,44.7,2.3"	0		
+													
+GotoDoortsp_guj04	GotoDoor	前往演武堂	npc\itemnpc057_lengpf006	43		2	33	npc\goto_door_npc.lua	-1	"1011.3,157.9,1121.4,-1.5"	0		
+GotoDoortsp_guj05	GotoDoor	前往风水宝地	npc\itemnpc057_lengpf006	43		2	33	npc\goto_door_npc.lua	-1	"965.9,165.7,943.7,-1.4"	0		
+													
+GotoDoorxmg_gujxmg01	GotoDoor	星渺阁	npc\itemnpc057	43		2	33		-1		0		
+GotoDoorxmg_gujxmg02	GotoDoor	星渺阁	npc\itemnpc057	43		2	33		-1		0		
+													
+GotoDoorxmg_jch01	GotoDoor	前往观星岛	npc\itemnpc057_yhg05	43		2	33	npc\goto_door_npc.lua	-1	"-171.637,200.226,497.558,-0.034"	0		
+GotoDoorxmg_jch02	GotoDoor	前往星渺阁	npc\itemnpc057_yhg05	43		2	33	npc\goto_door_npc.lua	-1	"-145.543,222.227,360.783,-2.824"	0		
+													
+GotoDoorsyjq_guj04	GotoDoor	前往船上	npc\fbmac004012y	43		2	33	npc\goto_door_npc.lua	-1	"143.9,-1.8,660.2,-0.4"	0		
+GotoDoorsyjq_guj05	GotoDoor	前往岸边	npc\fbmac004012y	43		2	33	npc\goto_door_npc.lua	-1	"134.0,-0.2,614.3,1.6"	0		
+GotoDoorsyjq_guj06	GotoDoor	传送	npc\fbmac004012y	43		2	33		-1		0		
+													
+GotoDoorklp_guj04	GotoDoor	前往岛上	npc\fbmac004012y	43		2	33	npc\goto_door_npc.lua	-1	"-280.354,75.905,-13.530,3.23"	0		
+GotoDoorklp_guj05	GotoDoor	前往岸边	npc\fbmac004012y	43		2	33	npc\goto_door_npc.lua	-1	"-217.465,71.873,-19.741,2.61"	0		
+													
+GotoDoortyhg_lzy01	GotoDoor	前往岸边	npc\itemnpc057_gb01	43		2	33	npc\goto_door_npc.lua	-1	"1536.9,15.1,1763.6,0.25"	0		
+													
+GotoDoorzch_zyb01	GotoDoor	前往岸边	npc\funcnpc019_3	43		2	33	npc\goto_door_npc.lua	-1	"753.3,42.7,715,-2.5"	0		
+GotoDoorzcl_zyb01	GotoDoor	前往岸边	npc\funcnpc019_4	43		2	33	npc\goto_door_npc.lua	-1	"254.1,57.7,418.4,1"	0		
+													
+GotoDoorxtc_lzy01	GotoDoor	前往岛上	npc\fbmac004012y	43		2	33	npc\goto_door_npc.lua	-1	"-210.9,27.9,555.1,3"	0		
+GotoDoorxtc_lzy02	GotoDoor	前往岸边	npc\fbmac004012y	43		2	33	npc\goto_door_npc.lua	-1	"-260.9,77.9,446.2,3.14"	0		
+													
+GotoDoorwhz_guj01	GotoDoor	前往望辉洲-船上	npc\itemnpc057_ymg01	43		2	33		-1		0		
+													
+GotoDoorwhz_guj02	GotoDoor	前往望辉洲场景	npc\fbmac004012y	43		2	33	npc\goto_door_npc.lua	-1	"124.035,10.6,33.322,2.84"	0		
+													
+GotoDoorscene38a	GotoDoor	前往阁楼	npc\itemnpc057k	43		1	33	npc\goto_door_npc.lua	-1	"-691.633,234.342,-1675.954,-1.75"	0		
+GotoDoorscene38b	GotoDoor	前往二楼	npc\itemnpc057k	43		1	33	npc\goto_door_npc.lua	-1	"-712.126,166.941,-1680.699,3.02"	0		
+GotoDoorscene_dy_001	GotoDoor	阁楼回大厅	npc\itemnpc057k	43		1	33	npc\goto_door_npc.lua	-1	"-711.903,166.943,-1668.254,3.105"	0		
+GotoDoorscene_dy_002	GotoDoor	前往地牢	npc\itemnpc057k	43		1	33	npc\goto_door_npc.lua	-1	"4091.342,10.001,-3928.855,1.536"	0		
+GotoDoorscene_dy_003	GotoDoor	离开地牢	npc\itemnpc057k	43		1	33	npc\goto_door_npc.lua	-1	"-816.923,138.589,-1571.904,0.154"	0		
+													
+GotoDoorschool30A	GotoDoor	前往竹墟	npc\itemnpc057k	43		1	33	npc\goto_door_npc.lua	-1	"-3976.606,27.598,-5523.22,1.665"	0		
+GotoDoorschool30B	GotoDoor	前往祭坛	npc\itemnpc057k	43		1	33	npc\goto_door_npc.lua	-1	"-4152.839,-42.535,-5445.52,-0.405"	0		
+GotoDoorschool30C	GotoDoor	前往湘夫人圃	npc\itemnpc057k	43		1	33	npc\goto_door_npc.lua	-1	"-3916.141,62.139,-5826.792,-1.66"	0		
+GotoDoorschool30D	GotoDoor	前往灵泉	npc\itemnpc057k	43		1	33	npc\goto_door_npc.lua	-1	"-4189.745,-38.591,-5861.909,-3.08"	0		
+GotoDoorschool30E	GotoDoor	前往云中阶梯	npc\itemnpc057k	43		1	33	npc\goto_door_npc.lua	-1	"-4456.334,-48.684,-5703.357,-1.979999"	0		
+GotoDoorschool30F	GotoDoor	前往云参拜台	npc\itemnpc057k	43		1	33	npc\goto_door_npc.lua	-1	"-4345.218,-120.374,-5470.351,-2.324998"	0		
+GotoDoorschool30G	GotoDoor	前往太一悬宫	npc\itemnpc057k	43		1	33	npc\goto_door_npc.lua	-1	"-4106.513,-50.053,-5588.695,-1.73"	0		
+GotoDoorschool30H	GotoDoor	前往太一悬宫	npc\itemnpc057k	43		1	33	npc\goto_door_npc.lua	-1	"-4258.586,-46.017,-5697.496,0.16"	0		
+GotoDoorschool30I	GotoDoor	前往太一悬宫	npc\itemnpc057k	43		1	33	npc\goto_door_npc.lua	-1	"-4357.067,-49.896,-5661.564,1.66"	0		
+GotoDoorschool30J	GotoDoor	前往太一悬宫	npc\itemnpc057k	43		1	33	npc\goto_door_npc.lua	-1	"-4275.5649,-56.938,-5440.021,1.02"	0		

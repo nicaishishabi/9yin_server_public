@@ -1,0 +1,46 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	Plot	Title	Step	SearchID	Line	AcceptNpc	SubmitNpc	SceneID	AcceptSceneID	SubmitSceneID	AutoAcceptID	AutoSubmit	PreTaskLimit	NextTaskLimit	NotShowMenu	Relation	LuckValue	AcceptLimit	SubmitLimit	AcceptDecMoney	SubFunction	TaskItemList	RefreshMonster	TimeLimitLength	SubmitNpcEx	TaskScript	TitleId	ContextId	AcceptDialogId	CompleteDialogId	UnCompleteDialogId	TaskTargetId	TrackInfoID	LineNextInfo	CanAcceptMenu	UncompleteMenu	CompleteMenu	AcceptMovie	SubmitMovie	DramaAccept	DramaSubmit	CanGiveup	ShareType	RepeatType	RepeatPeriod	CountDayLimit	DifficultCoefficient	DifficultLevel	EnterSchool
+77261				s1840103	13				1079	1079	77262	1	77222	77262											SubmitNpcEx_77261		title_77261	context_77261				target_77261		next_77261								0	0	0					
+77262				s1840103	13				1079	1079	77263	1	77261	77263								77201			SubmitNpcEx_77262		title_77262	context_77262				target_77262		next_77262								0	0	0					
+77263				s1840103	13				1079	1079	77264	1	77262	77264													title_77263	context_77263				target_77263		next_77263					10188			0	0	0					
+77264				s1840103	13				1079	1079	77265	1	77263	77265											SubmitNpcEx_77264		title_77264	context_77264				target_77264		next_77264								0	0	0					
+77265				s1840103	13				1079	1079	77266	1	77264	77266											SubmitNpcEx_77265		title_77265	context_77265				target_77265		next_77265					10189			0	0	0					
+77266				s1840104	13				1079	1079	77267	1	77265	77267											SubmitNpcEx_77266		title_77266	context_77266				target_77266		next_77266								0	0	0					
+77267				s1840104	13				1079	1079	77268	1	77266	77268											SubmitNpcEx_77267		title_77267	context_77267				target_77267		next_77267								0	0	0					
+77268				s1840104	13				1079	1079	77269	1	77267	77269											SubmitNpcEx_77268		title_77268	context_77268				target_77268		next_77268					10191			0	0	0					
+77269				s1840104	13				1079	1079	77270	1	77268	77270											SubmitNpcEx_77269		title_77269	context_77269				target_77269		next_77269								0	0	0					
+77270				s1840104	13		nmpwhc_hhm_034		1079	1079			77269												SubmitNpcEx_77270		title_77270	context_77270		complete_77270;submit_77270		target_77270		next_77270			CompleteMenu_77270					0	0	0					
+77201				s1840204	13	newmp_xingtb_001			1036	1036	77202	1		77202				17052;200252;109803;200915									title_77201	context_77201	accept_77201_1;menu_77201_1			target_77201		next_77201	CanAcceptMenu_77201							1	0	0					
+77202				s1840204	13				1036	1036	77203	1	77201	77203													title_77202	context_77202				target_77202		next_77202								0	0	0					
+77203				s1840204	13	npc_whc_dy_02			1036	1036	77204	1	77202	77204													title_77203	context_77203				target_77203		next_77203								0	0	0					
+77204				s1840204	13				1036	1036	77205	1	77203	77205													title_77204	context_77204				target_77204		next_77204								0	0	0					
+77205				s1840204	13				1036	1036	77206	1	77204	77206													title_77205	context_77205				target_77205		next_77205								0	0	0					
+77206				s1840204	13	npc_whc_dy_04			1036	1036	77207	1	77205	77207													title_77206	context_77206				target_77206		next_77206								0	0	0					
+77207				s1840204	13		newmp_whz_001		1036	1079	77215		77206	77215											SubmitNpcEx_77207		title_77207	context_77207		complete_77207;submit_77207		target_77207		next_77207			CompleteMenu_77207					0	0	0					
+77208				s1840201	13	WorldNpc09626			17	17	77209	1		77209				109298;200915;109803									title_77208	context_77208	accept_77208_1;menu_77208_1			target_77208		next_77208	CanAcceptMenu_77208							1	0	0					
+77209				s1840201	13				17	17	77210	1	77208	77210													title_77209	context_77209				target_77209		next_77209								0	0	0					
+77210				s1840201	13				17	17	77211	1	77209	77211													title_77210	context_77210				target_77210		next_77210								0	0	0					
+77211				s1840201	13				17	17	77212	1	77210	77212													title_77211	context_77211				target_77211		next_77211								0	0	0					
+77212				s1840201	13				17	17	77213	1	77211	77213													title_77212	context_77212				target_77212		next_77212								0	0	0					
+77213				s1840201	13		newmp_whz_001		17	1079	77215		77212	77215											SubmitNpcEx_77213		title_77213	context_77213		complete_77213;submit_77213		target_77213		next_77213			CompleteMenu_77213					0	0	0					
+77214				s1840203	13	npc_wanghui_kyf_003	newmp_whz_001		17	1079	77215			77215				200915;17119;109595				77203			SubmitNpcEx_77214		title_77214	context_77214	accept_77214_1;menu_77214_1	complete_77214;submit_77214		target_77214		next_77214	CanAcceptMenu_77214		CompleteMenu_77214					1	0	0					
+77215				s1840101	13	newmp_whz_001			1079	1079	77216	1		77216				200787									title_77215	context_77215	accept_77215_1;menu_77215_1			target_77215		next_77215	CanAcceptMenu_77215			10187				0	0	0					
+77216				s1840101	13				1079	1079	77217	1	77215	77217													title_77216	context_77216				target_77216		next_77216								0	0	0					
+77217				s1840101	13				1079	1079	77223	1	77216	77218													title_77217	context_77217				target_77217		next_77217								0	0	0					
+77223				s1840101	13				1079	1079	77218	1	77217	77218													title_77223	context_77223				target_77223		next_77223								0	0	0					
+77218				s1840102	13				1079	1079	77219	1	77223	77219													title_77218	context_77218				target_77218		next_77218								0	0	0					
+77219				s1840102	13				1079	1079	77220	1	77218	77220													title_77219	context_77219				target_77219		next_77219								0	0	0					
+77220				s1840102	13				1079	1079	77221	1	77219	77221													title_77220	context_77220				target_77220		next_77220								0	0	0					
+77221				s1840102	13				1079	1079	77222	1	77220	77222													title_77221	context_77221				target_77221		next_77221								0	0	0					
+77222				s1840102	13				1079	1079	77261	1	77221	77261								77202					title_77222	context_77222				target_77222		next_77222								0	0	0					
+77271				s1840501	13	nmpwhc_gsfhhm_001			1079	1079	77272	1		77272				121314							SubmitNpcEx_77271		title_77271	context_77271	accept_77271_1;menu_77271_1	complete_77271;submit_77271		target_77271		next_77271	CanAcceptMenu_77271		CompleteMenu_77271					0	0	0					
+77272				s1840501	13				1079	1079	77273	1	77271	77273													title_77272	context_77272	accept_77272_1;menu_77272_1	complete_77272;submit_77272		target_77272		next_77272	CanAcceptMenu_77272		CompleteMenu_77272					0	0	0					
+77273				s1840501	13				1079	1079	77274	1	77272	77274													title_77273	context_77273				target_77273		next_77273								0	0	0					
+77274				s1840501	13				1079	1079	77275	1	77273	77275													title_77274	context_77274				target_77274		next_77274								0	0	0					
+77275				s1840501	13		nmpwhc_gsfhhm_009		1079	1079			77274												SubmitNpcEx_77275		title_77275	context_77275	accept_77275_1;menu_77275_1	complete_77275;submit_77275		target_77275			CanAcceptMenu_77275		CompleteMenu_77275					0	0	0					
+77224				s1840501	5	npc_whc_dy_73	npc_whc_dy_73		1079	1079								200787;200906							SubmitNpcEx_77224		title_77224	context_77224	accept_77224_1;menu_77224_1	complete_77224;submit_77224		target_77224		next_77224	CanAcceptMenu_77224		CompleteMenu_77224					1	0	3	1	1			
+77225				s1840501	5	npc_whc_dy_74	npc_whc_dy_74		1079	1079								200787;200906							SubmitNpcEx_77225		title_77225	context_77225	accept_77225_1;menu_77225_1	complete_77225;submit_77225		target_77225		next_77225	CanAcceptMenu_77225		CompleteMenu_77225					1	0	3	1	1			
+77226				s1840501	5	npc_whc_dy_75	npc_whc_dy_75		1079	1079								200787;200906							SubmitNpcEx_77226		title_77226	context_77226	accept_77226_1;menu_77226_1	complete_77226;submit_77226		target_77226		next_77226	CanAcceptMenu_77226		CompleteMenu_77226					1	0	3	1	1			
+77227				s1840501	5	npc_whc_dy_75	npc_whc_dy_75		1079	1079								200787;200906							SubmitNpcEx_77227		title_77227	context_77227	accept_77227_1;menu_77227_1	complete_77227;submit_77227		target_77227		next_77227	CanAcceptMenu_77227		CompleteMenu_77227					1	0	3	1	1			
+77228				s1840501	5	npc_whc_dy_75	npc_whc_dy_75		1079	1079								200787;200906							SubmitNpcEx_77228		title_77228	context_77228	accept_77228_1;menu_77228_1	complete_77228;submit_77228		target_77228		next_77228	CanAcceptMenu_77228		CompleteMenu_77228					1	0	3	1	1			
+77241				s1840301	5	hd_wyhd_001	hd_wyhd_001		14	14								203615;17545							SubmitNpcEx_77241		title_77241	context_77241	accept_77241_1;menu_77241_1	complete_77241;submit_77241		target_77241		next_77241	CanAcceptMenu_77241		CompleteMenu_77241					0	0	1	1	1			

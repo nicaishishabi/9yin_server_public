@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="AE879530E36A4B2FA052FF814624D4E0" x="688.129" y="137.346" z="-229.203" radius="10.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" StaticY="1" HateLink="1">
+            <item No="1" id="Npc_wxts_04" ax="0.087" az="0.192" amount="1" refreshtime="30000" NotPositive="0" desc="天山雪莲">
+                <position x="687.404" y="136.755" z="-228.698" ax="0.087" az="0.192" />
+            </item>
+        </creator>
+        <creator No="068393BD3559402B9795EA7795870A52" x="116.944" y="6.982" z="-365.365" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="15637" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_xdm_dy_zc6" ay="0.394" amount="1" refreshtime="10000" NotPositive="0" desc="大漠奇草" />
+        </creator>
+    </randomcreator>
+</object>

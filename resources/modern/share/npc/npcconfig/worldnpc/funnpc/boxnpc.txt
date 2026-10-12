@@ -1,0 +1,1235 @@
+NPC±àºÅ	¶ÔÏóÀàÐÍ	Ãû³Æ	Ä£ÐÍ±àºÅ			NPCÖÖÀàID	ÏìÓ¦·¶Î§	Ñ¡Ôñ²Ù×÷·ÖÀà	½Å±¾±àºÅ	²É¼¯·¶Î§	²É¼¯¶¯×÷Ãû	¶ÁÌõÊ±¼ä(ms)	µôÂä	ÎÞÊ°È¡ÎïÏûÊ§Ê±¼ä£¨s£©	×î´óÏûÊ§Ê±¼ä(s)	±¦Ïä¿ªÆôÇ°ÌØÐ§	±¦Ïä¿ªÆôºóÌØÐ§	Ô¿³×ÊýÁ¿	Ô¿³×id	NPCÌØÐ§Ãû³Æ	Êó±êÐÎ×´	¿ªÆôÌõ¼þ	Ëõ·Å	·ÖÅäÀàÐÍ	´æÔÚÊ±¼ä	´óÌÓÉ±×¨ÓÃ	ÍÅ¶ÓµÀ¾ßÏÔÊ¾	Ãæ¾ß¾­Ñé	Õ½³¡Ðþ»úÖµ														
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING														
+ID	script	Name	Resource	Photo	NpcType	CKindID	SpringRange	SelectState	LuaScript	OpenRange	OpenAction	DelayTime	DropID	DestroyTime1	DestoryTime2	BeforeOpenEffect	AfterOpenEffect	KeyNum	KeyID	NpcEffect	CursorShape	ConditionID	Scale	AllotType	LifeTime	TaoShaNpcType	IsDropTip	MyrExp	MyrPointB														
+																																											
+BoxNpc10001	BoxNpc	Ä¾ÖÊ±¦Ïä	npc\itemnpc586	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	comd_drop_taskitem_xiakexing_01	3	900						28																						
+BoxNpc10002	BoxNpc	Ä¾ÖÊ±¦Ïä	npc\itemnpc586	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	5000	comd_drop_taskitem_xiakexing_01	3	900						28																						
+BoxNpc10003	BoxNpc	Í­ÖÊ±¦Ïä	npc\itemnpc587	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	comd_drop_taskitem_xiakexing_02	3	900						28																						
+BoxNpc10004	BoxNpc	Í­ÖÊ±¦Ïä	npc\itemnpc587	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	comd_drop_taskitem_xiakexing_02	3	900						28																						
+BoxNpc10005	BoxNpc	¶ÆÒø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	comd_drop_taskitem_xiakexing_03	3	900						28																						
+BoxNpc10006	BoxNpc	¶ÆÒø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	comd_drop_taskitem_xiakexing_03	3	900						28																						
+BoxNpc10007	BoxNpc	¶Æ½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	comd_drop_taskitem_xiakexing_04	3	900						28																						
+BoxNpc10008	BoxNpc	¶Æ½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	5000	comd_drop_taskitem_xiakexing_04	3	900						28																						
+BoxNpc10009	BoxNpc	ÏâÓñ±¦Ïä	npc\itemnpc590	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	5000	comd_drop_taskitem_xiakexing_05	3	900						28																						
+BoxNpc10010	BoxNpc	ÏâÓñ±¦Ïä	npc\itemnpc590	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	5000	comd_drop_taskitem_xiakexing_05	3	900						28																						
+BoxNpc10011	BoxNpc	ºÚÌú±¦Ïä	npc\itemnpc591	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	5000	comd_drop_taskitem_xiakexing_06	3	900						28																						
+BoxNpc10012	BoxNpc	ºÚÌú±¦Ïä	npc\itemnpc591	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	5000	comd_drop_taskitem_xiakexing_06	3	900						28																						
+BoxNpc10013	BoxNpc	ÏâÍ­´¢Îï¹ñ	npc\itemboxnpc002	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	5000	NormalBox06000	3	900						28																						
+BoxNpc10014	BoxNpc	ÎäÆ÷¼Ü	npc\fbmac00040	icon\funcnpc\fbmac00040.png	161		3	9		2	interact041	0	NormalBox01001	1	120000						28																						
+BoxNpc10015	BoxNpc	ÎäÆ÷¼Ü	npc\fbmac00040	icon\funcnpc\fbmac00040.png	161		3	9		2	interact041	5000	NormalBox01001	3	900						28																						
+BoxNpc10016	BoxNpc	ÎäÆ÷¼Ü	npc\fbmac00040	icon\funcnpc\fbmac00040.png	161		3	9		2	interact041	5000	NormalBox02001	3	900						28																						
+BoxNpc10017	BoxNpc	ÎäÆ÷¼Ü	npc\fbmac00040	icon\funcnpc\fbmac00040.png	161		3	9		2	interact041	5000	NormalBox02001	3	900						28																						
+BoxNpc10018	BoxNpc	ÎäÆ÷¼Ü	npc\fbmac00040	icon\funcnpc\fbmac00040.png	161		3	9		2	interact041	5000	NormalBox03001	3	900						28																						
+BoxNpc10019	BoxNpc	ÎäÆ÷¼Ü	npc\fbmac00040	icon\funcnpc\fbmac00040.png	161		3	9		2	interact041	5000	NormalBox03001	3	900						28																						
+BoxNpc10020	BoxNpc	ÎäÆ÷¼Ü	npc\fbmac00040	icon\funcnpc\fbmac00040.png	161		3	9		2	interact041	5000	NormalBox04001	3	900						28																						
+BoxNpc10021	BoxNpc	ÎäÆ÷¼Ü	npc\fbmac00040	icon\funcnpc\fbmac00040.png	161		3	9		2	interact041	5000	NormalBox04001	3	900						28																						
+BoxNpc10022	BoxNpc	ÎäÆ÷¼Ü	npc\fbmac00040	icon\funcnpc\fbmac00040.png	161		3	9		2	interact041	5000	NormalBox05001	3	900						28																						
+BoxNpc10023	BoxNpc	ÎäÆ÷¼Ü	npc\fbmac00040	icon\funcnpc\fbmac00040.png	161		3	9		2	interact041	5000	NormalBox05001	3	900						28																						
+BoxNpc10024	BoxNpc	ÎäÆ÷¼Ü	npc\fbmac00040	icon\funcnpc\fbmac00040.png	161		3	9		2	interact041	5000	NormalBox06001	3	900						28																						
+BoxNpc10025	BoxNpc	ÎäÆ÷¼Ü	npc\fbmac00040	icon\funcnpc\fbmac00040.png	161		3	9		2	interact041	5000	NormalBox06001	3	900						28																						
+BoxNpc10026	BoxNpc	ÎäÆ÷¼Ü	npc\fbmac00040	icon\funcnpc\fbmac00040.png	161		3	9		2	interact041	5000	NormalBox06001	3	900						28																						
+BoxNpc10027	BoxNpc	Êé¶Ñ	npc\itemnpc048	icon\funcnpc\itemnpc048.png	161		3	9		2	interact041	5000	NormalBox01002	3	900						28																						
+BoxNpc10028	BoxNpc	¾«ÖÂµÄÏä×Ó	npc\itemboxnpc002	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	5000	NormalBox03004	3	900						28																						
+BoxNpc10029	BoxNpc	Êé¶Ñ	npc\itemnpc048	icon\funcnpc\itemnpc048.png	161		3	9		2	interact041	5000	NormalBox01002	3	900						28																						
+BoxNpc10030	BoxNpc	Êé¶Ñ	npc\itemnpc048	icon\funcnpc\itemnpc048.png	161		3	9		2	interact041	5000	NormalBox02002	3	900						28																						
+BoxNpc10031	BoxNpc	Êé¶Ñ	npc\itemnpc048	icon\funcnpc\itemnpc048.png	161		3	9		2	interact041	5000	NormalBox02002	3	900						28																						
+BoxNpc10032	BoxNpc	Êé¶Ñ	npc\itemnpc048	icon\funcnpc\itemnpc048.png	161		3	9		2	interact041	5000	NormalBox02002	3	900						28																						
+BoxNpc10033	BoxNpc	Êé¶Ñ	npc\itemnpc048	icon\funcnpc\itemnpc048.png	161		3	9		2	interact041	5000	NormalBox02002	3	900						28																						
+BoxNpc10034	BoxNpc	Êé¶Ñ	npc\itemnpc048	icon\funcnpc\itemnpc048.png	161		3	9		2	interact041	5000	NormalBox03002	3	900						28																						
+BoxNpc10035	BoxNpc	Êé¶Ñ	npc\itemnpc049	icon\funcnpc\itemnpc049.png	161		3	9		2	interact041	5000	NormalBox04002	3	900						28																						
+BoxNpc10036	BoxNpc	Êé¶Ñ	npc\itemnpc049	icon\funcnpc\itemnpc049.png	161		3	9		2	interact041	5000	NormalBox04002	3	900						28																						
+BoxNpc10037	BoxNpc	Êé¶Ñ	npc\itemnpc049	icon\funcnpc\itemnpc049.png	161		3	9		2	interact041	5000	NormalBox05002	3	900						28																						
+BoxNpc10038	BoxNpc	Êé¶Ñ	npc\itemnpc049	icon\funcnpc\itemnpc049.png	161		3	9		2	interact041	5000	NormalBox05002	3	900						28																						
+BoxNpc10039	BoxNpc	Êé¶Ñ	npc\itemnpc049	icon\funcnpc\itemnpc049.png	161		3	9		2	interact041	5000	NormalBox06002	3	900						28																						
+BoxNpc10040	BoxNpc	Êé¶Ñ	npc\itemnpc048	icon\funcnpc\itemnpc048.png	161		3	9		2	interact041	5000	NormalBox01002	3	900						28																						
+BoxNpc10041	BoxNpc	¾«ÖÂµÄÏä×Ó	npc\itemboxnpc003	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	5000	NormalBox06004	3	900						28																						
+BoxNpc10042	BoxNpc	Êé¶Ñ	npc\itemnpc048	icon\funcnpc\itemnpc048.png	161		3	9		2	interact041	5000	NormalBox01002	3	900						28																						
+BoxNpc10043	BoxNpc	Êé¶Ñ	npc\itemnpc048	icon\funcnpc\itemnpc048.png	161		3	9		2	interact041	5000	NormalBox02002	3	900						28																						
+BoxNpc10044	BoxNpc	Êé¶Ñ	npc\itemnpc048	icon\funcnpc\itemnpc048.png	161		3	9		2	interact041	5000	NormalBox02002	3	900						28																						
+BoxNpc10045	BoxNpc	Êé¶Ñ	npc\itemnpc048	icon\funcnpc\itemnpc048.png	161		3	9		2	interact041	5000	NormalBox02002	3	900						28																						
+BoxNpc10046	BoxNpc	Êé¶Ñ	npc\itemnpc048	icon\funcnpc\itemnpc048.png	161		3	9		2	interact041	5000	NormalBox02002	3	900						28																						
+BoxNpc10047	BoxNpc	Êé¶Ñ	npc\itemnpc048	icon\funcnpc\itemnpc048.png	161		3	9		2	interact041	5000	NormalBox03002	3	900						28																						
+BoxNpc10048	BoxNpc	Êé¶Ñ	npc\itemnpc049	icon\funcnpc\itemnpc049.png	161		3	9		2	interact041	5000	NormalBox04002	3	900						28																						
+BoxNpc10049	BoxNpc	Êé¶Ñ	npc\itemnpc049	icon\funcnpc\itemnpc049.png	161		3	9		2	interact041	5000	NormalBox04002	3	900						28																						
+BoxNpc10050	BoxNpc	Êé¶Ñ	npc\itemnpc049	icon\funcnpc\itemnpc049.png	161		3	9		2	interact041	5000	NormalBox05002	3	900						28																						
+BoxNpc10051	BoxNpc	Êé¶Ñ	npc\itemnpc049	icon\funcnpc\itemnpc049.png	161		3	9		2	interact041	5000	NormalBox05002	3	900						28																						
+BoxNpc10052	BoxNpc	Êé¶Ñ	npc\itemnpc049	icon\funcnpc\itemnpc049.png	161		3	9		2	interact041	5000	NormalBox06002	3	900						28																						
+BoxNpc10053	BoxNpc	Êé¶Ñ	npc\itemnpc048	icon\funcnpc\itemnpc048.png	161		3	9		2	interact041	5000	NormalBox01002	3	900						28																						
+BoxNpc10054	BoxNpc	¾«ÖÂµÄÀñºÐ	npc\itemnpc201	icon\funcnpc\itemnpc201.png	161		3	9		2	interact041	5000	NormalBox03004	3	900						28																						
+BoxNpc10055	BoxNpc	Êé¶Ñ	npc\itemnpc048	icon\funcnpc\itemnpc048.png	161		3	9		2	interact041	5000	NormalBox01002	3	900						28																						
+BoxNpc10056	BoxNpc	Êé¶Ñ	npc\itemnpc048	icon\funcnpc\itemnpc048.png	161		3	9		2	interact041	5000	NormalBox02002	3	900						28																						
+BoxNpc10057	BoxNpc	Êé¶Ñ	npc\itemnpc048	icon\funcnpc\itemnpc048.png	161		3	9		2	interact041	5000	NormalBox02002	3	900						28																						
+BoxNpc10058	BoxNpc	Êé¶Ñ	npc\itemnpc048	icon\funcnpc\itemnpc048.png	161		3	9		2	interact041	5000	NormalBox02002	3	900						28																						
+BoxNpc10059	BoxNpc	Êé¶Ñ	npc\itemnpc048	icon\funcnpc\itemnpc048.png	161		3	9		2	interact041	5000	NormalBox02002	3	900						28																						
+BoxNpc10060	BoxNpc	Êé¶Ñ	npc\itemnpc048	icon\funcnpc\itemnpc048.png	161		3	9		2	interact041	5000	NormalBox03002	3	900						28																						
+BoxNpc10061	BoxNpc	Êé¶Ñ	npc\itemnpc049	icon\funcnpc\itemnpc049.png	161		3	9		2	interact041	5000	NormalBox04002	3	900						28																						
+BoxNpc10062	BoxNpc	Êé¶Ñ	npc\itemnpc049	icon\funcnpc\itemnpc049.png	161		3	9		2	interact041	5000	NormalBox04002	3	900						28																						
+BoxNpc10063	BoxNpc	Êé¶Ñ	npc\itemnpc049	icon\funcnpc\itemnpc049.png	161		3	9		2	interact041	5000	NormalBox05002	3	900						28																						
+BoxNpc10064	BoxNpc	Êé¶Ñ	npc\itemnpc049	icon\funcnpc\itemnpc049.png	161		3	9		2	interact041	5000	NormalBox05002	3	900						28																						
+BoxNpc10065	BoxNpc	Êé¶Ñ	npc\itemnpc049	icon\funcnpc\itemnpc049.png	161		3	9		2	interact041	5000	NormalBox06002	3	900						28																						
+BoxNpc10066	BoxNpc	³Â¾ÉµÄÄ¾Ïä	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	NormalBox03003	3	900						28																						
+BoxNpc10067	BoxNpc	¾«ÖÂµÄÏä×Ó	npc\itemboxnpc003	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	5000	NormalBox05004	3	900						28																						
+BoxNpc10068	BoxNpc	Ä¾ÖÆ´¢ÎïÏä	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	NormalBox01005	3	900						28																						
+BoxNpc10069	BoxNpc	Ä¾ÖÆ´¢ÎïÏä	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	NormalBox02005	3	900						28																						
+BoxNpc10070	BoxNpc	Ä¾ÖÆ´¢ÎïÏä	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	NormalBox03005	3	900						28																						
+BoxNpc10071	BoxNpc	Ä¾ÖÆ´¢ÎïÏä	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	NormalBox04005	3	900						28																						
+BoxNpc10072	BoxNpc	Ä¾ÖÆ´¢ÎïÏä	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	NormalBox05005	3	900						28																						
+BoxNpc10073	BoxNpc	Ä¾ÖÆ´¢ÎïÏä	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	NormalBox06005	3	900						28																						
+BoxNpc10074	BoxNpc	¾«ÖÂµÄºÐ×Ó	npc\fbmac003020	icon\funcnpc\fbmac003020.png	161		3	9		2	interact041	5000	NormalBox01004	3	900						28																						
+BoxNpc10075	BoxNpc	¾«ÖÂµÄºÐ×Ó	npc\fbmac003020	icon\funcnpc\fbmac003020.png	161		3	9		2	interact041	5000	NormalBox02004	3	900						28																						
+BoxNpc10076	BoxNpc	¾«ÖÂµÄºÐ×Ó	npc\fbmac003020	icon\funcnpc\fbmac003020.png	161		3	9		2	interact041	5000	NormalBox03004	3	900						28																						
+BoxNpc10077	BoxNpc	¾«ÖÂµÄºÐ×Ó	npc\fbmac003020	icon\funcnpc\fbmac003020.png	161		3	9		2	interact041	5000	NormalBox04004	3	900						28																						
+BoxNpc10078	BoxNpc	¾«ÖÂµÄºÐ×Ó	npc\fbmac003020	icon\funcnpc\fbmac003020.png	161		3	9		2	interact041	5000	NormalBox05004	3	900						28																						
+BoxNpc10079	BoxNpc	³Â¾ÉµÄÄ¾Ïä	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	NormalBox03003	3	900						28																						
+BoxNpc10080	BoxNpc	¾«ÖÂµÄÏä×Ó	npc\itemboxnpc002	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	5000	NormalBox06004	3	900						28																						
+BoxNpc10081	BoxNpc	Ä¾ÖÆ´¢ÎïÏä	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	NormalBox01005	3	900						28																						
+BoxNpc10082	BoxNpc	Ä¾ÖÆ´¢ÎïÏä	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	NormalBox02005	3	900						28																						
+BoxNpc10083	BoxNpc	Ä¾ÖÆ´¢ÎïÏä	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	NormalBox03005	3	900						28																						
+BoxNpc10084	BoxNpc	Ä¾ÖÆ´¢ÎïÏä	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	NormalBox04005	3	900						28																						
+BoxNpc10085	BoxNpc	Ä¾ÖÆ´¢ÎïÏä	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	NormalBox05005	3	900						28																						
+BoxNpc10086	BoxNpc	Ä¾ÖÆ´¢ÎïÏä	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	NormalBox06005	3	900						28																						
+BoxNpc10087	BoxNpc	¾«ÖÂµÄºÐ×Ó	npc\fbmac003020	icon\funcnpc\fbmac003020.png	161		3	9		2	interact041	5000	NormalBox02004	3	900						28																						
+BoxNpc10088	BoxNpc	¾«ÖÂµÄºÐ×Ó	npc\fbmac003020	icon\funcnpc\fbmac003020.png	161		3	9		2	interact041	5000	NormalBox03004	3	900						28																						
+BoxNpc10089	BoxNpc	¾«ÖÂµÄºÐ×Ó	npc\fbmac003020	icon\funcnpc\fbmac003020.png	161		3	9		2	interact041	5000	NormalBox04004	3	900						28																						
+BoxNpc10090	BoxNpc	¾«ÖÂµÄºÐ×Ó	npc\fbmac003020	icon\funcnpc\fbmac003020.png	161		3	9		2	interact041	5000	NormalBox05004	3	900						28																						
+BoxNpc10091	BoxNpc	¾«ÖÂµÄºÐ×Ó	npc\fbmac003020	icon\funcnpc\fbmac003020.png	161		3	9		2	interact041	5000	NormalBox06004	3	900						28																						
+BoxNpc_CJshow_10092	BoxNpc	³Â¾ÉÌúÏä	npc\fbmac003020	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	3000	Enchou_Hexin_1805		120000			1	key_cjshow_tuzhi01		9																						
+BoxNpc_CJshow_10093	BoxNpc	³Â¾ÉÌúÏä	npc\fbmac003020	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	3000	Enchou_Hexin_2006		120000			1	key_cjshow_tuzhi02		9																						
+BoxNpc10092	BoxNpc	¾ÆÌ³	npc\itemnpc001	icon\funcnpc\	161		3	9		3	interact041	0	NormalBox01006	1	120000						28																						
+BoxNpc10093	BoxNpc	Ò©	npc\itemnpc041	icon\funcnpc\	161		3	9		3	interact041	0	NormalBox01007	1	120000						28																						
+BoxNpc10094	BoxNpc	¶¾Ò©Æ¿	npc\itemnpc666	icon\funcnpc\	161		3	9		3	interact041	0	NormalBox01008	1	120000						28																						
+BoxNpc10095	BoxNpc	Ê×ÊÎºÐ	npc\fbmac003020	icon\funcnpc\itemnpc005.png	161		3	9		3	interact041	0	NormalBox01005	1	120000						28																						
+BoxNpc10096	BoxNpc	Ç®´ü	npc\itemnpc439	icon\funcnpc\	161		3	9		3	interact041	0	NormalBox01009	1	120000						28																						
+BoxNpc10097	BoxNpc	ÒÂ¹ñ	npc\fbmac003024	icon\funcnpc\	161		3	9		3	interact041	0	NormalBox01000	1	120000						28																						
+BoxNpc10098	BoxNpc	ÍÁ¶Ñ	npc\cj_106028c	icon\funcnpc\	161		3	9		3	interact041	0	NormalBox01009	1	120000						28																						
+																																											
+																																											
+																																											
+		ºÐ×Ó20000~21000																																									
+BoxNpc20000	BoxNpc	ÉñÃØºÐ×Ó1	npc\itemboxnpc003	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	wizardbox10001																														
+BoxNpc20001	BoxNpc	ÉñÃØºÐ×Ó2	npc\itemboxnpc003	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	wizardbox10002																														
+BoxNpc20002	BoxNpc	ÉñÃØºÐ×Ó3	npc\itemboxnpc003	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	wizardbox10003																														
+BoxNpc20003	BoxNpc	ÉñÃØºÐ×Ó4	npc\itemboxnpc003	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	wizardbox10004																														
+BoxNpc20004	BoxNpc	ÉñÃØºÐ×Ó5	npc\itemboxnpc003	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	wizardbox10005																														
+BoxNpc20005	BoxNpc	ÉñÃØºÐ×Ó6	npc\itemboxnpc003	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	wizardbox10006																														
+BoxNpc20006	BoxNpc	ÉñÃØºÐ×Ó7	npc\itemboxnpc003	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	wizardbox10007																														
+BoxNpc20007	BoxNpc	ÉñÃØºÐ×Ó8	npc\itemboxnpc003	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	wizardbox10008																														
+BoxNpc20008	BoxNpc	ÉñÃØºÐ×Ó9	npc\itemboxnpc003	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	wizardbox10009																														
+BoxNpc20009	BoxNpc	ÉñÃØºÐ×Ó10	npc\itemboxnpc003	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	wizardbox10010																														
+BoxNpc20010	BoxNpc	ÉñÃØºÐ×Ó11	npc\itemboxnpc003	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	wizardbox10011																														
+BoxNpc20011	BoxNpc	ÉñÃØºÐ×Ó12	npc\itemboxnpc003	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	wizardbox10012																														
+BoxNpc20012	BoxNpc	ÉñÃØºÐ×Ó13	npc\itemboxnpc003	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	wizardbox10013																														
+BoxNpc20013	BoxNpc	ÉñÃØºÐ×Ó14	npc\itemboxnpc003	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	wizardbox10014																														
+BoxNpc20014	BoxNpc	ÉñÃØºÐ×Ó15	npc\itemboxnpc003	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	wizardbox10015																														
+BoxNpc20015	BoxNpc	ÉñÃØºÐ×Ó16	npc\itemboxnpc003	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	wizardbox10016																														
+BoxNpc20016	BoxNpc	ÉñÃØºÐ×Ó17	npc\itemboxnpc003	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	wizardbox10017																														
+BoxNpc20017	BoxNpc	ÉñÃØºÐ×Ó18	npc\itemboxnpc003	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	wizardbox10018																														
+BoxNpc20018	BoxNpc	ÉñÃØºÐ×Ó19	npc\itemboxnpc003	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	wizardbox10019																														
+BoxNpc20019	BoxNpc	ÉñÃØºÐ×Ó20	npc\itemboxnpc003	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	wizardbox10020																														
+																																											
+		//Ö§Ïß21000~22000																																									
+BoxNpc21000	BoxNpc	ÌØÊâ²¶ÊÞ¼Ð	npc\npcitem339	icon\prop\prop289.png	161		3	9		2	interact041	3000	dmonrv04066								9	9832																					
+																																											
+		//ÔËïÚ22001~22100																																									
+BoxNpc22001	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22002	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22003	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22004	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22005	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22006	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22007	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox001		120000						9																						
+BoxNpc22008	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox001		120000						9																						
+BoxNpc22009	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox001		120000						9																						
+BoxNpc22010	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox001		120000						9																						
+BoxNpc22011	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22012	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22013	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox001		120000						9																						
+BoxNpc22014	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22015	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22016	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22017	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22018	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox001		120000						9																						
+BoxNpc22019	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22020	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox001		120000						9																						
+BoxNpc22021	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22022	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22023	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox001		120000						9																						
+BoxNpc22024	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22025	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22026	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22027	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22028	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22029	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox001		120000						9																						
+BoxNpc22030	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22031	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox001		120000						9																						
+BoxNpc22032	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22033	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox001		120000						9																						
+BoxNpc22034	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22035	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22036	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22037	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22038	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22039	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22040	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22041	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox001		120000						9																						
+BoxNpc22042	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox001		120000						9																						
+BoxNpc22043	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox001		120000						9																						
+BoxNpc22044	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox001		120000						9																						
+BoxNpc22045	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22046	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22047	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22048	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22049	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22050	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22051	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22052	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox001		120000						9																						
+BoxNpc22053	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox001		120000						9																						
+BoxNpc22054	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22055	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox001		120000						9																						
+BoxNpc22056	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22057	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22058	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22059	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22060	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox001		120000						9																						
+BoxNpc22061	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22062	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox001		120000						9																						
+BoxNpc22063	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox001		120000						9																						
+BoxNpc22064	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox001		120000						9																						
+BoxNpc22065	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox001		120000						9																						
+BoxNpc22066	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox001		120000						9																						
+BoxNpc22300	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22301	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22302	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22303	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22304	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22305	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22306	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22307	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22308	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22309	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22310	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22311	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22312	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22313	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22314	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22315	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22316	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22317	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22318	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22319	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22320	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22321	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22322	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22323	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22324	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22325	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22326	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22327	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22328	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22329	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22330	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22331	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22332	BoxNpc	»õÏä	npc\itemnpc005a	icon\funcnpc\itemnpc005.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox002		120000						9																						
+BoxNpc22100	BoxNpc	»õÏä	npc\itemboxnpc003_yunbiao	icon\funcnpc\itemboxnpc003.png	161		3	9	npc\escortbox.lua	2	interact041	3000	YunBiaoBox003		120000						9																						
+BoxNpc22101	BoxNpc	»õÏä	npc\itemboxnpc003_yunbiao	icon\funcnpc\itemboxnpc003.png	161		3	9	npc\escortbox.lua	2	interact041	3000	ShengZhuBox001		120000						9																						
+		//Ç§µÆÂé´üÈÎÎñ																																									
+BoxNpc23001	BoxNpc	Âé´ü	npc\itemnpc165a	icon\funcnpc\task.png	161		3	9		2	interact017	3000	dmonrv04073		3000																												
+																																											
+		//ËÕÖÝÆæÓö																																									
+BoxNpc_qy_suzhou_31001	BoxNpc	Äñ³²	npc\itemnpc227	icon\funcnpc\itemnpc227.png	161		3	9		1	interact017	3000	qy_key_suzhou_31001								9																						
+BoxNpc_qy_suzhou_31002	BoxNpc	¾«ÖÂÐ¡ºÐ	npc\itemnpc201	icon\funcnpc\itemnpc201.png	161		3	9		1	interact017	3000	qy_key_suzhou_31002								9																						
+BoxNpc_qy_suzhou_31003	BoxNpc	ÉñÃØ½õºÐ	npc\itemnpc201	icon\funcnpc\itemnpc201.png	161		3	9		1	interact041	3000	qy_key_suzhou_31003								9																						
+BoxNpc_qy_suzhou_31004	BoxNpc	Äñ³²	npc\itemnpc227	icon\funcnpc\itemnpc227.png	161		3	9		1	interact017	3000	qy_key_suzhou_31004								9																						
+BoxNpc_qy_suzhou_31005	BoxNpc	Äñ³²	npc\itemnpc227	icon\funcnpc\itemnpc227.png	161		3	9		1	interact017	3000	qy_key_suzhou_31005								9																						
+BoxNpc_qy_suzhou_31006	BoxNpc	±¦Ïä	npc\itemnpc587	icon\funcnpc\itemnpc005.png	161		3	9		1	interact041	3000	tf_jn_aqsf_sen					1	key_qy_suzhou_WorldNpc01662		9																						
+BoxNpc_qy_suzhou_31007	BoxNpc	±¦Ïä	npc\itemnpc587	icon\funcnpc\itemnpc005.png	161		3	9		1	interact041	3000	tf_jn_sh_ks					1	key_qy_suzhou_WorldNpc01315		9																						
+BoxNpc_qy_suzhou_31008	BoxNpc	Ð¡ºÐ×Ó	npc\itemnpc201	icon\funcnpc\itemnpc201.png	161		3	9		1	interact017	3000	tf_jn_zs_pgd		3000						9																						
+BoxNpc_qy_suzhou_31009	BoxNpc	±¦Ïä	npc\itemnpc587	icon\funcnpc\itemnpc005.png	161		3	9		1	interact041	3000	tf_jn_zf_jh					1	key_qy_suzhou_tiejiangtudi_5		9																						
+																																											
+																																											
+																																											
+		//¾ý×ÓÌÃÆæÓö																																									
+BoxNpc_qy_junzitang0014	BoxNpc	Ä¾ÖÊ±¦Ïä	npc\itemnpc586	icon\funcnpc\itemnpc005.png	161		3	9		2	interact017	3000			3000						9																						
+																																											
+																																											
+																																											
+		//¶ëÃ¼ÆæÓö																																									
+																																											
+																																											
+																																											
+																																											
+		//³É¶¼ÆæÓö																																									
+																																											
+																																											
+																																											
+		//Îäµ±ÈÎÎñ																																									
+BoxNpc_mp_jl_48006	BoxNpc	ÂüÖéÉ³»ª	npc\itemnpc453	icon\funcnpc\itemnpc453.png	161		3	9		3	interact017	2000	task_renwu_00008		3000						28																						
+	BoxNpc	ÀñºÐ	npc\itemnpc428	icon\funcnpc\itemnpc428.png	161		3	9		2	interact041	8000		3	900						28																						
+	BoxNpc	ÀñºÐ	npc\itemnpc201	icon\funcnpc\itemnpc201.png	161		3	9		2	interact041	8000		3	900						28																						
+																																											
+																																											
+																																											
+		//³É¶¼Ö÷ÏßÈÎÎñ																																									
+																																											
+BoxNpc_zx_cd_34024	BoxNpc	ÂíÇ®×Ó	npc\itemnpc166	icon\funcnpc\task.png	161		20	2		3	interact017	1000	task_renwu_00001		10						28																						
+BoxNpc_zx_cd_34025	BoxNpc	Ñó½ð»¨	npc\itemnpc228	icon\funcnpc\task.png	161		20	2		3	interact017	1000	task_renwu_00002		10						28																						
+BoxNpc_zx_cd_34026	BoxNpc	»ÆÜÎ	npc\itemnpc054	icon\funcnpc\task.png	161		20	2		3	interact017	1000	task_renwu_00003		10						28																						
+																																											
+BoxNpc_mp_jy_42018	BoxNpc	Ä¾²ñ	npc\itemnpc038	icon\funcnpc\task.png	161		30	2		3	interact017	1000	task_renwu_00005		10						28																						
+BoxNpc_mp_jy_42019	BoxNpc	»ðÊ¯	npc\itemnpc649	icon\funcnpc\task.png	161		30	2		3	interact017	1000	task_renwu_00006		10						28																						
+BoxNpc_mp_jy_42020	BoxNpc	ÂéÓÍ	npc\fbmac003022	icon\prop\prop260.png	161		30	2		3	interact017	1000	task_renwu_00007		10						28																						
+BoxNpc_mp_jy_42021	BoxNpc	»ð°Ñ	npc\npcitem167	icon\funcnpc\task.png	161		30	2		3	interact017	1000	task_renwu_00010		10						28																						
+BoxNpc_zx_ts_01	BoxNpc	ÎäÆ÷¼Ü	npc\fbmac00040	icon\funcnpc\task.png	161		20	2		3	interact017	1000	NormalBox04001	10	300						28																						
+BoxNpc_zx_ts_02	BoxNpc	Êé¶Ñ	npc\itemnpc686	icon\funcnpc\itemnpc048.png	161		3	9		2	interact041	5000	task_renwu_00020	10	300						28																						
+BoxNpc_zx_ts_03	BoxNpc	µÍ¼¶±¦Ïä1	npc\itemnpc691	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	task_renwu_00027	10	15			1	key_tsxjl_02		5																						
+BoxNpc_zx_ts_04	BoxNpc	ÖÐ¼¶±¦Ïä1	npc\itemnpc695	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	task_renwu_00028	10	15			1	key_tsxjl_02		5																						
+BoxNpc_zx_ts_05	BoxNpc	¸ß¼¶±¦Ïä	npc\itemnpc692	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	task_renwu_00029	10	15			1	key_tsxjl_02		5																						
+BoxNpc_zx_ts_06	BoxNpc	µ¤Ò©¹Þ	npc\itemnpc687	icon\funcnpc\itemnpc001.png	161		3	9		2	interact041	3000	task_renwu_00022	10	300						28																						
+BoxNpc_zx_ts_07	BoxNpc	ÆÑÍÅ	npc\itemnpc063	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	task_renwu_00011	10	300						28																						
+BoxNpc_zx_ts_08	BoxNpc	¾ÆÌ³×Ó	npc\itemnpc001	icon\funcnpc\task.png	161		3	9		3	interact041	2000	task_renwu_00025	10	300						28																						
+BoxNpc_zx_ts_09	BoxNpc	Ì¨µÆ	npc\fbmac009007	icon\funcnpc\itemnpc005.png	161		3	9		3	interact041	2000	task_renwu_00024	10	300						28																						
+BoxNpc_zx_ts_10	BoxNpc	¹ñ×Ó	npc\itemnpc694	icon\funcnpc\itemnpc005.png	161		3	9		3	interact041	2000	task_renwu_00023	10	300						28																						
+BoxNpc_zx_ts_11	BoxNpc	ºÐ×Ó	npc\itemnpc688	icon\funcnpc\itemnpc005.png	161		3	9		3	interact041	2000	task_renwu_00021	10	300						28																						
+BoxNpc_zx_ts_12	BoxNpc	µÍ¼¶±¦Ïä2	npc\itemnpc690	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	task_renwu_00030	10	15			1	key_tsxjl_02		5																						
+BoxNpc_zx_ts_13	BoxNpc	ÖÐ¼¶±¦Ïä2	npc\itemnpc693	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	task_renwu_00031	10	15			1	key_tsxjl_02		5																						
+BoxNpc_zx_ts_14	BoxNpc	»ð¶Ñ	npc\itemnpc179	icon\funcnpc\itemnpc179.png	161		3	9		2	interact041	3000	task_renwu_00015	10	15						28																						
+																																											
+		//½ðÁê¹¥³Ç																																									
+GatherWeatherWar01	BoxNpc	Ìß¹Ý1¼¶Ïä	npc\itemnpc891	icon\funcnpc\itemnpc891.png	161		3	9		2	interact017	8000	drop_citywar_01	1	3600						28																						
+																																											
+		//Ìß¹ÝÏä×Ó																																									
+BoxTG01	BoxNpc	Ìß¹Ý1¼¶Ïä	npc\itemnpc586	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comd_drop_tgbox_box_001	6000	6000						28																						
+BoxTG02	BoxNpc	Ìß¹Ý2¼¶Ïä	npc\itemnpc586	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comd_drop_tgbox_box_001	6000	6000						28																						
+BoxTG03	BoxNpc	Ìß¹Ý3¼¶Ïä	npc\itemnpc587	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comd_drop_tgbox_box_002	6000	6000						28																						
+BoxTG04	BoxNpc	Ìß¹Ý4¼¶Ïä	npc\itemnpc587	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comd_drop_tgbox_box_002	6000	6000						28																						
+BoxTG05	BoxNpc	Ìß¹Ý5¼¶Ïä	npc\itemnpc588	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comd_drop_tgbox_box_003	6000	6000						28																						
+BoxTG06	BoxNpc	Ìß¹Ý6¼¶Ïä	npc\itemnpc588	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comd_drop_tgbox_box_003	6000	6000						28																						
+BoxTG07	BoxNpc	Ìß¹Ý7¼¶Ïä	npc\itemnpc589	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comd_drop_tgbox_box_004	6000	6000						28																						
+BoxTG08	BoxNpc	Ìß¹Ý8¼¶Ïä	npc\itemnpc589	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comd_drop_tgbox_box_004	6000	6000						28																						
+BoxTG09	BoxNpc	Ìß¹Ý9¼¶Ïä	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comd_drop_tgbox_box_005	6000	6000						28																						
+BoxTG10	BoxNpc	Ìß¹Ý10¼¶Ïä	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comd_drop_tgbox_box_005	6000	6000						28																						
+BoxTG11	BoxNpc	Ìß¹Ý11¼¶Ïä	npc\itemnpc591	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comd_drop_tgbox_box_006	6000	6000						28																						
+BoxTG12	BoxNpc	Ìß¹Ý12¼¶Ïä	npc\itemnpc591	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comd_drop_tgbox_box_006	6000	6000						28																						
+BoxTG13	BoxNpc	Ìß¹Ý13¼¶Ïä	npc\itemboxnpc002	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comd_drop_tgbox_box_006	6000	6000						28																						
+BoxTG14	BoxNpc	Ìß¹Ý14¼¶Ïä	npc\itemboxnpc003	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comd_drop_tgbox_box_006	6000	6000						28																						
+																																											
+		//ä½»¨½£ÅÉ																																									
+BoxTG0101	BoxNpc	½­×ðÌÃ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_1	6000	6000						28			1																			
+BoxTG0102	BoxNpc	½­æ³æÃ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_1	6000	6000						28			1																			
+BoxTG0103	BoxNpc	¹ÅÐ¥Ìì	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_1	6000	6000						28			1																			
+BoxTG0104	BoxNpc	ÁºÓ°·å	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_1	6000	6000						28			1																			
+BoxTG0105	BoxNpc	¾ý»´Ã÷	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_1	6000	6000						28			1																			
+BoxTG0106	BoxNpc	Î÷ÃÅ·ÉÑà	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_1	6000	6000						28			1																			
+BoxTG011	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia1	6000	6000						28			2																			
+BoxTG012	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi1	6000	6000						28			2																			
+BoxTG013	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing1	6000	6000						28			2																			
+																																											
+		//ÌìÏã²èÁÖ																																									
+BoxTG0201	BoxNpc	¶«·½Óñ»·	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_2	6000	6000						28			1																			
+BoxTG0202	BoxNpc	Ò¶ÄÏÖ®	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_2	6000	6000						28			1																			
+BoxTG0203	BoxNpc	ÇØÐãÐã	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_2	6000	6000						28			1																			
+BoxTG0204	BoxNpc	Ë¾Í½¾´	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_2	6000	6000						28			1																			
+BoxTG0205	BoxNpc	Ë¾Þ¢	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_2	6000	6000						28			1																			
+BoxTG021	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia2	6000	6000						28			2																			
+BoxTG022	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi2	6000	6000						28			2																			
+BoxTG023	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing2	6000	6000						28			2																			
+																																											
+		//Éò¼Ò±¤																																									
+BoxTG0301	BoxNpc	Éò²×º£	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_3	6000	6000						28			1																			
+BoxTG0304	BoxNpc	ÉòÅáçå	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_3	6000	6000						28			1																			
+BoxTG0305	BoxNpc	ÉòÏ£çå	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_3	6000	6000						28			1																			
+BoxTG0308	BoxNpc	ÐìÐÄÄþ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_3	6000	6000						28			1																			
+BoxTG0309	BoxNpc	ÍõÌì»³	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_3	6000	6000						28			1																			
+BoxTG031	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia3	6000	6000						28			2																			
+BoxTG032	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi3	6000	6000						28			2																			
+BoxTG033	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing3	6000	6000						28			2																			
+																																											
+	ÐìÔÆï£	//Ðì¼Ò×¯																																									
+BoxTG0401	BoxNpc	ÐìÔÆï£	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_4	6000	6000						28			1																			
+BoxTG0402	BoxNpc	Ðì×ÓÇä	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_4	6000	6000						28			1																			
+BoxTG0403	BoxNpc	Ðì×ÓÁè	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_4	6000	6000						28			1																			
+BoxTG0404	BoxNpc	Ðì×ÓË·	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_4	6000	6000						28			1																			
+BoxTG0405	BoxNpc	Ðì×ÓÏ«	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_4	6000	6000						28			1																			
+BoxTG041	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia4	6000	6000						28			2																			
+BoxTG042	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi4	6000	6000						28			2																			
+BoxTG043	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing4	6000	6000						28			2																			
+																																											
+		//ÄÏ¹¬ÊÀ¼Ò																																									
+BoxTG0501	BoxNpc	ÄÏ¹¬°ÁÌì	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_5	6000	6000						28			1																			
+BoxTG0502	BoxNpc	¶«·½ÇéÇé	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_5	6000	6000						28			1																			
+BoxTG0503	BoxNpc	ÄÏ¹¬¿¡	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_5	6000	6000						28			1																			
+BoxTG0504	BoxNpc	ÄÏ¹¬Æ½	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_5	6000	6000						28			1																			
+BoxTG0505	BoxNpc	ÄÏ¹¬ÁÒ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_5	6000	6000						28			1																			
+BoxTG0506	BoxNpc	ÄÏ¹¬³ó	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_5	6000	6000						28			1																			
+BoxTG0507	BoxNpc	Ò¶´äÀ¼	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_5	6000	6000						28			1																			
+BoxTG0508	BoxNpc	ÄÏ¹¬ÓñÕæ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_5	6000	6000						28			1																			
+BoxTG0509	BoxNpc	ÑàÎõ¶ù	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_5	6000	6000						28			1																			
+BoxTG0510	BoxNpc	ÄÏ¹¬çå	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_5	6000	6000						28			1																			
+BoxTG0511	BoxNpc	ÄÏ¹¬ÇàÔÆ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_5	6000	6000						28			1																			
+BoxTG0512	BoxNpc	ÄÏ¹¬ÇïÔÂ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_5	6000	6000						28			1																			
+BoxTG0513	BoxNpc	ÄÏ¹¬óÝ¶ù	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_5	6000	6000						28			1																			
+BoxTG0514	BoxNpc	Ò¦»Æ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_5	6000	6000						28			1																			
+BoxTG051	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia5	6000	6000						28			2																			
+BoxTG052	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi5	6000	6000						28			2																			
+BoxTG053	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing5	6000	6000						28			2																			
+																																											
+		//ÐÇËÞÅÉ																																									
+BoxTG0601	BoxNpc	ËÕ°ÙÁé	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_6	6000	6000						28			1																			
+BoxTG0602	BoxNpc	ÕªÐÇ×Ó	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_6	6000	6000						28			1																			
+BoxTG0603	BoxNpc	ÌìÏþ×Ó	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_6	6000	6000						28			1																			
+BoxTG0604	BoxNpc	ÓñÑô×Ó	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_6	6000	6000						28			1																			
+BoxTG0605	BoxNpc	Ñ¦Ý¼	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_6	6000	6000						28			1																			
+BoxTG0606	BoxNpc	À¼¼§	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_6	6000	6000						28			1																			
+BoxTG0607	BoxNpc	éÈ¶ù	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_6	6000	6000						28			1																			
+BoxTG0608	BoxNpc	³ö³¾×Ó	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_6	6000	6000						28			1																			
+BoxTG0609	BoxNpc	·ÑÎÞÈÊ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_6	6000	6000						28			1																			
+BoxTG061	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia6	6000	6000						28			2																			
+BoxTG062	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi6	6000	6000						28			2																			
+BoxTG063	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing6	6000	6000						28			2																			
+																																											
+		//ÑÎ°ï																																									
+BoxTG0701	BoxNpc	ÁõÌ©	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_7	6000	6000						28			1																			
+BoxTG0702	BoxNpc	ºú²»³î	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_7	6000	6000						28			1																			
+BoxTG0703	BoxNpc	ºéÕÑÑô	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_7	6000	6000						28			1																			
+BoxTG0704	BoxNpc	³Â»·Ðã	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_7	6000	6000						28			1																			
+BoxTG071	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia7	6000	6000						28			2																			
+BoxTG072	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi7	6000	6000						28			2																			
+BoxTG073	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing7	6000	6000						28			2																			
+																																											
+		//ÏÉÏ¼ÅÉ																																									
+BoxTG0801	BoxNpc	ÖÙËïÊ¥	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_8	6000	6000						28			1																			
+BoxTG0802	BoxNpc	ÁºÁî¹«	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_8	6000	6000						28			1																			
+BoxTG0803	BoxNpc	ÄÏÒÝÎÌ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_8	6000	6000						28			1																			
+BoxTG0804	BoxNpc	ÇúÖÐÇó	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_8	6000	6000						28			1																			
+BoxTG0805	BoxNpc	Éò³å	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_8	6000	6000						28			1																			
+BoxTG0806	BoxNpc	Ñ¦ÉÙ»ª	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_8	6000	6000						28			1																			
+BoxTG0807	BoxNpc	ÀäÇïÁâ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_8	6000	6000						28			1																			
+BoxTG081	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia8	6000	6000						28			2																			
+BoxTG082	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi8	6000	6000						28			2																			
+BoxTG083	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing8	6000	6000						28			2																			
+																																											
+		//ÄÞÉÑ¹¬																																									
+BoxTG0901	BoxNpc	ÁîºüÑ©	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_9	6000	6000						28			1																			
+BoxTG0902	BoxNpc	±åÁéóÞ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_9	6000	6000						28			1																			
+BoxTG0903	BoxNpc	ÄÉÀ¼Çà¶ù	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_9	6000	6000						28			1																			
+BoxTG0904	BoxNpc	ÍØ°Î¶Ð¶ù	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_9	6000	6000						28			1																			
+BoxTG0905	BoxNpc	ÀèæÍ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_9	6000	6000						28			1																			
+BoxTG0906	BoxNpc	ºìÓ°	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_9	6000	6000						28			1																			
+BoxTG0907	BoxNpc	ÂÌÎÆ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_9	6000	6000						28			1																			
+BoxTG0908	BoxNpc	À¶Ïö	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_9	6000	6000						28			1																			
+BoxTG0909	BoxNpc	×ÏÑÌ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_9	6000	6000						28			1																			
+BoxTG0910	BoxNpc	ºúÓñ·É	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_9	6000	6000						28			1																			
+BoxTG0911	BoxNpc	¹¬ç²Þ±	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_9	6000	6000						28			1																			
+BoxTG091	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia9	6000	6000						28			2																			
+BoxTG092	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi9	6000	6000						28			2																			
+BoxTG093	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing9	6000	6000						28			2																			
+																																											
+		//Åùö¨ÌÃ																																									
+BoxTG1001	BoxNpc	À×Ô¶ÌÃ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_10	6000	6000						28			1																			
+BoxTG1002	BoxNpc	À×ÈçÁÒ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_10	6000	6000						28			1																			
+BoxTG1003	BoxNpc	ÌÆä¸ä¸	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_10	6000	6000						28			1																			
+BoxTG1004	BoxNpc	À×ÃÉ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_10	6000	6000						28			1																			
+BoxTG1005	BoxNpc	À×À«Ìì	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_10	6000	6000						28			1																			
+BoxTG1006	BoxNpc	ÒüÙ»¶ù	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_10	6000	6000						28			1																			
+BoxTG1007	BoxNpc	À×Åô	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_10	6000	6000						28			1																			
+BoxTG1008	BoxNpc	ÖÜè¡	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_10	6000	6000						28			1																			
+BoxTG1009	BoxNpc	ÓÎÒ»Æ¯	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_10	6000	6000						28			1																			
+BoxTG1010	BoxNpc	Ð¡À×Éñ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_10	6000	6000						28			1																			
+BoxTG1011	BoxNpc	À×¿ÉÐã	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_10	6000	6000						28			1																			
+BoxTG101	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia10	6000	6000						28			2																			
+BoxTG102	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi10	6000	6000						28			2																			
+BoxTG103	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing10	6000	6000						28			2																			
+																																											
+		//ÍòÊÞÉ½×¯																																									
+BoxTG1101	BoxNpc	Ê·ÊæÓ¥	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_11	6000	6000						28			1																			
+BoxTG1102	BoxNpc	Ê·ÃÏÐÛ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_11	6000	6000						28			1																			
+BoxTG1103	BoxNpc	Ê·ÔÆ±ª	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_11	6000	6000						28			1																			
+BoxTG1104	BoxNpc	Ê·ÓðÊ©	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_11	6000	6000						28			1																			
+BoxTG1105	BoxNpc	Ê·Ò«»¢	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_11	6000	6000						28			1																			
+BoxTG111	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia11	6000	6000						28			2																			
+BoxTG112	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi11	6000	6000						28			2																			
+BoxTG113	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing11	6000	6000						28			2																			
+																																											
+		//áÔÉ½½£ÅÉ																																									
+BoxTG1201	BoxNpc	×óÔÂÁÝ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_12	6000	6000						28			1																			
+BoxTG1202	BoxNpc	ÄªÒÁÈË	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_12	6000	6000						28			1																			
+BoxTG1203	BoxNpc	Éò³º	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_12	6000	6000						28			1																			
+BoxTG1204	BoxNpc	ÁøÄ½³¾	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_12	6000	6000						28			1																			
+BoxTG1205	BoxNpc	ÓÀêÝ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_12	6000	6000						28			1																			
+BoxTG1206	BoxNpc	ÕÔÑÔÎä	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_12	6000	6000						28			1																			
+BoxTG121	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia12	6000	6000						28			2																			
+BoxTG122	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi12	6000	6000						28			2																			
+BoxTG123	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing12	6000	6000						28			2																			
+																																											
+		//Éñ·ç°ï																																									
+BoxTG1301	BoxNpc	ÇúÌì	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_13	6000	6000						28			1																			
+BoxTG1302	BoxNpc	Åíìè	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_13	6000	6000						28			1																			
+BoxTG1303	BoxNpc	ÇúÁé·ç	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_13	6000	6000						28			1																			
+BoxTG1304	BoxNpc	ËÕÂå¶ù	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_13	6000	6000						28			1																			
+BoxTG1305	BoxNpc	·ÑÇå	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_13	6000	6000						28			1																			
+BoxTG1306	BoxNpc	»ÆÓÐÍ¨	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_13	6000	6000						28			1																			
+BoxTG1307	BoxNpc	ÐÇÐ°	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_13	6000	6000						28			1																			
+BoxTG1308	BoxNpc	ÌúÊ¢	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_13	6000	6000						28			1																			
+BoxTG1309	BoxNpc	Â¦Ìú·ò	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_13	6000	6000						28			1																			
+BoxTG1310	BoxNpc	ÂíÔªÇì	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_13	6000	6000						28			1																			
+BoxTG1311	BoxNpc	°×ËÄ¹Ã	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_13	6000	6000						28			1																			
+BoxTG1312	BoxNpc	ÎºÐÐ¸è	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_13	6000	6000						28			1																			
+BoxTG1313	BoxNpc	ÁõÎÄÆæ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_13	6000	6000						28			1																			
+BoxTG1314	BoxNpc	ÐìÇ«	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_13	6000	6000						28			1																			
+BoxTG1315	BoxNpc	ÕÔÎÞ¼É	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_13	6000	6000						28			1																			
+BoxTG1316	BoxNpc	ÍõÈÊÓÓ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_13	6000	6000						28			1																			
+BoxTG1317	BoxNpc	ÎÚÍòµÏ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_13	6000	6000						28			1																			
+BoxTG131	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia13	6000	6000						28			2																			
+BoxTG132	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi13	6000	6000						28			2																			
+BoxTG133	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing13	6000	6000						28			2																			
+																																											
+		//ÓÄÚ¤¹¬																																									
+BoxTG1401	BoxNpc	´ó¹¬Ö÷ °×Ó¨Ó¨	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_14	6000	6000						28			1																			
+BoxTG1402	BoxNpc	¶þ¹¬Ö÷ °×·É·É	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_14	6000	6000						28			1																			
+BoxTG1403	BoxNpc	Òøµ¶»¤ÎÀ ÁúÑÀ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_14	6000	6000						28			1																			
+BoxTG1404	BoxNpc	½ð½£ÊÌÅ® °¢Ðå	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_14	6000	6000						28			1																			
+BoxTG141	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia14	6000	6000						28			2																			
+BoxTG142	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi14	6000	6000						28			2																			
+BoxTG143	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing14	6000	6000						28			2																			
+																																											
+		//¹ÅÄ¹ÅÉ																																									
+BoxTG1501	BoxNpc	ÑîÐ°	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_15	6000	6000						28			1																			
+BoxTG1502	BoxNpc	Ñî³ØÈï	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_15	6000	6000						28			1																			
+BoxTG1503	BoxNpc	º«ÜÆÐÄ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_15	6000	6000						28			1																			
+BoxTG1504	BoxNpc	°àÆÅÆÅ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_15	6000	6000						28			1																			
+BoxTG151	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia15	6000	6000						28			2																			
+BoxTG152	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi15	6000	6000						28			2																			
+BoxTG153	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing15	6000	6000						28			2																			
+																																											
+		//ãåÔÆ×¯																																									
+BoxTG1601	BoxNpc	×¯í²ÏÍ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_16	6000	6000						28			1																			
+BoxTG1602	BoxNpc	ÔÆËØÎÊ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_16	6000	6000						28			1																			
+BoxTG1603	BoxNpc	×¯Ð¡ÏÉ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_16	6000	6000						28			1																			
+BoxTG1604	BoxNpc	ÎÀÎÞ·ç	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_16	6000	6000						28			1																			
+BoxTG1605	BoxNpc	×¯ÇàÇà	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_16	6000	6000						28			1																			
+BoxTG1606	BoxNpc	ÐìÔÆêÉ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_16	6000	6000						28			1																			
+BoxTG1607	BoxNpc	×¯Ã÷Öé	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_16	6000	6000						28			1																			
+BoxTG161	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia16	6000	6000						28			2																			
+BoxTG162	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi16	6000	6000						28			2																			
+BoxTG163	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing16	6000	6000						28			2																			
+																																											
+		//Ê®¶þÁ¬»·Îë																																									
+BoxTG1701	BoxNpc	³ð°ÙËê	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_17	6000	6000						28			1																			
+BoxTG1702	BoxNpc	³ðÈü¶ù	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_17	6000	6000						28			1																			
+BoxTG1703	BoxNpc	°ÙÏþÉú	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_17	6000	6000						28			1																			
+BoxTG1704	BoxNpc	ÍõÇà	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_17	6000	6000						28			1																			
+BoxTG1705	BoxNpc	ÐÜÆëÉ½	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_17	6000	6000						28			1																			
+BoxTG1706	BoxNpc	Ñ¦¶ñ»¢	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_17	6000	6000						28			1																			
+BoxTG1707	BoxNpc	Ô¬ð¯	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_17	6000	6000						28			1																			
+BoxTG1708	BoxNpc	ÑÖÐ¡Áú	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_17	6000	6000						28			1																			
+BoxTG1709	BoxNpc	Áº²»·²	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_17	6000	6000						28			1																			
+BoxTG1710	BoxNpc	¹ËËÕ½¿	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_17	6000	6000						28			1																			
+BoxTG1711	BoxNpc	½ðÂÖÍõ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_17	6000	6000						28			1																			
+BoxTG1712	BoxNpc	Ê¬»§»§	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_17	6000	6000						28			1																			
+BoxTG1713	BoxNpc	¹×Ä¾ÀÏÈË	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_17	6000	6000						28			1																			
+BoxTG1714	BoxNpc	µóÅô	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_17	6000	6000						28			1																			
+BoxTG1715	BoxNpc	ÂóÐã	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_17	6000	6000						28			1																			
+BoxTG1716	BoxNpc	½ª×ÓÆæ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_17	6000	6000						28			1																			
+BoxTG1717	BoxNpc	·ëÕýºá	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_17	6000	6000						28			1																			
+BoxTG171	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia17	6000	6000						28			2																			
+BoxTG172	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi17	6000	6000						28			2																			
+BoxTG173	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing17	6000	6000						28			2																			
+																																											
+		//¶«·½ÊÀ¼Ò																																									
+BoxTG1801	BoxNpc	¶«·½³Ç	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_18	6000	6000						28			1																			
+BoxTG1802	BoxNpc	Áú×ÏæÌ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_18	6000	6000						28			1																			
+BoxTG1803	BoxNpc	¶«·½Óð	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_18	6000	6000						28			1																			
+BoxTG1804	BoxNpc	¶«·½ÈÊ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_18	6000	6000						28			1																			
+BoxTG1805	BoxNpc	ÆëÕÑ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_18	6000	6000						28			1																			
+BoxTG1806	BoxNpc	¶«·½°ÁÑ©	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_18	6000	6000						28			1																			
+BoxTG1807	BoxNpc	¶«·½ÜÆ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_18	6000	6000						28			1																			
+BoxTG1808	BoxNpc	ÈîºìÖñ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_18	6000	6000						28			1																			
+BoxTG1809	BoxNpc	¶«·½ÑÇÁâ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_18	6000	6000						28			1																			
+BoxTG1810	BoxNpc	¶«·½Ò£	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_18	6000	6000						28			1																			
+BoxTG1811	BoxNpc	ÄÏ¹¬Á¯	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_18	6000	6000						28			1																			
+BoxTG1812	BoxNpc	¶«·½Ñã	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_18	6000	6000						28			1																			
+BoxTG1813	BoxNpc	¶«·½Ê¿Í¢	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_18	6000	6000						28			1																			
+BoxTG1814	BoxNpc	¶«·½ÑÔÉÙ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_18	6000	6000						28			1																			
+BoxTG181	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia18	6000	6000						28			2																			
+BoxTG182	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi18	6000	6000						28			2																			
+BoxTG183	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing18	6000	6000						28			2																			
+																																											
+		//Ä½ÈÝÉ½×¯																																									
+BoxTG1901	BoxNpc	Ä½ÈÝÇ§Çï	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_19	6000	6000						28			1																			
+BoxTG1902	BoxNpc	Ä½ÈÝÍò´ú	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_19	6000	6000						28			1																			
+BoxTG1903	BoxNpc	Ä½ÈÝË¾³½	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_19	6000	6000						28			1																			
+BoxTG1904	BoxNpc	Ä½ÈÝÇä	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_19	6000	6000						28			1																			
+BoxTG1905	BoxNpc	Ä½ÈÝÇ¬	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_19	6000	6000						28			1																			
+BoxTG1906	BoxNpc	¶¡²»Ñï	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_19	6000	6000						28			1																			
+BoxTG1907	BoxNpc	Îâ²»¹§	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_19	6000	6000						28			1																			
+BoxTG1908	BoxNpc	Èç×í	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_19	6000	6000						28			1																			
+BoxTG1909	BoxNpc	ÈçÃÎ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_19	6000	6000						28			1																			
+BoxTG1910	BoxNpc	ÀîÁîÔÃ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_19	6000	6000						28			1																			
+BoxTG1911	BoxNpc	Ä½ÈÝæÌ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_19	6000	6000						28			1																			
+BoxTG1912	BoxNpc	Ä½ÈÝË«	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_19	6000	6000						28			1																			
+BoxTG1913	BoxNpc	Ä½ÈÝÏÉ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_19	6000	6000						28			1																			
+BoxTG1914	BoxNpc	Èç³Õ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_19	6000	6000						28			1																			
+BoxTG1915	BoxNpc	ÈçÔÆ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_19	6000	6000						28			1																			
+BoxTG191	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia19	6000	6000						28			2																			
+BoxTG192	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi19	6000	6000						28			2																			
+BoxTG193	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing19	6000	6000						28			2																			
+																																											
+		//ÑàÃÅÊÀ¼Ò																																									
+BoxTG2001	BoxNpc	Ñà°Ù¿à	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_20	6000	6000						28			1																			
+BoxTG2002	BoxNpc	ÑàÄÏÌì	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_20	6000	6000						28			1																			
+BoxTG2003	BoxNpc	ÑàÇçÑ©	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_20	6000	6000						28			1																			
+BoxTG2004	BoxNpc	Ñà¹Âºè	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_20	6000	6000						28			1																			
+BoxTG2005	BoxNpc	Ã·Âå³¾	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_20	6000	6000						28			1																			
+BoxTG2006	BoxNpc	Ñà»ª·ã	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_20	6000	6000						28			1																			
+BoxTG2007	BoxNpc	Ñà°×Â¥	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_20	6000	6000						28			1																			
+BoxTG2008	BoxNpc	ÄÏ¹¬Ò÷	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_20	6000	6000						28			1																			
+BoxTG2009	BoxNpc	ÑàÆß	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_20	6000	6000						28			1																			
+BoxTG2010	BoxNpc	»ªÇàÔÆ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_20	6000	6000						28			1																			
+BoxTG2011	BoxNpc	Çñ½£Ãù	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_20	6000	6000						28			1																			
+BoxTG2012	BoxNpc	½ðÑà×Ó	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_20	6000	6000						28			1																			
+BoxTG2013	BoxNpc	ÒøÑà×Ó	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_20	6000	6000						28			1																			
+BoxTG2014	BoxNpc	ÓñÑà×Ó	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_20	6000	6000						28			1																			
+BoxTG201	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia20	6000	6000						28			2																			
+BoxTG202	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi20	6000	6000						28			2																			
+BoxTG203	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing20	6000	6000						28			2																			
+																																											
+		//ËØÔÆ¹¬																																									
+BoxTG2101	BoxNpc	ÔÆÂü	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_21	6000	6000						28			1																			
+BoxTG2102	BoxNpc	ËÕÔÆÃÎ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_21	6000	6000						28			1																			
+BoxTG2103	BoxNpc	¶ÎÔÆêØ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_21	6000	6000						28			1																			
+BoxTG2104	BoxNpc	³þÔÆÒ¥	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_21	6000	6000						28			1																			
+BoxTG2105	BoxNpc	ÁøÔÆÑÌ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_21	6000	6000						28			1																			
+BoxTG2106	BoxNpc	¶ÅÔÆÜ·	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_21	6000	6000						28			1																			
+BoxTG2107	BoxNpc	Ê·ÔÆ·É	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_21	6000	6000						28			1																			
+BoxTG211	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia21	6000	6000						28			2																			
+BoxTG212	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi21	6000	6000						28			2																			
+BoxTG213	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing21	6000	6000						28			2																			
+																																											
+		//ÁèÏö³Ç																																									
+BoxTG2201	BoxNpc	ÍûÔÂÀÏÈË	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_22	6000	6000						28			1																			
+BoxTG2202	BoxNpc	Ðþ¼øÉñÉ®	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_22	6000	6000						28			1																			
+BoxTG2203	BoxNpc	ÍòÈË½Ü	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_22	6000	6000						28			1																			
+BoxTG2204	BoxNpc	Ñ¦»¢É½	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_22	6000	6000						28			1																			
+BoxTG2205	BoxNpc	ÏòÍíÇç	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_22	6000	6000						28			1																			
+BoxTG2206	BoxNpc	Äô·ç	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_22	6000	6000						28			1																			
+BoxTG2207	BoxNpc	ÓñîÎº®	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_22	6000	6000						28			1																			
+BoxTG2208	BoxNpc	Ñ¦ç±Å®	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_22	6000	6000						28			1																			
+BoxTG2209	BoxNpc	ÔÆÍû	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_22	6000	6000						28			1																			
+BoxTG2210	BoxNpc	ÑÖÅí	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_22	6000	6000						28			1																			
+BoxTG221	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia22	6000	6000						28			2																			
+BoxTG222	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi22	6000	6000						28			2																			
+BoxTG223	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing22	6000	6000						28			2																			
+																																											
+		//É±ÈË×¯																																									
+BoxTG2301	BoxNpc	¼§Ôá»¨	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_23	6000	6000						28			1																			
+BoxTG2302	BoxNpc	¼§¿àÇé	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_23	6000	6000						28			1																			
+BoxTG2303	BoxNpc	¼§±¯Çé	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_23	6000	6000						28			1																			
+BoxTG2304	BoxNpc	¼§·òÈË	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_23	6000	6000						28			1																			
+BoxTG2305	BoxNpc	¼§Áè·ï	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_23	6000	6000						28			1																			
+BoxTG2306	BoxNpc	¼§ÁèÑà	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_23	6000	6000						28			1																			
+BoxTG2307	BoxNpc	¶«¹ù¸ß	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_23	6000	6000						28			1																			
+BoxTG231	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia23	6000	6000						28			2																			
+BoxTG232	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi23	6000	6000						28			2																			
+BoxTG233	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing23	6000	6000						28			2																			
+																																											
+		//´óÄ®¹í³Ç																																									
+BoxTG2401	BoxNpc	À×ÐÐ¿Õ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_24	6000	6000						28			1																			
+BoxTG2402	BoxNpc	ÖìÔÊžÉ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_24	6000	6000						28			1																			
+BoxTG2403	BoxNpc	ºÚÄª¶û	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_24	6000	6000						28			1																			
+BoxTG2404	BoxNpc	ºÚÕäÖé	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_24	6000	6000						28			1																			
+BoxTG2405	BoxNpc	¶ËÄ¾ì÷	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_24	6000	6000						28			1																			
+BoxTG2406	BoxNpc	Õ²åÓ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_24	6000	6000						28			1																			
+BoxTG2407	BoxNpc	Å·Ñô»­ÉÈ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_24	6000	6000						28			1																			
+BoxTG2408	BoxNpc	ÁÖÂü¶ù	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_24	6000	6000						28			1																			
+BoxTG2409	BoxNpc	·®Ò»À¤	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_24	6000	6000						28			1																			
+BoxTG2410	BoxNpc	Ç§×¾´óÊ¦	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_24	6000	6000						28			1																			
+BoxTG2411	BoxNpc	Ìú³ßµÀ³¤	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_24	6000	6000						28			1																			
+BoxTG2412	BoxNpc	ÈÊ²¨ÇÐ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_24	6000	6000						28			1																			
+BoxTG2413	BoxNpc	ÖîÊ®Èý	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_24	6000	6000						28			1																			
+BoxTG241	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia24	6000	6000						28			2																			
+BoxTG242	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi24	6000	6000						28			2																			
+BoxTG243	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing24	6000	6000						28			2																			
+																																											
+		//ÌìÍâÌì																																									
+BoxTG2501	BoxNpc	ÑªÓ°×Ó	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_25	6000	6000						28			1																			
+BoxTG2502	BoxNpc	ÕÔÕÔ¹ÃÄï	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_25	6000	6000						28			1																			
+BoxTG2503	BoxNpc	ºÚÊÖ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_25	6000	6000						28			1																			
+BoxTG2504	BoxNpc	ÀúÇå¿ñ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_25	6000	6000						28			1																			
+BoxTG2505	BoxNpc	ºÕÁ¬èµ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_25	6000	6000						28			1																			
+BoxTG2506	BoxNpc	»ôçÊ·ï	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_25	6000	6000						28			1																			
+BoxTG251	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia25	6000	6000						28			2																			
+BoxTG252	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi25	6000	6000						28			2																			
+BoxTG253	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing25	6000	6000						28			2																			
+																																											
+		//ÇØÍõ¸®																																									
+BoxTG2601	BoxNpc	Öì¾¸	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_26	6000	6000						28			1																			
+BoxTG2602	BoxNpc	ÀÏÌ«¾ý	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_26	6000	6000						28			1																			
+BoxTG2603	BoxNpc	ÓÀ³É¹«Ö÷	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_26	6000	6000						28			1																			
+BoxTG2604	BoxNpc	Ë¿ÒÂ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_26	6000	6000						28			1																			
+BoxTG2605	BoxNpc	ÕÅµ¤Áé	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_26	6000	6000						28			1																			
+BoxTG2606	BoxNpc	¶¡ÁÒ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_26	6000	6000						28			1																			
+BoxTG2607	BoxNpc	Ìú±Û²ÔÀÇ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_26	6000	6000						28			1																			
+BoxTG261	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia26	6000	6000						28			2																			
+BoxTG262	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi26	6000	6000						28			2																			
+BoxTG263	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing26	6000	6000						28			2																			
+																																											
+		//¶ö»¢É½Õ¯																																									
+BoxTG2701	BoxNpc	ÐÜ°ÔÌì	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_27	6000	6000						28			1																			
+BoxTG2702	BoxNpc	Íò½¾ÜÆ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_27	6000	6000						28			1																			
+BoxTG2703	BoxNpc	ÇØÌì±ª	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_27	6000	6000						28			1																			
+BoxTG2704	BoxNpc	»Æ¿ü	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_27	6000	6000						28			1																			
+BoxTG2705	BoxNpc	ÏòÎÞ¼«	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_27	6000	6000						28			1																			
+BoxTG2706	BoxNpc	ÍßÅ¬ÓñáÇ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_27	6000	6000						28			1																			
+BoxTG2707	BoxNpc	ÁúÐÓÏö	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_27	6000	6000						28			1																			
+BoxTG2708	BoxNpc	·¶Ç¿	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_27	6000	6000						28			1																			
+BoxTG2709	BoxNpc	·¶Òí	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_27	6000	6000						28			1																			
+BoxTG2710	BoxNpc	¾ÓÇ«	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_27	6000	6000						28			1																			
+BoxTG2711	BoxNpc	ÀîÁúÒí	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_27	6000	6000						28			1																			
+BoxTG2712	BoxNpc	ÇÇ°ÙÇ¬	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_27	6000	6000						28			1																			
+BoxTG2713	BoxNpc	ÕÅÓîÆæ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_27	6000	6000						28			1																			
+BoxTG2714	BoxNpc	»ÆÖÓ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_27	6000	6000						28			1																			
+BoxTG2715	BoxNpc	Ñ¦Ñ©	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_27	6000	6000						28			1																			
+BoxTG271	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia27	6000	6000						28			2																			
+BoxTG272	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi27	6000	6000						28			2																			
+BoxTG273	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing27	6000	6000						28			2																			
+																																											
+		//±§¶¿Õ¯																																									
+BoxTG2801	BoxNpc	¹«ËïÆæ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_28	6000	6000						28			1																			
+BoxTG2802	BoxNpc	¹«Ëïê»Ìì	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_28	6000	6000						28			1																			
+BoxTG2803	BoxNpc	¹«ËïÔÞ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_28	6000	6000						28			1																			
+BoxTG2804	BoxNpc	¹«Ëï½µ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_28	6000	6000						28			1																			
+BoxTG2805	BoxNpc	¹«ËïµÂÇå	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_28	6000	6000						28			1																			
+BoxTG281	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia28	6000	6000						28			2																			
+BoxTG282	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi28	6000	6000						28			2																			
+BoxTG283	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing28	6000	6000						28			2																			
+																																											
+		//Ìì±¦Õ¯																																									
+BoxTG2901	BoxNpc	ÁõÌúµ¨	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_29	6000	6000						28			1																			
+BoxTG2902	BoxNpc	ÌÆÓïêØ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_29	6000	6000						28			1																			
+BoxTG2903	BoxNpc	º«Ð¦	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_29	6000	6000						28			1																			
+BoxTG2904	BoxNpc	ÕÅ·ÉÓê	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_29	6000	6000						28			1																			
+BoxTG2905	BoxNpc	Ð»ã×Ò÷	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_29	6000	6000						28			1																			
+BoxTG2906	BoxNpc	³ðÒã	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_29	6000	6000						28			1																			
+BoxTG291	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia29	6000	6000						28			2																			
+BoxTG292	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi29	6000	6000						28			2																			
+BoxTG293	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing29	6000	6000						28			2																			
+																																											
+		//»¢Ð¥É½×¯																																									
+BoxTG3001	BoxNpc	¹Ø·êÀ×	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_30	6000	6000						28			1																			
+BoxTG3002	BoxNpc	ºéÏ²	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_30	6000	6000						28			1																			
+BoxTG3003	BoxNpc	Áõ°ÙÊÖ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_30	6000	6000						28			1																			
+BoxTG3005	BoxNpc	Â³Íú°§	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_30	6000	6000						28			1																			
+BoxTG3006	BoxNpc	¹ØÓñ±ø	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_30	6000	6000						28			1																			
+BoxTG301	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia30	6000	6000						28			2																			
+BoxTG302	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi30	6000	6000						28			2																			
+BoxTG303	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing30	6000	6000						28			2																			
+																																											
+		//ÓÄÁéÉ½×¯																																									
+BoxTG3101	BoxNpc	ÀÏµ¶°Ñ×Ó	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_31	6000	6000						28			1																			
+BoxTG3102	BoxNpc	¹´»êÊ¹Õß	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_31	6000	6000						28			1																			
+BoxTG3103	BoxNpc	¶áÆÇÊ¹Õß	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_31	6000	6000						28			1																			
+BoxTG3104	BoxNpc	½µÁú	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_31	6000	6000						28			1																			
+BoxTG3105	BoxNpc	·ü»¢	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_31	6000	6000						28			1																			
+BoxTG3106	BoxNpc	¹«ËïÆô	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_31	6000	6000						28			1																			
+BoxTG3107	BoxNpc	Ê¯²»¹é	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_31	6000	6000						28			1																			
+BoxTG3108	BoxNpc	¶¡Ã¢	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_31	6000	6000						28			1																			
+BoxTG3109	BoxNpc	º«Èô¹È	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_31	6000	6000						28			1																			
+BoxTG3110	BoxNpc	º«Ñ©	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_31	6000	6000						28			1																			
+BoxTG3111	BoxNpc	º«Áâ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_31	6000	6000						28			1																			
+BoxTG311	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia31	6000	6000						28			2																			
+BoxTG312	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi31	6000	6000						28			2																			
+BoxTG313	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing31	6000	6000						28			2																			
+																																											
+		//ÌìÂÞ½Ì																																									
+BoxTG3201	BoxNpc	Ë¾¿ÕÌìÐÐ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_32	6000	6000						28			1																			
+BoxTG3202	BoxNpc	Ë¾¿ÕÒ¦ÊÏ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_32	6000	6000						28			1																			
+BoxTG3203	BoxNpc	À×ÌìÃ÷	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_32	6000	6000						28			1																			
+BoxTG3204	BoxNpc	½­ÓðÐù	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_32	6000	6000						28			1																			
+BoxTG3205	BoxNpc	¹«Ëï·ÉÁú	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_32	6000	6000						28			1																			
+BoxTG3206	BoxNpc	Î÷ÃÅºÆÄÏ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_32	6000	6000						28			1																			
+BoxTG3207	BoxNpc	Ïò°ÙÇå	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_32	6000	6000						28			1																			
+BoxTG3208	BoxNpc	Ë¾¿Õ±ª	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_32	6000	6000						28			1																			
+BoxTG3209	BoxNpc	ÐÜÌì±ª	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_32	6000	6000						28			1																			
+BoxTG3210	BoxNpc	ÑÏÈª	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_32	6000	6000						28			1																			
+BoxTG3211	BoxNpc	ÁøÆôÁú	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_32	6000	6000						28			1																			
+BoxTG3212	BoxNpc	Ð¤Ìì»¢	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_32	6000	6000						28			1																			
+BoxTG3213	BoxNpc	Ð¤Ìì±ª	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_32	6000	6000						28			1																			
+BoxTG3214	BoxNpc	ÇØ²©ç÷	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_32	6000	6000						28			1																			
+BoxTG321	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia32	6000	6000						28			2																			
+BoxTG322	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi32	6000	6000						28			2																			
+BoxTG323	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing32	6000	6000						28			2																			
+																																											
+		//Ë«Áú±¤																																									
+BoxTG3301	BoxNpc	µË»ÆÁú	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_33	6000	6000						28			1																			
+BoxTG3302	BoxNpc	µËÇàÁú	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_33	6000	6000						28			1																			
+BoxTG3303	BoxNpc	»ôÓ°	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_33	6000	6000						28			1																			
+BoxTG331	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia33	6000	6000						28			2																			
+BoxTG332	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi33	6000	6000						28			2																			
+BoxTG333	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing33	6000	6000						28			2																			
+																																											
+		//Ú¤ÔÀ																																									
+BoxTG3401	BoxNpc	Ïôèî	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_34	6000	6000						28			1																			
+BoxTG3402	BoxNpc	Äª¶û·ç	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_34	6000	6000						28			1																			
+BoxTG3403	BoxNpc	Ð»·É	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_34	6000	6000						28			1																			
+BoxTG341	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia34	6000	6000						28			2																			
+BoxTG342	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi34	6000	6000						28			2																			
+BoxTG343	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing34	6000	6000						28			2																			
+																																											
+		//Ìß¹ÝBOSSÁÙÊ±±¦Ïä																																									
+BoxTG0000	BoxNpc	ÁÙÊ±	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	hhjp_boss_001	6000	6000						28			1																			
+BoxJHHJ	BoxNpc	½­ºþºÀ½Ü±¦Ïä	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	2000	NormalBox01004	6000	6000						28																						
+																																											
+		//ÇàÔÆ±¤ÆæÓö																																									
+BoxNpc_qy_qyb_001	BoxNpc	ÇàÔÆ±¤ÆæÓö±¦Ïä	npc\itemnpc586	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	qy_qyb_kn_01					1	key_qyb_kbdzmf		9	11861																					
+BoxNpc_qy_qyb_002	BoxNpc	ÇàÔÆ±¤ÆæÓöboss±¦Ïä	npc\itemnpc588	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	qy_qyb_kn_02								9																						
+BoxNpc_qy_qyb_003	BoxNpc	ºìË®¾§	npc\cj_102019	icon\shenghuo\cl_02010034.png	161		3	9		2	interact042	3000	qy_qyb_kn_03								9	11373																					
+BoxNpc_qy_qyb_004	BoxNpc	À¶Ë®¾§	npc\cj_102020	icon\shenghuo\cl_02010035.png	161		3	9		2	interact043	3000	qy_qyb_kn_04								9	11373																					
+BoxNpc_qy_qyb_005	BoxNpc	ÂÌË®¾§	npc\cj_102021	icon\shenghuo\cl_02010036.png	161		3	9		2	interact044	3000	qy_qyb_kn_05								9	11373																					
+																																											
+																																											
+																																											
+BoxNpc_qy_qyb_006	BoxNpc	ÇàÔÆ±¤ÆæÓö±¦Ïä	npc\itemnpc586	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	qy_qyb_001					1	key_qyb_qxys1		9	11862																					
+BoxNpc_qy_qyb_007	BoxNpc	ÇàÔÆ±¤ÆæÓö±¦Ïä	npc\itemnpc586	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	qy_qyb_001					1	key_qyb_qxys2		9	11863																					
+																																											
+		//¿×È¸ÆæÓö																																									
+BoxNpc_kq_01	BoxNpc	Ç§Áé¹û	npc\itemnpc228	icon\funcnpc\task.png	161		20	2		3	interact017	3000	qy_kq_01		300						28	11240																					
+BoxNpc_kq_02	BoxNpc	±¦Ïä	npc\itemboxnpc002	icon\funcnpc\itemboxnpc002.png	161		20	2		3	interact017	8000	qy_kq_02	10	300						28																						
+BoxNpc_kq_03	BoxNpc	±¦Ïä	npc\itemnpc586	icon\funcnpc\itemnpc005.png	161		20	2		3	interact017	3000	qy_kq_05	10	300			1	key_kq_yaoshi		28																						
+		//ÉÙÁÖÃÅÅÉÄÚ¹¦Í¶·ÅÆæÓö																																									
+BoxNpc_qy_120401_shaolin_02	BoxNpc	 	npc\hw_dp004	icon\funcnpc\itemnpc005.png	161		20	2		3	interact017	100	qy_120401_shaolin_dl_03	10	300			1			28																						
+																																											
+		//ÎäÑ§´ÌÌ½±¦ÏäµôÂä																																									
+BoxNpc_ct_ng_sl_001	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_sl_01	3	300						28	23854																					
+BoxNpc_ct_ng_sl_002	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_sl_02	3	300						28	23854																					
+BoxNpc_ct_ng_sl_003	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_sl_03	3	300						28	23854																					
+BoxNpc_ct_ng_sl_004	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_sl_03	3	300						28	23854																					
+BoxNpc_ct_ng_wd_001	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_wd_01	3	300						28	23854																					
+BoxNpc_ct_ng_wd_002	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_wd_02	3	300						28	23854																					
+BoxNpc_ct_ng_wd_003	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_wd_03	3	300						28	23854																					
+BoxNpc_ct_ng_wd_004	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_wd_03	3	300						28	23854																					
+BoxNpc_ct_ng_em_001	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_em_01	3	300						28	23854																					
+BoxNpc_ct_ng_em_002	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_em_02	3	300						28	23854																					
+BoxNpc_ct_ng_em_003	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_em_03	3	300						28	23854																					
+BoxNpc_ct_ng_em_004	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_em_03	3	300						28	23854																					
+BoxNpc_ct_ng_gb_001	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_gb_01	3	300						28	23854																					
+BoxNpc_ct_ng_gb_002	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_gb_02	3	300						28	23854																					
+BoxNpc_ct_ng_gb_003	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_gb_03	3	300						28	23854																					
+BoxNpc_ct_ng_gb_004	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_gb_03	3	300						28	23854																					
+BoxNpc_ct_ng_jz_001	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_jz_01	3	300						28	23854																					
+BoxNpc_ct_ng_jz_002	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_jz_02	3	300						28	23854																					
+BoxNpc_ct_ng_jz_003	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_jz_03	3	300						28	23854																					
+BoxNpc_ct_ng_jz_004	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_jz_03	3	300						28	23854																					
+BoxNpc_ct_ng_jy_001	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_jy_01	3	300						28	23854																					
+BoxNpc_ct_ng_jy_002	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_jy_02	3	300						28	23854																					
+BoxNpc_ct_ng_jy_003	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_jy_03	3	300						28	23854																					
+BoxNpc_ct_ng_jy_004	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_jy_03	3	300						28	23854																					
+BoxNpc_ct_ng_jl_001	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_jl_01	3	300						28	23854																					
+BoxNpc_ct_ng_jl_002	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_jl_02	3	300						28	23854																					
+BoxNpc_ct_ng_jl_003	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_jl_03	3	300						28	23854																					
+BoxNpc_ct_ng_jl_004	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_jl_03	3	300						28	23854																					
+BoxNpc_ct_ng_tm_001	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_tm_01	3	300						28	23854																					
+BoxNpc_ct_ng_tm_002	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_tm_02	3	300						28	23854																					
+BoxNpc_ct_ng_tm_003	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_tm_03	3	300						28	23854																					
+BoxNpc_ct_ng_tm_004	BoxNpc	ÃØ¼®±¦Ïä	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_tm_03	3	300						28	23854																					
+BoxNpc_ct_ng_jh_001	BoxNpc	ÃØ¼®±¦Ïä£¨×øÍü£©	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_jh001_01	3	300						28	23854																					
+BoxNpc_ct_ng_jh_005	BoxNpc	ÃØ¼®±¦Ïä£¨º®±ù£©	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_jh001_01	3	300						28	23854																					
+BoxNpc_ct_ng_jh_201	BoxNpc	ÃØ¼®±¦Ïä£¨ÎÞÍý£©	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_jh001_01	3	300						28	23854																					
+BoxNpc_ct_ng_jh_202	BoxNpc	ÃØ¼®±¦Ïä£¨²ÐÑô£©	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_jh001_01	3	300						28	23854																					
+BoxNpc_ct_ng_jh_203	BoxNpc	ÃØ¼®±¦Ïä£¨ÎåÐÐ£©	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_jh001_01	3	300						28	23854																					
+BoxNpc_ct_ng_jh_204	BoxNpc	ÃØ¼®±¦Ïä£¨×ÏÏ¼£©	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_jh001_01	3	300						28	23854																					
+BoxNpc_ct_ng_jh_108	BoxNpc	ÃØ¼®±¦Ïä£¨»ìÔª£©	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_jh001_01	3	300						28	23854																					
+BoxNpc_ct_ng_jh_209	BoxNpc	ÃØ¼®±¦Ïä£¨±ùÐÄ£©	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_jh001_01	3	300						28	23854																					
+BoxNpc_ct_ng_jh_205	BoxNpc	ÃØ¼®±¦Ïä£¨¸òó¡£©	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_jh001_01	3	300						28	23854																					
+BoxNpc_ct_ng_jh_307	BoxNpc	ÃØ¼®±¦Ïä£¨Ñªµ¶£©	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_jh001_01	3	300						28	23854																					
+BoxNpc_ct_ng_jh_507	BoxNpc	ÃØ¼®±¦Ïä£¨¿û»¨£©	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_jh001_01	3	300						28	23854																					
+BoxNpc_ct_ng_jh_306	BoxNpc	ÃØ¼®±¦Ïä£¨ÎüÐÇ£©	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_jh001_01	3	300						28	23854																					
+BoxNpc_ct_ng_wg_001	BoxNpc	ÃØ¼®±¦Ïä£¨»ìÌì£©	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_jh001_01	3	300						28	23854																					
+BoxNpc_ct_ng_yh_001	BoxNpc	ÃØ¼®±¦Ïä£¨Ã÷Óñ£©	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_jh001_01	3	300						28	23854																					
+BoxNpc_ct_ng_th_001	BoxNpc	ÃØ¼®±¦Ïä£¨±Ì²¨£©	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_jh001_01	3	300						28	23854																					
+BoxNpc_ct_ng_sj_001	BoxNpc	ÃØ¼®±¦Ïä£¨½ð¹Ø£©	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_jh001_01	3	300						28	23854																					
+BoxNpc_ct_ng_xj_001	BoxNpc	ÃØ¼®±¦Ïä£¨ÈýÇå£©	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_jh001_01	3	300						28	23854																					
+BoxNpc_ct_ng_ws_001	BoxNpc	ÃØ¼®±¦Ïä£¨·üÑø£©	npc\itemnpc049citan	icon\funcnpc\itemboxnpc049.png	161		5	9		4	interact041	7000	ct_citan_jh001_01	3	300						28	23854																					
+																																											
+GatherNpc_ytj	BoxNpc	ÒÐÌì½£	npc\itemytj	icon\equip\yitian.png	161		20	2	npc\huashan\yt_sword.lua	5	interact017	5000	huashan_drop_08	3	1800						28	18129																					
+		//½­ºþÖÁ±¦																																									
+JhzbNPC_khbd_002	BoxNpc	Ä¾ÖÊ±¦Ïä	npc\jhzb_xhz	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	10000		3							28																						
+JhzbNPC_xxdf_002	BoxNpc	Ä¾ÖÊ±¦Ïä	npc\jhzb_sp	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	10000		3							28																						
+																																											
+		//ÐÂ»é±¦Ïä																																									
+BoxNpc_xl_01	BoxNpc	ÐÂÀÉ±¦Ïä	npc\itemnpc591	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	5000	drop_box_xl01	3	900						28																						
+BoxNpc_xl_02	BoxNpc	ÐÂÀÉ±¦Ïä	npc\itemnpc591	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	5000	drop_box_xl01	3	900						28																						
+BoxNpc_xl_03	BoxNpc	ÐÂÀÉ±¦Ïä	npc\itemnpc591	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	5000	drop_box_xl01	3	900						28																						
+BoxNpc_xl_04	BoxNpc	ÐÂÀÉ±¦Ïä	npc\itemnpc591	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	5000	drop_box_xl01	3	900						28																						
+BoxNpc_xn_01	BoxNpc	ÐÂÄï±¦Ïä	npc\itemnpc591	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	5000	drop_box_xn01	3	900						28																						
+BoxNpc_xn_02	BoxNpc	ÐÂÄï±¦Ïä	npc\itemnpc591	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	5000	drop_box_xn01	3	900						28																						
+BoxNpc_xn_03	BoxNpc	ÐÂÄï±¦Ïä	npc\itemnpc591	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	5000	drop_box_xn01	3	900						28																						
+BoxNpc_xn_04	BoxNpc	ÐÂÄï±¦Ïä	npc\itemnpc591	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	5000	drop_box_xn01	3	900						28																						
+BoxNpc_xh_01	BoxNpc	ÐÂ»é×£¸£»¨Àº	npc\itemnpc080a	icon\funcnpc\itemnpc080.png	161		3	9		2	interact041	5000	drop_xh_01	3	900						28																						
+BoxNpc_xh_02	BoxNpc	ÐÂ»é×£¸£±¦Ïä	npc\itemnpc201a	icon\funcnpc\itemnpc201.png	161		3	9		2	interact041	5000	drop_xh_02	3	900						28																						
+BoxNpc_xh_03	BoxNpc	ÐÂ»é×£¸£±¦Ïä	npc\itemnpc428a	icon\funcnpc\itemnpc428.png	161		3	9		2	interact041	5000	drop_xh_03	3	900						28																						
+BoxNpc_xh_04	BoxNpc	ÐÂ»é×£¸£±¦Ïä	npc\fbmac003020a	icon\funcnpc\fbmac003020.png	161		3	9		2	interact041	5000	drop_xh_04	3	900						28																						
+BoxNpc_xh_05	BoxNpc	ÐÂ»é×£¸£Ï²´ü	npc\itemnpc439a	icon\funcnpc\itemnpc439.png	161		3	9		2	interact041	5000	drop_xh_05	3	900						28																						
+																																											
+yhg_task_001	BoxNpc	ÆÆËéµÄÊé¼®	npc\itemnpc016	icon\funcnpc\task.png	161		3	9		3	interact041	5000	dorp_yhg_task_001	3	600						28																						
+yhg_task_002	BoxNpc	ÆÆËéµÄÊé¼®	npc\itemnpc026	icon\funcnpc\task.png	161		3	9		4	interact041	5000	dorp_yhg_task_002	3	600						28																						
+yhg_task_003	BoxNpc	ÆÆËéµÄÊé¼®	npc\itemnpc047	icon\funcnpc\task.png	161		3	9		5	interact041	5000	dorp_yhg_task_003	3	600						28																						
+Box_xjz_002	BoxNpc	ÓãÈº	npc\cj_101008	icon\funcnpc\task.png	161		40	9		40	interact047a	5000	drop_xjz_002	5	5						8	102118																					
+Box_xjz_003	BoxNpc	¹¤¾ßÏä	npc\itemboxnpc001	icon\funcnpc\task.png	161		3	9		3	interact041	5000	drop_xjz_003	3	900						28	103069																					
+		//ÒÆ»¨¹¬																																									
+Box_yhgsl_dc	BoxNpc	¶¾²Ý	npc\itemnpc066_01	icon\funcnpc\itemnpc066_01.png	161		5	9		2	interact041	0	drop_yhg_sl_001	1	1800						28																						
+Box_yhgsl_cy	BoxNpc	²ÝÒ©	npc\itemnpc168_1	icon\funcnpc\itemnpc168_1.png	161		5	9		2	interact041	0	drop_yhg_sl_003	1	1800						28																						
+Box_yhgsl_jdc	BoxNpc	½â¶¾Ò©	npc\itemnpc066_01	icon\funcnpc\itemnpc066_01.png	161		5	9		2	interact041	0	drop_yhg_sl_002	1	1800						28																						
+																																											
+BoxNpc_yh_001	BoxNpc	·ÉÓ¥µØ¹¬±¦ºÐ	npc\npcitem104		161		3	9		2	interact041	5000	item_yh_001	3	0						28	101792			480000																		
+BoxNpc_yh_002	BoxNpc	µØÁé²Ý	npc\itemnpc168_1	icon\funcnpc\itemnpc054.png	161		3	9		2	interact041	3000	item_yh_002	3	0						28																						
+BoxNpc_yh_003	BoxNpc	Ëð»µµÄ»­¾í	npc\itemnpc828		161		3	9		2	interact041	3000	item_yh_003	3	0						28	26408																					
+																																											
+	//½ðÕëÉò¼Ò																																										
+Box_jzsj_001	BoxNpc	²ÝÒ©	npc\cj_150001	icon\funcnpc\itemnpc214.png	161		3	9		2	interact041	3000	baoxiangjzsj01	1	6000						28	29042			86400000																		
+Box_jzsj_002	BoxNpc	²ÝÒ©	npc\cj_150050	icon\funcnpc\itemnpc214.png	161		3	9		2	interact041	3000	baoxiangjzsj02	1	6000						28	29042			86400000																		
+Box_jzsj_003	BoxNpc	²ÝÒ©	npc\cj_150100	icon\funcnpc\itemnpc214.png	161		3	9		2	interact041	3000	baoxiangjzsj03	1	6000						28	29042			86400000																		
+Box_jzsj_004	BoxNpc	²ÝÒ©	npc\cj_150150	icon\funcnpc\itemnpc214.png	161		3	9		2	interact041	3000	baoxiangjzsj04	1	6000						28	29042			86400000																		
+Box_jzsj_005	BoxNpc	²ÝÒ©	npc\cj_150250	icon\funcnpc\itemnpc214.png	161		3	9		2	interact041	3000	baoxiangjzsj05	1	6000						28	29042			86400000																		
+Box_jzsj_006	BoxNpc	²ÝÒ©	npc\cj_150300	icon\funcnpc\itemnpc214.png	161		3	9		2	interact041	3000	baoxiangjzsj06	1	6000						28	29042			86400000																		
+Box_jzsj_007	BoxNpc	²ÝÒ©	npc\cj_160001	icon\funcnpc\itemnpc214.png	161		3	9		2	interact041	3000	baoxiangjzsj07	1	6000						28	29042			86400000																		
+Box_jzsj_008	BoxNpc	²ÝÒ©	npc\cj_160150	icon\funcnpc\itemnpc214.png	161		3	9		2	interact041	3000	baoxiangjzsj08	1	6000						28	29042			86400000																		
+Box_jzsj_009	BoxNpc	²ÝÒ©	npc\cj_160300	icon\funcnpc\itemnpc214.png	161		3	9		2	interact041	3000	baoxiangjzsj09	1	6000						28	29042			86400000																		
+Box_jzsj_010	BoxNpc	²ÝÒ©	npc\cj_160200	icon\funcnpc\itemnpc214.png	161		3	9		2	interact041	3000	baoxiangjzsj10	1	6000						28	29042			86400000																		
+Box_jzsj_011	BoxNpc	²ÝÒ©	npc\cj_150001	icon\funcnpc\itemnpc214.png	161		3	9		2	interact041	3000	baoxiangjzsj30	1	6000						28	29043			7200000																		
+Box_jzsj_012	BoxNpc	²ÝÒ©	npc\cj_150050	icon\funcnpc\itemnpc214.png	161		3	9		2	interact041	3000	baoxiangjzsj31	1	6000						28	29043			7200000																		
+Box_jzsj_013	BoxNpc	²ÝÒ©	npc\cj_150100	icon\funcnpc\itemnpc214.png	161		3	9		2	interact041	3000	baoxiangjzsj32	1	6000						28	29043			7200000																		
+Box_jzsj_014	BoxNpc	²ÝÒ©	npc\cj_150150	icon\funcnpc\itemnpc214.png	161		3	9		2	interact041	3000	baoxiangjzsj33	1	6000						28	29043			7200000																		
+Box_jzsj_015	BoxNpc	²ÝÒ©	npc\cj_150250	icon\funcnpc\itemnpc214.png	161		3	9		2	interact041	3000	baoxiangjzsj34	1	6000						28	29043			7200000																		
+																																											
+	//»Æ½ðÍÃÃ«																																										
+Box_tuzi_huangjin	BoxNpc	»Æ½ðÍÃÃ«	npc\itemnpc057_tumao		161		4	9		4	interact041	1000	drop_tuzi_huangjin	60	300						28			2	300000																		
+																																											
+		//ÁèÏö³ÇÕ½³¡																																									
+BoxNpc_lxc_db_01	BoxNpc	ÆÕÍ¨µØ±¦_µØÁé×ÏÖ¥	npc\cj_106022c	icon\funcnpc\itemnpc179.png	161		3	9		2	interact041	4000	drop_worldwar_lxc001	10	30						28				300000																		
+BoxNpc_lxc_db_02	BoxNpc	ÆÕÍ¨µØ±¦_ÓñÂ¶èÁèË	npc\itemnpc166	icon\funcnpc\itemnpc179.png	161		3	9		2	interact041	4000	drop_worldwar_lxc002	10	30						28				300000																		
+BoxNpc_lxc_db_03	BoxNpc	ÆÕÍ¨µØ±¦_¾ÅÆ·ºì(Ðþ±ù³æ²Ý)	npc\npcitem669	icon\funcnpc\itemnpc179.png	161		3	9		2	interact041	4000	drop_worldwar_lxc003	10	30						28				300000																		
+BoxNpc_lxc_db_04	BoxNpc	ÆÕÍ¨µØ±¦_ÆÆÑªÉ¢(ÐþÌì±ùÆÇ)	npc\npcitem670	icon\funcnpc\itemnpc179.png	161		3	9		2	interact041	4000	drop_worldwar_lxc004	10	30						28				300000																		
+BoxNpc_lxc_db_05	BoxNpc	´óÐÍµØ±¦_ÌìòÚÖé(ÌìòÚÖé)	npc\petm_c_0502	icon\funcnpc\itemnpc179.png	161		3	9		2	interact041	4000	drop_worldwar_lxc005	10	30						28				300000																		
+BoxNpc_lxc_db_06	BoxNpc	´óÐÍµØ±¦_µØÁúÑªÒÂ(Ç§ÄêÌúÄ¾)	npc\itemnpc447	icon\funcnpc\itemnpc179.png	161		3	9		2	interact041	4000	drop_worldwar_lxc006	10	30						28				300000																		
+BoxNpc_lxc_db_07	BoxNpc	Ï¡ÓÐµØ±¦_µØÐÄÊ¯ÖÓÈé	npc\itemnpc057m	icon\funcnpc\itemnpc179.png	161		3	9		2	interact041	4000	drop_worldwar_lxc007	10	30						28				300000																		
+BoxNpc_lxc_sb_01	BoxNpc	ÆÕÍ¨Ë®±¦_±ÌË®ÇàÜø	npc\npcitem672_b	icon\funcnpc\itemnpc179.png	161		3	9		2	interact041	4000	drop_worldwar_lxc008	10	30						28				300000																		
+BoxNpc_lxc_sb_02	BoxNpc	ÆÕÍ¨Ë®±¦_»ØÌìÔÙÔìµ¤(Ë®ÔªÖé)	npc\npcitem675	icon\funcnpc\itemnpc179.png	161		3	9		2	interact041	4000	drop_worldwar_lxc009	10	30						28				300000																		
+BoxNpc_lxc_sb_03	BoxNpc	ÆÕÍ¨Ë®±¦_Ê®¶þÌìÏã¸à(Ê®¶þÌìÏã¹û)	npc\cj_150100a1	icon\funcnpc\itemnpc179.png	161		3	9		2	interact041	4000	drop_worldwar_lxc010	10	30						28				300000																		
+BoxNpc_lxc_sb_04	BoxNpc	ÆÕÍ¨Ë®±¦_·ðÃæÉßÐÄµ¤(ÇåÐÄ±ù¾§)	npc\npcitem677	icon\funcnpc\itemnpc179.png	161		3	9		2	interact041	4000	drop_worldwar_lxc011	10	30						28				300000																		
+BoxNpc_lxc_sb_05	BoxNpc	´óÐÍË®±¦_±ù¹ûÇí½¬Â¶(Í¨ÇÏÑ©Åº)	npc\cj_041060b	icon\funcnpc\itemnpc179.png	161		3	9		2	interact041	4000	drop_worldwar_lxc012	10	30						28				300000																		
+BoxNpc_lxc_sb_06	BoxNpc	´óÐÍË®±¦_Ë®ÔÂÖ®»¨	npc\cj_160200a1	icon\funcnpc\itemnpc179.png	161		3	9		2	interact041	4000	drop_worldwar_lxc013	10	30						28				300000																		
+BoxNpc_lxc_sb_07	BoxNpc	Ï¡ÓÐË®±¦_ÇåÐÄ¾µ(Ë®Ä§Á«)	npc\cj_150300	icon\funcnpc\itemnpc179.png	161		3	9		2	interact041	4000	drop_worldwar_lxc014	10	30						28				300000																		
+BoxNpc_lxc_yb_01a	BoxNpc	Òì±¦	npc\itemnpc776	icon\funcnpc\itemnpc179.png	161		3	9		2	interact041	4000	drop_worldwar_lxc017	10	30						28				300000																		
+																																											
+BoxNpc_lxc_mucai	BoxNpc	Ä¾²Ä	npc\itemnpc038	icon\funcnpc\itemnpc038	161		3	9		2	interact041	4000	drop_worldwar_lxcwuzi_001	10	30						28	18997																					
+BoxNpc_lxc_kuangshi	BoxNpc	¿óÊ¯	npc\cj020001	icon\funcnpc\cj_020020.png	161		3	9		2	interact041	4000	drop_worldwar_lxcwuzi_002	10	30						28	18997																					
+BoxNpc_lxc_caoyao	BoxNpc	²ÝÒ©	npc\itemnpc214	icon\funcnpc\itemnpc214.png	161		3	9		2	interact041	4000	drop_worldwar_lxcwuzi_003	10	30						28	18997																					
+BoxNpc_lxc_liangshi	BoxNpc	Á¸Ê³	npc\itemnpc165	icon\funcnpc\itemnpc165	161		3	9		2	interact041	4000	drop_worldwar_lxcwuzi_004	10	30						28	18997																					
+BoxNpc_lxc_wuqi	BoxNpc	ÎäÆ÷	npc\fbmac00040	icon\funcnpc\fbmac00040	161		3	9		2	interact041	4000	drop_worldwar_lxcwuzi_005	10	30						28	18997																					
+																																											
+BoxNpc_lxc_bz	BoxNpc	±ù×©	npc\itemnpc788	icon\funcnpc\itemnpc179.png	161		3	9		2	interact041	4000	drop_worldwar_lxc016	10	30						28																						
+BoxNpc_lxc_zg	BoxNpc	Öñ¹Ü	npc\itemnpc539	icon\funcnpc\itemnpc179.png	161		3	9		2	interact041	4000	drop_worldwar_lxc015	10	30						28																						
+																																											
+	//Ê¦ÐÖµÜ																																										
+Box_shitu_001	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	5000	drop_shitu_002	60					taskitem_shitu_001		28	106911																					
+																																											
+	//¿ì»îµº±¦Ïä																																										
+boxnpc_khd_bx001	BoxNpc	¿ì»îµºÍ­ÖÊ±¦Ïä1	npc\itemnpc005	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	10000	drop_khd_chengchuan_001	3	900						28	120041																					
+boxnpc_khd_bx002	BoxNpc	¿ì»îµºÍ­ÖÊ±¦Ïä2	npc\itemnpc012	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	10000	drop_khd_chengchuan_001	3	900						28	120041																					
+boxnpc_khd_bx003	BoxNpc	¿ì»îµºÍ­ÖÊ±¦Ïä3	npc\itemnpc207	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	10000	drop_khd_chengchuan_001	3	900						28	120041																					
+boxnpc_khd_bx004	BoxNpc	¿ì»îµº¶ÆÒø±¦Ïä1	npc\itemnpc689	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	10000	drop_khd_chengchuan_002	3	900						28	120041																					
+boxnpc_khd_bx005	BoxNpc	¿ì»îµº¶ÆÒø±¦Ïä2	npc\itemnpc014	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	10000	drop_khd_chengchuan_002	3	900						28	120041																					
+boxnpc_khd_bx006	BoxNpc	¿ì»îµº¶ÆÒø±¦Ïä3	npc\itemnpc075	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	10000	drop_khd_chengchuan_002	3	900						28	120041																					
+boxnpc_khd_bx007	BoxNpc	¿ì»îµº¶ÆÒø±¦Ïä4	npc\itemnpc087	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	10000	drop_khd_chengchuan_002	3	900						28	120041																					
+boxnpc_khd_bx008	BoxNpc	¿ì»îµº¶ÆÒø±¦Ïä5	npc\itemnpc206	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	10000	drop_khd_chengchuan_002	3	900						28	120041																					
+boxnpc_khd_bx009	BoxNpc	¿ì»îµº¶ÆÒø±¦Ïä6	npc\itemnpc207	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	10000	drop_khd_chengchuan_002	3	900						28	120041																					
+boxnpc_khd_bx010	BoxNpc	¿ì»îµº¶ÆÒø±¦Ïä7	npc\itemnpc473	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	10000	drop_khd_chengchuan_002	3	900						28	120041																					
+boxnpc_khd_bx011	BoxNpc	¿ì»îµº¶ÆÒø±¦Ïä8	npc\itemnpc685	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	10000	drop_khd_chengchuan_002	3	900						28	120041																					
+boxnpc_khd_bx012	BoxNpc	¿ì»îµº¶ÆÒø±¦Ïä9	npc\itemnpc890	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	10000	drop_khd_chengchuan_002	3	900						28	120041																					
+																																											
+	//ÒÆ»¨¹¬ÊÆÁ¦BOSS																																										
+Box_yhgslboss_001	BoxNpc	ÇåÑ©½£	npc\itemnpc646		161		3	9		2	interact041	3000	drop_yhgslboss_002	3							28	106804			3600000																		
+																																											
+	//½ðÁêÇ°ÖÃ																																										
+Box_jlqz_001	BoxNpc	½â¶¾Ò©1	npc\itemnpc589		161		3	9		2	interact041	3000	drop_jlqz_jiedu_001																														
+Box_jlqz_002	BoxNpc	½â¶¾Ò©1	npc\itemnpc589		161		3	9		2	interact041	3000	drop_jlqz_jiedu_002																														
+Box_jlqz_003	BoxNpc	½â¶¾Ò©1	npc\itemnpc589		161		3	9		2	interact041	3000	drop_jlqz_jiedu_003																														
+Box_jlqz_004	BoxNpc	½â¶¾Ò©1	npc\itemnpc589		161		3	9		2	interact041	3000	drop_jlqz_jiedu_004																														
+Box_jlqz_005	BoxNpc	½â¶¾Ò©1	npc\itemnpc589		161		3	9		2	interact041	3000	drop_jlqz_jiedu_005																														
+																																											
+	//ÐÂÊÀ½ç»÷É±µôÂä																																										
+BoxNpc_newdrop001	BoxNpc	»÷É±µôÂä	npc\itemnpc1378	icon\funcnpc\itemboxnpc002.png	399		3	9		2	interact041	4000		3	180						28				3600000																		
+BoxNpc_newdrop002	BoxNpc	»÷É±µôÂä	npc\itemnpc1377	icon\funcnpc\itemboxnpc002.png	399		3	9		2	interact041	4000		3	180						28				3600000																		
+BoxNpc_newdrop003	BoxNpc	»÷É±µôÂä	npc\itemnpc1379	icon\funcnpc\itemboxnpc002.png	399		3	9		2	interact041	4000		3	180						28				3600000																		
+																																											
+	//Î÷Óò																																										
+BoxNpc_xiyu_yd_001	BoxNpc	Ì«Ðþ¾­	npc\itemnpc053yd	icon\funcnpc\task.png	161		3	9		2	interact041	5000	drop_xiyu_yd_001	1	900						28																						
+																																											
+	//ÃØ¾³																																										
+box_beiyuan_wmd_001	BoxNpc	Ô¿³×±¦Ïä	npc\itemnpc689	icon\funcnpc\task.png	161		3	9		2	interact041	3000	drop_beiyuan_wmd_002	3	7200000						28				72000000																		
+box_beiyuan_wmd_002	BoxNpc	Áåîõ±¦Ïä	npc\itemnpc689	icon\funcnpc\task.png	161		3	9		2	interact041	3000	drop_beiyuan_wmd_005	3	7200000						28				72000000																		
+																																											
+	//±±Ô­																																										
+BoxNpc_beiyuan_yd_001	BoxNpc	¹âÐ§	npc\itemnpc053yd	icon\funcnpc\task.png	161		3	9		2	interact041			1	900						28																						
+BoxNpc_beiyuan_yd_002	BoxNpc	ÏãÄÒ	npc\itemnpc439	icon\funcnpc\task.png	161		3	9		2	interact041	5000	drop_beiyuan_yd_001	1	900						28																						
+																																											
+	//±±Ô­ºÚÔóÄ§Í·ÊÂ¼þ																																										
+beiyuan_hz_shiti	BoxNpc	Ê¬Ìå	npc\itemnpc230	icon\funcnpc\task.png	161		3	9		2	interact041	2000	drop_beiyuan_hmt01	1	900						28																						
+beiyuan_hz_shiti_hmt1	BoxNpc	ºÚÄ§Ê¬Ìå	npc\itemnpc230	icon\funcnpc\task.png	161		3	9		2	interact041	2000	drop_beiyuan_hmt02	1	900						28																						
+beiyuan_hz_caoyao	BoxNpc	²ÝÒ©	npc\itemnpc054	icon\funcnpc\task.png	161		3	9		2	interact041	2000	drop_beiyuan_hmt03	1	900						28																						
+																																											
+	//ÃÜ¾³-±±Ô­-¹ÅÄ¹																																										
+Box_gmzd_bomb	BoxNpc	Õ¨Ò©	npc\itemnpc434		161		3	9		2	interact041	3000	drop_gmzd_bomb	3	7200000																												
+																																											
+	//ÃØ¾³-ÉñË®¹¬																																										
+Box_mijing_ssg_001	BoxNpc	Õæ±¦Ïä	npc\itemnpc591		161		3	9		2	interact041	3000	drop_box_ssg_001	3	9000																												
+																																											
+	//Í¨ÓÃÃØ¾³Í¨¹Ø½±Àø																																										
+Box_tongyongmijing_llmk	BoxNpc	Â¥À¼ÃÜ¿ßÍ¨¹Ø½±Àø	npc\itemnpc689		161		3	9		2	interact041	3000	drop_prize_llmk	3	7200000						28				72000000																		
+Box_tongyongmijing_jwd	BoxNpc	½ðòÚ¶´Í¨¹Ø½±Àø	npc\itemnpc689		161		3	9		2	interact041	3000	drop_prize_jwd	3	7200000						28				72000000																		
+Box_tongyongmijing_sldxc	BoxNpc	Ê¯ÁÖ¶´¸®Í¨¹Ø½±Àø	npc\itemnpc689		161		3	9		2	interact041	3000	drop_prize_sldxc	3	7200000						28				72000000																		
+Box_tongyongmijing_wmd	BoxNpc	ÎÞÃû¶´Í¨¹Ø½±Àø	npc\itemnpc689		161		3	9		2	interact041	3000	drop_prize_wmd	3	7200000						28				72000000																		
+Box_tongyongmijing_gmmg	BoxNpc	¹ÅÄ¹ÃÔ¹¬Í¨¹Ø½±Àø	npc\itemnpc689		161		3	9		2	interact041	3000	drop_prize_gmmg	3	7200000						28				72000000																		
+Box_tongyongmijing_ssg	BoxNpc	ÉñË®¹¬Í¨¹Ø½±Àø	npc\itemnpc689		161		3	9		2	interact041	3000	drop_prize_ssg	3	7200000						28				72000000																		
+																																											
+	//ÎÞÃû¾çÇé¶´Í¨¹Ø½±Àø																																										
+box_wmd_prize	BoxNpc	ÎÞÃû¶´Í¨¹Ø½±Àø	npc\itemnpc689		161		3	9		2	interact041	3000	drop_prize_wmdbox	3	7200000																												
+																																											
+bag_bossnewworld002_01	BoxNpc	½±Àø°ü	npc\bag_wnhg01		52		1	1		1	interact041	3000	drop_bossnewworld002_extra	1	120																												
+bag_bossnewworld002_02	BoxNpc	½±Àø°ü	npc\bag_wnhg02		52		1	1		1	interact041	3000	drop_bossnewworld002_extra	1	120								"0.5,0.5,0.5"																				
+bag_bossnewworld002_03	BoxNpc	½±Àø°ü	npc\bag_wnhg03		52		1	1		1	interact041	3000	drop_bossnewworld002_extra	1	120																												
+bag_bossnewworld001_01	BoxNpc	½±Àø°ü	npc\bag_wnhg01		52		1	1		1	interact041	3000	drop_bossnewworld001_extra	1	120																												
+bag_bossnewworld001_02	BoxNpc	½±Àø°ü	npc\bag_wnhg02		52		1	1		1	interact041	3000	drop_bossnewworld001_extra	1	120								"0.5,0.5,0.5"																				
+bag_bossnewworld001_03	BoxNpc	½±Àø°ü	npc\bag_wnhg03		52		1	1		1	interact041	3000	drop_bossnewworld001_extra	1	120																												
+bag_bossnewworld001a_01	BoxNpc	½±Àø°ü	npc\bag_wnhg01		52		1	1		1	interact041	3000	drop_bossnewworld001a_extra1	1	120																												
+bag_bossnewworld001a_02	BoxNpc	½±Àø°ü	npc\bag_wnhg02		52		1	1		1	interact041	3000	drop_bossnewworld001a_extra2	1	120								"0.5,0.5,0.5"																				
+bag_bossnewworld001a_03	BoxNpc	½±Àø°ü	npc\bag_wnhg03		52		1	1		1	interact041	3000	drop_bossnewworld001a_extra3	1	120																												
+bag_bossnewworld002a_01	BoxNpc	½±Àø°ü	npc\bag_wnhg01		52		1	1		1	interact041	3000	drop_bossnewworld002a_extra1	1	120																												
+bag_bossnewworld002a_02	BoxNpc	½±Àø°ü	npc\bag_wnhg02		52		1	1		1	interact041	3000	drop_bossnewworld002a_extra2	1	120								"0.5,0.5,0.5"																				
+bag_bossnewworld002a_03	BoxNpc	½±Àø°ü	npc\bag_wnhg03		52		1	1		1	interact041	3000	drop_bossnewworld002a_extra3	1	120																												
+																																											
+	//¹ÅÄ¹ÅÉ-ÍÚ±¦Íæ·¨																																										
+box_nmp_gmpwb_004	BoxNpc	½±Àø±¦Ïä£¨Ò»¼¶£©	npc\itemnpc689		161		3	9		2	interact041	3000	drop_nmp_gmpwb_002	3	7200000			1	item_nmp_gmpwb_012						7200000																		
+box_nmp_gmpwb_003	BoxNpc	½±Àø±¦Ïä£¨¶þ¼¶£©	npc\itemnpc689		161		3	9		2	interact041	3000	drop_nmp_gmpwb_003	3	7200000			1	item_nmp_gmpwb_012						7200000																		
+box_nmp_gmpwb_002	BoxNpc	½±Àø±¦Ïä£¨Èý¼¶£©	npc\itemnpc689		161		3	9		2	interact041	3000	drop_nmp_gmpwb_004	3	7200000			1	item_nmp_gmpwb_012						7200000																		
+box_nmp_gmpwb_001	BoxNpc	½±Àø±¦Ïä£¨ËÄ¼¶£©	npc\itemnpc689		161		3	9		2	interact041	3000	drop_nmp_gmpwb_005	3	7200000			1	item_nmp_gmpwb_012						7200000																		
+																																											
+	//»¨»áÌøÌøÀÖ																																										
+boxnpc_nlb_hh_lh_001	BoxNpc	»¨»áÌøÌøÀÖ	npc\itemnpc033		161		1	9		1	interact041	2000	drop_boxnpc_nlb_hh_lh_001	3	60						28	110408																					
+																																											
+box_nmp_cfbj_hd_03_001	BoxNpc	±¦Ïä£¨´ó£©	npc\itemnpc589		161		3	9		2	interact041	3000	drop_cfbj_dbdh_prize_009	3	300000						28				300000																		
+box_nmp_cfbj_hd_03_002	BoxNpc	±¦Ïä£¨ÖÐ£©	npc\itemnpc588		161		3	9		2	interact041	3000	drop_cfbj_dbdh_prize_010	3	300000						28				300000																		
+box_nmp_cfbj_hd_03_003	BoxNpc	±¦Ïä£¨Ð¡£©	npc\itemnpc689		161		3	9		2	interact041	3000	drop_cfbj_dbdh_prize_011	3	300000						28				300000																		
+																																											
+Gather_cfbj_shxb_001	BoxNpc	´ó¿³µ¶	npc\npcitem873	icon\funcnpc\itemboxnpc002.png	161		1	9		2	interact041	3000	drop_cfbj_shxb_001	3	7200000						28				7200000																		
+Gather_cfbj_shxb_003	BoxNpc	»õÎï	npc\npcitem794	icon\funcnpc\itemboxnpc002.png	161		1	9		2	interact041	3000	drop_cfbj_shxb_003	3	7200000						28				7200000																		
+																																											
+	//ÄîÂÜ°Ó-»¨»á-±¦Ïä																																										
+boxnpc_nlb_ww001	BoxNpc	ÄîÂÜ°Ó»¨»á-Ò»¶ÑÔÓÎï	npc\itemnpc012	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	10000	drop_Box_nlb_fiesta_01	3	900						28																						
+boxnpc_nlb_ww002	BoxNpc	ÄîÂÜ°Ó»¨»á-Ò»¶Ñ¿ÝÒ¶	npc\itemnpc087	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	10000	drop_Box_nlb_fiesta_01	3	900						28																						
+boxnpc_nlb_ww003	BoxNpc	ÄîÂÜ°Ó»¨»á-Ò»¶ÑÂÒÊ¯	npc\itemnpc207	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	10000	drop_Box_nlb_fiesta_01	3	900						28																						
+boxnpc_nlb_ww004	BoxNpc	ÄîÂÜ°Ó»¨»á-Ò»¿ÅÐ¡²Ý	npc\itemnpc168	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	10000	drop_Box_nlb_fiesta_01	3	900						28																						
+boxnpc_nlb_ww005	BoxNpc	ÄîÂÜ°Ó»¨»á-Ã¯ÃÜµÄ²Ý´Ô	npc\itemnpc172	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	10000	drop_Box_nlb_fiesta_01	3	900						28																						
+boxnpc_nlb_ww006	BoxNpc	ÄîÂÜ°Ó»¨»á-Ò»ÖêÒ°»¨	npc\itemnpc204	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	10000	drop_Box_nlb_fiesta_01	3	900						28																						
+boxnpc_nlb_ww007	BoxNpc	ÄîÂÜ°Ó»¨»á-Ò»¸ù¿ÝÖ¦	npc\npcitem744	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	10000	drop_Box_nlb_fiesta_01	3	900						28																						
+boxnpc_nlb_ww008	BoxNpc	ÄîÂÜ°Ó»¨»á-ÐÂÏÊµÄÄ¢¹½	npc\itemnpc440	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	10000	drop_Box_nlb_fiesta_01	3	900						28																						
+																																											
+	//ÉñË®Ñ©Á«																																										
+boxnpc_ssg_rm_001	BoxNpc	Ñ©Á«	npc\itemnpc224		161		3	9		2	interact017	5000	drop_Box_ssg_rm_001	3	10						28																						
+																																											
+	//ÉñË®»áÎä±¦Ïä																																										
+boxnpc_ssg_hd_mphz001	BoxNpc	±¦Ïä£¨´ó£©	npc\itemnpc589		161		3	9		2	interact041	3000	drop_item_prize_ssg_016_a	3	300000						28				300000																		
+																																											
+	//ÅîÀ³µº±¦Ïä																																										
+BoxNpc_pld001	BoxNpc	ÒøÖÊ±¦Ïä	npc\itemnpc588	icon\funcnpc\itemnpc005.png	713		3	9		2	interact017	5000	comd_pld_wb_yin	10	300			1	key_pld001		5	112241			300000																		
+BoxNpc_pld002	BoxNpc	½ðÖÊ±¦Ïä	npc\itemnpc589	icon\funcnpc\itemnpc005.png	713		3	9		2	interact017	5000	comd_pld_wb_jin	10	300			1	key_pld002		5	112242			300000																		
+BoxNpc_pld003	BoxNpc	ÓñÖÊ±¦Ïä	npc\itemnpc591a	icon\funcnpc\itemnpc005.png	713		3	9		2	interact017	5000	comd_pld_wb_yu	10	300			1	key_pld003		5	112243			300000																		
+BoxNpc_pld004	BoxNpc	µ¤Ò©±¦Ïä	npc\npcitem639a		161		3	9		2	interact041	3000	drop_box_pld_004	1	60						28				60000																		
+	//»ªÉ½Óù½£µÀ¾ß																																										
+boxnpc_hsp_wxjz_lh_001	BoxNpc	Óù½£µÀ¾ß	npc\itemnpc590		161		1	9		1	interact041	2000	drop_hsp_wxjz_luh_03	3	60						28																						
+																																											
+boxnpc_worldboss001_01	BoxNpc	´òÔìÌ¨	npc\npcitem964		161		1	1		1	interact017	10000	drop_worldboss001_box01	1	3600							27916	"0.5,0.5,0.5"	2			1																
+boxnpc_worldboss001_02	BoxNpc	¹ÅÆ×²Ð¾í	npc\npcitem961		161		1	1		1	interact017	10000	drop_worldboss001_box02	1	3600							27916		2			1																
+boxnpc_worldboss001_03	BoxNpc	ÄÚ¹¦²Ð¾í	npc\npcitem963		161		1	1		1	interact017	10000	drop_worldboss001_box03	1	3600							27916		2			1																
+boxnpc_worldboss001_03_2	BoxNpc	ÄÚ¹¦²Ð¾í	npc\npcitem963		161		1	1		1	interact017	10000	drop_worldboss001_box03_2	1	3600							27916		2			1																
+boxnpc_worldboss001_04	BoxNpc	ÍØ±¾ËéÆ¬	npc\npcitem966		161		1	1		1	interact017	10000	drop_worldboss001_box04	1	3600							27916	"0.3,1,0.3"	2			1																
+boxnpc_worldboss007_01	BoxNpc	´òÔìÌ¨	npc\npcitem964		161		1	1		1	interact017	10000	drop_worldboss007_box01	1	3600							27916	"0.75,0.75,0.75"	2			1																
+boxnpc_worldboss007_02	BoxNpc	¹ÅÆ×²Ð¾í	npc\npcitem961		161		1	1		1	interact017	10000	drop_worldboss007_box02	1	3600							27916	"1.5,1.5,1.5"	2			1																
+boxnpc_worldboss007_03	BoxNpc	ÄÚ¹¦²Ð¾í	npc\npcitem963		161		1	1		1	interact017	10000	drop_worldboss007_box03	1	3600							27916	"1.5,1.5,1.5"	2			1																
+boxnpc_worldboss007_03_2	BoxNpc	ÄÚ¹¦²Ð¾í	npc\npcitem963		161		1	1		1	interact017	10000	drop_worldboss007_box03_2	1	3600							27916	"1.5,1.5,1.5"	2			1																
+boxnpc_worldboss007_04	BoxNpc	ÍØ±¾ËéÆ¬	npc\npcitem966		161		1	1		1	interact017	10000	drop_worldboss007_box04	1	3600							27916	"0.45,1.5,0.45"	2			1																
+boxnpc_worldboss001_02_1	BoxNpc	¹ÅÆ×²Ð¾í	npc\npcitem961		161		1	1		2	interact017	5000	drop_worldboss001_box02_1	1	3600							27916		2			1																
+boxnpc_worldboss007_02_1	BoxNpc	¹ÅÆ×²Ð¾í	npc\npcitem961		161		1	1		2	interact017	5000	drop_worldboss007_box02_1	1	3600							27916		2			1																
+																																											
+boxnpc_xkd_01	BoxNpc	¾ÆÌ³	npc\itemnpc001	icon\funcnpc\	161		3	9		3	interact041	3000	drop_xkd_envet_01	1	120000						28																						
+boxnpc_xkd_04	BoxNpc	±ÕÄ¿Óã	npc\cj_101007	icon\funcnpc\	161		3	9		3	interact041	3000	drop_xkd_envet_07	1	120000						28	111751																					
+boxnpc_xkd_05	BoxNpc	ÓãÈº	npc\cj_101008	icon\funcnpc\	161		3	9		3	interact041	3000	drop_xkd_envet_08	1	120000						28	111752																					
+boxnpc_xkd_06	BoxNpc	ÏóÆå×Ó	npc\fbmac015002	icon\funcnpc\	161		3	9		3	interact041	3000	drop_xkd_envet_11	1	120000						28																						
+boxnpc_xkd_07	BoxNpc	Ë®¹û	npc\cj_040020	icon\funcnpc\	161		3	9		3	interact041	3000	drop_xkd_envet_12	1	120000						28																						
+boxnpc_xkd_08	BoxNpc	ÎàÍ©Ä¾	npc\itemnpc1403	icon\funcnpc\	161		3	9		3	interact041	3000	drop_xkd_envet_13	1	120000						28																						
+boxnpc_xkd_09	BoxNpc	²Ï¼Ü	npc\cj_040203	icon\funcnpc\	161		3	9		3	interact041	3000	drop_xkd_envet_14	1	120000						28																						
+boxnpc_xkd_10	BoxNpc	ÁéÖ¥	npc\cj_106022	icon\funcnpc\	161		3	9		3	interact041	3000	drop_xkd_envet_15	1	120000						28																						
+																																											
+boxnpc_zyb_pld001	BoxNpc	ÅîÀ³µºÒ°¼¦	npc\monster119		161		3	9		2	interact017	5000	drop_item_pl_008	1	3600						28																						
+boxnpc_pld_tuzi	BoxNpc	ÅîÀ³µºÍÃ×Ó	npc\monster118		161		3	9		2	interact017	5000	drop_pld_lzy_001	0.01	60			1	item_pld_lzy005		28	111702																					
+pldcj_zyb_001	BoxNpc	ÅîÀ³µºÃØ¼®	npc\itemnpc005		161		3	9		2	interact017	5000	drop_item_pl_014	1	3600						28																						
+																																											
+boxnpc_jiebai_qgd	BoxNpc	±¦Ïä	npc\itemnpc589		161		3	9		2	interact041	3000	drop_jiebai_qgd	3	300						28				300000																		
+																																											
+																																											
+box_boss_dhpvp_004	BoxNpc	¶«º£PVPBOSSÆÕÍ¨±¦Ïä	npc\itemboxnpc003_yunbiao		161		3	9		2	interact041	3000	drop_boss_dhpvp_004	3	300						28				300000																		
+																																											
+BoxNpcgujpld_001	BoxNpc	Â¹µôÂä	npc\itemnpc589	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	5000	drop_item_pld_gujqybzs_02	3	30000						28																						
+BoxNpcgujpld_002	BoxNpc	²ÝÒ©	npc\cj_150001	icon\funcnpc\itemnpc214.png	161		3	9		2	interact041	3000	drop_huodong_pldguj_04	1	6000						28																						
+																																											
+itemnpc_wjd_04	BoxNpc	Õ³ÍÁ¶Ñ	npc\itemnpc075		161		2	1		2	offact161	2000	drop_itemnpc_wjd_04	1	120						6	111901																					
+itemnpc_wjd_05	BoxNpc	°×ÑîÊ÷	npc\box001		52		3	1		3	interact007a	2000	drop_itemnpc_wjd_05	1	120						14	111902																					
+itemnpc_wjd_06	BoxNpc	Ìú¿óÊ¯	npc\cj_102005		161		2	1		2	interact006a	2000	drop_itemnpc_wjd_06	1	120						6	111903																					
+itemnpc_wjd_13_01	BoxNpc	Ö¹Ñª²Ý	npc\cj_150100a1		161		3	1		2	interact017	5000	drop_itemnpc_wjd_13_01	1	120						7	27971																					
+itemnpc_wjd_13_02	BoxNpc	¶ÀÁú²Ý	npc\cj_160001		161		3	1		2	interact017	5000	drop_itemnpc_wjd_13_02	1	120						7	27972																					
+itemnpc_wjd_13_03	BoxNpc	ÓãÐÈ²Ý	npc\cj_106013a1		161		3	1		2	interact017	5000	drop_itemnpc_wjd_13_03	1	120						7	27973																					
+itemnpc_wjd_05_02	BoxNpc	´åÃñÒÂ·þ	npc\itemnpc136		52		3	1		2	interact017	1000	drop_itemnpc_wjd_05_02	1	120						28																						
+itemnpc_wjd_49_01	BoxNpc	´óÃ÷±¦Îï	npc\itemboxnpc003_yunbiao		161		1	9		1	interact041	5000	drop_itemnpc_wjd_49_01	3							28																						
+itemnpc_wjd_44_01	BoxNpc	²¼·ÀÍ¼	npc\npcitem962		161		2	1		1	interact017	4000	drop_itemnpc_wjd_44_01	1	3600						28																						
+itemnpc_wjd_44_02	BoxNpc	½¢´¬Éè¼ÆÍ¼	npc\npcitem962		161		2	1		1	interact017	4000	drop_itemnpc_wjd_44_02	1	3600						28																						
+itemnpc_wjd_44_03	BoxNpc	¼Æ»®Êé	npc\npcitem962		161		2	1		1	interact017	4000	drop_itemnpc_wjd_44_03	1	3600						28																						
+																																											
+boxnpc_wuxianjiao_gujzlcy_001	BoxNpc	òÚò¼	npc\fbnpc019019		161		3	9		2	interact017	3000	drop_wxjguj_rczlcy_003	0.01	60						28																						
+boxnpc_wuxianjiao_gujzlcy_002	BoxNpc	Ð«×Ó	npc\monster013		161		3	9		2	interact017	3000	drop_wxjguj_rczlcy_004	0.01	60						28																						
+boxnpc_wuxianjiao_gujzlcy_003	BoxNpc	ó¸òÜ	npc\petm_c_0300		161		3	9		2	interact017	3000	drop_wxjguj_rczlcy_005	0.01	60			1	item_wxj_zlcy_011		28	112753																					
+																																											
+boxnpc_wxj_dg_001	BoxNpc	¶·¹Æ´ó»á±¦Ïä	npc\itemnpc005a		161		3	9		2	interact017	3000	drop_wxj_dg_001	1	60						28	28354																					
+																																											
+box_sneakon_qb_01	BoxNpc	Çé±¨Ïä	npc\itemboxnpc003_yunbiao		161		1	9		1	interact017	2000	drop_sneakon_01	1	300000						28																						
+Boxnpc_murong_001	BoxNpc	Ä½ÈÝÊÀ¼Ò²ØÊé	npc\itemnpc049citan		161		3	9		3	interact041	2000	drop_murong_001	1	60						28																						
+																																											
+boxnpc_ymsj_gujfenwei_001	BoxNpc	Ò©²Ý	npc\cj_150250		161		3	9		2	interact017	3000	drop_ymsj_guj_001	0.01	60						28																						
+boxnpc_ymsj_gujfenwei_002	BoxNpc	Çé±¨Ïä	npc\itemboxnpc003_yunbiao		161		3	9		2	interact017	3000	drop_ymsj_guj_002	0.01	60						28	114401																					
+																																											
+Boxnpc_cbtdrwf_guj002	BoxNpc	²Ø±¦Í¼µ¥ÈËÍæ·¨1--±¦Ïä	npc\itemboxnpc003_yunbiao		161		3	9		3	interact041	2000	drop_wcbz_001	1	3600						28																						
+Boxnpc_wcbz_001	BoxNpc	²Ø±¦Í¼µ¥ÈËÍæ·¨1--±¦Ïä	npc\itemboxnpc003_yunbiao		161		3	9		3	interact017	2000	drop_wcbz_001	300000	300000						28																						
+Boxnpc_lzy_cbtdrwf_yczk001	BoxNpc	²Ø±¦Í¼µ¥ÈËÍæ·¨1--±¦Ïä	npc\itemnpc591	icon\funcnpc\itemnpc005.png	161		3	9		3	interact041	2000	drop_lzy_cbtdrwf_yczk001	1	3600						28																						
+Boxnpc_lzy_cbtdrwf_yczk002	BoxNpc	²Ø±¦Í¼µ¥ÈËÍæ·¨1--±¦Ïä	npc\itemnpc591	icon\funcnpc\itemnpc005.png	161		3	9		3	interact041	2000	drop_lzy_cbtdrwf_yczk002	1	3600						28																						
+Boxnpc_lzy_cbtdrwf_yczk003	BoxNpc	²Ø±¦Í¼µ¥ÈËÍæ·¨1--±¦Ïä	npc\itemnpc591	icon\funcnpc\itemnpc005.png	161		3	9		3	interact041	2000	drop_lzy_cbtdrwf_yczk003	1	3600						28																						
+Boxnpc_lzy_cbtdrwf_yczk004	BoxNpc	²Ø±¦Í¼µ¥ÈËÍæ·¨1--±¦Ïä	npc\itemnpc591	icon\funcnpc\itemnpc005.png	161		3	9		3	interact041	2000	drop_lzy_cbtdrwf_yczk004	1	3600						28																						
+Boxnpc_lzy_cbtdrwf_yczk005	BoxNpc	²Ø±¦Í¼µ¥ÈËÍæ·¨1--±¦Ïä	npc\itemnpc591	icon\funcnpc\itemnpc005.png	161		3	9		3	interact041	2000	drop_lzy_cbtdrwf_yczk005	1	3600						28																						
+Boxnpc_wcbz_002	BoxNpc	²Ø±¦Í¼Ö±½Ó±¦Ïä	npc\itemboxnpc003_yunbiao		161		3	9		3	interact017	2000	drop_wcbz_002	300000	300000						28																						
+Boxnpc_wcbz_003	BoxNpc	²Ø±¦Í¼¶àÈËÍæ·¨±¦Ïä	npc\itemboxnpc003_yunbiao		161		3	9		3	interact017	2000	comd_drop_wcbz_003	300000	300000						28																						
+Boxnpc_wcbz_004	BoxNpc	²Ø±¦Í¼¶àÈËÍæ·¨±¦Ïä2	npc\itemnpc591		161		3	9		3	interact017	2000	comd_drop_wcbz_004	300000	300000						28																						
+																																											
+box_th_001	BoxNpc	Ä¾Ïä×Ó	npc\itemnpc586	icon\funcnpc\itemnpc586.png	161		3	9		2	interact041	0		3							28					10																	
+box_th_002	BoxNpc	ÌúÏä×Ó	npc\itemnpc1593_1a	icon\funcnpc\itemnpc005a.png	161		3	9		2	interact041	0		3							28					10																	
+box_th_003	BoxNpc	ÒøÏä×Ó	npc\itemnpc1593_2a	icon\funcnpc\itemnpc586.png	161		3	9		2	interact041	0		3							28					10																	
+box_th_004	BoxNpc	½ðÏä×Ó	npc\itemnpc589	icon\funcnpc\itemnpc589.png	161		3	9		2	interact041	0		3							28					10																	
+box_th_005	BoxNpc	Ä¾ºÐ×Ó£¨Ð¡£©	npc\itemnpc1593_3a	icon\funcnpc\itemnpc689.png	161		3	9		2	interact041	0		3							28					10																	
+box_th_006	BoxNpc	ºÚºÐ×Ó´ó	npc\itemnpc591	icon\funcnpc\itemnpc591.png	161		3	9		2	interact041	0		3							28					10																	
+box_th_007	BoxNpc	°ü¸¤	npc\itemnpc1593_3a	icon\funcnpc\itemnpc428a.png	161		3	9		2	interact041	0		3							28					10																	
+																																											
+																																											
+boxnpc_jiuyang_001	BoxNpc	±¦Ïä1	npc\itemnpc589	icon\funcnpc\task.png	161		5	2		3	interact041	3000	drop_jysg_001	3	300000						28	29440			14400000										1		1	1					1
+boxnpc_jiuyang_002	BoxNpc	±¦Ïä1	npc\itemnpc589	icon\funcnpc\task.png	161		5	2		3	interact041	3000	drop_jysg_002	3	300000						28	29440			14400000										1		1	1					1
+																																											
+boxnpc_cyjhd_zy_001	BoxNpc	¾Õ»¨	npc\itemnpc1596		161		5	9		3	interact041	3000	drop_boxnpc_cyjhd_zy_001	1							28	29449																					
+																																											
+npc_cy2017_zyc	BoxNpc	ÜïÝÇÊ÷	npc\npcitem1056a		161		5	9		3	interact041	3000	drop_box_cy2017_zyz	1							28	29448																					
+																																											
+																																											
+boxnpc_mzyy_001	BoxNpc	·¨»ª¾­	npc\itemnpc053		161		3	9		2	interact017	5000	drop_boxnpc_mzyy_001	3	10						28	117136																					
+boxnpc_mzyy_002	BoxNpc	µØ²Ø¾­	npc\itemnpc021		161		3	9		2	interact017	5000	drop_boxnpc_mzyy_002	3	10						28	117136																					
+boxnpc_mzyy_003	BoxNpc	°¢ÃÖÍÓ¾­	npc\itemnpc026		161		3	9		2	interact017	5000	drop_boxnpc_mzyy_003	3	10						28	117136																					
+boxnpc_mzyy_004	BoxNpc	¾­Êé	npc\itemnpc016		161		3	9		2	interact017	5000	drop_boxnpc_mzyy_004	3	10						28	117136																					
+																																											
+																																											
+		//¾»Ìì¹¬																																									
+BoxTG3501	BoxNpc	ÂåÌìè¯	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss1_35	6000	6000						28			1																			
+BoxTG3502	BoxNpc	Íü³¾	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_35	6000	6000						28			1																			
+BoxTG3503	BoxNpc	ÏÛÓ°	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_35	6000	6000						28			1																			
+BoxTG3504	BoxNpc	’‚ÔÆ	npc\itemnpc590	icon\funcnpc\itemnpc005.png	161		3	9		2	interact041	1000	comb_tg_boss2_35	6000	6000						28			1																			
+BoxTG351	BoxNpc	½ð±¦Ïä	npc\itemnpc589	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_tg_jia35	6000	6000						28			2																			
+BoxTG352	BoxNpc	Òø±¦Ïä	npc\itemnpc588	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_tg_yi35	6000	6000						28			2																			
+BoxTG353	BoxNpc	Í­±¦Ïä	npc\itemnpc587	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_tg_bing35	6000	6000						28			2																			
+																																											
+BoxNpc_ylqj_lzy_qizi001	BoxNpc	Æå×Ó	npc\itemnpc485	icon\funcnpc\task.png	161		3	9		2	interact017	3000	drop_ylqj_lzy_qizi001	3	600						28		"5,5,5"																				
+																																											
+		//ÐÂ´óÌÓÉ±																																									
+box_newts_001	BoxNpc	Ä¾Ïä×Ó	npc\itemnpc586	icon\funcnpc\itemnpc586.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_002	BoxNpc	Ä¾Ïä×Ó	npc\itemnpc586	icon\funcnpc\itemnpc005a.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_003	BoxNpc	Ä¾Ïä×Ó	npc\itemnpc586	icon\funcnpc\itemnpc586.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_004	BoxNpc	Ä¾Ïä×Ó	npc\itemnpc586	icon\funcnpc\itemnpc589.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_005	BoxNpc	Ä¾Ïä×Ó	npc\itemnpc586	icon\funcnpc\itemnpc689.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_006	BoxNpc	Ä¾Ïä×Ó	npc\itemnpc586	icon\funcnpc\itemnpc591.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_007	BoxNpc	Ä¾Ïä×Ó	npc\itemnpc586	icon\funcnpc\itemnpc586.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_008	BoxNpc	Ä¾Ïä×Ó	npc\itemnpc586	icon\funcnpc\itemnpc005a.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_009	BoxNpc	Ä¾Ïä×Ó	npc\itemnpc586	icon\funcnpc\itemnpc586.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_010	BoxNpc	Ä¾Ïä×Ó	npc\itemnpc586	icon\funcnpc\itemnpc589.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_011	BoxNpc	ÒøÏä×Ó	npc\itemnpc588	icon\funcnpc\itemnpc689.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_012	BoxNpc	ÒøÏä×Ó	npc\itemnpc588	icon\funcnpc\itemnpc591.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_013	BoxNpc	ÒøÏä×Ó	npc\itemnpc588	icon\funcnpc\itemnpc586.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_014	BoxNpc	ÒøÏä×Ó	npc\itemnpc588	icon\funcnpc\itemnpc005a.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_015	BoxNpc	ÒøÏä×Ó	npc\itemnpc588	icon\funcnpc\itemnpc586.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_016	BoxNpc	ÒøÏä×Ó	npc\itemnpc588	icon\funcnpc\itemnpc589.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_017	BoxNpc	ÒøÏä×Ó	npc\itemnpc588	icon\funcnpc\itemnpc689.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_018	BoxNpc	ÒøÏä×Ó	npc\itemnpc588	icon\funcnpc\itemnpc591.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_019	BoxNpc	ÒøÏä×Ó	npc\itemnpc588	icon\funcnpc\itemnpc586.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_020	BoxNpc	ÒøÏä×Ó	npc\itemnpc588	icon\funcnpc\itemnpc005a.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_021	BoxNpc	ÒøÏä×Ó	npc\itemnpc588	icon\funcnpc\itemnpc586.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_022	BoxNpc	ÒøÏä×Ó	npc\itemnpc588	icon\funcnpc\itemnpc589.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_023	BoxNpc	½ðÏä×Ó	npc\itemnpc589	icon\funcnpc\itemnpc689.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_024	BoxNpc	½ðÏä×Ó	npc\itemnpc589	icon\funcnpc\itemnpc591.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_025	BoxNpc	½ðÏä×Ó	npc\itemnpc589	icon\funcnpc\itemnpc586.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_026	BoxNpc	½ðÏä×Ó	npc\itemnpc589	icon\funcnpc\itemnpc005a.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_027	BoxNpc	½ðÏä×Ó	npc\itemnpc589	icon\funcnpc\itemnpc586.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_028	BoxNpc	½ðÏä×Ó	npc\itemnpc589	icon\funcnpc\itemnpc589.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_029	BoxNpc	½ðÏä×Ó	npc\itemnpc589	icon\funcnpc\itemnpc689.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_030	BoxNpc	½ðÏä×Ó	npc\itemnpc589	icon\funcnpc\itemnpc591.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_031	BoxNpc	Òþ²ØÏä×Ó1	npc\itemnpc057_dzw_ts01	icon\funcnpc\itemnpc586.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_032	BoxNpc	Òþ²ØÏä×Ó1	npc\itemnpc057_dzw_ts01	icon\funcnpc\itemnpc005a.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_033	BoxNpc	Òþ²ØÏä×Ó1	npc\itemnpc057_dzw_ts01	icon\funcnpc\itemnpc586.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_034	BoxNpc	Òþ²ØÏä×Ó1	npc\itemnpc057_dzw_ts01	icon\funcnpc\itemnpc589.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_035	BoxNpc	Òþ²ØÏä×Ó1	npc\itemnpc057_dzw_ts01	icon\funcnpc\itemnpc689.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_036	BoxNpc	Òþ²ØÏä×Ó1	npc\itemnpc057_dzw_ts01	icon\funcnpc\itemnpc591.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_037	BoxNpc	Òþ²ØÏä×Ó1	npc\itemnpc057_dzw_ts01	icon\funcnpc\itemnpc586.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_038	BoxNpc	Òþ²ØÏä×Ó1	npc\itemnpc057_dzw_ts01	icon\funcnpc\itemnpc005a.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_039	BoxNpc	Òþ²ØÏä×Ó1	npc\itemnpc057_dzw_ts01	icon\funcnpc\itemnpc586.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_040	BoxNpc	Òþ²ØÏä×Ó1	npc\itemnpc057_dzw_ts01	icon\funcnpc\itemnpc589.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_041	BoxNpc	Òþ²ØÏä×Ó2	npc\itemnpc057_dzw_ts01	icon\funcnpc\itemnpc689.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_042	BoxNpc	Òþ²ØÏä×Ó2	npc\itemnpc057_dzw_ts01	icon\funcnpc\itemnpc591.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_043	BoxNpc	Òþ²ØÏä×Ó2	npc\itemnpc057_dzw_ts01	icon\funcnpc\itemnpc586.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_044	BoxNpc	Òþ²ØÏä×Ó2	npc\itemnpc057_dzw_ts01	icon\funcnpc\itemnpc005a.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_045	BoxNpc	Òþ²ØÏä×Ó2	npc\itemnpc057_dzw_ts01	icon\funcnpc\itemnpc586.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_046	BoxNpc	Òþ²ØÏä×Ó2	npc\itemnpc057_dzw_ts01	icon\funcnpc\itemnpc589.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_047	BoxNpc	Òþ²ØÏä×Ó2	npc\itemnpc057_dzw_ts01	icon\funcnpc\itemnpc689.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_048	BoxNpc	Òþ²ØÏä×Ó2	npc\itemnpc057_dzw_ts01	icon\funcnpc\itemnpc591.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_049	BoxNpc	Òþ²ØÏä×Ó2	npc\itemnpc057_dzw_ts01	icon\funcnpc\itemnpc586.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_050	BoxNpc	Òþ²ØÏä×Ó2	npc\itemnpc057_dzw_ts01	icon\funcnpc\itemnpc005a.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_051	BoxNpc	Òþ²ØÏä×Ó2	npc\itemnpc057_dzw_ts01	icon\funcnpc\itemnpc586.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_052	BoxNpc	Òþ²ØÏä×Ó2	npc\itemnpc057_dzw_ts01	icon\funcnpc\itemnpc589.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_053	BoxNpc	Òþ²ØÏä×Ó3	npc\itemnpc057_dzw_ts01	icon\funcnpc\itemnpc689.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_054	BoxNpc	Òþ²ØÏä×Ó3	npc\itemnpc057_dzw_ts01	icon\funcnpc\itemnpc591.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_055	BoxNpc	Òþ²ØÏä×Ó3	npc\itemnpc057_dzw_ts01	icon\funcnpc\itemnpc586.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_056	BoxNpc	Òþ²ØÏä×Ó3	npc\itemnpc057_dzw_ts01	icon\funcnpc\itemnpc005a.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_057	BoxNpc	Òþ²ØÏä×Ó3	npc\itemnpc057_dzw_ts01	icon\funcnpc\itemnpc586.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_058	BoxNpc	Òþ²ØÏä×Ó3	npc\itemnpc057_dzw_ts01	icon\funcnpc\itemnpc589.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_059	BoxNpc	Òþ²ØÏä×Ó3	npc\itemnpc057_dzw_ts01	icon\funcnpc\itemnpc689.png	161		3	9		2	interact041	0		3							28					10																	
+box_newts_060	BoxNpc	Òþ²ØÏä×Ó3	npc\itemnpc057_dzw_ts01	icon\funcnpc\itemnpc591.png	161		3	9		2	interact041	0		3							28					10																	
+Box_shp_lsz_001	BoxNpc	ÖÁ±¦Ïä×Ó	npc\itemnpc588	icon\funcnpc\itemnpc591.png	161		3	9		2	interact041	0	drop_shp_lsz_001	3							28																						
+Box_shp_lsz_002	BoxNpc	ÖÁ±¦Ïä×Ó	npc\itemnpc589	icon\funcnpc\itemnpc591.png	161		3	9		2	interact041	0	drop_shp_lsz_002	3							28																						
+Box_shp_lsz_003	BoxNpc	ÖÁ±¦Ïä×Ó	npc\itemnpc590	icon\funcnpc\itemnpc591.png	161		3	9		2	interact041	0	drop_shp_lsz_003	3							28																						
+Box_shp_lsz_004	BoxNpc	ÖÁ±¦Ïä×Ó	npc\itemnpc591	icon\funcnpc\itemnpc591.png	161		3	9		2	interact041	0	drop_shp_lsz_004	3							28																						
+Box_shp_lsz_005	BoxNpc	ÖÁ±¦Ïä×Ó	npc\itemnpc591	icon\funcnpc\itemnpc591.png	161		3	9		2	interact041	0	drop_shp_lsz_005	3							28																						
+																																											
+Boxjjgg_001	BoxNpc	½ð±¦Ïä	npc\itemboxnpc010	icon\funcnpc\itemboxnpc003.png	161		3	9		2	interact041	1000	comb_drop_lzy_jjgc_lp_jin	60	180						28																						
+Boxjjgg_002	BoxNpc	Òø±¦Ïä	npc\itemboxnpc011	icon\funcnpc\itemboxnpc002.png	161		3	9		2	interact041	1000	comb_drop_lzy_jjgc_lp_yin	60	180						28				600000																		
+Boxjjgg_003	BoxNpc	Í­±¦Ïä	npc\itemboxnpc012	icon\funcnpc\itemboxnpc001.png	161		3	9		2	interact041	1000	comb_drop_lzy_jjgc_lp_tong	60	180						28				600000																		
+																																											
+Boxnewts_guj001	BoxNpc	½ð±¦Ïä	npc\itemboxnpc010	icon\funcnpc\itemboxnpc003.png	202		3	9		2	interact041	1000	drop_newts_newbaoxiang_guj01_005	3	300						28							50	50														
+Boxnewts_guj002	BoxNpc	Òø±¦Ïä	npc\itemboxnpc011	icon\funcnpc\itemboxnpc002.png	202		3	9		2	interact041	1000	drop_newts_newbaoxiang_guj01_004	3	300						28							30	30														
+Boxnewts_guj003	BoxNpc	Í­±¦Ïä	npc\itemboxnpc013	icon\funcnpc\itemboxnpc001.png	202		3	9		2	interact041	1000	drop_newts_newbaoxiang_guj01_003	3	300						28							15	15														
+Boxnewts_guj004	BoxNpc	Ìú±¦Ïä	npc\itemboxnpc012	icon\funcnpc\itemboxnpc001.png	202		3	9		2	interact041	1000	drop_newts_newbaoxiang_guj01_002	3	300						28							20	20														
+Boxnewts_guj005	BoxNpc	Óñ±¦Ïä	npc\itemnpc590		161		3	9		1	interact041	1000		3	300						28																						
+Boxnewts_guj006	BoxNpc	Ä¾±¦Ïä	npc\itemboxnpc013	icon\funcnpc\itemboxnpc001.png	202		3	9		2	interact041	1000	drop_newts_newbaoxiang_guj01_001	3	300						28							10	10														
+Boxnewts_guj007	BoxNpc	¾ªÏ²±¦Ïä	npc\itemnpc053yd		161		2	9		2	interact041	1000	drop_newts_newbaoxiang_guj_006	3	600						28																						
+																																											
+boxnpc_worldboss_wuxu_skillbox	BoxNpc	ÐÂ½£¹ÅÆÓ1-6	npc\npcitem961		161		1	1		1	interact017	10000	comb_drop_boxnpc_worldboss_wuxu_skillbox	1	3600							27916		2			1																
+																																											
+BoxNpc_gujsjhrc_002_01	BoxNpc	Çé±¨	npc\itemnpc053yd	icon\funcnpc\task.png	161		3	9		2	interact041	5000	drop_item_gujsjhrc_002_01	1	3600						28																						

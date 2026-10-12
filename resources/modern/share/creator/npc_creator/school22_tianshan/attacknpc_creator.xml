@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object>
+	<randomcreator>
+		<creator No="BCC8926F673D4ACDA4397C0F0E6213FB" x="1455.663" y="178.168" z="987.354" radius="5.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="5.0" SpringRange="5" TaskSubId="74277" TaskSubType="1" HateLink="1">
+			<item No="1" id="spynpcyd_xl" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="刺探NPC">
+				<position x="1458.155" z="986.355" ay="-1"/>
+				<position x="1454.971" z="989.236" ay="-1"/>
+				<position x="1454.058" z="984.607" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="54BA5C8C239D412C8D8568FFABB7C4F2" x="1357.244" y="183.939" z="904.888" radius="5.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="5.0" SpringRange="5" TaskSubType="2" HateLink="1">
+			<item No="1" id="lootnpcyd_hs" ay="-1" amount="1" refreshtime="10000" NotPositive="0" desc="夺书NPC"/>
+		</creator>
+		<creator No="8014FDC24FF34E17A7E77C5577A6264F" x="1799.920" y="215.383" z="1138.602" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="74203" TaskSubType="1" HateLink="1">
+			<item No="1" id="hunter_tszyb_001" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="黑衣人">
+				<position x="1798.063" z="1136.419" ay="-1"/>
+				<position x="1797.191" z="1139.021" ay="-1"/>
+				<position x="1799.441" z="1136.171" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="43BAEDDE968B441EAEF2CD68907FB476" x="1815.773" y="215.216" z="1122.866" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="74203" TaskSubType="1" HateLink="1">
+			<item No="1" id="hunter_tszyb_001" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="黑衣人">
+				<position x="1813.916" z="1120.683" ay="-1"/>
+				<position x="1813.044" z="1123.285" ay="-1"/>
+				<position x="1815.294" z="1120.435" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="6314FFC7C44D4462B3E62F32E275FBE2" x="1811.082" y="215.219" z="1135.090" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="74203" TaskSubType="1" HateLink="1">
+			<item No="1" id="hunter_tszyb_001" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="黑衣人">
+				<position x="1809.225" z="1132.907" ay="-1"/>
+				<position x="1808.353" z="1135.509" ay="-1"/>
+				<position x="1810.603" z="1132.659" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="E211F3A52050498A9DE020E032CA2FCE" x="1808.839" y="214.860" z="1145.553" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="74203" TaskSubType="1" HateLink="1">
+			<item No="1" id="hunter_tszyb_001" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="黑衣人">
+				<position x="1806.982" z="1143.370" ay="-1"/>
+				<position x="1806.109" z="1145.972" ay="-1"/>
+				<position x="1808.359" z="1143.122" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="AA46A65953CC4F639E9683F1619E9705" x="1035.303" y="42.734" z="1792.015" radius="16.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9096">
+			<item No="1" id="npc_xmg_dy_15" ay="3.188" amount="2" refreshtime="60000" NotPositive="0" desc="偷书盗贼">
+				<position x="1036.837" z="1805.366" ay="3.188"/>
+				<position x="1034.778" z="1777.625" ay="6.218"/>
+			</item>
+		</creator>
+		<creator No="4088D7C17CB943FD80214885F4CD16C6" x="1064.774" y="42.734" z="1790.046" radius="16.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9096">
+			<item No="1" id="npc_xmg_dy_15" ay="3.188" amount="2" refreshtime="60000" NotPositive="0" desc="偷书盗贼">
+				<position x="1064.952" z="1798.405" ay="3.188"/>
+				<position x="1064.249" z="1775.656" ay="6.218"/>
+			</item>
+		</creator>
+		<creator No="BA05C568C12C4815B5035EF25B6ADDF5" x="1090.629" y="43.568" z="1789.432" radius="16.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9096">
+			<item No="1" id="npc_xmg_dy_15" ay="3.188" amount="2" refreshtime="60000" NotPositive="0" desc="偷书盗贼">
+				<position x="1091.841" z="1802.670" ay="3.188"/>
+				<position x="1090.345" z="1782.245" ay="6.218"/>
+			</item>
+		</creator>
+		<creator No="5E8789F5C3044239824BE6D0F655341D" x="1124.972" y="42.734" z="1789.342" radius="16.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9096">
+			<item No="1" id="npc_xmg_dy_15" ay="3.188" amount="2" refreshtime="60000" NotPositive="0" desc="偷书盗贼">
+				<position x="1126.748" z="1798.830" ay="3.188"/>
+				<position x="1124.482" z="1774.875" ay="6.218"/>
+			</item>
+		</creator>
+		<creator No="BA81F30A029B4711886A607040560E89" x="1150.544" y="42.734" z="1793.397" radius="16.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9096">
+			<item No="1" id="npc_xmg_dy_15" ay="3.188" amount="2" refreshtime="60000" NotPositive="0" desc="偷书盗贼">
+				<position x="1152.321" z="1802.884" ay="3.188"/>
+				<position x="1150.055" z="1778.929" ay="6.218"/>
+			</item>
+		</creator>
+		<creator No="381BEF08F7A64C5B96A454AD479B75A8" x="1162.123" y="42.734" z="1822.107" radius="16.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9096">
+			<item No="1" id="npc_xmg_dy_15" ay="4.728" amount="2" refreshtime="60000" NotPositive="0" desc="偷书盗贼">
+				<position x="1171.661" z="1820.623" ay="4.728"/>
+				<position x="1147.647" z="1822.151" ay="1.475"/>
+			</item>
+		</creator>
+		<creator No="F3249BF9A6DF45F0822282512D6A0FD8" x="1161.652" y="42.734" z="1847.804" radius="16.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9096">
+			<item No="1" id="npc_xmg_dy_15" ay="4.728" amount="2" refreshtime="60000" NotPositive="0" desc="偷书盗贼">
+				<position x="1171.191" z="1846.320" ay="4.728"/>
+				<position x="1147.177" z="1847.848" ay="1.475"/>
+			</item>
+		</creator>
+		<creator No="93E6D1B6A76842ABA50223D1A74B5B2F" x="1136.028" y="42.734" z="1750.840" radius="16.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9096">
+			<item No="1" id="npc_xmg_dy_15" ay="3.153" amount="2" refreshtime="60000" NotPositive="0" desc="偷书盗贼">
+				<position x="1137.472" z="1760.384" ay="3.153"/>
+				<position x="1136.045" z="1736.364" ay="6.183"/>
+			</item>
+		</creator>
+		<creator No="CF32E13E868B45499F7F1490AA8A215D" x="1104.043" y="42.734" z="1748.213" radius="16.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9096">
+			<item No="1" id="npc_xmg_dy_15" ay="3.153" amount="2" refreshtime="60000" NotPositive="0" desc="偷书盗贼">
+				<position x="1105.486" z="1757.757" ay="3.153"/>
+				<position x="1104.060" z="1733.737" ay="6.183"/>
+			</item>
+		</creator>
+		<creator No="4828F65411A245E19C5A2888FCCB6753" x="1069.675" y="42.734" z="1745.434" radius="16.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9096">
+			<item No="1" id="npc_xmg_dy_15" ay="3.153" amount="2" refreshtime="60000" NotPositive="0" desc="偷书盗贼">
+				<position x="1071.119" z="1754.979" ay="3.153"/>
+				<position x="1069.692" z="1730.958" ay="6.183"/>
+			</item>
+		</creator>
+		<creator No="12EFEC52555744DDA5DEB479452764EA" x="1041.778" y="42.734" z="1743.670" radius="16.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9096">
+			<item No="1" id="npc_xmg_dy_15" ay="3.153" amount="2" refreshtime="60000" NotPositive="0" desc="偷书盗贼">
+				<position x="1043.221" z="1753.214" ay="3.153"/>
+				<position x="1041.795" z="1729.194" ay="6.183"/>
+			</item>
+		</creator>
+		<creator No="DBA9E773420B40F2BE345383429E86A5" x="1087.758" y="45.486" z="1823.419" radius="16.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9096">
+			<item No="1" id="npc_xmg_dy_15" ay="3.153" amount="2" refreshtime="60000" NotPositive="0" desc="偷书盗贼">
+				<position x="1089.202" z="1832.963" ay="3.153"/>
+				<position x="1087.775" z="1808.943" ay="6.183"/>
+			</item>
+		</creator>
+		<creator No="F762CD4D124F40CE80CCC963ABB18B10" x="1088.047" y="47.858" z="1858.927" radius="16.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9096">
+			<item No="1" id="npc_xmg_dy_15" ay="3.153" amount="2" refreshtime="60000" NotPositive="0" desc="偷书盗贼">
+				<position x="1089.490" z="1868.471" ay="3.153"/>
+				<position x="1088.064" z="1844.451" ay="6.183"/>
+			</item>
+		</creator>
+		<creator No="9C7A60E77E4248CBBA4FAADDA3E8E332" x="1068.708" y="47.429" z="1869.444" radius="16.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9096">
+			<item No="1" id="npc_xmg_dy_15" ay="3.153" amount="2" refreshtime="60000" NotPositive="0" desc="偷书盗贼">
+				<position x="1070.151" z="1878.988" ay="3.153"/>
+				<position x="1068.725" z="1854.968" ay="6.183"/>
+			</item>
+		</creator>
+		<creator No="0BE648246A3D4428BED6A23D1CC2F549" x="1103.989" y="47.457" z="1867.962" radius="16.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9096">
+			<item No="1" id="npc_xmg_dy_15" ay="3.153" amount="2" refreshtime="60000" NotPositive="0" desc="偷书盗贼">
+				<position x="1105.432" z="1877.506" ay="3.153"/>
+				<position x="1104.006" z="1853.486" ay="6.183"/>
+			</item>
+		</creator>
+		<creator No="0A1CCD1579494E7A8E5C00CC74BF9AA8" x="1162.118" y="42.802" z="1873.705" radius="16.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9096">
+			<item No="1" id="npc_xmg_dy_15" ay="4.728" amount="2" refreshtime="60000" NotPositive="0" desc="偷书盗贼">
+				<position x="1171.656" z="1872.221" ay="4.728"/>
+				<position x="1147.642" z="1873.749" ay="1.475"/>
+			</item>
+		</creator>
+		<creator No="95BFD67C457C42B1B8FB36DF79E8004A" x="1088.288" y="48.346" z="1888.215" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9096">
+			<item No="1" id="npc_xmg_dy_11" ay="2.566" amount="1" refreshtime="60000" NotPositive="0" desc="伊藤辉二">
+				<position x="1088.178" z="1887.286" ay="2.566" WeaponMode="dsword1_1"/>
+			</item>
+		</creator>
+		<creator No="D9AE9D587A00440AA11A994DC85D7C61" x="1077.861" y="47.429" z="1877.351" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9096">
+			<item No="1" id="npc_xmg_dy_10" ay="2.566" amount="2" refreshtime="60000" NotPositive="0" desc="东瀛小头目">
+				<position x="1080.732" z="1877.064" ay="2.566" WeaponMode="dsword1_1"/>
+				<position x="1074.552" z="1877.396" ay="2.566" WeaponMode="dsword1_1"/>
+			</item>
+		</creator>
+		<creator No="94DD0752E0D7417D9CBF137C25B68A1D" x="1099.510" y="47.457" z="1876.056" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9096">
+			<item No="1" id="npc_xmg_dy_10" ay="2.566" amount="2" refreshtime="60000" NotPositive="0" desc="东瀛小头目">
+				<position x="1102.381" z="1875.768" ay="2.566" WeaponMode="dsword1_1"/>
+				<position x="1096.201" z="1876.101" ay="2.566" WeaponMode="dsword1_1"/>
+			</item>
+		</creator>
+		<creator No="0873B2171BC24148A81D2F66A2C3FEAF" x="1064.990" y="47.429" z="1876.771" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9096">
+			<item No="1" id="npc_xmg_dy_09" ay="2.566" amount="2" refreshtime="60000" NotPositive="0" desc="东瀛武士">
+				<position x="1061.793" z="1876.855" ay="2.566" WeaponMode="dsword1_1"/>
+				<position x="1067.925" z="1877.414" ay="2.566" WeaponMode="dsword1_1"/>
+			</item>
+		</creator>
+		<creator No="DA12360E57984DF29581CB78E4F2B5A7" x="1111.833" y="47.429" z="1876.898" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9096">
+			<item No="1" id="npc_xmg_dy_09" ay="2.566" amount="2" refreshtime="60000" NotPositive="0" desc="东瀛武士">
+				<position x="1108.636" z="1876.982" ay="2.566" WeaponMode="dsword1_1"/>
+				<position x="1114.768" z="1877.541" ay="2.566" WeaponMode="dsword1_1"/>
+			</item>
+		</creator>
+		<creator No="A8248894A6144E1EBCDEF14CFE6D9A46" x="1077.547" y="47.429" z="1846.760" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9096">
+			<item No="1" id="npc_xmg_dy_09" ay="2.566" amount="2" refreshtime="60000" NotPositive="0" desc="东瀛武士">
+				<position x="1074.350" z="1846.844" ay="2.566" WeaponMode="dsword1_1"/>
+				<position x="1080.482" z="1847.403" ay="2.566" WeaponMode="dsword1_1"/>
+			</item>
+		</creator>
+		<creator No="69283E2AEBEB40CAA0E5FA0934DAFC4E" x="1097.983" y="47.429" z="1846.704" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9096">
+			<item No="1" id="npc_xmg_dy_09" ay="2.566" amount="2" refreshtime="60000" NotPositive="0" desc="东瀛武士">
+				<position x="1094.787" z="1846.788" ay="2.566" WeaponMode="dsword1_1"/>
+				<position x="1100.919" z="1847.347" ay="2.566" WeaponMode="dsword1_1"/>
+			</item>
+		</creator>
+		<creator No="BD527EBB6E41476BA271596412D36BC0" x="1107.056" y="47.429" z="1862.477" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9096">
+			<item No="1" id="npc_xmg_dy_09" ay="2.566" amount="2" refreshtime="60000" NotPositive="0" desc="东瀛武士">
+				<position x="1103.859" z="1862.561" ay="2.566" WeaponMode="dsword1_1"/>
+				<position x="1109.991" z="1863.120" ay="2.566" WeaponMode="dsword1_1"/>
+			</item>
+		</creator>
+		<creator No="F4AF3034C32C45C59A7509D2B3E6D52A" x="1068.813" y="47.451" z="1862.034" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9096">
+			<item No="1" id="npc_xmg_dy_09" ay="2.566" amount="2" refreshtime="60000" NotPositive="0" desc="东瀛武士">
+				<position x="1065.616" z="1862.118" ay="2.566" WeaponMode="dsword1_1"/>
+				<position x="1071.749" z="1862.677" ay="2.566" WeaponMode="dsword1_1"/>
+			</item>
+		</creator>
+	</randomcreator>
+</object>

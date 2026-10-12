@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="BAF36647563F44668B29AED75F780C1B" x="1039.234" y="34.869" z="443.373" radius="7.5" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather_qy_chengdu001" ay="2.562" amount="5" refreshtime="10000" NotPositive="0" desc="猓莉">
+                <position x="1038.258" z="440.137" ay="2.562" />
+                <position x="1039.911" z="437.328" ay="2.562" />
+                <position x="1035.592" z="442.140" ay="2.562" />
+                <position x="1043.392" z="443.889" ay="2.562" />
+                <position x="1040.277" z="447.449" ay="2.562" />
+            </item>
+        </creator>
+        <creator No="12BB3396443F410993B9DD3480685DB8" x="267.880" y="75.402" z="727.149" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00040hy" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="草药">
+                <position x="268.921" z="725.511" ay="-1" />
+                <position x="265.084" z="726.831" ay="-1" />
+                <position x="268.848" z="730.052" ay="-1" />
+            </item>
+        </creator>
+        <creator No="82447C7B0ABB48E8AD4C3A85A1FC3D1F" x="292.807" y="75.236" z="740.763" radius="15.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="17008" TaskSubType="2" HateLink="1">
+            <item No="1" id="BoxNpc_zx_cd_34024" ay="-1" amount="8" refreshtime="5" NotPositive="0" desc="马钱子">
+                <position x="306.235" z="741.579" ay="-1" />
+                <position x="302.613" z="739.687" ay="-1" />
+                <position x="294.339" z="752.855" ay="-1" />
+                <position x="303.614" z="741.132" ay="-1" />
+                <position x="302.731" z="748.006" ay="-1" />
+                <position x="297.528" z="744.334" ay="-1" />
+                <position x="283.861" z="748.433" ay="-1" />
+                <position x="287.709" z="751.142" ay="-1" />
+                <position x="281.515" z="739.746" ay="-1" />
+                <position x="287.984" z="734.172" ay="-1" />
+                <position x="289.707" z="745.546" ay="-1" />
+                <position x="299.132" z="735.395" ay="-1" />
+            </item>
+            <item No="2" id="BoxNpc_zx_cd_34025" ay="-1" amount="11" refreshtime="5" NotPositive="0" desc="洋金花">
+                <position x="305.057" z="745.226" ay="-1" />
+                <position x="300.533" z="741.470" ay="-1" />
+                <position x="298.562" z="748.706" ay="-1" />
+                <position x="301.084" z="750.889" ay="-1" />
+                <position x="293.324" z="751.787" ay="-1" />
+                <position x="298.283" z="736.004" ay="-1" />
+                <position x="300.173" z="735.868" ay="-1" />
+                <position x="301.736" z="735.296" ay="-1" />
+                <position x="286.463" z="747.431" ay="-1" />
+                <position x="290.914" z="734.190" ay="-1" />
+                <position x="283.728" z="731.260" ay="-1" />
+            </item>
+            <item No="3" id="BoxNpc_zx_cd_34026" ay="-1" amount="11" refreshtime="5" NotPositive="0" desc="黄芪">
+                <position x="296.374" z="734.223" ay="-1" />
+                <position x="299.227" z="736.167" ay="-1" />
+                <position x="296.824" z="751.431" ay="-1" />
+                <position x="293.800" z="745.821" ay="-1" />
+                <position x="288.184" z="739.166" ay="-1" />
+                <position x="283.903" z="744.736" ay="-1" />
+                <position x="294.524" z="736.719" ay="-1" />
+                <position x="300.980" z="750.401" ay="-1" />
+                <position x="293.690" z="729.699" ay="-1" />
+                <position x="291.296" z="731.306" ay="-1" />
+                <position x="296.243" z="739.008" ay="-1" />
+            </item>
+        </creator>
+        <creator No="1539BE6ED6DA4637937EB007DCC98842" x="683.321" y="23.605" z="626.242" radius="1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="bjyd011" ay="1.778" amount="1" refreshtime="5" NotPositive="0" desc="绑匪麻袋" />
+        </creator>
+        <creator No="A7D277B8828748C79010B933C5289E52" x="311.344" y="119.756" z="-22.140" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" StaticY="1" HateLink="1">
+            <item No="1" id="Gather_cwqy_monkeyfood" sx="1.687" sy="1.590" sz="1.993" amount="1" refreshtime="1000" NotPositive="0" desc="猴饵">
+                <position x="312.395" y="119.873" z="-20.859" sx="1.687" sy="1.590" sz="1.993" />
+            </item>
+        </creator>
+        <creator No="239688C5B38D4C1BAE76716F7FBEE471" x="596.207" y="24.513" z="544.527" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" StaticY="1" HateLink="1">
+            <item No="1" id="Gather_cwqy_monkeyhair" sx="7.473" sy="3.380" sz="0.450" ax="6.249" ay="4.863" az="0.576" amount="1" refreshtime="3000" NotPositive="0" desc="织物">
+                <position x="596.501" y="23.933" z="542.963" sx="7.473" sy="3.380" sz="0.450" ax="6.249" ay="4.863" az="0.576" />
+            </item>
+        </creator>
+        <creator No="0C03A44DFB6C43278D81705DA1F004D0" x="790.205" y="27.445" z="593.831" radius="12.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="5753" TaskSubType="2" HateLink="1">
+            <item No="1" id="ldjhd_10" sx="0.491" sz="0.404" ay="-1" amount="10" refreshtime="5" NotPositive="0" desc="马粪">
+                <position x="785.801" z="585.867" sx="0.491" sz="0.404" ay="-1" />
+                <position x="790.346" z="587.439" sx="0.470" sz="0.358" ay="-1" />
+                <position x="792.443" z="597.753" sx="0.646" sy="0.650" sz="0.553" ay="-1" />
+                <position x="786.075" z="594.297" sx="0.583" sz="0.513" ay="-1" />
+                <position x="786.613" z="598.253" sx="0.571" sy="0.270" sz="0.693" ay="-1" />
+                <position x="791.974" z="593.711" sx="0.362" sy="0.570" sz="0.477" ay="-1" />
+                <position x="787.524" z="600.740" sx="0.585" sy="0.530" sz="0.590" ay="-1" />
+                <position x="790.639" z="601.725" sx="0.565" sy="0.580" sz="0.664" ay="-1" />
+                <position x="783.569" z="596.486" sx="0.673" sy="0.430" sz="0.345" ay="-1" />
+                <position x="795.699" z="594.136" sx="0.533" sy="0.570" sz="0.454" ay="-1" />
+            </item>
+        </creator>
+        <creator No="C4046E0BD39F4696B5E6D3C35D5ED0AA" x="542.520" y="22.163" z="863.671" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="5752" TaskSubType="2" HateLink="1">
+            <item No="1" id="ldjhd_08" ay="1.534" amount="1" refreshtime="5" NotPositive="0" desc="压住玩具的石头" />
+        </creator>
+        <creator No="6FC9EF735FC445F6B7571E23F3E7C524" x="668.121" y="36.831" z="253.951" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="12400" TaskSubType="3" HateLink="1">
+            <item No="1" id="Gather0001xjz" ay="-1" amount="8" refreshtime="5" NotPositive="0" desc="木柴">
+                <position x="668.565" z="250.818" ay="-1" />
+                <position x="671.005" z="252.945" ay="-1" />
+                <position x="671.333" z="255.264" ay="-1" />
+                <position x="668.611" z="257.562" ay="-1" />
+                <position x="665.831" z="252.857" ay="-1" />
+                <position x="665.879" z="256.257" ay="-1" />
+                <position x="669.244" z="255.391" ay="-1" />
+                <position x="670.691" z="256.970" ay="-1" />
+            </item>
+        </creator>
+        <creator No="78AA1076E2DE4B329643A4E0F380061F" x="335.195" y="25.699" z="679.525" radius="10.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="10503" TaskSubType="2" HateLink="1">
+            <item No="1" id="GatherNpc_nmp_sj004" ay="-1" amount="5" refreshtime="5" NotPositive="0" desc="金针沈家采集4">
+                <position x="333.979" z="678.359" ay="-1" />
+                <position x="336.834" z="676.853" ay="-1" />
+                <position x="333.554" z="682.248" ay="-1" />
+                <position x="331.934" z="677.879" ay="-1" />
+                <position x="338.012" z="680.677" ay="-1" />
+            </item>
+        </creator>
+        <creator No="9B8DB61EA8684FDF86DA9BCA3445F90D" x="367.787" y="24.985" z="680.531" radius="10.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="10503" TaskSubType="2" HateLink="1">
+            <item No="1" id="GatherNpc_nmp_sj004" ay="-1" amount="5" refreshtime="5" NotPositive="0" desc="金针沈家采集4">
+                <position x="366.570" z="679.365" ay="-1" />
+                <position x="369.425" z="677.859" ay="-1" />
+                <position x="366.145" z="683.254" ay="-1" />
+                <position x="364.525" z="678.885" ay="-1" />
+                <position x="370.603" z="681.683" ay="-1" />
+            </item>
+        </creator>
+        <creator No="3C9DD72B18FA4BFBBC40E84608E6669C" x="309.697" y="23.356" z="494.529" radius="7.1" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="10504" TaskSubType="2" HateLink="1">
+            <item No="1" id="GatherNpc_nmp_sj005" ay="-1" amount="5" refreshtime="5" NotPositive="0" desc="金针沈家采集4">
+                <position x="307.414" z="496.917" ay="-1" />
+                <position x="312.494" z="494.924" ay="-1" />
+                <position x="310.377" z="490.906" ay="-1" />
+                <position x="305.907" z="492.640" ay="-1" />
+                <position x="313.964" z="493.180" ay="-1" />
+            </item>
+        </creator>
+        <creator No="0A5B75C7AF5648749F0747CCFB96B748" x="107.569" y="85.241" z="872.611" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="15632" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_xdm_dy_zc1" ay="1.426" amount="1" refreshtime="10000" NotPositive="0" desc="大漠奇草" />
+        </creator>
+        <creator No="E6A67075BED6455083FC070D5120A975" x="955.762" y="24.376" z="791.874" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="gather_gq2014_001" sx="1.517" sy="1.770" sz="0.778" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="茱萸">
+                <position x="957.752" z="793.166" sx="1.517" sy="1.770" sz="0.778" ay="-1" />
+                <position x="955.121" z="792.641" sx="1.067" sy="1.600" sz="1.170" ay="-1" />
+                <position x="954.269" z="791.593" sy="1.490" sz="0.980" ay="-1" />
+            </item>
+        </creator>
+        <creator No="024DFF0D8B6D49E59461B08E25D24E05" x="313.288" y="76.177" z="749.837" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather_jzcq_yxc_01" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="药1">
+                <position x="314.937" z="747.588" ay="-1" />
+                <position x="313.946" z="747.435" ay="-1" />
+                <position x="312.624" z="747.441" ay="-1" />
+            </item>
+            <item No="2" id="Gather_jzcq_yxc_02" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="药2">
+                <position x="312.669" z="748.340" ay="-1" />
+                <position x="313.601" z="748.381" ay="-1" />
+                <position x="314.677" z="748.294" ay="-1" />
+            </item>
+            <item No="3" id="Gather_jzcq_yxc_03" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="药3">
+                <position x="312.788" z="749.238" ay="-1" />
+                <position x="313.862" z="749.238" ay="-1" />
+                <position x="314.525" z="749.196" ay="-1" />
+            </item>
+        </creator>
+        <creator No="F8CB81ACC3D1482EBA2947768D764863" x="794.739" y="22.652" z="384.611" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="71512" TaskSubType="1" HateLink="1">
+            <item No="1" id="ngsj_gujjuq001" ay="6.261" amount="3" refreshtime="5000" NotPositive="0" desc="村民">
+                <position x="792.925" z="384.560" ay="6.261" />
+                <position x="796.204" z="385.214" ay="6.261" />
+                <position x="795.097" z="382.519" ay="6.261" />
+            </item>
+        </creator>
+        <creator No="690666348FA94CA78DEB56217DAD3ECA" x="853.214" y="22.652" z="403.016" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="71513" TaskSubType="1" HateLink="1">
+            <item No="1" id="ngsj_gujjuq002" ay="-1" amount="3" refreshtime="5000" NotPositive="0" desc="闹事村民">
+                <position x="852.921" z="404.970" ay="-1" />
+                <position x="855.157" z="401.500" ay="0.458" />
+                <position x="850.738" z="401.593" ay="1.259" />
+            </item>
+        </creator>
+        <creator No="CA58B437B210449EA123A7AC0A65D411" x="281.487" y="128.329" z="136.607" radius="2.0" WakeupRange="2.0" ChaseRange="2.0" PatrolRange="2.0" TaskSubId="71229" TaskSubType="3" HateLink="1">
+            <item No="1" id="ngsj_guj_juqing_004" ay="3.059" amount="1" refreshtime="5000" desc="富商" />
+        </creator>
+        <creator No="54693CF681D24123AA0C2B162F2AB0C3" x="267.440" y="128.329" z="137.471" radius="2.0" WakeupRange="2.0" ChaseRange="2.0" PatrolRange="2.0" TaskSubId="71230" TaskSubType="3" HateLink="1">
+            <item No="1" id="ngsj_guj_juqing_005" ay="3.034" amount="1" refreshtime="5000" desc="梁影峰" />
+        </creator>
+        <creator No="CEF9F4D36B8647F0A383775F6F37E884" x="1246.609" y="81.430" z="710.526" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="71514" TaskSubType="1" HateLink="1">
+            <item No="1" id="ngsj_gujjuq003" ay="3.059" amount="3" refreshtime="5000" NotPositive="0" desc="江湖高手">
+                <position x="1247.412" z="712.135" ay="3.059" />
+                <position x="1243.694" z="711.340" ay="3.059" />
+                <position x="1246.670" z="708.093" ay="3.059" />
+            </item>
+        </creator>
+        <creator No="8C3BEFD27E294AF2BE4BFC47DB2E3943" x="211.755" y="37.614" z="670.363" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="71515" TaskSubType="1" HateLink="1">
+            <item No="1" id="ngsj_gujjuq004" ay="5.934" amount="1" refreshtime="5000" NotPositive="0" desc="拜月教使者">
+                <position x="211.095" z="672.560" ay="5.934" />
+            </item>
+        </creator>
+        <creator No="22EE65103E8A47939AEB71D7AE852B2A" x="210.296" y="30.007" z="588.657" radius="2.0" WakeupRange="2.0" ChaseRange="2.0" PatrolRange="2.0" TaskSubId="71243" TaskSubType="3" HateLink="1">
+            <item No="1" id="ngsj_guj_juqing_011" ay="1.676" amount="1" refreshtime="5000" desc="七色地狱使者" />
+        </creator>
+        <creator No="3BBB100EDF1C44AA84544186F1D31C2C" x="909.508" y="17.675" z="399.335" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="71516" TaskSubType="1" HateLink="1">
+            <item No="1" id="ngsj_gujjuq005" ay="5.659" amount="4" refreshtime="5000" NotPositive="0" desc="黑衣杀手">
+                <position x="907.902" z="398.244" ay="5.659" />
+                <position x="911.846" z="398.670" ay="5.659" />
+                <position x="909.736" z="401.254" ay="5.659" />
+                <position x="906.667" z="400.671" ay="5.659" />
+            </item>
+        </creator>
+        <creator No="CD9985DD65D54855922F287E5A1508DF" x="1148.040" y="24.792" z="558.428" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="71517" TaskSubType="1" HateLink="1">
+            <item No="1" id="ngsj_gujjuq006" ay="-1" amount="4" refreshtime="5000" NotPositive="0" desc="拜月教守卫">
+                <position x="1148.118" z="556.229" ay="-1" />
+                <position x="1151.221" z="559.311" ay="-1" />
+                <position x="1150.021" z="561.488" ay="-1" />
+                <position x="1144.818" z="558.726" ay="-1" />
+            </item>
+        </creator>
+        <creator No="3E567C14CD494967B9328A4B17B05827" x="260.723" y="105.892" z="328.558" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="71518" TaskSubType="1" HateLink="1">
+            <item No="1" id="ngsj_gujjuq007" ay="-1" amount="3" refreshtime="5000" NotPositive="0" desc="南宫世家族人">
+                <position x="261.259" z="326.953" ay="-1" />
+                <position x="262.825" z="329.763" ay="-1" />
+                <position x="258.492" z="329.917" ay="-1" />
+            </item>
+        </creator>
+        <creator No="A3436108E51F4BAFBB4AAEFB3C4C9EB1" x="378.974" y="15.449" z="454.505" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="71519" TaskSubType="1" HateLink="1">
+            <item No="1" id="ngsj_gujjuq008" ay="-1" amount="3" refreshtime="5000" NotPositive="0" desc="暴民">
+                <position x="376.936" z="456.331" ay="-1" />
+                <position x="379.815" z="456.202" ay="-1" />
+                <position x="380.902" z="452.915" ay="-1" />
+            </item>
+        </creator>
+        <creator No="C7FFD197A6C44D92BB28EF98A105AF03" x="269.372" y="130.583" z="120.283" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="71521" TaskSubType="1" HateLink="1">
+            <item No="1" id="ngsj_gujjuq010" ay="1.364" amount="1" refreshtime="5000" NotPositive="0" desc="南宫丑" />
+        </creator>
+        <creator No="5F51567708F64E9EB4CA9A3105409B7D" x="733.577" y="23.086" z="655.015" radius="5.0" WakeupRange="15.0" ChaseRange="30.0" PatrolRange="3.0" TaskSubId="77202" TaskSubType="2" HateLink="1">
+            <item No="1" id="npc_whc_dy_002" ay="-1" amount="1" refreshtime="5" desc="衙役">
+                <position x="733.577" z="655.015" ay="-1" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

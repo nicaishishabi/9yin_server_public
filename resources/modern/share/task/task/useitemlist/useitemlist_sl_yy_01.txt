@@ -1,0 +1,10 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	ItemID	ProCount	AddPro	TrackInfoID	DeleteSelf	LockTarget	Radius	SceneID	Water	AddItems	DeleteItems	TargetConfig	TaskID
+33601	useitem_30m	1	1	useiteminfo_33601	1	0	5	3	0			EventNpc80608	80608
+33602	useitem_31m	1	1	useiteminfo_33602	1				1	taskitem_70m			80613
+33603	useitem_001cyh	1	1	useiteminfo_33603	1	1	5	3	0	taskitem_011cyh		Gather0010cyh	80632
+33607	useitem_005cyh	1	1	useiteminfo_33607	1	1	5	3	0			Gather0010cyh	80640
+33609	useitem_006cyh	0	0	useiteminfo_33609	1			3	1	useitem_007cyh			
+33610	useitem_007cyh	1	1	useiteminfo_33610	1		5		0	useitem_006cyh		Gather0010cyh	
+33608	useitem_006cyh	1	1		1			3	1	useitem_007cyh			
+33611	useitem_61a	1	1	useiteminfo_33611	1	1	3	3				WorldNpc00976	80601

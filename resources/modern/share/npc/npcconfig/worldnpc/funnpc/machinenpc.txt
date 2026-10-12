@@ -1,0 +1,143 @@
+NPC编号	对象类型	名称	隐藏地面贴花	敌对不可见	模型编号	头像	类型	NPC种类ID	响应范围	选择操作分类	脚本编号	机关npc类型	生命	机关npc被触发后的执行函数	出生状态	触发机关时的动作	触发后播放的特效	触发后持续添加的buff	添加buff次数	buff生效目标	NPC阵营	门派	表演时间（ms）	模型缩放	鼠标形状	AI编辑包	实力包编号	级别	优先显示												
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING												
+ID	script	Name	HideDecal	InVisibleForEnemy	Resource	Photo	NpcType	CKindID	SpringRange	SelectState	LuaScript	MachineNpcType	LifeTime	SpringFunc	table@BornActionRec	SpringAction	SpringEffect	AddBufferID	UseBuffCount	TrackTarget	Camp	School	ActionTimer	Scale	CursorShape	AIEditorPackID	PowerNo	Level	RefreshAtonce												
+	//暗器配置																																								
+HiddenNpc00001	MachineNpc	陷阱单体		1	npc\cj_106020c		202	4	2	0	npc\tracker_npc.lua	2						buf_hiddenwp_bpyz_01	1	1					0																
+HiddenNpc00002	MachineNpc	陷阱范围		1	npc\cj_106020c		202	4	2	0	npc\tracker_npc.lua	2													0																
+																																									
+	//陷阱																																								
+XJNpc_01001	MachineNpc	定身1		1	npc\hw_xj001		202	4	2	0	npc\tracker_npc.lua	4						buf_wx_jy_xj01	1	1					0																
+XJNpc_01002	MachineNpc	定身2		1	npc\hw_xj001		202	4	2	0	npc\tracker_npc.lua	4						buf_wx_jy_xj01_02	1	1					0																
+XJNpc_01003	MachineNpc	定身3		1	npc\hw_xj001		202	4	2	0	npc\tracker_npc.lua	4						buf_wx_jy_xj01_03	1	1					0																
+XJNpc_01004	MachineNpc	定身4		1	npc\hw_xj001		202	4	2	0	npc\tracker_npc.lua	4						buf_wx_jy_xj01_04	1	1					0																
+XJNpc_01005	MachineNpc	定身5		1	npc\hw_xj001		202	4	2	0	npc\tracker_npc.lua	4						buf_wx_jy_xj01_05	1	1					0																
+XJNpc_02001	MachineNpc	直接伤害1		1	npc\hw_xj002		202	4	2	0	npc\tracker_npc.lua	4						buf_wx_jy_xj02	1	1					0																
+XJNpc_02002	MachineNpc	直接伤害2		1	npc\hw_xj002		202	4	2	0	npc\tracker_npc.lua	4						buf_wx_jy_xj02_02	1	1					0																
+XJNpc_02003	MachineNpc	直接伤害3		1	npc\hw_xj002		202	4	2	0	npc\tracker_npc.lua	4						buf_wx_jy_xj02_03	1	1					0																
+XJNpc_02004	MachineNpc	直接伤害4		1	npc\hw_xj002		202	4	2	0	npc\tracker_npc.lua	4						buf_wx_jy_xj02_04	1	1					0																
+XJNpc_02005	MachineNpc	直接伤害5		1	npc\hw_xj002		202	4	2	0	npc\tracker_npc.lua	4						buf_wx_jy_xj02_05	1	1					0																
+XJNpc_03001	MachineNpc	持续伤害1		1	npc\hw_xj003		202	4	2	0	npc\tracker_npc.lua	4						buf_wx_jy_xj03	1	1					0																
+XJNpc_03002	MachineNpc	持续伤害2		1	npc\hw_xj003		202	4	2	0	npc\tracker_npc.lua	4						buf_wx_jy_xj03_02	1	1					0																
+XJNpc_03003	MachineNpc	持续伤害3		1	npc\hw_xj003		202	4	2	0	npc\tracker_npc.lua	4						buf_wx_jy_xj03_03	1	1					0																
+XJNpc_03004	MachineNpc	持续伤害4		1	npc\hw_xj003		202	4	2	0	npc\tracker_npc.lua	4						buf_wx_jy_xj03_04	1	1					0																
+XJNpc_03005	MachineNpc	持续伤害5		1	npc\hw_xj003		202	4	2	0	npc\tracker_npc.lua	4						buf_wx_jy_xj03_05	1	1					0																
+XJNpc_04001	MachineNpc	减速1		1	npc\hw_xj004		202	4	2	0	npc\tracker_npc.lua	4						buf_wx_jy_xj04	1	1					0																
+XJNpc_04002	MachineNpc	减速2		1	npc\hw_xj004		202	4	2	0	npc\tracker_npc.lua	4						buf_wx_jy_xj04_02	1	1					0																
+XJNpc_04003	MachineNpc	减速3		1	npc\hw_xj004		202	4	2	0	npc\tracker_npc.lua	4						buf_wx_jy_xj04_03	1	1					0																
+XJNpc_04004	MachineNpc	减速4		1	npc\hw_xj004		202	4	2	0	npc\tracker_npc.lua	4						buf_wx_jy_xj04_04	1	1					0																
+XJNpc_04005	MachineNpc	减速5		1	npc\hw_xj004		202	4	2	0	npc\tracker_npc.lua	4						buf_wx_jy_xj04_05	1	1					0																
+XJNpc_05001	MachineNpc	昏迷1		1	npc\hw_xj005		202	4	2	0	npc\tracker_npc.lua	4						buf_wx_jy_xj05	1	1					0																
+XJNpc_05002	MachineNpc	昏迷2		1	npc\hw_xj005		202	4	2	0	npc\tracker_npc.lua	4						buf_wx_jy_xj05_02	1	1					0																
+XJNpc_05003	MachineNpc	昏迷3		1	npc\hw_xj005		202	4	2	0	npc\tracker_npc.lua	4						buf_wx_jy_xj05_03	1	1					0																
+XJNpc_05004	MachineNpc	昏迷4		1	npc\hw_xj005		202	4	2	0	npc\tracker_npc.lua	4						buf_wx_jy_xj05_04	1	1					0																
+XJNpc_05005	MachineNpc	昏迷5		1	npc\hw_xj005		202	4	2	0	npc\tracker_npc.lua	4						buf_wx_jy_xj05_05	1	1					0																
+	//毒瓶																																								
+DPNpc_01001	MachineNpc	持续伤害1			npc\itemnpc057		202	4	4	0	npc\tracker_npc.lua	4						buf_wx_jl_dp01	100	1					0																
+DPNpc_01002	MachineNpc	持续伤害2			npc\itemnpc057		202	4	4	0	npc\tracker_npc.lua	4						buf_wx_jl_dp01_02	100	1					0																
+DPNpc_01003	MachineNpc	持续伤害3			npc\itemnpc057		202	4	4	0	npc\tracker_npc.lua	4						buf_wx_jl_dp01_03	100	1					0																
+DPNpc_01004	MachineNpc	持续伤害4			npc\itemnpc057		202	4	4	0	npc\tracker_npc.lua	4						buf_wx_jl_dp01_04	100	1					0																
+DPNpc_01005	MachineNpc	持续伤害5			npc\itemnpc057		202	4	4	0	npc\tracker_npc.lua	4						buf_wx_jl_dp01_05	100	1					0																
+DPNpc_02001	MachineNpc	减速1			npc\itemnpc057		202	4	4	0	npc\tracker_npc.lua	4						buf_wx_jl_dp02	100	1					0																
+DPNpc_02002	MachineNpc	减速2			npc\itemnpc057		202	4	4	0	npc\tracker_npc.lua	4						buf_wx_jl_dp02_02	100	1					0																
+DPNpc_02003	MachineNpc	减速3			npc\itemnpc057		202	4	4	0	npc\tracker_npc.lua	4						buf_wx_jl_dp02_03	100	1					0																
+DPNpc_02004	MachineNpc	减速4			npc\itemnpc057		202	4	4	0	npc\tracker_npc.lua	4						buf_wx_jl_dp02_04	100	1					0																
+DPNpc_02005	MachineNpc	减速5			npc\itemnpc057		202	4	4	0	npc\tracker_npc.lua	4						buf_wx_jl_dp02_05	100	1					0																
+DPNpc_03001	MachineNpc	攻击减弱1			npc\itemnpc057		202	4	4	0	npc\tracker_npc.lua	4						buf_wx_jl_dp03	100	1					0																
+DPNpc_03002	MachineNpc	攻击减弱2			npc\itemnpc057		202	4	4	0	npc\tracker_npc.lua	4						buf_wx_jl_dp03_02	100	1					0																
+DPNpc_03003	MachineNpc	攻击减弱3			npc\itemnpc057		202	4	4	0	npc\tracker_npc.lua	4						buf_wx_jl_dp03_03	100	1					0																
+DPNpc_03004	MachineNpc	攻击减弱4			npc\itemnpc057		202	4	4	0	npc\tracker_npc.lua	4						buf_wx_jl_dp03_04	100	1					0																
+DPNpc_03005	MachineNpc	攻击减弱5			npc\itemnpc057		202	4	4	0	npc\tracker_npc.lua	4						buf_wx_jl_dp03_05	100	1					0																
+DPNpc_04001	MachineNpc	走火入魔1			npc\itemnpc057		202	4	4	0	npc\tracker_npc.lua	4						buf_wx_jl_dp04	100	1					0																
+DPNpc_04002	MachineNpc	走火入魔2			npc\itemnpc057		202	4	4	0	npc\tracker_npc.lua	4						buf_wx_jl_dp04_02	100	1					0																
+DPNpc_04003	MachineNpc	走火入魔3			npc\itemnpc057		202	4	4	0	npc\tracker_npc.lua	4						buf_wx_jl_dp04_03	100	1					0																
+DPNpc_04004	MachineNpc	走火入魔4			npc\itemnpc057		202	4	4	0	npc\tracker_npc.lua	4						buf_wx_jl_dp04_04	100	1					0																
+DPNpc_04005	MachineNpc	走火入魔5			npc\itemnpc057		202	4	4	0	npc\tracker_npc.lua	4						buf_wx_jl_dp04_05	100	1					0																
+DPNpc_05001	MachineNpc	化解内力			npc\itemnpc057		202	4	4	0	npc\tracker_npc.lua	4						buf_wx_jl_dp05	100	1					0																
+DPNpc_05002	MachineNpc	化解内力2			npc\itemnpc057		202	4	4	0	npc\tracker_npc.lua	4						buf_wx_jl_dp05_02	100	1					0																
+DPNpc_05003	MachineNpc	化解内力3			npc\itemnpc057		202	4	4	0	npc\tracker_npc.lua	4						buf_wx_jl_dp05_03	100	1					0																
+DPNpc_05004	MachineNpc	化解内力4			npc\itemnpc057		202	4	4	0	npc\tracker_npc.lua	4						buf_wx_jl_dp05_04	100	1					0																
+DPNpc_05005	MachineNpc	化解内力5			npc\itemnpc057		202	4	4	0	npc\tracker_npc.lua	4						buf_wx_jl_dp05_05	100	1					0																
+																																									
+	//毒瓶																																								
+HYNpc_04001	MachineNpc	击飞			npc\itemnpc057		202	4	4	0		4													0																
+																																									
+																																									
+																																									
+																																									
+snatchbook_ng	MachineNpc	秘籍（内功）			npc\npcitem532	icon\funcnpc\npcitem532.png	251	4	10	2	interact\snatchbook\ng_book_npc.lua	1													2																
+snatchbook_zs	MachineNpc	秘籍（招式）			npc\npcitem532	icon\funcnpc\npcitem532.png	251	4	2	2	interact\snatchbook\zs_book_npc.lua	1													2				1												
+																																									
+cstnpc_ng	MachineNpc	藏书台（内功）			npc\itemnpc523	icon\funcnpc\itemnpc523.png	251	4	10	2	interact\snatchbook\gather_ng_book.lua	1													2	2325															
+cstnpc_zs	MachineNpc	藏书台（招式）			npc\itemnpc524	icon\funcnpc\itemnpc524.png	251	4	2	2	interact\snatchbook\gather_zs_book.lua	1													2	2325			1												
+																																									
+HiddenTG17063	MachineNpc	阎小龙禁足陷阱			npc\cj_040040		202	4	2	0		2							1	1					0	1999															
+HiddenTG32031	MachineNpc	雷天明聚散流沙			npc\itemnpc057a		202	4	2	0		2							-1	1				"0.5,0.5,0.5"	0																
+																																									
+	//火焰																																								
+Fire_01	MachineNpc	火焰	1		npc\guildeffect001		202	4	25	0	npc\tracker_npc.lua								-1	2						109															
+Fire_02	MachineNpc	火焰	1		npc\guildeffect001		202	4	25	0	npc\tracker_npc.lua								-1	2																					
+																																									
+	//毒雾																																								
+dw_01	MachineNpc	锦衣卫毒雾	1		npc\itemnpc057		202	4	30	0	npc\tracker_npc.lua								-1	2						121															
+																																									
+	//塞外大漠奇遇																																								
+qy_swgj_jiguan01	MachineNpc	机关			npc\fbmac013045	icon\funcnpc\fbmac013045.png	202	4	2	0		-1													0																
+task_digong_0012	MachineNpc	地宫擦伤			npc\itemnpc057		202	4	1	0	npc\tracker_npc.lua								-1	2																					
+task_digong_0013	MachineNpc	地宫毒液			npc\itemnpc057		202	4	1	0	npc\tracker_npc.lua								-1	2																					
+task_digong_0004	MachineNpc	地宫毒雾			npc\itemnpc057		202	4	1	0	npc\tracker_npc.lua								-1	2																					
+task_digong_0005	MachineNpc	地宫水潭	1		npc\itemnpc057		202	4	1	0	npc\tracker_npc.lua								-1	2						152															
+task_digong_0011	MachineNpc	限制轻功			npc\itemnpc057		202	4	20	0	npc\tracker_npc.lua								-1	2						147															
+																																									
+macxjz_006	MachineNpc	飞镖		1			202	4	3		npc\machine_npc.lua	2	4000				clone013_anqi	task_xjz_01		10																					
+macxjz_007	MachineNpc	地刺		1			202	4	3		npc\machine_npc.lua	2	4000				clone013_dici	task_xjz_02		10																					
+macxjz_008	MachineNpc	毒液		1			202	4	3		npc\machine_npc.lua	2	4000				clone013_duye	task_xjz_03		10																					
+macxjz_009	MachineNpc	毒针		1			202	4	3		npc\machine_npc.lua	2	4000				clone013_duzhen	task_xjz_04		10																					
+macxjz_010	MachineNpc	火焰		1	npc\guildeffect001		202	4	3		npc\machine_npc.lua	2	4000					task_xjz_05		10																					
+macxjz_011	MachineNpc	提示圈		1	npc\itemnpc057_tg1		202	4	16		npc\machine_npc.lua	2	4000							10				"20,0.1,20"																	96
+macxjz_012	MachineNpc	治疗		1	npc\itemnpc057_lx05		202	4	3		npc\machine_npc.lua	2	5000					buff_xjz_hd_002		10																					
+macxjz_013	MachineNpc	火海		1	npc\itemnpc057_huoyan		202	4	16		npc\machine_npc.lua	2	10000					task_xjz_06		10																					
+macxjz_014	MachineNpc	治疗2		1	npc\itemnpc057_lx05		202	4	3		npc\machine_npc.lua	2	12000					buff_xjz_hd_002		10																					
+																																									
+	//徐家庄活动陷阱																																								
+macxjz_001	MachineNpc	火焰NPC		1	npc\guildeffect001		202	4	2		npc\machine_npc.lua	2	2500000						10000	10				"0.5,0.5,0.5"		2171	98	100													
+macxjz_002	MachineNpc	烟雾NPC		1	npc\hw_xj005		161	4	3		npc\machine_npc.lua	2	2500000						10000								98	100													
+macxjz_003	MachineNpc	定身NPC		1	npc\itemboxnpc003_yunbiao		161	4	2		npc\machine_npc.lua	2	2500000					buf_xjz_02	10000	1						2408	98	100													
+macxjz_004	MachineNpc	爆炸NPC		1	npc\hw_zd005		1	4	2		npc\machine_npc.lua	2	2500000				schoolwar_huoleidan	buf_xjz_03	10000	10				"1.5,1.5,1.5"		2045	98	100													
+macxjz_005	MachineNpc	毒雾减速NPC		1	npc\hw_xj005		161	4	4		npc\machine_npc.lua	2	2500000				buf_clone004_duquan1		10000	10						2047	98	100													
+																																									
+	//移花宫																																								
+macyhg_006	MachineNpc	网		1	npc\itemnpc057		202	4	3		npc\machine_npc.lua	2																													
+macyhg_007	MachineNpc	玉蜂		1	npc\fb_monster007		202	4	2		npc\machine_npc.lua	2						buff_yhg_task11a	-1	10																					
+macyhg_008	MachineNpc	玉蜂群		1	npc\itemnpc400		202	4	3		npc\machine_npc.lua	2						buff_yhg_task12a	-1	10																					
+macyhg_009	MachineNpc	巡风剑		1	npc\npcitem411	icon\equip\sword_00072.png	202	4	2	2	npc\machine_npc.lua	1			stand			buff_yhg_task10	-1	1																					
+																																									
+macthd_001	MachineNpc				npc\itemnpc057_thd_001		202	4	8.5		npc\machine_npc.lua	2	5000					buf_thd_002	10000	10						2437															
+																																									
+	//移花宫势力BOSS																																								
+macyhg_014	MachineNpc	凝月闪		1	npc\itemnpc057_yhg003		202	4	3		npc\machine_npc.lua	2						buff_yhgboss_025_range	-1	99																					
+macyhg_015	MachineNpc	击飞		1	npc\itemnpc057_yhg04		202	4	3		npc\machine_npc.lua	2						buff_yhgboss_061	-1	10																					
+																																									
+	//古墓派																																								
+mac_gmp_hd_02_001	MachineNpc	伤害陷阱		1	npc\itemnpc057_yhg07		202	4	2	0	npc\tracker_npc.lua	4						buff_gmp_wl_020	999	10					0																
+mac_gmp_hd_02_002	MachineNpc	击飞陷阱		1	npc\itemnpc057_gmphd_01		202	4	5		npc\machine_npc.lua	2						buff_gmp_wl_021	-1	99																					
+mac_gmp_hd_02_003	MachineNpc	减速陷阱		1	npc\itemnpc057_yhg07		202	4	2	0	npc\tracker_npc.lua	4						buff_gmp_wl_022	999	10					0																
+																																									
+	//长风镖局																																								
+mac_cfbj_dbdh_001	MachineNpc	减速陷阱		1	npc\itemnpc057_xyxs		202	4	3	0	npc\machine_npc.lua	2	3000					buff_cfbj_hd_03_059	-1	99					0																
+																																									
+	//神水																																								
+ssg_dw_01	MachineNpc	湿气	1		npc\itemnpc057t		202	4	5	0	npc\tracker_npc.lua								-1	2						3496															
+ssg_dw_02	MachineNpc	瘴气	1		npc\itemnpc057_jlg06		202	4	5	0	npc\tracker_npc.lua								-1	2						3497															
+ssg_dw_03	MachineNpc	死气	1		npc\itemnpc057_shyb003		202	4	5	0	npc\tracker_npc.lua								-1	2						3498															
+ssg_dw_04	MachineNpc	毒气	1		npc\itemnpc057_jlg01		202	4	5	0	npc\tracker_npc.lua								-1	2						3499															
+																																									
+	//燕门世家--八阵图																																								
+mac_ymsj_lzyzz001	MachineNpc	站阵机关		1	npc\fbmac00012		202	4	1	2	npc\machine_npc.lua	2				open								"0.15,0.3,0.15"	0																
+mac_ymsj_lzyzz002	MachineNpc	站阵机关		1	npc\fbmac00012		202	4	1	2	npc\machine_npc.lua	2				open								"0.15,0.3,0.15"	0																
+mac_ymsj_lzyzz003	MachineNpc	站阵机关		1	npc\fbmac00012		202	4	1	2	npc\machine_npc.lua	2				open								"0.15,0.3,0.15"	0																
+mac_ymsj_lzyzz004	MachineNpc	站阵机关		1	npc\fbmac00012		202	4	1	2	npc\machine_npc.lua	2				open								"0.15,0.3,0.15"	0																
+mac_ymsj_lzyzz005	MachineNpc	站阵机关		1	npc\fbmac00012		202	4	1	2	npc\machine_npc.lua	2				open								"0.15,0.3,0.15"	0																
+mac_ymsj_lzyzz006	MachineNpc	站阵机关		1	npc\fbmac00012		202	4	1	2	npc\machine_npc.lua	2				open								"0.15,0.3,0.15"	0																
+mac_ymsj_lzyzz007	MachineNpc	站阵机关		1	npc\fbmac00012		202	4	1	2	npc\machine_npc.lua	2				open								"0.15,0.3,0.15"	0																
+mac_ymsj_lzyzz008	MachineNpc	站阵机关		1	npc\fbmac00012		202	4	1	2	npc\machine_npc.lua	2				open								"0.15,0.3,0.15"	0																
+mac_ymsj_lzyzz009	MachineNpc	站阵机关		1	npc\fbmac00012		202	4	1	2	npc\machine_npc.lua	2				open								"0.15,0.3,0.15"	0																

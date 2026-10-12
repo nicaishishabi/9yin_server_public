@@ -1,0 +1,16 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	ItemID	ProCount	AddPro	TrackInfoID	DeleteSelf	LockTarget	Radius	SceneID	Water	AddItems	DeleteItems	TargetConfig	TaskID	BufferID
+71702	item_mmzw_other_002	1	1	useiteminfo_71702	1	1	5	14				npc_mmzw_other_002	71705	
+71705	useitem_mm_dy_02	1	1	useiteminfo_71705			5	653				NPC_mm_dy_18	71901	
+71711	useitem_mm_dy_01	1	1	useiteminfo_71711			3	652		item_mm_dy_02		NPC_mm_dy_24	71905	
+71712	useitem_mm_dy_01	1	1	useiteminfo_71712			3	652		item_mm_dy_02		NPC_mm_dy_25	71905	
+71715	useitem_mm_dy_04	1	1	useiteminfo_71715			5	651				NPC_mm_dy_31	71910	buf_mm_dy_13
+71708	useitem_mm_dy_03	1	1	useiteminfo_71708		1	5	652				NPC_mm_dy_21	71904	buf_mm_dy_14
+71707	useitem_mm_dy_03	1	1	useiteminfo_71707		1	5	652				NPC_mm_dy_20	71903	buf_mm_dy_14
+71706	useitem_mm_dy_03	1	1	useiteminfo_71706		1	5	652				NPC_mm_dy_19	71903	buf_mm_dy_14
+71710	useitem_mm_dy_01	1	1	useiteminfo_71710			3	652		item_mm_dy_02		NPC_mm_dy_23	71903	
+71709	useitem_mm_dy_01	1	1	useiteminfo_71709			3	652		item_mm_dy_02		NPC_mm_dy_22	71903	
+71704	useitem_mm_dy_02	1	1	useiteminfo_71704			5	653				NPC_mm_dy_17	71900	
+71703	useitem_mm_dy_02	1	1	useiteminfo_71703			5	653				NPC_mm_dy_16	71900	
+71714	useitem_mm_dy_04	1	1	useiteminfo_71714			5	651				NPC_mm_dy_30	71909	buf_mm_dy_13
+71713	useitem_mm_dy_04	1	1	useiteminfo_71713			5	651				NPC_mm_dy_29	71909	buf_mm_dy_13

@@ -1,0 +1,8 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	ItemID	ProCount	AddPro	TrackInfoID	DeleteSelf	LockTarget	Radius	SceneID	Water	AddItems	DeleteItems	TargetConfig	TaskID
+41000	key_wd_tong01		1	useiteminfo_41000	1	1	2	11	0	key_wd_tong02		GatherClone007005	18710
+41001	key_wd_shuazi		1	useiteminfo_41001	0	0	5	11	0	key_wd_tong01	key_wd_tong02	Event_wd_41001	18710
+41002	useitemkey_wudang_shuitong	1	1	useiteminfo_41002	1	1	3	11	0	key_wudang_shuitong		GatherClone007005	18713
+41003	useitemkey_wudang_shuazi	1	1	useiteminfo_41003	1		10	11	0		key_wudang_shuitong1	Event_qy_wudang_shuazi	18714
+41004	useitem_qygp_dy_hy	1	1	useiteminfo_41004	1			14	0	useitem_qygp_dy_hydz			
+41005	useitem_qygp_dy_hydz	1	1	useiteminfo_41005	1			14	0	Item_qygp_tjq_000;Item_qygp_tjq_000	item_qygp_dy_sms		

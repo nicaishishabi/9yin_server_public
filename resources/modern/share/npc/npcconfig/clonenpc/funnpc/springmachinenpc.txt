@@ -1,0 +1,848 @@
+NPC编号	对象类型	名称	隐藏地面贴花	模型编号	头像	类型	NPC种类ID	响应范围	脚本编号	机关npc类型	1：可反复触发，不填默认只能触发1次	初始状态	机关触发后的状态	机关的触发动作	机关的恢复动作	触发后是否需要恢复原来状态0:否    1:是	"默认是否被打开,0:可开启，1：不可开启"	恢复原来状态的时间(ms)	采集动作名	触发读条时间(ms)	触发机关需要物品和提示(物品/个数/扣除表示/不足提示id)	NPC阵营	籍贯	平生	门派	AI编号	巡逻模式	寻路是是否转向	走路速度	跑步速度	路径编号	是否可选中	鼠标形状	机关开启人数（仅SpringMachineNpc可用）（不填则默认为1人）	AI编辑包	是否预载入模型	缩放
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	string
+ID	script	Name	HideDecal	Resource	Photo	NpcType	CKindID	SpringRange	LuaScript	MachineNpcType	SpringMode	NormalState	SpringState	SpringAction	ResumeAction	ResumeFlag	UsingFlag	ResumeTime	OpenAction	FlowTime	table@SpringItemList	Camp	Hometown	Story	School	AITemplate	PatrolMode	MotionNoRotate	WalkSpeed	RunSpeed	PathID	SelectState	CursorShape	OpenLessPlayer	AIEditorPackID	PreLoad	Scale
+																																					
+test_machine_001	SpringMachineNpc	孔雀1号门		npc\fbmac00035	icon\funcnpc\clonedoor.png	173		5		2	1	stand	1_stand			1		10000	interact041	5000	"TaskItemClone005002,2,1,101010"											0	0				
+																																					
+machineclone001001	SpringMachineNpc		1	npc\fbmac00033	icon\funcnpc\fbmac013023.png	173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	1		10000	interact041	5000												2	5				
+machineclone001002	SpringMachineNpc		1	npc\fbmac00033	icon\funcnpc\fbmac013023.png	173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	1		10000	interact041	5000	"TaskItemClone_001029,1,1,15007"											2	5				
+machineclone001003	SpringMachineNpc		1	npc\fbmac00034	icon\funcnpc\fbmac013023.png	173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	1		10000	interact041	5000												2	5				
+machineclone001004	SpringMachineNpc		1	npc\fbmac00034	icon\funcnpc\fbmac013023.png	173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	1		10000	interact041	5000	"TaskItemClone_001029,1,1,15007"											2	5				
+machineclone001005	SpringMachineNpc		1	npc\fbmac00035	icon\funcnpc\fbmac013023.png	173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	1		10000	interact041	5000												2	5				
+machineclone001006	SpringMachineNpc		1	npc\fbmac00035	icon\funcnpc\fbmac013023.png	173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	1		10000	interact041	5000	"TaskItemClone_001029,1,1,15007"											2	5				
+MachineNpc00220	SpringMachineNpc	青龙外机关	1	npc\fbmac00036	icon\funcnpc\fbmac00036.png	173	4	5	npc\clone\clone001\GotoMachineClone001201.lua	2	1	closeloop	openloop	open	close	1		10000	interact041	5000												2	9				
+MachineNpc00221	SpringMachineNpc	白虎外机关	1	npc\fbmac00036	icon\funcnpc\fbmac00036.png	173	4	5	npc\clone\clone001\GotoMachineClone001202.lua	2	1	closeloop	openloop	open	close	1		10000	interact041	5000												2	9				
+MachineNpc00222	SpringMachineNpc	朱雀外机关	1	npc\fbmac00036	icon\funcnpc\fbmac00036.png	173	4	5	npc\clone\clone001\GotoMachineClone001203.lua	2	1	closeloop	openloop	open	close	1		10000	interact041	5000												2	9				
+MachineNpc00223	SpringMachineNpc	玄武外机关	1	npc\fbmac00036	icon\funcnpc\fbmac00036.png	173	4	5	npc\clone\clone001\GotoMachineClone001204.lua	2	1	closeloop	openloop	open	close	1		10000	interact041	5000												2	9				
+MachineNpc00020	SpringMachineNpc	青龙外机关	1	npc\fbmac00036	icon\funcnpc\fbmac00036.png	173	4	5	npc\clone\clone001\GotoMachineClone001001.lua	2	1	closeloop	openloop	open	close	1		10000	interact041	5000												2	9				
+MachineNpc00021	SpringMachineNpc	白虎外机关	1	npc\fbmac00036	icon\funcnpc\fbmac00036.png	173	4	5	npc\clone\clone001\GotoMachineClone001002.lua	2	1	closeloop	openloop	open	close	1		10000	interact041	5000												2	9				
+MachineNpc00022	SpringMachineNpc	朱雀外机关	1	npc\fbmac00036	icon\funcnpc\fbmac00036.png	173	4	5	npc\clone\clone001\GotoMachineClone001003.lua	2	1	closeloop	openloop	open	close	1		10000	interact041	5000												2	9				
+MachineNpc00023	SpringMachineNpc	玄武外机关	1	npc\fbmac00036	icon\funcnpc\fbmac00036.png	173	4	5	npc\clone\clone001\GotoMachineClone001004.lua	2	1	closeloop	openloop	open	close	1		10000	interact041	5000												2	9				
+MachineNpc00024	SpringMachineNpc		1	npc\fbmac00036	icon\funcnpc\fbmac00036.png	173	4	5	npc\clone\clone001\GotoMachineClone001005.lua	2	1	closeloop	openloop	open	close	1		10000	interact041	5000												2	5				
+																																					
+macclone002006	SpringMachineNpc		1	npc\fbmac002013		173	4	2		-1	1	closeloop	openloop	open	close	0		10000	interact041	0												2					
+macclone002007	SpringMachineNpc		1	npc\fbmac002012	icon\funcnpc\door.png	173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		10000	interact041	1000												2	5				
+macclone002008	SpringMachineNpc		1	npc\fbmac002003	icon\funcnpc\door.png	173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		10000	interact041	0												2	5				
+macclone002009	SpringMachineNpc		1	npc\fbmac002004	icon\funcnpc\door.png	173	4	2	npc\spring_machine_npc.lua	-1	1	closeloop	openloop	open	close	0		-1	interact041	0												0	0				
+macclone002010	SpringMachineNpc		1	npc\fbmac002005	icon\funcnpc\door.png	173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		10000	interact041	0												2	5				
+macclone002011	SpringMachineNpc		1	npc\fbmac002006	icon\funcnpc\door.png	173	4	2	npc\spring_machine_npc.lua	-1	1	closeloop	openloop	open	close	0		-1	interact041	0												0	0				
+macclone002012	SpringMachineNpc		1	npc\fbmac002007	icon\funcnpc\door.png	173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		10000	interact041	0												2	5				
+macclone002013	SpringMachineNpc		1	npc\fbmac002008	icon\funcnpc\door.png	173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		10000	interact041	2000	"TaskItemClone_002025,1,0,15007"											2	5				
+macclone002014	SpringMachineNpc		1	npc\fbmac002009	icon\funcnpc\door.png	173	4	2	npc\clone\clone002\macclone002014.lua	2	1	closeloop	openloop	open	close	1		10000	interact041	0												2	5				
+macclone002015	SpringMachineNpc		1	npc\fbmac002010	icon\funcnpc\door.png	173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	1		10000	interact041	0												2	5				
+macclone002016	SpringMachineNpc		1	npc\fbmac002011	icon\funcnpc\door.png	173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	1		10000	interact041	3000												2	5				
+macclone002017	SpringMachineNpc		1	npc\itemnpc423a	icon\funcnpc\task.png	173	4	2	npc\clone\clone002\macclone002017.lua	2		closeloop	openloop	open	close	0		-1	interact041	60000												2	9				
+macclone002018	SpringMachineNpc		1	npc\itemnpc423a	icon\funcnpc\task.png	173	4	2	npc\clone\clone002\macclone002018.lua	2		closeloop	openloop	open	close	0		-1	interact041	60000												2	9				
+macclone002019	SpringMachineNpc		1	npc\itemnpc423a	icon\funcnpc\task.png	173	4	2	npc\clone\clone002\macclone002019.lua	2		closeloop	openloop	open	close	0		-1	interact041	60000												2	9				
+macclone002020	SpringMachineNpc		1	npc\itemnpc423a	icon\funcnpc\task.png	173	4	2	npc\clone\clone002\macclone002020.lua	2		closeloop	openloop	open	close	0		-1	interact041	60000												2	9				
+macclone002021	SpringMachineNpc		1	npc\itemnpc423a	icon\funcnpc\task.png	173	4	2	npc\clone\clone002\macclone002021.lua	2		closeloop	openloop	open	close	0		-1	interact041	60000												2	9				
+macclone002022	SpringMachineNpc		1	npc\itemnpc423a	icon\funcnpc\task.png	173	4	2	npc\clone\clone002\macclone002022.lua	2		closeloop	openloop	open	close	0		-1	interact041	60000												2	9				
+macclone002023	SpringMachineNpc		1	npc\itemnpc422a	icon\funcnpc\task.png	173	4	0		-1		closeloop	openloop	open	close	0		-1	interact041	60000												2	9				
+macclone002024	SpringMachineNpc		1	npc\itemnpc422a	icon\funcnpc\task.png	173	4	0		-1		closeloop	openloop	open	close	0		-1	interact041	60000												2	9				
+macclone002025	SpringMachineNpc		1	npc\itemnpc422a	icon\funcnpc\task.png	173	4	0		-1		closeloop	openloop	open	close	0		-1	interact041	60000												2	9				
+macclone002026	SpringMachineNpc		1	npc\itemnpc422a	icon\funcnpc\task.png	173	4	0		-1		closeloop	openloop	open	close	0		-1	interact041	60000												2	9				
+macclone002027	SpringMachineNpc		1	npc\itemnpc422a	icon\funcnpc\task.png	173	4	0		-1		closeloop	openloop	open	close	0		-1	interact041	60000												2	9				
+macclone002028	SpringMachineNpc		1	npc\itemnpc422a	icon\funcnpc\task.png	173	4	0		-1		closeloop	openloop	open	close	0		-1	interact041	60000												2	9				
+macclone002029	SpringMachineNpc		1	npc\fbmac002014	icon\funcnpc\door.png	173	4	2		-1		closeloop	openloop	open	close	0		-1	interact041	0												2					
+macclone002030	SpringMachineNpc		1	npc\fbmac002016	icon\funcnpc\door.png	173	4	2		-1		closeloop	openloop	open	close	0		-1	interact041	3000												2	5				
+macclone002031	SpringMachineNpc		1	npc\fbmac002015		173	4	2		-1		closeloop	openloop	open	close	0		-1	interact041	0												2	5				
+macclone002032	SpringMachineNpc		1	npc\fbmac002017	icon\funcnpc\task.png	173	4	2	npc\clone\clone002\macclone002032.lua	-1		closeloop	openloop	open	close	0		10000	interact041	0												2	5				
+macclone002033	SpringMachineNpc		1	npc\fbmac002018	icon\funcnpc\fbmac002018.png	173	4	2	npc\clone\clone002\macclone002033.lua	2		closeloop	openloop	open	close	0		10000	interact041	0												2	5				
+																																					
+MacClone002001	SpringMachineNpc		1	npc\fbmac002002	icon\funcnpc\door.png	173	4	3	npc\spring_machine_npc.lua	2		close	open	openloop	closeloop	0		10000	interact041	5000	"TaskItemClone_002018,1,1,15007"											2	5				
+MacClone002002	SpringMachineNpc		1	npc\fbmac002002	icon\funcnpc\door.png	173	4	3	npc\spring_machine_npc.lua	2		close	open	openloop	closeloop	0		10000	interact041	5000	"TaskItemClone_002018,1,1,15007"											2	5				
+MacClone002003	SpringMachineNpc		1	npc\fbmac002002	icon\funcnpc\door.png	173	4	3	npc\spring_machine_npc.lua	2		close	open	openloop	closeloop	0		10000	interact041	5000	"TaskItemClone_002018,1,1,15007"											2	5				
+MacClone002004	SpringMachineNpc		1	npc\fbmac002002	icon\funcnpc\door.png	173	4	3	npc\spring_machine_npc.lua	2		close	open	openloop	closeloop	0		10000	interact041	5000	"TaskItemClone_002018,1,1,15007"											2	5				
+																																					
+																																					
+MacClone017066	SpringMachineNpc		1	npc\fbmac00535	icon\funcnpc\fbmac00535.png	173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017011	SpringMachineNpc		1	npc\fbmac00518	icon\funcnpc\fbmac00518.png	173	4	3	npc\clone\clone017\mac_boss_door.lua	2		close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017012	SpringMachineNpc		1	npc\fbmac00518	icon\funcnpc\fbmac00518.png	173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017014	SpringMachineNpc		1	npc\fbmac00518	icon\funcnpc\fbmac00518.png	173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017015	SpringMachineNpc		1	npc\fbmac00519	icon\funcnpc\fbmac00519.png	173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000	"TaskItemClone_0171140,1,1,15007"											2	5				
+MacClone017016	SpringMachineNpc		1	npc\fbmac00519	icon\funcnpc\fbmac00519.png	173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017028	SpringMachineNpc		1	npc\fbmac00519	icon\funcnpc\fbmac00519.png	173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017029	SpringMachineNpc		1	npc\fbmac00511	icon\funcnpc\fbmac00511.png	173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017010	SpringMachineNpc		1	npc\fbmac019011	icon\funcnpc\fbmac00511.png	173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone017001	SpringMachineNpc		1	npc\fbmac019011	icon\funcnpc\fbmac00511.png	173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017091	SpringMachineNpc		1	npc\fbmac00528	icon\funcnpc\door.png	173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017092	SpringMachineNpc		1	npc\fbmac00529	icon\funcnpc\door.png	173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017093	SpringMachineNpc		1	npc\fbmac00516	icon\funcnpc\door.png	173	4	3		2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017095	SpringMachineNpc		1	npc\fbmac00518	icon\funcnpc\fbmac00518.png	173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+																																					
+MacClone017043	SpringMachineNpc		1	npc\fbmac019011	icon\funcnpc\fbmac00511.png	173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0	1	-1	interact041	5000												2	5				
+MacClone017009	SpringMachineNpc		1	npc\fbmac00517	icon\funcnpc\fbmac00517.png	173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017013	SpringMachineNpc		1	npc\fbmac00518	icon\funcnpc\fbmac00518.png	173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017030	SpringMachineNpc		1	npc\fbmac00519	icon\funcnpc\fbmac00519.png	173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017031	SpringMachineNpc		1	npc\fbmac00519	icon\funcnpc\fbmac00519.png	173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017017	SpringMachineNpc		1	npc\fbmac00516		173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017018	SpringMachineNpc		1	npc\fbmac00516		173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017019	SpringMachineNpc		1	npc\fbmac00516		173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017020	SpringMachineNpc		1	npc\fbmac00516		173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+																																					
+MacClone017021	SpringMachineNpc			npc\fbmac00531	icon\funcnpc\fbmac013006c.png	171	4	1	npc\clone\clone017\mac_boss_door.lua	1	1	close	open	openloop	closeloop	0		10000	interact041	0												0	0				
+MacClone017022	SpringMachineNpc			npc\fbmac00521	icon\funcnpc\fbmac013006c.png	171	4	1	npc\clone\clone017\mac_boss_door.lua	1	1	close	open	openloop	closeloop	0		10000	interact041	0												0	0				
+MacClone017023	SpringMachineNpc			npc\fbmac00515		164	4	2	npc\clone\clone017\mac_water_creator.lua	1	1	close	open	openloop	closeloop	0		10000	interact041	0												0	0				
+																																					
+MacClone017044	SpringMachineNpc		1	npc\fbmac00525	icon\funcnpc\fbmac00525.png	173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	10				
+																																					
+MacClone017049	SpringMachineNpc		1	npc\fbmac00519	icon\funcnpc\fbmac00519.png	173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017050	SpringMachineNpc		1	npc\fbmac00511	icon\funcnpc\fbmac00511.png	173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+																																					
+MacClone017081	SpringMachineNpc		1	npc\fbmac00516		173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017082	SpringMachineNpc		1	npc\fbmac00516		173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017083	SpringMachineNpc		1	npc\fbmac00516		173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017084	SpringMachineNpc		1	npc\fbmac00516		173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017085	SpringMachineNpc		1	npc\fbmac00516		173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017086	SpringMachineNpc		1	npc\fbmac00516		173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017087	SpringMachineNpc		1	npc\fbmac00516		173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017088	SpringMachineNpc		1	npc\fbmac00516		173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+																																					
+MacClone017094	SpringMachineNpc		1	npc\fbmac00525	icon\funcnpc\fbmac00525.png	173	4	3		2	1	stand	1_stand	standfree01	1_standfree01	1		10000	interact041	5000												2	5				
+																																					
+MacClone017081	SpringMachineNpc		1	npc\fbmac00516		173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+																																					
+MacClone017201	SpringMachineNpc		1	npc\fbmac00516		173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017202	SpringMachineNpc		1	npc\fbmac00516		173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017203	SpringMachineNpc		1	npc\fbmac00516		173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017204	SpringMachineNpc		1	npc\fbmac00516		173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017205	SpringMachineNpc		1	npc\fbmac00516		173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017206	SpringMachineNpc		1	npc\fbmac00516		173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017207	SpringMachineNpc		1	npc\fbmac00516		173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017208	SpringMachineNpc		1	npc\fbmac00516		173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017209	SpringMachineNpc		1	npc\fbmac00517	icon\funcnpc\fbmac00519.png	173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017210	SpringMachineNpc		1	npc\fbmac00518	icon\funcnpc\fbmac00519.png	173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017211	SpringMachineNpc		1	npc\fbmac00519	icon\funcnpc\fbmac00519.png	173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017212	SpringMachineNpc		1	npc\fbmac00520	icon\funcnpc\fbmac00519.png	173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017213	SpringMachineNpc		1	npc\fbmac00521	icon\funcnpc\fbmac00519.png	173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017214	SpringMachineNpc		1	npc\fbmac00535	icon\funcnpc\fbmac00535.png	173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017215	SpringMachineNpc		1	npc\fbmac00528	icon\funcnpc\door.png	173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017216	SpringMachineNpc		1	npc\fbmac00529	icon\funcnpc\door.png	173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone017217	SpringMachineNpc		1	npc\fbmac00531	icon\funcnpc\fbmac013006c.png	171	4	1	npc\clone\clone017\mac_boss_door.lua	1	1	close	open	openloop	closeloop	0		10000	interact041	0												0	0				
+MacClone017218	SpringMachineNpc		1	npc\fbmac00525	icon\funcnpc\fbmac00525.png	173	4	3	npc\clone\clone017\mac_boss_door.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	10				
+																																					
+																																					
+																																					
+																																					
+																																					
+																																					
+																																					
+MacClone003001	SpringMachineNpc		1	npc\fbmac003001	icon\funcnpc\clonedoor.png	173	4	2	npc\spring_machine_npc.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	2000	"TaskItemClone_002025,1,0,4029"											2	5				
+MacClone003002	SpringMachineNpc		1	npc\fbmac003002	icon\funcnpc\clonedoor.png	173	4	2		2	1	close	open	openloop	closeloop	0	1	10000	interact041	2000												2	5				
+MacClone003003	SpringMachineNpc		1	npc\fbmac003003	icon\funcnpc\clonedoor.png	173	4	2	npc\spring_machine_npc.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone003004	SpringMachineNpc		1	npc\fbmac003027	icon\funcnpc\clonedoor.png	173	4	2	npc\spring_machine_npc.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone003005	SpringMachineNpc		1	npc\fbmac003004	icon\funcnpc\clonedoor.png	164	4	2		2	1	close	open	openloop	closeloop	0	1	10000	interact041	5000												2	5				
+MacClone003006	SpringMachineNpc		1	npc\brokennpc\brokenitem027	icon\funcnpc\clonedoor.png	172	4	2		2	1					0	1	10000														0	0				
+MacClone003007	SpringMachineNpc		1	npc\fbmac003006	icon\funcnpc\clonedoor.png	164	4	2		2	1	close	open	openloop	closeloop	0	1	10000	interact041	5000												2	5				
+MacClone003008	SpringMachineNpc		1	npc\brokennpc\brokenitem028	icon\funcnpc\clonedoor.png	172	4	2		2	1					0	1	10000														0	0				
+MacClone003009	SpringMachineNpc		1	npc\fbmac003008		173	4	2	npc\spring_machine_npc.lua	2	1																					0	0				
+MacClone003010	SpringMachineNpc		1	npc\fbmac003009		173	4	2	npc\spring_machine_npc.lua	2	1																					0	0				
+MacClone003011	SpringMachineNpc		1	npc\fbmac003011	icon\funcnpc\clonedoor.png	173	4	2	npc\spring_machine_npc.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone003012	SpringMachineNpc		1	npc\fbmac003012	icon\funcnpc\clonedoor.png	173	4	2		2	1	close	open	openloop	closeloop	0	1	10000	interact041	5000												2	5				
+MacClone003013	SpringMachineNpc		1	npc\fbmac00035	icon\funcnpc\clonedoor.png	173	4	2	npc\spring_machine_npc.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+																																					
+MacClone005002	SpringMachineNpc		1	npc\fbmac005008		173	4	1		2	1	closeloop	openloop	open	close	0	0	-1	interact041	5000												2	5				
+MacClone005003	SpringMachineNpc		1	npc\fbmac005005		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005005	SpringMachineNpc		1	npc\fbmac005004		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005006	SpringMachineNpc		1	npc\fbmac005004		173	4	3		2	1	closeloop	openloop	open	close	0	0	-1	interact041	5000												2	5				
+MacClone005007	SpringMachineNpc		1	npc\fbmac005007		173	4	3		2	1	closeloop	openloop	open	close	0	0	-1	interact041	5000												2	5				
+MacClone005008	SpringMachineNpc		1	npc\fbmac005008		173	4	3		2	1	closeloop	openloop	open	close	0	0	-1	interact041	5000												2	5				
+MacClone005009	SpringMachineNpc		1	npc\fbmac005009		173	4	3		2	1	closeloop	openloop	open	close	0	0	-1	interact041	5000												2	5				
+MacClone005010	SpringMachineNpc		1	npc\fbmac00003		173	4	3		2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+MacClone005011	SpringMachineNpc		1	npc\fbmac00003		173	4	3		2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+MacClone005012	SpringMachineNpc		1	npc\fbmac00003		173	4	3		2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+MacClone005016	SpringMachineNpc		1	npc\fbmac005016		173	4	3		2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+MacClone005017	SpringMachineNpc		1	npc\itemnpc070		173	4	3		2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+MacClone005018	SpringMachineNpc		1	npc\fbmac005017		173	4	3		2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+MacClone005019	SpringMachineNpc		1	npc\fbmac005009		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005020	SpringMachineNpc		1	npc\fbmac005001		173	4	3		2	1	closeloop	openloop	open	close	0	0	-1	interact041	5000												2	5				
+MacClone005021	SpringMachineNpc		1	npc\fbmac005002		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005004	SpringMachineNpc		1	npc\fbmac005006		173	4	3	npc\clone\clone005\spring_8DoorNpc_Random.lua	2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005022	SpringMachineNpc		1	npc\fbmac005006		173	4	3	npc\clone\clone005\spring_8DoorNpc_Random.lua	2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005023	SpringMachineNpc		1	npc\fbmac005006		173	4	3	npc\clone\clone005\spring_8DoorNpc_Random.lua	2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005024	SpringMachineNpc		1	npc\fbmac005006		173	4	3	npc\clone\clone005\spring_8DoorNpc_Random.lua	2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005025	SpringMachineNpc		1	npc\fbmac005006		173	4	3	npc\clone\clone005\spring_8DoorNpc_Random.lua	2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005026	SpringMachineNpc		1	npc\fbmac005006		173	4	3	npc\clone\clone005\spring_8DoorNpc_Random.lua	2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005027	SpringMachineNpc		1	npc\fbmac005006		173	4	3	npc\clone\clone005\spring_8DoorNpc_Random.lua	2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005028	SpringMachineNpc		1	npc\fbmac005006		173	4	3	npc\clone\clone005\spring_8DoorNpc_Random.lua	2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005029	SpringMachineNpc		1	npc\fbmac005009		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005030	SpringMachineNpc		1	npc\fbmac005008		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005031	SpringMachineNpc		1	npc\fbmac005009		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005032	SpringMachineNpc		1	npc\fbmac005009		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005033	SpringMachineNpc		1	npc\fbmac005009		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005034	SpringMachineNpc		1	npc\fbmac00011		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005035	SpringMachineNpc		1	npc\fbmac00011		173	4	3		2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+MacClone005036	SpringMachineNpc		1	npc\fbmac00035		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005037	SpringMachineNpc		1	npc\fbmac005008		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005038	SpringMachineNpc		1	npc\fbmac00040		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005051	SpringMachineNpc		1	npc\fbmac005003		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005052	SpringMachineNpc		1	npc\fbmac005012		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005053	SpringMachineNpc		1	npc\fbmac005008		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005054	SpringMachineNpc		1	npc\fbmac005008		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005055	SpringMachineNpc		1	npc\fbmac005007		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005056	SpringMachineNpc		1	npc\fbmac005009		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005057	SpringMachineNpc		1	npc\fbmac005008		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005058	SpringMachineNpc		1	npc\fbmac005007		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005059	SpringMachineNpc		1	npc\fbmac005007		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005060	SpringMachineNpc		1	npc\fbmac005008		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005061	SpringMachineNpc		1	npc\fbmac005008		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005062	SpringMachineNpc		1	npc\fbmac005005		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005063	SpringMachineNpc		1	npc\fbmac005009		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005064	SpringMachineNpc		1	npc\fbmac005009		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												2	5				
+MacClone005101w	CommonNpc	解馋迷宫机关	1	npc\fbmac00036		164	4	3		2	1	closeloop	openloop	open	close	0	0	-1	interact041	3000												2	5				
+MacClone005102w	CommonNpc	解馋迷宫机关	1	npc\fbmac00036		164	4	3		2	1	closeloop	openloop	open	close	0	0	-1	interact041	3000												2	5				
+MacClone005103w	CommonNpc	解馋迷宫机关	1	npc\fbmac00036		164	4	3		2	1	closeloop	openloop	open	close	0	0	-1	interact041	3000												2	5				
+MacClone005104w	SpringMachineNpc	解馋迷宫门	1	npc\fbmac005009		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												0	5				
+MacClone005105w	SpringMachineNpc	解馋迷宫门	1	npc\fbmac005009		173	4	3		2	1	openloop	closeloop	close	open	0	1	-1	interact041	5000												0	5				
+MacClone005106w	SpringMachineNpc	解馋迷宫门	1	npc\fbmac005009		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												0	5				
+MacClone005107w	SpringMachineNpc	解馋迷宫门	1	npc\fbmac005009		173	4	3		2	1	openloop	closeloop	close	open	0	1	-1	interact041	5000												0	5				
+MacClone005108w	SpringMachineNpc	解馋迷宫门	1	npc\fbmac005009		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												0	5				
+MacClone005109w	SpringMachineNpc	解馋迷宫门	1	npc\fbmac005009		173	4	3		2	1	openloop	closeloop	close	open	0	1	-1	interact041	5000												0	5				
+MacClone005110w	SpringMachineNpc	解馋迷宫门	1	npc\fbmac005009		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												0	5				
+MacClone005111w	SpringMachineNpc	解馋迷宫门	1	npc\fbmac005009		173	4	3		2	1	openloop	closeloop	close	open	0	1	-1	interact041	5000												0	5				
+																																					
+																																					
+MacClone007004	SpringMachineNpc		1	npc\fbmac00201		174	4	2	npc\clone\clone007\lu.lua	2	1					0			interact035	2000												2	5				
+MacClone007005	SpringMachineNpc		1	npc\fbmac00202		174	4	2	npc\clone\clone007\lu.lua	2	1					0			interact035	2000												2	5				
+MacClone007006	SpringMachineNpc		1	npc\fbmac00203		174	4	2	npc\clone\clone007\lu.lua	2	1					0			interact035	2000												2	5				
+MacClone007007	SpringMachineNpc		1	npc\fbmac00204		174	4	2	npc\clone\clone007\lu.lua	2	1					0			interact035	2000												2	5				
+MacClone007008	SpringMachineNpc		1	npc\fbmac00205		174	4	2	npc\clone\clone007\lu.lua	2	1					0			interact035	2000												2	5				
+MacClone007009	FlyNpc		1	npc\fbmac00531		48	4	1																								0	0				
+MacClone007010	FlyNpc		1	npc\fbmac00521		48	4	1																								0	0				
+MacClone007011	FlyNpc		1	npc\fbmac00521		48	4	1	npc\clone\clone007\pole_machine_npc.lua																							0	0				
+MacClone007012	SpringMachineNpc		1	npc\fbmac00036		173	4	3	npc\clone\clone007\dragen_machine_npc.lua	2	1	closeloop	openloop	open	close	0			interact041	5000												2	5				
+MacClone007013	SpringMachineNpc		1	npc\fbmac00206_a		173	4	5	npc\clone\clone007\ChouTi.lua	2	1	stand	1_stand	1_standfree01	standfree01	0		10000	interact041	1000												2	9		529		
+MacClone007014	SpringMachineNpc		1	npc\fbmac00206_b		173	4	5	npc\clone\clone007\ChouTi.lua	2	1	stand	1_stand	1_standfree01	standfree01	0		10000	interact041	1000												2	9		529		
+MacClone007015	SpringMachineNpc		1	npc\fbmac00206_c		173	4	5	npc\clone\clone007\ChouTi.lua	2	1	stand	1_stand	1_standfree01	standfree01	0		10000	interact041	1000												2	9		529		
+MacClone007016	SpringMachineNpc		1	npc\fbmac00206_d		173	4	5	npc\clone\clone007\ChouTi.lua	2	1	stand	1_stand	1_standfree01	standfree01	0		10000	interact041	1000												2	9		529		
+MacClone007017	SpringMachineNpc		1	npc\fbmac00206_e		173	4	5	npc\clone\clone007\ChouTi.lua	2	1	stand	1_stand	1_standfree01	standfree01	0		10000	interact041	1000												2	9		529		
+MacClone007018	SpringMachineNpc		1	npc\fbmac00206_f		173	4	5	npc\clone\clone007\ChouTi.lua	2	1	stand	1_stand	1_standfree01	standfree01	0		10000	interact041	1000												2	9		529		
+MacClone007019	SpringMachineNpc		1	npc\fbmac00206_g		173	4	5	npc\clone\clone007\ChouTi.lua	2	1	stand	1_stand	1_standfree01	standfree01	0		10000	interact041	1000												2	9		529		
+MacClone007020	SpringMachineNpc		1	npc\fbmac00206_h		173	4	5	npc\clone\clone007\ChouTi.lua	2	1	stand	1_stand	1_standfree01	standfree01	0		10000	interact041	1000												2	9		529		
+MacClone007021	SpringMachineNpc		1	npc\fbmac00206_i		173	4	5	npc\clone\clone007\ChouTi.lua	2	1	stand	1_stand	1_standfree01	standfree01	0		10000	interact041	1000												2	9		529		
+MacClone007022	SpringMachineNpc		1	npc\fbmac00206_j		173	4	5	npc\clone\clone007\ChouTi.lua	2	1	stand	1_stand	1_standfree01	standfree01	0		10000	interact041	1000												2	9		529		
+MacClone007023	SpringMachineNpc		1	npc\fbmac00206_k		173	4	5	npc\clone\clone007\ChouTi.lua	2	1	stand	1_stand	1_standfree01	standfree01	0		10000	interact041	1000												2	9		529		
+MacClone007024	SpringMachineNpc		1	npc\fbmac00206_l		173	4	5	npc\clone\clone007\ChouTi.lua	2	1	stand	1_stand	1_standfree01	standfree01	0		10000	interact041	1000												2	9		529		
+MacClone007025	SpringMachineNpc		1	npc\fbmac00206_m		173	4	5	npc\clone\clone007\ChouTi.lua	2	1	stand	1_stand	1_standfree01	standfree01	0		10000	interact041	1000												2	9		529		
+MacClone007026	SpringMachineNpc		1	npc\fbmac00206_n		173	4	5	npc\clone\clone007\ChouTi.lua	2	1	stand	1_stand	1_standfree01	standfree01	0		10000	interact041	1000												2	9		529		
+MacClone007027	SpringMachineNpc		1	npc\fbmac00206_o		173	4	5	npc\clone\clone007\ChouTi.lua	2	1	stand	1_stand	1_standfree01	standfree01	0		10000	interact041	1000												2	9		529		
+MacClone007028	SpringMachineNpc		1	npc\fbmac00206_p		173	4	5	npc\clone\clone007\ChouTi.lua	2	1	stand	1_stand	1_standfree01	standfree01	0		10000	interact041	1000												2	9		529		
+MacClone007029	SpringMachineNpc		1	npc\fbmac00206_q		173	4	5	npc\clone\clone007\ChouTi.lua	2	1	stand	1_stand	1_standfree01	standfree01	0		10000	interact041	1000												2	9		529		
+MacClone007030	SpringMachineNpc		1	npc\fbmac00206_r		173	4	5	npc\clone\clone007\ChouTi.lua	2	1	stand	1_stand	1_standfree01	standfree01	0		10000	interact041	1000												2	9		529		
+MacClone007031	SpringMachineNpc		1	npc\fbmac00206_s		173	4	5	npc\clone\clone007\ChouTi.lua	2	1	stand	1_stand	1_standfree01	standfree01	0		10000	interact041	1000												2	9		529		
+MacClone007032	SpringMachineNpc		1	npc\fbmac00206_t		173	4	5	npc\clone\clone007\ChouTi.lua	2	1	stand	1_stand	1_standfree01	standfree01	0		10000	interact041	1000												2	9		529		
+MacClone007033	SpringMachineNpc		1	npc\fbmac00184		173	4	2		-1	1	stand	1_stand	standfree01	1_standfree01	0		10000	interact041	1000												0	0				
+MacClone007034	SpringMachineNpc		1	npc\fbmac00184		173	4	2		-1	1	stand	1_stand	standfree01	1_standfree01	0	1	10000	interact041	1000												0	0				
+MacClone007036	SpringMachineNpc		1	npc\fbmac00036		173	4	3	npc\clone\clone007\dragen_machine_npc.lua	2	1	close	open	openloop	closeloop	0		10000	interact041	5000												2	5				
+MacClone007037	SpringMachineNpc		1	npc\fbmac007003		173	4	2		2	1					0		10000	interact041	5000												2	5				
+MacClone007038	SpringMachineNpc		1	npc\fbmac00036		173	4	3		2		closeloop	openloop	open	close	0			interact041	10000												2	5				
+MacClone007039	SpringMachineNpc		1	npc\fbmac00036		173	4	3		2		closeloop	openloop	open	close	0			interact041	10000												2	5				
+MacClone007040	SpringMachineNpc		1	npc\fbmac00036		173	4	3		2		closeloop	openloop	open	close	0			interact041	10000												2	5				
+MacClone007041	SpringMachineNpc		1	npc\fbmac00036		173	4	3		2		closeloop	openloop	open	close	0			interact041	10000												2	5				
+MacClone007042	SpringMachineNpc		1	npc\fbmac00036		173	4	3		2		closeloop	openloop	open	close	0			interact041	10000												2	5				
+																																					
+BlockClone007001	SpringMachineNpc		1	npc\fbmac00185		173	4	3	npc\clone\clone007\door.lua	2	1	closeloop	openloop	open	close	0		10000	interact041	5000												2	5				
+BlockClone007002	SpringMachineNpc		1	npc\fbmac00186		173	4	3	npc\clone\clone007\door.lua	2	1	closeloop	openloop	open	close	0		10000	interact041	5000												2	5				
+BlockClone007003	SpringMachineNpc		1	npc\fbmac00187		173	4	3	npc\clone\clone007\door.lua	2	1	closeloop	openloop	open	close	0		10000	interact041	5000												2	5				
+BlockClone007004	SpringMachineNpc		1	npc\fbmac00188		173	4	3	npc\clone\clone007\door.lua	2	1	closeloop	openloop	open	close	0		10000	interact041	5000												2	5				
+BlockClone007005	SpringMachineNpc		1	npc\fbmac00189		173	4	3	npc\clone\clone007\door.lua	2	1	closeloop	openloop	open	close	0		10000	interact041	5000												2	5				
+BlockClone007006	SpringMachineNpc		1	npc\fbmac00190		173	4	3	npc\clone\clone007\door.lua	2	1	closeloop	openloop	open	close	0		10000	interact041	5000												2	5				
+BlockClone007007	SpringMachineNpc		1	npc\fbmac00191		173	4	3	npc\clone\clone007\door.lua	2	1	closeloop	openloop	open	close	0		10000	interact041	5000												2	5				
+BlockClone007008	SpringMachineNpc		1	npc\fbmac00192		173	4	3	npc\clone\clone007\door.lua	2	1	closeloop	openloop	open	close	0		10000	interact041	5000												2	5				
+																																					
+BlockClone007009	SpringMachineNpc		1	npc\fbmac00193		173	4	3	npc\clone\clone007\door.lua	2	1	closeloop	openloop	open	close	0		30000	interact041	5000												2	5				
+BlockClone007010	SpringMachineNpc		1	npc\fbmac00194		173	4	3	npc\clone\clone007\door.lua	2	1	closeloop	openloop	open	close	0		30000	interact041	5000												2	5				
+BlockClone007011	SpringMachineNpc		1	npc\fbmac00195		173	4	3	npc\clone\clone007\door.lua	2	1	closeloop	openloop	open	close	0		30000	interact041	5000												2	5				
+BlockClone007012	SpringMachineNpc		1	npc\fbmac00196		173	4	3	npc\clone\clone007\door.lua	2	1	closeloop	openloop	open	close	0		30000	interact041	5000												2	5				
+BlockClone007013	SpringMachineNpc		1	npc\fbmac00197		173	4	3	npc\clone\clone007\door.lua	2	1	closeloop	openloop	open	close	0	1	30000	interact041	5000												2	5				
+BlockClone007014	SpringMachineNpc	璇玑门-地狱	1	npc\fbmac00197		173	4	3	npc\clone\clone007\door.lua	2	1	closeloop	openloop	open	close	0	1	30000	interact041	5000												2	5				
+BlockClone007015	SpringMachineNpc	玄真门地狱	1	npc\fbmac00196		173	4	3	npc\clone\clone007\door.lua	2	1	closeloop	openloop	open	close	0		30000	interact041	5000	"TaskItemClone_007021,1,0,clone007068"											2	5				
+BlockClone007016	SpringMachineNpc	璇玑门-普通、困难	1	npc\fbmac00197		173	4	3	npc\clone\clone007\door.lua	2	1	closeloop	openloop	open	close	0	1	30000	interact041	5000												2	5				
+BlockClone007017	SpringMachineNpc	剑门-普通	1	npc\fbmac00197		173	4	3		2	1	closeloop	openloop	open	close	0	1	30000	interact041	5000												2	5				
+																																					
+																																					
+																																					
+																																					
+MacClone004001	SpringMachineNpc		1	npc\fbmac004004	icon\funcnpc\fbmac00517.png	173	4	3	npc\clone\clone004\MacClone004001.lua	2		closeloop	openloop	open	close	0			interact041	5000												2	5				
+MacClone004002	SpringMachineNpc		1	npc\fbmac00036	icon\funcnpc\fbmac00036.png	173	4	3	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0			interact041	5000												2	5				
+MacClone004003	SpringMachineNpc		1	npc\fbmac00036	icon\funcnpc\fbmac00036.png	173	4	3	npc\clone\clone004\MacClone004003.lua	2	1	closeloop	openloop	open	close	0			interact041	5000												2	5				
+MacClone004004	SpringMachineNpc		1	npc\fbmac00036	icon\funcnpc\fbmac00036.png	173	4	3	npc\clone\clone004\MacClone004004.lua	2	1	closeloop	openloop	open	close	0			interact041	5000												2	5				
+MacClone004005	SpringMachineNpc		1	npc\fbmac004004	icon\funcnpc\fbmac00517.png	173	4	3	npc\clone\clone004\MacClone004005.lua	2		closeloop	openloop	open	close	0			interact041	5000												2	5				
+MacClone004006	SpringMachineNpc		1	npc\fbmac00518	icon\funcnpc\fbmac00518.png	173	4	3	npc\clone\clone004\MacClone004006.lua	2		closeloop	openloop	open	close	0			interact041	5000												2	5				
+MacClone004007	SpringMachineNpc		1	npc\fbmac00518	icon\funcnpc\fbmac00518.png	173	4	3	npc\spring_machine_npc.lua	2		closeloop	openloop	open	close	0			interact041	5000												2	5				
+MacClone004008	SpringMachineNpc		1	npc\fbmac004007	icon\funcnpc\itemnpc044.png	173	4	3	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0			interact041	5000												2	5				
+macclone004009	SpringMachineNpc		1	npc\fbmac004008	icon\funcnpc\fbmac004008png	173	4	3	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0			interact041	5000												2	5				
+macclone004011	SpringMachineNpc		1	npc\fbmac004003	icon\funcnpc\fbmac00517.png	173	4	3	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0			interact041	5000												2	5				
+macclone004012	SpringMachineNpc		1	npc\fbmac004001	icon\funcnpc\fbmac015017.png	173	4	3	npc\spring_machine_npc.lua	-1	1	closeloop	openloop	open	close	0			interact041	5000												2	5				
+macclone004013	SpringMachineNpc		1	npc\fbmac004001	icon\funcnpc\fbmac015017.png	173	4	3	npc\spring_machine_npc.lua	-1	1	closeloop	openloop	open	close	0			interact041	5000												2	5				
+macclone004014	SpringMachineNpc		1	npc\fbmac004002	icon\funcnpc\fbmac015017.png	173	4	3	npc\spring_machine_npc.lua	2	1	openloop				0			interact041	5000												2	5				
+macclone004015	SpringMachineNpc	机关	1	npc\fbmac00036	icon\funcnpc\fbmac00036.png	173	4	3	npc\clone\clone004\MacClone004015.lua	2	1	closeloop	openloop	open	close	0			interact041	5000												2	5				
+MacClone004016	SpringMachineNpc	暗影洞1	1	npc\fbmac021033	icon\funcnpc\clonedoor.png	173	4	0	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+MacClone004017	SpringMachineNpc	暗影洞2	1	npc\fbmac021033	icon\funcnpc\clonedoor.png	173	4	0	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+MacClone004018	SpringMachineNpc	暗影洞3	1	npc\fbmac021033	icon\funcnpc\clonedoor.png	173	4	0	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+MacClone004019	SpringMachineNpc	暗影洞4	1	npc\fbmac021033	icon\funcnpc\clonedoor.png	173	4	0	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+MacClone004020	SpringMachineNpc	暗影洞5	1	npc\fbmac021033	icon\funcnpc\clonedoor.png	173	4	0	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+																																					
+																																					
+																																					
+MacClone004100	SpringMachineNpc	城门	1	npc\fbmac004002	icon\funcnpc\fbmac015017.png	173	4	3	npc\clone\clone004\MacClone004100.lua	1		openloop				1	1		interact041	5000												2	5				
+BlockClone009002	SpringMachineNpc		1	npc\fbmac00243		173	4	1	npc\spring_machine_npc.lua	2	1	stand	1_stand	1_standfree01	standfree01	0			interact041	5000												2	5				
+BlockClone009003	SpringMachineNpc		1	npc\fbmac00245		173	4	3	npc\spring_machine_npc.lua	2	1			openloop	closeloop	0			interact041	5000												2	5				
+BlockClone009004	SpringMachineNpc		1	npc\fbmac00246		173	4	3	npc\spring_machine_npc.lua	2	1			openloop	closeloop	0			interact041	5000												2	5				
+BlockClone009005	SpringMachineNpc		1	npc\fbmac00248		173	4	3	npc\spring_machine_npc.lua	2	1			openloop	closeloop	0			interact041	5000												2	5				
+BlockClone009008	SpringMachineNpc		1	npc\fbmac00249		173	4	3	npc\spring_machine_npc.lua	2	1			openloop	closeloop	0			interact041	5000												2	5				
+BlockClone009009	SpringMachineNpc		1	npc\fbmac00254		173	4	3	npc\spring_machine_npc.lua	2	1			openloop	closeloop	0			interact041	5000												2	5				
+BlockClone009010	SpringMachineNpc		1	npc\fbmac00255		173	4	3	npc\spring_machine_npc.lua	2	1			openloop	closeloop	0			interact041	5000												2	5				
+macclone009001	SpringMachineNpc		1	npc\fbmac003011		173	4	3	npc\spring_machine_npc.lua	2	1																										
+macclone009003	SpringMachineNpc		1	npc\itemnpc514		163	4	1		1	1	openloop	closeloop	close	open	0																2	5				
+																																					
+																																2	5				
+BlockClone019002	SpringMachineNpc		1	npc\fbmac019011	icon\funcnpc\fbmac019011.png	173	4	5.5	npc\spring_machine_npc.lua	-1	1			open	close	1			interact041	3000												2	5				
+BlockClone019003	SpringMachineNpc		1	npc\fbmac019013	icon\funcnpc\fbmac019013.png	173	4	5.5	npc\spring_machine_npc.lua	-1	1			open	close	0			interact041	3000												2	5				
+BlockClone019004	SpringMachineNpc		1	npc\fbmac019011	icon\funcnpc\fbmac019011.png	173	4	5.5	npc\spring_machine_npc.lua	-1	1			open	close	0			interact041	3000												2	5				
+BlockClone019005	SpringMachineNpc		1	npc\fbmac019012	icon\funcnpc\fbmac019012.png	173	4	5.5	npc\spring_machine_npc.lua	-1	1			open	close	0			interact041	5000	"taskitemclone019011,1,1,16153"											2	5				
+BlockClone019011	SpringMachineNpc		1	npc\fbmac019011a		173	4	5.5	npc\spring_machine_npc.lua	-1	1			open	close	0			interact041	5000												2	5				
+BlockClone019008	SpringMachineNpc		1	npc\fbmac019011a		173	4	5.5	npc\spring_machine_npc.lua	-1	1			open	close	0			interact041	5000												2	5				
+BlockClone019009	SpringMachineNpc		1	npc\fbmac019011a	icon\funcnpc\fbmac019011.png	173	4	5.5	npc\spring_machine_npc.lua	-1	1			open	close	0			interact041	3000												2	5				
+BlockClone019010	SpringMachineNpc		1	npc\fbmac019011	icon\funcnpc\fbmac019011.png	173	4	5.5	npc\spring_machine_npc.lua	-1	1			open	close	0			interact041	3000												2	5				
+MacClone019003	SpringMachineNpc	火把	1	npc\fbmac019004	icon\funcnpc\fbmac019004.png	173	4	1.5	npc\spring_machine_npc.lua	2				open	close	0			interact041	3000												2	5				
+MacClone019013	SpringMachineNpc		1	npc\fbmac019006		173	4	2	npc\clone\clone019\spring_machine_npc.lua	2				open	close	0			interact041	2000												2	5				
+BlockClone019012	SpringMachineNpc		1	npc\fbmac019014	icon\funcnpc\fbmac019014.png	173	4	5.5	npc\spring_machine_npc.lua	-1	1			open	close	1			interact041	3000												2	5				
+BlockClone019013	SpringMachineNpc		1	npc\fbmac019022	icon\funcnpc\fbmac019022.png	173	4	5	npc\spring_machine_npc.lua	-1	1			open	close	1			interact041	3000												2	5				
+BlockClone019014	SpringMachineNpc		1	npc\fbmac019022	icon\funcnpc\fbmac019022.png	173	4	5	npc\spring_machine_npc.lua	-1	1			open	close	1			interact041	3000																	
+BlockClone019015	SpringMachineNpc		1	npc\fbmac019006		173	4	3	npc\clone\clone019\spring_machine_addbuf.lua	2				open	close	0			interact041	0												2	5				
+BlockClone019016	SpringMachineNpc		1	npc\fbmac019006		173	4	4	npc\clone\clone019\spring_machine_npc.lua	2				open	close	0			interact041	0												2	5				
+BlockClone019017	SpringMachineNpc		1	npc\fbmac019005		173	4	2	npc\clone\clone019\spring_machine_addbuf.lua	2				open	close	0			interact041	0												2	5				
+BlockClone019018	SpringMachineNpc		1	npc\fbmac019005		173	4	3	npc\clone\clone019\spring_machine_npc.lua	2				open	close	0			interact041	0												2	5				
+MacClone019022	SpringMachineNpc		1	npc\fbmac019006		173	4	4	npc\spring_machine_npc.lua	-1				open	close	0			interact041	0												2	5				
+MacClone019023	SpringMachineNpc		1	npc\fbmac019006		173	4	4	npc\spring_machine_npc.lua	-1				open	close	0			interact041	0												2	5				
+MacClone019024	SpringMachineNpc		1	npc\fbmac019006		173	4	4	npc\spring_machine_npc.lua	-1				open	close	0			interact041	0												2	5				
+MacClone019025	SpringMachineNpc	火把	1	npc\fbmac019004	icon\funcnpc\fbmac019004.png	173	4	1.5		2	1			open	close	1		2000	interact041	1000												2	5				
+MacClone019026	SpringMachineNpc	火把	1	npc\fbmac019004	icon\funcnpc\fbmac019004.png	173	4	1.5		2	1			open	close	1		2000	interact041	3000												2	5				
+MacClone019027	SpringMachineNpc	火把	1	npc\fbmac019004	icon\funcnpc\fbmac019004.png	173	4	1.5		2	1			open	close	1		2000	interact041	4000												2	5				
+MacClone019028	SpringMachineNpc	机关	1	npc\fbmac005019		173	4	1.5		2	1			open	close	0		1000	interact041	2000												2	5				
+MacClone019029	SpringMachineNpc	机关	1	npc\fbmac005019		173	4	1.5		2	1			open	close	0		1000	interact041	2000												2	5				
+MacClone019030	SpringMachineNpc	机关	1	npc\fbmac005019		173	4	1.5		2	1			open	close	0		1000	interact041	2000												2	5				
+BlockClone019019	SpringMachineNpc	布袋	1	npc\itemnpc560		173	4	5	npc\spring_machine_npc.lua	2				open	close	0			interact041	2000												2	5				
+BlockClone019080	SpringMachineNpc	机关	1	npc\fbmac019034		173	4	5	npc\spring_machine_npc.lua	2				open	close	0			interact041	2000												2	5				
+BlockClone019081	SpringMachineNpc	机关	1	npc\fbmac019034		173	4	5	npc\spring_machine_npc.lua	2				open	close	0			interact041	2000												2	5				
+BlockClone019082	SpringMachineNpc	机关	1	npc\fbmac019034		173	4	5	npc\spring_machine_npc.lua	2				open	close	0			interact041	2000												2	5				
+BlockClone019083	SpringMachineNpc	机关	1	npc\fbmac019034		173	4	5	npc\spring_machine_npc.lua	2				open	close	0			interact041	2000												2	5				
+BlockClone019084	SpringMachineNpc	牢笼	1	npc\itemnpc606		173	4	5		-1	1			open	close	0																2	5				
+																																					
+																																					
+macclone013001	SpringMachineNpc		1	npc\fbmac013001		202	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013002	SpringMachineNpc		1	npc\fbmac013002	icon\funcnpc\fbmac013002.png	202	4	20	npc\spring_machine_npc.lua	2		closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013003	SpringMachineNpc		1	npc\fbmac013003		202	4	20	npc\spring_machine_npc.lua	-1		closeloop	openloop	open	close	0		-1														0	0				
+macclone013004	SpringMachineNpc		1	npc\fbmac013004		173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013004a	SpringMachineNpc		1	npc\fbmac013004		173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013005	SpringMachineNpc		1	npc\fbmac013005		173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013006a	SpringMachineNpc		1	npc\fbmac013006a	icon\funcnpc\fbmac013006a.png	172	4	50	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013006b	SpringMachineNpc		1	npc\fbmac013006b	icon\funcnpc\fbmac013006b.png	172	4	50	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013006c	SpringMachineNpc		1	npc\fbmac013006c	icon\funcnpc\fbmac013006c.png	172	4	50	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013007	SpringMachineNpc		1	npc\fbmac013007	icon\funcnpc\fbmac013007.png	172	4	20	npc\spring_machine_npc.lua	-1	1	closeloop	openloop	open		0		-1	interact041	5000												2	5				
+macclone013008	SpringMachineNpc		1	npc\fbmac013008	icon\funcnpc\fbmac013008.png	172	4	20	npc\spring_machine_npc.lua	-1	1	closeloop	openloop	open		0		-1	interact041	5000												2	5				
+macclone013009	SpringMachineNpc		1	npc\fbmac013009	icon\funcnpc\fbmac013009.png	172	4	20	npc\spring_machine_npc.lua	-1	1	closeloop	openloop	open		0		-1	interact041	5000												2	5				
+macclone013013	SpringMachineNpc		1	npc\fbmac013013		163	4	100	npc\spring_machine_npc.lua	-1		closeloop	mac_die	mac_hurt1		0		-1														2	5				
+macclone013014	SpringMachineNpc		1	npc\fbmac013040		202	4	50	npc\spring_machine_npc.lua	-1	1					0		-1														2	5				
+macclone013016	SpringMachineNpc		1	npc\fbmac013016	icon\funcnpc\fbmac013016.png	172	4	20	npc\clone\clone013\macclone013016.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	3000												2	5				
+macclone013019a	SpringMachineNpc		1	npc\fbmac013019f		170	4	50	npc\spring_machine_npc.lua	-1	1	closeloop				0		-1														0	0				
+macclone013019b	SpringMachineNpc		1	npc\fbmac013019f		170	4	50	npc\spring_machine_npc.lua	-1	1	closeloop				0		-1														0	0				
+macclone013019c	SpringMachineNpc		1	npc\fbmac013019f		170	4	50	npc\spring_machine_npc.lua	-1	1	closeloop				0		-1														0	0				
+macclone013019d	SpringMachineNpc		1	npc\fbmac013019f		170	4	50	npc\spring_machine_npc.lua	-1	1	closeloop				0		-1														0	0				
+macclone013019e	SpringMachineNpc		1	npc\fbmac013019f		170	4	50	npc\spring_machine_npc.lua	-1	1	closeloop				0		-1														0	0				
+macclone013020	SpringMachineNpc		1	npc\fbmac013020	icon\funcnpc\fbmac013020.png	173	4	50	npc\spring_machine_npc.lua	-1		closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013021	SpringMachineNpc		1	npc\fbmac013021	icon\funcnpc\fbmac013021.png	173	4	50	npc\spring_machine_npc.lua	-1		closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013022	SpringMachineNpc		1	npc\fbmac013022	icon\funcnpc\fbmac013022.png	173	4	50	npc\spring_machine_npc.lua	-1		openloop				0		-1														2	5				
+macclone013023	SpringMachineNpc		1	npc\fbmac013023	icon\funcnpc\fbmac013023.png	173	4	50	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013024	SpringMachineNpc		1	npc\fbmac013024	icon\funcnpc\fbmac013024.png	173	4	50	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013024a	SpringMachineNpc		1	npc\fbmac013024	icon\funcnpc\fbmac013024.png	173	4	50	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013024b	SpringMachineNpc		1	npc\fbmac013024a	icon\funcnpc\fbmac013024.png	173	4	50	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013024c	SpringMachineNpc		1	npc\fbmac013024a	icon\funcnpc\fbmac013024.png	173	4	50	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013024d	SpringMachineNpc		1	npc\fbmac013024	icon\funcnpc\fbmac013024.png	173	4	50	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013026	SpringMachineNpc		1	npc\fbmac013026	icon\funcnpc\fbmac013026.png	173	4	50	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013026c	SpringMachineNpc		1	npc\fbmac013026b	icon\funcnpc\fbmac013026.png	173	4	50	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013026a	SpringMachineNpc		1	npc\fbmac013026a	icon\funcnpc\fbmac013026.png	173	4	50	npc\spring_machine_npc.lua	-1	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013026b	SpringMachineNpc		1	npc\fbmac013026a	icon\funcnpc\fbmac013026.png	173	4	50	npc\spring_machine_npc.lua	-1	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013027	SpringMachineNpc		1	npc\fbmac013027	icon\funcnpc\fbmac013027.png	173	4	50	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013027a	SpringMachineNpc		1	npc\fbmac013027a	icon\funcnpc\fbmac013027.png	173	4	50	npc\spring_machine_npc.lua	-1	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013027b	SpringMachineNpc		1	npc\fbmac013027b	icon\funcnpc\fbmac013027.png	173	4	50	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013028	SpringMachineNpc		1	npc\fbmac013028	icon\funcnpc\fbmac013028.png	173	4	50	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013028a	SpringMachineNpc		1	npc\fbmac013028	icon\funcnpc\fbmac013028.png	173	4	50	npc\spring_machine_npc.lua	-1	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013029	SpringMachineNpc		1	npc\fbmac013029	icon\funcnpc\fbmac013029.png	173	4	50	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013030	SpringMachineNpc		1	npc\fbmac013030	icon\funcnpc\fbmac013030.png	173	4	50	npc\spring_machine_npc.lua	-1	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013030a	SpringMachineNpc		1	npc\fbmac013030	icon\funcnpc\fbmac013030.png	173	4	50	npc\spring_machine_npc.lua	-1	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013030b	SpringMachineNpc		1	npc\fbmac013030	icon\funcnpc\fbmac013030.png	173	4	50	npc\spring_machine_npc.lua	-1	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013030c	SpringMachineNpc		1	npc\fbmac013030	icon\funcnpc\fbmac013030.png	173	4	50	npc\spring_machine_npc.lua	-1	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013030d	SpringMachineNpc		1	npc\fbmac013030	icon\funcnpc\fbmac013030.png	173	4	50	npc\spring_machine_npc.lua	-1	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013030e	SpringMachineNpc		1	npc\fbmac013030	icon\funcnpc\fbmac013030.png	173	4	50	npc\spring_machine_npc.lua	-1	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013030f	SpringMachineNpc		1	npc\fbmac013030	icon\funcnpc\fbmac013030.png	173	4	50	npc\spring_machine_npc.lua	-1		closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013031	SpringMachineNpc		1	npc\fbmac013031	icon\funcnpc\fbmac013031.png	173	4	50	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013032a	SpringMachineNpc		1	npc\fbmac013032a	icon\funcnpc\fbmac013032a.png	173	4	50	npc\spring_machine_npc.lua	2		closeloop				0		-1	interact041													2	5				
+macclone013032b	SpringMachineNpc		1	npc\fbmac013032b	icon\funcnpc\fbmac013032b.png	173	4	50	npc\spring_machine_npc.lua	-1		closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013032c	SpringMachineNpc		1	npc\fbmac013032c	icon\funcnpc\fbmac013032c.png	173	4	50	npc\spring_machine_npc.lua	-1		closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013032d	SpringMachineNpc		1	npc\fbmac013032d	icon\funcnpc\fbmac013032d.png	173	4	50	npc\spring_machine_npc.lua	-1		closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013032e	SpringMachineNpc		1	npc\fbmac013032e	icon\funcnpc\fbmac013032e.png	173	4	50	npc\spring_machine_npc.lua	-1		closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013032f	SpringMachineNpc		1	npc\fbmac013032f	icon\funcnpc\fbmac013032f.png	173	4	50	npc\spring_machine_npc.lua	-1		closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013032g	SpringMachineNpc		1	npc\fbmac013032g	icon\funcnpc\fbmac013032g.png	173	4	50	npc\spring_machine_npc.lua	2		closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013032h	SpringMachineNpc		1	npc\fbmac013032h	icon\funcnpc\fbmac013032h.png	173	4	50	npc\spring_machine_npc.lua	2		closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013032i	SpringMachineNpc		1	npc\fbmac013032i	icon\funcnpc\fbmac013032i.png	173	4	50	npc\spring_machine_npc.lua	2		closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013032j	SpringMachineNpc		1	npc\fbmac013032j	icon\funcnpc\fbmac013032j.png	173	4	50	npc\spring_machine_npc.lua	2		closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013033	SpringMachineNpc		1	npc\fbmac013033		173	4	50	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013033a	SpringMachineNpc		1	npc\fbmac013033		173	4	50	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013034	SpringMachineNpc		1	npc\fbmac013034		173	4	50	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013035	SpringMachineNpc		1	npc\fbmac013035	icon\funcnpc\fbmac013035.png	173	4	50	npc\spring_machine_npc.lua	-1		closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013035a	SpringMachineNpc		1	npc\fbmac013035	icon\funcnpc\fbmac013035.png	173	4	50	npc\spring_machine_npc.lua	-1		closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013036	SpringMachineNpc		1	npc\fbmac013036		173	4	5	npc\spring_machine_npc.lua	2		closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013037	SpringMachineNpc		1	npc\fbmac013037		173	4	50	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013037a	SpringMachineNpc		1	npc\fbmac013037		173	4	50	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	5000												2	5				
+macclone013051	SpringMachineNpc		1	npc\fbmac013039a	icon\funcnpc\fbmac013039a.png	601	4	5	npc\clone\clone013\Book.lua	2	1	closeloop	openloop	open	close	0		10000	interact041	1000												2	9				
+macclone013052	SpringMachineNpc		1	npc\fbmac013039b	icon\funcnpc\fbmac013039b.png	601	4	5	npc\clone\clone013\Book.lua	2	1	closeloop	openloop	open	close	0		10000	interact041	1000												2	9				
+macclone013053	SpringMachineNpc		1	npc\fbmac013039c	icon\funcnpc\fbmac013039c.png	601	4	5	npc\clone\clone013\Book.lua	2	1	closeloop	openloop	open	close	0		10000	interact041	1000												2	9				
+macclone013054	SpringMachineNpc		1	npc\fbmac013039d	icon\funcnpc\fbmac013039d.png	601	4	5	npc\clone\clone013\Book.lua	2	1	closeloop	openloop	open	close	0		10000	interact041	1000												2	9				
+macclone013055	SpringMachineNpc		1	npc\fbmac013039e	icon\funcnpc\fbmac013039e.png	601	4	5	npc\clone\clone013\Book.lua	2	1	closeloop	openloop	open	close	0		10000	interact041	1000												2	9				
+macclone013056	SpringMachineNpc		1	npc\fbmac013039f	icon\funcnpc\fbmac013039f.png	601	4	5	npc\clone\clone013\Book.lua	2	1	closeloop	openloop	open	close	0		10000	interact041	1000												2	9				
+macclone013057	SpringMachineNpc		1	npc\fbmac013039g	icon\funcnpc\fbmac013039g.png	601	4	5	npc\clone\clone013\Book.lua	2	1	closeloop	openloop	open	close	0		10000	interact041	1000												2	9				
+macclone013058	SpringMachineNpc		1	npc\fbmac013039h	icon\funcnpc\fbmac013039h.png	601	4	5	npc\clone\clone013\Book.lua	2	1	closeloop	openloop	open	close	0		10000	interact041	1000												2	9				
+macclone013059	SpringMachineNpc		1	npc\fbmac013039i	icon\funcnpc\fbmac013039i.png	601	4	5	npc\clone\clone013\Book.lua	2	1	closeloop	openloop	open	close	0		10000	interact041	1000												2	9				
+macclone013060	SpringMachineNpc		1	npc\fbmac013039j	icon\funcnpc\fbmac013039j.png	601	4	5	npc\clone\clone013\Book.lua	2	1	closeloop	openloop	open	close	0		10000	interact041	1000												2	9				
+funnpcclone013012	SpringMachineNpc		1	npc\fbfunnpc00241a		202	4	5	npc\spring_machine_npc.lua	-1						0		10000	interact041	1000												2	9				
+npcclone013005ca	SpringMachineNpc		1	npc\monster134a		202	4	5	npc\spring_machine_npc.lua	-1						0		10000	interact041	1000												2	9				
+npcclone013006ca	SpringMachineNpc		1	npc\monster258a		202	4	5	npc\spring_machine_npc.lua	-1						0		10000	interact041	1000												2	9				
+npcclone013007a	SpringMachineNpc		1	npc\monster072a		202	4	5	npc\spring_machine_npc.lua	-1						0		10000	interact041	1000												2	9				
+npcclone013008a	SpringMachineNpc		1	npc\monster246a		202	4	5	npc\spring_machine_npc.lua	-1						0		10000	interact041	1000												2	9				
+npcclone013009a	SpringMachineNpc		1	npc\monster058a		202	4	5	npc\spring_machine_npc.lua	-1						0		10000	interact041	1000												2	9				
+npcclone013010a	SpringMachineNpc		1	npc\worldnpc246a		202	4	5	npc\spring_machine_npc.lua	-1						0		10000	interact041	1000												2	9				
+																																					
+																																					
+																																					
+																																					
+																																					
+MacClone015001	SpringMachineNpc		1	npc\fbmac00528		173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0	0	-1	interact041	5000																	
+MacClone015002	SpringMachineNpc		1	npc\fbmac00528		173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0	0	-1	interact041	5000																	
+MacClone015003	SpringMachineNpc		1	npc\fbmac00528		173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0	0	-1	interact041	5000																	
+MacClone015004	SpringMachineNpc		1	npc\fbmac00528		173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0	0	-1	interact041	5000																	
+MacClone015005	SpringMachineNpc		1	npc\fbmac00528		173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0	0	-1	interact041	5000																	
+MacClone015006	SpringMachineNpc		1	npc\fbmac00528		173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0	0	-1	interact041	5000																	
+MacClone015007	SpringMachineNpc		1	npc\fbmac00528		173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0	0	-1	interact041	5000																	
+MacClone015008	SpringMachineNpc		1	npc\fbmac00528		173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0	0	-1	interact041	5000																	
+MacClone015009	SpringMachineNpc		1	npc\fbmac00511		173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0	0	-1	interact041	5000																	
+MacClone015010	SpringMachineNpc		1	npc\fbmac00511		173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0	0	-1	interact041	5000																	
+MacClone015011	SpringMachineNpc		1	npc\fbmac00511		173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0	0	-1	interact041	5000																	
+MacClone015012	SpringMachineNpc		1	npc\fbmac00511		173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0	0	-1	interact041	5000																	
+MacClone015013	SpringMachineNpc		1	npc\fbmac00511		173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0	0	-1	interact041	5000																	
+MacClone015014	SpringMachineNpc		1	npc\fbmac00511		173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0	0	-1	interact041	5000																	
+MacClone015015	SpringMachineNpc		1	npc\fbmac015017	icon\funcnpc\fbmac015017.png	173	4	5	npc\clone\clone015\macclone015015.lua	2		closeloop	openloop	open	close	0	0	-1	interact041	5000												2	5				
+MacClone015016	SpringMachineNpc		1	npc\fbmac015018	icon\funcnpc\fbmac015017.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0	0	-1	interact041	5000																	
+MacClone015017	SpringMachineNpc		1	npc\fbmac015019		173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0	0	-1	interact041	5000																	
+MacClone015018	SpringMachineNpc		1	npc\fbmac00195		173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0	0	-1	interact041	5000																	
+MacClone015019	SpringMachineNpc		1	npc\fbmac015020		173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0	0	-1	interact041	5000																	
+MacClone015020	SpringMachineNpc		1	npc\fbmac015018		173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0	0	-1	interact041	5000																	
+MacClone015021	SpringMachineNpc		1	npc\fbmac015019		173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0	0	-1	interact041	5000																	
+																																					
+MacClone015281	SpringMachineNpc		1	npc\fbmac00528		173	4	5	npc\clone\clone015\MacClone015281_spring_npc.lua	2	1	closeloop	openloop	open	close	0	0	-1	interact041	2000												2	2				
+MacClone021001	SpringMachineNpc		1	npc\fbmac021020	icon\funcnpc\clonedoor.png	173	4	5		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												2	5				
+MacClone021002	SpringMachineNpc		1	npc\fbmac021021	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0	0	-1	interact041	2000												2	5				
+MacClone021003	SpringMachineNpc		1	npc\fbmac021022	icon\funcnpc\clonedoor.png	173	4	4		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												2	5				
+MacClone021102	SpringMachineNpc		1	npc\fbmac021023	icon\funcnpc\clonedoor.png	173	4	5		2	1	closeloop	openloop	open	close	0	0	-1	interact041	2000												2	5				
+MacClone021004	SpringMachineNpc		1	npc\fbmac021033	icon\funcnpc\clonedoor.png	173	4	5		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												2	5				
+MacClone021005	SpringMachineNpc		1	npc\fbmac021034	icon\funcnpc\clonedoor.png	173	4	3		2		closeloop	openloop	open	close	0	1	-1	interact041	2000												2	5				
+MacClone021007	SpringMachineNpc		1	npc\fbmac021033	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+MacClone021008	SpringMachineNpc		1	npc\fbmac00012	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+MacClone021009	SpringMachineNpc		1	npc\fbmac003026	icon\funcnpc\clonedoor.png	173	4	5																													
+Macclone021021	FlyNpc		1	npc\fbmac021025	icon\funcnpc\clonedoor.png	48	4	5																													
+Macclone021022	FlyNpc		1	npc\fbmac021025	icon\funcnpc\clonedoor.png	48	4	5																													
+Macclone021023	FlyNpc		1	npc\fbmac021025	icon\funcnpc\clonedoor.png	48	4	5																													
+Macclone021024	FlyNpc		1	npc\fbmac021025	icon\funcnpc\clonedoor.png	48	4	5																													
+Macclone021211	SpringMachineNpc		1	npc\fbmac021011	icon\funcnpc\clonedoor.png	202	4	5	npc\clone\clone021\Macclone021211.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021212	SpringMachineNpc		1	npc\fbmac021011	icon\funcnpc\clonedoor.png	202	4	5	npc\clone\clone021\Macclone021211.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021213	SpringMachineNpc		1	npc\fbmac021011	icon\funcnpc\clonedoor.png	202	4	5	npc\clone\clone021\Macclone021211.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021214	SpringMachineNpc		1	npc\fbmac021011	icon\funcnpc\clonedoor.png	202	4	5	npc\clone\clone021\Macclone021211.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021215	SpringMachineNpc		1	npc\fbmac021011	icon\funcnpc\clonedoor.png	202	4	5	npc\clone\clone021\Macclone021211.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021216	SpringMachineNpc		1	npc\fbmac021011	icon\funcnpc\clonedoor.png	202	4	5	npc\clone\clone021\Macclone021211.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021217	SpringMachineNpc		1	npc\fbmac021011	icon\funcnpc\clonedoor.png	202	4	5	npc\clone\clone021\Macclone021211.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021218	SpringMachineNpc		1	npc\fbmac021011	icon\funcnpc\clonedoor.png	202	4	5	npc\clone\clone021\Macclone021211.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021219	SpringMachineNpc		1	npc\fbmac021011	icon\funcnpc\clonedoor.png	202	4	5	npc\clone\clone021\Macclone021211.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021047	SpringMachineNpc		1	npc\fbmac021001	icon\funcnpc\clonedoor.png	173	4	5		2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021048	SpringMachineNpc		1	npc\fbmac021001	icon\funcnpc\clonedoor.png	173	4	5		2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021049	SpringMachineNpc		1	npc\fbmac021001	icon\funcnpc\clonedoor.png	173	4	5		2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021050	SpringMachineNpc		1	npc\fbmac021001	icon\funcnpc\clonedoor.png	173	4	5		2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021051	SpringMachineNpc		1	npc\fbmac021001	icon\funcnpc\clonedoor.png	173	4	5		2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021052	SpringMachineNpc		1	npc\fbmac021001	icon\funcnpc\clonedoor.png	173	4	5		2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021053	SpringMachineNpc		1	npc\fbmac021001	icon\funcnpc\clonedoor.png	173	4	5		2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021054	SpringMachineNpc		1	npc\fbmac021001	icon\funcnpc\clonedoor.png	173	4	5		2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+MacClone021131	SpringMachineNpc	灯柱1	1	npc\fbmac021001		173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		0	interact041	2000												2	5				
+MacClone021132	SpringMachineNpc	灯柱2	1	npc\fbmac021001		173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		1	interact041	2000												2	5				
+MacClone021133	SpringMachineNpc	灯柱3	1	npc\fbmac021001		173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		2	interact041	2000												2	5				
+MacClone021134	SpringMachineNpc	灯柱4	1	npc\fbmac021001		173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		3	interact041	2000												2	5				
+MacClone021135	SpringMachineNpc	灯柱5	1	npc\fbmac021001		173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		4	interact041	2000												2	5				
+MacClone021136	SpringMachineNpc	灯柱6	1	npc\fbmac021001		173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		5	interact041	2000												2	5				
+MacClone021137	SpringMachineNpc	灯柱7	1	npc\fbmac021001		173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		6	interact041	2000												2	5				
+MacClone021138	SpringMachineNpc	灯柱8	1	npc\fbmac021001		173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7	interact041	2000												2	5				
+MacClone021139	SpringMachineNpc	灯柱9	1	npc\fbmac021001		173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		8	interact041	2000												2	5				
+Macclone021101	SpringMachineNpc		1	npc\fbmac021055	icon\funcnpc\clonedoor.png	173	4	2		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												2	5				
+Macclone021103	SpringMachineNpc		1	npc\fbmac021076	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000	"useitemclone013003,1,1,16425"											2	5				
+Macclone021104	SpringMachineNpc		1	npc\fbmac021036	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000	"useitemclone013003,1,1,16423"											2	5				
+Macclone021105	SpringMachineNpc		1	npc\fbmac021036	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												2	5				
+Macclone021106	SpringMachineNpc		1	npc\fbmac021034	icon\funcnpc\clonedoor.png	173	4	6		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												2	5				
+Macclone021107	SpringMachineNpc		1	npc\fbmac021033	icon\funcnpc\clonedoor.png	173	4	5		2		closeloop	openloop	open	close	0	1	-1	interact041	2000												2	5				
+Macclone021108	SpringMachineNpc		1	npc\fbmac021033	icon\funcnpc\clonedoor.png	173	4	5		2		closeloop	openloop	open	close	0	1	-1	interact041	2000												2	5				
+Macclone021109	SpringMachineNpc		1	npc\fbmac021033	icon\funcnpc\clonedoor.png	173	4	5		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												2	5				
+Macclone021110	SpringMachineNpc		1	npc\fbmac021033	icon\funcnpc\clonedoor.png	173	4	5		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												2	5				
+Macclone021111	SpringMachineNpc		1	npc\itemnpc517	icon\funcnpc\clonedoor.png	173	4	5		2	1	closeloop	openloop	open	close	0	0	-1	interact041	2000	"useitemclone021019,1,1,16391"											2	5				
+Macclone021112	SpringMachineNpc		1	npc\fbmac021055	icon\funcnpc\clonedoor.png	173	4	5		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												2	5				
+Macclone021071	SpringMachineNpc		1	npc\fbmac00521	icon\funcnpc\clonedoor.png	173	4	5	npc\clone\clone021\Macclone021071.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	9				
+Macclone021072	SpringMachineNpc		1	npc\fbmac00521	icon\funcnpc\clonedoor.png	173	4	5	npc\clone\clone021\Macclone021071.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	9				
+Macclone021073	SpringMachineNpc		1	npc\fbmac00521	icon\funcnpc\clonedoor.png	173	4	5	npc\clone\clone021\Macclone021071.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	9				
+Macclone021074	SpringMachineNpc		1	npc\fbmac00521	icon\funcnpc\clonedoor.png	173	4	5	npc\clone\clone021\Macclone021071.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	9				
+Macclone021075	SpringMachineNpc		1	npc\fbmac00521	icon\funcnpc\clonedoor.png	173	4	5	npc\clone\clone021\Macclone021071.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	9				
+Macclone021076	SpringMachineNpc		1	npc\fbmac00521	icon\funcnpc\clonedoor.png	173	4	5	npc\clone\clone021\Macclone021071.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	9				
+Macclone021077	SpringMachineNpc		1	npc\fbmac00521	icon\funcnpc\clonedoor.png	173	4	5	npc\clone\clone021\Macclone021071.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	9				
+Macclone021078	SpringMachineNpc		1	npc\fbmac00521	icon\funcnpc\clonedoor.png	173	4	5	npc\clone\clone021\Macclone021071.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	9				
+Macclone021079	SpringMachineNpc		1	npc\fbmac00521	icon\funcnpc\clonedoor.png	173	4	5	npc\clone\clone021\Macclone021071.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	9				
+Macclone021080	SpringMachineNpc		1	npc\itemnpc517	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021081	SpringMachineNpc		1	npc\fbmac021041	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021125	SpringMachineNpc		1	npc\fbmac021047	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021082	SpringMachineNpc		1	npc\fbmac021042	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												0	5				
+Macclone021083	SpringMachineNpc		1	npc\fbmac021043	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021084	SpringMachineNpc		1	npc\fbmac021045	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021085	SpringMachineNpc		1	npc\fbmac021046	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												0	5				
+Macclone021086	SpringMachineNpc		1	npc\fbmac021047	icon\funcnpc\clonedoor.png	173	4	5		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												2	5				
+Macclone021087	SpringMachineNpc		1	npc\fbmac021050	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021088	SpringMachineNpc		1	npc\fbmac021051	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												0	5				
+Macclone021089	SpringMachineNpc		1	npc\fbmac021052	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021090	SpringMachineNpc		1	npc\fbmac021053	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												2	5				
+Macclone021091	SpringMachineNpc		1	npc\fbmac021054	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												0	5				
+Macclone021092	SpringMachineNpc		1	npc\fbmac021055	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												2	5				
+Macclone021093	SpringMachineNpc		1	npc\fbmac021056	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												0	5				
+Macclone021094	SpringMachineNpc		1	npc\fbmac021056a	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												0	5				
+Macclone021095	SpringMachineNpc		1	npc\fbmac013030	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021096	SpringMachineNpc		1	npc\fbmac021061	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021097	SpringMachineNpc		1	npc\fbmac021063	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021098	SpringMachineNpc		1	npc\fbmac021064	icon\funcnpc\clonedoor.png	173	4	5		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												2	5				
+Macclone021099	SpringMachineNpc		1	npc\fbmac021065	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021113	SpringMachineNpc		1	npc\fbmac021033	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021114	SpringMachineNpc		1	npc\fbmac021034	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021115	SpringMachineNpc		1	npc\fbmac021035	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021116	SpringMachineNpc		1	npc\fbmac021036	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021117	SpringMachineNpc		1	npc\fbmac021037	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												2	5				
+Macclone021118	SpringMachineNpc		1	npc\fbmac021038	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												0	5				
+Macclone021119	SpringMachineNpc		1	npc\fbmac021034	icon\funcnpc\clonedoor.png	173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												2	5				
+Macclone021120	SpringMachineNpc		1	npc\fbmac021033	icon\funcnpc\clonedoor.png	173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												2	5				
+Macclone021121	SpringMachineNpc		1	npc\fbmac021034	icon\funcnpc\clonedoor.png	173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												2	5				
+Macclone021123	SpringMachineNpc		1	npc\fbmac021036	icon\funcnpc\clonedoor.png	173	4	5		2	1	openloop	openloop	open	close	0	1	-1	interact041	2000												2	5				
+Macclone021511	SpringMachineNpc		1	npc\itemnpc517	icon\funcnpc\clonedoor.png	173	4	5		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000	"useitemclone021019_a,1,1,16391"											2	5				
+																																					
+																																					
+																																					
+																																					
+																																					
+																																					
+																																					
+	//杏子林																																				
+Macclone011010	SpringMachineNpc		1	npc\fbmac013023	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	2000												0	9				
+Macclone011011	SpringMachineNpc		1	npc\npcitem167	icon\prop\prop326.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		20000	interact041	2000												0	9				
+Macclone011012	SpringMachineNpc		1	npc\fbmac002011		173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1														0					
+Macclone011013	SpringMachineNpc		1	npc\fbmac002011		173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1														0					
+Macclone011014	SpringMachineNpc		1	npc\fbmac002011		173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1														0					
+Macclone011015	SpringMachineNpc		1	npc\fbmac002011		173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1														0					
+Macclone011016	SpringMachineNpc		1	npc\fbmac002011		173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		-1														0					
+	//奇遇																																				
+qy_yd_shiti	SpringMachineNpc		1	npc\monster500a		202	4	5	npc\spring_machine_npc.lua	-1						0		10000	interact041	1000												2	0				
+qy_111030_junzitang_jiguanmen	SpringMachineNpc		1	npc\fbmac021033		173	4	5	Adventure\junzitang\qy_jzt_jiguanmen.lua	2	1	closeloop	openloop	open	close	0	1	-1	interact042	2000												2	5				
+jieyujiguan002	SpringMachineNpc	机关门2		npc\fbmac002011	icon\funcnpc\fbmac013045.png	173	4	30	npc\spring_machine_npc.lua	-1	0	closeloop	openloop	open		0																0					
+jieyujiguan003	SpringMachineNpc	劫狱门1		npc\fbmac002011	icon\funcnpc\fbmac013045.png	173	4	0	npc\spring_machine_npc.lua	-1	0	closeloop	openloop	open		0																0					
+jieyujiguan004	SpringMachineNpc	劫狱门2		npc\fbmac002011	icon\funcnpc\fbmac013045.png	173	4	0	npc\spring_machine_npc.lua	-1	1	openloop	closeloop	close		0																0					
+jieyujiguan005	SpringMachineNpc	劫狱门3		npc\fbmac002011	icon\funcnpc\fbmac013045.png	173	4	0	npc\spring_machine_npc.lua	-1	1	closeloop	openloop	open		0																0					
+jieyujiguan006	SpringMachineNpc	劫狱门4		npc\fbmac002011	icon\funcnpc\fbmac013045.png	173	4	30	npc\spring_machine_npc.lua	-1	1	openloop	closeloop	close		0																0					
+jieyudiban001	SpringMachineNpc	劫狱地板1		npc\itemnpc642		173	4	1	npc\spring_machine_npc.lua	-1			openloop	open		1															0	0					
+jieyudiban002	SpringMachineNpc	劫狱地板2		npc\itemnpc642		173	4	0.5	npc\clone\clone001\macclone001010.lua	1	1					0																0					
+jieyudiban003	SpringMachineNpc	劫狱地板3		npc\itemnpc642		173	4	0.5	npc\clone\clone001\macclone001010.lua	1	1					0																0					
+jieyudiban004	SpringMachineNpc	劫狱地板4		npc\itemnpc642		173	4	0.5	npc\clone\clone001\macclone001010.lua	1	1					0																0					
+jieyudiban005	SpringMachineNpc	劫狱地板5		npc\itemnpc642		173	4	0.5	npc\clone\clone001\macclone001010.lua	-1						0																0					
+jieyudiban006	SpringMachineNpc	劫狱地板6		npc\itemnpc642		173	4	0.5	npc\spring_machine_npc.lua	-1			openloop	open		0																0					
+jieyudiban007	SpringMachineNpc	劫狱地板7		npc\itemnpc642		173	4	0.5	npc\spring_machine_npc.lua	-1			openloop	open		0																0					
+jieyudiban008	SpringMachineNpc	劫狱地板8		npc\itemnpc642		173	4	0.5	npc\spring_machine_npc.lua	-1			openloop	open		0																0					
+jieyudiban009	SpringMachineNpc	劫狱地板9		npc\itemnpc642		173	4	0.5	npc\spring_machine_npc.lua	-1																						0					
+qy_yanjing_jian1	SpringMachineNpc		1	npc\itemnpc644	icon\funcnpc\clonedoor.png	173	4	2	Adventure\yanjing\qy_yanjing_jian.lua	2	1	openloop	closeloop			0			interact041	2000	"key_yanjing_jgty,1,0,15007"											2	5				
+qy_yanjing_jian2	SpringMachineNpc		1	npc\itemnpc645	icon\funcnpc\clonedoor.png	173	4	2	Adventure\yanjing\qy_yanjing_jian.lua	2	1	openloop	closeloop			0			interact041	2000	"key_yanjing_jgty,1,0,15007"											2	5				
+qy_yanjing_jian3	SpringMachineNpc		1	npc\itemnpc646	icon\funcnpc\clonedoor.png	173	4	2	Adventure\yanjing\qy_yanjing_jian.lua	2	1	openloop	closeloop			0			interact041	2000	"key_yanjing_jgty,1,0,15007"											2	5				
+qy_yanjing_jian4	SpringMachineNpc		1	npc\itemnpc647	icon\funcnpc\clonedoor.png	173	4	2	Adventure\yanjing\qy_yanjing_jian.lua	2	1	openloop	closeloop			0			interact041	2000	"key_yanjing_jgty,1,0,15007"											2	5				
+qy_yanjing_szj	SpringMachineNpc		1	npc\itemnpc648	icon\funcnpc\clonedoor.png	173	4	2	Adventure\yanjing\qy_yanjing_szj.lua	2	1	closeloop	openloop	open	close	0			interact041	2000	"key_yanjing_jgty,1,0,15007"											2	5				
+mac_qy_qdz_001	SpringMachineNpc	麻袋		npc\itemnpc560	icon\funcnpc\task.png	173	4	2	Adventure\qdz\mac_qy_qdz_001.lua	2	1					0		10000	interact041	2000												2	5				
+mac_qy_swgj_jiguan	SpringMachineNpc	木门	1	npc\fbmac013045	icon\funcnpc\fbmac013045.png	173	4	50	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		60	interact041	5000												2	5				
+Doorprison01	SpringMachineNpc			npc\itemnpc057k		173	4	0.5	npc\clone\prison01\prison01_chuansongmen.lua	1	1																					0					
+mac_qy_swgj_deng	SpringMachineNpc		1	npc\fbmac021035	icon\funcnpc\clonedoor.png	173	4	5	Adventure\sbdm\mac_qy_swgj_deng.lua	2	1	closeloop	openloop	open	close	1		6000	interact041	2000												2	5				
+jieyujiguan001	SpringMachineNpc	劫狱门1		npc\fbmac002011	icon\funcnpc\fbmac013045.png	173	4	100		-1	0	openloop	closeloop	close		0																0					
+BlockClone009014	SpringMachineNpc		1	npc\fbmac00036		173	4	3	npc\clone\clone009\BlockClone009014.lua	2	1			openloop	closeloop	0			interact041	1000												2	5				
+mac_qy_lmkz_010	SpringMachineNpc	罗盘		npc\fbmac013040		173	4	2	npc\clone\clone002\mac_qy_lmkz_010.lua	1	0	closeloop	openloop	open	close	1		20000														2					
+mac_qy_tm_door	SpringMachineNpc	木门	1	npc\fbmac013045	icon\funcnpc\fbmac013045.png	173	4	50	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		60	interact041	5000												0					
+mac_qy_tm_lamp	SpringMachineNpc	灯	1	npc\fbmac021035	icon\funcnpc\clonedoor.png	173	4	5	Adventure\tm\mac_qy_tm_lamp.lua	2	1	closeloop	openloop	open	close	1		6000	interact041	2000												2	5				
+macclone009201	SpringMachineNpc	吊环	1	npc\fbmac013002	icon\funcnpc\fbmac013002.png	202	4	20		2		closeloop	openloop	open	close	0		-1	interact041	0												2	5				
+macclone009202	SpringMachineNpc	吊环	1	npc\fbmac013002	icon\funcnpc\fbmac013002.png	202	4	20		2		closeloop	openloop	open	close	0		-1	interact041	0												2	5				
+macclone009203	SpringMachineNpc	吊环	1	npc\fbmac013002	icon\funcnpc\fbmac013002.png	202	4	20		2		closeloop	openloop	open	close	0		-1	interact041	0												2	5				
+macclone009204	SpringMachineNpc	吊环	1	npc\fbmac013002	icon\funcnpc\fbmac013002.png	202	4	20		2		closeloop	openloop	open	close	0		-1	interact041	0												2	5				
+tsxjl_guizi	SpringMachineNpc	木柜	1	npc\fbmac002012	icon\funcnpc\door.png	173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	1		10000	interact041	2000												2	5				
+tsxjl_cankumen	SpringMachineNpc	石门	1	npc\itemnpc678	icon\funcnpc\door.png	173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	1		5000	interact041	3000	"key_tsxjl_01,1,0,15007"											2	5				
+tsxjl_baokumen	SpringMachineNpc	石门	1	npc\itemnpc678	icon\funcnpc\door.png	173	4	0		2	1	closeloop	openloop	open	close	1		15000	interact041	3000												0	0				
+tsxjl_jianyumen	SpringMachineNpc	石门	1	npc\itemnpc678	icon\funcnpc\door.png	173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	1		5000	interact041	3000	"key_tsxjl_03,1,0,15007"											2	5				
+tsxjl_kongzhi01	SpringMachineNpc	控制器1	1	npc\fbmac002018	icon\funcnpc\fbmac002018.png	173	4	3	npc\baoku_kongzhi_npc.lua	2	1	closeloop	openloop	open	close	1		15000	interact041	2000												2	5				
+tsxjl_kongzhi02	SpringMachineNpc	控制器2	1	npc\fbmac00036	icon\funcnpc\fbmac00036.png	173	4	5	npc\baoku_kongzhi_npc.lua	2	1	closeloop	openloop	open	close	1		15000	interact041	3000												2	5				
+task_digong_sz	SpringMachineNpc	石门	1	npc\itemnpc678	icon\funcnpc\door.png	173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	1		3000	interact041	2000												2	5				
+tsxjl_foxiang	SpringMachineNpc	佛像	1	npc\itemnpc072	icon\funcnpc\door.png	173	4	0		2	1	closeloop	openloop	open	close	1		15000	interact041	3000												0	0				
+tsxjl_jiguanmen01	SpringMachineNpc	L型门	1	npc\itemnpc676	icon\funcnpc\door.png	173	4	0	npc\npc_jiguanmen01.lua	-1	0					0																2	0				
+tsxjl_jiguanmen02	SpringMachineNpc	左右门	1	npc\itemnpc677	icon\funcnpc\door.png	173	4	0	npc\npc_jiguanmen02.lua	-1	0					0																2	0				
+BlockClone009023	SpringMachineNpc		1	npc\itemnpc703		173	4	3		2	1			openloop	closeloop	0			interact041	5000												2	5				
+BlockClone009024	SpringMachineNpc		1	npc\itemnpc704		173	4	3		2	1			openloop	closeloop	0			interact041	5000												2	5				
+BlockClone009025	SpringMachineNpc		1	npc\itemnpc704		173	4	3		2	1			openloop	closeloop	0			interact041	5000												2	5				
+BlockClone009026	SpringMachineNpc		1	npc\itemnpc704		173	4	3		2	1			openloop	closeloop	0			interact041	5000												2	5				
+BlockClone009027	SpringMachineNpc		1	npc\itemnpc704		173	4	3		2	1			openloop	closeloop	0			interact041	5000												2	5				
+BlockClone009028	SpringMachineNpc		1	npc\itemnpc704		173	4	3		2	1			openloop	closeloop	0			interact041	5000												2	5				
+BlockClone009029	SpringMachineNpc		1	npc\itemnpc704		173	4	3		2	1			openloop	closeloop	0			interact041	5000												2	5				
+BlockClone009030	SpringMachineNpc		1	npc\itemnpc703		173	4	3		2	1			openloop	closeloop	0			interact041	5000												2	5				
+BlockClone009031	SpringMachineNpc		1	npc\itemnpc703		173	4	3		2	1			openloop	closeloop	0			interact041	5000												2	5				
+BlockClone009032	SpringMachineNpc		1	npc\itemnpc703		173	4	3		2	1			openloop	closeloop	0			interact041	5000												2	5				
+BlockClone009033	SpringMachineNpc		1	npc\itemnpc703		173	4	3		2	1			openloop	closeloop	0			interact041	5000												2	5				
+BlockClone009034	SpringMachineNpc		1	npc\itemnpc703		173	4	3		2	1			openloop	closeloop	0			interact041	5000												2	5				
+BlockClone009035	SpringMachineNpc		1	npc\itemnpc703		173	4	3		2	1			openloop	closeloop	0			interact041	5000												2	5				
+BlockClone009037	SpringMachineNpc		1	npc\itemnpc703		173	4	3		2	1			openloop	closeloop	0			interact041	5000												2	5				
+BlockClone009038	SpringMachineNpc		1	npc\itemnpc703		173	4	3		2	1			openloop	closeloop	0			interact041	5000												2	5				
+BlockClone009039	SpringMachineNpc		1	npc\itemnpc703		173	4	3		2	1			openloop	closeloop	0			interact041	5000												2	5				
+BlockClone009040	SpringMachineNpc		1	npc\itemnpc703		173	4	3		2	1			openloop	closeloop	0			interact041	5000												2	5				
+BlockClone009041	SpringMachineNpc		1	npc\itemnpc703		173	4	3		2	1			openloop	closeloop	0			interact041	5000												2	5				
+BlockClone009042	SpringMachineNpc		1	npc\itemnpc703		173	4	3		2	1			openloop	closeloop	0			interact041	5000												2	5				
+BlockClone009043	SpringMachineNpc		1	npc\itemnpc703		173	4	3		2	1			openloop	closeloop	0			interact041	5000												2	5				
+BlockClone009036	SpringMachineNpc		1	npc\itemnpc704		173	4	3		2	1			openloop	closeloop	0			interact041	5000												2	5				
+BlockClone009044	SpringMachineNpc		1	npc\itemnpc703		173	4	3		2	1			openloop	closeloop	0			interact041	5000												2	5				
+BlockClone009045	SpringMachineNpc		1	npc\itemnpc703		173	4	3		2	1			openloop	closeloop	0			interact041	5000												2	5				
+BlockClone009046	SpringMachineNpc		1	npc\itemnpc704		173	4	3		2	1			openloop	closeloop	0			interact041	5000												2	5				
+BlockClone009047	SpringMachineNpc		1	npc\itemnpc704		173	4	3		2	1			openloop	closeloop	0			interact041	5000												2	5				
+BlockClone009048	SpringMachineNpc		1	npc\itemnpc704a		173	4	3		2	1			openloop	closeloop	0			interact041	5000												2	5				
+																																					
+MacBorn003005	SpringMachineNpc		1	npc\itemnpc057	icon\funcnpc\clonedoor.png	164	4	2		2	1	close	open	openloop	closeloop	0		10000	interact041	5000												0	0				
+																																					
+Mac_cwqy_monkeyrescue	SpringMachineNpc		1	npc\itemnpc606	icon\funcnpc\clonedoor.png	173	4	2		2	1	closeloop	openloop	open	close	0			interact041	10000												2	5				
+jieyujiguan001_1	SpringMachineNpc	劫狱门1		npc\fbmac002011	icon\funcnpc\fbmac013045.png	173	4	100		-1	0	closeloop	closeloop	close		0																0					
+jieyujiguan002_1	SpringMachineNpc	机关门2		npc\fbmac002011	icon\funcnpc\fbmac013045.png	173	4	30	npc\spring_machine_npc.lua	-1	0	openloop	openloop	open		0																0					
+jieyujiguan003_1	SpringMachineNpc	劫狱门1		npc\fbmac002011	icon\funcnpc\fbmac013045.png	173	4	0	npc\spring_machine_npc.lua	-1	0	openloop	openloop	open		0																0					
+jieyujiguan004_1	SpringMachineNpc	劫狱门2		npc\fbmac002011	icon\funcnpc\fbmac013045.png	173	4	0	npc\spring_machine_npc.lua	-1	1	closeloop	closeloop	close		0																0					
+jieyujiguan005_1	SpringMachineNpc	劫狱门3		npc\fbmac002011	icon\funcnpc\fbmac013045.png	173	4	0	npc\spring_machine_npc.lua	-1	1	openloop	openloop	open		0																0					
+jieyujiguan006_1	SpringMachineNpc	劫狱门4		npc\fbmac002011	icon\funcnpc\fbmac013045.png	173	4	30	npc\spring_machine_npc.lua	-1	1	closeloop	closeloop	close		0																0					
+																																					
+	//移花宫门派讨伐																																				
+yhgtaofa_jiguan1	SpringMachineNpc	移花宫门派讨伐-机关1	1	npc\fbmac00036	icon\funcnpc\fbmac00036.png	173	4	1		2	0	openloop	closeloop	close	open	0			interact041	10000												2	9				
+yhgtaofa_jiguan2	SpringMachineNpc	移花宫门派讨伐-机关2	1	npc\fbmac00036	icon\funcnpc\fbmac00036.png	173	4	1		2	0	openloop	closeloop	close	open	0			interact041	10000												2	9				
+yhgtaofa_jiguan3	SpringMachineNpc	移花宫门派讨伐-机关3	1	npc\fbmac00036	icon\funcnpc\fbmac00036.png	173	4	1		2	0	openloop	closeloop	close	open	0			interact041	10000												2	9				
+yhgtaofa_jiguan4	SpringMachineNpc	移花宫门派讨伐-机关假	1	npc\fbmac00036	icon\funcnpc\fbmac00036.png	173	4	1		2	0	openloop	closeloop	close	open	1		2000	interact041	5000												2	9				
+																																					
+Door_szwe0101	SpringMachineNpc		1	npc\fbmac021036	icon\funcnpc\clonedoor.png	173	4	5	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000	"useitemclone013999,1,1,19814"											2	5				
+																																					
+																																					
+		//快活岛																																			
+MacDoor_khd_001	SpringMachineNpc		1	npc\fbmac00251		173	4	2	npc\spring_machine_npc.lua	2	1	stand	1_standfree01	1_standfree01	standfree01	0	0	-1	interact041	5000												2	5				
+																																					
+		//快活岛禁地																																			
+MacDoor_clone031_001	SpringMachineNpc	屏风	1	npc\fbmac031003		173	4	2	npc\spring_machine_npc.lua	2	0	closeloop	openloop	open	close	0			interact041	2000												2	5				
+MacDoor_clone031_002	SpringMachineNpc	大门密室大门·平	1	npc\fbmac031001		173	4	2		2	0	closeloop																				2	5				
+MacDoor_clone031_003	SpringMachineNpc	密室大门·圆	1	npc\fbmac031002		173	4	2	npc\spring_machine_npc.lua	2	0	closeloop	openloop	open	close	0			interact041	2000												2	5				
+																																					
+		//五内大侠养成																																			
+5nei_zy_dxyc_door	SpringMachineNpc	普通牢房门	1	npc\fbmac00516	icon\funcnpc\fbmac00517.png	173	4	3	npc\spring_machine_npc.lua	2	1	close	open	openloop	closeloop	0			interact041	2000	"item_5nei_zy_dxyc_tyc,1,0,15007"											2	5				
+5nei_zy_dxyc_door1	SpringMachineNpc	特殊牢房门	1	npc\fbmac00516	icon\funcnpc\fbmac00517.png	173	4	3	npc\spring_machine_npc.lua	2	1	close	open	openloop	closeloop	0			interact041	2000	"item_5nei_zy_dxyc_htyc,1,0,15007"											2	5				
+5nei_zy_dxyc_door2	SpringMachineNpc	特殊牢房门	1	npc\fbmac00516	icon\funcnpc\fbmac00517.png	173	4	3		2	1					0																2	5				
+5nei_zy_dxyc_am	SpringMachineNpc	地牢暗门	1	npc\fbmac002013		173	4	2		-1	1	closeloop	openloop	open	close	0			interact041	0												2					
+Npc_5neijz_57035n_03	SpringMachineNpc		1	npc\fbmac019011a		173	4	2	npc\spring_machine_npc.lua	2	0			open	close	0		-1	interact041	4000												2	5				
+																																					
+		//楼兰密窟_正道																																			
+mac_loulan_001	SpringMachineNpc	地刺机关	1	npc\itemnpc1357		173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000												2	5				
+mac_loulan_002	SpringMachineNpc	地刺机关	1	npc\itemnpc1357		173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000												2	5				
+mac_loulan_003	SpringMachineNpc	地刺机关	1	npc\itemnpc1357		173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000												2	5				
+mac_loulan_004	SpringMachineNpc	地刺机关	1	npc\itemnpc1357		173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000												2	5				
+mac_loulan_005	SpringMachineNpc	2区域机关门	1	npc\itemnpc1359		173	4	2	npc\spring_machine_npc.lua	2	0	closeloop	openloop	open	close	0		7200000	interact041		"wuxbsb,1,1,llmkdoor"											2	5				
+mac_loulan_006	SpringMachineNpc	6区域机关门	1	npc\itemnpc1359		173	4	2	npc\spring_machine_npc.lua	2	0	closeloop	openloop	open	close	0		7200000	interact041	3000	"item_llmk_001,1,1,llmkdoor"											2	5				
+mac_loulan_007	SpringMachineNpc	4区域机石门	1	npc\itemnpc1359		173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041		"wuxbsb,1,1,llmkdoor"											2	5				
+mac_loulan_008	SpringMachineNpc	区域4机关	1	npc\itemnpc1357		173	4	2	npc\spring_machine_npc.lua	2	0	closeloop	openloop	open	close	0		7200000	interact041	3000												2	5				
+mac_loulan_009	SpringMachineNpc	区域6机关	1	npc\itemnpc1357		173	4	2	npc\spring_machine_npc.lua	2	0	closeloop	openloop	open	close	0		7200000	interact041	3000												2	5				
+mac_loulan_010	SpringMachineNpc	8区域机关门	1	npc\itemnpc1359		173	4	2	npc\spring_machine_npc.lua	2	0	closeloop	openloop	open	close	0		7200000	interact041		"wuxbsb,1,1,llmkdoor"											2	5				
+mac_loulan_011	SpringMachineNpc	7区域机关门-1	1	npc\itemnpc1359		173	4	2	npc\spring_machine_npc.lua	2	0	closeloop	openloop	open	close	0		7200000	interact041		"wuxbsb,1,1,llmkdoor"											2	5				
+mac_loulan_012	SpringMachineNpc	7区域机关门-2	1	npc\itemnpc1359		173	4	2	npc\spring_machine_npc.lua	2	0	closeloop	openloop	open	close	0		7200000	interact041		"wuxbsb,1,1,llmkdoor"											2	5				
+																																					
+		//楼兰密窟-邪道																																			
+mac_loulan_001_a	SpringMachineNpc	地刺机关	1	npc\itemnpc1357		173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000												2	5				
+mac_loulan_002_a	SpringMachineNpc	地刺机关	1	npc\itemnpc1357		173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000												2	5				
+mac_loulan_003_a	SpringMachineNpc	地刺机关	1	npc\itemnpc1357		173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000												2	5				
+mac_loulan_004_a	SpringMachineNpc	地刺机关	1	npc\itemnpc1357		173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000												2	5				
+mac_loulan_005_a	SpringMachineNpc	2区域机关门	1	npc\itemnpc1359		173	4	2	npc\spring_machine_npc.lua	2	0	closeloop	openloop	open	close	0		7200000	interact041		"wuxbsb,1,1,llmkdoor"											2	5				
+mac_loulan_006_a	SpringMachineNpc	6区域机关门	1	npc\itemnpc1359		173	4	2	npc\spring_machine_npc.lua	2	0	closeloop	openloop	open	close	0		7200000	interact041	3000	"item_llmk_001,1,1,llmkdoor"											2	5				
+mac_loulan_007_a	SpringMachineNpc	4区域机石门	1	npc\itemnpc1359		173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041		"wuxbsb,1,1,llmkdoor"											2	5				
+mac_loulan_008_a	SpringMachineNpc	区域4机关	1	npc\itemnpc1357		173	4	2	npc\spring_machine_npc.lua	2	0	closeloop	openloop	open	close	0		7200000	interact041	3000												2	5				
+mac_loulan_009_a	SpringMachineNpc	区域6机关	1	npc\itemnpc1357		173	4	2	npc\spring_machine_npc.lua	2	0	closeloop	openloop	open	close	0		7200000	interact041	3000												2	5				
+mac_loulan_010_a	SpringMachineNpc	8区域机关门	1	npc\itemnpc1359		173	4	2	npc\spring_machine_npc.lua	2	0	closeloop	openloop	open	close	0		7200000	interact041		"wuxbsb,1,1,llmkdoor"											2	5				
+mac_loulan_011_a	SpringMachineNpc	7区域机关门-1	1	npc\itemnpc1359		173	4	2	npc\spring_machine_npc.lua	2	0	closeloop	openloop	open	close	0		7200000	interact041		"wuxbsb,1,1,llmkdoor"											2	5				
+mac_loulan_012_a	SpringMachineNpc	7区域机关门-2	1	npc\itemnpc1359		173	4	2	npc\spring_machine_npc.lua	2	0	closeloop	openloop	open	close	0		7200000	interact041		"wuxbsb,1,1,llmkdoor"											2	5				
+																																					
+		//北原无名洞																																			
+mac_beiyuan_wmd_001	SpringMachineNpc	区域2-3石门	1	npc\itemnpc1359		173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000	"wuxbsb,1,1,llmkdoor"											2	5				
+mac_beiyuan_wmd_002_a	SpringMachineNpc	机关壁画	1	npc\itemnpc1022		173	4	6	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000												2	5				
+mac_beiyuan_wmd_002_b	SpringMachineNpc	机关壁画	1	npc\itemnpc1023		173	4	6	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000												2	5				
+mac_beiyuan_wmd_002_c	SpringMachineNpc	机关壁画	1	npc\itemnpc1024		173	4	6	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000												2	5				
+mac_beiyuan_wmd_002_d	SpringMachineNpc	机关壁画	1	npc\itemnpc1025		173	4	6	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000												2	5				
+mac_beiyuan_wmd_003	SpringMachineNpc	区域3-4石门	1	npc\itemnpc1359		173	4	2	npc\spring_machine_npc.lua	2	0	closeloop	openloop	open	close	0		7200000	interact041	3000	"item_wmd_006,1,1,llmkdoor"											2	5				
+mac_beiyuan_wmd_004	SpringMachineNpc	床	1	npc\itemnpc929		173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041		"wuxbsb,1,1,llmkdoor"											2	5				
+mac_beiyuan_wmd_005	SpringMachineNpc	升降梯	1	npc\npcitem788		173	4	2	npc\spring_machine_npc.lua	2	0	closeloop	openloop	open	close	0		7200000	interact041		"wuxbsb,1,1,llmkdoor"											2	5				
+																																					
+mac_gmzd_001	SpringMachineNpc	棺材	1	npc\itemnpc_mj002		173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	1000	"wuxbsb,1,1,llmkdoor"											2	5				
+mac_gmzd_001_a	SpringMachineNpc	棺材	1	npc\itemnpc_mj002		173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	1000												2	5				
+																																					
+mac_gmxd_001	SpringMachineNpc	棺材	1	npc\itemnpc_mj002		173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	1000	"wuxbsb,1,1,llmkdoor"											2	5				
+mac_gmxd_001_a	SpringMachineNpc	棺材	1	npc\itemnpc_mj002		173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	1000												2	5				
+																																					
+mac_ssg_001	SpringMachineNpc	假箱子	1	npc\itemnpc591		173	4	2	npc\spring_machine_npc.lua	2	1	stand	closeloop	close	stand	0		7200000	interact041	3000												2	28				
+mac_ssg_002	SpringMachineNpc	石门	1	npc\itemnpc1359		173	4	2	npc\spring_machine_npc.lua	2	0	closeloop	openloop	open	close	0		7200000	interact041	3000	"wuxbsb,1,1,llmkdoor"											2	5				
+																																					
+mac_nmp_gmpwb_016	SpringMachineNpc	碎裂地表	1	npc\npcitem842		173	4	3	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000	wuxb																
+mac_nmp_gmpwb_017	SpringMachineNpc	碎裂地表	1	npc\npcitem843		173	4	3	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000	wuxb																
+mac_nmp_gmpwb_018	SpringMachineNpc	碎裂地表	1	npc\npcitem844		173	4	3	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000	wuxb																
+mac_nmp_gmpwb_019	SpringMachineNpc	碎裂地表	1	npc\npcitem845		173	4	3	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000	wuxb																
+mac_nmp_gmpwb_020	SpringMachineNpc	碎裂地表	1	npc\npcitem846		173	4	3	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000	wuxb																
+mac_nmp_gmpwb_021	SpringMachineNpc	碎裂地表	1	npc\npcitem847		173	4	3	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000	wuxb																
+mac_nmp_gmpwb_022	SpringMachineNpc	碎裂地表	1	npc\npcitem848		173	4	3	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000	wuxb																
+mac_nmp_gmpwb_023	SpringMachineNpc	碎裂地表	1	npc\npcitem849		173	4	3	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000	wuxb																
+mac_nmp_gmpwb_024	SpringMachineNpc	碎裂地表	1	npc\npcitem850		173	4	3	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000	wuxb																
+mac_nmp_gmpwb_025	SpringMachineNpc	碎裂地表	1	npc\npcitem851		173	4	3	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000	wuxb																
+																																					
+mac_nmp_gmpwb_a_016	SpringMachineNpc	碎裂地表	1	npc\npcitem842		173	4	3	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000	wuxb																
+mac_nmp_gmpwb_a_017	SpringMachineNpc	碎裂地表	1	npc\npcitem843		173	4	3	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000	wuxb																
+mac_nmp_gmpwb_a_018	SpringMachineNpc	碎裂地表	1	npc\npcitem844		173	4	3	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000	wuxb																
+mac_nmp_gmpwb_a_019	SpringMachineNpc	碎裂地表	1	npc\npcitem845		173	4	3	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000	wuxb																
+mac_nmp_gmpwb_a_020	SpringMachineNpc	碎裂地表	1	npc\npcitem846		173	4	3	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000	wuxb																
+mac_nmp_gmpwb_a_021	SpringMachineNpc	碎裂地表	1	npc\npcitem847		173	4	3	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000	wuxb																
+mac_nmp_gmpwb_a_022	SpringMachineNpc	碎裂地表	1	npc\npcitem848		173	4	3	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000	wuxb																
+mac_nmp_gmpwb_a_023	SpringMachineNpc	碎裂地表	1	npc\npcitem849		173	4	3	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000	wuxb																
+mac_nmp_gmpwb_a_024	SpringMachineNpc	碎裂地表	1	npc\npcitem850		173	4	3	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000	wuxb																
+mac_nmp_gmpwb_a_025	SpringMachineNpc	碎裂地表	1	npc\npcitem851		173	4	3	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	0		7200000	interact041	3000	wuxb																
+																																					
+mac_nmp_gmpwb_026	SpringMachineNpc	刷挂吓人箱	1	npc\itemnpc591		173	4	2	npc\spring_machine_npc.lua	2	1	stand	closeloop	close	stand	0		7200000	interact041	3000	"item_nmp_gmpwb_012,1,1,llmkdoor"																
+																																					
+mac_gmp_hd_02_01	SpringMachineNpc	地刺机关	1	npc\itemnpc1357		173	4	2	npc\spring_machine_npc.lua	2		closeloop	openloop	open	close	0		7200000	interact041	3000												2	5				
+mac_gmp_hd_02_02	SpringMachineNpc	地刺机关	1	npc\itemnpc1357		173	4	2	npc\spring_machine_npc.lua	2		closeloop	openloop	open	close	0		7200000	interact041	3000												2	5				
+mac_gmp_hd_02_03	SpringMachineNpc	地刺机关	1	npc\itemnpc1357		173	4	2	npc\spring_machine_npc.lua	2		closeloop	openloop	open	close	0		7200000	interact041	3000												2	5				
+																																					
+mac_gmp_zyb_01	SpringMachineNpc	坟墓NPC	1	npc\fbmac00036	icon\funcnpc\fbmac013023.png	173	4	2	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	1		10000	interact161	10000												2	5				
+																																					
+		//神水宫水下迷宫门																																			
+mac_npc_shenshui_01	SpringMachineNpc	神水宫水门1	1	npc\fbmac00516	icon\funcnpc\fbmac00517.png	173	4	3	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	1		60000	interact041	3000	"item_shenshui_km01,1,1,info_shenshui_km01"											2	5				
+mac_npc_shenshui_02	SpringMachineNpc	神水宫水门2	1	npc\fbmac00516	icon\funcnpc\fbmac00517.png	173	4	3	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	1		60000	interact041	3000	"item_shenshui_km02,1,1,info_shenshui_km01"											2	5				
+mac_npc_shenshui_03	SpringMachineNpc	神水宫水门3	1	npc\fbmac00516	icon\funcnpc\fbmac00517.png	173	4	3	npc\spring_machine_npc.lua	2	1	closeloop	openloop	open	close	1		60000	interact041	3000	"item_shenshui_km03,1,1,info_shenshui_km01"											2	5				
+																																					
+		//跨服帮会战																																			
+GuildWar_kuafu_mflag_001	SpringMachineNpc	得分旗帜	1	npc\itemnpc1502		173	4	2	npc\spring_machine_npc.lua	2	1					1		60000	interact041	15000												2	5				
+GuildWar_kuafu_mflag_002	SpringMachineNpc	灯柱1	1	npc\itemnpc1370		173	4	2	npc\spring_machine_npc.lua	2	1					1		60000	interact041	15000												2	5				
+GuildWar_kuafu_mflag_003	SpringMachineNpc	灯柱1	1	npc\itemnpc615		173	4	2	npc\spring_machine_npc.lua	2	1					1		60000	interact041	15000												2	5				
+GuildWar_kuafu_mflag_004	SpringMachineNpc	灯柱1	1	npc\itemnpc780		173	4	2	npc\spring_machine_npc.lua	2	1					1		60000	interact041	15000												2	5				
+GuildWar_kuafu_mflag_005	SpringMachineNpc	灯柱1	1	npc\itemnpc782		173	4	2	npc\spring_machine_npc.lua	2	1					1		60000	interact041	15000												2	5				
+GuildWar_kuafu_mflag_006	SpringMachineNpc	小旗帜	1	npc\itemnpc615a		173	4	2	npc\spring_machine_npc.lua	2	1					1		60000	interact041	5000												2	5				
+GuildWar_kuafu_mflag_007	SpringMachineNpc	小旗帜	1	npc\itemnpc615a		173	4	2	npc\spring_machine_npc.lua	2	1					1		60000	interact041	5000												2	5				
+GuildWar_kuafu_mflag_008	SpringMachineNpc	小旗帜	1	npc\itemnpc615b		173	4	2	npc\spring_machine_npc.lua	2	1					1		60000	interact041	5000												2	5				
+GuildWar_kuafu_mflag_009	SpringMachineNpc	小旗帜	1	npc\itemnpc615c		173	4	2	npc\spring_machine_npc.lua	2	1					1		60000	interact041	5000												2	5				
+GuildWar_kuafu_mflag_010	SpringMachineNpc	小旗帜	1	npc\itemnpc615d		173	4	2	npc\spring_machine_npc.lua	2	1					1		60000	interact041	5000												2	5				
+																																					
+mac_newworldnpc_xkd_01	SpringMachineNpc	石壁1	1	npc\itemnpc667		173	4	1.2	npc\spring_machine_npc.lua	2	1					1		60000	interact024	10000												2	28				
+mac_newworldnpc_xkd_02	SpringMachineNpc	石壁2	1	npc\itemnpc667		173	4	1.2	npc\spring_machine_npc.lua	2	1					1		60000	interact024	10000												2	28				
+mac_newworldnpc_xkd_03	SpringMachineNpc	石壁3	1	npc\itemnpc667		173	4	1.2	npc\spring_machine_npc.lua	2	1					1		60000	interact024	10000												2	28				
+mac_newworldnpc_xkd_04	SpringMachineNpc	蒲团	1	npc\putuan04		173	4	2	npc\spring_machine_npc.lua	2						1		60000	interact041	5000												2	28				
+																																					
+newworld_xkdnpc_065	SpringMachineNpc	宝箱木	1	npc\itemnpc586		173	4	2	npc\spring_machine_npc.lua	2						1		60000	interact041	10000												2	5				
+newworld_xkdnpc_066	SpringMachineNpc	宝箱金	1	npc\itemboxnpc003_yunbiao		173	4	2	npc\spring_machine_npc.lua	2						1		60000	interact041	10000												2	5				
+newworld_xkdnpc_067	SpringMachineNpc	宝箱玄铁	1	npc\itemnpc591a		173	4	2	npc\spring_machine_npc.lua	2						1		60000	interact041	10000												2	5				
+																																					
+MacClone034_xuanji_001	SpringMachineNpc	天隐谷玄机堡机关门	1	npc\fbmac00519		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	5000												0	5				"1.2,0.84,1"
+																																					
+																																					
+																																					
+	//外域入侵																																				
+wyrq_MachineNpc_001	SpringMachineNpc	草药	1	npc\cj_106012a2		173	3	2	npc\spring_machine_npc.lua	2						0		-1	interact041	3000												2	28				
+wyrq_MachineNpc_001_1	SpringMachineNpc	尸体	1	npc\fbmac019028a		173	3	2	npc\spring_machine_npc.lua	2						0		-1	interact041	3000												2	28				
+wyrq_MachineNpc_001_2	SpringMachineNpc	佩剑	1	npc\itemnpc205		173	3	2	npc\spring_machine_npc.lua	2						0		-1	interact041	3000												2	28				
+wyrq_MachineNpc_002	SpringMachineNpc	痕迹	1	npc\itemnpc162		173	3	2	npc\spring_machine_npc.lua	2						0		-1	interact041	3000												2	28				
+wyrq_MachineNpc_002_1	SpringMachineNpc	报信地点	1	npc\itemnpc057_shyb005		173	3	2	npc\spring_machine_npc.lua	2						0		-1	interact041	3000												2	28				
+wyrq_MachineNpc_002_2	SpringMachineNpc	放箭地点	1	npc\itemnpc057_shyb005		173	3	2	npc\spring_machine_npc.lua	2						0		-1	interact041	3000												2	28				
+wyrq_MachineNpc_003	SpringMachineNpc	尸体	1	npc\fbmac019028a		173	3	2	npc\spring_machine_npc.lua	2						0		-1	interact041	10000												2	28				
+wyrq_MachineNpc_003_1	SpringMachineNpc	画桌	1	npc\itemnpc1204		173	3	2	npc\spring_machine_npc.lua	2						0		-1	interact041	3000												2	28				
+wyrq_MachineNpc_003_2	SpringMachineNpc	中原堂主	1	npc\monster043		173	3	2	npc\spring_machine_npc.lua	2						0		-1	interact041	3000												2	28				
+wyrq_MachineNpc_004	SpringMachineNpc	丹药桌	1	npc\bag_wnhg02		173	3	2	npc\spring_machine_npc.lua	2						0		-1	interact041	3000												2	28				
+wyrq_MachineNpc_004_1	SpringMachineNpc	心法口诀	1	npc\bag_wnhg01		173	3	2	npc\spring_machine_npc.lua	2						0		-1	interact041	3000												2	28				
+wyrq_MachineNpc_004_2	SpringMachineNpc	外域小弟	1	npc\monster290		173	3	2	npc\spring_machine_npc.lua	2						0		-1	interact041	3000												2	28				
+wyrq_MachineNpc_005	SpringMachineNpc	哨戒	1	npc\itemnpc725		173	3	2	npc\spring_machine_npc.lua	2						0		-1	interact041	3000												2	28				
+wyrq_MachineNpc_005_1	SpringMachineNpc	井	1	npc\itemnpc182		173	3	2	npc\spring_machine_npc.lua	2						0		-1	interact041	3000												2	28				
+wyrq_MachineNpc_005_2	SpringMachineNpc	宝箱	1	npc\bag_wnhg02		173	3	2	npc\spring_machine_npc.lua	2						0		-1	interact041	10000												2	28				
+wyrq_MachineNpc_006	SpringMachineNpc	村民	1	npc\worldnpc110		173	3	2	npc\spring_machine_npc.lua	2						0		-1	interact041	3000												2	28				
+wyrq_MachineNpc_006_1	SpringMachineNpc	外域堂主	1	npc\monster266		173	3	2	npc\spring_machine_npc.lua	2						0		-1	interact041	3000												2	28				
+wyrq_MachineNpc_006_2	SpringMachineNpc	外域小弟	1	npc\monster290		173	3	2	npc\spring_machine_npc.lua	2						0		-1	interact041	3000												2	28				
+wyrq_MachineNpc_007	SpringMachineNpc	放哨地点	1	npc\itemnpc057_shyb005		173	3	2	npc\spring_machine_npc.lua	2						0		-1	interact041	3000												2	28				
+wyrq_MachineNpc_007_1	SpringMachineNpc	兽皮宝箱	1	npc\bag_wnhg02		173	3	2	npc\spring_machine_npc.lua	2						0		-1	interact041	3000												2	28				
+wyrq_MachineNpc_007_2	SpringMachineNpc	下毒地点	1	npc\itemnpc057_shyb005		173	3	2	npc\spring_machine_npc.lua	2						0		-1	interact041	3000												2	28				
+wyrq_MachineNpc_008	SpringMachineNpc	空白地点	1	npc\itemnpc057_shyb005		173	3	2	npc\spring_machine_npc.lua	2						0		-1	interact041	3000												2	28				
+wyrq_MachineNpc_008_1	SpringMachineNpc	空白地点	1	npc\itemnpc057_shyb005		173	3	2	npc\spring_machine_npc.lua	2						0		-1	interact041	10000												2	28				
+wyrq_MachineNpc_008_2	SpringMachineNpc	空白地点	1	npc\itemnpc057_shyb005		173	3	2	npc\spring_machine_npc.lua	2						0		-1	interact041	3000												2	28				
+																																					
+																																					
+	//通天峰																																				
+MacTower_star001	SpringMachineNpc	星位机关1	1	npc\fbmac031012_01		173	4	3		2	1	closeloop				0	0	-1	interact041	2000												2	5				
+MacTower_star002	SpringMachineNpc	星位机关2	1	npc\fbmac031012_01		173	4	3		2	1	closeloop				0	0	-1	interact041	2000												2	5				
+MacTower_star003	SpringMachineNpc	星位机关3	1	npc\fbmac031012_01		173	4	3		2	1	closeloop				0	0	-1	interact041	2000												2	5				
+MacTower_star004	SpringMachineNpc	星位机关4	1	npc\fbmac031012_01		173	4	3		2	1	closeloop				0	0	-1	interact041	2000												2	5				
+MacTower_star005	SpringMachineNpc	星位机关5	1	npc\fbmac031012_01		173	4	3		2	1	closeloop				0	0	-1	interact041	2000												2	5				
+MacTower_star006	SpringMachineNpc	星位机关6	1	npc\fbmac031012_01		173	4	3		2	1	closeloop				0	0	-1	interact041	2000												2	5				
+MacTower_star007	SpringMachineNpc	星位机关7	1	npc\fbmac031012_01		173	4	3		2	1	closeloop				0	0	-1	interact041	2000												2	5				
+MacTower_star008	SpringMachineNpc	星位机关8	1	npc\fbmac031012_01		173	4	3		2	1	closeloop				0	0	-1	interact041	2000												2	5				
+MacTower_star009	SpringMachineNpc	星位机关9	1	npc\fbmac031012_01		173	4	3		2	1	closeloop				0	0	-1	interact041	2000												2	5				
+MacTower_star010	SpringMachineNpc	星位机关10	1	npc\fbmac031012_01		173	4	3		2	1	closeloop				0	0	-1	interact041	2000												2	5				
+MacTower_star011	SpringMachineNpc	星位机关11	1	npc\fbmac031012_01		173	4	3		2	1	closeloop				0	0	-1	interact041	2000												2	5				
+MacTower_star000	SpringMachineNpc	星位机关空	1	npc\fbmac031012_01		173	4	3		2	1	closeloop				0	0	-1	interact041	2000												2	5				
+MacTower_ri	SpringMachineNpc	太阳	1	npc\fbmac031012_03		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												0	0				
+MacTower_yue	SpringMachineNpc	月亮	1	npc\fbmac031012_04		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												0	0				
+MacTower_diqiu	SpringMachineNpc	地球	1	npc\fbmac031012_05		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												0	0				
+MacTower_qiao1	SpringMachineNpc	桥1	1	npc\fbmac031012_13		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												0	0				
+MacTower_qiao2	SpringMachineNpc	桥2	1	npc\fbmac031012_13		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												0	0				
+MacTower_niulang	SpringMachineNpc	牛郎	1	npc\fbmac031012_11		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												0	0				
+MacTower_zhinv	SpringMachineNpc	织女	1	npc\fbmac031012_12		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												0	0				
+MacTower_wenqu	SpringMachineNpc	文曲	1	npc\fbmac031012_21		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												0	0				
+MacTower_si	SpringMachineNpc	死	1	npc\fbmac031012_02		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												0	0				
+MacTower_yaoguang	SpringMachineNpc	摇光	1	npc\fbmac031012_14		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												0	0				
+MacTower_kaiyang	SpringMachineNpc	开阳	1	npc\fbmac031012_15		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												0	0				
+MacTower_yuheng	SpringMachineNpc	玉衡	1	npc\fbmac031012_16		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												0	0				
+MacTower_tianquan	SpringMachineNpc	天权	1	npc\fbmac031012_17		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												0	0				
+MacTower_tianji	SpringMachineNpc	天玑	1	npc\fbmac031012_18		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												0	0				
+MacTower_tianxuan	SpringMachineNpc	天璇	1	npc\fbmac031012_19		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												0	0				
+MacTower_tianshu	SpringMachineNpc	天枢	1	npc\fbmac031012_20		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												0	0				
+MacTower_kong1	SpringMachineNpc	空石板	1	npc\fbmac031012_01		173	4	3		2	1	closeloop	openloop	open	close	0	1	-1	interact041	2000												0	0				
+																																					
+MacClone038_lastdoor	SpringMachineNpc	鬼城最终机关门	1	npc\fbmac_gc01		173	4	3		2	0	closeloop	openloop	open	close	0	1	-1	interact002	2000												0	0				"1.2,1.2,1.2"
+																																					
+mac_npc_lzy_cbtdrwf_zpjg001	SpringMachineNpc	机关	1	npc\itemnpc1357		173	4	2	npc\spring_machine_npc.lua	2		closeloop	openloop	open	close	0		-1	interact041	3000												2	5				
+mac_npc_lzy_cbtdrwf_zpjg002	SpringMachineNpc	机关	1	npc\itemnpc1357		173	4	2	npc\spring_machine_npc.lua	2		closeloop	openloop	open	close	0		-1	interact041	3000												2	5				
+mac_npc_lzy_cbtdrwf_zpjg003	SpringMachineNpc	机关	1	npc\itemnpc1357		173	4	2	npc\spring_machine_npc.lua	2		closeloop	openloop	open	close	0		-1	interact041	3000												2	5				
+mac_npc_lzy_cbtdrwf_zpjg004	SpringMachineNpc	机关	1	npc\itemnpc1357		173	4	2	npc\spring_machine_npc.lua	2		closeloop	openloop	open	close	0		-1	interact041	3000												2	5				
+																																					
+		//新龙门客栈																																			
+macclone002033_x	SpringMachineNpc	金怀玉厨房机关	1	npc\fbmac002018	icon\funcnpc\fbmac002018.png	173	4	2		2		closeloop	openloop	open	close	0		10000	interact041	0												2	5				
+																																					
+																																					
+		//201988主线第二章																																			
+sljg_201988_01	SpringMachineNpc	控制器	1	npc\fbmac00036	icon\funcnpc\fbmac00036.png	163	4	5		2	1	closeloop	openloop	open	close	0			interact041	3000												2	5				
+sljg_201988_02	SpringMachineNpc	控制器	1	npc\fbmac00036	icon\funcnpc\fbmac00036.png	163	4	5		2	1	closeloop	openloop	open	close	0			interact041	3000												2	5				
+sljg_201988_03	SpringMachineNpc	控制器	1	npc\fbmac00036	icon\funcnpc\fbmac00036.png	163	4	5		2	1	closeloop	openloop	open	close	0			interact041	3000												2	5				
+sljg_201988_04	SpringMachineNpc	控制器	1	npc\fbmac00036	icon\funcnpc\fbmac00036.png	163	4	5		2	1	closeloop	openloop	open	close	0			interact041	3000												2	5				
+sljg_201988_05	SpringMachineNpc	控制器	1	npc\fbmac00036	icon\funcnpc\fbmac00036.png	163	4	5		2	1	closeloop	openloop	open	close	0			interact041	3000												2	5				
+sljg_201988_06	SpringMachineNpc	控制器	1	npc\fbmac00036	icon\funcnpc\fbmac00036.png	163	4	5		2	1	closeloop	openloop	open	close	0			interact041	3000												2	5				
+sljg_201988_07	SpringMachineNpc	控制器	1	npc\fbmac00036	icon\funcnpc\fbmac00036.png	163	4	5		2	1	closeloop	openloop	open	close	0			interact041	3000												2	5				
+sljg_201988_08	SpringMachineNpc	控制器	1	npc\fbmac00036	icon\funcnpc\fbmac00036.png	163	4	5		2	1	closeloop	openloop	open	close	0			interact041	3000												2	5				
+sljg_201988_09	SpringMachineNpc	控制器	1	npc\fbmac00036	icon\funcnpc\fbmac00036.png	163	4	5		2	1	closeloop	openloop	open	close	0			interact041	3000												2	5				
+sljg_201988_10	SpringMachineNpc	石门	1	npc\itemnpc1359		173	4	2		-1	1	closeloop	openloop	open	close	0																2	5				
+sljg_201988_11	SpringMachineNpc	机关门2		npc\fbmac002011	icon\funcnpc\fbmac013045.png	173	4	5		-1	1	openloop	closeloop	close	open	0			interact041	3000												2	5				
+sljg_201988_12	SpringMachineNpc	机关门2		npc\fbmac002011	icon\funcnpc\fbmac013045.png	173	4	5		-1	1	closeloop	openloop	open	close	0			interact041	3000												2	5				
+																																					
+Mac_20250220hd_lzy001	SpringMachineNpc	笼子1	1	npc\itemnpc606	icon\funcnpc\clonedoor.png	173	4	2		-1		closeloop	openloop	open	close	0			interact041	10000												0	0				
+Mac_20250220hd_lzy002	SpringMachineNpc	笼子2	1	npc\itemnpc606	icon\funcnpc\clonedoor.png	173	4	2		-1		closeloop	openloop	open	close	0			interact041	10000												0	0				
+Mac_20250220hd_lzy003	SpringMachineNpc	笼子3	1	npc\itemnpc606	icon\funcnpc\clonedoor.png	173	4	2		-1		openloop	openloop	open	close	0			interact041	10000												0	0				

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="1AE7C9E349C94DB397182592CB86C903" x="951.664" y="29.913" z="915.847" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1" SubSceneNo="8984">
+            <item No="1" id="Gather_qynew_dy_01" ay="3.956" amount="1" refreshtime="5" NotPositive="0" desc="线索">
+                <position x="955.479" z="916.997" ay="3.956" />
+            </item>
+        </creator>
+        <creator No="1AE7C9E349C94DB397182592CB86C903" x="673.704" y="-35.233" z="1038.938" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="71008" TaskSubType="2"  HateLink="1">
+            <item No="1" id="Gather_qynew_dy_02" ay="3.956" amount="1" refreshtime="5" NotPositive="0" desc="线索">
+                <position x="673.704" z="1038.938" ay="-0.523" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="348FD48434FD421CAFE1F180A22F584D" x="635.452" y="17.859" z="382.620" radius="3.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather_bs001" sx="0.540" sy="0.650" sz="0.517" ay="4.110" amount="1" refreshtime="5" NotPositive="0" desc="酒坛堆">
+                <position x="635.662" z="381.364" sx="0.540" sy="0.650" sz="0.517" ay="4.110" />
+            </item>
+        </creator>
+        <creator No="5591CCB5FD4849F9A924F299A073FA3F" x="674.234" y="17.291" z="386.427" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="Gather00050b" ay="3.535" amount="3" refreshtime="5000" desc="鸡">
+                <position x="674.091" z="388.421" ay="3.535" />
+                <position x="675.949" z="387.967" ay="0.910" />
+                <position x="674.850" z="386.334" ay="0.290" />
+            </item>
+        </creator>
+        <creator No="4A5AE0D53C7F4F15947EA1FE02D4F1F3" x="436.395" y="-5.412" z="425.648" radius="3.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="Gather00051b" ay="0.290" amount="1" refreshtime="30000" desc="野果树">
+                <position x="436.933" z="424.872" ay="0.290" />
+            </item>
+        </creator>
+        <creator No="EE4DE82AE63542ADB29820BE8BC9A81A" x="649.925" y="18.714" z="371.047" radius="1.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="Gather00054b" ay="0.290" amount="1" refreshtime="3000" desc="酒壶">
+                <position x="649.258" z="371.158" ay="0.290" />
+            </item>
+        </creator>
+        <creator No="117954A149F548BC9EB43CDB38B4ED12" x="641.472" y="17.860" z="367.644" radius="3.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="Gather00055b" ay="3.780" amount="3" refreshtime="3000" desc="米袋">
+                <position x="641.577" z="367.646" ay="3.780" />
+                <position x="639.829" z="367.365" ay="3.780" />
+                <position x="641.051" z="368.787" ay="3.780" />
+            </item>
+        </creator>
+        <creator No="8D4DC3F7955F40A09F84B52A8DF87607" x="512.084" y="17.026" z="366.943" radius="4.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="Gather00015m" sx="0.150" sy="0.150" sz="0.150" ay="-1" amount="1" refreshtime="5" desc="焦长老的信" />
+        </creator>
+        <creator No="535E1F51C20D4B49A05AB98E8DF67D1F" x="445.506" y="16.865" z="333.394" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="Gather00060b" sx="2.140" sy="2.140" sz="2.140" ay="-1" amount="3" refreshtime="15000" desc="木堆">
+                <position x="449.793" z="333.602" sx="2.140" sy="2.140" sz="2.140" ay="-1" />
+                <position x="448.125" z="329.103" sx="1.480" sy="1.480" sz="1.480" ay="-1" />
+                <position x="441.522" z="329.523" sx="1.870" sy="1.870" sz="1.870" ay="-1" />
+                <position x="447.164" z="330.438" sx="1.250" sy="1.250" sz="1.250" ay="-1" />
+            </item>
+        </creator>
+        <creator No="5F7EA38FC7404DD1B9D3FE6468C4F182" x="922.457" y="6.179" z="525.780" radius="3.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="Gather00061b" ay="0.772" amount="1" refreshtime="10000" desc="死蛇">
+                <position x="921.844" z="526.149" ay="0.772" BornAction="diedown" RandomAction="diedown" />
+            </item>
+            <item No="2" id="Gather00062b" ay="-1" amount="1" refreshtime="10000" desc="猫头鹰">
+                <position x="921.125" z="525.113" ay="-1" />
+            </item>
+        </creator>
+        <creator No="AEF65D4FF0A6417D939C4F4046E4ADE5" x="540.860" y="48.562" z="824.703" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="Gather00064b" ay="-1" amount="10" refreshtime="10000" desc="野菜">
+                <position x="544.426" z="830.010" ay="-1" />
+                <position x="542.425" z="831.875" ay="-1" />
+                <position x="547.138" z="828.177" ay="-1" />
+                <position x="534.373" z="830.171" ay="-1" />
+                <position x="535.057" z="828.814" ay="-1" />
+                <position x="536.639" z="824.052" ay="-1" />
+                <position x="533.955" z="822.015" ay="-1" />
+                <position x="536.229" z="821.547" ay="-1" />
+                <position x="548.607" z="824.374" ay="-1" />
+                <position x="541.317" z="821.347" ay="-1" />
+            </item>
+        </creator>
+        <creator No="F6739A77DEF844C2AA4C5089D829F787" x="595.121" y="57.319" z="940.792" radius="1.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="Gather00065b" ay="-1" amount="1" refreshtime="10000" desc="书信">
+                <position x="595.247" z="941.265" ay="-1" />
+            </item>
+        </creator>
+        <creator No="4BDB68D775684F5C94530D7FA0A6168A" x="521.864" y="46.058" z="919.828" radius="1.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="Gather00066b" ay="0.070" amount="1" refreshtime="10000" desc="小箱子">
+                <position x="521.620" z="919.366" ay="0.070" />
+            </item>
+        </creator>
+        <creator No="AB134000AF94404AB1290FAE15534189" x="523.137" y="46.117" z="910.644" radius="2.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="Gather00075b" ay="1.690" amount="5" refreshtime="10000" desc="信喉舍">
+                <position x="522.974" z="909.260" ay="1.690" />
+                <position x="521.763" z="910.370" ay="2.880" />
+                <position x="524.376" z="910.024" ay="0.390" />
+                <position x="522.313" z="911.808" ay="0.890" />
+                <position x="523.912" z="911.776" ay="2.390" />
+            </item>
+            <item No="2" id="Gather00067b" ay="5.683" amount="6" refreshtime="10000" desc="信喉">
+                <position x="522.126" z="911.635" ay="5.683" />
+                <position x="524.336" z="909.892" ay="4.988" />
+                <position x="522.727" z="909.334" ay="6.218" />
+                <position x="521.779" z="910.327" ay="1.690" az="0.133" />
+                <position x="524.365" z="911.293" ay="3.763" />
+                <position x="521.848" z="910.062" ay="1.305" />
+            </item>
+            <item No="3" id="Gather00070b" ay="0.900" amount="1" refreshtime="10000" desc="信喉" />
+            <item No="4" id="Gather00071b" ay="5.703" amount="1" refreshtime="10000" desc="信喉" />
+        </creator>
+        <creator No="3CC14111453C4A05B467331144603696" x="517.696" y="49.607" z="923.935" radius="1.5" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="Gather00074b" sx="1.520" sy="1.520" sz="1.520" ax="6.276" ay="0.010" az="0.006" amount="1" refreshtime="10000" desc="兽栏">
+                <position x="517.801" z="924.701" sx="1.520" sy="1.520" sz="1.520" ax="6.276" ay="0.010" az="0.006" />
+            </item>
+        </creator>
+        <creator No="E8232D8A3A7F471A8FE99268D0DEDF51" x="570.362" y="17.858" z="301.465" radius="1.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="Gather00072b" ay="5.193" amount="1" refreshtime="10000" desc="炭炉">
+                <position x="570.220" z="300.952" ay="5.193" />
+            </item>
+        </creator>
+        <creator No="5394B79BE16245BEB92311813D7E66C8" x="564.818" y="18.695" z="301.016" radius="2.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="Gather00073b" sx="0.420" sy="0.420" sz="0.420" ay="4.598" amount="1" refreshtime="10000" desc="纸">
+                <position x="563.781" z="300.350" sx="0.420" sy="0.420" sz="0.420" ay="4.598" />
+            </item>
+            <item No="2" id="Gather00069b" ay="3.108" amount="1" refreshtime="10000" desc="笔" />
+            <item No="3" id="Gather00068b" ay="3.223" amount="1" refreshtime="10000" desc="墨" />
+        </creator>
+        <creator No="53310614E27140EFAE4D347F70BDE7BB" x="771.503" y="21.651" z="240.622" radius="4.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0">
+            <item No="1" id="Gather00028j" ay="-1" amount="5" refreshtime="5" desc="清气草药">
+                <position x="771.276" z="238.583" ay="-1" />
+                <position x="769.424" z="238.378" ay="-1" />
+                <position x="770.368" z="241.377" ay="-1" />
+                <position x="768.746" z="239.741" ay="-1" />
+                <position x="771.066" z="243.525" ay="-1" />
+            </item>
+        </creator>
+        <creator No="81C7EC3DC671455391726E4F76C48084" x="702.319" y="52.009" z="93.964" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="Gather0006pc" ay="-1" amount="7" refreshtime="5" desc="野果">
+                <position x="699.645" z="93.717" ay="-1" />
+                <position x="701.042" z="91.373" ay="-1" />
+                <position x="702.995" z="91.982" ay="-1" />
+                <position x="701.074" z="93.676" ay="-1" />
+                <position x="700.447" z="95.161" ay="-1" />
+                <position x="703.121" z="93.624" ay="-1" />
+                <position x="701.570" z="95.237" ay="-1" />
+            </item>
+        </creator>
+        <creator No="7A170034C3034FA68BC78EBCE17343D1" x="547.594" y="2.473" z="496.937" radius="7.4" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="4.4" HateLink="1">
+            <item No="1" id="Gather0020yl" ay="-1" amount="6" refreshtime="5000" desc="叶刺草">
+                <position x="551.435" z="495.907" ay="-1" />
+                <position x="549.398" z="492.507" ay="-1" />
+                <position x="546.292" z="493.350" ay="-1" />
+                <position x="544.554" z="498.216" ay="-1" />
+                <position x="551.442" z="499.509" ay="-1" />
+                <position x="546.535" z="500.879" ay="-1" />
+                <position x="542.549" z="495.917" ay="-1" />
+                <position x="543.010" z="492.781" ay="-1" />
+                <position x="546.101" z="495.797" ay="-1" />
+                <position x="543.788" z="500.189" ay="-1" />
+                <position x="549.009" z="499.004" ay="-1" />
+            </item>
+        </creator>
+        <creator No="6EFCC0F50EB345ED9757173ACA774FE4" x="569.190" y="10.842" z="437.699" radius="6.6" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="Gather0021yl" sx="1.310" sy="1.310" sz="1.310" ay="-1" amount="6" refreshtime="5000" desc="白苍菇">
+                <position x="573.075" z="439.488" sx="1.310" sy="1.310" sz="1.310" ay="-1" />
+                <position x="573.492" z="435.317" sx="1.270" sy="1.270" sz="1.270" ay="-1" />
+                <position x="567.805" z="434.942" sx="1.230" sy="1.230" sz="1.230" ay="-1" />
+                <position x="567.604" z="436.657" ay="-1" />
+                <position x="565.823" z="434.993" ay="-1" />
+                <position x="565.450" z="438.424" sx="1.270" sy="1.270" sz="1.270" ay="-1" />
+                <position x="569.470" z="440.448" sx="1.510" sy="1.510" sz="1.510" ay="-1" />
+                <position x="569.442" z="442.367" ay="-1" />
+                <position x="567.454" z="437.951" sx="1.550" sy="1.550" sz="1.550" ay="-1" />
+            </item>
+        </creator>
+        <creator No="257494898E5742E085D596BAA4F4120B" x="463.037" y="16.973" z="378.517" radius="3.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="Gather0022yl" sx="1.040" sy="1.040" sz="1.040" ay="-1" amount="5" refreshtime="5000" desc="酒">
+                <position x="464.009" z="376.682" sx="1.040" sy="1.040" sz="1.040" ay="-1" />
+                <position x="464.038" z="376.188" sx="1.130" sy="1.130" sz="1.130" ay="-1" />
+                <position x="463.082" z="376.766" sx="0.880" sy="0.880" sz="0.880" ay="-1" />
+                <position x="462.990" z="376.234" sx="1.010" sy="1.010" sz="1.010" ay="-1" />
+                <position x="464.471" z="376.828" sx="0.570" sy="0.570" sz="0.570" ay="-1" />
+                <position x="464.483" z="376.470" sx="0.730" sy="0.730" sz="0.730" ay="-1" />
+                <position x="462.538" z="376.211" sx="0.900" sy="0.900" sz="0.900" ay="-1" />
+                <position x="463.541" z="376.682" sx="0.960" sy="0.960" sz="0.960" ay="-1" />
+                <position x="463.560" z="376.215" sx="1.010" sy="1.010" sz="1.010" ay="-1" />
+            </item>
+        </creator>
+        <creator No="61F5CF8BD7E04B3882C52457A4BE3762" x="597.492" y="1.519" z="636.310" radius="1.4" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="Gather00031p" ax="6.256" ay="5.398" az="0.105" amount="1" refreshtime="5" desc="书箱">
+                <position x="596.707" z="636.486" ax="6.256" ay="5.398" az="0.105" />
+            </item>
+        </creator>
+        <creator No="FE6AD323FBE1416CA0659C1E66FA66AD" x="311.356" y="15.133" z="658.300" radius="4.7" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="Gather00032p" ay="5.398" amount="8" refreshtime="5" desc="止血草">
+                <position x="312.278" z="660.801" ay="5.398" />
+                <position x="311.609" z="660.230" ay="5.398" />
+                <position x="310.463" z="658.959" ay="5.398" />
+                <position x="311.313" z="656.557" ay="5.398" />
+                <position x="313.786" z="656.951" ay="5.398" />
+                <position x="309.832" z="661.116" ay="5.398" />
+                <position x="308.450" z="659.941" ay="5.398" />
+                <position x="308.913" z="658.148" ay="5.398" />
+            </item>
+        </creator>
+        <creator No="C8AEDEF2F7A44062B293246511E0690C" x="173.046" y="44.793" z="736.682" radius="1.1" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="Gather00033p" sx="1.450" sy="4.460" sz="4.245" ay="5.268" az="5.720" amount="1" refreshtime="5" desc="熊皮">
+                <position x="173.365" z="737.158" sx="1.450" sy="4.460" sz="4.245" ay="5.268" az="5.720" />
+            </item>
+        </creator>
+        <creator No="F86BCA39100441FEA87FAB0015C8D544" x="524.773" y="17.923" z="732.209" radius="2.6" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="Gather00034p" ay="5.268" amount="6" refreshtime="5" desc="天龙草">
+                <position x="525.054" z="731.084" ay="5.268" />
+                <position x="525.657" z="731.476" ay="5.268" />
+                <position x="526.018" z="731.424" ay="5.268" />
+                <position x="526.328" z="732.124" ay="5.268" />
+                <position x="525.754" z="732.777" ay="5.268" />
+                <position x="525.109" z="733.971" ay="5.268" />
+            </item>
+        </creator>
+        <creator No="B41870355CAB4917A55860BBD4CAAAC6" x="507.521" y="17.698" z="269.250" radius="1.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="GatherClone011001" ay="3.603" amount="1" refreshtime="5" desc="箱子">
+                <position x="507.501" z="269.825" ay="3.603" />
+            </item>
+        </creator>
+        <creator No="32F2603E10F04A47BE69AD039C311997" x="532.815" y="17.731" z="297.985" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="17271" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather0009lcx" ay="-1" amount="2" refreshtime="5" desc="黄鼠狼">
+                <position x="532.603" z="300.422" ay="-1" />
+                <position x="534.139" z="299.458" ay="-1" />
+            </item>
+        </creator>
+        <creator No="5578932C8E11415893EF0F5619AD7FE5" x="571.963" y="17.018" z="254.999" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="17272" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather0010lcx" ay="-1" amount="6" refreshtime="10000" desc="石灰粉">
+                <position x="575.178" z="260.579" ay="-1" />
+                <position x="573.354" z="257.710" ay="-1" />
+                <position x="573.157" z="251.489" ay="-1" />
+                <position x="566.934" z="254.992" ay="-1" />
+                <position x="569.713" z="258.952" ay="-1" />
+                <position x="577.547" z="253.176" ay="-1" />
+            </item>
+        </creator>
+        <creator No="9C8A0B6824BE4A93A8BF36568718F39B" x="624.595" y="16.273" z="395.974" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="17260" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather0006lcx" ay="-1" amount="2" refreshtime="5" desc="木材堆">
+                <position x="629.782" z="393.163" ay="-1" />
+                <position x="628.989" z="390.307" ay="-1" />
+            </item>
+        </creator>
+        <creator No="E7D520FA5D3946FCA7D6C75DC9B46FC3" x="628.342" y="17.112" z="325.532" radius="2.7" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="17261" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather0007lcx" ay="-1" amount="2" refreshtime="5" desc="火把">
+                <position x="628.455" z="326.706" ay="-1" />
+                <position x="627.131" z="325.353" ay="-1" />
+            </item>
+        </creator>
+        <creator No="187A826DA1AA41608A345465A61C0550" x="820.754" y="27.077" z="351.763" radius="13.1" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="Gather00192b" ay="-1" amount="11" refreshtime="5" desc="巨蛇果">
+                <position x="813.849" z="357.144" ay="-1" />
+                <position x="816.579" z="356.626" ay="-1" />
+                <position x="815.049" z="357.504" ay="-1" />
+                <position x="812.956" z="356.393" ay="-1" />
+                <position x="826.294" z="358.408" ay="-1" />
+                <position x="816.432" z="354.243" ay="-1" />
+                <position x="815.593" z="353.223" ay="-1" />
+                <position x="817.012" z="353.773" ay="-1" />
+                <position x="826.766" z="357.100" ay="-1" />
+                <position x="828.761" z="357.696" ay="-1" />
+                <position x="813.227" z="352.091" ay="-1" />
+            </item>
+        </creator>
+        <creator No="308FD26C5FC04BF085DD6D5B5FD01E59" x="159.079" y="-5.941" z="545.842" radius="3.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="Gather00011sj" ay="-1" amount="3" refreshtime="5" desc="佢骨草">
+                <position x="160.629" z="546.669" ay="-1" />
+                <position x="158.135" z="547.494" ay="-1" />
+                <position x="159.577" z="544.407" ay="-1" />
+            </item>
+        </creator>
+        <creator No="1805CBCB37A742C189D22308D1BB7052" x="574.532" y="2.615" z="659.548" radius="3.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="Gather00010sj" ay="-1" amount="1" refreshtime="5" desc="囚龙棍" />
+        </creator>
+        <creator No="82CEED0B186C4C41B0D047F3F88E69C5" x="378.142" y="13.505" z="321.685" radius="6.2" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="Gather00063b" ay="-1" amount="8" refreshtime="5" desc="冷玉">
+                <position x="376.017" z="318.337" ay="-1" />
+                <position x="377.416" z="317.403" ay="-1" />
+                <position x="374.614" z="318.852" ay="-1" />
+                <position x="373.719" z="320.810" ay="-1" />
+                <position x="374.538" z="323.195" ay="-1" />
+                <position x="375.259" z="321.015" ay="-1" />
+                <position x="376.644" z="320.674" ay="-1" />
+                <position x="377.338" z="319.574" ay="-1" />
+            </item>
+        </creator>
+        <creator No="DEB1BF60FB584599A294F3C59A70C348" x="646.867" y="17.860" z="377.531" radius="0.8" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="Gather00057b" ay="-1" amount="2" refreshtime="5000" NotPositive="0" desc="一叠碗">
+                <position x="646.361" z="377.639" ay="-1" />
+                <position x="647.254" z="377.244" ay="-1" />
+            </item>
+        </creator>
+        <creator No="7606537A56414485B1F4517FBE414787" x="606.958" y="18.979" z="243.973" radius="3.8" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="Gather00058b" ay="-1" amount="5" refreshtime="5000" NotPositive="0" desc="一堆绳子">
+                <position x="603.404" z="245.294" ay="-1" />
+                <position x="604.501" z="245.721" ay="-1" />
+                <position x="604.208" z="244.544" ay="-1" />
+                <position x="607.210" z="245.594" ay="-1" />
+                <position x="606.044" z="244.452" ay="-1" />
+            </item>
+        </creator>
+        <creator No="C11155E8A04A4393BA9014F40AD5C3C1" x="559.913" y="4.464" z="495.321" radius="7.7" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="Gather00059b" ay="1.732" amount="8" refreshtime="10000" NotPositive="0" desc="鸡">
+                <position x="564.746" z="494.019" ay="1.732" />
+                <position x="564.983" z="494.752" ay="3.682" />
+                <position x="557.916" z="500.306" ay="1.732" />
+                <position x="559.114" z="501.611" ay="1.732" />
+                <position x="559.913" z="501.124" ay="4.442" />
+                <position x="562.866" z="491.345" ay="0.712" />
+                <position x="556.845" z="498.123" ay="1.732" />
+                <position x="556.921" z="498.662" ay="2.047" />
+            </item>
+        </creator>
+        <creator No="BD04C5C3EA404382819636C8B292D490" x="672.996" y="17.075" z="392.395" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="Gather00050b" ay="3.535" amount="3" refreshtime="30000" desc="鸡">
+                <position x="672.065" z="393.973" ay="3.535" />
+                <position x="672.403" z="392.865" ay="0.910" />
+                <position x="673.961" z="392.251" ay="0.290" />
+            </item>
+        </creator>
+        <creator No="353F3744911C443E9D81FAA869851937" x="297.641" y="14.574" z="142.703" radius="1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00052b" ay="0.290" amount="1" refreshtime="30000" NotPositive="0" desc="箱子" />
+        </creator>
+        <creator No="6617853ED0C14258876023691E983442" x="412.832" y="12.465" z="327.437" radius="10.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00060b" sx="1.820" sy="1.820" sz="1.820" ay="-1" amount="1" refreshtime="10000" NotPositive="0" desc="木堆">
+                <position x="420.152" z="324.786" sx="1.820" sy="1.820" sz="1.820" ay="-1" />
+            </item>
+        </creator>
+        <creator No="6300CC1456744CA594B6A167F96707D5" x="431.084" y="16.222" z="287.536" radius="10.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00060b" sx="2.325" sy="2.280" sz="2.280" ay="-1" amount="2" refreshtime="15000" NotPositive="0" desc="木堆">
+                <position x="431.175" z="286.732" sx="2.325" sy="2.280" sz="2.280" ay="-1" />
+                <position x="430.176" z="293.238" sx="2.325" sy="2.280" sz="2.280" ay="-1" />
+            </item>
+        </creator>
+        <creator No="B6873070DC73467AA35BAB06DEBF5FDB" x="459.402" y="17.026" z="346.536" radius="4.9" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00060b" sx="2.660" sy="2.660" sz="2.660" ay="3.844" amount="1" refreshtime="10000" NotPositive="0" desc="木堆">
+                <position x="457.361" z="346.071" sx="2.660" sy="2.660" sz="2.660" ay="3.844" />
+            </item>
+        </creator>
+        <creator No="E22DBABC0BD44648A41082D10397A261" x="571.543" y="17.200" z="348.326" radius="4.4" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00060b" sx="1.510" sy="1.510" sz="1.510" ay="0.290" amount="1" refreshtime="30000" NotPositive="0" desc="木堆" />
+        </creator>
+        <creator No="E8C4BC2E490347D6B031C6A694E0CCD8" x="607.518" y="17.026" z="317.179" radius="3.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00060b" sx="1.460" sy="1.460" sz="1.460" ay="1.435" amount="1" refreshtime="30000" NotPositive="0" desc="木堆" />
+        </creator>
+        <creator No="CB584E29E83745409BDE2474131E230C" x="484.276" y="7.469" z="443.348" radius="3.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00060b" sx="1.800" sy="1.800" sz="1.800" ax="0.048" ay="1.410" az="0.283" amount="1" refreshtime="30000" NotPositive="0" desc="木堆" />
+        </creator>
+        <creator No="F908D5955AA4461E821BE5E80063F293" x="404.624" y="16.536" z="266.696" radius="9.4" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00060b" sx="1.510" sy="1.510" sz="1.514" ay="-1" amount="3" refreshtime="30000" NotPositive="0" desc="木堆">
+                <position x="412.151" z="267.178" sx="1.510" sy="1.510" sz="1.514" ay="-1" />
+                <position x="401.077" z="270.215" sx="2.130" sy="2.130" sz="2.130" ay="-1" />
+                <position x="408.952" z="264.808" sx="2.140" sy="2.140" sz="2.140" ay="-1" />
+            </item>
+        </creator>
+        <creator No="B049E568422E4B2DB91931BDF6D07D63" x="574.457" y="17.026" z="308.150" radius="4.4" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00060b" sx="2.320" sy="2.320" sz="2.320" ay="0.290" amount="1" refreshtime="30000" NotPositive="0" desc="木堆" />
+        </creator>
+        <creator No="601D34CF4066419BA27DF1BA7FD15616" x="512.768" y="17.026" z="273.436" radius="4.4" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00060b" sx="2.760" sy="2.760" sz="2.760" ay="2.625" amount="1" refreshtime="30000" NotPositive="0" desc="木堆" />
+        </creator>
+        <creator No="D99FC727F6894B208BC66CA3F345627D" x="532.134" y="-2.793" z="562.945" radius="3.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00060b" sx="1.520" sy="1.520" sz="1.520" ay="2.320" amount="2" refreshtime="30000" NotPositive="0" desc="木堆">
+                <position x="534.180" z="561.912" sx="1.520" sy="1.520" sz="1.520" ay="2.320" />
+                <position x="530.919" z="561.072" sx="1.530" sy="1.530" sz="1.530" ay="1.410" />
+            </item>
+        </creator>
+        <creator No="4C901756111B49BBBF2AFC978A5D2EFE" x="559.542" y="0.924" z="512.669" radius="18.4" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00060b" sx="1.960" sy="1.960" sz="1.960" ay="2.320" amount="3" refreshtime="30000" NotPositive="0" desc="木堆">
+                <position x="561.717" z="507.697" sx="1.960" sy="1.960" sz="1.960" ay="2.320" />
+                <position x="553.104" z="511.238" sx="2.440" sy="2.440" sz="2.440" ay="2.320" />
+                <position x="553.860" z="504.427" sx="2.390" sy="2.390" sz="2.390" ay="2.320" />
+            </item>
+        </creator>
+        <creator No="F2EFB95CFAAA4386AF8FA33DBF35A1A3" x="619.956" y="3.237" z="488.592" radius="7.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00060b" sx="2.050" sy="2.050" sz="2.050" ay="3.960" amount="2" refreshtime="30000" NotPositive="0" desc="木堆">
+                <position x="620.349" z="484.003" sx="2.050" sy="2.050" sz="2.050" ay="3.960" />
+                <position x="618.601" z="491.201" sx="1.610" sy="1.610" sz="1.610" ay="3.480" />
+                <position x="617.374" z="486.815" sx="1.800" sy="1.800" sz="1.800" ay="2.320" />
+            </item>
+        </creator>
+        <creator No="9E700A0711BC4619A7F21613A00645D9" x="646.568" y="18.019" z="224.782" radius="8.3" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00060b" sx="2.190" sy="2.190" sz="2.190" ay="4.915" amount="1" refreshtime="30000" NotPositive="0" desc="木堆">
+                <position x="648.736" z="227.945" sx="2.190" sy="2.190" sz="2.190" ay="4.915" />
+                <position x="645.635" z="222.821" sx="2.300" sy="2.300" sz="2.300" ay="3.480" />
+            </item>
+        </creator>
+        <creator No="0BF8977735BE4B419F5BECABE0302DB6" x="606.595" y="18.977" z="237.629" radius="3.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00060b" ay="4.915" amount="1" refreshtime="30000" NotPositive="0" desc="木堆">
+                <position x="608.144" z="238.099" ay="4.915" />
+                <position x="604.925" z="237.507" ay="4.915" />
+            </item>
+        </creator>
+        <creator No="798DBFCA6E8745FEBF43389D9282D7C9" x="502.732" y="17.026" z="307.889" radius="3.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00060b" ay="4.915" amount="1" refreshtime="30000" NotPositive="0" desc="木堆" />
+        </creator>
+        <creator No="143C2EAE4AFB46FFA0E4F66FBC4B4102" x="637.647" y="17.026" z="286.392" radius="3.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00060b" sx="1.630" sy="1.630" sz="1.630" ay="4.915" amount="1" refreshtime="30000" NotPositive="0" desc="木堆" />
+        </creator>
+        <creator No="4C0273B3614944BA9656C30C0C8F0F98" x="748.498" y="24.799" z="200.993" radius="7.3" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00060b" sx="1.540" sy="1.540" sz="1.540" ay="3.915" amount="3" refreshtime="30000" NotPositive="0" desc="木堆">
+                <position x="751.252" z="197.996" sx="1.540" sy="1.540" sz="1.540" ay="3.915" />
+                <position x="744.908" z="201.478" sx="1.560" sy="1.560" sz="1.560" ay="4.915" />
+                <position x="746.865" z="206.939" sx="2.420" sy="2.420" sz="2.420" ay="4.915" />
+            </item>
+        </creator>
+        <creator No="2AE7D1E262D74A10818F20152326F59F" x="475.002" y="17.993" z="321.812" radius="3.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00060b" ay="4.915" amount="1" refreshtime="30000" NotPositive="0" desc="木堆" />
+        </creator>
+        <creator No="521E5A3524724A959CFA5B5780F98D81" x="473.554" y="17.026" z="282.437" radius="3.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00060b" ay="4.915" amount="1" refreshtime="30000" NotPositive="0" desc="木堆" />
+        </creator>
+        <creator No="A6FB59A0B16943F78E5A2E49F5DEBAB9" x="472.138" y="17.026" z="359.999" radius="1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00054b" ay="0.615" amount="1" refreshtime="15000" NotPositive="0" desc="酒壶" />
+        </creator>
+        <creator No="D87B5861604D4D2F9A4B42CE9AE9E113" x="454.082" y="18.068" z="367.369" radius="1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00054b" ay="0.615" amount="1" refreshtime="15000" NotPositive="0" desc="酒壶">
+                <position x="454.082" z="367.369" ay="0.615" />
+            </item>
+        </creator>
+        <creator No="A37FA49C265A4939BFE864BB0082DB01" x="642.339" y="17.796" z="296.375" radius="1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00054b" ay="0.615" amount="1" refreshtime="3000" NotPositive="0" desc="酒壶">
+                <position x="642.356" z="297.375" ay="0.615" />
+            </item>
+        </creator>
+        <creator No="5172FD167F9049D898BED79D95EC64EE" x="695.388" y="17.664" z="316.958" radius="2.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00054b" ay="-1" amount="1" refreshtime="15000" NotPositive="0" desc="酒壶">
+                <position x="694.531" z="316.964" ay="-1" />
+            </item>
+        </creator>
+        <creator No="3C97D7303DE44FCB9138A05701BC379B" x="464.035" y="17.026" z="377.368" radius="2.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00054b" ay="5.934" az="6.256" amount="1" refreshtime="15000" NotPositive="0" desc="酒壶">
+                <position x="465.876" z="378.149" ay="5.934" az="6.256" />
+            </item>
+        </creator>
+        <creator No="9BB4F4BA996E44AB9B746D822B2C60B9" x="462.217" y="18.068" z="372.260" radius="1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00054b" ax="0.020" ay="3.321" amount="1" refreshtime="15000" NotPositive="0" desc="酒壶">
+                <position x="462.177" z="372.384" ax="0.020" ay="3.321" />
+            </item>
+        </creator>
+        <creator No="BB6370D397B24A8E9C5E17A182CED435" x="467.928" y="18.069" z="368.376" radius="1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00054b" ay="3.321" amount="1" refreshtime="15000" NotPositive="0" desc="酒壶">
+                <position x="468.075" z="368.722" ay="3.321" />
+            </item>
+        </creator>
+        <creator No="91D9889C8BC94FD7A19C1D33F89DCFB8" x="702.512" y="17.664" z="302.993" radius="2.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00055b" ay="4.180" amount="3" refreshtime="15000" NotPositive="0" desc="米袋">
+                <position x="702.110" z="303.371" ay="4.180" />
+                <position x="702.290" z="302.901" ay="4.525" />
+            </item>
+        </creator>
+        <creator No="8EFCE616384A4FCEAE14BE205C238BA4" x="638.419" y="17.796" z="311.859" radius="1.5" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00055b" ay="1.400" amount="1" refreshtime="15000" NotPositive="0" desc="米袋">
+                <position x="638.606" z="311.582" ay="1.400" />
+            </item>
+        </creator>
+        <creator No="6BB96A2AC2304C32BC2B3A7ECDB842DD" x="499.900" y="17.720" z="272.804" radius="2.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00055b" ay="5.528" amount="2" refreshtime="15000" NotPositive="0" desc="米袋">
+                <position x="499.677" z="272.621" ay="5.528" />
+                <position x="500.580" z="272.695" ay="1.400" />
+            </item>
+        </creator>
+        <creator No="E64AD2E0C67945DFAA53CF8B95DD6F3E" x="456.500" y="18.062" z="374.463" radius="3.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00055b" ay="1.560" az="0.015" amount="4" refreshtime="15000" NotPositive="0" desc="米袋">
+                <position x="454.708" z="374.620" ay="1.560" az="0.015" />
+                <position x="456.441" z="374.850" ax="0.005" ay="3.260" az="5.480" />
+                <position x="456.891" z="375.014" ay="3.155" />
+                <position x="455.794" z="374.972" ay="3.080" />
+            </item>
+        </creator>
+        <creator No="A50E2FD2B9284566BADD90A2A754A4D3" x="537.213" y="18.561" z="294.874" radius="1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00056b" sx="0.440" sy="0.440" sz="0.440" ay="6.115" az="6.278" amount="1" refreshtime="15000" NotPositive="0" desc="纱布">
+                <position x="537.141" z="294.733" sx="0.440" sy="0.440" sz="0.440" ay="6.115" az="6.278" />
+            </item>
+        </creator>
+        <creator No="82BDBCC4AB7949C0BB61A55D5276E45E" x="492.003" y="18.178" z="259.106" radius="1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00056b" sx="0.330" sy="0.330" sz="0.330" ay="0.290" amount="1" refreshtime="15000" NotPositive="0" desc="纱布">
+                <position x="492.724" z="258.787" sx="0.330" sy="0.330" sz="0.330" ay="0.290" />
+            </item>
+        </creator>
+        <creator No="A2F5E0526A9C484E95CDD93289433CCE" x="710.457" y="18.518" z="310.176" radius="1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00056b" sx="0.620" sy="0.620" sz="0.620" ay="0.290" amount="1" refreshtime="15000" NotPositive="0" desc="纱布">
+                <position x="710.206" z="310.625" sx="0.620" sy="0.620" sz="0.620" ay="0.290" />
+            </item>
+        </creator>
+        <creator No="A1D734350DF141CD9EDB0AF2948712EE" x="465.972" y="18.022" z="338.069" radius="1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00056b" sx="0.560" sy="0.560" sz="0.560" ay="0.290" amount="1" refreshtime="15000" NotPositive="0" desc="纱布">
+                <position x="466.197" z="337.698" sx="0.560" sy="0.560" sz="0.560" ay="0.290" />
+            </item>
+        </creator>
+        <creator No="B6405F100052422F93C83E8A8E3B1F78" x="305.774" y="-2.355" z="332.952" radius="1.6" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather0024mm" ay="2.197" amount="1" refreshtime="15000" NotPositive="0" desc="民女">
+                <position x="306.420" z="332.632" ay="2.197" BornAction="ty_stand" />
+            </item>
+        </creator>
+        <creator No="F5F6FE72B2FC4BD198AD2087450C8969" x="304.981" y="-2.785" z="330.416" radius="1.6" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather0025mm" ay="2.382" amount="1" refreshtime="15000" NotPositive="0" desc="民女">
+                <position x="305.311" z="330.271" ay="2.382" />
+            </item>
+        </creator>
+        <creator No="17B78A60CAD64235996405B7BE41C41C" x="303.848" y="-2.742" z="327.093" radius="1.6" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather0026mm" ay="2.212" amount="1" refreshtime="15000" NotPositive="0" desc="民女">
+                <position x="304.228" z="327.621" ay="2.212" BornAction="ty_stand" />
+            </item>
+        </creator>
+        <creator No="E550258B7C8942FCB56FD526412F0D8B" x="466.648" y="17.026" z="378.507" radius="1.9" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather0027mm" sx="1.690" sy="1.690" sz="1.690" ay="-1" amount="1" refreshtime="5000" NotPositive="0" desc="水缸" />
+        </creator>
+        <creator No="875B78639158439BBAEF83227244AE51" x="473.794" y="17.075" z="385.163" radius="1.9" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather0029mm" sx="1.360" sy="1.360" sz="1.360" ay="0.707" amount="1" refreshtime="5000" NotPositive="0" desc="水井" />
+        </creator>
+        <creator No="4FF06326A7C7414393E44AB9C864E2D4" x="504.841" y="17.026" z="278.271" radius="3.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather0028mm" ay="-1" amount="1" refreshtime="5000" NotPositive="0" desc="水缸" />
+        </creator>
+        <creator No="E0E96F8520744941B5DEC910FE224B4B" x="468.545" y="17.166" z="325.105" radius="3.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather0028mm" ay="-1" amount="1" refreshtime="5000" NotPositive="0" desc="水缸" />
+        </creator>
+        <creator No="665E96267DA3445B9311BC9713F5E121" x="561.689" y="16.681" z="267.936" radius="1.9" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather0029mm" sx="1.360" sy="1.360" sz="1.360" ay="0.467" az="0.152" amount="1" refreshtime="5000" NotPositive="0" desc="水井">
+                <position x="560.466" z="267.511" sx="1.360" sy="1.360" sz="1.360" ay="0.467" az="0.152" />
+            </item>
+        </creator>
+        <creator No="3A49E377E1604815B1AAAD044419A657" x="623.885" y="17.026" z="316.281" radius="1.9" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather0029mm" sx="1.360" sy="1.360" sz="1.360" ay="0.707" amount="1" refreshtime="5000" NotPositive="0" desc="水井" />
+        </creator>
+        <creator No="71E056B7ED9347C18A1BE90F5E0EAAE1" x="602.843" y="16.487" z="395.819" radius="1.9" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather0029mm" sx="1.360" sy="1.360" sz="1.360" ay="0.707" amount="1" refreshtime="5000" NotPositive="0" desc="水井">
+                <position x="601.850" z="395.941" sx="1.360" sy="1.360" sz="1.360" ay="0.707" />
+            </item>
+        </creator>
+        <creator No="CB5255636873474C825D59F57AD7D9DE" x="591.217" y="13.058" z="424.365" radius="3.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather0028mm" ay="-1" amount="1" refreshtime="5000" NotPositive="0" desc="水缸">
+                <position x="590.426" z="423.768" ay="-1" />
+            </item>
+        </creator>
+        <creator No="F7CFA06A178E4B568AB333B3ADCDEE9E" x="617.638" y="12.705" z="422.828" radius="3.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather0028mm" ay="-1" amount="1" refreshtime="5000" NotPositive="0" desc="水缸">
+                <position x="618.096" z="422.444" ay="-1" />
+            </item>
+        </creator>
+        <creator No="66403C00FAF248BCAA80736F1329B4C4" x="661.642" y="17.026" z="354.416" radius="3.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather0028mm" ay="-1" amount="1" refreshtime="5000" NotPositive="0" desc="水缸" />
+        </creator>
+        <creator No="3EB86EE3A15D4432990034271459CB5C" x="600.882" y="17.012" z="308.314" radius="1.9" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather0027mm" sx="1.690" sy="1.690" sz="1.690" ay="-1" amount="1" refreshtime="5000" NotPositive="0" desc="水缸" />
+        </creator>
+        <creator No="2D85F8E505194F76A16F5F36141F4894" x="669.806" y="16.895" z="289.096" radius="1.9" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather0027mm" sx="1.690" sy="1.690" sz="1.690" ay="-1" amount="1" refreshtime="5000" NotPositive="0" desc="水缸">
+                <position x="670.638" z="289.402" sx="1.690" sy="1.690" sz="1.690" ay="-1" />
+            </item>
+        </creator>
+        <creator No="04EC5A1DEC6A47948C4362733C212BC3" x="702.142" y="17.032" z="264.195" radius="1.9" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather0027mm" sx="1.690" sy="1.690" sz="1.690" ay="-1" amount="1" refreshtime="5000" NotPositive="0" desc="水缸">
+                <position x="702.744" z="263.396" sx="1.690" sy="1.690" sz="1.690" ay="-1" />
+            </item>
+        </creator>
+        <creator No="40A8C0C8D0084D418BE90A43954DB7C5" x="533.625" y="17.731" z="290.235" radius="3.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00055b" ay="3.155" amount="1" refreshtime="20000" NotPositive="0" desc="米袋">
+                <position x="533.010" z="290.552" ay="3.155" />
+            </item>
+        </creator>
+        <creator No="E6709CC0710C4729BC3BA7FBABAD4527" x="568.601" y="17.838" z="293.994" radius="3.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00055b" ay="3.155" amount="2" refreshtime="20000" NotPositive="0" desc="米袋">
+                <position x="569.700" z="293.279" ay="3.155" />
+                <position x="568.695" z="293.098" ay="2.205" />
+            </item>
+        </creator>
+        <creator No="6415661CE4634C53B48A3D8E41E9E6E0" x="602.122" y="17.562" z="321.488" radius="3.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00055b" ay="2.205" amount="2" refreshtime="20000" NotPositive="0" desc="米袋">
+                <position x="603.347" z="320.412" ay="2.205" />
+                <position x="603.715" z="321.307" ay="1.135" />
+            </item>
+        </creator>
+        <creator No="63AB45E4E66B4235988817DCA50E3B01" x="634.233" y="14.535" z="409.660" radius="3.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00055b" ay="2.205" amount="1" refreshtime="20000" NotPositive="0" desc="米袋">
+                <position x="634.313" z="408.768" ay="2.205" />
+            </item>
+        </creator>
+        <creator No="A71EE16FECF84498837C8354CC4806A3" x="652.514" y="17.622" z="350.558" radius="3.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00055b" ay="2.980" amount="2" refreshtime="30000" NotPositive="0" desc="米袋">
+                <position x="653.695" z="351.775" ay="2.980" />
+                <position x="652.933" z="351.297" ay="2.205" />
+                <position x="652.208" z="350.691" ay="0.715" />
+            </item>
+        </creator>
+        <creator No="DDA250B809914E25BF4911FFBAEBB571" x="641.538" y="23.789" z="382.521" radius="2.0" WakeupRange="8.0" ChaseRange="8.0" PatrolRange="5.0" TaskSubId="50005" TaskSubType="2" StaticY="1" HateLink="1">
+            <item No="1" id="Gather_qy_gb302_an01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="">
+                <position x="641.025" y="23.796" z="381.814" ay="-1" />
+            </item>
+        </creator>
+        <creator No="E4A80A49B818494EA7241FE4B036C6F1" x="643.692" y="23.732" z="301.175" radius="2.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="50006" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_qy_gb302_an02" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="">
+                <position x="643.196" z="300.853" ay="-1" />
+            </item>
+        </creator>
+        <creator No="91BC1546B11F42D793416921195AEDD5" x="695.995" y="23.600" z="311.785" radius="2.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="50007" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_qy_gb302_an03" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="">
+                <position x="695.145" z="312.291" ay="-1" />
+            </item>
+        </creator>
+        <creator No="82EC91DF4A6640B892E951199233D706" x="165.081" y="-0.396" z="466.050" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="50030" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_qy_gb401_huo" ay="-1" amount="3" refreshtime="10" NotPositive="0" desc="丐帮货物">
+                <position x="164.042" z="463.681" ay="-1" />
+                <position x="168.396" z="466.245" ay="-1" />
+                <position x="163.120" z="469.135" ay="-1" />
+            </item>
+        </creator>
+        <creator No="BF228C0104434BCEADCDDC6662E995B3" x="752.760" y="3.185" z="526.132" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="50021" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_qy_gb413_cao" ay="-1" amount="3" refreshtime="10" NotPositive="0" desc="金银花">
+                <position x="750.872" z="526.445" ay="-1" />
+                <position x="751.758" z="524.390" ay="-1" />
+                <position x="752.821" z="526.026" ay="-1" />
+            </item>
+        </creator>
+        <creator No="A34AD3F10D714D7283F0F7FCCD924CA1" x="547.480" y="-3.532" z="645.045" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57001" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_jy01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="锦衣卫" />
+        </creator>
+        <creator No="3DD713A03363485AB6E5F1C81AB66ED3" x="547.480" y="-3.532" z="645.045" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57002" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_gb01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="丐帮" />
+        </creator>
+        <creator No="597D86B95FA44294811B394E8F8DA00E" x="547.480" y="-3.532" z="645.045" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57003" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_jz01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="君子堂" />
+        </creator>
+        <creator No="A238341C3F1046F6B9F1BE341A860625" x="547.480" y="-3.532" z="645.045" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57004" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_jl01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="极乐谷" />
+        </creator>
+        <creator No="25DF30A45597428C8C07E475CCF4DCAA" x="547.480" y="-3.532" z="645.045" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57005" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_tm01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="唐门" />
+        </creator>
+        <creator No="CDBD6E78D1C94CADAC49AE26DA1A6531" x="547.480" y="-3.532" z="645.045" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57006" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_em01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="峨眉" />
+        </creator>
+        <creator No="863262D620BF4D2FB9F1B7FD831E6E50" x="547.480" y="-3.532" z="645.045" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57007" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_wd01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="武当" />
+        </creator>
+        <creator No="4CDF02687BA645A48759CB3236BCE22E" x="547.480" y="-3.532" z="645.045" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57008" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_sl01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="少林" />
+        </creator>
+        <creator No="E0B01239DCF74D25AAE8D33C838A8743" x="703.238" y="17.393" z="412.123" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57001" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_jy01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="锦衣卫" />
+        </creator>
+        <creator No="93E7CACB8C304ED494F2036963DF9686" x="703.238" y="17.393" z="412.123" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57002" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_gb01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="丐帮" />
+        </creator>
+        <creator No="5E492EE12387493F93A1C657895F18AB" x="703.238" y="17.393" z="412.123" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57003" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_jz01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="君子堂" />
+        </creator>
+        <creator No="09C53D6010EF4D0F97EB4AE4A220D0B4" x="703.238" y="17.393" z="412.123" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57004" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_jl01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="极乐谷" />
+        </creator>
+        <creator No="1A4353B0472446D387AF8AF83C84D254" x="703.238" y="17.393" z="412.123" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57005" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_tm01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="唐门" />
+        </creator>
+        <creator No="F3BDDA965ADB4060A34D635719C08CF1" x="703.238" y="17.393" z="412.123" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57006" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_em01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="峨眉" />
+        </creator>
+        <creator No="0FC6C30BE9A94AE39DF11D9397214430" x="703.238" y="17.393" z="412.123" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57007" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_wd01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="武当" />
+        </creator>
+        <creator No="8A813447C4D74308A8BD3901F90A85F4" x="703.238" y="17.393" z="412.123" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57008" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_sl01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="少林" />
+        </creator>
+        <creator No="51C054B10DD848C791CA056359607E13" x="593.013" y="26.661" z="126.448" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57001" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_jy01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="锦衣卫" />
+        </creator>
+        <creator No="5CC3369DEC8640C3A26328D4664DEC3C" x="593.013" y="26.661" z="126.448" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57002" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_gb01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="丐帮" />
+        </creator>
+        <creator No="ED84AD487C454068B04CBB6CD5F9C776" x="593.013" y="26.661" z="126.448" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57003" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_jz01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="君子堂" />
+        </creator>
+        <creator No="295E708885B7472EB760D4BB1FA228A5" x="593.013" y="26.661" z="126.448" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57004" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_jl01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="极乐谷" />
+        </creator>
+        <creator No="666AA35E1B954A1494C2E28F7D3380EB" x="593.013" y="26.661" z="126.448" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57005" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_tm01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="唐门" />
+        </creator>
+        <creator No="690300BD007B47D4823F537E9C840382" x="593.013" y="26.661" z="126.448" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57006" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_em01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="峨眉" />
+        </creator>
+        <creator No="6FEE1E56A9624EE6B913C7BBF9F9B7E5" x="593.013" y="26.661" z="126.448" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57007" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_wd01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="武当" />
+        </creator>
+        <creator No="F2E11305A54049F8A30D1284207EDAB6" x="593.013" y="26.661" z="126.448" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57008" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_sl01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="少林" />
+        </creator>
+        <creator No="34DDACC0C94049BBBC2B572D86044C1B" x="402.450" y="12.742" z="300.097" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57001" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_jy01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="锦衣卫" />
+        </creator>
+        <creator No="0A62BE5704C44323A0559625972DE69B" x="402.450" y="12.742" z="300.097" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57002" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_gb01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="丐帮" />
+        </creator>
+        <creator No="85522A53EEAE40CE97AA0CF0BC35EB41" x="402.450" y="12.742" z="300.097" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57003" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_jz01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="君子堂" />
+        </creator>
+        <creator No="534F6D34EA4C44F69435882950BC65C2" x="402.450" y="12.742" z="300.097" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57004" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_jl01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="极乐谷" />
+        </creator>
+        <creator No="39AC64C0965343359C789D618482708F" x="402.450" y="12.742" z="300.097" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57005" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_tm01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="唐门" />
+        </creator>
+        <creator No="ADB5A8F69C6B4EBBA058729C8C988004" x="402.450" y="12.742" z="300.097" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57006" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_em01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="峨眉" />
+        </creator>
+        <creator No="A344BCCBE1A24EA8B76133E77C19480D" x="402.450" y="12.742" z="300.097" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57007" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_wd01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="武当" />
+        </creator>
+        <creator No="005A9F32B0D04374B7C23C668A73880C" x="402.450" y="12.742" z="300.097" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57008" TaskSubType="1" HateLink="1" SubSceneNo="8032">
+            <item No="1" id="ctboss_sl01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="少林" />
+        </creator>
+        <creator No="9A2F3A8801224DE08582F69261F00E09" x="385.668" y="25.843" z="201.788" radius="8.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="81505" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_4nei_gb005" ay="-1" amount="5" refreshtime="5" NotPositive="0" desc="金银花">
+                <position x="386.880" z="205.143" ay="-1" />
+                <position x="383.005" z="204.526" ay="-1" />
+                <position x="384.082" z="197.437" ay="-1" />
+                <position x="382.029" z="200.974" ay="-1" />
+                <position x="388.306" z="200.430" ay="-1" />
+            </item>
+        </creator>
+        <creator No="8C2F4B9D395E44F280ECE82DD68A1244" x="529.558" y="17.250" z="376.133" radius="4.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="81504" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_4nei_gb004" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="金银花">
+                <position x="530.344" z="377.169" ay="-1" />
+            </item>
+        </creator>
+        <creator No="6FBD9A0B14CC4C6AA167D8A6BCFC4573" x="513.883" y="17.026" z="398.511" radius="4.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="544" TaskSubType="1" HateLink="1">
+            <item No="1" id="spynpcyd_xl" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="刺探NPC">
+                <position x="512.703" z="397.073" ay="-1" />
+                <position x="511.984" z="398.730" ay="-1" />
+                <position x="515.134" z="399.193" ay="-1" />
+            </item>
+        </creator>
+            <creator No="FA782275D03649E3ADD8D50F4034BCEC" x="677.618" y="17.026" z="235.590" radius="4.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="136" TaskSubType="2" HateLink="1">
+            <item No="1" id="lootnpcyd_hs" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="夺书NPC" />
+        </creator>
+        <creator No="3A575DE3AEB64A05B5B28CF5DF4CC9F1" x="610.380" y="18.978" z="234.298" radius="4.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="129" TaskSubType="2" HateLink="1">
+            <item No="1" id="booknpcyd_ds" ay="3.131" amount="1" refreshtime="5" NotPositive="0" desc="书架">
+                <position x="609.886" z="234.458" ay="3.131" />
+            </item>
+        </creator>
+        <creator No="348FD48434FD421CAFE1F180A22F584D" x="630.099" y="17.026" z="320.160" radius="3.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather_brsm01" sx="0.540" sy="0.650" sz="0.517" ay="5.400" amount="1" refreshtime="5" NotPositive="0" desc="酒坛堆">
+                <position x="629.909" z="319.764" sx="0.540" sy="0.650" sz="0.517" ay="5.400" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="1A8E737AF4504416B38F023F53B132FA" x="43.585" y="-8.992" z="712.865" radius="30.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="GatherClone004005" amount="8" refreshtime="30000" NotPositive="0" desc="矿石">
+                <position x="37.622" z="729.715" />
+                <position x="45.266" z="724.696" />
+                <position x="53.145" z="720.710" />
+                <position x="26.364" z="700.861" />
+                <position x="65.750" z="723.888" />
+                <position x="28.048" z="721.543" />
+                <position x="23.135" z="715.820" />
+                <position x="31.621" z="711.250" />
+            </item>
+        </creator>
+        <creator No="B7C14D86CF4E401895DA3FED54774A12" x="69.952" y="-3.787" z="634.616" radius="30.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="GatherClone004006" amount="6" refreshtime="30000" NotPositive="0" desc="木材">
+                <position x="61.229" z="633.049" />
+                <position x="78.619" z="639.303" ay="-0.635" az="-0.111" />
+                <position x="83.561" z="614.920" ay="-0.390" />
+                <position x="54.312" z="644.783" sx="0.610" sy="0.610" sz="0.610" ay="2.663" az="0.211" />
+                <position x="61.416" z="609.309" ay="-0.385" />
+                <position x="49.656" z="626.166" sx="0.530" sy="0.530" sz="0.530" ay="4.148" az="0.207" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

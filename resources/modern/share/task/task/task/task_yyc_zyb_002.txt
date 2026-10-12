@@ -1,0 +1,17 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	Title	Step	SearchID	Line	AcceptNpc	SubmitNpc	AcceptSceneID	SubmitSceneID	AutoAcceptID	AutoSubmit	PreTaskLimit	NextTaskLimit	AcceptLimit	AcceptReputationLimit	SubmitLimit	SubFunction	TaskItemList	RefreshMonster	TimeLimitLength	SubmitNpcEx	TaskScript	TitleId	ContextId	AcceptDialogId	CompleteDialogId	UnCompleteDialogId	TaskTargetId	TrackInfoID	LineNextInfo	CanAcceptMenu	UncompleteMenu	CompleteMenu	AcceptMovie	SubmitMovie	DramaAccept	DramaSubmit	CanGiveup	ShareType	RepeatType	RepeatPeriod	CountDayLimit	DifficultCoefficient	DifficultLevel	TiaozhanTime	ActivityType
+75201			s1720101	20			947	947	75202	1	75018	75202										title_75201	context_75201				target_75201		next_75201								0	0	0						
+75202			s1720101	20			947	947	75203	1	75201	75203										title_75202	context_75202				target_75202		next_75202								0	0	0						
+75203			s1720101	20			947	947	75204	1	75202	75204								SubmitNpcEx_75203		title_75203	context_75203				target_75203		next_75203								0	0	0						
+75204			s1720101	20			947	947	75205	1	75203	75205										title_75204	context_75204				target_75204		next_75204								0	0	0						
+75205			s1720101	20			947	947	75206	1	75204	75206										title_75205	context_75205				target_75205		next_75205								0	0	0						
+75206			s1720101	20		yyjq_second_006		14			75205	75301										title_75206	context_75206	accept_75206_1;menu_75206_1	complete_75206;submit_75206		target_75206		next_75206	CanAcceptMenu_75206		CompleteMenu_75206					0	0	0						
+75211			s1720102	20					75212	1		75212										title_75211	context_75211				target_75211		next_75211								0	0	0						
+75212			s1720102	20					75213	1	75211	75213										title_75212	context_75212				target_75212		next_75212								0	0	0						
+75213			s1720102	20					75214	1	75212	75214										title_75213	context_75213				target_75213		next_75213								0	0	0						
+75214			s1720102	20					75215	1	75213	75215										title_75214	context_75214				target_75214		next_75214								0	0	0						
+75215			s1720102	20					75216	1	75214	75216										title_75215	context_75215				target_75215		next_75215								0	0	0						
+75216			s1720102	20		yyjq_seven_009		16			75215											title_75216	context_75216		complete_75216;submit_75216		target_75216					CompleteMenu_75216					0	0	0						
+75217			s1720201	22	npc_yyz_gs_001	npc_yyz_gs_001	951	951					9996;118436									title_75217	context_75217				target_75217		next_75217								1	0	1	1	1				101
+75218			s1720201	22	npc_yyz_gs_003	npc_yyz_gs_003	951	951					9996;118436									title_75218	context_75218				target_75218		next_75218								1	1	1	1	1				101
+75219			s1720201	24	Jtg_zyb_013	Jtg_zyb_013	954	954					118499									title_75219	context_75219				target_75219		next_75219								1	2	3	1	1				47

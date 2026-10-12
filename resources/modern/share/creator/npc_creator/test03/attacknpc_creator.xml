@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator x="1208.963" y="83.986" z="677.364" radius="10.0" WakeupRange="12.0" ChaseRange="25.0" PatrolRange="0.0" HateLink="1">
+            <item id="monc051806" ay="4.603" amount="2" refreshtime="30000" desc="守门弟子">
+                <position x="1209.109" z="681.679" ay="4.603" />
+                <position x="1209.298" z="673.017" ay="4.583" RandomAction="" />
+            </item>
+        </creator>
+        <creator x="1223.562" y="83.896" z="716.616" radius="5.0" WakeupRange="12.0" ChaseRange="20.0" PatrolRange="0.0" HateLink="1">
+            <item id="monc051810" ay="3.148" amount="2" refreshtime="30000" desc="兵器库护卫">
+                <position x="1220.101" z="717.266" ay="3.148" />
+                <position x="1226.488" z="717.356" ay="3.243" />
+            </item>
+        </creator>
+        <creator x="1262.021" y="83.986" z="679.289" radius="8.0" WakeupRange="12.0" ChaseRange="20.0" PatrolRange="0.0" HateLink="1">
+            <item id="monc051813" ay="4.758" amount="2" refreshtime="30000" desc="聚贤堂护卫">
+                <position x="1262.820" z="683.981" ay="4.758" RandomAction="" />
+                <position x="1262.996" z="674.638" ay="4.698" RandomAction="" />
+            </item>
+        </creator>
+        <creator x="1235.800" y="84.047" z="635.599" radius="8.0" WakeupRange="12.0" ChaseRange="20.0" PatrolRange="0.0" HateLink="1">
+            <item id="monc051809" ay="6.173" amount="2" refreshtime="30000" desc="待贤堂护卫">
+                <position x="1238.833" z="634.129" ay="6.173" RandomAction="" />
+                <position x="1232.646" z="633.831" ay="0.030" RandomAction="" />
+            </item>
+        </creator>
+        <creator x="1229.650" y="84.680" z="623.713" radius="2.0" WakeupRange="6.0" ChaseRange="15.0" PatrolRange="0.0">
+            <item id="monc051827" ay="0.715" amount="1" refreshtime="30000" desc="浣花四杰 裴修华">
+                <position x="1229.871" z="623.298" ay="0.715" BornAction="sitloop" RandomAction="" />
+            </item>
+        </creator>
+        <creator x="1233.509" y="84.023" z="623.342" radius="3.0" WakeupRange="10.0" ChaseRange="20.0" PatrolRange="0.0" HateLink="1">
+            <item id="monc051807" ay="1.435" amount="2" refreshtime="30000" desc="守卫弟子">
+                <position x="1233.923" z="621.627" ay="1.435" RandomAction="" />
+                <position x="1233.701" z="625.681" ay="1.525" RandomAction="" />
+            </item>
+        </creator>
+        <creator x="1249.286" y="81.430" z="658.805" radius="3.0" WakeupRange="10.0" ChaseRange="20.0" PatrolRange="0.0">
+            <item id="monc051822" ay="5.473" amount="1" refreshtime="30000" desc="浣花女剑侠 廉小红">
+                <position x="1249.715" z="659.022" ay="5.473" BornAction="ty_talk3" RandomAction="" />
+            </item>
+            <item id="monc051823" ay="2.120" amount="1" refreshtime="30000" desc="浣花女剑侠 齐宝莲">
+                <position x="1249.059" z="659.589" ay="2.120" />
+            </item>
+        </creator>
+        <creator x="1261.541" y="81.430" z="652.743" radius="3.0" WakeupRange="8.0" ChaseRange="20.0" PatrolRange="0.0" HateLink="1">
+            <item id="monc051803" ay="4.005" amount="2" refreshtime="30000" desc="浣花女弟子">
+                <position x="1261.389" z="654.710" ay="4.005" RandomAction="" />
+                <position x="1261.655" z="650.818" ay="5.510" RandomAction="" />
+            </item>
+        </creator>
+        <creator x="1259.358" y="81.430" z="705.529" radius="3.0" WakeupRange="8.0" ChaseRange="20.0" PatrolRange="0.0" HateLink="1">
+            <item id="monc051803" ay="4.080" amount="2" refreshtime="30000" desc="浣花女弟子">
+                <position x="1259.355" z="707.502" ay="4.080" RandomAction="" />
+                <position x="1259.328" z="703.601" ay="5.585" RandomAction="" />
+            </item>
+        </creator>
+        <creator x="1224.137" y="81.430" z="694.057" radius="3.0" WakeupRange="8.0" ChaseRange="20.0" PatrolRange="0.0" HateLink="1">
+            <item id="monc051818" ay="4.620" amount="1" refreshtime="30000" desc="浣花剑客">
+                <position x="1223.415" z="692.386" ay="4.620" BornAction="scratch" RandomAction="" />
+            </item>
+            <item id="monc051819" ay="1.212" amount="1" refreshtime="30000" desc="浣花女剑客">
+                <position x="1222.365" z="692.026" ay="1.212" BornAction="shake" RandomAction="" />
+            </item>
+        </creator>
+        <creator x="1273.842" y="83.896" z="717.764" radius="5.0" WakeupRange="10.0" ChaseRange="20.0" PatrolRange="0.0" HateLink="1">
+            <item id="monc051811" ay="3.172" amount="2" refreshtime="30000" desc="憩室护卫">
+                <position x="1270.392" z="717.922" ay="3.172" RandomAction="" />
+                <position x="1278.030" z="718.061" ay="3.070" RandomAction="" />
+            </item>
+        </creator>
+        <creator x="1262.569" y="83.896" z="717.209" radius="2.0" WakeupRange="6.0" ChaseRange="25.0" PatrolRange="0.0">
+            <item id="monc051821" ay="1.632" amount="1" refreshtime="30000" desc="浣花剑侠 倪万里">
+                <position x="1263.040" z="716.864" ay="1.632" RandomAction="" />
+            </item>
+        </creator>
+        <creator x="1271.000" y="84.856" z="727.900" radius="5.0" WakeupRange="0.0" ChaseRange="20.0" PatrolRange="0.0">
+            <item id="monc051801" ay="3.092" amount="2" refreshtime="30000" desc="受伤弟子">
+                <position x="1272.000" z="728.041" ay="3.092" BornAction="ty_lie_sleep" RandomAction="" />
+                <position x="1275.705" z="727.598" ay="3.022" BornAction="ty_lie_talk" RandomAction="" />
+            </item>
+        </creator>
+        <creator x="1275.824" y="83.896" z="724.721" radius="2.0" WakeupRange="10.0" ChaseRange="20.0" PatrolRange="0.0">
+            <item id="monc051802" ay="5.905" amount="1" refreshtime="30000" desc="浣花弟子">
+                <position x="1275.824" z="724.721" ay="5.905" />
+            </item>
+        </creator>
+        <creator x="1245.228" y="81.464" z="678.576" radius="8.0" WakeupRange="10.0" ChaseRange="20.0" PatrolRange="0.0" HateLink="1">
+            <item id="monc051813" ay="4.758" amount="2" refreshtime="30000" desc="聚贤堂护卫">
+                <position x="1246.026" z="683.268" ay="4.758" RandomAction="" />
+                <position x="1246.202" z="673.924" ay="4.698" RandomAction="" />
+            </item>
+        </creator>
+        <creator x="1299.744" y="83.896" z="733.329" radius="4.0" WakeupRange="10.0" ChaseRange="20.0" PatrolRange="0.0" HateLink="1">
+            <item id="monc051815" ay="3.743" amount="2" refreshtime="30000" desc="闭关室护卫">
+                <position x="1302.531" z="733.908" ay="3.743" RandomAction="" />
+                <position x="1296.579" z="733.807" ay="2.598" RandomAction="" />
+            </item>
+        </creator>
+        <creator x="1319.241" y="83.764" z="658.249" radius="5.0" WakeupRange="10.0" ChaseRange="20.0" PatrolRange="0.0" HateLink="1">
+            <item id="monc051816" ay="0.513" amount="2" refreshtime="30000" desc="书阁女护卫">
+                <position x="1316.229" z="657.079" ay="0.513" RandomAction="" />
+                <position x="1322.483" z="657.564" ay="5.791" RandomAction="" />
+            </item>
+        </creator>
+        <creator x="1319.718" y="84.532" z="642.091" radius="6.0" WakeupRange="10.0" ChaseRange="20.0" PatrolRange="0.0" HateLink="1">
+            <item id="monc051819" ay="3.656" amount="2" refreshtime="30000" desc="浣花女剑客">
+                <position x="1321.881" z="637.164" ay="3.656" BornAction="ty_talk2" RandomAction="" />
+                <position x="1315.574" z="643.208" ay="4.731" />
+            </item>
+        </creator>
+        <creator x="1320.195" y="84.308" z="633.924" radius="2.0" WakeupRange="8.0" ChaseRange="20.0" PatrolRange="0.0">
+            <item id="monc051829" ay="0.453" amount="1" refreshtime="30000" desc="绿萝仙子 江娉婷">
+                <position x="1320.355" z="634.177" ay="0.453" BornAction="sitloop" RandomAction="" />
+            </item>
+        </creator>
+        <creator x="1291.591" y="84.048" z="619.766" radius="5.0" WakeupRange="10.0" ChaseRange="20.0" PatrolRange="0.0" HateLink="1">
+            <item id="monc051812" ay="6.261" amount="2" refreshtime="30000" desc="打坐室护卫">
+                <position x="1295.282" z="619.442" ay="6.261" RandomAction="" />
+                <position x="1287.607" z="619.174" ay="6.241" RandomAction="" />
+            </item>
+        </creator>
+        <creator x="1320.179" y="82.594" z="615.200" radius="5.0" WakeupRange="10.0" ChaseRange="20.0" PatrolRange="0.0" HateLink="1">
+            <item id="monc051814" ay="6.241" amount="2" refreshtime="30000" desc="密室护卫">
+                <position x="1318.564" z="613.558" ay="6.241" RandomAction="" />
+                <position x="1322.489" z="613.557" ay="6.241" RandomAction="" />
+            </item>
+        </creator>
+        <creator x="1375.974" y="83.468" z="638.261" radius="3.0" WakeupRange="6.0" ChaseRange="20.0" PatrolRange="0.0" HateLink="1">
+            <item id="monc051818" ay="1.565" amount="1" refreshtime="30000" desc="浣花剑客">
+                <position x="1377.278" z="638.715" ay="1.565" BornAction="ty_kneel_culte_loop" RandomAction="" />
+            </item>
+            <item id="monc051819" ay="1.207" amount="1" refreshtime="30000" desc="浣花女剑客">
+                <position x="1376.282" z="637.612" ay="1.207" />
+            </item>
+            <item id="monc051830" ay="5.520" amount="1" refreshtime="30000" desc="一笔翻天 傅东扬">
+                <position x="1377.950" z="636.998" ay="5.520" />
+            </item>
+        </creator>
+        <creator x="1371.901" y="83.468" z="638.129" radius="5.0" WakeupRange="10.0" ChaseRange="20.0" PatrolRange="0.0" HateLink="1">
+            <item id="monc051817" ay="4.833" amount="2" refreshtime="30000" desc="祠堂女护卫">
+                <position x="1372.876" z="634.186" ay="4.833" RandomAction="" />
+                <position x="1372.316" z="642.141" ay="4.608" RandomAction="" />
+            </item>
+        </creator>
+        <creator x="1399.177" y="82.554" z="637.189" radius="2.0" WakeupRange="10.0" ChaseRange="20.0" PatrolRange="0.0">
+            <item id="monc051832" ay="1.483" amount="1" refreshtime="30000" desc="隐居高人 华一坤">
+                <position x="1399.673" z="637.119" ay="1.483" BornAction="weep" RandomAction="" />
+            </item>
+        </creator>
+        <creator x="1331.015" y="86.431" z="705.717" radius="2.0" WakeupRange="12.0" ChaseRange="20.0" PatrolRange="3.0">
+            <item id="monc051826" ay="-1" amount="1" refreshtime="30000" desc="浣花四杰 君淮明">
+                <position x="1331.701" z="705.089" ay="-1" />
+            </item>
+        </creator>
+        <creator x="1344.723" y="87.212" z="722.102" radius="2.0" WakeupRange="8.0" ChaseRange="20.0" PatrolRange="0.0">
+            <item id="monc051808" ay="1.568" amount="1" refreshtime="30000" desc="打坐弟子">
+                <position x="1345.112" z="722.211" ay="1.568" BornAction="ty_sl_zhama" RandomAction="" />
+            </item>
+        </creator>
+        <creator x="1350.327" y="87.212" z="722.312" radius="2.0" WakeupRange="8.0" ChaseRange="20.0" PatrolRange="0.0">
+            <item id="monc051808" ay="4.668" amount="1" refreshtime="30000" desc="打坐弟子">
+                <position x="1350.103" z="722.380" ay="4.668" BornAction="ty_sl_zhama" RandomAction="" />
+            </item>
+        </creator>
+        <creator x="1346.732" y="86.596" z="706.689" radius="4.0" WakeupRange="8.0" ChaseRange="20.0" PatrolRange="0.0" HateLink="1">
+            <item id="monc051804" ay="0.155" amount="3" refreshtime="30000" desc="练功弟子">
+                <position x="1346.458" z="704.771" ay="0.155" BornAction="atkhit3" RandomAction="" />
+                <position x="1349.151" z="706.547" ay="4.668" BornAction="shake" RandomAction="" />
+                <position x="1346.532" z="706.944" ay="3.143" BornAction="phyparry_s" RandomAction="" />
+            </item>
+        </creator>
+        <creator x="1338.403" y="86.648" z="711.479" radius="3.0" WakeupRange="8.0" ChaseRange="20.0" PatrolRange="0.0" HateLink="1">
+            <item id="monc051804" ay="0.735" amount="2" refreshtime="30000" desc="练功弟子">
+                <position x="1337.183" z="710.376" ay="0.735" BornAction="ty_nod" RandomAction="" />
+                <position x="1337.509" z="712.584" ay="3.263" BornAction="ty_talk4" RandomAction="" />
+            </item>
+        </creator>
+        <creator x="1349.755" y="86.438" z="693.966" radius="2.0" WakeupRange="8.0" ChaseRange="20.0" PatrolRange="0.0" HateLink="1">
+            <item id="monc051804" ay="5.313" amount="2" refreshtime="30000" desc="练功弟子">
+                <position x="1350.617" z="695.005" ay="5.313" BornAction="sitloop" RandomAction="" />
+                <position x="1348.918" z="694.555" ay="0.205" />
+            </item>
+        </creator>
+        <creator x="1357.091" y="86.431" z="712.650" radius="2.0" WakeupRange="8.0" ChaseRange="20.0" PatrolRange="0.0">
+            <item id="monc051804" ay="4.668" amount="1" refreshtime="30000" desc="练功弟子">
+                <position x="1357.467" z="713.639" ay="4.668" />
+            </item>
+        </creator>
+        <creator x="1257.580" y="83.986" z="680.540" radius="1.0" WakeupRange="10.0" ChaseRange="20.0" PatrolRange="3.0">
+            <item id="monc051820" ay="4.368" amount="1" refreshtime="30000" desc="浣花剑侠 王少堂">
+                <position x="1257.280" z="680.816" ay="4.368" />
+            </item>
+        </creator>
+        <creator x="1281.917" y="85.798" z="679.989" radius="1.0" WakeupRange="10.0" ChaseRange="25.0" PatrolRange="0.0">
+            <item id="monc051831" ay="4.368" amount="1" refreshtime="30000" desc="浣花剑派掌门 江尊堂">
+                <position x="1281.603" z="679.928" ay="4.368" />
+            </item>
+        </creator>
+        <creator x="1270.712" y="83.996" z="679.513" radius="5.0" WakeupRange="8.0" ChaseRange="20.0" PatrolRange="0.0" HateLink="1">
+            <item id="monc051824" ay="1.743" amount="1" refreshtime="30000" desc="浣花四杰 古啸天">
+                <position x="1271.932" z="680.815" ay="1.743" />
+            </item>
+            <item id="monc051825" ay="1.365" amount="1" refreshtime="30000" desc="浣花四杰 梁影峰">
+                <position x="1272.334" z="678.320" ay="1.365" />
+            </item>
+            <item id="monc051828" ay="1.340" amount="1" refreshtime="30000" desc="连环梭 西门飞燕">
+                <position x="1270.449" z="678.411" ay="1.340" />
+            </item>
+        </creator>
+        <creator x="1287.889" y="82.594" z="637.985" radius="3.0" WakeupRange="8.0" ChaseRange="20.0" PatrolRange="0.0" HateLink="1">
+            <item id="monc051818" ay="4.350" amount="1" refreshtime="30000" desc="浣花剑客">
+                <position x="1289.007" z="639.643" ay="4.350" BornAction="ty_talk6" RandomAction="" />
+            </item>
+            <item id="monc051819" ay="0.977" amount="1" refreshtime="30000" desc="浣花女剑客">
+                <position x="1287.314" z="638.598" ay="0.977" BornAction="ty_talk3" RandomAction="" />
+            </item>
+            <item id="monc051803" ay="1.417" amount="1" refreshtime="5" desc="浣花女弟子">
+                <position x="1286.694" z="638.947" ay="1.417" BornAction="weep" RandomAction="" />
+            </item>
+        </creator>
+        <creator x="1366.796" y="82.594" z="679.462" radius="3.0" WakeupRange="10.0" ChaseRange="20.0" PatrolRange="0.0">
+            <item id="monc051802" ay="0.692" amount="1" refreshtime="30000" desc="浣花弟子">
+                <position x="1366.255" z="677.248" ay="0.692" BornAction="ty_smile4" RandomAction="" />
+            </item>
+            <item id="monc051803" ay="3.847" amount="2" refreshtime="30000" desc="浣花女弟子">
+                <position x="1368.190" z="679.677" ay="3.847" BornAction="ty_angry2" RandomAction="" />
+                <position x="1366.668" z="679.498" ay="3.072" BornAction="ty_angry" RandomAction="" />
+            </item>
+        </creator>
+        <creator x="1286.702" y="83.986" z="674.434" radius="2.0" WakeupRange="10.0" ChaseRange="20.0" PatrolRange="0.0" HateLink="1">
+            <item id="monc051818" ay="0.932" amount="1" refreshtime="30000" desc="浣花剑客">
+                <position x="1286.122" z="673.555" ay="0.932" BornAction="ty_talk4" RandomAction="" />
+            </item>
+            <item id="monc051802" ay="4.140" amount="1" refreshtime="30000" desc="浣花弟子">
+                <position x="1287.874" z="674.693" ay="4.140" BornAction="ty_nod" RandomAction="" />
+            </item>
+            <item id="monc051803" ay="3.700" amount="1" refreshtime="30000" desc="浣花女弟子">
+                <position x="1286.935" z="675.111" ay="3.700" BornAction="ty_nod" RandomAction="" />
+            </item>
+        </creator>
+        <creator x="1223.256" y="81.430" z="655.046" radius="3.0" WakeupRange="10.0" ChaseRange="20.0" PatrolRange="0.0" HateLink="1">
+            <item id="monc051802" ay="1.312" amount="2" refreshtime="5" desc="浣花弟子">
+                <position x="1223.015" z="653.994" ay="1.312" BornAction="shake" RandomAction="" />
+                <position x="1224.927" z="654.902" ay="4.417" BornAction="scratch" RandomAction="" />
+            </item>
+            <item id="monc051818" ay="0.904" amount="1" refreshtime="5" desc="浣花剑客">
+                <position x="1223.607" z="653.621" ay="0.904" BornAction="ty_smile" RandomAction="" />
+            </item>
+        </creator>
+        <creator x="1245.103" y="81.430" z="711.722" radius="3.0" WakeupRange="10.0" ChaseRange="20.0" PatrolRange="0.0" HateLink="1">
+            <item id="monc051802" ay="1.970" amount="2" refreshtime="5" desc="浣花弟子">
+                <position x="1244.887" z="712.832" ay="1.970" BornAction="ty_talk2" RandomAction="" />
+                <position x="1246.141" z="712.597" ay="4.417" BornAction="shake" RandomAction="" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

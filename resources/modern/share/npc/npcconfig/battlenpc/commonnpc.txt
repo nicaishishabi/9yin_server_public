@@ -1,0 +1,653 @@
+NPC编号	对象类型	ini注释名称	NPC乞讨信息	表现AI包编号	NPC类型	选择操作	鼠标形状	停留时间	是否转身	走路速度	跑步速度	武器持握方式	模型编号	模型半径	图片	出生状态	npc声音	组成材料	武器名称	NPC种类ID	脚本编号	触发特效	AI类型	巡逻模式	巡逻半径	路径ID	是否随机出现	响应范围	门派	称号	籍贯	阵营	名字表序号	生平表序号	身份参数00000000'01	身份参数2	身份参数3	对话规则	生平	能否切磋	随机对话	下棋玩家的最小等级	NPC身上挂的棋谱包	NPC事件包编号	进入切磋前对话	结束切磋后对话	空闲状态对话	碰撞时对话	AI条件执行编码表	实力包编号	级别	修为经验	怪物强度	掉落	武器类型	锁定位移攻击	拾取权限清空时间	无拾取物消失时间	最大消失时间	附加随机能力编号	普通攻击	技能表	主动被动	固定NPC重生时间	敌人NPC编号表	队友编号	能否攻击	能不能被攻击	不能被杀死	攻防比重	"战斗频率,毫秒"	"追击范围,米"	无法被硬直	锁定技能间隔	召唤ID	召唤半径	召唤类型	表演概率	表演时间	势力归属	势力关系表	战斗开始的召唤ID	商店ID	洗红名功能	仓库ID	职业ID	宝石游戏NPC ID	接任务表	交任务表	可以加入的门派表	可获得的身份表	复活点	落脚点	驿站	输入关系包编号	是否有公会功能	帮派地块购买	是否有门派战功能	运镖编号	是否有帮派仓库	所属帮会地块编号	AI编辑包	是否可见	缩放比例	刷新时间	直接触发	防御概率属性	是否预载入	缩放比例	据点属性
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	int
+ID	script	Name	NpcBegInfo	AIParaNo	NpcType	SelectState	CursorShape	StopTime	NeedRotate	WalkSpeed	RunSpeed	WeaponMode	Resource	CollideRadius	Photo	BornAction	ActionSoundMode	Material	WeaponName	CKindID	LuaScript	SpringEffect	AITemplate	PatrolMode	PatrolRange	PathID	RandomBorn	SpringRange	School	Call	Hometown	Camp	SNameTable	StoryTable	OriginPara1	OriginPara2	OriginPara3	NpcTalkRule	Story	CanQiecuo	FreeTalk	LevelMin	table@Qipus	FeedBack	BeginQiecuoTalk	EndQiecuoTalk	FreeTalk	KnockTalk	table@CondHandleIDRec	PowerNo	Level	FacultyExp	BossLevel	DropID	WeaponType	Fixed	PickChangeTime	DestroyTime1	DestroyTime2	AddPropID	NormalSkill	table@SkillRec	NotPositive	RefreshTime	table@EnemyNpcRec	FriendNpc	CantAttack	CantBeAttack	CantBeKilled	AttackRate	AIFightFreq	ChaseRange	CantBeStick	SkillHoldTime	CallHelpID	CallHelpRange	CallHelpType	ShowRate	ShowTime	SelfForceID	table@ForceRec	SummonIDBeginFight	ShopID	ClearPK	DepotID	Job	GemGameNpcID	table@TaskCanAccept	table@TaskCanSubmit	table@school_rec	table@OriginCanGet	RelivePos	HomePoint	TransFuncID	RelationInputNo	GuildFunc	BuyGuildDomain	SchoolWarFunc	EscortID	GuildDepotFunc	DomainID	AIEditorPackID	Invisible	Scale	RefreshTime	DirectSpring	AIParrayRate	Preload	Scale	PointIndex
+	//机关NPC																																																																																																													
+	//锦衣卫-school01																																																																																																													
+SWJG_jyw_01	CommonNpc	木栅栏			172								npc\fbmac00007		icon\funcnpc\fbmac00007.png						npc\clone\schoolwar5\SWJG_jyw_01.lua							100																																																																																		
+SWJG_jyw_02	CommonNpc	门			76	2	2						npc\fbmac005004		icon\funcnpc\fbmac004001.png						npc\clone\schoolwar5\SWJG_jyw_02.lua							100																						116	20		1			1		1																						1111																									-1			1		
+SWJG_jyw_03	CommonNpc	门			76	2	2						npc\fbmac005004		icon\funcnpc\fbmac004001.png						npc\clone\schoolwar5\SWJG_jyw_03.lua							100																						116	20		1			1		1																						1111																									-1			1		
+																																																																																																														
+																																																																																																														
+																																																																																																														
+																																																																																																														
+																																																																																																														
+																																																																																																														
+																																																																																																														
+																																																																																																														
+	//丐帮-school02																																																																																																													
+switem_gb_buff_01	CommonNpc	水缸			81	2	2			0	0		npc\itemnpc060		icon\funcnpc\itemnpc060.png									0	0			10																																																																																		
+switem_gb_01	CommonNpc	捕兽夹			81	2	2			0	0		npc\itemnpc619		icon\funcnpc\itemnpc619.png						npc\clone\schoolwar6\switem_gb_01.lua			0	0			1																																																																											1							
+swnpc_infonpc	CommonNpc	宁鹰飞			81	2	2			0	0		npc\worldnpc207		icon\funcnpc\worldnpc207.png									0	0			10																																																																																		
+swnpc_gbksnpc	CommonNpc	投石机看守弟子			81	2	2			0	0		npc\worldnpc561		icon\funcnpc\worldnpc561.png									0	0			10																																																																																		
+switem_gb_itembox	CommonNpc	道具宝箱			81	2	2			0	0		npc\itemboxnpc002		icon\funcnpc\itemboxnpc002.png						npc\clone\schoolwar6\switem_gb_itembox.lua			0	0			10																																																																																		
+switem_gb_door	CommonNpc	防守石门			76	2	2			0	0		npc\fbmac002011		icon\funcnpc\fbmac002011.png						npc\clone\schoolwar6\switem_gb_door.lua			0	0			10																						97	18		1			1		1																						1111																									-1					
+switem_gb_relive01	CommonNpc	佛塔洞公共复活点特效1			202					0	0		npc\itemnpc057u		icon\funcnpc\npc\itemnpc057u.png									0	0			10																																																																																		
+switem_gb_relive02	CommonNpc	蚂蚁岭公共复活点特效2			202					0	0		npc\itemnpc057u		icon\funcnpc\npc\itemnpc057u.png									0	0			10																																																																																		
+switem_gb_relive03	CommonNpc	驿站公共复活点特效3			202					0	0		npc\itemnpc057u		icon\funcnpc\npc\itemnpc057u.png									0	0			10																																																																																		
+switem_gb_relive04	CommonNpc	宗义祠公共复活点特效4			202					0	0		npc\itemnpc057u		icon\funcnpc\npc\itemnpc057u.png									0	0			10																																																																																		
+schoolwar_guildnpc_gb01	CommonNpc	断云崖（丐帮东北区域）		8	81	2	2					hand1_1	npc\worldnpc355	0.919563	icon\funcnpc\worldnpc355.png					0	npc\clone\schoolwar6\schoolwar_guildnpc_gb01.lua							20				1																																																																														
+schoolwar_guildnpc_gb02	CommonNpc	回雁峰（丐帮西南区域）		8	81	2	2					hand1_1	npc\worldnpc355	0.919563	icon\funcnpc\worldnpc355.png					0	npc\clone\schoolwar6\schoolwar_guildnpc_gb02.lua							20				1																																																																														
+schoolwar_guildnpc_gb03	CommonNpc	无功能		8	81	2	2					hand1_1	npc\worldnpc207	0.89833	icon\funcnpc\worldnpc207.png					0								20				1																																																																														
+schoolwar_guildnpc_gb04	CommonNpc	无功能		8	81	2	2					hand1_1	npc\worldnpc207	0.89833	icon\funcnpc\worldnpc207.png					0								20				1																																																																														
+switem_gb_flagnpc01	CommonNpc	守方战旗发放NPC			81	2	2			0	0	hand1_1	npc\worldnpc292		icon\funcnpc\worldnpc292.png						npc\clone\schoolwar6\switem_gb_flagnpc01.lua			0	0			10																																																																																		
+switem_gb_flagnpc02	CommonNpc	攻方战旗发放NPC			81	2	2			0	0	hand1_1	npc\worldnpc214		icon\funcnpc\worldnpc214.png						npc\clone\schoolwar6\switem_gb_flagnpc02.lua			0	0			10																																																																																		
+sweff_lhz01	CommonNpc	莲花落阵特效			202					0	0		npc\itemnpc057_gb01		icon\funcnpc\itemnpc057_gb01.png									0	0			10																																																																																		
+sweff_lhz02	CommonNpc	莲花落阵特效			202					0	0		npc\itemnpc057_gb01		icon\funcnpc\itemnpc057_gb01.png									0	0			10																																																																																		
+sweff_lhz03	CommonNpc	莲花落阵特效			202					0	0		npc\itemnpc057_gb01		icon\funcnpc\itemnpc057_gb01.png									0	0			10																																																																																		
+sweff_lhz04	CommonNpc	莲花落阵特效			202					0	0		npc\itemnpc057_gb01		icon\funcnpc\itemnpc057_gb01.png									0	0			10																																																																																		
+sweff_lhz05	CommonNpc	莲花落阵特效			202					0	0		npc\itemnpc057_gb01		icon\funcnpc\itemnpc057_gb01.png									0	0			10																																																																																		
+																																																																																																														
+sweff_zf01	CommonNpc	阵法大圈1			202					0	0		npc\itemnpc057_gb02		icon\funcnpc\itemnpc057_gb02.png									0	0			10																																																																																		
+sweff_zf02	CommonNpc	阵法大圈2			202					0	0		npc\itemnpc057_gb03		icon\funcnpc\itemnpc057_gb03.png									0	0			10																																																																																		
+																																																																																																														
+	//君子堂-school03																																																																																																													
+schoolwar_item_jz06	CommonNpc	大字“定”			172					0	0		npc\itemnpc623		icon\funcnpc\itemnpc623.png									0	0			20																																																																																		
+schoolwar_item_jz07	CommonNpc	大字“惑”			172					0	0		npc\itemnpc622		icon\funcnpc\itemnpc622.png									0	0			20																																																																																		
+schoolwar_item_jz08	CommonNpc	悬挂的画			172					0	0		npc\itemnpc039		icon\funcnpc\itemnpc039.png									0	0			20																																																																																		
+schoolwar_item_jz09	CommonNpc	焚烟的香炉			172					0	0		npc\fbmac005017		icon\monster\Fbmac005017.png									0	0			20																																																																																		
+schoolwar_item_jz10	CommonNpc	大字“群”			172					0	0		npc\itemnpc624		icon\funcnpc\itemnpc624.png									0	0			20																																																																																		
+schoolwar_item_jz11	CommonNpc	大字“气”			172					0	0		npc\itemnpc625		icon\funcnpc\itemnpc625.png									0	0			20																																																																																		
+schoolwar_item_jz12	CommonNpc	大字“控”			172					0	0		npc\itemnpc626		icon\funcnpc\itemnpc626.png									0	0			20																																																																																		
+schoolwar_item_jz13	CommonNpc	棋子触发NPC			172					0	0		npc\itemnpc620		icon\funcnpc\itemnpc626.png									0	0			20																																																																																		
+schoolwar_item_jz14	CommonNpc	墨池眯眼特效一			172								npc\itemnpc057_em01		icon\funcnpc\itemnpc057.png						npc\clone\schoolwar7\schoolwar_special_jz01.lua																																																																																									
+schoolwar_item_jz15	CommonNpc	墨池眯眼特效二			172								npc\itemnpc057_em02		icon\funcnpc\itemnpc057.png						npc\clone\schoolwar7\schoolwar_special_jz01.lua																																																																																									
+																																																																																																														
+																																																																																																														
+																																																																																																														
+	//极乐谷-school04																																																																																																													
+schoolwar_jlg_01	CommonNpc	毒使毒气			172					0	0		npc\itemnpc057_jlg01								npc\clone\schoolwar8\schoolwar_jlg_01.lua			0	0			20																																																																																		
+schoolwar_jlg_02	CommonNpc	尸使毒气			172					0	0		npc\itemnpc057_jlg02								npc\clone\schoolwar8\schoolwar_jlg_02.lua			0	0			20																																																																																		
+schoolwar_jlg_03	CommonNpc	狮子火焰			172					0	0		npc\itemnpc057_jlg03											0	0			5																																																																																		
+schoolwar_jlg_04	CommonNpc	蛇口火焰			172					0	0		npc\itemnpc057_jlg04											0	0			5																																																																																		
+schoolwar_jlg_05	CommonNpc	极乐地刺			172					0	0		npc\fbmac00537								npc\clone\schoolwar8\schoolwar_jlg_05.lua			0	0			6																																																																																		
+schoolwar_jlg_06	CommonNpc	迷云			172					0	0		npc\itemnpc057_jlg06								npc\clone\schoolwar8\schoolwar_jlg_06.lua			0	0			15																																																																																		
+schoolwar_jlg_11	CommonNpc	滚石区域			172					0	0		npc\itemnpc011											0	0			5																																																																																		
+schoolwar_jlg_12	CommonNpc	滚石			172					0	0		npc\itemnpc627											0	0			10																																																																																		
+schoolwar_jlg_13	CommonNpc	水中区域			172					0	0		npc\itemnpc011								npc\clone\schoolwar8\schoolwar_jlg_13.lua			0	0			5																																																																																		
+schoolwar_jlg_15	CommonNpc	毒液NPC			172					0	0		npc\itemnpc162								npc\clone\schoolwar8\schoolwar_jlg_15.lua			0	0			5																																																																																		
+schoolwar_jlg_16	CommonNpc	黑色烟雾			172					0	0		npc\itemnpc057_jlg16								npc\clone\schoolwar8\schoolwar_jlg_16.lua			0	0			20																																																																																		
+schoolwar_jlg_17	CommonNpc	机关石			172	2	2			0	0		npc\itemnpc070								npc\clone\schoolwar8\schoolwar_jlg_17.lua			0	0			10																						116	5		3			1			1																					1111																														
+schoolwar_jlg_18	CommonNpc	狮子口盆			172					0	0		npc\guildeffect003								npc\clone\schoolwar8\schoolwar_jlg_18.lua			0	0			3																																																																																		
+schoolwar_jlg_19	CommonNpc	蛇口地面			172					0	0		npc\itemnpc011								npc\clone\schoolwar8\schoolwar_jlg_19.lua			0	0			10																																																																																		
+SWKG_jlg_01	CommonNpc	控制杆			81	2	2			0	0		npc\Fbmac00036								npc\clone\schoolwar8\SWKG_jlg_01.lua			0	0			10																						1	2		1			1			1																																																			
+SWKG_jlg_02	CommonNpc	控制杆			81	2	2			0	0		npc\Fbmac00036								npc\clone\schoolwar8\SWKG_jlg_02.lua			0	0			10																						1	2		1			1			1																																																			
+schoolwar_jlg_20	CommonNpc	火焰空模型			172					0	0		npc\itemnpc057											0	0			25																																																				1111																						1489								
+																																																																																1111																														
+																																																																																1111																														
+																																																																																																														
+																																																																																																														
+	//唐门-school05																																																																																																													
+SWJG_tm_01	CommonNpc	机关（复活点）			81	2	2			0	0		npc\itemnpc570		icon\funcnpc\itemnpc570.png									0	0			10																																																																																		
+SWJG_tm_02	CommonNpc	机关（复活点）			81	2	2			0	0		npc\itemnpc570		icon\funcnpc\itemnpc570.png									0	0			10																																																																																		
+SWJG_tm_03	CommonNpc	机关（复活点）			81	2	2			0	0		npc\itemnpc570		icon\funcnpc\itemnpc570.png									0	0			10																																																																																		
+SWJG_tm_04	CommonNpc	机关（石碑）			172	2	2			0	0		npc\itemnpc070		icon\funcnpc\itemnpc070.png						npc\clone\schoolwar9\SWKG_tm_04.lua			0	0			10																						116	7		3			1			1																					1111																														
+SWJG_tm_05	CommonNpc	机关（石碑）			172	2	2			0	0		npc\itemnpc070		icon\funcnpc\itemnpc070.png						npc\clone\schoolwar9\SWKG_tm_05.lua			0	0			10																						116	7		3			1			1																					1111																														
+SWJG_tm_06_1	CommonNpc	九毒鼎			81	2	2			0	0		npc\itemnpc605		icon\funcnpc\itemnpc605.png						npc\clone\schoolwar9\SWJG_tm_06.lua			0	0			10																																																																																		
+SWJG_tm_06_2	CommonNpc	九毒鼎			81	2	2			0	0		npc\itemnpc605		icon\funcnpc\itemnpc605.png						npc\clone\schoolwar9\SWJG_tm_06.lua			0	0			10																																																																																		
+SWJG_tm_06_3	CommonNpc	九毒鼎			81	2	2			0	0		npc\itemnpc605		icon\funcnpc\itemnpc605.png						npc\clone\schoolwar9\SWJG_tm_06.lua			0	0			10																																																																																		
+SWJG_tm_06_4	CommonNpc	九毒鼎			81	2	2			0	0		npc\itemnpc605		icon\funcnpc\itemnpc605.png						npc\clone\schoolwar9\SWJG_tm_06.lua			0	0			10																																																																																		
+SWJG_tm_07	CommonNpc	机关(蜘蛛刺1）			81	2	2			0	0		npc\itemnpc604		icon\funcnpc\itemnpc604.png									0	0			10																																																																																		
+SWKG_tm_07	CommonNpc	开关(蜘蛛刺1）			81	2	2			0	0		npc\Fbmac00036		icon\monster\Fbmac00036.png									0	0			10																																																																																		
+SWJG_tm_08	CommonNpc	机关(蜘蛛刺2）			81	2	2			0	0		npc\itemnpc604		icon\funcnpc\itemnpc604.png									0	0			10																																																																																		
+SWKG_tm_08	CommonNpc	开关(蜘蛛刺2）			81	2	2			0	0		npc\Fbmac00036		icon\monster\Fbmac00036.png									0	0			10																																																																																		
+SWJG_tm_09	CommonNpc	机关(蜘蛛刺3）			81	2	2			0	0		npc\itemnpc604		icon\funcnpc\itemnpc604.png									0	0			10																																																																																		
+SWKG_tm_09	CommonNpc	开关(蜘蛛刺3）			81	2	2			0	0		npc\Fbmac00036		icon\monster\Fbmac00036.png									0	0			10																																																																																		
+SWJG_tm_10	CommonNpc	机关(蜘蛛刺4）			81	2	2			0	0		npc\itemnpc604		icon\funcnpc\itemnpc604.png									0	0			10																																																																																		
+SWKG_tm_10	CommonNpc	开关(蜘蛛刺4）			81	2	2			0	0		npc\Fbmac00036		icon\monster\Fbmac00036.png									0	0			10																																																																																		
+schoolwar_tm_02	CommonNpc	突刺			81					0	0		npc\fbmac00537		icon\monster\fbmac00537.png													30																																																																																		
+																																																																																																														
+	//峨眉-school06																																																																																																													
+SWKG_em_01	CommonNpc	开关壹			81	2	2			0	0		npc\Fbmac009007		icon\monster\Fbmac009007.png						npc\clone\schoolwar10\SWKG_em.lua			0	0			10																																																																																		
+SWKG_em_02	CommonNpc	开关贰			81	2	2			0	0		npc\Fbmac009007		icon\monster\Fbmac009007.png						npc\clone\schoolwar10\SWKG_em.lua			0	0			10																																																																																		
+SWKG_em_03	CommonNpc	开关叁			81	2	2			0	0		npc\Fbmac009007		icon\monster\Fbmac009007.png						npc\clone\schoolwar10\SWKG_em.lua			0	0			10																																																																																		
+SWKG_em_04	CommonNpc	开关肆			81	2	2			0	0		npc\Fbmac009007		icon\monster\Fbmac009007.png						npc\clone\schoolwar10\SWKG_em.lua			0	0			10																																																																																		
+SWKG_em_05	CommonNpc	佛光普照开关			81	2	2			0	0		npc\itemnpc050		icon\funcnpc\itemnpc050.png						npc\clone\schoolwar10\SWKG_em_05.lua		3	0	0			10																																																																																		
+SWKG_em_06	CommonNpc	佛光普照 开关			81	2	2			0	0		npc\itemnpc050		icon\funcnpc\itemnpc050.png								3	0	0			10																																																																																		
+schoolwar_item_em01	CommonNpc	桃花雾障机关			81	2	2			0	0		npc\itemnpc057		icon\funcnpc\itemnpc057.png						npc\clone\schoolwar10\itemnpc_em.lua			0	0			10																																																																																		
+schoolwar_item_em02	CommonNpc	佛光普照机关			81	2	2			0	0		npc\itemnpc057		icon\funcnpc\itemnpc057.png									0	0			10																																																																																		
+schoolwar_special_em01	CommonNpc	风陵大阵			81								npc\itemnpc088		icon\funcnpc\itemnpc088.png																																																																																															
+schoolwar_special_em02	CommonNpc	梅花大阵			81								npc\itemnpc088		icon\funcnpc\itemnpc088.png																																																																																															
+itemnpc_em01	CommonNpc	桃花雾障特效NPC一			202								npc\itemnpc057_em01		icon\funcnpc\itemnpc057.png						npc\clone\schoolwar10\itemnpc_em.lua																																																																																									
+itemnpc_em02	CommonNpc	桃花雾障特效NPC二			202								npc\itemnpc057_em01		icon\funcnpc\itemnpc057.png						npc\clone\schoolwar10\itemnpc_em.lua																																																																																									
+itemnpc_em03	CommonNpc	桃花雾障特效NPC三			202								npc\itemnpc057_em01		icon\funcnpc\itemnpc057.png						npc\clone\schoolwar10\itemnpc_em.lua																																																																																									
+itemnpc_em04	CommonNpc	桃花雾障特效NPC四			202								npc\itemnpc057_em01		icon\funcnpc\itemnpc057.png						npc\clone\schoolwar10\itemnpc_em.lua																																																																																									
+itemnpc_em05	CommonNpc	桃花雾障特效NPC五			202								npc\itemnpc057_em02		icon\funcnpc\itemnpc057.png						npc\clone\schoolwar10\itemnpc_em.lua																																																																																									
+itemnpc_em06	CommonNpc	桃花雾障特效NPC六			202								npc\itemnpc057_em02		icon\funcnpc\itemnpc057.png						npc\clone\schoolwar10\itemnpc_em.lua																																																																																									
+itemnpc_em07	CommonNpc	桃花雾障特效NPC七			202								npc\itemnpc057_em02		icon\funcnpc\itemnpc057.png						npc\clone\schoolwar10\itemnpc_em.lua																																																																																									
+itemnpc_em08	CommonNpc	桃花雾障特效NPC八			202								npc\itemnpc057_em02		icon\funcnpc\itemnpc057.png						npc\clone\schoolwar10\itemnpc_em.lua																																																																																									
+itemnpc_em09	CommonNpc	佛光普照机关特效			172								npc\itemnpc057_em03		icon\funcnpc\itemnpc057.png						npc\clone\schoolwar10\itemnpc_em09.lua			0	0			80																																																																																		
+																																																																																																														
+	//武当-school07																																																																																																													
+SWKG_wd_01	CommonNpc	开关			81	2	2			0	0		npc\itemnpc488		icon\funcnpc\itemnpc488.png						npc\clone\schoolwar11\SWKG_wd_0.lua			0	0			10																						1	2		1			1													1											1111																														
+SWJG_wd_01	CommonNpc	机关			81	2	2			0	0		npc\itemnpc225		icon\funcnpc\itemnpc225.png						npc\clone\schoolwar11\SWJG_wd_01.lua			0	0			10																						1	1		1			1													1											1111																														
+SWJG_wd_02	CommonNpc	机关			81	2	2			0	0		npc\itemnpc225		icon\funcnpc\itemnpc225.png						npc\clone\schoolwar11\SWJG_wd_01.lua			0	0			10																						1	1		1			1													1											1111																														
+SWJG_wd_03	CommonNpc	机关			81	2	2			0	0		npc\itemnpc225		icon\funcnpc\itemnpc225.png						npc\clone\schoolwar11\SWJG_wd_01.lua			0	0			10																						1	1		1			1													1											1111																														
+SWJG_wd_04	CommonNpc	机关			81	2	2			0	0		npc\itemnpc225		icon\funcnpc\itemnpc225.png						npc\clone\schoolwar11\SWJG_wd_01.lua			0	0			10																						1	1		1			1													1											1111																														
+SWJG_wd_05	CommonNpc	机关			81	2	2			0	0		npc\itemnpc225		icon\funcnpc\itemnpc225.png						npc\clone\schoolwar11\SWJG_wd_01.lua			0	0			10																						1	1		1			1													1											1111																														
+SWJG_wd_06	CommonNpc	机关			81	2	2			0	0		npc\itemnpc225		icon\funcnpc\itemnpc225.png						npc\clone\schoolwar11\SWJG_wd_01.lua			0	0			10																						1	1		1			1													1											1111																														
+SWJG_wd_07	CommonNpc	机关			81	2	2			0	0		npc\itemnpc225		icon\funcnpc\itemnpc225.png						npc\clone\schoolwar11\SWJG_wd_01.lua			0	0			10																						1	1		1			1													1											1111																														
+SWJG_wd_08	CommonNpc	机关			81	2	2			0	0		npc\itemnpc225		icon\funcnpc\itemnpc225.png						npc\clone\schoolwar11\SWJG_wd_01.lua			0	0			10																						1	1		1			1													1											1111																														
+SWJG_wd_09	CommonNpc	机关			81	2	2			0	0		npc\itemnpc225		icon\funcnpc\itemnpc225.png						npc\clone\schoolwar11\SWJG_wd_01.lua			0	0			10																						1	1		1			1													1											1111																														
+SWJG_wd_10	CommonNpc	机关			81	2	2			0	0		npc\itemnpc225		icon\funcnpc\itemnpc225.png						npc\clone\schoolwar11\SWJG_wd_01.lua			0	0			10																						1	1		1			1													1											1111																														
+switem_wd_relive01	CommonNpc	虎啸山庄复活点特效1			202					0	0		npc\itemnpc057u		icon\funcnpc\npc\itemnpc057u.png									0	0			10																																																																																		
+switem_wd_relive02	CommonNpc	辎重营复活点特效2			202					0	0		npc\itemnpc057u		icon\funcnpc\npc\itemnpc057u.png									0	0			10																																																																																		
+switem_wd_flagnpc02	CommonNpc	攻方战旗发放NPC			81	2	2			0	0	hand1_1	npc\worldnpc214		icon\funcnpc\worldnpc214.png						npc\clone\schoolwar6\switem_gb_flagnpc02.lua			0	0			10																																																																																		
+itemnpcscenewd01	CommonNpc				172								npc\fbmac005014																																																																																																	
+																																																																																																														
+																																																																																																														
+																																																																																																														
+	//少林-school08																																																																																																													
+																																																																																																														
+																																																																																																														
+																																																																																																														
+																																																																																																														
+																																																																																																														
+																																																																																																														
+																																																																																																														
+																																																																																																														
+																																																																																																														
+																																																																																																														
+																																																																																																														
+																																																																																																														
+																																																																																																														
+																																																																																																														
+SchoolWarNPC_01	CommonNpc	攻方		8	81	2	2			1.25	4	hand1_1	npc\funcnpc001		icon\funcnpc\funcnpc001.png					0	npc\clone\schoolwar11\SchoolWarNPC_01.lua		3	0	0			20				1																																																																														
+SchoolWarNPC_02	CommonNpc	守方		8	81	2	2			1.25	4	hand1_1	npc\funcnpc001		icon\funcnpc\funcnpc001.png					0	npc\clone\schoolwar11\SchoolWarNPC_02.lua		3	0	0			20				1																																																																														
+																																																																																																														
+																																																																																																														
+	门派至宝																																																																																																													
+ShangFangBaoJian	FuncItem	尚方宝剑			172	2	2						npc\itemnpc568		icon\prop\prop673.png																																																																																															
+DaGouGun	FuncItem	打狗棍			172	2	2						npc\itemnpc566		icon\prop\prop671.png																																																																																															
+LanTingXu	FuncItem	兰亭序			172	2	2						npc\itemnpc567		icon\prop\prop672.png																																																																																															
+ShenMuWangDing	FuncItem	神木王鼎			172	2	2						npc\itemnpc569		icon\prop\prop674.png																																																																																															
+KongQueLing	FuncItem	孔雀翎			172	2	2						npc\itemnpc581		icon\prop\prop676.png																																																																																															
+YiTianJian	FuncItem	倚天剑			172	2	2						npc\itemnpc580		icon\prop\prop675.png																																																																																															
+TaiJiTu	FuncItem	太极图			172	2	2						npc\itemnpc565		icon\prop\prop670.png																																																																																															
+DaMoSheLi	FuncItem	达摩舍利			172	2	2						npc\itemnpc564		icon\prop\prop669.png																																																																																															
+schoolwar_table	FuncItem	供桌			172								npc\itemnpc582																																																																																																	
+PoLuYin	FuncItem	破虏印			172	2	2						npc\itemnpc1584		icon\prop\prop669.png																																																																																															
+YouXianZhen	FuncItem	游梦仙枕			172	2	2						npc\itemnpc1652		icon\prop\prop669.png																																																																																															
+																																																																																																														
+	据点宝箱NPC																																																																																																													
+schoolwarbox_buff_wd01	CommonNpc	获取BUFF		8	81	2	2						npc\itemnpc005a							0	npc\clone\schoolwar11\schoolwarbox_buff_wd01.lua							20				1																																																																														
+schoolwarbox_item_wd01	CommonNpc	获取道具		8	81	2	2						npc\itemnpc005a							0	npc\clone\schoolwar11\schoolwarbox_item_wd01.lua							20				1																																																																														
+schoolwarbox_buff_sl01	CommonNpc	获取BUFF		8	81	2	2						npc\itemnpc005a							0	npc\clone\schoolwar12\schoolwarbox_buff_sl01.lua							20				1																																																																														
+schoolwarbox_item_sl01	CommonNpc	获取道具		8	81	2	2						npc\itemnpc005a							0	npc\clone\schoolwar12\schoolwarbox_item_sl01.lua							20				1																																																																														
+schoolwarbox_buff_tm01	CommonNpc	获取BUFF		8	81	2	2						npc\itemnpc005a							0								20				1																																																																														
+schoolwarbox_item_tm01	CommonNpc	获取道具（药房）		8	81	2	2						npc\itemnpc005a							0								20				1																																																																														
+schoolwarbox_item_tm02	CommonNpc	获取道具（练毒室）		8	81	2	2						npc\itemnpc005a							0	npc\clone\schoolwar9\schoolwarbox_item_tm02.lua							20				1																																																																														
+schoolwarbox_buff_em01	CommonNpc	获取BUFF		8	81	2	2						npc\itemnpc005a							0	npc\clone\schoolwar10\schoolwarbox_buff_em01.lua							20				1																																																																														
+schoolwarbox_item_em01	CommonNpc	获取道具		8	81	2	2						npc\itemnpc005a							0	npc\clone\schoolwar10\schoolwarbox_item_em01.lua							20				1																																																																														
+schoolwarbox_item_jyw01	CommonNpc	获取道具		8	81	2	2						npc\itemnpc005a							0	npc\clone\schoolwar5\schoolwarbox_item_jyw01.lua							20				1																																																																														
+																																																																																																														
+	特殊NPC																																																																																																													
+	//锦衣卫-school01																																																																																																													
+schoolpose_flagnpc01	CommonNpc	师门阶位战装饰大旗			172								npc\itemnpc600																																																																																																	
+schoolpose_blookEffect_jyw01	CommonNpc	师门阶位战围栏（大）			172								npc\itemnpc057n																																																																																																	
+schoolpose_blookEffect_jyw02	CommonNpc	师门阶位战围栏（小）			172								npc\itemnpc057n																																																																																																	
+schoolwar_guildnpc_jyw01	CommonNpc	三指峰（锦衣卫正西区域）		8	81	2	2					hand1_1	npc\worldnpc355	0.919563	icon\funcnpc\worldnpc355.png					0	npc\clone\schoolwar5\schoolwar_guildnpc_jyw01.lua							20				1																																																																														
+schoolwar_guildnpc_jyw02	CommonNpc	落英谷（锦衣卫正南区域）		8	81	2	2					hand1_1	npc\worldnpc355	0.919563	icon\funcnpc\worldnpc355.png					0	npc\clone\schoolwar5\schoolwar_guildnpc_jyw02.lua							20				1																																																																														
+schoolwar_guildnpc_jyw03	CommonNpc	无功能		8	81	2	2					hand1_1	npc\worldnpc207	0.89833	icon\funcnpc\worldnpc207.png					0								20				1																																																																														
+schoolwar_guildnpc_jyw04	CommonNpc	无功能		8	81	2	2					hand1_1	npc\worldnpc207	0.89833	icon\funcnpc\worldnpc207.png					0								20				1																																																																														
+schoolwar_guildnpc_jyw05	CommonNpc	无辜的民工		8	81	2	2						npc\worldnpc110	0.959009	icon\funcnpc\worldnpc110.png					0								20				1																																																																						107								
+schoolwar_special_jyw01	CommonNpc	灯柱上的火焰1			172								npc\itemnpc057_jyw01															100																																																																																		
+schoolwar_special_jyw02	CommonNpc	灯柱上的火焰2			172								npc\itemnpc057_jyw01															100																																																																																		
+schoolwar_special_jyw03	CommonNpc	灯柱上的火焰3			172								npc\itemnpc057_jyw01															100																																																																																		
+schoolwar_special_jyw04	CommonNpc	灯柱上的火焰4			172								npc\itemnpc057_jyw01															100																																																																																		
+schoolwar_special_jyw05	CommonNpc	灯柱上的火焰5			172								npc\itemnpc057_jyw01															100																																																																																		
+schoolwar_special_jyw06	CommonNpc	灯柱上的火焰6			172								npc\itemnpc057_jyw01															100																																																																																		
+schoolwar_special_jyw07	CommonNpc	灯柱上的火焰7			172								npc\itemnpc057_jyw01															100																																																																																		
+schoolwar_special_jyw08	CommonNpc	灯柱上的火焰8			172								npc\itemnpc057_jyw01															100																																																																																		
+schoolwar_special_jyw09	CommonNpc	灯柱上的火焰9			172								npc\itemnpc057_jyw01															100																																																																																		
+schoolwar_special_jyw10	CommonNpc	灯柱上的火焰10			172								npc\itemnpc057_jyw01															100																																																																																		
+schoolwar_special_jyw11	CommonNpc	灯柱上的火焰11			172								npc\itemnpc057_jyw01															100																																																																																		
+schoolwar_special_jyw12	CommonNpc	灯柱上的火焰12			172								npc\itemnpc057_jyw01															100																																																																																		
+schoolwar_zhenfa_jyw01	CommonNpc	天机神弩			81	2	2						npc\itemnpc618								npc\clone\schoolwar5\schoolwar_zhenfa_jyw01.lua							20				1																																																																														
+schoolwar_zhenfa_jyw02	CommonNpc	天机神弩			81	2	2						npc\itemnpc618								npc\clone\schoolwar5\schoolwar_zhenfa_jyw02.lua							20				1																																																																														
+schoolwar_box_jyw01	CommonNpc	药品箱子			81	2	2						npc\itemboxnpc002															20				1																																																																														
+schoolwar_npc_jyw01	CommonNpc	关押的弟子			81	2	2						npc\monster252								npc\clone\schoolwar5\schoolwar_npc_jyw01.lua																																																																																									
+schoolwar_hole_jyw01	CommonNpc	黑洞 			172								npc\itemnpc132																																																																																																	
+schoolwar_gongjian_jyw01	CommonNpc	检测npc			172								npc\itemnpc057								npc\clone\schoolwar5\schoolwar_gongjian_jyw01.lua																																																																																									
+schoolwar_boss_jyw05	CommonNpc	检测npc			172								npc\itemnpc057								npc\clone\schoolwar5\schoolwar_boss_jyw05.lua																																																																																									
+schoolwar_weiguan_jyw001	CommonNpc	围观弟子			81								npc\monster179																																																																																																	
+schoolwar_weiguan_jyw002	CommonNpc	围观弟子			81								npc\monster121																																																																																																	
+schoolwar_weiguan_jyw003	CommonNpc	围观弟子			81								npc\monster502																																																																																																	
+schoolwar_weiguan_jyw004	CommonNpc	围观弟子			81								npc\monster383																																																																																																	
+schoolwar_weiguan_jyw005	CommonNpc	围观弟子			81								npc\monster382																																																																																																	
+schoolwar_weiguan_jyw006	CommonNpc	围观弟子			81								npc\monster179																																																																																																	
+schoolwar_weiguan_jyw007	CommonNpc	围观弟子			81								npc\monster121																																																																																																	
+schoolwar_weiguan_jyw008	CommonNpc	围观弟子			81								npc\monster502																																																																																																	
+schoolwar_weiguan_jyw009	CommonNpc	围观弟子			81								npc\monster383																																																																																																	
+schoolwar_weiguan_jyw010	CommonNpc	围观弟子			81								npc\monster382																																																																																																	
+schoolwar_point_jyw01	CommonNpc	检测npc			172								npc\itemnpc057																																																																																																	
+schoolwar_point_jyw02	CommonNpc	检测npc			172								npc\itemnpc057																																																																																																	
+schoolwar_point_jyw03	CommonNpc	检测npc			172								npc\itemnpc057																																																																																																	
+schoolwar_point_jyw04	CommonNpc	检测npc			172								npc\itemnpc057																																																																																																	
+schoolwar_point_jyw05	CommonNpc	检测npc			172								npc\itemnpc057																																																																																																	
+schoolwar_point_jyw06	CommonNpc	检测npc			172								npc\itemnpc057																																																																																																	
+schoolwar_point_jyw07	CommonNpc	检测npc			172								npc\itemnpc057																																																																																																	
+schoolwar_point_jyw08	CommonNpc	检测npc			172								npc\itemnpc057																																																																																																	
+schoolwar_point_jyw09	CommonNpc	检测npc			172								npc\itemnpc057																																																																																																	
+schoolwar_point_jyw010	CommonNpc	检测npc			172								npc\itemnpc057																																																																																																	
+																																																																																																														
+																																																																																																														
+																																																																																																														
+																																																																																																														
+																																																																																																														
+	//丐帮-school02																																																																																																													
+schoolpose_flagnpc02	CommonNpc	师门阶位战装饰大旗			172								npc\itemnpc595																																																																																																	
+schoolpose_blookEffect_gb01	CommonNpc	师门阶位战围栏（大）			172								npc\itemnpc057n																																																																																																	
+schoolpose_blookEffect_gb02	CommonNpc	师门阶位战围栏（小）			172								npc\itemnpc057n																																																																																																	
+																																																																																																														
+schoolwar_weiguan_gb001	CommonNpc	围观弟子			81								npc\worldnpc259																																																																																																	
+schoolwar_weiguan_gb002	CommonNpc	围观弟子			81								npc\worldnpc061																																																																																																	
+schoolwar_weiguan_gb003	CommonNpc	围观弟子			81								npc\worldnpc081																																																																																																	
+schoolwar_weiguan_gb004	CommonNpc	围观弟子			81								npc\worldnpc060																																																																																																	
+schoolwar_weiguan_gb005	CommonNpc	围观弟子			81								npc\worldnpc492_1																																																																																																	
+schoolwar_weiguan_gb006	CommonNpc	围观弟子			81								npc\worldnpc493																																																																																																	
+schoolwar_weiguan_gb007	CommonNpc	围观弟子			81								npc\worldnpc159																																																																																																	
+schoolwar_weiguan_gb008	CommonNpc	围观弟子			81								npc\worldnpc563																																																																																																	
+schoolwar_weiguan_gb009	CommonNpc	围观弟子			81								npc\monster115																																																																																																	
+schoolwar_weiguan_gb010	CommonNpc	围观弟子			81								npc\worldnpc061																																																																																																	
+																																																																																																														
+																																																																																																														
+																																																																																																														
+																																																																																																														
+	//君子堂-school03																																																																																																													
+schoolpose_flagnpc05	CommonNpc	师门阶位战装饰大旗			172								npc\itemnpc598																																																																																																	
+schoolpose_blookEffect_jzt01	CommonNpc	师门阶位战围栏（大）			172								npc\itemnpc057n																																																																																																	
+schoolpose_blookEffect_jzt02	CommonNpc	师门阶位战围栏（小）			172								npc\itemnpc057n																																																																																																	
+schoolwarbox_item_jz01	CommonNpc	宝箱			172								npc\itemboxnpc002															20				1																																																																														
+schoolwarbox_item_jz02	CommonNpc	宝箱			172								npc\itemboxnpc002															20				1																																																																														
+schoolwarbox_item_jz03	CommonNpc	宝箱			172								npc\itemboxnpc002															20				1																																																																														
+schoolwarbox_item_jz04	CommonNpc	宝箱			172								npc\itemboxnpc002															20				1																																																																														
+schoolwar_guildnpc_jz01	CommonNpc	九里崖(君子堂西北区域)		8	81	2	2					hand1_1	npc\worldnpc355	0.919563	icon\funcnpc\worldnpc355.png					0	npc\clone\schoolwar7\schoolwar_guildnpc_jz01.lua							20				1																																																																														
+schoolwar_guildnpc_jz02	CommonNpc	飞鹤山(君子堂东南区域)		8	81	2	2					hand1_1	npc\worldnpc355	0.919563	icon\funcnpc\worldnpc355.png					0	npc\clone\schoolwar7\schoolwar_guildnpc_jz02.lua							20				1																																																																														
+schoolwar_guildnpc_jz03	CommonNpc	无功能		8	81	2	2					hand1_1	npc\worldnpc207	0.89833	icon\funcnpc\worldnpc207.png					0								20				1																																																																														
+schoolwar_guildnpc_jz04	CommonNpc	无功能		8	81	2	2					hand1_1	npc\worldnpc207	0.89833	icon\funcnpc\worldnpc207.png					0								20				1																																																																														
+schoolwar_jztwg01	CommonNpc	君子堂弟子			81	2	2			1.25	4	hand1_1	npc\monster160															5																						1	50		3			1																																																						
+schoolwar_jztwg02	CommonNpc	君子堂弟子			81	2	2			1.25	4	hand1_1	npc\worldnpc191															5																						1	50		3			1																																																						
+schoolwar_jztwg03	CommonNpc	君子堂弟子			81	2	2			1.25	4	hand1_1	npc\worldnpc204															5																						1	50		3			1																																																						
+schoolwar_jztwg04	CommonNpc	君子堂弟子			81	2	2			1.25	4	hand1_1	npc\worldnpc358															5																						1	50		3			1																																																						
+schoolwar_jztwg05	CommonNpc	君子堂弟子			81	2	2			1.25	4	hand1_1	npc\worldnpc253															5																						1	50		3			1																																																						
+schoolwar_jztwg06	CommonNpc	君子堂弟子			81	2	2			1.25	4	hand1_1	npc\worldnpc101															5																						1	50		3			1																																																						
+schoolwar_jztwg07	CommonNpc	君子堂弟子			81	2	2			1.25	4	hand1_1	npc\worldnpc358															5																						1	50		3			1																																																						
+schoolwar_jztwg08	CommonNpc	君子堂弟子			81	2	2			1.25	4	hand1_1	npc\worldnpc191															5																						1	50		3			1																																																						
+schoolwar_jztwg09	CommonNpc	君子堂弟子			81	2	2			1.25	4	hand1_1	npc\worldnpc204															5																						1	50		3			1																																																						
+schoolwar_jztwg10	CommonNpc	君子堂弟子			81	2	2			1.25	4	hand1_1	npc\worldnpc358															5																						1	50		3			1																																																						
+																																																																																																														
+																																																																																																														
+																																																																																																														
+	//极乐谷-school04																																																																																																													
+schoolpose_flagnpc04	CommonNpc	师门阶位战装饰大旗			172								npc\itemnpc599																																																																																																	
+schoolpose_blookEffect_jlg01	CommonNpc	师门阶位战围栏（大）			172								npc\itemnpc057n																																																																																																	
+schoolpose_blookEffect_jlg02	CommonNpc	师门阶位战围栏（小）			172								npc\itemnpc057n																																																																																																	
+schoolwar_guildnpc_jlg01	CommonNpc	段天崖(极乐谷西北区域)		8	81	2	2					hand1_1	npc\worldnpc355	0.919563	icon\funcnpc\worldnpc355.png					0	npc\clone\schoolwar8\schoolwar_guildnpc_jlg01.lua							20				1																																																																														
+schoolwar_guildnpc_jlg02	CommonNpc	舍身崖(极乐谷东南区域)		8	81	2	2					hand1_1	npc\worldnpc355	0.919563	icon\funcnpc\worldnpc355.png					0	npc\clone\schoolwar8\schoolwar_guildnpc_jlg02.lua							20				1																																																																														
+schoolwar_guildnpc_jlg03	CommonNpc	无功能		8	81	2	2					hand1_1	npc\worldnpc207	0.89833	icon\funcnpc\worldnpc207.png					0								20				1																																																																														
+schoolwar_guildnpc_jlg04	CommonNpc	无功能		8	81	2	2					hand1_1	npc\worldnpc207	0.89833	icon\funcnpc\worldnpc207.png					0								20				1																																																																														
+schoolwar_jlgwg01	CommonNpc	极乐谷弟子			81	2	2			1.25	4	hand1_1	npc\worldnpc544													school_jlg01		5																																																																																		
+schoolwar_jlgwg02	CommonNpc	极乐谷弟子			81	2	2			1.25	4	hand1_1	npc\worldnpc200													school_jlg02		5																																																																																		
+schoolwar_jlgwg03	CommonNpc	极乐谷弟子			81	2	2			1.25	4	hand1_1	npc\monster243													school_jlg03		5																																																																																		
+schoolwar_jlgwg04	CommonNpc	极乐谷弟子			81	2	2			1.25	4	hand1_1	npc\worldnpc545															5																																																																																		
+schoolwar_jlgwg05	CommonNpc	极乐谷弟子			81	2	2			1.25	4	hand1_2	npc\monster156															5																																																																																		
+schoolwar_jlgwg06	CommonNpc	极乐谷弟子			81	2	2			1.25	4	hand1_1	npc\monster243															5																																																																																		
+schoolwar_jlgwg07	CommonNpc	极乐谷弟子			81	2	2			1.25	4	hand1_2	npc\monster134															5																																																																																		
+schoolwar_jlgwg08	CommonNpc	极乐谷弟子			81	2	2			1.25	4	hand1_1	npc\worldnpc393															5																																																																																		
+schoolwar_jlgwg09	CommonNpc	极乐谷弟子			81	2	2			1.25	4	hand1_1	npc\worldnpc200															5																																																																																		
+schoolwar_jlgwg10	CommonNpc	极乐谷弟子			81	2	2			1.25	4	hand1_1	npc\worldnpc200															5																																																																																		
+																																																																																																														
+																																																																																																														
+																																																																																																														
+																																																																																																														
+																																																																																																														
+	//唐门-school05																																																																																																													
+schoolpose_flagnpc_tm01	CommonNpc	师门阶位战装饰大旗			172								npc\itemnpc597																																																																																																	
+schoolpose_blookEffect_tm01	CommonNpc	师门阶位战围栏（大）			172								npc\itemnpc057n																																																																																																	
+schoolpose_blookEffect_tm02	CommonNpc	师门阶位战围栏（小）			172								npc\itemnpc057n																																																																																																	
+schoolwar_zfnpc_tm01	CommonNpc	练毒炉			81	2	2						npc\itemnpc046	0.91						0	npc\clone\schoolwar9\schoolwar_zfnpc_tm.lua			0	0			10																																																																																		
+schoolwar_zfnpc_tm02	CommonNpc	练毒炉			81	2	2						npc\itemnpc046	0.91						0	npc\clone\schoolwar9\schoolwar_zfnpc_tm.lua			0	0			10																																																																																		
+schoolwar_zfnpc_tm03	CommonNpc	练毒炉			81	2	2						npc\itemnpc046	0.91						0	npc\clone\schoolwar9\schoolwar_zfnpc_tm.lua			0	0			10																																																																																		
+schoolwar_guildnpc_tm01	CommonNpc	勾漏山（唐门东北区域）		8	81	2	2					hand1_1	npc\worldnpc355	0.919563	icon\funcnpc\worldnpc355.png					0	npc\clone\schoolwar9\schoolwar_guildnpc_tm01.lua							20				1																																																																														
+schoolwar_guildnpc_tm02	CommonNpc	摘月峰（唐门正南区域）		8	81	2	2					hand1_1	npc\worldnpc355	0.919563	icon\funcnpc\worldnpc355.png					0	npc\clone\schoolwar9\schoolwar_guildnpc_tm02.lua							20				1																																																																														
+schoolwar_guildnpc_tm03	CommonNpc	无功能		8	81	2	2					hand1_1	npc\worldnpc207	0.89833	icon\funcnpc\worldnpc207.png					0								20				1																																																																														
+schoolwar_guildnpc_tm04	CommonNpc	无功能		8	81	2	2					hand1_1	npc\worldnpc207	0.89833	icon\funcnpc\worldnpc207.png					0								20				1																																																																														
+itemnpc057_tm01	CommonNpc	毒雾迷障			172								npc\itemnpc057_tm01		icon\funcnpc\itemnpc057.png						npc\clone\schoolwar9\itemnpc057_tm01.lua							30																																																																																		
+schoolwar_tmwg01	CommonNpc	唐门弟子			81	2	2			1.25	4	hand1_1	npc\monster378																																																																																																	
+schoolwar_tmwg02	CommonNpc	唐门弟子			81	2	2			1.25	4	hand1_2	npc\worldnpc388																																																																																																	
+schoolwar_tmwg03	CommonNpc	唐门弟子			81	2	2			1.25	4	hand1_1	npc\monster379																																																																																																	
+schoolwar_tmwg04	CommonNpc	唐门弟子			81	2	2			1.25	4	hand1_1	npc\monster377																																																																																																	
+schoolwar_tmwg05	CommonNpc	唐门弟子			81	2	2			1.25	4	hand1_1	npc\monster378																																																																																																	
+schoolwar_tmwg06	CommonNpc	唐门弟子			81	2	2			1.25	4	hand1_1	npc\monster168																																																																																																	
+schoolwar_tmwg07	CommonNpc	唐门弟子			81	2	2			1.25	4	hand1_1	npc\monster379																																																																																																	
+schoolwar_tmwg08	CommonNpc	唐门弟子			81	2	2			1.25	4	hand1_2	npc\worldnpc386																																																																																																	
+schoolwar_tmwg09	CommonNpc	唐门弟子			81	2	2			1.25	4	hand1_2	npc\worldnpc386																																																																																																	
+schoolwar_tmwg10	CommonNpc	唐门弟子			81	2	2			1.25	4	hand1_1	npc\monster377																																																																																																	
+																																																																																																														
+	//峨眉-school06																																																																																																													
+schoolpose_flagnpc03	CommonNpc	师门阶位战装饰大旗			172								npc\itemnpc596																																																																																																	
+schoolpose_blookEffect_em01	CommonNpc	师门阶位战围栏（大）			172								npc\itemnpc057n																																																																																																	
+schoolpose_blookEffect_em02	CommonNpc	师门阶位战围栏（小）			172								npc\itemnpc057n																																																																																																	
+schoolwar_guildnpc_em01	CommonNpc	鸣鹤观（峨眉西南区域）		8	81	2	2					hand1_1	npc\worldnpc382	0.91	icon\funcnpc\worldnpc382.png					0	npc\clone\schoolwar12\schoolwar_guildnpc_sl01.lua							20				1																																																																														
+schoolwar_guildnpc_en02	CommonNpc	梅林（峨眉东南区域）		8	81	2	2					hand1_1	npc\worldnpc382	0.91	icon\funcnpc\worldnpc382.png					0	npc\clone\schoolwar12\schoolwar_guildnpc_sl02.lua							20				1																																																																														
+schoolwar_guildnpc_em03	CommonNpc	无功能		8	81	2	2					hand1_1	npc\worldnpc381	0.89	icon\funcnpc\worldnpc381.png					0								20				1																																																																														
+schoolwar_guildnpc_en04	CommonNpc	无功能		8	81	2	2					hand1_1	npc\worldnpc381	0.89	icon\funcnpc\worldnpc381.png					0								20				1																																																																														
+schoolwar_weiguan_em001	CommonNpc	围观弟子			81								npc\worldnpc527																																																																																																	
+schoolwar_weiguan_em002	CommonNpc	围观弟子			81								npc\worldnpc528																																																																																																	
+schoolwar_weiguan_em003	CommonNpc	围观弟子			81								npc\worldnpc529																																																																																																	
+schoolwar_weiguan_em004	CommonNpc	围观弟子			81								npc\worldnpc527																																																																																																	
+schoolwar_weiguan_em005	CommonNpc	围观弟子			81								npc\worldnpc528																																																																																																	
+schoolwar_weiguan_em006	CommonNpc	围观弟子			81								npc\worldnpc529																																																																																																	
+schoolwar_weiguan_em007	CommonNpc	围观弟子			81								npc\worldnpc527																																																																																																	
+schoolwar_weiguan_em008	CommonNpc	围观弟子			81								npc\worldnpc528																																																																																																	
+schoolwar_weiguan_em009	CommonNpc	围观弟子			81								npc\worldnpc529																																																																																																	
+schoolwar_weiguan_em010	CommonNpc	围观弟子			81								npc\worldnpc529																																																																																																	
+																																																																																																														
+																																																																																																														
+																																																																																																														
+	//武当-school07																																																																																																													
+schoolwar_special_wd01	CommonNpc	天罡北斗阵			172								npc\itemnpc577																																																																																																	
+schoolwar_special_wd02	CommonNpc	太极八卦阵			172								npc\itemnpc578																																																																																																	
+schoolwar_locknpc	CoopNpc	绑人玩法			172	2	2						npc\itemnpc572		icon\funcnpc\fbmac013006a.png													10				1																		1	1		1			1																																																						
+schoolwar_block_wd01	CommonNpc	北斗阵			172								npc\itemnpc577															2																																																																																		
+schoolwar_block_wd02	CommonNpc	八卦阵			172								npc\itemnpc578															2																																																																																		
+schoolwar_hole_wd01	CommonNpc	刷兵据点			172								npc\itemnpc132																																																																																																	
+schoolwar_guildnpc_wd01	CommonNpc	神风岭（武当东北区域）		8	81	2	2					hand1_1	npc\worldnpc355	0.919563	icon\funcnpc\worldnpc355.png					0	npc\clone\schoolwar11\schoolwar_guildnpc_wd01.lua							20				1																																																																														
+schoolwar_guildnpc_wd02	CommonNpc	通天峰（武当西北区域）		8	81	2	2					hand1_1	npc\worldnpc355	0.919563	icon\funcnpc\worldnpc355.png					0	npc\clone\schoolwar11\schoolwar_guildnpc_wd02.lua							20				1																																																																														
+schoolwar_guildnpc_wd03	CommonNpc	无功能		8	81	2	2					hand1_1	npc\worldnpc207	0.89833	icon\funcnpc\worldnpc207.png					0								20				1																																																																														
+schoolwar_guildnpc_wd04	CommonNpc	无功能		8	81	2	2					hand1_1	npc\worldnpc207	0.89833	icon\funcnpc\worldnpc207.png					0								20				1																																																																														
+schoolwar_relivenpc	CommonNpc	通用		8	66	2	2			0	-1	hand_0	npc\funcnpc004	0.947249	icon\funcnpc\funcnpc004.png					0	npc\clone\schoolwar12\schoolwar_relivenpc.lua		3	0	0			20				1																																																			Shop_schoolwar_001_1																											
+schoolwar_relivenpc_1	CommonNpc	通用		8	66	2	2			0	-1	hand_0	npc\funcnpc004	0.947249	icon\funcnpc\funcnpc004.png					0	npc\clone\schoolwar12\schoolwar_relivenpc.lua		3	0	0			20				1																																																			Shop_schoolwar_001																											
+schoolwar_medical_1	CommonNpc	装饰			172								npc\itemboxnpc001																																																																																																	
+schoolwar_medical_2	CommonNpc	装饰			172								npc\itemnpc005																																																																																																	
+schoolwar_salve	CommonNpc	装饰			172								npc\itemnpc041																																																																																																	
+schoolpose_flagnpc	CommonNpc	师门阶位战装饰大旗			172								npc\itemnpc593																																																																																																	
+schoolpose_blookEffect_wd01	CommonNpc	师门阶位战围栏（大）			172								npc\itemnpc057n																																																																																																	
+schoolpose_blookEffect_wd02	CommonNpc	师门阶位战围栏（小）			172								npc\itemnpc057n																																																																																																	
+schoolwar_funcnpc01	CommonNpc	门派战内功能NPC		8	81	2	2		1	1	5	hand1_1	npc\worldnpc207		icon\funcnpc\worldnpc207.png					0	npc\clone\schoolwar11\schoolwar_funcnpc01.lua		3	0	0			8																																																																																		
+schoolwar_funcnpc02	CommonNpc	门派战复活点NPC（隐藏）			172								npc\itemnpc041								npc\schoolnpc\schoolwar_funcnpc02.lua							10																																																																																		
+schoolwar_flag_jyw01	CommonNpc	旗子			172	2	2						npc\itemnpc422a																																																																																																	
+schoolwar_nu_jyw01	CommonNpc	弩			172	2	2						npc\fbmac004007																																																																																																	
+schoolwar_wdwg01	CommonNpc	武当弟子			81	2	2			1.25	4	hand1_1		npc\monster160												school_wd01																																																																																				
+schoolwar_wdwg02	CommonNpc	武当弟子			81	2	2			1.25	4	hand1_1		npc\monster568												school_wd02																																																																																				
+schoolwar_wdwg03	CommonNpc	武当弟子			81	2	2			1.25	4	hand1_2		npc\monster159												school_wd03																																																																																				
+schoolwar_wdwg04	CommonNpc	武当弟子			81	2	2			1.25	4	hand1_2		npc\monster161												school_wd04																																																																																				
+schoolwar_wdwg05	CommonNpc	武当弟子			81	2	2			1.25	4	hand1_1		npc\monster564												school_wd05																																																																																				
+schoolwar_wdwg06	CommonNpc	武当弟子			81	2	2			1.25	4	hand1_1		npc\monster563												school_wd06																																																																																				
+schoolwar_wdwg07	CommonNpc	武当弟子			81	2	2			1.25	4	hand1_1		npc\monster160												school_wd07																																																																																				
+schoolwar_wdwg08	CommonNpc	武当弟子			81	2	2			1.25	4	hand1_1		npc\monster565												school_wd08																																																																																				
+schoolwar_wdwg09	CommonNpc	武当弟子			81	2	2			1.25	4	hand1_1		npc\monster565																																																																																																
+schoolwar_wdwg10	CommonNpc	武当弟子			81	2	2			1.25	4	hand1_1		npc\monster565																																																																																																
+																																																																																																														
+																																																																																																														
+																																																																																																														
+																																																																																																														
+	//少林-school08																																																																																																													
+schoolpose_flagnpc_sl01	CommonNpc	师门阶位战装饰大旗			172								npc\itemnpc594																																																																																																	
+schoolpose_blookEffect_sl01	CommonNpc	师门阶位战围栏（大）			172								npc\itemnpc057n																																																																																																	
+schoolpose_blookEffect_sl02	CommonNpc	师门阶位战围栏（小）			172								npc\itemnpc057n																																																																																																	
+																																																																																																														
+schoolwar_guildnpc_sl01	CommonNpc	嵩阳书院（少林正南区域）		8	81	2	2					hand1_1	npc\worldnpc355	0.919563	icon\funcnpc\worldnpc355.png					0	npc\clone\schoolwar12\schoolwar_guildnpc_sl01.lua							20				1																																																																														
+schoolwar_guildnpc_sl02	CommonNpc	嵩阳书院（少林东南区域）		8	81	2	2					hand1_1	npc\worldnpc355	0.919563	icon\funcnpc\worldnpc355.png					0	npc\clone\schoolwar12\schoolwar_guildnpc_sl02.lua							20				1																																																																														
+schoolwar_guildnpc_sl03	CommonNpc	无功能		8	81	2	2					hand1_1	npc\worldnpc207	0.89833	icon\funcnpc\worldnpc207.png					0								20				1																																																																														
+schoolwar_guildnpc_sl04	CommonNpc	无功能		8	81	2	2					hand1_1	npc\worldnpc207	0.89833	icon\funcnpc\worldnpc207.png					0								20				1																																																																														
+schoolwar_door_sl01	CommonNpc	刷兵据点			172	2	2						npc\itemnpc601								npc\clone\schoolwar12\schoolwar_door_sl01.lua																																																																																									
+schoolwar_door_sl02	CommonNpc	刷兵据点			172	2	2						npc\itemnpc602								npc\clone\schoolwar12\schoolwar_door_sl02.lua																																																																																									
+schoolwar_item_sl01	CommonNpc	破关道具			172	2	2						npc\itemnpc537								npc\clone\schoolwar12\schoolwar_item_sl01.lua																																																																																									
+schoolwar_item_sl02	CommonNpc	炉火			172	2	2						npc\guildeffect009																																																																																																	
+schoolwar_special_sl01	CommonNpc	梵音驱魔阵			212								npc\itemnpc057_em03		icon\funcnpc\itemnpc057.png									0	0			80																																																																																		
+schoolwar_weiguan_sl001	CommonNpc	围观弟子			81								npc\monster126																																																																																																	
+schoolwar_weiguan_sl002	CommonNpc	围观弟子			81								npc\monster140																																																																																																	
+schoolwar_weiguan_sl003	CommonNpc	围观弟子			81								npc\monster145																																																																																																	
+schoolwar_weiguan_sl004	CommonNpc	围观弟子			81								npc\monster155																																																																																																	
+schoolwar_weiguan_sl005	CommonNpc	围观弟子			81								npc\worldnpc049																																																																																																	
+schoolwar_weiguan_sl006	CommonNpc	围观弟子			81								npc\monster512																																																																																																	
+schoolwar_weiguan_sl007	CommonNpc	围观弟子			81								npc\monster514																																																																																																	
+schoolwar_weiguan_sl008	CommonNpc	围观弟子			81								npc\monster516																																																																																																	
+schoolwar_weiguan_sl009	CommonNpc	围观弟子			81								npc\monster516																																																																																																	
+schoolwar_weiguan_sl010	CommonNpc	围观弟子			81								npc\monster527																																																																																																	
+																																																																																																														
+																																																																																																														
+																																																																																																														
+																																																																																																														
+	//师门职位战报名NPC																																																																																																													
+SchoolFightFuncNpc01	CommonNpc	师门战报名官		8	223	2	2		1	1	5	hand1_1	npc\worldnpc207		icon\funcnpc\worldnpc207.png					0			3	0	0			20																																																																																		
+SchoolFightFuncNpc02	CommonNpc	师门战报名官		8	223	2	2		1	1	5	hand1_1	npc\worldnpc207		icon\funcnpc\worldnpc207.png					0			3	0	0			20																																																																																		
+SchoolFightFuncNpc03	CommonNpc	师门战报名官		8	223	2	2		1	1	5	hand1_1	npc\worldnpc207		icon\funcnpc\worldnpc207.png					0			3	0	0			20																																																																																		
+SchoolFightFuncNpc04	CommonNpc	师门战报名官		8	223	2	2		1	1	5	hand1_1	npc\worldnpc207		icon\funcnpc\worldnpc207.png					0			3	0	0			20																																																																																		
+SchoolFightFuncNpc05	CommonNpc	师门战报名官		8	223	2	2		1	1	5	hand1_1	npc\worldnpc207		icon\funcnpc\worldnpc207.png					0			3	0	0			20																																																																																		
+SchoolFightFuncNpc06	CommonNpc	师门战报名官		8	223	2	2		1	1	5	hand1_1	npc\worldnpc207		icon\funcnpc\worldnpc207.png					0			3	0	0			20																																																																																		
+SchoolFightFuncNpc07	CommonNpc	师门战报名官		8	223	2	2		1	1	5	hand1_1	npc\worldnpc207		icon\funcnpc\worldnpc207.png					0			3	0	0			20																																																																																		
+SchoolFightFuncNpc08	CommonNpc	师门战报名官		8	223	2	2		1	1	5	hand1_1	npc\worldnpc207		icon\funcnpc\worldnpc207.png					0			3	0	0			20																																																																																		
+																																																																																																														
+SchoolFightItemNpc01	CommonNpc	装饰武器架		8	172	2	2		1	1	5	#N/A	npc\fbmac00040		icon\monster\fbmac00040.png					0			3	0	0			20																																																																																		
+SchoolFightNpc_wd001	CommonNpc	围观NPC		8	81	2	2		1	1	5	hand1_1	npc\worldnpc053		icon\funcnpc\worldnpc053.png					0			3	0	0			20																																																																																		
+SchoolFightNpc_wd002	CommonNpc	围观NPC		8	81	2	2		1	1	5	hand1_2	npc\worldnpc054		icon\funcnpc\worldnpc054.png					0			3	0	0			20																																																																																		
+SchoolFightNpc_wd003	CommonNpc	围观NPC		8	81	2	2		1	1	5	hand1_2	npc\worldnpc230		icon\funcnpc\worldnpc230.png					0			3	0	0			20																																																																																		
+SchoolFightNpc_wd004	CommonNpc	围观NPC		8	81	2	2		1	1	5	hand1_1	npc\monster563		icon\monster\monster563.png					0			3	0	0			20																																																																																		
+																																																																																																														
+SchoolTreasureNPC	CommonNpc	门派至宝讲解员		8	81	2	2		1	1	5	hand1_1	npc\worldnpc125		icon\funcnpc\worldnpc125.png					0	npc\schoolnpc\SchoolTreasureNPC.lua		3	0	0			25																																																																																		
+SchoolFightCloseNPC	CommonNpc	门派封山npc		8	223	2	2		1	1	5	hand1_1	npc\worldnpc207		icon\funcnpc\worldnpc207.png					0			3	0	0			20																																																																																		
+																																																																																																														
+																																																																																																														
+SchoolFightDefendNpc01	CommonNpc	门派战保护范围NPC			172								npc\itemnpc041								npc\schoolnpc\SchoolFightDefendNpc.lua							15																																																																																		
+SchoolFightDefendNpc02	CommonNpc	门派战保护范围NPC			172								npc\itemnpc041								npc\schoolnpc\SchoolFightDefendNpc.lua							15																																																																																		
+SchoolFightDefendNpc03	CommonNpc	门派战保护范围NPC			172								npc\itemnpc041								npc\schoolnpc\SchoolFightDefendNpc.lua							15																																																																																		
+SchoolFightDefendNpc04	CommonNpc	门派战保护范围NPC			172								npc\itemnpc041								npc\schoolnpc\SchoolFightDefendNpc.lua							15																																																																																		
+																																																																																																														
+																																																																																																														
+																																																																																																														
+SchoolWarItemNpc01	CommonNpc	院子			172								npc\jcunluo04																																																																																																	
+SchoolWarItemNpc02	CommonNpc	战旗（损）			172								npc\Guildwar002_03																																																																																																	
+SchoolWarItemNpc03	CommonNpc	篝火			172								npc\guildeffect009																																																																																																	
+SchoolWarItemNpc04	CommonNpc	石板			172								npc\fbmac021022																																																																																																	
+SchoolWarItemNpc05	CommonNpc	栅栏			172								npc\fbmac00246																																																																																																	
+SchoolWarItemNpc06	CommonNpc	箱子			172								npc\itemnpc692																																																																																																	
+SchoolWarItemNpc07	CommonNpc	车药杂物			172								npc\itemnpc657																																																																																																	
+SchoolWarItemNpc08	CommonNpc	草席			172								npc\itemnpc617																																																																																																	
+SchoolWarItemNpc09	CommonNpc	水缸			172								npc\itemnpc553																																																																																																	
+SchoolWarItemNpc10	CommonNpc	酒缸			172								npc\itemnpc470																																																																																																	
+SchoolWarItemNpc11	CommonNpc	草堆			172								npc\itemnpc032																																																																																																	
+SchoolWarItemNpc12	CommonNpc	木桌			172								npc\itemnpc009																																																																																																	
+SchoolWarItemNpc13	CommonNpc	长凳			172								npc\itemnpc007																																																																																																	
+SchoolWarItemNpc14	CommonNpc	大鼓			172								npc\itemnpc537																																																																																																	
+SchoolWarItemNpc15	CommonNpc	木桩			172								npc\itemnpc004																																																																																																	
+																																																																																																														
+																																																																																																														
+																																																																																																														
+	//门派战通用NPC																																																																																																													
+schoolwar_attack_01	SchoolFightStrongPoint	攻方大营功能			225								npc\itemnpc057															20																																																																																		
+schoolwar_attack_02	SchoolFightStrongPoint	攻方大营功能			225								npc\itemnpc057															20																																																																																		
+schoolwar_attack_03	SchoolFightStrongPoint	攻方大营功能			225								npc\itemnpc057															20																																																																																		
+schoolwar_attack_04	SchoolFightStrongPoint	攻方大营功能			225								npc\itemnpc057															20																																																																																		
+schoolwar_attack_05	SchoolFightStrongPoint	攻方大营功能			225								npc\itemnpc057															20																																																																																		
+schoolwar_attack_06	SchoolFightStrongPoint	攻方大营功能			225								npc\itemnpc057															20																																																																																		
+schoolwar_defend_01	SchoolFightStrongPoint	守方大营功能			225								npc\itemnpc057															20																																																																																		
+schoolwar_defend_02	SchoolFightStrongPoint	守方大营功能			225								npc\itemnpc057															20																																																																																		
+schoolwar_defend_03	SchoolFightStrongPoint	守方大营功能			225								npc\itemnpc057															20																																																																																		
+schoolwar_defend_04	SchoolFightStrongPoint	守方大营功能			225								npc\itemnpc057															20																																																																																		
+schoolwar_defend_05	SchoolFightStrongPoint	守方大营功能			225								npc\itemnpc057															20																																																																																		
+schoolwar_defend_06	SchoolFightStrongPoint	守方大营功能			225								npc\itemnpc057															20																																																																																		
+schoolwar_neutral_01	SchoolFightStrongPoint	争夺点功能(金)			225								npc\itemnpc057															20																																																																																		
+schoolwar_neutral_02	SchoolFightStrongPoint	争夺点功能(金)			225								npc\itemnpc057															20																																																																																		
+schoolwar_neutral_03	SchoolFightStrongPoint	争夺点功能(木)			225								npc\itemnpc057															20																																																																																		
+schoolwar_neutral_04	SchoolFightStrongPoint	争夺点功能(木)			225								npc\itemnpc057															20																																																																																		
+schoolwar_neutral_05	SchoolFightStrongPoint	争夺点功能(水)			225								npc\itemnpc057															20																																																																																		
+schoolwar_neutral_06	SchoolFightStrongPoint	争夺点功能(水)			225								npc\itemnpc057															20																																																																																		
+schoolwar_neutral_07	SchoolFightStrongPoint	争夺点功能(火)			225								npc\itemnpc057															20																																																																																		
+schoolwar_neutral_08	SchoolFightStrongPoint	争夺点功能(火)			225								npc\itemnpc057															20																																																																																		
+schoolwar_neutral_09	SchoolFightStrongPoint	争夺点功能(土)			225								npc\itemnpc057															20																																																																																		
+schoolwar_neutral_10	SchoolFightStrongPoint	争夺点功能(土)			225								npc\itemnpc057															20																																																																																		
+																																																																																																														
+																																																																																																														
+	门派战复活点大旗																																																																																																													
+schoolwar_flag_jyw	CommonNpc	锦衣卫大旗			172								npc\itemnpc639																																																																																																	
+schoolwar_flag_gb	CommonNpc	丐帮大旗			172								npc\itemnpc634																																																																																																	
+schoolwar_flag_jzt	CommonNpc	君子堂大旗			172								npc\itemnpc637																																																																																																	
+schoolwar_flag_jlg	CommonNpc	极乐谷大旗			172								npc\itemnpc638																																																																																																	
+schoolwar_flag_tm	CommonNpc	唐门大旗			172								npc\itemnpc636																																																																																																	
+schoolwar_flag_em	CommonNpc	峨眉大旗			172								npc\itemnpc635																																																																																																	
+schoolwar_flag_wd	CommonNpc	武当大旗			172								npc\itemnpc632																																																																																																	
+schoolwar_flag_sl	CommonNpc	少林大旗			172								npc\itemnpc633																																																																																																	
+schoolwar_flag_wuzhanling	CommonNpc	无占领			172								npc\itemnpc_schoolwar_017																																																																																																3.1	
+																																																																																																														
+	门派战据点特效																																																																																																													
+schoolwar_eff_jd01	CommonNpc	据点特效（木）			202					0	0		npc\itemnpc057_swjd01											0	0			10																																																																																		
+schoolwar_eff_jd02	CommonNpc	据点特效（火）			202					0	0		npc\itemnpc057_swjd02											0	0			10																																																																																		
+schoolwar_eff_jd03	CommonNpc	据点特效（水）			202					0	0		npc\itemnpc057_swjd03											0	0			10																																																																																		
+schoolwar_eff_jd04	CommonNpc	据点特效（土）			202					0	0		npc\itemnpc057_swjd04											0	0			10																																																																																		
+schoolwar_eff_jd05	CommonNpc	据点特效（金）			202					0	0		npc\itemnpc057_swjd05											0	0			10																																																																																		
+																																																																																																														
+	五行阵指挥使																																																																																																													
+schoolwar_command_jyw	CommonNpc	锦衣卫指挥使		8	81	2	2			1	5	hand1_1	npc\worldnpc_schoolwar_008							0			3	0	0			10																																																																																		
+schoolwar_command_gb	CommonNpc	丐帮指挥使		8	81	2	2			1	5	hand1_1	npc\worldnpc_schoolwar_002							0			3	0	0			10																																																																																		
+schoolwar_command_jzt	CommonNpc	君子堂指挥使		8	81	2	2			1	5	hand1_1	npc\worldnpc_schoolwar_003							0			3	0	0			10																																																																																		
+schoolwar_command_jlg	CommonNpc	极乐谷指挥使		8	81	2	2			1	5	hand1_1	npc\worldnpc_schoolwar_007							0			3	0	0			10																																																																																		
+schoolwar_command_tm	CommonNpc	唐门指挥使		8	81	2	2			1	5	hand1_1	npc\worldnpc_schoolwar_005							0			3	0	0			10																																																																																		
+schoolwar_command_em	CommonNpc	峨眉指挥使		8	81	2	2			1	5	hand1_1	npc\worldnpc_schoolwar_006							0			3	0	0			10																																																																																		
+schoolwar_command_wd	CommonNpc	武当指挥使		8	81	2	2			1	5	hand1_1	npc\worldnpc_schoolwar_004							0			3	0	0			10																																																																																		
+schoolwar_command_sl	CommonNpc	少林指挥使		8	81	2	2			1	5	hand1_1	npc\worldnpc_schoolwar_001							0			3	0	0			10																																																																																		
+																																																																																																														
+	五行指挥台																																																																																																													
+schoolwar_item_gold	CommonNpc	金			172								npc\itemnpc_schoolwar_001																																																																																																	
+schoolwar_item_wood	CommonNpc	木			172								npc\itemnpc_schoolwar_002																																																																																																	
+schoolwar_item_water	CommonNpc	水			172								npc\itemnpc_schoolwar_003																																																																																																	
+schoolwar_item_fire	CommonNpc	火			172								npc\itemnpc_schoolwar_004																																																																																																	
+schoolwar_item_soil	CommonNpc	土			172								npc\itemnpc_schoolwar_005																																																																																																	
+schoolwar_item_wall	CommonNpc	围墙			172								npc\itemnpc_schoolwar_006																																																																																																	
+schoolwar_item_platform	CommonNpc	插旗台			172								npc\itemnpc_schoolwar_018																																																																																																	
+																																																																																																														
+	五行旗																																																																																																													
+schoolwar_flag_gold01	CommonNpc	金（大旗）			172								npc\itemnpc_schoolwar_007																																																																																																	
+schoolwar_flag_gold02	CommonNpc	金（小旗）			172								npc\itemnpc_schoolwar_012																																																																																																	
+schoolwar_flag_wood01	CommonNpc	木（大旗）			172								npc\itemnpc_schoolwar_008																																																																																																	
+schoolwar_flag_wood02	CommonNpc	木（小旗）			172								npc\itemnpc_schoolwar_013																																																																																																	
+schoolwar_flag_water01	CommonNpc	水（大旗）			172								npc\itemnpc_schoolwar_009																																																																																																	
+schoolwar_flag_water02	CommonNpc	水（小旗）			172								npc\itemnpc_schoolwar_014																																																																																																	
+schoolwar_flag_fire01	CommonNpc	火（大旗）			172								npc\itemnpc_schoolwar_010																																																																																																	
+schoolwar_flag_fire02	CommonNpc	火（小旗）			172								npc\itemnpc_schoolwar_015																																																																																																	
+schoolwar_flag_soil01	CommonNpc	土（大旗）			172								npc\itemnpc_schoolwar_011																																																																																																	
+schoolwar_flag_soil02	CommonNpc	土（小旗）			172								npc\itemnpc_schoolwar_016																																																																																																	
+	//幽云战场																																																																																																													
+yyzcjd_npc001	SchoolFightStrongPoint	据点			225								npc\itemnpc057															20																																																																																		
+yyzcjd_npc002	SchoolFightStrongPoint	据点			225								npc\itemnpc057															20																																																																																		
+yyzcjd_npc003	SchoolFightStrongPoint	据点			225								npc\itemnpc057															20																																																																																		
+yyzcjd_npc004	SchoolFightStrongPoint	据点			225								npc\itemnpc057															20																																																																																		
+yyzcjd_npc005	SchoolFightStrongPoint	据点			225								npc\itemnpc057															20																																																																																		
+yyzcjd_npc006	SchoolFightStrongPoint	据点			225								npc\itemnpc057															20																																																																																		
+yyzcjf_npc001	CommonNpc	力量第1裆积分			202								npc\itemnpc057_yyzq01								 npc\clone\worldwar01\yyzcjf_npc.lua							1																																																																												"0.6,0.6,0.6"						
+yyzcjf_npc002	CommonNpc	力量第2裆积分			202								npc\itemnpc057_yyzq01								 npc\clone\worldwar01\yyzcjf_npc.lua							1.2																																																																												"0.7,0.7,0.7"						
+yyzcjf_npc003	CommonNpc	力量第3裆积分			202								npc\itemnpc057_yyzq01								 npc\clone\worldwar01\yyzcjf_npc.lua							1.5																																																																												"0.8,0.8,0.8"						
+yyzcjf_npc004	CommonNpc	力量第4裆积分			202								npc\itemnpc057_yyzq01								 npc\clone\worldwar01\yyzcjf_npc.lua							2																																																																												"0.9,0.9,0.9"						
+yyzcjf_npc005	CommonNpc	力量第5裆积分			202								npc\itemnpc057_yyzq01								 npc\clone\worldwar01\yyzcjf_npc.lua							2.2																																																																																		
+yyzcjf_npc006	CommonNpc	身法第1裆积分			202								npc\itemnpc057_yyzq02								 npc\clone\worldwar01\yyzcjf_npc.lua							1																																																																												"0.6,0.6,0.6"						
+yyzcjf_npc007	CommonNpc	身法第2裆积分			202								npc\itemnpc057_yyzq02								 npc\clone\worldwar01\yyzcjf_npc.lua							1.2																																																																												"0.7,0.7,0.7"						
+yyzcjf_npc008	CommonNpc	身法第3裆积分			202								npc\itemnpc057_yyzq02								 npc\clone\worldwar01\yyzcjf_npc.lua							1.5																																																																												"0.8,0.8,0.8"						
+yyzcjf_npc009	CommonNpc	身法第4裆积分			202								npc\itemnpc057_yyzq02								 npc\clone\worldwar01\yyzcjf_npc.lua							2																																																																												"0.9,0.9,0.9"						
+yyzcjf_npc010	CommonNpc	身法第5裆积分			202								npc\itemnpc057_yyzq02								 npc\clone\worldwar01\yyzcjf_npc.lua							2.2																																																																																		
+yyzcjf_npc011	CommonNpc	内息第1裆积分			202								npc\itemnpc057_yyzq03								 npc\clone\worldwar01\yyzcjf_npc.lua							1																																																																												"0.6,0.6,0.6"						
+yyzcjf_npc012	CommonNpc	内息第2裆积分			202								npc\itemnpc057_yyzq03								 npc\clone\worldwar01\yyzcjf_npc.lua							1.2																																																																												"0.7,0.7,0.7"						
+yyzcjf_npc013	CommonNpc	内息第3裆积分			202								npc\itemnpc057_yyzq03								 npc\clone\worldwar01\yyzcjf_npc.lua							1.5																																																																												"0.8,0.8,0.8"						
+yyzcjf_npc014	CommonNpc	内息第4裆积分			202								npc\itemnpc057_yyzq03								 npc\clone\worldwar01\yyzcjf_npc.lua							2																																																																												"0.9,0.9,0.9"						
+yyzcjf_npc015	CommonNpc	内息第5裆积分			202								npc\itemnpc057_yyzq03								 npc\clone\worldwar01\yyzcjf_npc.lua							2.2																																																																																		
+yyzcjf_npc016	CommonNpc	体魄第1裆积分			202								npc\itemnpc057_yyzq05								 npc\clone\worldwar01\yyzcjf_npc.lua							1																																																																												"0.6,0.6,0.6"						
+yyzcjf_npc017	CommonNpc	体魄第2裆积分			202								npc\itemnpc057_yyzq05								 npc\clone\worldwar01\yyzcjf_npc.lua							1.2																																																																												"0.7,0.7,0.7"						
+yyzcjf_npc018	CommonNpc	体魄第3裆积分			202								npc\itemnpc057_yyzq05								 npc\clone\worldwar01\yyzcjf_npc.lua							1.5																																																																												"0.8,0.8,0.8"						
+yyzcjf_npc019	CommonNpc	体魄第4裆积分			202								npc\itemnpc057_yyzq05								 npc\clone\worldwar01\yyzcjf_npc.lua							2																																																																												"0.9,0.9,0.9"						
+yyzcjf_npc020	CommonNpc	体魄第5裆积分			202								npc\itemnpc057_yyzq05								 npc\clone\worldwar01\yyzcjf_npc.lua							2.2																																																																																		
+yyzcjf_npc021	CommonNpc	罡气第1裆积分			202								npc\itemnpc057_yyzq04								 npc\clone\worldwar01\yyzcjf_npc.lua							1																																																																												"0.6,0.6,0.6"						
+yyzcjf_npc022	CommonNpc	罡气第2裆积分			202								npc\itemnpc057_yyzq04								 npc\clone\worldwar01\yyzcjf_npc.lua							1.2																																																																												"0.7,0.7,0.7"						
+yyzcjf_npc023	CommonNpc	罡气第3裆积分			202								npc\itemnpc057_yyzq04								 npc\clone\worldwar01\yyzcjf_npc.lua							1.5																																																																												"0.8,0.8,0.8"						
+yyzcjf_npc024	CommonNpc	罡气第4裆积分			202								npc\itemnpc057_yyzq04								 npc\clone\worldwar01\yyzcjf_npc.lua							2																																																																												"0.9,0.9,0.9"						
+yyzcjf_npc025	CommonNpc	罡气第5裆积分			202								npc\itemnpc057_yyzq04								 npc\clone\worldwar01\yyzcjf_npc.lua							2.2																																																																																		
+yyzc_qz_npc001	CommonNpc	空白旗帜			172								npc\itemnpc423a															25																																																																																		
+yyzc_qz_npc002	CommonNpc	明军旗帜			172								npc\itemnpc719															25																																																																										1532		0.5						
+yyzc_qz_npc003	CommonNpc	蒙军旗帜			172								npc\itemnpc720															25																																																																										1531		0.5						
+yyzc_mjyl_01	CommonNpc	明军运粮官1		8	81	2	2		1	1	5	hand1_1	npc\worldnpc217		icon\funcnpc\worldnpc207.png					0			3	0	0			20																						6	40							120					1				0	0	0			0								1300																						1247			-1					
+yyzc_mgyl_01	CommonNpc	蒙古运粮官1		8	81	2	2		1	1	5	hand1_1	npc\monster443		icon\funcnpc\worldnpc207.png					0			3	0	0			20																						6	40							120					1				0	0	0			0								1301																						1247			-1					
+yyzc_mjyl_02	CommonNpc	明军运粮官2		8	81	2	2		1	1	5	hand1_1	npc\worldnpc217		icon\funcnpc\worldnpc207.png					0			3	0	0			20																						6	40							120					1				0	0	0			0								1300																						1247			-1					
+yyzc_mgyl_02	CommonNpc	蒙古运粮官2		8	81	2	2		1	1	5	hand1_1	npc\monster443		icon\funcnpc\worldnpc207.png					0			3	0	0			20																						6	40							120					1				0	0	0			0								1301																						1247			-1					
+yyzc_mjyl_03	CommonNpc	明军运粮官3		8	81	2	2		1	1	5	hand1_1	npc\worldnpc217		icon\funcnpc\worldnpc207.png					0			3	0	0			20																						6	40							120					1				0	0	0			0								1300																						1247			-1					
+yyzc_mgyl_03	CommonNpc	蒙古运粮官3		8	81	2	2		1	1	5	hand1_1	npc\monster443		icon\funcnpc\worldnpc207.png					0			3	0	0			20																						6	40							120					1				0	0	0			0								1301																						1247			-1					
+yyzc_mjyl_04	CommonNpc	明军运粮官4		8	81	2	2		1	1	5	hand1_1	npc\worldnpc217		icon\funcnpc\worldnpc207.png					0			3	0	0			20																						6	40							120					1				0	0	0			0								1300																						1247			-1					
+yyzc_mgyl_04	CommonNpc	蒙古运粮官4		8	81	2	2		1	1	5	hand1_1	npc\monster443		icon\funcnpc\worldnpc207.png					0			3	0	0			20																						6	40							120					1				0	0	0			0								1301																						1247			-1					
+yyzc_mjyl_05	CommonNpc	明军运粮官5		8	81	2	2		1	1	5	hand1_1	npc\worldnpc217		icon\funcnpc\worldnpc207.png					0			3	0	0			20																						6	40							120					1				0	0	0			0								1300																						1247			-1					
+yyzc_mgyl_05	CommonNpc	蒙古运粮官5		8	81	2	2		1	1	5	hand1_1	npc\monster443		icon\funcnpc\worldnpc207.png					0			3	0	0			20																						6	40							120					1				0	0	0			0								1301																						1247			-1					
+school_yznpc_001	CommonNpc	约战场景特效			202								npc\huashanleitai																																																																																									2011								
+																																																																																																														
+																																																																																																														
+lxc_xbnpc_001	CommonNpc	普通地宝_地灵紫芝		8	202	2	6		1	1	5	hand1_1	npc\npcitem678_a		icon\funcnpc\worldnpc207.png					0	npc\clone\worldwar02\worldwardignpc.lua		3	0	0			2																						6	40							1	1				1				0	0	0			0																																	300000					
+lxc_xbnpc_002	CommonNpc	普通地宝_玉露枇杷		8	202	2	6		1	1	5	hand1_1	npc\itemnpc166_a		icon\funcnpc\worldnpc207.png					0	npc\clone\worldwar02\worldwardignpc.lua		3	0	0			2																						6	40							1	1				1				0	0	0			0																																	300000					
+lxc_xbnpc_003	CommonNpc	普通地宝_玄冰虫草		8	202	2	6		1	1	5	hand1_1	npc\npcitem669_a		icon\funcnpc\worldnpc207.png					0	npc\clone\worldwar02\worldwardignpc.lua		3	0	0			2																						6	40							1	1				1				0	0	0			0																																	300000					
+lxc_xbnpc_004	CommonNpc	普通地宝_玄天冰魄		8	202	2	6		1	1	5	hand1_1	npc\cj020140_a		icon\funcnpc\worldnpc207.png					0	npc\clone\worldwar02\worldwardignpc.lua		3	0	0			2																						6	40							1	1				1				0	0	0			0																																	300000					
+lxc_xbnpc_005	CommonNpc	大型地宝_千年铁木		8	202	2	6		1	1	5	hand1_1	npc\itemnpc447_a		icon\funcnpc\worldnpc207.png					0	npc\clone\worldwar02\worldwardignpc.lua		3	0	0			2																						6	40							1	1				1				0	0	0			0																																	300000					
+lxc_xbnpc_006	CommonNpc	大型地宝_天蜈珠		8	202	2	6		1	1	5	hand1_1	npc\itemnpc057_yhrw		icon\funcnpc\worldnpc207.png					0	npc\clone\worldwar02\worldwardignpc.lua		3	0	0			2																						6	40							1	1				1				0	0	0			0																																	300000					
+lxc_xbnpc_007	CommonNpc	稀有地宝_地心石钟乳		8	202	2	6		1	1	5	hand1_1	npc\npcitem671_a		icon\funcnpc\worldnpc207.png					0	npc\clone\worldwar02\worldwardignpc.lua		3	0	0			2																						6	40							1	1				1				0	0	0			0																																	300000					
+lxc_xbnpc_008	CommonNpc	普通水宝_碧水青茗		8	202	2	6		1	1	5	hand1_1	npc\npcitem672_a		icon\funcnpc\worldnpc207.png					0	npc\clone\worldwar02\worldwardignpc.lua		3	0	0			2																						6	40							1	1				1				0	0	0			0																																	300000					
+lxc_xbnpc_009	CommonNpc	普通水宝_水元珠		8	202	2	6		1	1	5	hand1_1	npc\npcitem676_a		icon\funcnpc\worldnpc207.png					0	npc\clone\worldwar02\worldwardignpc.lua		3	0	0			2																						6	40							1	1				1				0	0	0			0																																	300000					
+lxc_xbnpc_010	CommonNpc	普通水宝_十二天香果		8	202	2	6		1	1	5	hand1_1	npc\cj_150100		icon\funcnpc\worldnpc207.png					0	npc\clone\worldwar02\worldwardignpc.lua		3	0	0			2																						6	40							1	1				1				0	0	0			0																																	300000					
+lxc_xbnpc_011	CommonNpc	普通水宝_清心冰晶		8	202	2	6		1	1	5	hand1_1	npc\npcitem674_a		icon\funcnpc\worldnpc207.png					0	npc\clone\worldwar02\worldwardignpc.lua		3	0	0			2																						6	40							1	1				1				0	0	0			0																																	300000					
+lxc_xbnpc_012	CommonNpc	大型水宝_通窍雪藕		8	202	2	6		1	1	5	hand1_1	npc\cj_041060b_1		icon\funcnpc\worldnpc207.png					0	npc\clone\worldwar02\worldwardignpc.lua		3	0	0			2																						6	40							1	1				1				0	0	0			0																																	300000					
+lxc_xbnpc_013	CommonNpc	大型水宝_水月之花		8	202	2	6		1	1	5	hand1_1	npc\cj_160200		icon\funcnpc\worldnpc207.png					0	npc\clone\worldwar02\worldwardignpc.lua		3	0	0			2																						6	40							1	1				1				0	0	0			0																																	300000					
+lxc_xbnpc_014	CommonNpc	稀有水宝_水魔莲		8	202	2	6		1	1	5	hand1_1	npc\itemnpc200		icon\funcnpc\worldnpc207.png					0	npc\clone\worldwar02\worldwardignpc.lua		3	0	0			2																						6	40							1	1				1				0	0	0			0																																	300000					
+BoxNpc_lxc_yb_01	CommonNpc	异宝_人参果		8	202	2	6		1	1	5	hand1_1	npc\itemnpc776_a		icon\funcnpc\worldnpc207.png					0	npc\clone\worldwar02\worldwardignpc.lua		3	0	0			2																						6	40							1	1				1				0	0	0			0																																	300000					
+																																																																																																														
+lxc_huodui	CommonNpc	火堆		8	202	2							npc\itemnpc552_1															2																																																																																		
+																																																																																																														
+	//移花宫无缺公子																																																																																																													
+yhg_xiuqiu001	CommonNpc	第一阶段绣球			202								npc\itemnpc057_wqxq01															1																																																																												"0.6,0.6,0.6"						
+																																																																																																														
+	//镇派兵器领取																																																																																																													
+	//攻方																																																																																																													
+funcnpc_schoolwar001a	CommonNpc	锦衣卫	镇派兵器管理员		81	2	2					hand1_1	npc\monster179		icon\funcnpc\monster179.png					0								5				1																																																																														
+funcnpc_schoolwar002a	CommonNpc	丐帮	镇派兵器管理员		81	2	2					hand1_1	npc\worldnpc061		icon\funcnpc\worldnpc061.png					0								5				1																																																																														
+funcnpc_schoolwar003a	CommonNpc	君子堂	镇派兵器管理员		81	2	2					hand1_1	npc\worldnpc204		icon\funcnpc\worldnpc204.png					0								5				1																																																																														
+funcnpc_schoolwar004a	CommonNpc	极乐谷	镇派兵器管理员		81	2	2					hand1_1	npc\monster156		icon\funcnpc\monster156.png					0								5				1																																																																														
+funcnpc_schoolwar005a	CommonNpc	唐门	镇派兵器管理员		81	2	2					hand1_1	npc\worldnpc388		icon\funcnpc\worldnpc388.png					0								5				1																																																																														
+funcnpc_schoolwar006a	CommonNpc	峨眉	镇派兵器管理员		81	2	2					hand1_1	npc\monster208		icon\funcnpc\monster208.png					0								5				1																																																																														
+funcnpc_schoolwar007a	CommonNpc	武当	镇派兵器管理员		81	2	2					hand1_1	npc\monster159		icon\funcnpc\monster159.png					0								5				1																																																																														
+funcnpc_schoolwar008a	CommonNpc	少林	镇派兵器管理员		81	2	2					hand1_1	npc\monster155		icon\funcnpc\monster155.png					0								5				1																																																																														
+	//守方																																																																																																													
+funcnpc_schoolwar001b	CommonNpc	锦衣卫	镇派兵器管理员		81	2	2					hand1_1	npc\monster179		icon\funcnpc\monster179.png					0								5				1																																																																														
+funcnpc_schoolwar002b	CommonNpc	丐帮	镇派兵器管理员		81	2	2					hand1_1	npc\worldnpc061		icon\funcnpc\worldnpc061.png					0								5				1																																																																														
+funcnpc_schoolwar003b	CommonNpc	君子堂	镇派兵器管理员		81	2	2					hand1_1	npc\worldnpc204		icon\funcnpc\worldnpc204.png					0								5				1																																																																														
+funcnpc_schoolwar004b	CommonNpc	极乐谷	镇派兵器管理员		81	2	2					hand1_1	npc\monster156		icon\funcnpc\monster156.png					0								5				1																																																																														
+funcnpc_schoolwar005b	CommonNpc	唐门	镇派兵器管理员		81	2	2					hand1_1	npc\worldnpc388		icon\funcnpc\worldnpc388.png					0								5				1																																																																														
+funcnpc_schoolwar006b	CommonNpc	峨眉	镇派兵器管理员		81	2	2					hand1_1	npc\monster208		icon\funcnpc\monster208.png					0								5				1																																																																														
+funcnpc_schoolwar007b	CommonNpc	武当	镇派兵器管理员		81	2	2					hand1_1	npc\monster159		icon\funcnpc\monster159.png					0								5				1																																																																														
+funcnpc_schoolwar008b	CommonNpc	少林	镇派兵器管理员		81	2	2					hand1_1	npc\monster155		icon\funcnpc\monster155.png					0								5				1																																																																														
+																																																																																																														
+	//天山派门派战																																																																																																													
+schoolwar_flag_tsp	CommonNpc	天山大旗			172								npc\itemnpc1651																																																																																																	
+schoolwar_command_tsp	CommonNpc	天山指挥使		8	81	2	2			1	5	hand1_1	npc\worldnpc1692							0			3	0	0			10																																																																																		
+funcnpc_schoolwar010a	CommonNpc	天山	镇派兵器管理员		81	2	2					hand1_1	npc\worldnpc1692		icon\funcnpc\monster208.png					0								5				1																																																																														
+funcnpc_schoolwar010b	CommonNpc	天山	镇派兵器管理员		81	2	2					hand1_1	npc\worldnpc1692		icon\funcnpc\monster208.png					0								5				1																																																																														
+																																																																																																														
+	//明教师门大会																																																																																																													
+schoolpose_flagnpcmj01	CommonNpc	师门阶位战装饰大旗			172								npc\itemnpc1581																																																																																																	
+schoolpose_blookEffect_mj01	CommonNpc	师门阶位战围栏（大）			172								npc\itemnpc057n																																																																																																	
+schoolpose_blookEffect_mj02	CommonNpc	师门阶位战围栏（小）			172								npc\itemnpc057n																																																																																																	
+																																																																																																														
+	//明教门派战																																																																																																													
+schoolwar_flag_mj	CommonNpc	明教大旗			172								npc\itemnpc1581																																																																																																	
+schoolwar_command_mj	CommonNpc	明教指挥使		8	81	2	2			1	5	hand1_1	npc\worldnpc_schoolwar_006							0			3	0	0			10																																																																																		
+funcnpc_schoolwar009a	CommonNpc	明教	镇派兵器管理员		81	2	2					hand1_1	npc\worldnpc1614		icon\funcnpc\monster208.png					0								5				1																																																																														
+funcnpc_schoolwar009b	CommonNpc	明教	镇派兵器管理员		81	2	2					hand1_1	npc\worldnpc1614		icon\funcnpc\monster208.png					0								5				1																																																																														
+																																																																																																														
+	//天山派师门大会																																																																																																													
+schoolpose_flagnpctsp01	CommonNpc	师门阶位战装饰大旗			172								npc\itemnpc1651																																																																																											"2,2,2"						
+schoolpose_blookEffect_tsp01	CommonNpc	师门阶位战围栏（大）			172								npc\itemnpc057n																																																																																																	
+schoolpose_blookEffect_tsp02	CommonNpc	师门阶位战围栏（小）			172								npc\itemnpc057n																																																																																																	
+																																																																																																														
+	//新门派战																																																																																																													
+schoolwar_gujmpz_01	NewSchoolFightStrongPoint	争夺点功能(金)			225								npc\itemnpc057															20																																																																																		1
+schoolwar_gujmpz_02	NewSchoolFightStrongPoint	争夺点功能(金2)			225								npc\itemnpc057															20																																																																																		2
+schoolwar_gujmpz_03	NewSchoolFightStrongPoint	争夺点功能(水)			225								npc\itemnpc057															20																																																																																		3
+schoolwar_gujmpz_04	NewSchoolFightStrongPoint	争夺点功能(水2)			225								npc\itemnpc057															20																																																																																		4
+schoolwar_gujmpz_05	NewSchoolFightStrongPoint	争夺点功能(木)			225								npc\itemnpc057															20																																																																																		5
+schoolwar_gujmpz_06	NewSchoolFightStrongPoint	争夺点功能(木2)			225								npc\itemnpc057															20																																																																																		6
+																																																																																																														
+	//昆仑派师门大会																																																																																																													
+schoolpose_flagnpckl01	CommonNpc	师门阶位战装饰大旗			172								npc\itemnpc1664																																																																																											"2,2,2"						
+schoolpose_blookEffect_kl01	CommonNpc	师门阶位战围栏（大）			172								npc\itemnpc057n																																																																																																	
+schoolpose_blookEffect_kl02	CommonNpc	师门阶位战围栏（小）			172								npc\itemnpc057n																																																																																																	

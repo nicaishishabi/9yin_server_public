@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="FE59FC68D9164A589ABE2D9FA97D5F6D" x="1018.215" y="51.669" z="578.890" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="76801" TaskSubType="1" HateLink="1" SubSceneNo="9264">
+            <item No="1" id="xtb_nmphurnt_005" ay="-1" amount="2" refreshtime="5" NotPositive="0" desc="瓦剌军人">
+                <position x="1016.982" z="580.037" ay="-1" />
+                <position x="1019.515" z="577.878" ay="-1" />
+            </item>
+        </creator>
+        <creator No="7E5E0A30136946F087F41E2BD6BB23EE" x="1032.802" y="51.669" z="579.807" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="76805" TaskSubType="1" HateLink="1" SubSceneNo="9264">
+            <item No="1" id="xtb_nmphurnt_006" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="天狼骑士">
+                <position x="1035.096" z="581.197" ay="-1" />
+                <position x="1030.199" z="579.972" ay="-1" />
+                <position x="1033.433" z="577.384" ay="-1" />
+            </item>
+        </creator>
+        <creator No="1D646F7549144247B0B0C1177256A5BD" x="1032.417" y="51.669" z="580.196" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="76807" TaskSubType="1" HateLink="1" SubSceneNo="9266">
+            <item No="1" id="xtb_nmphurnt_009" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="天狼勇士" />
+        </creator>
+        <creator No="99098C54D8C0475EA86B4B5FC7EF2D7D" x="1754.125" y="-7.737" z="-6.242" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="76808" TaskSubType="1" HateLink="1" SubSceneNo="9267">
+            <item No="1" id="xtb_nmphurnt_008" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="瓦剌万夫长" />
+        </creator>
+        <creator No="C18C902239E749E89D127EAD566D36A6" x="1760.494" y="-7.688" z="-6.523" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="76809" TaskSubType="1" HateLink="1" SubSceneNo="9267">
+            <item No="1" id="xtb_nmphurnt_009" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="天狼勇士">
+                <position x="1763.842" z="-4.738" ay="-1" />
+                <position x="1763.248" z="-8.386" ay="-1" />
+                <position x="1760.147" z="-9.562" ay="-1" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

@@ -1,0 +1,1169 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="EEF8AB1BC64F40B7B8B8720CC1690CF9" x="457.287" y="63.456" z="-149.028" radius="3.0" WakeupRange="15.0" ChaseRange="26.0" PatrolRange="0.0" SpringRange="15" HateLink="1">
+            <item No="1" id="GatherNpc0001pc" sx="0.100" sy="0.540" sz="0.100" ay="-1" amount="7" refreshtime="5" desc="铁矿石">
+                <position x="456.161" z="-148.390" sx="0.100" sy="0.540" sz="0.100" ay="-1" />
+                <position x="457.417" z="-149.725" sx="0.100" sy="0.730" sz="0.112" ax="6.243" ay="2.440" az="0.117" />
+                <position x="456.664" z="-149.895" sx="0.100" sy="0.610" sz="0.111" ay="-1" />
+                <position x="457.327" z="-150.171" sx="0.130" sy="0.130" sz="0.130" ay="1.857" az="0.250" />
+                <position x="457.029" z="-149.024" sx="0.449" sy="0.520" sz="0.100" ay="2.225" az="0.299" />
+                <position x="455.804" z="-149.778" sx="0.195" sy="1.350" sz="0.467" ax="5.729" ay="3.740" az="6.046" />
+                <position x="456.264" z="-148.892" sx="0.150" sy="1.050" sz="0.100" ay="2.225" />
+            </item>
+        </creator>
+        <creator No="FACE7B48C2B2409A81043377125F0112" x="403.327" y="184.641" z="-342.632" radius="4.0" WakeupRange="10.0" ChaseRange="10.0" PatrolRange="10.0" SpringRange="10" HateLink="1">
+            <item No="1" id="GatherNpc0003pc" ay="2.225" amount="7" refreshtime="5" desc="龙蛇草">
+                <position x="404.804" z="-341.682" ay="2.225" />
+                <position x="402.943" z="-340.954" ay="2.225" />
+                <position x="401.432" z="-341.877" ay="2.225" />
+                <position x="401.883" z="-342.921" ay="2.225" />
+                <position x="403.904" z="-342.194" ay="2.225" />
+                <position x="403.158" z="-343.335" ay="2.225" />
+                <position x="403.947" z="-339.698" ay="2.225" />
+            </item>
+        </creator>
+        <creator No="779C23870D9B496B877662C462F4171C" x="536.185" y="61.395" z="-185.148" radius="5.0" WakeupRange="10.0" ChaseRange="10.0" PatrolRange="10.0" SpringRange="5" HateLink="1">
+            <item No="1" id="GatherNpc0002pc" ay="2.225" amount="8" refreshtime="5" desc="百灵草">
+                <position x="539.239" z="-184.654" ay="2.225" />
+                <position x="537.975" z="-184.421" ay="2.225" />
+                <position x="537.332" z="-182.446" ay="2.225" />
+                <position x="535.863" z="-183.123" ay="2.225" />
+                <position x="534.294" z="-182.842" ay="2.225" />
+                <position x="536.106" z="-186.491" ay="2.225" />
+                <position x="534.606" z="-185.925" ay="2.225" />
+                <position x="539.092" z="-187.152" ay="2.225" />
+            </item>
+        </creator>
+        <creator No="B7D4B63CBAE54A2DAF8FAFCF602D167F" x="280.855" y="-8.000" z="593.945" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10046" ay="-1" amount="1" refreshtime="120000" desc="黄颡鱼群">
+                <position x="276.424" z="608.254" ay="-1" />
+                <position x="272.217" z="595.902" ay="-1" />
+                <position x="272.515" z="581.480" ay="-1" />
+            </item>
+        </creator>
+        <creator No="1B41D0A457DE43D2B2411BD30C5F8CA8" x="1027.835" y="-8.000" z="634.294" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10046" ay="-1" amount="1" refreshtime="120000" desc="黄颡鱼群">
+                <position x="1036.198" z="630.635" ay="-1" />
+                <position x="1022.171" z="631.885" ay="-1" />
+                <position x="1030.016" z="622.682" ay="-1" />
+            </item>
+        </creator>
+        <creator No="BF922FF26D684D82BBA1A85C8F743D0F" x="389.176" y="-8.000" z="741.993" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10043" ay="-1" amount="1" refreshtime="120000" desc="黄尾鲴群">
+                <position x="383.702" z="746.682" ay="-1" />
+                <position x="387.568" z="736.303" ay="-1" />
+                <position x="392.437" z="747.633" ay="-1" />
+            </item>
+        </creator>
+        <creator No="63E8FB9D8EA847CB82D02A69E5D7649C" x="-53.249" y="59.499" z="727.531" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10043" ay="-1" amount="1" refreshtime="120000" desc="黄尾鲴群">
+                <position x="-54.857" z="721.842" ay="-1" />
+                <position x="-49.870" z="730.467" ay="-1" />
+            </item>
+        </creator>
+        <creator No="7FBCB0398F2B4C37B887EFFF837035BC" x="438.750" y="-8.000" z="904.313" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10001" ay="-1" amount="3" refreshtime="30000" desc="弓鱼群">
+                <position x="438.257" z="906.546" ay="-1" />
+                <position x="437.309" z="902.099" ay="-1" />
+                <position x="441.917" z="903.798" ay="-1" />
+            </item>
+        </creator>
+        <creator No="96555F9E322144F39D6F02E2F9926050" x="480.803" y="92.100" z="556.309" radius="100.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" HateLink="1">
+            <item No="1" id="BoxNpc10002" sx="0.600" sy="0.600" sz="0.600" ay="4.724" amount="1" refreshtime="600000" NotPositive="0" desc="木质宝箱">
+                <position x="517.755" z="473.356" sx="0.600" sy="0.600" sz="0.600" ay="4.724" />
+                <position x="431.860" z="473.563" sx="0.600" sy="0.600" sz="0.600" ay="6.265" />
+                <position x="407.619" z="499.192" sx="0.600" sy="0.600" sz="0.600" ay="3.141" />
+                <position x="550.044" z="499.499" sx="0.600" sy="0.600" sz="0.600" ay="3.134" />
+                <position x="508.622" z="557.450" sx="0.600" sy="0.600" sz="0.600" ay="4.709" />
+                <position x="507.865" z="540.551" sx="0.600" sy="0.600" sz="0.600" ay="0.041" />
+                <position x="486.062" z="539.445" sx="0.600" sy="0.600" sz="0.600" ay="0.041" />
+                <position x="473.371" z="539.669" sx="0.600" sy="0.600" sz="0.600" ay="0.041" />
+                <position x="451.148" z="558.034" sx="0.600" sy="0.600" sz="0.600" ay="1.581" />
+                <position x="450.174" z="579.721" sx="0.600" sy="0.600" sz="0.600" ay="0.041" />
+                <position x="457.071" z="596.869" sx="0.600" sy="0.600" sz="0.600" ay="3.146" />
+                <position x="464.368" z="596.827" sx="0.600" sy="0.600" sz="0.600" ay="3.161" />
+                <position x="501.512" z="597.097" sx="0.600" sy="0.600" sz="0.600" ay="3.174" />
+                <position x="508.644" z="580.112" sx="0.600" sy="0.600" sz="0.600" ay="4.729" az="0.035" />
+                <position x="508.459" z="628.034" sx="0.600" sy="0.600" sz="0.600" ay="1.571" />
+                <position x="508.170" z="637.243" sx="0.600" sy="0.600" sz="0.600" ay="1.630" az="0.024" />
+                <position x="549.171" z="627.669" sx="0.600" sy="0.600" sz="0.600" ay="1.515" />
+                <position x="536.808" z="617.148" sx="0.600" sy="0.600" sz="0.600" ay="6.255" />
+                <position x="514.597" z="613.933" sx="0.600" sy="0.600" sz="0.600" ay="6.205" az="6.006" />
+            </item>
+        </creator>
+        <creator No="21BFE3E7BCEE4DEDB69739F46D81E6D2" x="728.236" y="135.981" z="303.511" radius="100.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" HateLink="1">
+            <item No="1" id="BoxNpc10002" sx="0.600" sy="0.600" sz="0.600" ax="6.154" ay="4.390" amount="1" refreshtime="600000" NotPositive="0" desc="木质宝箱">
+                <position x="814.038" z="313.432" sx="0.600" sy="0.600" sz="0.600" ax="6.154" ay="4.390" />
+                <position x="805.395" z="279.110" sx="0.600" sy="0.600" sz="0.600" ay="6.160" />
+                <position x="771.027" z="281.852" sx="0.600" sy="0.600" sz="0.600" ay="6.215" />
+                <position x="780.476" z="284.856" sx="0.600" sy="0.600" sz="0.600" ay="6.215" />
+                <position x="783.614" z="276.341" sx="0.600" sy="0.600" sz="0.600" ay="1.542" />
+                <position x="774.476" z="273.423" sx="0.600" sy="0.600" sz="0.600" ay="3.083" />
+                <position x="727.282" z="310.758" sx="0.600" sy="0.600" sz="0.600" ay="1.358" />
+                <position x="733.888" z="285.438" sx="0.600" sy="0.600" sz="0.600" ay="1.533" />
+                <position x="738.402" z="273.186" sx="0.600" sy="0.600" sz="0.600" ay="1.643" />
+                <position x="750.461" z="265.357" sx="0.600" sy="0.600" sz="0.600" ay="1.038" />
+                <position x="730.640" z="329.828" sx="0.600" sy="0.600" sz="0.600" ax="0.117" ay="6.163" az="0.169" />
+                <position x="679.558" z="387.808" sx="0.600" sy="0.600" sz="0.600" ay="2.328" />
+                <position x="710.198" z="394.791" sx="0.600" sy="0.600" sz="0.600" ay="5.433" az="6.223" />
+                <position x="746.351" z="379.827" sx="0.600" sy="0.600" sz="0.600" ay="3.908" az="6.118" />
+                <position x="718.663" z="333.981" sx="0.600" sy="0.600" sz="0.600" ay="1.328" az="0.126" />
+                <position x="790.273" z="320.241" sx="0.620" sy="0.620" sz="0.620" ay="-2.375" />
+                <position x="667.708" z="364.554" sx="0.600" sy="0.600" sz="0.600" ay="4.288" />
+                <position x="703.488" z="399.111" sx="0.600" sy="0.600" sz="0.600" ay="2.758" />
+            </item>
+        </creator>
+        <creator No="EE8B09A56D91455684CA5E4E2B5E4F0E" x="522.151" y="1.831" z="775.342" radius="100.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" HateLink="1">
+            <item No="1" id="BoxNpc10002" sx="0.600" sy="0.600" sz="0.600" ay="-2.375" amount="1" refreshtime="600000" NotPositive="0" desc="木质宝箱">
+                <position x="608.789" z="815.163" sx="0.600" sy="0.600" sz="0.600" ay="-2.375" />
+                <position x="609.769" z="790.547" sx="0.600" sy="0.600" sz="0.600" ay="-2.375" />
+                <position x="579.196" z="773.664" sx="0.600" sy="0.600" sz="0.600" ay="-2.375" />
+                <position x="560.922" z="773.617" sx="0.600" sy="0.600" sz="0.600" ay="6.268" />
+                <position x="558.407" z="856.183" sx="0.600" sy="0.600" sz="0.600" ay="-2.375" />
+                <position x="577.310" z="853.359" sx="0.600" sy="0.600" sz="0.600" ay="-2.375" />
+                <position x="516.293" z="857.161" sx="0.600" sy="0.600" sz="0.600" ay="-2.375" />
+                <position x="509.694" z="860.183" sx="0.600" sy="0.600" sz="0.600" ay="-2.375" />
+                <position x="486.517" z="861.980" sy="0.660" sz="0.660" ay="4.688" />
+                <position x="475.877" z="803.391" sx="0.600" sy="0.600" sz="0.600" ay="-2.375" />
+                <position x="466.837" z="803.394" sx="0.600" sy="0.600" sz="0.600" ay="-2.375" />
+                <position x="435.537" z="794.391" sx="0.600" sy="0.600" sz="0.600" ay="-2.375" />
+                <position x="462.198" z="795.301" sx="0.600" sy="0.600" sz="0.600" ay="-2.375" />
+                <position x="482.725" z="696.838" sx="0.870" sy="0.870" sz="0.870" ay="6.238" />
+                <position x="534.467" z="727.885" sx="0.910" sy="0.910" sz="0.910" ay="-2.375" />
+                <position x="534.067" z="747.276" sx="0.850" sy="0.850" sz="0.850" ay="-2.375" />
+                <position x="534.058" z="731.638" sx="0.600" sy="0.600" sz="0.600" ay="5.403" />
+                <position x="533.863" z="776.056" sx="0.600" sy="0.600" sz="0.600" ay="-2.375" />
+                <position x="533.975" z="770.874" sx="0.600" sy="0.600" sz="0.600" ay="-2.375" />
+                <position x="526.872" z="762.977" sx="0.600" sy="0.600" sz="0.600" ay="-2.375" />
+                <position x="489.081" z="730.817" sx="0.600" sy="0.600" sz="0.600" ay="-2.375" />
+                <position x="488.539" z="728.019" sx="0.600" sy="0.600" sz="0.600" ay="-2.375" />
+                <position x="518.854" z="776.983" sx="0.600" sy="0.600" sz="0.600" ay="-2.375" />
+                <position x="492.000" z="776.551" sx="0.600" sy="0.600" sz="0.600" ay="-2.375" />
+                <position x="476.259" z="775.904" sx="0.600" sy="0.600" sz="0.600" ay="-2.375" />
+                <position x="477.019" z="731.501" sx="0.600" sy="0.600" sz="0.600" ay="-2.375" />
+                <position x="464.843" z="851.306" sx="0.600" sy="0.600" sz="0.600" ay="4.423" />
+            </item>
+        </creator>
+        <creator No="3D8C1C53E0F34FAEB8F90B23C9921EFF" x="194.362" y="-4.635" z="911.102" radius="100.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" HateLink="1">
+            <item No="1" id="BoxNpc10002" sx="0.600" sy="0.600" sz="0.600" ay="-1" amount="1" refreshtime="600000" NotPositive="0" desc="木质宝箱">
+                <position x="244.920" z="910.599" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="270.943" z="920.736" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="269.254" z="909.206" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="284.748" z="942.573" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="192.578" z="818.583" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="169.254" z="823.660" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="193.446" z="894.774" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="194.014" z="931.685" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="187.903" z="957.514" sx="0.600" sy="0.600" sz="0.600" ay="2.811" />
+                <position x="142.476" z="950.404" sx="0.600" sy="0.600" sz="0.600" ax="6.221" ay="1.830" az="6.203" />
+                <position x="210.598" z="975.491" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="216.774" z="993.863" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+            </item>
+        </creator>
+        <creator No="55BB6A61C9054D3BA6324A9C8B0B318C" x="91.302" y="19.156" z="647.790" radius="100.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" HateLink="1">
+            <item No="1" id="BoxNpc10002" sx="0.600" sy="0.600" sz="0.600" ay="-1" amount="1" refreshtime="600000" NotPositive="0" desc="木质宝箱">
+                <position x="58.681" z="638.168" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="21.877" z="695.194" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="56.116" z="559.915" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="134.910" z="572.711" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="123.155" z="597.048" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="160.375" z="615.166" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="104.832" z="627.587" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="78.143" z="590.859" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="45.814" z="630.884" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="34.902" z="639.799" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="34.155" z="684.616" sx="0.600" sy="0.600" sz="0.600" ay="3.699" />
+                <position x="72.550" z="715.926" sx="0.600" sy="0.600" sz="0.600" ay="3.699" />
+                <position x="111.595" z="707.915" sx="0.600" sy="0.600" sz="0.600" ay="3.699" />
+                <position x="185.036" z="682.490" sx="0.600" sy="0.600" sz="0.600" ay="3.699" />
+                <position x="72.863" z="730.536" sx="0.600" sy="0.600" sz="0.600" ay="3.699" />
+            </item>
+        </creator>
+        <creator No="081409BD9E6145548F81791E1D412D18" x="80.657" y="22.277" z="415.760" radius="100.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" HateLink="1">
+            <item No="1" id="BoxNpc10002" sx="0.600" sy="0.600" sz="0.600" ay="3.699" amount="1" refreshtime="600000" NotPositive="0" desc="木质宝箱">
+                <position x="60.543" z="407.227" sx="0.600" sy="0.600" sz="0.600" ay="3.699" />
+                <position x="54.964" z="370.088" sx="0.600" sy="0.600" sz="0.600" ay="3.699" />
+                <position x="86.155" z="345.640" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="111.480" z="340.135" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="115.916" z="405.964" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="112.848" z="454.234" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="104.196" z="483.235" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="93.974" z="489.917" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="81.745" z="502.432" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="46.791" z="479.120" sx="0.600" sy="0.600" sz="0.600" ay="1.628" />
+                <position x="22.858" z="453.281" sx="0.600" sy="0.600" sz="0.600" ay="1.628" />
+                <position x="59.918" z="389.973" sx="0.600" sy="0.600" sz="0.600" ay="1.628" />
+                <position x="77.194" z="375.298" sx="0.600" sy="0.600" sz="0.600" ay="1.628" />
+                <position x="40.269" z="476.912" sx="0.600" sy="0.600" sz="0.600" ay="1.628" />
+            </item>
+        </creator>
+        <creator No="16B4363111794AFAA293E164032D37BC" x="184.277" y="22.344" z="167.986" radius="100.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" HateLink="1">
+            <item No="1" id="BoxNpc10002" sx="0.600" sy="0.600" sz="0.600" ay="-1" amount="1" refreshtime="600000" NotPositive="0" desc="木质宝箱">
+                <position x="154.837" z="229.923" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="147.261" z="259.525" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="120.222" z="194.123" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="111.615" z="150.183" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="134.457" z="136.982" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="204.395" z="137.978" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="223.154" z="103.821" sx="0.870" sy="0.870" sz="0.870" ax="0.044" ay="1.128" />
+                <position x="236.133" z="133.476" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="258.633" z="172.716" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="254.052" z="180.493" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="254.024" z="198.349" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="249.848" z="207.596" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="234.337" z="199.278" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="199.626" z="187.279" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="218.047" z="195.361" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="204.461" z="247.815" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="132.989" z="207.965" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="214.816" z="176.042" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+            </item>
+        </creator>
+        <creator No="B78930CF9E0344EFA05FCD8A439A9E8D" x="616.102" y="61.281" z="-235.301" radius="100.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" HateLink="1">
+            <item No="1" id="BoxNpc10002" sx="0.600" sy="0.600" sz="0.600" ay="-1" amount="1" refreshtime="600000" NotPositive="0" desc="木质宝箱">
+                <position x="601.733" z="-249.831" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="628.253" z="-263.054" sx="0.600" sy="0.600" sz="0.600" ay="5.050" />
+                <position x="649.690" z="-261.902" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="639.961" z="-215.552" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="675.971" z="-205.468" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="671.906" z="-254.818" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="568.019" z="-197.709" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="581.687" z="-198.943" sx="0.600" sy="0.600" sz="0.600" ay="2.652" />
+                <position x="542.407" z="-191.624" sx="0.600" sy="0.600" sz="0.600" ay="3.554" />
+                <position x="553.984" z="-180.305" sx="0.840" sy="0.840" sz="0.840" ay="3.145" />
+                <position x="533.342" z="-235.507" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="586.760" z="-258.023" sx="0.600" sy="0.600" sz="0.600" ay="4.131" az="6.203" />
+                <position x="577.997" z="-267.679" sx="0.830" sy="0.830" sz="0.830" ay="0.010" />
+                <position x="631.071" z="-230.658" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+            </item>
+        </creator>
+        <creator No="9DF16B29377D49DF98785DC67FC8627D" x="129.147" y="60.650" z="-48.199" radius="100.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" HateLink="1">
+            <item No="1" id="BoxNpc10003" sx="0.600" sy="0.600" sz="0.600" ay="-1" amount="1" refreshtime="600000" NotPositive="0" desc="铜质宝箱">
+                <position x="176.599" z="20.068" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="78.326" z="35.239" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="63.963" z="1.380" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="90.782" z="1.484" sx="0.440" sy="0.440" sz="0.440" ay="4.811" />
+                <position x="89.709" z="-29.061" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="36.588" z="-81.195" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="51.381" z="-94.513" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="85.565" z="-134.231" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="82.868" z="-73.747" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="108.177" z="-40.779" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="152.632" z="-132.387" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="175.453" z="-122.255" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="135.587" z="-119.936" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="181.803" z="-127.432" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="215.385" z="-79.681" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="223.617" z="-44.735" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="197.339" z="-43.825" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="202.219" z="4.320" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="195.625" z="10.041" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="177.899" z="-0.716" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="141.345" z="37.076" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="117.812" z="11.885" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="60.893" z="-36.167" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+            </item>
+        </creator>
+        <creator No="4175B62934A645A98BEC656DBE435A71" x="-79.823" y="45.153" z="72.794" radius="100.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" HateLink="1">
+            <item No="1" id="BoxNpc10003" sx="0.600" sy="0.600" sz="0.600" ay="-1" amount="1" refreshtime="600000" NotPositive="0" desc="铜质宝箱">
+                <position x="-72.959" z="92.399" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="-40.419" z="45.499" sx="0.600" sy="0.600" sz="0.600" ay="3.923" />
+                <position x="-82.666" z="40.274" sx="0.600" sy="0.600" sz="0.600" ay="3.923" />
+                <position x="-74.290" z="12.750" sx="0.600" sy="0.600" sz="0.600" ay="3.923" />
+                <position x="-84.479" z="-18.516" sx="0.600" sy="0.600" sz="0.600" ay="3.923" />
+                <position x="-122.437" z="21.412" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="-136.588" z="9.148" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="-108.124" z="23.056" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="-119.365" z="76.111" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="-151.412" z="50.961" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="-156.640" z="91.319" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="-142.520" z="123.622" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="-150.586" z="123.464" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="-136.564" z="82.823" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="-136.707" z="60.034" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="-115.258" z="101.340" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="-72.109" z="119.618" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="-29.924" z="135.581" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="-42.125" z="100.954" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="-33.296" z="107.452" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="-3.019" z="86.618" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="14.351" z="98.668" sx="0.600" sy="0.600" sz="0.600" ay="5.410" />
+            </item>
+        </creator>
+        <creator No="E2CF125EF1EB42F38D5433A665FA4A10" x="913.914" y="-4.698" z="537.978" radius="100.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" HateLink="1">
+            <item No="1" id="BoxNpc10003" sx="0.600" sy="0.600" sz="0.600" ay="-1" amount="1" refreshtime="600000" NotPositive="0" desc="铜质宝箱">
+                <position x="905.041" z="528.826" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="913.349" z="501.565" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="909.370" z="551.888" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="888.242" z="572.537" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="958.474" z="545.072" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="977.880" z="606.729" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="918.740" z="607.475" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="918.740" z="607.475" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="918.412" z="606.533" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="918.556" z="607.178" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="918.699" z="606.851" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="883.464" z="579.560" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="866.560" z="569.139" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="857.949" z="595.428" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="965.335" z="474.826" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="915.284" z="443.116" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="884.147" z="463.967" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="891.732" z="477.295" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="844.651" z="481.214" sx="0.600" sy="0.600" sz="0.600" ay="1.363" />
+                <position x="847.757" z="489.212" sx="0.600" sy="0.600" sz="0.600" ay="1.363" />
+                <position x="850.014" z="530.915" sx="0.600" sy="0.600" sz="0.600" ay="1.363" />
+                <position x="821.097" z="505.749" sx="0.600" sy="0.600" sz="0.600" ay="1.363" />
+                <position x="840.722" z="562.847" sx="0.600" sy="0.600" sz="0.600" ay="1.363" />
+                <position x="829.304" z="575.887" sx="0.600" sy="0.600" sz="0.600" ay="1.363" />
+                <position x="849.108" z="590.332" sx="0.600" sy="0.600" sz="0.600" ay="1.363" />
+                <position x="841.246" z="601.526" sx="0.600" sy="0.600" sz="0.600" ay="1.363" />
+            </item>
+        </creator>
+        <creator No="3D21E7BEB5F240E6B1B97169A9FEB960" x="1048.938" y="4.780" z="399.332" radius="100.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" HateLink="1">
+            <item No="1" id="BoxNpc10003" sx="0.600" sy="0.600" sz="0.600" ay="-1" amount="1" refreshtime="600000" NotPositive="0" desc="铜质宝箱">
+                <position x="1074.397" z="395.811" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1101.090" z="400.892" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1124.624" z="435.034" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1076.838" z="404.036" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1044.577" z="411.359" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1015.764" z="422.995" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="999.407" z="439.694" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="982.689" z="449.430" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="994.031" z="392.956" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="987.015" z="374.163" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="971.725" z="374.397" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="958.116" z="374.069" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1006.248" z="387.212" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+            </item>
+        </creator>
+        <creator No="EFEE340B924F40C48336943882E2A263" x="1279.466" y="-11.544" z="514.390" radius="100.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" HateLink="1">
+            <item No="1" id="BoxNpc10003" sx="0.600" sy="0.600" sz="0.600" ay="2.451" az="6.144" amount="1" refreshtime="600000" NotPositive="0" desc="铜质宝箱">
+                <position x="1272.689" z="486.290" sx="0.600" sy="0.600" sz="0.600" ay="2.451" az="6.144" />
+                <position x="1284.371" z="478.145" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1290.138" z="505.134" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1230.864" z="566.458" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1291.900" z="441.064" sx="0.600" sy="0.600" sz="0.600" ay="4.795" />
+                <position x="1257.234" z="475.884" sx="0.600" sy="0.600" sz="0.600" ay="3.510" />
+                <position x="1285.885" z="425.544" sx="0.600" sy="0.600" sz="0.600" ay="5.732" az="5.934" />
+                <position x="1272.634" z="437.683" sx="0.600" sy="0.600" sz="0.600" ay="0.892" />
+                <position x="1320.774" z="499.783" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1333.746" z="530.920" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1334.533" z="560.812" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1320.701" z="567.716" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1308.562" z="592.963" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1287.803" z="580.193" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1297.836" z="604.906" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1250.807" z="595.094" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1240.994" z="587.752" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1213.769" z="513.839" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1293.360" z="544.619" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1215.631" z="490.349" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1259.415" z="429.966" sx="0.600" sy="0.600" sz="0.600" ay="4.124" />
+            </item>
+        </creator>
+        <creator No="6F4DE7C4EAA2438481E9CBD1FBE7DD15" x="1102.005" y="-5.934" z="1162.954" radius="100.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" HateLink="1">
+            <item No="1" id="BoxNpc10003" sx="0.600" sy="0.600" sz="0.600" ay="-1" amount="1" refreshtime="600000" NotPositive="0" desc="铜质宝箱">
+                <position x="1047.588" z="1240.065" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1071.686" z="1223.274" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1018.916" z="1210.037" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1081.716" z="1156.181" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1072.963" z="1182.896" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1045.467" z="1160.065" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1058.128" z="1137.327" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1049.857" z="1099.649" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1068.885" z="1090.134" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1083.835" z="1076.212" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1160.161" z="1097.788" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1150.313" z="1113.815" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1140.231" z="1117.399" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1177.217" z="1161.678" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1167.099" z="1155.984" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1157.147" z="1159.806" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1153.843" z="1170.719" sx="0.590" sy="0.590" sz="0.590" ay="5.057" />
+                <position x="1142.149" z="1189.178" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1166.078" z="1204.220" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1157.656" z="1207.758" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1138.311" z="1178.861" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="1156.209" z="1172.295" sx="0.600" sy="0.600" sz="0.600" ay="0.384" />
+                <position x="1177.727" z="1163.714" sx="0.600" sy="0.600" sz="0.600" ay="5.057" />
+                <position x="1190.330" z="1195.448" sx="0.600" sy="0.600" sz="0.600" ay="5.057" />
+                <position x="1155.607" z="1164.928" sx="0.660" sy="0.660" sz="0.660" ay="0.364" />
+            </item>
+        </creator>
+        <creator No="1DB1ADF8BAA64C6E889C26F3B14DF227" x="185.663" y="5.377" z="765.629" radius="100.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" HateLink="1">
+            <item No="1" id="BoxNpc10003" sx="0.600" sy="0.600" sz="0.600" ay="-1" amount="1" refreshtime="600000" NotPositive="0" desc="铜质宝箱">
+                <position x="145.927" z="748.518" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="95.809" z="797.735" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="203.558" z="689.848" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="253.119" z="710.285" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="258.611" z="767.795" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="278.518" z="785.077" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="269.353" z="806.378" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="250.799" z="756.917" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="230.899" z="788.744" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+                <position x="268.140" z="752.913" sx="0.600" sy="0.600" sz="0.600" ay="-1" />
+            </item>
+        </creator>
+        <creator No="E0DABE0019654F4D9C347DA38865CA75" x="447.816" y="-8.000" z="929.750" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10057" ay="6.238" amount="1" refreshtime="120000" NotPositive="0" desc="燕鱼群">
+                <position x="452.432" z="931.086" ay="6.238" />
+                <position x="447.205" z="924.344" ay="6.238" />
+            </item>
+        </creator>
+        <creator No="87CB918F7E5B4332B8D9A3E33C019069" x="407.374" y="-8.000" z="838.302" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10057" ay="6.238" amount="1" refreshtime="120000" NotPositive="0" desc="燕鱼群">
+                <position x="410.985" z="842.202" ay="6.238" />
+                <position x="410.213" z="836.026" ay="6.238" />
+            </item>
+        </creator>
+        <creator No="7631DB3AA4B94768B0C871D692112184" x="423.348" y="-8.000" z="784.032" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10057" ay="6.238" amount="1" refreshtime="120000" NotPositive="0" desc="燕鱼群">
+                <position x="421.202" z="787.974" ay="6.238" />
+                <position x="424.151" z="782.828" ay="6.238" />
+            </item>
+        </creator>
+        <creator No="CEC69D0BA2B04637BE2A6E84DD18AA28" x="447.472" y="-8.000" z="770.862" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10057" ay="6.238" amount="1" refreshtime="120000" NotPositive="0" desc="燕鱼群">
+                <position x="443.876" z="771.966" ay="6.238" />
+                <position x="450.901" z="771.295" ay="6.238" />
+            </item>
+        </creator>
+        <creator No="C2FF9FB6BB76432FB14CB6D0763809A1" x="430.295" y="-8.000" z="718.845" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10017new" ay="6.238" amount="1" refreshtime="120000" NotPositive="0" desc="鲜活青竹鱼群">
+                <position x="434.838" z="720.989" ay="6.238" />
+                <position x="425.387" z="715.890" ay="6.238" />
+            </item>
+        </creator>
+        <creator No="5D2CD178A77A461FBB597405FC0CEF8B" x="381.826" y="-8.000" z="782.458" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10017new" ay="6.238" amount="1" refreshtime="120000" NotPositive="0" desc="鲜活青竹鱼群">
+                <position x="381.072" z="777.700" ay="6.238" />
+                <position x="377.540" z="786.520" ay="6.238" />
+            </item>
+        </creator>
+        <creator No="BF7B649341EA44A2B653864D1126D567" x="413.039" y="-8.000" z="927.675" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10017new" ay="6.238" amount="1" refreshtime="120000" NotPositive="0" desc="鲜活青竹鱼群">
+                <position x="409.194" z="924.185" ay="6.238" />
+                <position x="412.022" z="932.693" ay="6.238" />
+            </item>
+        </creator>
+        <creator No="E82465C676E742209AA9D818AA6A3C96" x="443.541" y="-8.000" z="997.147" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10017new" ay="6.238" amount="1" refreshtime="120000" NotPositive="0" desc="鲜活青竹鱼群">
+                <position x="443.627" z="991.515" ay="6.238" />
+                <position x="438.372" z="1000.123" ay="6.238" />
+            </item>
+        </creator>
+        <creator No="A5F24AF3D96F4351A602CF7ED9E02C1B" x="296.501" y="-8.000" z="630.480" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10058new" ay="6.238" amount="1" refreshtime="120000" NotPositive="0" desc="肥硕鲅鱼群">
+                <position x="301.166" z="634.426" ay="6.238" />
+                <position x="291.971" z="628.839" ay="6.238" />
+            </item>
+        </creator>
+        <creator No="BB425AE9A25145AB8BCCCAE2E03872A2" x="357.704" y="-8.000" z="687.313" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10058new" ay="-1" amount="1" refreshtime="120000" NotPositive="0" desc="肥硕鲅鱼群">
+                <position x="355.366" z="684.228" ay="-1" />
+                <position x="358.430" z="691.185" ay="-1" />
+            </item>
+        </creator>
+        <creator No="1A60E70C9EA944BF9913FAEF3A8C526A" x="345.532" y="-8.000" z="523.619" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10058new" ay="-1" amount="1" refreshtime="120000" NotPositive="0" desc="肥硕鲅鱼群">
+                <position x="349.804" z="523.142" ay="-1" />
+                <position x="340.450" z="520.741" ay="-1" />
+            </item>
+        </creator>
+        <creator No="B85C69374D3D4ADB82717EB1226549B8" x="282.405" y="-8.000" z="530.587" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10058new" ay="-1" amount="1" refreshtime="120000" NotPositive="0" desc="肥硕鲅鱼群">
+                <position x="277.328" z="535.143" ay="-1" />
+                <position x="276.531" z="527.857" ay="-1" />
+            </item>
+        </creator>
+        <creator No="3C6D39D3168E474DAA6FB11C946606B0" x="915.113" y="-8.000" z="659.270" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10046" ay="-1" amount="1" refreshtime="240000" NotPositive="0" desc="黄颡鱼群">
+                <position x="909.162" z="657.776" ay="-1" />
+                <position x="920.342" z="656.047" ay="-1" />
+            </item>
+        </creator>
+        <creator No="A46E9B5893FE49D1912B57B399DDD6E9" x="1013.713" y="-8.000" z="662.051" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10046" ay="-1" amount="1" refreshtime="240000" NotPositive="0" desc="黄颡鱼群">
+                <position x="1015.768" z="657.974" ay="-1" />
+                <position x="1009.144" z="666.699" ay="-1" />
+            </item>
+        </creator>
+        <creator No="A4CF96D7A3F143A5B05F2E3935A65669" x="1049.466" y="-8.000" z="656.514" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10046" ay="-1" amount="1" refreshtime="240000" NotPositive="0" desc="黄颡鱼群">
+                <position x="1044.476" z="659.449" ay="-1" />
+                <position x="1053.048" z="655.718" ay="-1" />
+            </item>
+        </creator>
+        <creator No="21365480FA98445789A813C5BC305AAC" x="-90.868" y="59.499" z="720.752" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10022" ay="-1" amount="1" refreshtime="240000" NotPositive="0" desc="龙虾群">
+                <position x="-88.905" z="715.714" ay="-1" />
+                <position x="-96.574" z="722.690" ay="-1" />
+            </item>
+        </creator>
+        <creator No="E7296825CE6E41E688A67B22251547B3" x="-70.773" y="59.499" z="715.509" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10022" ay="-1" amount="1" refreshtime="240000" NotPositive="0" desc="龙虾群">
+                <position x="-65.953" z="714.185" ay="-1" />
+                <position x="-74.031" z="715.643" ay="-1" />
+            </item>
+        </creator>
+        <creator No="540D3B7C370C48E39217A58ADD2B6491" x="195.447" y="59.499" z="-83.232" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10082new" ay="-1" amount="1" refreshtime="240000" NotPositive="0" desc="淘气青蟹群">
+                <position x="196.437" z="-78.164" ay="-1" />
+                <position x="199.266" z="-85.083" ay="-1" />
+            </item>
+        </creator>
+        <creator No="D5303CEA85BC40DB8101890E44862F2B" x="132.110" y="59.499" z="-57.031" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10082new" ay="-1" amount="1" refreshtime="240000" NotPositive="0" desc="淘气青蟹群">
+                <position x="127.442" z="-58.752" ay="-1" />
+                <position x="135.969" z="-54.625" ay="-1" />
+            </item>
+        </creator>
+        <creator No="CDFE1CE3691F4F9E82D2B53703A9DFB1" x="107.276" y="59.499" z="-157.268" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10025new" ay="-1" amount="1" refreshtime="240000" NotPositive="0" desc="鲜活胡鲶群">
+                <position x="104.871" z="-165.063" ay="-1" />
+                <position x="100.968" z="-160.325" ay="-1" />
+            </item>
+        </creator>
+        <creator No="7EBE4CF5D1A5477B96D655AA99980794" x="190.829" y="59.499" z="-166.924" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10025new" ay="-1" amount="1" refreshtime="240000" NotPositive="0" desc="鲜活胡鲶群">
+                <position x="191.171" z="-161.848" ay="-1" />
+                <position x="183.570" z="-165.764" ay="-1" />
+            </item>
+        </creator>
+        <creator No="C2041DEB190041CF9D408C6F0D414D44" x="1389.490" y="13.499" z="-187.809" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10061" ay="-1" amount="1" refreshtime="240000" NotPositive="0" desc="白鲦群">
+                <position x="1392.728" z="-192.066" ay="-1" />
+                <position x="1384.946" z="-190.156" ay="-1" />
+            </item>
+        </creator>
+        <creator No="C0C6F1D602454E6F8906E5B0A2AF64C5" x="1331.507" y="13.499" z="-8.135" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10061" ay="-1" amount="1" refreshtime="240000" NotPositive="0" desc="白鲦群">
+                <position x="1331.271" z="-11.089" ay="-1" />
+                <position x="1330.153" z="-3.043" ay="-1" />
+            </item>
+        </creator>
+        <creator No="ECD9B5F63FDA43B597EF54C0C181B25C" x="150.149" y="59.499" z="-162.111" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10094" ay="-1" amount="1" refreshtime="240000" NotPositive="0" desc="大口鲶群">
+                <position x="145.118" z="-158.736" ay="-1" />
+                <position x="154.135" z="-162.386" ay="-1" />
+            </item>
+        </creator>
+        <creator No="BB67D3AC607048938F107EEE5DE4AEFF" x="133.090" y="59.499" z="-93.651" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10094" ay="-1" amount="1" refreshtime="240000" NotPositive="0" desc="大口鲶群">
+                <position x="139.365" z="-95.991" ay="-1" />
+                <position x="133.384" z="-99.021" ay="-1" />
+            </item>
+        </creator>
+        <creator No="5EF397CE69124A4DA9A721BB2885603F" x="-498.480" y="13.499" z="-130.381" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10043" ay="6.238" amount="1" refreshtime="240000" NotPositive="0" desc="黄尾鲴群">
+                <position x="-499.003" z="-124.239" ay="6.238" />
+                <position x="-503.757" z="-133.109" ay="6.238" />
+            </item>
+        </creator>
+        <creator No="7FBC7723538C4296AB9C092227FC73FF" x="-497.657" y="13.499" z="-196.710" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="fishnpc10043" ay="6.238" amount="1" refreshtime="240000" NotPositive="0" desc="黄尾鲴群">
+                <position x="-498.844" z="-192.578" ay="6.238" />
+                <position x="-497.020" z="-201.843" ay="6.238" />
+            </item>
+        </creator>
+        <creator No="4357F7F00E0943E79B9A5E99A6CBAB14" x="479.548" y="111.172" z="379.300" radius="50.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="70" HateLink="1">
+            <item No="1" id="BoxNpc10002" ay="0.010" amount="1" refreshtime="600000" NotPositive="0" desc="木质宝箱">
+                <position x="508.031" z="365.284" ay="0.010" />
+                <position x="495.243" z="367.103" ay="0.010" />
+                <position x="484.916" z="367.572" ay="0.010" />
+                <position x="473.792" z="367.570" ay="0.010" />
+                <position x="450.767" z="365.252" ay="0.010" />
+                <position x="519.664" z="365.625" ay="0.010" />
+                <position x="520.337" z="386.262" ay="0.010" />
+                <position x="487.848" z="416.657" ay="0.010" />
+                <position x="473.372" z="417.344" ay="0.010" />
+                <position x="440.412" z="371.818" ay="0.010" />
+                <position x="440.717" z="385.464" ay="0.010" />
+                <position x="502.696" z="361.548" ay="0.010" />
+                <position x="455.886" z="360.930" ay="0.010" />
+            </item>
+        </creator>
+        <creator No="6FA859FF0ABE47FD8BC0D07C2444E33B" x="480.271" y="116.445" z="252.841" radius="100.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" HateLink="1">
+            <item No="1" id="BoxNpc10002" ay="0.010" amount="1" refreshtime="600000" NotPositive="0" desc="木质宝箱">
+                <position x="555.993" z="278.970" ay="0.010" />
+                <position x="576.505" z="256.467" ay="0.010" />
+                <position x="576.479" z="247.163" ay="0.010" />
+                <position x="549.607" z="267.806" ay="0.010" />
+                <position x="549.871" z="236.178" ay="0.010" />
+                <position x="548.071" z="244.664" ay="0.010" />
+                <position x="548.374" z="258.537" ay="0.010" />
+                <position x="542.684" z="242.905" ay="0.010" />
+                <position x="542.394" z="260.823" ay="0.010" />
+                <position x="545.863" z="225.149" ay="0.010" />
+                <position x="537.724" z="195.840" ay="0.010" />
+                <position x="490.859" z="195.837" ay="0.010" />
+                <position x="477.784" z="196.000" ay="0.010" />
+                <position x="422.144" z="196.402" ay="0.010" />
+                <position x="413.010" z="204.937" ay="0.010" />
+                <position x="546.760" z="204.528" ay="0.010" />
+                <position x="415.870" z="246.945" ay="0.010" />
+                <position x="415.482" z="261.262" ay="0.010" />
+                <position x="406.493" z="280.943" ay="0.010" />
+                <position x="396.680" z="293.992" ay="0.010" />
+                <position x="443.253" z="309.535" ay="0.010" />
+                <position x="457.988" z="304.294" ay="0.010" />
+                <position x="473.386" z="302.769" ay="0.010" />
+                <position x="484.920" z="302.713" ay="0.010" />
+                <position x="516.392" z="320.124" ay="0.010" />
+                <position x="516.768" z="309.319" ay="0.010" />
+                <position x="458.352" z="170.765" ay="0.010" />
+                <position x="410.357" z="261.318" ay="0.041" />
+                <position x="410.323" z="247.453" ay="0.041" />
+                <position x="407.225" z="274.883" ay="0.041" />
+                <position x="407.546" z="234.568" ay="0.041" />
+                <position x="388.802" z="242.946" ay="0.041" />
+                <position x="382.872" z="265.368" ay="0.041" />
+            </item>
+        </creator>
+        <creator No="0CECB4F72D5E42D98667B5FA2CDA6CF0" x="416.401" y="100.328" z="425.119" radius="50.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="BoxNpc10002" ay="0.041" amount="1" refreshtime="900000" NotPositive="0" desc="木质宝箱">
+                <position x="434.927" z="459.427" ay="0.041" />
+                <position x="414.585" z="446.179" ay="0.041" />
+                <position x="411.724" z="411.278" ay="0.041" />
+                <position x="397.042" z="386.031" ay="0.041" />
+                <position x="423.901" z="386.622" ay="0.041" />
+                <position x="416.731" z="386.405" ay="0.041" />
+                <position x="409.041" z="395.927" ay="0.041" />
+                <position x="423.636" z="452.932" ay="0.041" />
+                <position x="416.119" z="453.414" ay="0.041" />
+                <position x="401.040" z="452.626" ay="0.041" />
+                <position x="418.250" z="462.405" ay="0.041" />
+                <position x="457.771" z="403.731" ay="0.041" />
+            </item>
+        </creator>
+        <creator No="DC6B08F00D9C45B99E307D0BC0B87F5E" x="396.502" y="109.832" z="340.839" radius="50.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="70" HateLink="1">
+            <item No="1" id="BoxNpc10002" ay="0.041" amount="1" refreshtime="900000" NotPositive="0" desc="木质宝箱">
+                <position x="392.988" z="372.395" ay="0.041" />
+                <position x="390.350" z="383.567" ay="0.041" />
+                <position x="376.294" z="360.299" ay="0.041" />
+                <position x="361.498" z="360.475" ay="0.041" />
+                <position x="373.559" z="338.035" ay="0.041" />
+                <position x="365.469" z="338.059" ay="0.041" />
+                <position x="391.240" z="352.348" ay="0.041" />
+                <position x="353.698" z="338.905" ay="0.041" />
+                <position x="354.506" z="325.248" ay="0.041" />
+                <position x="351.382" z="359.909" ay="0.041" />
+                <position x="397.519" z="324.337" ay="0.041" />
+                <position x="396.896" z="348.710" ay="0.041" />
+                <position x="410.531" z="337.393" ay="0.041" />
+                <position x="427.387" z="339.154" ay="0.041" />
+                <position x="413.841" z="332.729" ay="0.041" />
+            </item>
+        </creator>
+        <creator No="D07D5A642F5848418A62634144CCC03F" x="269.948" y="84.193" z="406.007" radius="50.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="70" HateLink="1">
+            <item No="1" id="BoxNpc10002" ay="0.010" amount="1" refreshtime="900000" NotPositive="0" desc="木质宝箱">
+                <position x="288.776" z="370.581" ay="0.010" />
+                <position x="299.770" z="385.062" ay="0.010" />
+                <position x="262.903" z="421.473" ay="0.010" />
+                <position x="248.729" z="421.346" ay="0.010" />
+                <position x="241.621" z="406.557" ay="2.650" />
+                <position x="232.984" z="378.586" ay="0.010" />
+                <position x="296.373" z="369.951" ay="0.010" />
+            </item>
+        </creator>
+        <creator No="8420F895D63844DAA09573FDA4A0CE72" x="435.058" y="184.363" z="-407.401" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8247">
+            <item No="1" id="Box_qy_wudang01" ay="5.934" amount="1" refreshtime="3600000" NotPositive="0" desc="宝箱">
+                <position x="434.167" z="-407.989" ay="5.934" />
+            </item>
+            <item No="2" id="Event_4nei_chulai2" ay="5.934" amount="1" refreshtime="3600000" NotPositive="0" desc="武当4内">
+                <position x="434.315" z="-408.870" ay="5.934" />
+            </item>
+        </creator>
+        <creator No="BDF6396544A5466CA2EA30EE07233F9B" x="-89.604" y="45.379" z="360.946" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8243">
+            <item No="1" id="Box_qy_wudang02" ay="4.999" amount="1" refreshtime="3600000" NotPositive="0" desc="宝箱">
+                <position x="-91.539" z="360.971" ay="4.999" />
+            </item>
+            <item No="2" id="Event_4nei_chulai2" ay="4.999" amount="1" refreshtime="3600000" NotPositive="0" desc="武当4内">
+                <position x="-89.698" z="360.228" ay="4.999" />
+            </item>
+        </creator>
+        <creator No="D4D0A991A73749418B2168D5115CEE67" x="845.924" y="-6.311" z="766.638" radius="50.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="286">
+            <item No="1" id="BoxNpc10002" ay="4.762" amount="5" refreshtime="-1" NotPositive="0" desc="木质宝箱">
+                <position x="826.032" z="746.820" ay="4.762" />
+                <position x="865.936" z="739.202" ay="4.747" />
+                <position x="866.446" z="777.920" ay="0.009" />
+                <position x="825.818" z="784.142" ay="3.112" />
+                <position x="849.152" z="723.557" ay="4.752" />
+            </item>
+        </creator>
+        <creator No="5CE32AAC767842B4A4808E0C4AD338A3" x="1105.136" y="-3.753" z="1034.029" radius="3.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="tre_1002npc01" sx="0.560" sy="0.440" sz="0.560" ay="-1" amount="1" refreshtime="180000" NotPositive="0" desc="皂荚树">
+                <position x="1103.547" z="1032.932" sx="0.560" sy="0.440" sz="0.560" ay="-1" />
+            </item>
+        </creator>
+        <creator No="51D86A2A722248918E59AA89C9D984BE" x="1047.620" y="-17.115" z="1243.507" radius="7.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="tre_1002npc01" sx="0.550" sy="0.480" sz="0.550" ay="-1" amount="1" refreshtime="180000" NotPositive="0" desc="皂荚树">
+                <position x="1046.053" z="1241.614" sx="0.550" sy="0.480" sz="0.550" ay="-1" />
+            </item>
+        </creator>
+        <creator No="24982458B8B4443EAF3920C7245A3EE1" x="914.581" y="-18.571" z="1247.295" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="tre_1002npc01" sx="0.540" sy="0.420" sz="0.540" ay="-1" amount="1" refreshtime="180000" NotPositive="0" desc="皂荚树">
+                <position x="911.916" z="1245.601" sx="0.540" sy="0.420" sz="0.540" ay="-1" />
+            </item>
+        </creator>
+        <creator No="1536FBF6862648708E10CF02F1B17E96" x="816.090" y="31.779" z="1101.433" radius="3.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="tre_1002npc01" sx="0.400" sy="0.400" sz="0.400" ay="-1" amount="1" refreshtime="180000" NotPositive="0" desc="皂荚树">
+                <position x="816.514" z="1103.064" sx="0.400" sy="0.400" sz="0.400" ay="-1" />
+            </item>
+        </creator>
+        <creator No="CC352128F9F04DFC88D3162713DD4E9B" x="865.758" y="32.890" z="1015.823" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="tre_1002npc01" sx="0.640" sy="0.500" sz="0.640" ay="-1" amount="1" refreshtime="180000" NotPositive="0" desc="皂荚树">
+                <position x="863.832" z="1016.425" sx="0.640" sy="0.500" sz="0.640" ay="-1" />
+            </item>
+        </creator>
+        <creator No="DD749FAD958245AFBDF683F882CF771D" x="272.404" y="37.537" z="1258.529" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="tre_1002npc01" sx="0.510" sy="0.360" sz="0.510" ay="-1" amount="1" refreshtime="180000" NotPositive="0" desc="皂荚树">
+                <position x="274.072" z="1259.713" sx="0.510" sy="0.360" sz="0.510" ay="-1" />
+            </item>
+        </creator>
+        <creator No="1CC9CFF13EE24C23B752F5DC01B70F81" x="466.018" y="62.466" z="1238.950" radius="3.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="tre_1002npc01" sx="0.410" sy="0.410" sz="0.410" ax="0.013" ay="1.745" az="6.030" amount="1" refreshtime="180000" NotPositive="0" desc="皂荚树">
+                <position x="466.721" z="1237.209" sx="0.410" sy="0.410" sz="0.410" ax="0.013" ay="1.745" az="6.030" />
+            </item>
+        </creator>
+        <creator No="AD3F811BBE4B4B34AE06F244B846DFA6" x="177.486" y="5.512" z="786.692" radius="3.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="tre_1002npc01" sx="0.400" sy="0.400" sz="0.400" ax="0.049" ay="1.745" az="0.036" amount="1" refreshtime="180000" NotPositive="0" desc="皂荚树">
+                <position x="176.762" z="788.219" sx="0.400" sy="0.400" sz="0.400" ax="0.049" ay="1.745" az="0.036" />
+            </item>
+        </creator>
+        <creator No="E6668FA6FF1548FBBAB7109C45BACD01" x="28.603" y="19.933" z="639.388" radius="3.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="tre_1002npc01" sx="0.370" sy="0.380" sz="0.370" ax="5.982" ay="1.745" az="6.210" amount="1" refreshtime="180000" NotPositive="0" desc="皂荚树">
+                <position x="29.098" z="637.528" sx="0.370" sy="0.380" sz="0.370" ax="5.982" ay="1.745" az="6.210" />
+            </item>
+        </creator>
+        <creator No="34E2950030934E06813261838DAC353A" x="32.725" y="32.918" z="232.171" radius="4.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="tre_1002npc01" sx="0.420" sy="0.380" sz="0.420" ax="0.110" ay="1.745" az="6.263" amount="1" refreshtime="180000" NotPositive="0" desc="皂荚树">
+                <position x="30.142" z="230.805" sx="0.420" sy="0.380" sz="0.420" ax="0.110" ay="1.745" az="6.263" />
+            </item>
+        </creator>
+        <creator No="015DC9DEA8D743D2AA008B858308A075" x="-29.189" y="33.660" z="131.602" radius="3.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="tre_1002npc01" sx="0.380" sy="0.380" sz="0.380" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="皂荚树">
+                <position x="-29.637" z="133.534" sx="0.380" sy="0.380" sz="0.380" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="A02DEAAEAB3742318192C2EFF7E77081" x="-60.542" y="34.230" z="-305.177" radius="3.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="tre_1002npc01" sx="0.480" sy="0.480" sz="0.480" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="皂荚树">
+                <position x="-60.964" z="-306.514" sx="0.480" sy="0.480" sz="0.480" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="B9B94D631657490B93DF1D9A08225F8A" x="104.396" y="61.148" z="-9.451" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="kuangshi_1002npc01" ay="1.745" az="0.058" amount="1" refreshtime="180000" NotPositive="0" desc="黄铜矿">
+                <position x="93.908" z="-0.169" ay="1.745" az="0.058" />
+                <position x="125.378" z="-5.839" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="A867408347824EF9BB00ACD4187C5A90" x="-115.190" y="29.932" z="-175.054" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="kuangshi_1002npc01" ax="0.212" ay="1.745" az="0.018" amount="1" refreshtime="180000" NotPositive="0" desc="黄铜矿">
+                <position x="-122.495" z="-181.499" ax="0.212" ay="1.745" az="0.018" />
+                <position x="-116.679" z="-172.752" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="3C711D881993489599D99F15C2D2DF5F" x="-20.850" y="37.076" z="80.004" radius="24.8" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="kuangshi_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="黄铜矿">
+                <position x="-24.057" z="79.045" ay="1.745" />
+                <position x="-16.716" z="62.512" ax="6.133" ay="1.745" />
+                <position x="2.329" z="74.897" ay="1.745" az="0.148" />
+            </item>
+        </creator>
+        <creator No="4944290561AC4FBAA35CBB238FFC1CDB" x="30.763" y="28.366" z="169.266" radius="4.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="kuangshi_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="黄铜矿">
+                <position x="28.994" z="168.938" ay="1.745" />
+                <position x="33.848" z="169.611" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="F729D8E2D1FB41C6B1090C1CCB42D53B" x="165.635" y="19.645" z="347.620" radius="50.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="kuangshi_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="黄铜矿">
+                <position x="180.876" z="315.851" ay="1.745" />
+                <position x="163.894" z="348.947" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="F74DEF7AA19B4B12B22F611E4459A003" x="295.686" y="-7.674" z="676.465" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="kuangshi_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="黄铜矿">
+                <position x="295.558" z="679.810" ay="1.745" />
+                <position x="294.377" z="675.189" ay="1.745" />
+                <position x="290.927" z="679.811" ay="1.745" />
+                <position x="294.017" z="670.076" ay="1.745" />
+                <position x="313.978" z="653.794" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="60B05004B926460DB8C919D392138428" x="265.692" y="32.453" z="1111.222" radius="7.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="kuangshi_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="黄铜矿">
+                <position x="265.159" z="1110.478" ay="1.745" />
+                <position x="266.425" z="1116.276" ay="1.745" />
+                <position x="262.869" z="1113.808" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="95E33FB2F67A4C908FE818EFE79CE804" x="457.546" y="3.735" z="1125.267" radius="8.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="kuangshi_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="黄铜矿">
+                <position x="456.444" z="1124.468" ay="1.745" />
+                <position x="452.746" z="1122.597" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="36794445A81F4EDF8771B3A8BBD786E7" x="550.682" y="74.751" z="1002.637" radius="8.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="kuangshi_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="黄铜矿">
+                <position x="550.102" z="1001.043" ay="1.745" />
+                <position x="554.714" z="999.775" ay="1.745" />
+                <position x="549.094" z="997.516" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="A09D63C083F9420187A8AF303D4F02E6" x="1200.785" y="-14.734" z="424.474" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="kuangshi_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="黄铜矿">
+                <position x="1203.280" z="421.850" ay="1.745" />
+                <position x="1200.658" z="426.522" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="78D5EE6B0C9449C0998B6BB676C5852A" x="213.545" y="61.483" z="-82.189" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="drug_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="板蓝根">
+                <position x="215.386" z="-79.453" ay="1.745" />
+                <position x="216.326" z="-83.847" ay="1.745" />
+                <position x="211.586" z="-82.414" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="D56AC562B48A48AFBDA7A0AC8580ED05" x="202.200" y="24.548" z="174.546" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="drug_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="板蓝根">
+                <position x="203.852" z="176.478" ay="1.745" />
+                <position x="201.081" z="172.351" ay="1.745" />
+                <position x="201.323" z="177.816" ay="1.745" />
+                <position x="193.752" z="182.919" ay="1.745" />
+                <position x="193.643" z="173.066" ay="1.745" />
+                <position x="205.804" z="184.603" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="318A956C15284CB89C7324BB4AF7D568" x="84.273" y="23.208" z="334.372" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="drug_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="板蓝根">
+                <position x="82.533" z="337.452" ay="1.745" />
+                <position x="81.893" z="333.451" ay="1.745" />
+                <position x="86.447" z="335.218" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="45D403A282A743A194AA1E1F3A26260B" x="104.192" y="20.953" z="612.699" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="drug_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="板蓝根">
+                <position x="101.109" z="613.830" ay="1.745" />
+                <position x="106.212" z="615.791" ay="1.745" />
+                <position x="102.347" z="609.446" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="99A82560AAC449AE863CC5384A3F8644" x="172.660" y="-2.204" z="870.580" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="drug_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="板蓝根">
+                <position x="171.750" z="873.806" ay="1.745" />
+                <position x="169.985" z="869.326" ay="1.745" />
+                <position x="175.466" z="868.130" ay="1.745" />
+                <position x="178.498" z="889.740" ay="1.745" />
+                <position x="151.012" z="871.245" ay="1.745" />
+                <position x="160.814" z="890.281" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="2C95B2844816436DA0F5F2AC54FFA166" x="342.095" y="-0.317" z="1044.927" radius="3.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="drug_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="板蓝根">
+                <position x="341.287" z="1046.671" ay="1.745" />
+                <position x="343.994" z="1046.839" ay="1.745" />
+                <position x="342.578" z="1043.919" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="D5C3080696964ED3802844D8CD9FB340" x="524.477" y="73.232" z="953.742" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="drug_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="板蓝根">
+                <position x="522.218" z="956.227" ay="1.745" />
+                <position x="525.548" z="956.316" ay="1.745" />
+                <position x="522.548" z="950.906" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="3F83CB4CD8CA45CD9CE0C177B11450FD" x="849.513" y="29.351" z="983.893" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="drug_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="板蓝根">
+                <position x="852.070" z="983.156" ay="1.745" />
+                <position x="846.384" z="985.375" ay="1.745" />
+                <position x="847.557" z="980.336" ay="1.745" />
+                <position x="860.959" z="989.474" ay="1.745" />
+                <position x="859.896" z="979.556" ay="1.745" />
+                <position x="840.936" z="987.333" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="F672C3C41DA64D7B80BB49FEFD2AE53D" x="1017.570" y="-17.521" z="1214.748" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="drug_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="板蓝根">
+                <position x="1020.367" z="1212.242" ay="1.745" />
+                <position x="1018.648" z="1217.855" ay="1.745" />
+                <position x="1027.550" z="1217.589" ay="1.745" />
+                <position x="1028.366" z="1209.768" ay="1.745" />
+                <position x="1008.350" z="1209.194" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="5335D73D6AD34A06804F3888FDD873E8" x="1124.657" y="-6.254" z="439.651" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="drug_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="板蓝根">
+                <position x="1121.651" z="439.776" ay="1.745" />
+                <position x="1126.150" z="437.587" ay="1.745" />
+                <position x="1126.705" z="441.227" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="D91A3474F6E84CDB8FD13113BB67E437" x="1256.411" y="-14.071" z="670.949" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="toxicant_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="断肠花">
+                <position x="1252.742" z="673.481" ay="1.745" />
+                <position x="1258.655" z="673.642" ay="1.745" />
+                <position x="1255.107" z="668.399" ay="1.745" />
+                <position x="1258.040" z="668.867" ay="1.745" />
+                <position x="1259.642" z="670.772" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="868E3BCBAE6147D1851B02E7E1745654" x="1080.902" y="3.849" z="779.209" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="toxicant_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="断肠花">
+                <position x="1078.390" z="781.566" ay="1.745" />
+                <position x="1083.820" z="780.906" ay="1.745" />
+                <position x="1079.159" z="775.990" ay="1.745" />
+                <position x="1069.969" z="786.824" ay="1.745" />
+                <position x="1071.144" z="776.234" ay="1.745" />
+                <position x="1082.893" z="769.315" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="DFF3053DABC14A30986CD17037CA1DF3" x="962.262" y="-9.824" z="847.650" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="toxicant_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="断肠花">
+                <position x="959.977" z="848.144" ay="1.745" />
+                <position x="963.220" z="851.305" ay="1.745" />
+                <position x="965.130" z="847.720" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="FD094FE4A5E4433ABD07238C9FA56B28" x="708.569" y="6.475" z="932.651" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="toxicant_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="断肠花">
+                <position x="705.100" z="931.948" ay="1.745" />
+                <position x="707.085" z="935.282" ay="1.745" />
+                <position x="712.842" z="933.403" ay="1.745" />
+                <position x="709.992" z="928.773" ay="1.745" />
+                <position x="707.076" z="929.114" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="73B380ED270142799D13ACE1EE2898F0" x="604.730" y="86.351" z="1047.303" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="toxicant_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="断肠花">
+                <position x="604.965" z="1045.547" ay="1.745" />
+                <position x="608.803" z="1047.025" ay="1.745" />
+                <position x="606.514" z="1050.416" ay="1.745" />
+                <position x="607.474" z="1044.331" ay="1.745" />
+                <position x="605.780" z="1058.671" ay="1.745" />
+                <position x="610.466" z="1054.735" ay="1.745" />
+                <position x="617.320" z="1047.781" ay="1.745" />
+                <position x="612.102" z="1037.753" ay="1.745" />
+                <position x="595.418" z="1036.957" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="5C00C82991C341A1840CC9109283E1B2" x="310.318" y="23.520" z="1096.703" radius="6.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="toxicant_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="断肠花">
+                <position x="309.801" z="1095.023" ay="1.745" />
+                <position x="313.823" z="1095.101" ay="1.745" />
+                <position x="311.474" z="1100.674" ay="1.745" />
+                <position x="306.778" z="1097.049" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="756DE1F658F54E4EA5AE623DF73F8269" x="66.065" y="11.995" z="816.976" radius="6.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="toxicant_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="断肠花">
+                <position x="62.500" z="814.237" ay="1.745" />
+                <position x="66.375" z="820.514" ay="1.745" />
+                <position x="68.999" z="815.586" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="B1C9FBF9933245C9BCA83775FFC44082" x="-23.136" y="45.371" z="387.301" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="toxicant_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="断肠花">
+                <position x="-22.823" z="384.483" ay="1.745" />
+                <position x="-25.545" z="389.469" ay="1.745" />
+                <position x="-20.847" z="389.462" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="821C578CB175413AB2C6588876C39987" x="-118.841" y="43.583" z="22.035" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="toxicant_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="断肠花">
+                <position x="-122.004" z="23.686" ay="1.745" />
+                <position x="-115.844" z="23.995" ay="1.745" />
+                <position x="-117.580" z="19.944" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="0EE80569C9C34A4584D7B76368E61806" x="49.646" y="40.242" z="-272.967" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="toxicant_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="断肠花">
+                <position x="46.675" z="-272.144" ay="1.745" />
+                <position x="48.539" z="-276.693" ay="1.745" />
+                <position x="53.365" z="-275.333" ay="1.745" />
+                <position x="45.526" z="-283.572" ay="1.745" />
+                <position x="58.348" z="-282.666" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="0A62622637E44B0185B9694E40A6AB22" x="313.533" y="73.787" z="-229.396" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="toxicant_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="断肠花">
+                <position x="310.893" z="-228.207" ay="1.745" />
+                <position x="314.787" z="-231.463" ay="1.745" />
+                <position x="317.966" z="-229.383" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="5933206F50264202A492DF8FE6918D40" x="620.871" y="213.784" z="546.061" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="BoxNpc10009" sx="0.580" sy="0.580" sz="0.580" ay="-1" amount="1" refreshtime="3600000" NotPositive="0" desc="镶玉宝箱">
+                <position x="623.722" z="540.018" sx="0.580" sy="0.580" sz="0.580" ay="-1" />
+                <position x="603.925" z="550.844" sx="0.580" sy="0.580" sz="0.580" ay="0.493" az="0.023" />
+            </item>
+        </creator>
+        <creator No="1361F59D86114B89AF579057703B789C" x="328.437" y="-11.062" z="580.140" radius="100.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" StaticY="1" HateLink="1">
+            <item No="1" id="BoxNpc10008" sx="0.550" sy="0.550" sz="0.550" ay="0.493" az="6.058" amount="1" refreshtime="1800000" NotPositive="0" desc="镀金宝箱">
+                <position x="352.281" z="666.390" sx="0.550" sy="0.550" sz="0.550" ay="0.493" az="6.058" />
+                <position x="286.296" z="626.194" sx="0.610" sy="0.610" sz="0.610" ay="0.493" az="5.689" />
+                <position x="292.718" z="576.838" sx="0.840" sy="0.840" sz="0.840" ay="0.493" />
+                <position x="334.076" z="534.324" sx="0.550" sy="0.550" sz="0.550" ay="0.493" az="6.177" />
+                <position x="382.829" z="536.299" sx="0.780" sy="0.780" sz="0.780" ay="0.493" az="0.279" />
+            </item>
+        </creator>
+        <creator No="BB9CD512210F436586511891EA89DEE9" x="408.990" y="-13.266" z="771.526" radius="80.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="110" StaticY="1" HateLink="1">
+            <item No="1" id="BoxNpc10008" sx="0.630" sy="0.630" sz="0.630" ay="1.448" az="6.151" amount="1" refreshtime="1800000" NotPositive="0" desc="镀金宝箱">
+                <position x="396.327" z="813.669" sx="0.630" sy="0.630" sz="0.630" ay="1.448" az="6.151" />
+                <position x="454.609" z="762.842" sx="0.450" sy="0.450" sz="0.450" ay="0.493" az="0.248" />
+                <position x="417.605" z="712.904" sx="0.460" sy="0.460" sz="0.460" ay="0.493" az="0.521" />
+                <position x="371.998" z="707.327" sx="0.650" sy="0.650" sz="0.650" ay="0.493" az="5.801" />
+                <position x="377.903" z="787.986" sx="0.650" sy="0.650" sz="0.650" ax="0.182" ay="0.353" az="6.008" />
+            </item>
+        </creator>
+        <creator No="745CB57138494FF28797457E608EC187" x="483.738" y="37.158" z="952.353" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="BoxNpc10007" sx="0.820" sy="0.820" sz="0.820" ay="2.973" az="6.105" amount="1" refreshtime="3600000" NotPositive="0" desc="镀金宝箱">
+                <position x="482.590" z="949.850" sx="0.820" sy="0.820" sz="0.820" ay="2.973" az="6.105" />
+            </item>
+        </creator>
+        <creator No="991F4B1ED0814D148E55C8FC79DEB7F3" x="737.078" y="129.560" z="1250.711" radius="3.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="BoxNpc10008" sx="0.780" sy="0.780" sz="0.780" ax="0.124" ay="5.208" az="6.054" amount="1" refreshtime="3600000" NotPositive="0" desc="镀金宝箱">
+                <position x="737.973" z="1251.795" sx="0.780" sy="0.780" sz="0.780" ax="0.124" ay="5.208" az="6.054" />
+            </item>
+        </creator>
+        <creator No="18E0F976EE814978BB598C6C9F3BA534" x="711.269" y="115.652" z="1160.080" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="BoxNpc10009" sx="0.770" sy="0.770" sz="0.770" ay="1.520" amount="1" refreshtime="3600000" NotPositive="0" desc="镶玉宝箱">
+                <position x="709.048" z="1155.885" sx="0.770" sy="0.770" sz="0.770" ay="1.520" />
+            </item>
+        </creator>
+        <creator No="E22FAC13B2FB4B40B7D2FF8115ED6C65" x="44.843" y="70.130" z="855.043" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="BoxNpc10008" sx="0.610" sy="0.610" sz="0.610" ay="1.020" amount="1" refreshtime="3600000" NotPositive="0" desc="镀金宝箱">
+                <position x="42.233" z="854.545" sx="0.610" sy="0.610" sz="0.610" ay="1.020" />
+            </item>
+        </creator>
+        <creator No="A57DAF49E5AE49499D898FAD0156728B" x="375.115" y="53.973" z="1303.192" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="drug_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="板蓝根">
+                <position x="371.959" z="1305.438" ay="1.745" />
+                <position x="374.587" z="1301.959" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="54456252749C4FF79DA2081DA77282D3" x="201.444" y="56.693" z="-357.112" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="drug_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="板蓝根">
+                <position x="201.030" z="-353.930" ay="1.745" />
+                <position x="204.591" z="-356.865" ay="1.745" />
+                <position x="199.497" z="-358.268" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="DEBD8130375145CFAB00CB0BCC4DD7DE" x="580.585" y="61.328" z="-193.895" radius="6.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="kuangshi_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="黄铜矿">
+                <position x="579.194" z="-192.294" ay="1.745" />
+                <position x="582.274" z="-196.115" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="A4129B32B75B4B948CBB3C342152475E" x="970.713" y="4.775" z="365.973" radius="8.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="kuangshi_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="黄铜矿">
+                <position x="970.821" z="372.974" ay="1.745" />
+                <position x="971.022" z="365.382" ax="5.900" ay="2.735" />
+            </item>
+        </creator>
+        <creator No="34B395E83315477FA3821AF3AD7E56FC" x="825.099" y="-3.631" z="574.098" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="kuangshi_1002npc01" ay="2.735" amount="1" refreshtime="180000" NotPositive="0" desc="黄铜矿">
+                <position x="825.505" z="577.603" ay="2.735" />
+                <position x="824.859" z="571.628" ay="2.735" />
+            </item>
+        </creator>
+        <creator No="72E431FD18F1421681924A41224995EB" x="788.154" y="-2.042" z="424.207" radius="4.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="tre_1002npc01" sx="0.480" sy="0.480" sz="0.480" ay="2.735" amount="1" refreshtime="180000" NotPositive="0" desc="皂荚树">
+                <position x="790.359" z="423.414" sx="0.480" sy="0.480" sz="0.480" ay="2.735" />
+            </item>
+        </creator>
+        <creator No="5823E13E4E88433180BB115F11CA7BC1" x="701.932" y="44.454" z="-101.548" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="drug_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="板蓝根">
+                <position x="704.102" z="-99.773" ay="1.745" />
+                <position x="702.688" z="-104.461" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="FA705433352545869970A44F9634B6F5" x="829.141" y="8.191" z="208.585" radius="16.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="toxicant_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="断肠花">
+                <position x="829.366" z="205.709" ay="1.745" />
+                <position x="831.692" z="210.712" ay="1.745" />
+                <position x="819.794" z="196.668" ay="1.745" />
+                <position x="823.682" z="194.301" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="EB5D7328723D44ADBC9F4FD6E5A374EF" x="752.742" y="17.796" z="-8.190" radius="16.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="toxicant_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="断肠花">
+                <position x="751.459" z="-4.980" ay="1.745" />
+                <position x="753.010" z="-9.414" ay="1.745" />
+                <position x="751.256" z="-11.995" ay="1.745" />
+                <position x="767.409" z="-6.507" ay="1.745" />
+                <position x="765.903" z="-12.988" ay="1.745" />
+                <position x="747.209" z="-12.932" ay="1.745" />
+                <position x="747.641" z="-21.569" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="D305ED0CEDF34C309289B414C696AA5F" x="584.630" y="12.039" z="1158.111" radius="3.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="tre_1002npc01" sx="0.530" sy="0.530" sz="0.530" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="皂荚树">
+                <position x="585.826" z="1159.921" sx="0.530" sy="0.530" sz="0.530" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="A33C1C15197D4F19AF32BABE1082AD62" x="1121.509" y="3.940" z="952.206" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="drug_1002npc01" ay="-1" amount="1" refreshtime="180000" NotPositive="0" desc="板蓝根">
+                <position x="1118.568" z="953.353" ay="-1" />
+                <position x="1120.186" z="949.669" ay="-1" />
+                <position x="1122.665" z="951.409" ay="-1" />
+            </item>
+        </creator>
+        <creator No="A220ADFABFF5471585C1ADB0901E8945" x="333.141" y="23.121" z="95.568" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="kuangshi_1002npc01" ay="1.745" amount="1" refreshtime="180000" NotPositive="0" desc="铜矿">
+                <position x="337.360" z="92.646" ay="1.745" />
+                <position x="332.855" z="90.455" ay="1.745" />
+                <position x="329.359" z="93.920" ay="1.745" />
+            </item>
+        </creator>
+        <creator No="0F5B07B076F94420A88EA22D9CFB74FE" x="784.819" y="35.908" z="1113.220" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="kuangshi_1002npc01" ay="-1" amount="1" refreshtime="180000" NotPositive="0" desc="铜矿">
+                <position x="775.925" z="1114.448" ay="-1" />
+                <position x="792.541" z="1115.359" ay="-1" />
+            </item>
+        </creator>
+        <creator No="234193E3CCE144D0B06CF4FA730D25EA" x="1043.677" y="-7.233" z="1101.181" radius="50.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="kuangshi_1002npc01" ay="-1" amount="1" refreshtime="180000" NotPositive="0" desc="铜矿">
+                <position x="1046.564" z="1099.917" ay="-1" />
+                <position x="1052.206" z="1056.040" ay="-1" />
+            </item>
+        </creator>
+        <creator No="C90FEF9696EA4A4494794C726F95C2C9" x="6.990" y="68.663" z="756.614" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="kuangshi_1004npc01" ay="-1" amount="1" refreshtime="600000" NotPositive="0" desc="银矿">
+                <position x="10.739" z="737.780" ay="-1" />
+                <position x="0.070" z="776.274" ay="-1" />
+                <position x="1.828" z="756.514" ay="-1" />
+                <position x="9.300" z="777.057" ay="-1" />
+                <position x="-2.016" z="766.721" ay="-1" />
+                <position x="-1.102" z="744.678" ay="-1" />
+                <position x="15.639" z="744.684" ay="-1" />
+                <position x="18.010" z="751.901" ay="-1" />
+                <position x="10.472" z="762.302" ay="-1" />
+            </item>
+        </creator>
+        <creator No="219714988A064BE09756CA048D06FCC3" x="1181.909" y="98.604" z="637.075" radius="60.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="kuangshi_1004npc01" ay="-1" amount="1" refreshtime="600000" NotPositive="0" desc="银矿">
+                <position x="1172.945" z="627.948" ay="-1" />
+                <position x="1188.323" z="649.360" ay="-1" />
+                <position x="1175.400" z="642.319" ay="-1" />
+                <position x="1188.035" z="633.111" ay="-1" />
+                <position x="1178.978" z="668.092" ay="-1" />
+                <position x="1173.119" z="692.529" ay="-1" />
+                <position x="1175.374" z="684.179" ay="-1" />
+                <position x="1170.816" z="617.410" ay="-1" />
+            </item>
+        </creator>
+        <creator No="F1376F0C7AEB40E1AB90B53124819E30" x="-35.213" y="51.798" z="770.669" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1" SubSceneNo="8244">
+            <item No="1" id="Box_qy_wudang03" amount="1" refreshtime="30000" NotPositive="0" desc="宝箱">
+                <position x="-34.168" z="771.563" />
+            </item>
+            <item No="2" id="Event_4nei_chulai2" amount="1" refreshtime="3600000" NotPositive="0" desc="武当4内" />
+        </creator>
+        <creator No="D3D8B8E3C84944B1ADB6E4DE242D19C4" x="482.430" y="101.610" z="470.998" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" StaticY="1" HateLink="1">
+            <item No="1" id="GatherClone007003" ay="3.141" amount="1" refreshtime="3000.0" NotPositive="0" desc="剑碑">
+                <position x="480.033" y="100.455" z="468.673" ay="3.141" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

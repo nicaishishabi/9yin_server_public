@@ -1,0 +1,13 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	ItemID	ProCount	AddPro	TrackInfoID	DeleteSelf	LockTarget	Radius	SceneID	Water	AddItems	DeleteItems	TargetConfig	TaskID
+76501	useItem_21byzyb_001	1	1	useiteminfo_76501			3	17	1			Event_2021byzyb_003	76502
+76502	useItem_21byzyb_001	1	1	useiteminfo_76502		1	2	17				Worldnpc_21byzyb_009	76502
+76503	useItem_21byzyb_002	1	1	useiteminfo_76503	1			17					76504
+76504	useItem_21byzyb_003	3	1	useiteminfo_76504		1		17				Worldnpc_21byzyb_011	76505
+76505	useItem_21byzyb_004	1	1	useiteminfo_76505	1		5	17	1	Item_21byzyb_001		Event_2021byzyb_005	76506
+76506	useItem_21byzyb_005	1	1	useiteminfo_76506	1	1	3	17				Worldnpc_21byzyb_022	76508
+76507	useItem_21byzyb_006	1	1	useiteminfo_76507	1			14					76510
+76508		10				1	2	473					
+76509	item_qyg_dy_02	1	1	useiteminfo_76509	1	1	3	930	0			npc_qyg_dy_02	76654
+76510	item_qyg_dy_04	1	1	useiteminfo_76510				486	0				
+76551	useitem_qyg_dy_01	1	1	useiteminfo_76551		1	2	930	0			npc_qyg_dy_02	

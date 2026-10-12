@@ -1,0 +1,11 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	ItemID	ProCount	AddPro	TrackInfoID	DeleteSelf	LockTarget	Radius	SceneID	Water	AddItems	DeleteItems	TargetConfig	TaskID	BufferID
+42001	taskitem_12014	1	1	useiteminfo_42001_1	1	0	2	12	0	taskitem_12015		Gather18806b	18806	
+42002	taskitem_12017	1	1	useiteminfo_42002_2	1	0	0	12	0	taskitem_12016	taskitem_12015		18806	
+42003	taskitem_12016	1	1	useiteminfo_42003_3	1	0	2	12	0			Gather18806a	18806	
+42005	taskitem_12021	1	1	useiteminfo_42005	1	0	0	12	1	taskitem_12022			18808	
+42006	taskitem_12050	1	1	useiteminfo_42006	0	0	0	12	0	taskitem_12051	taskitem_12037;taskitem_12038;taskitem_12039;taskitem_12040;taskitem_12041;taskitem_12042;taskitem_12043;taskitem_12044;taskitem_12045;taskitem_12046;taskitem_12047;taskitem_12048;taskitem_12049		18814	
+42007	taskitem_12054	1	1	useiteminfo_42007	1	0	0	12	0				18818	
+42004	taskitem_12018	1	1	useiteminfo_42004	1		0	12	0	taskitem_12020	taskitem_12019		18807	
+42008	useitemkey_shaolin_shuitong	1	1	useiteminfo_42008	1	1	2	12	0	key_shaolin_shuitong		Gather18806b		
+42009	item_qygp_cc_18913_tan	1	1	useiteminfo_42009	1		2	16	0		item_qygp_cc_18913_gu;item_qygp_cc_18913_shui;item_qygp_cc_18913_qu	Event_qygp_cc_18913		Buf_qygp_cc_18913

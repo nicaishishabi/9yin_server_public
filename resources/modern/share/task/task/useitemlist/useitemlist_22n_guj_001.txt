@@ -1,0 +1,21 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	ItemID	ProCount	AddPro	TrackInfoID	DeleteSelf	LockTarget	Radius	SceneID	Water	AddItems	DeleteItems	TargetConfig	TaskID	BufferID
+77301	useitem_whz_guj_001	1	1	useiteminfo_77301			1	1079	0			EventNpc_whzrcguj001	77305	
+77302	useitem_whz_guj_002	1	1	useiteminfo_77302	1		2	1079	0	useitem_whz_guj_003		EventNpc_whzrcguj002	77306	
+77303	useitem_whz_guj_003	1	1	useiteminfo_77303			2	1079	0			EventNpc_whzrcguj003	77306	
+77304	useitem_whz_guj_004	1	1	useiteminfo_77304			2	1079	0			EventNpc_whzrcguj004	77308	
+77306	useitem_whz_guj_005	1	1	useiteminfo_77306			2	1079	0			EventNpc_whzrcguj005	77309	
+77305	useitem_whz_guj_006	1	1	useiteminfo_77305	1			1079	0	useitem_whz_guj_005	taskitem_guj246b		77309	
+77310	useitem_whz_guj_007	1	1	useiteminfo_77310			1	1079	0			EventNpc_whzrcguj009	77311	
+77311	useitem_whz_guj_007	1	1	useiteminfo_77311			1	1079	0			EventNpc_whzrcguj010	77311	
+77312	useitem_whz_guj_007	1	1	useiteminfo_77312			1	1079	0			EventNpc_whzrcguj011	77311	
+77313	useitem_whz_guj_008	1	1	useiteminfo_77313		1	1	1079	0			npc_jqrwhz_001	77318	
+77307	useitem_whz_guj_009	1	1	useiteminfo_77307			2	1079	0			EventNpc_whzrcguj006	77310	
+77308	useitem_whz_guj_010	1	1	useiteminfo_77308			2	1079	0			EventNpc_whzrcguj007	77310	
+77309	useitem_whz_guj_011	1	1	useiteminfo_77309			2	1079	0			EventNpc_whzrcguj008	77310	
+77314	useitem_whz_guj_008	1	1	useiteminfo_77314		1	1	1079	0			npc_jqrwhz_002		
+77315	useitem_whz_guj_008	1	1	useiteminfo_77315		1	1	1079	0			npc_jqrwhz_003		
+77316	item_dyld_ttlz_004	1	1	useiteminfo_77316	1	1	2	1089	0			Gather_dyld_caoyao	77327	
+77317	item_dyld_ttlz_005	1	1	useiteminfo_77317	1	1	2	1089	0			Gather_dyld_caoyao	77327	
+77318	item_dyld_ttlz_004_01	1	1	useiteminfo_77318	1	1	2	1089	0			Gather_dyld_caoyao_01	77333	
+77319	item_dyld_ttlz_005_01	1	1	useiteminfo_77319	1	1	2	1089	0			Gather_dyld_caoyao_01	77333	

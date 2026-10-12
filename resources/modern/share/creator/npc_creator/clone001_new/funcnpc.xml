@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <staticcreator>
+        <item No="28E4E467AD824976A628EF6152849F7D" x="308.800" y="99.216" z="410.220" ay="1.570" id="machineclone001005" BornAction="closeloop" RandomAction="" RefreshTime="-1.0" PatrolMode="1" NotPositive="0" WeaponMode="非通用_空手" desc="双开门阔无锁" ChildList="" PosList="" />
+        <item No="DFD3164449824D0E962AC2ADC034841B" x="393.218" y="115.634" z="396.400" ay="1.570" id="machineclone001005" BornAction="closeloop" RandomAction="" RefreshTime="-1.0" PatrolMode="1" NotPositive="0" WeaponMode="非通用_空手" desc="双开门阔无锁" ChildList="" PosList="" />
+        <item No="BFB48FF75AA44E668404434316D5D8AB" x="334.500" y="95.500" z="413.800" ay="1.580" id="machineclone001004" NpcProgress="10" BornAction="closeloop" RandomAction="" RefreshTime="-1.0" PatrolMode="1" NotPositive="0" WeaponMode="非通用_空手" desc="单开门" ChildList="" PosList="" />
+        <item No="7356A0EEE8084CF6851FD263A9C85067" x="94.483" y="39.277" z="499.329" ay="-2.895" id="TriggerNpc00005" NpcProgress="1" RefreshTime="-1.0" PatrolMode="1" NotPositive="0" WeaponMode="非通用_空手" desc="副本触发使用5" ChildList="" PosList="" />
+        <item No="86CF210EFF5A481BAA58B605BFB0CE44" x="431.100" y="115.500" z="368.900" ay="-1.590" id="BlockNpc00016" NpcProgress="10" RefreshTime="-1.0" PatrolMode="1" NotPositive="0" WeaponMode="非通用_空手" desc="棺材" ChildList="" PosList="" />
+        <item No="1DD75069D2CD4BA39A8190BFF1E587D8" x="431.100" y="115.500" z="367.300" ay="-1.590" id="BlockNpc00016" NpcProgress="10" RefreshTime="-1.0" PatrolMode="1" NotPositive="0" WeaponMode="非通用_空手" desc="棺材" ChildList="" PosList="" />
+        <item No="BCE9BC9BFEAC41ADB51C11566A9BBADA" x="431.100" y="115.500" z="365.500" ay="-1.575" id="BlockNpc00016" NpcProgress="10" RefreshTime="-1.0" PatrolMode="1" NotPositive="0" WeaponMode="非通用_空手" desc="棺材" ChildList="" PosList="" />
+        <item No="F3449F16909A43FFAD29FE8DEB690270" x="423.500" y="115.500" z="365.600" ay="1.570" id="BlockNpc00016" NpcProgress="10" RefreshTime="-1.0" PatrolMode="1" NotPositive="0" WeaponMode="非通用_空手" desc="棺材" ChildList="" PosList="" />
+        <item No="E4D27D30BF274F43A29FAEF5DEB84235" x="423.500" y="115.500" z="367.300" ay="1.570" id="BlockNpc00016" NpcProgress="10" RefreshTime="-1.0" PatrolMode="1" NotPositive="0" WeaponMode="非通用_空手" desc="棺材" ChildList="" PosList="" />
+        <item No="AC3DDE26229E436B878286B57CA9BD20" x="423.600" y="115.600" z="369.100" ay="1.580" id="BlockNpc00016" NpcProgress="10" RefreshTime="-1.0" PatrolMode="1" NotPositive="0" WeaponMode="非通用_空手" desc="棺材" ChildList="" PosList="" />
+        <item No="6067396FA54B40BCBB37CCAA55C51170" x="544.900" y="122.600" z="355.600" ay="-1" id="TriggerNpc00011" NpcProgress="10" RefreshTime="-1.0" PatrolMode="1" NotPositive="0" WeaponMode="非通用_空手" desc="五行检测" ChildList="" PosList="" />
+        <item No="717FCA212E7641EC81B60464CB4F2FB5" x="326.439" y="84.765" z="474.688" id="TriggerNpcClone001010" RefreshTime="-1.0" PatrolMode="1" ChaseRange="0.0" NotPositive="1" desc="" ChildList="" PosList="" />
+        <item No="49738DE626EF4AE9B7F7D70B57C26DF5" x="351.940" y="86.374" z="465.939" id="TriggerNpcClone001010" RefreshTime="-1.0" PatrolMode="1" ChaseRange="0.0" NotPositive="1" desc="" ChildList="" PosList="" />
+        <item No="DC3862D3A2114C949A41FEDB1CAC40B7" x="346.885" y="85.612" z="474.205" id="TriggerNpcClone001010" RefreshTime="-1.0" PatrolMode="1" ChaseRange="0.0" NotPositive="1" desc="" ChildList="" PosList="" />
+        <item No="7BE796EBCB534491B50245EFDACDAAE3" x="353.727" y="85.153" z="471.334" id="TriggerNpcClone001010" RefreshTime="-1.0" PatrolMode="1" ChaseRange="0.0" NotPositive="1" desc="" ChildList="" PosList="" />
+        <item No="D3C4A22B67C14274A11144E3404940F6" x="342.374" y="85.909" z="473.705" id="TriggerNpcClone001010" RefreshTime="-1.0" PatrolMode="1" ChaseRange="0.0" NotPositive="1" desc="" ChildList="" PosList="" />
+        <item No="FDD191B10CCB421EB1CB2BEDD04DD144" x="332.165" y="85.855" z="475.713" id="TriggerNpcClone001010" RefreshTime="-1.0" PatrolMode="1" ChaseRange="0.0" NotPositive="1" desc="" ChildList="" PosList="" />
+        <item No="CA7EF13E96E6403F8108D12F9A1CB86A" x="863.315" y="127.408" z="308.789" id="GotoDoorClone001TZ_004" RefreshTime="30000.0" PatrolMode="1" WakeupRange="5.0" ChaseRange="5.0" NotPositive="0" desc="传送回六合天宫阵" ChildList="" PosList="" />
+        <item No="1E283AB5DEB44125A792912028E6EC2B" x="965.023" y="128.784" z="203.264" id="GotoDoorClone001TZ_004" RefreshTime="30000.0" PatrolMode="1" WakeupRange="5.0" ChaseRange="5.0" NotPositive="0" desc="传送回六合天宫阵" ChildList="" PosList="" />
+        <item No="2F43A1BDA098415B9C201E265177E246" x="863.864" y="129.087" z="97.988" id="GotoDoorClone001TZ_004" RefreshTime="30000.0" PatrolMode="1" WakeupRange="5.0" ChaseRange="5.0" NotPositive="0" desc="传送回六合天宫阵" ChildList="" PosList="" />
+        <item No="69B886010D804E6195BB1522F62DAA0D" x="746.826" y="127.415" z="202.264" id="GotoDoorClone001TZ_004" RefreshTime="30000.0" PatrolMode="1" WakeupRange="5.0" ChaseRange="5.0" NotPositive="0" desc="传送回六合天宫阵" ChildList="" PosList="" />
+    </staticcreator>
+</object>

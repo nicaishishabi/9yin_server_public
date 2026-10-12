@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="A65120B8AECF4D068F826459F2514F9A" x="1647.208" y="0.419" z="341.880" radius="5.0" WakeupRange="16.0" ChaseRange="30.0" PatrolRange="5.2">
+            <item No="1" id="funnpcadv040022" ay="2.590" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1648.325" z="338.352" ay="2.590" />
+            </item>
+            <item No="2" id="funnpcadv040014" ay="4.558" amount="1" refreshtime="-1" NotPositive="0" desc="正道弟子武当">
+                <position x="1649.751" z="338.955" ay="4.558" WeaponName="ds_rl_npcitem324" WeaponMode="dsword2_1" />
+            </item>
+            <item No="3" id="funnpcadv040013" ay="2.590" az="0.181" amount="1" refreshtime="-1" NotPositive="0" desc="正道弟子丐帮">
+                <position x="1646.916" z="345.880" ay="2.590" az="0.181" />
+            </item>
+            <item No="4" id="funnpcadv040008" ay="5.858" amount="1" refreshtime="-1" NotPositive="0" desc="正道弟子唐门">
+                <position x="1644.861" z="340.514" ay="5.858" />
+            </item>
+            <item No="5" id="funnpcadv040023" ay="2.590" amount="2" refreshtime="-1" NotPositive="0" desc="魔教弟子女">
+                <position x="1644.360" z="341.269" ay="2.590" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+                <position x="1649.257" z="344.915" ay="5.858" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+            </item>
+            <item No="6" id="funnpcadv040017" amount="1" refreshtime="-1" NotPositive="0" desc="正道弟子念罗">
+                <position x="1647.561" z="343.748" />
+            </item>
+        </creator>
+        <creator No="7DFD7C8CEDDA40B8816DD7117CA69338" x="1628.855" y="0.481" z="348.883" radius="5.0" WakeupRange="6.0" ChaseRange="25.9" PatrolRange="-1.0">
+            <item No="1" id="funnpcadv040009" amount="1" refreshtime="-1" NotPositive="0" desc="正道弟子锦衣卫">
+                <position x="1629.463" z="350.977" />
+            </item>
+            <item No="2" id="funnpcadv040027" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1628.326" z="350.530" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+            </item>
+            <item No="3" id="funnpcadv040025" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1630.572" z="350.197" WeaponName="s_r_npcitem087" WeaponMode="sword1_1" />
+            </item>
+            <item No="4" id="funnpcadv040026" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1630.827" z="347.743" WeaponName="s_r_npcitem087" WeaponMode="sword1_1" />
+            </item>
+            <item No="5" id="funnpcadv040016" amount="1" refreshtime="-1" NotPositive="0" desc="正道弟子古墓" />
+            <item No="6" id="funnpcadv040018" amount="1" refreshtime="-1" NotPositive="0" desc="正道弟子长风" />
+        </creator>
+        <creator No="17FD624EB7764E2085B8563DC6B2377B" x="1612.302" y="0.629" z="354.476" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="funnpcadv040010" amount="1" refreshtime="-1" NotPositive="0" desc="正道弟子少林">
+                <position x="1612.342" z="355.892" WeaponName="lst_r_813" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="2" id="funnpcadv040021" ay="2.855" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1611.974" z="357.170" ay="2.855" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+            </item>
+            <item No="3" id="funnpcadv040020" amount="1" refreshtime="-1" NotPositive="0" desc="正道弟子神水">
+                <position x="1607.563" z="356.123" />
+            </item>
+            <item No="4" id="funnpcadv040029" amount="3" refreshtime="-1" NotPositive="0" desc="魔教弟子女">
+                <position x="1607.140" z="357.419" WeaponName="st_r_1017" WeaponMode="lstuff1_2" />
+                <position x="1615.755" z="353.786" WeaponName="st_r_1017" WeaponMode="lstuff1_2" />
+                <position x="1614.510" z="358.849" WeaponName="st_r_1017" WeaponMode="lstuff1_2" />
+            </item>
+            <item No="5" id="funnpcadv040015" amount="1" refreshtime="-1" NotPositive="0" desc="正道弟子血刀" />
+        </creator>
+        <creator No="0E63EF6B0E584E39BD16DE09B856D184" x="1555.158" y="0.322" z="291.212" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="funnpcadv040055" amount="2" refreshtime="-1" NotPositive="0" desc="魔教弟子女">
+                <position x="1558.927" z="289.787" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+                <position x="1550.004" z="288.599" ay="1.060" BornAction="shake" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+            </item>
+            <item No="2" id="funnpcadv040053" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1561.380" z="295.055" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+            </item>
+            <item No="3" id="funnpcadv040057" ay="3.330" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1549.980" z="289.710" ay="3.330" BornAction="scratch" WeaponName="s_r_npcitem087" WeaponMode="sword1_1" />
+            </item>
+            <item No="4" id="funnpcadv040054" ay="3.385" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1555.916" z="297.852" ay="3.385" BornAction="sitloop" WeaponName="b_r_npcitem318" WeaponMode="blade1_1" />
+            </item>
+            <item No="5" id="funnpcadv040059" amount="3" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1555.934" z="283.992" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="1552.106" z="296.168" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="1555.725" z="296.533" BornAction="sitloop" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+            </item>
+        </creator>
+        <creator No="A0255D32F8044BA2ABDBB53988098CCC" x="1538.047" y="8.672" z="302.413" radius="11.2" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="funnpcadv040057" ay="2.260" amount="3" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1538.286" z="296.093" ay="2.260" WeaponName="s_r_npcitem087" WeaponMode="sword1_1" />
+                <position x="1542.269" z="303.480" ay="3.245" WeaponName="s_r_npcitem087" WeaponMode="sword1_1" />
+                <position x="1536.028" z="308.102" ay="2.735" WeaponName="s_r_npcitem087" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="funnpcadv040058" ay="2.703" amount="4" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1539.959" z="297.494" ay="2.703" WeaponName="s_r_npcitem087" WeaponMode="sword1_1" />
+                <position x="1538.678" z="308.110" ay="3.903" WeaponName="s_r_npcitem087" WeaponMode="sword1_1" />
+                <position x="1539.961" z="303.666" ay="1.605" WeaponName="s_r_npcitem087" WeaponMode="sword1_1" />
+                <position x="1538.866" z="294.215" WeaponName="s_r_npcitem087" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="B99E8E20F4F0447A8321094A0A5603B5" x="1491.619" y="29.002" z="276.054" radius="9.6" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="funnpcadv040055" amount="3" refreshtime="-1" NotPositive="0" desc="魔教弟子女">
+                <position x="1489.887" z="279.566" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+                <position x="1490.500" z="280.717" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+                <position x="1491.993" z="279.061" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+            </item>
+            <item No="2" id="funnpcadv040056" amount="3" refreshtime="-1" NotPositive="0" desc="魔教弟子女">
+                <position x="1484.927" z="274.624" WeaponName="db_rl_npcitem419" WeaponMode="dsword1_2" />
+                <position x="1483.795" z="274.665" WeaponName="db_rl_npcitem419" WeaponMode="dsword1_2" />
+                <position x="1484.941" z="273.633" WeaponName="db_rl_npcitem419" WeaponMode="dsword1_2" />
+            </item>
+            <item No="3" id="funnpcadv040060" amount="3" refreshtime="-1" NotPositive="0" desc="魔教弟子女">
+                <position x="1499.103" z="273.073" WeaponName="s_r_npcitem087" WeaponMode="sword1_2" />
+                <position x="1497.854" z="273.280" WeaponName="s_r_npcitem087" WeaponMode="sword1_2" />
+                <position x="1498.477" z="271.845" WeaponName="s_r_npcitem087" WeaponMode="sword1_2" />
+            </item>
+            <item No="4" id="funnpcadv040061" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子女" />
+        </creator>
+        <creator No="7078F30C1DB24F6A8D1328D6CB33C044" x="1470.308" y="24.089" z="247.926" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="funnpcadv040053" amount="4" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1472.076" z="245.285" BornAction="ty_talk" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+                <position x="1472.019" z="246.372" ay="2.990" BornAction="ty_talk3" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+                <position x="1469.792" z="249.222" ay="3.210" BornAction="sitloop" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+                <position x="1470.269" z="248.426" BornAction="ty_talk" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="A33FA15F5EA24B688B328009F8E798CE" x="1460.550" y="24.089" z="259.288" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="funnpcadv040058" amount="3" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1462.323" z="258.332" BornAction="ty_talk" WeaponName="s_r_npcitem087" WeaponMode="sword1_1" />
+                <position x="1462.319" z="259.550" ay="2.800" BornAction="ty_talk2" WeaponName="s_r_npcitem087" WeaponMode="sword1_1" />
+                <position x="1458.000" z="257.974" ay="1.765" BornAction="sitloop" WeaponName="s_r_npcitem087" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="217B191B587A471689000AB24444875D" x="1469.791" y="24.089" z="263.306" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="funnpcadv040054" amount="3" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1469.502" z="261.572" WeaponName="b_r_npcitem318" WeaponMode="blade1_1" />
+                <position x="1471.603" z="261.902" WeaponName="b_r_npcitem318" WeaponMode="blade1_1" />
+                <position x="1470.291" z="263.659" WeaponName="b_r_npcitem318" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="98A6DB93E25F46958A9BE2EC958174F0" x="1457.620" y="24.141" z="194.595" radius="5.0" WakeupRange="4.2" ChaseRange="26.5" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="funnpcadv040068" ay="3.065" amount="2" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1458.031" z="196.975" ay="3.065" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="1458.683" z="192.015" ay="6.243" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+            </item>
+        </creator>
+        <creator No="FC0E66B680504A5E82148980196B95A7" x="1428.152" y="23.183" z="207.923" radius="6.7" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="funnpcadv040065" ay="2.260" amount="3" refreshtime="-1" NotPositive="0" desc="魔教弟子女">
+                <position x="1426.886" z="210.943" ay="2.260" WeaponName="db_rl_npcitem419" WeaponMode="dsword1_2" />
+                <position x="1428.977" z="212.005" ay="2.260" WeaponName="db_rl_npcitem419" WeaponMode="dsword1_2" />
+                <position x="1427.723" z="210.127" ay="2.260" WeaponName="db_rl_npcitem419" WeaponMode="dsword1_2" />
+            </item>
+            <item No="2" id="funnpcadv040066" ay="2.260" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子男" />
+        </creator>
+        <creator No="2CF0E43157D54E9B9EBB17342949A0DD" x="1426.244" y="23.183" z="179.819" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="funnpcadv040068" ay="2.260" amount="4" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1429.091" z="181.554" ay="2.260" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="1427.010" z="181.389" ay="2.260" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="1423.255" z="181.837" ay="2.260" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="1426.690" z="177.177" ay="2.260" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+            </item>
+        </creator>
+        <creator No="25BE079C072E483EA951E3FA72DF0FCA" x="1408.935" y="23.183" z="205.602" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="funnpcadv040064" ay="2.260" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子女" />
+            <item No="2" id="funnpcadv040065" ay="2.260" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子女" />
+            <item No="3" id="funnpcadv040067" ay="2.260" amount="2" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1409.045" z="209.274" ay="2.260" WeaponName="s_r_npcitem087" WeaponMode="sword1_1" />
+                <position x="1410.012" z="202.871" ay="2.260" WeaponName="s_r_npcitem087" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="F63F9CE7855D43E0A24CC8B17B8DE9CF" x="1450.656" y="23.223" z="152.454" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="5.6" HateLink="1">
+            <item No="1" id="funnpcadv040079" ay="2.260" amount="4" refreshtime="-1" NotPositive="0" desc="魔教弟子女">
+                <position x="1451.796" z="154.520" ay="2.260" WeaponName="st_r_1017" WeaponMode="lstuff1_2" />
+                <position x="1449.141" z="153.760" ay="2.260" WeaponName="st_r_1017" WeaponMode="lstuff1_2" />
+                <position x="1448.924" z="150.291" ay="2.260" WeaponName="st_r_1017" WeaponMode="lstuff1_2" />
+                <position x="1451.583" z="150.447" ay="2.260" WeaponName="st_r_1017" WeaponMode="lstuff1_2" />
+            </item>
+        </creator>
+        <creator No="07A4D91D65D04B8EAD33C60D2D276449" x="1431.057" y="23.390" z="147.945" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="4.9" HateLink="1">
+            <item No="1" id="funnpcadv040072" ay="2.260" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子男" />
+            <item No="2" id="funnpcadv040073" ay="2.260" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子女" />
+            <item No="3" id="funnpcadv040074" ay="2.260" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子女" />
+        </creator>
+        <creator No="F9511904192B444D8F216B290BB8FF01" x="1429.125" y="23.183" z="130.827" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="4.6" HateLink="1">
+            <item No="1" id="funnpcadv040072" ay="2.260" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子男" />
+            <item No="2" id="funnpcadv040071" ay="2.260" amount="2" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1430.381" z="129.873" ay="2.260" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+                <position x="1427.181" z="132.356" ay="2.260" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="3FF49B6D7E62449EA0FEDD0C55C67F04" x="1436.710" y="23.183" z="117.198" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="4.3" HateLink="1">
+            <item No="1" id="funnpcadv040078" ay="2.260" amount="4" refreshtime="-1" NotPositive="0" desc="魔教弟子女">
+                <position x="1438.641" z="114.507" ay="2.260" WeaponName="s_r_npcitem087" WeaponMode="sword1_2" />
+                <position x="1434.469" z="117.806" ay="2.260" WeaponName="s_r_npcitem087" WeaponMode="sword1_2" />
+                <position x="1437.656" z="116.245" ay="2.260" WeaponName="s_r_npcitem087" WeaponMode="sword1_2" />
+                <position x="1435.376" z="118.141" ay="2.260" WeaponName="s_r_npcitem087" WeaponMode="sword1_2" />
+            </item>
+        </creator>
+        <creator No="C4E034AB46CC46579A0C987A2D0A04BD" x="1461.251" y="23.183" z="115.182" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="6.9" HateLink="1">
+            <item No="1" id="funnpcadv040077" ay="2.260" amount="3" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1463.062" z="117.286" ay="2.260" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="1460.014" z="116.367" ay="2.260" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="1462.237" z="112.569" ay="2.260" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+            </item>
+        </creator>
+        <creator No="55673B531E9541B1B8EF5ED8E72B3DA4" x="1479.709" y="23.183" z="116.499" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="5.5" HateLink="1">
+            <item No="1" id="funnpcadv040077" ay="2.260" amount="3" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1481.353" z="119.199" ay="2.260" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="1481.313" z="114.177" ay="2.260" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="1477.676" z="116.505" ay="2.260" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+            </item>
+        </creator>
+        <creator No="9D1534E78C3743E59D08EBFCE45BC308" x="1460.311" y="23.211" z="146.793" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="5.9" HateLink="1">
+            <item No="1" id="funnpcadv040074" ay="2.260" amount="3" refreshtime="-1" NotPositive="0" desc="魔教弟子女">
+                <position x="1460.139" z="144.826" ay="2.260" WeaponName="db_rl_npcitem419" WeaponMode="dsword1_2" />
+                <position x="1459.512" z="148.677" ay="2.260" WeaponName="db_rl_npcitem419" WeaponMode="dsword1_2" />
+                <position x="1456.800" z="146.679" ay="2.260" WeaponName="db_rl_npcitem419" WeaponMode="dsword1_2" />
+            </item>
+        </creator>
+        <creator No="4A111F780287412C9305B9BB9A36D612" x="1576.883" y="23.183" z="163.550" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="6.1" HateLink="1">
+            <item No="1" id="funnpcadv040080" ay="2.260" amount="4" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1575.096" z="165.373" ay="2.260" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+                <position x="1575.545" z="161.805" ay="2.260" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+                <position x="1578.466" z="163.389" ay="2.260" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+                <position x="1573.637" z="163.307" ay="2.260" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="C979A90AFFBC49A9B77BFEABAE47727B" x="1591.394" y="23.758" z="178.174" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="funnpcadv040086" ay="2.260" amount="2" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1591.933" z="175.587" ay="2.260" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="1588.629" z="178.925" ay="2.260" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+            </item>
+        </creator>
+        <creator No="4693D07DF8BD4EA7ABC6131478EACB2A" x="1581.381" y="24.898" z="193.496" radius="5.0" WakeupRange="7.1" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="funnpcadv040081" ay="2.260" amount="2" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1582.138" z="190.511" ay="2.260" WeaponName="b_r_npcitem318" WeaponMode="blade1_1" />
+                <position x="1582.268" z="195.810" ay="2.260" WeaponName="b_r_npcitem318" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="A1296CB796B64A218CA75AFC728F3C8E" x="1592.681" y="24.898" z="204.518" radius="5.0" WakeupRange="6.8" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="funnpcadv040085" ay="2.260" amount="2" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1589.176" z="203.020" ay="2.260" WeaponName="s_r_npcitem087" WeaponMode="sword1_1" />
+                <position x="1591.908" z="203.434" ay="2.260" WeaponName="s_r_npcitem087" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="funnpcadv040086" ay="2.260" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子男" />
+        </creator>
+        <creator No="B864E75132B940C2A830F7A060C2AEEE" x="1614.738" y="23.758" z="210.110" radius="5.0" WakeupRange="10.8" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="funnpcadv040083" ay="2.260" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子女" />
+            <item No="2" id="funnpcadv040081" ay="2.260" amount="2" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1613.995" z="209.118" ay="2.260" WeaponName="b_r_npcitem318" WeaponMode="blade1_1" />
+                <position x="1618.237" z="209.603" ay="2.260" WeaponName="b_r_npcitem318" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="907369584941473E85A951307DB82A19" x="1633.642" y="23.858" z="197.728" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="5.3" HateLink="1">
+            <item No="1" id="funnpcadv040082" ay="2.260" amount="2" refreshtime="-1" NotPositive="0" desc="魔教弟子女">
+                <position x="1634.322" z="200.661" ay="2.260" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+                <position x="1631.400" z="196.694" ay="2.260" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+            </item>
+            <item No="2" id="funnpcadv040083" ay="2.260" amount="2" refreshtime="-1" NotPositive="0" desc="魔教弟子女">
+                <position x="1631.415" z="200.524" ay="2.260" WeaponName="db_rl_npcitem419" WeaponMode="dsword1_2" />
+                <position x="1636.331" z="195.462" ay="2.260" WeaponName="db_rl_npcitem419" WeaponMode="dsword1_2" />
+            </item>
+        </creator>
+        <creator No="DB5C7F0DF0864289A4BF611493959674" x="1654.541" y="23.552" z="209.480" radius="5.0" WakeupRange="16.0" ChaseRange="26.5" PatrolRange="4.1" HateLink="1">
+            <item No="1" id="funnpcadv040082" ay="2.260" amount="2" refreshtime="-1" NotPositive="0" desc="魔教弟子女">
+                <position x="1656.730" z="211.757" ay="2.260" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+                <position x="1654.262" z="207.630" ay="2.260" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+            </item>
+        </creator>
+        <creator No="B367901A5A9440C7876207C40FDAB703" x="1687.272" y="23.882" z="222.442" radius="5.0" WakeupRange="11.8" ChaseRange="27.0" PatrolRange="8.1" HateLink="1">
+            <item No="1" id="funnpcadv040081" ay="2.260" amount="4" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1688.573" z="219.669" ay="2.260" WeaponName="b_r_npcitem318" WeaponMode="blade1_1" />
+                <position x="1688.480" z="226.067" ay="2.260" WeaponName="b_r_npcitem318" WeaponMode="blade1_1" />
+                <position x="1690.109" z="223.569" ay="2.260" WeaponName="b_r_npcitem318" WeaponMode="blade1_1" />
+                <position x="1683.339" z="222.863" ay="2.260" WeaponName="b_r_npcitem318" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="F856CCDF8DAF4B34A612431CB10AB11B" x="1695.755" y="24.373" z="245.019" radius="5.0" WakeupRange="11.0" ChaseRange="27.0" PatrolRange="7.7" HateLink="1">
+            <item No="1" id="funnpcadv040080" ay="2.260" amount="4" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1694.040" z="246.951" ay="2.260" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+                <position x="1694.343" z="243.167" ay="2.260" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+                <position x="1695.754" z="242.500" ay="2.260" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+                <position x="1698.091" z="245.314" ay="2.260" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="4E8B866CD8C94719B2E6053DC97E35B1" x="1706.533" y="22.050" z="266.705" radius="5.0" WakeupRange="10.6" ChaseRange="27.0" PatrolRange="6.8" HateLink="1">
+            <item No="1" id="funnpcadv040082" ay="2.260" amount="2" refreshtime="-1" NotPositive="0" desc="魔教弟子女">
+                <position x="1704.286" z="264.639" ay="2.260" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+                <position x="1705.959" z="263.948" ay="2.260" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+            </item>
+            <item No="2" id="funnpcadv040086" ay="2.260" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子男" />
+        </creator>
+        <creator No="5B20311021BA4422896E1BC09E8AD2AB" x="1725.489" y="24.752" z="266.564" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="4.4" HateLink="1">
+            <item No="1" id="funnpcadv040085" ay="2.260" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子男" />
+            <item No="2" id="funnpcadv040087" ay="2.260" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子女" />
+            <item No="3" id="funnpcadv040088" ay="2.260" amount="3" refreshtime="-1" NotPositive="0" desc="魔教弟子女">
+                <position x="1723.276" z="266.328" ay="2.260" WeaponName="st_r_1017" WeaponMode="lstuff1_2" />
+                <position x="1729.321" z="266.332" ay="2.260" WeaponName="st_r_1017" WeaponMode="lstuff1_2" />
+                <position x="1722.198" z="268.192" ay="2.260" WeaponName="st_r_1017" WeaponMode="lstuff1_2" />
+            </item>
+        </creator>
+        <creator No="27ECE7E9F98446B59338B15CCDE5CC2A" x="1635.367" y="0.496" z="341.847" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="funnpcadv040019" amount="1" refreshtime="-1" NotPositive="0" desc="正道弟子华山">
+                <position x="1636.109" z="341.742" />
+            </item>
+            <item No="2" id="funnpcadv040021" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1634.198" z="341.882" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="892564783C914D6BB33C5482EED5F6B8" x="1411.775" y="23.183" z="163.870" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="funnpcadv040063" amount="2" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1412.861" z="161.245" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="1410.906" z="160.658" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+            </item>
+            <item No="2" id="funnpcadv040069" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子女">
+                <position x="1411.768" z="160.420" WeaponName="s_r_npcitem087" WeaponMode="sword1_2" />
+            </item>
+        </creator>
+        <creator No="71E84470ADA944E49E33B33031655E3F" x="1388.095" y="23.183" z="171.405" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="6.1" HateLink="1">
+            <item No="1" id="funnpcadv040064" amount="3" refreshtime="-1" NotPositive="0" desc="魔教弟子女">
+                <position x="1385.712" z="170.983" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+                <position x="1388.489" z="169.454" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+                <position x="1389.339" z="173.297" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

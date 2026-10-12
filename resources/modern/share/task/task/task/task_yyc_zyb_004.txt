@@ -1,0 +1,28 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	Title	Step	SearchID	Line	AcceptNpc	SubmitNpc	AcceptSceneID	SubmitSceneID	AutoAcceptID	AutoSubmit	PreTaskLimit	NextTaskLimit	AcceptLimit	AcceptReputationLimit	SubmitLimit	SubFunction	TaskItemList	RefreshMonster	TimeLimitLength	SubmitNpcEx	TaskScript	TitleId	ContextId	AcceptDialogId	CompleteDialogId	UnCompleteDialogId	TaskTargetId	TrackInfoID	LineNextInfo	CanAcceptMenu	UncompleteMenu	CompleteMenu	AcceptMovie	SubmitMovie	DramaAccept	DramaSubmit	CanGiveup	ShareType	RepeatType	RepeatPeriod	CountDayLimit	DifficultCoefficient	DifficultLevel	TiaozhanTime	ActivityType
+75401			s1740101	20			930	930	75402	1		75402										title_75401	context_75401				target_75401		next_75401					10027			0	0	0	0	0				
+75402			s1740101	20			930	930	75403	1	75401	75403										title_75402	context_75402				target_75402		next_75402					10028			0	0	0	0	0				
+75403			s1740101	20			930	930	75404	1	75402	75404										title_75403	context_75403				target_75403		next_75403					10029			0	0	0	0	0				
+75404			s1740101	20			930	930	75405	1	75403	75405										title_75404	context_75404				target_75404										0	0	0	0	0				
+75405			s1740101	20			930	930	75406	1	75404	75406										title_75405	context_75405				target_75405		next_75405								0	0	0	0	0				
+75406			s1740101	20			930	930	75407	1	75405	75407										title_75406	context_75406				target_75406		next_75406								0	0	0	0	0				
+75407			s1740101	20			930	930	75408	1	75406	75408										title_75407	context_75407				target_75407		next_75407					10030			0	0	0	0	0				
+75408			s1740101	20			930	930	75409	1	75407	75409										title_75408	context_75408				target_75408		next_75408								0	0	0	0	0				
+75409			s1740101	20			930	930	75410	1	75408	75410										title_75409	context_75409				target_75409		next_75409					10051			0	0	0	0	0				
+75410			s1740101	20		npc_lzy_201908jq_025	930	930			75409											title_75410	context_75410		complete_75410;submit_75410		target_75410		next_75410			CompleteMenu_75410					0	0	0	0	0				
+75411			s1740201	24	npc_jtgzc_lzy_001	npc_jtgzc_lzy_001	954	954					118499;118503							SubmitNpcEx_75411		title_75411	context_75411	accept_75411_1;menu_75411_1	complete_75411;submit_75411		target_75411			CanAcceptMenu_75411		CompleteMenu_75411					1	0	3	1	1				47
+75412			s1740201	24		npc_jtg_lzy_sfz001	954	954												SubmitNpcEx_75412		title_75412	context_75412		complete_75412;submit_75412		target_75412					CompleteMenu_75412					1	0	0	0	0				
+75413			s1740201	24		npc_jtg_lzy_sfz001	954	954												SubmitNpcEx_75413		title_75413	context_75413		complete_75413;submit_75413		target_75413					CompleteMenu_75413					1	0	0	0	0				
+75414			s1740201	24		npc_jtg_lzy_sfz001	954	954												SubmitNpcEx_75414		title_75414	context_75414		complete_75414;submit_75414		target_75414					CompleteMenu_75414					1	0	0	0	0				
+75415			s1740201	24		npc_jtg_lzy_sfz001	954	954												SubmitNpcEx_75415		title_75415	context_75415		complete_75415;submit_75415		target_75415					CompleteMenu_75415					1	0	0	0	0				
+75416			s1740201	24		npc_jtg_lzy_sfz001	954	954												SubmitNpcEx_75416		title_75416	context_75416		complete_75416;submit_75416		target_75416					CompleteMenu_75416					1	0	0	0	0				
+75417			s1740201	24		npc_jtg_lzy_sfz001	954	954												SubmitNpcEx_75417		title_75417	context_75417		complete_75417;submit_75417		target_75417					CompleteMenu_75417					1	0	0	0	0				
+75418			s1740201	24		npc_jtg_lzy_sfz001	954	954												SubmitNpcEx_75418		title_75418	context_75418		complete_75418;submit_75418		target_75418					CompleteMenu_75418					1	0	0	0	0				
+75419			s1740201	24		npc_jtg_lzy_sfz001	954	954												SubmitNpcEx_75419		title_75419	context_75419		complete_75419;submit_75419		target_75419					CompleteMenu_75419					1	0	0	0	0				
+75420			s1740201	24		npc_jtg_lzy_sfz001	954	954												SubmitNpcEx_75420		title_75420	context_75420		complete_75420;submit_75420		target_75420					CompleteMenu_75420					1	0	0	0	0				
+75421			s1740201	24		npc_jtg_lzy_sfz001	954	954												SubmitNpcEx_75421		title_75421	context_75421		complete_75421;submit_75421		target_75421					CompleteMenu_75421					1	0	0	0	0				
+75422			s1740201	24		npc_jtg_lzy_sfz001	954	954												SubmitNpcEx_75422		title_75422	context_75422		complete_75422;submit_75422		target_75422					CompleteMenu_75422					1	0	0	0	0				
+75423			s1740201	24		npc_jtg_lzy_sfz001	954	954												SubmitNpcEx_75423		title_75423	context_75423		complete_75423;submit_75423		target_75423					CompleteMenu_75423					1	0	0	0	0				
+75424			s1740201	24		npc_jtg_lzy_sfz001	954	954												SubmitNpcEx_75424		title_75424	context_75424		complete_75424;submit_75424		target_75424					CompleteMenu_75424					1	0	0	0	0				
+75425			s1740201	24		npc_jtg_lzy_sfz001	954	954												SubmitNpcEx_75425		title_75425	context_75425		complete_75425;submit_75425		target_75425					CompleteMenu_75425					1	0	0	0	0				
+75432			s1740201	24	npc_jtgzc_lzy_001	npc_jtgzc_lzy_001	954	954					118499;118503							SubmitNpcEx_75432		title_75432	context_75432	accept_75432_1;menu_75432_1	complete_75432;submit_75432		target_75432			CanAcceptMenu_75432		CompleteMenu_75432					1	0	3	1	1				47

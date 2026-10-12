@@ -1,0 +1,379 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<object>
+	<randomcreator>
+		<creator No="17ADEEC473F64CDBAAD8B9FF95E7FBD9" x="-75.385" y="15.952" z="-70.512" radius="5.0" WakeupRange="10.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="72755" TaskSubType="1" HateLink="1">
+			<item No="1" id="spynpcyd_xl" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="刺探NPC">
+				<position x="-77.654" z="-71.943" ay="-1"/>
+				<position x="-72.718" z="-71.037" ay="-1"/>
+				<position x="-75.170" z="-68.115" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="7CB9A6EB5FC9403284C7D6A964BFF490" x="-22.259" y="10.268" z="29.399" radius="5.0" WakeupRange="10.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="72758" TaskSubType="2" HateLink="1">
+			<item No="1" id="lootnpcyd_hs" ay="-1" amount="1" refreshtime="10" NotPositive="0" desc="夺书NPC"/>
+		</creator>
+		<creator No="D6B7526AA33B47F99652C0AD0E6BD9EB" x="-165.011" y="12.120" z="200.188" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="5.0" HateLink="1">
+			<item No="1" id="monm769007" ay="-1" amount="3" refreshtime="5" desc="昆仑怪客">
+				<position x="-163.981" z="202.949" ay="-1"/>
+				<position x="-167.398" z="202.425" ay="-1"/>
+				<position x="-167.856" z="198.775" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="3B801B2C2387454C80E58AD9437959B6" x="-179.510" y="13.353" z="185.141" radius="7.7" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+			<item No="1" id="monm769007" ay="2.489" amount="5" refreshtime="5" desc="昆仑怪客">
+				<position x="-178.153" z="189.916" ay="2.489"/>
+				<position x="-181.896" z="187.378" ay="2.294"/>
+				<position x="-182.355" z="183.728" ay="1.313"/>
+				<position x="-176.215" z="185.659" ay="4.725"/>
+				<position x="-179.718" z="182.497" ay="0.106"/>
+			</item>
+		</creator>
+		<creator No="1B67413D88624363B0E40B1DD297DE87" x="-164.499" y="11.781" z="187.779" radius="3.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+			<item No="1" id="monm769007" ay="-1" amount="2" refreshtime="5" desc="昆仑怪客">
+				<position x="-164.251" z="186.870" ay="-1"/>
+				<position x="-165.333" z="186.482" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="5F03FF36274348FCB423ACDF4850F357" x="-176.057" y="12.233" z="167.662" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="5.0" HateLink="1">
+			<item No="1" id="monm769007" ay="-1" amount="3" refreshtime="5" desc="昆仑怪客">
+				<position x="-175.027" z="170.424" ay="-1"/>
+				<position x="-178.444" z="169.900" ay="-1"/>
+				<position x="-178.902" z="166.249" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="2D2780B67BAB41B1BDB52B17FA6A033D" x="-191.871" y="14.787" z="169.831" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+			<item No="1" id="monm769007" ay="-1" amount="4" refreshtime="5" desc="昆仑怪客">
+				<position x="-190.841" z="172.592" ay="-1"/>
+				<position x="-194.258" z="172.069" ay="-1"/>
+				<position x="-194.716" z="168.418" ay="-1"/>
+				<position x="-189.426" z="170.035" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="690BA8E96DDE4A58955237B46EC134B3" x="-186.263" y="12.233" z="151.606" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="5.0" HateLink="1">
+			<item No="1" id="monm769007" ay="2.350" amount="3" refreshtime="5" desc="昆仑怪客">
+				<position x="-184.936" z="151.593" ay="2.350"/>
+				<position x="-187.480" z="151.214" ay="2.092"/>
+				<position x="-187.310" z="148.806" ay="1.968"/>
+			</item>
+		</creator>
+		<creator No="97BE739B136748A6B8E7647BD6A1C059" x="-205.929" y="16.209" z="160.071" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+			<item No="1" id="monm769007" ay="3.399" amount="4" refreshtime="5" desc="昆仑怪客">
+				<position x="-204.899" z="162.833" ay="3.399"/>
+				<position x="-208.316" z="162.309" ay="2.345"/>
+				<position x="-204.062" z="158.769" ay="5.954"/>
+				<position x="-203.171" z="159.622" ay="3.946"/>
+			</item>
+		</creator>
+		<creator No="1CE7EC8EE34D4DFE92C1F37060C326FD" x="-203.459" y="14.759" z="145.807" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="5.0" HateLink="1">
+			<item No="1" id="monm769007" ay="-1" amount="2" refreshtime="5" desc="昆仑怪客">
+				<position x="-202.429" z="148.568" ay="-1"/>
+				<position x="-205.846" z="148.044" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="530D3288D13248B1A17B59A3E289F538" x="-220.252" y="9.182" z="129.475" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+			<item No="1" id="monm769007" ay="4.089" amount="3" refreshtime="5" desc="昆仑怪客">
+				<position x="-219.979" z="133.595" ay="4.089"/>
+				<position x="-220.038" z="132.153" ay="0.018"/>
+				<position x="-221.280" z="132.690" ay="0.803"/>
+			</item>
+		</creator>
+		<creator No="820C55AF08764A149B1768CA3377D6C2" x="-208.360" y="9.367" z="128.274" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="5.0" HateLink="1">
+			<item No="1" id="monm769007" ay="-1" amount="2" refreshtime="5" desc="昆仑怪客">
+				<position x="-210.747" z="130.512" ay="-1"/>
+				<position x="-211.205" z="126.861" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="A220DCCB4D224BACA39D61BEF879689C" x="-225.774" y="8.908" z="119.625" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+			<item No="1" id="monm769007" ay="3.841" amount="2" refreshtime="5" desc="昆仑怪客">
+				<position x="-227.753" z="120.578" ay="3.841"/>
+				<position x="-228.217" z="119.693" ay="5.820"/>
+			</item>
+		</creator>
+		<creator No="65B0A8FD7385494ABBBA2BAEBE865857" x="-202.621" y="8.903" z="191.980" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="5.0" HateLink="1">
+			<item No="1" id="monm769007" ay="-1" amount="4" refreshtime="5" desc="昆仑怪客">
+				<position x="-201.591" z="194.741" ay="-1"/>
+				<position x="-205.008" z="194.218" ay="-1"/>
+				<position x="-205.466" z="190.567" ay="-1"/>
+				<position x="-201.825" z="189.915" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="71A931A2C4274EBABE8F2B456CFDD67C" x="-58.829" y="10.147" z="241.239" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="5.0" HateLink="1">
+			<item No="1" id="monm769008" ay="-1" amount="3" refreshtime="5" desc="雪峰怪侠">
+				<position x="-57.799" z="244.001" ay="-1"/>
+				<position x="-61.215" z="243.477" ay="-1"/>
+				<position x="-61.674" z="239.826" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="D260D432B87A4CB5B1C7873CF73427D0" x="-77.581" y="10.434" z="226.112" radius="3.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="3.0" HateLink="1">
+			<item No="1" id="monm769008" ay="-1" amount="3" refreshtime="5" desc="雪峰怪侠">
+				<position x="-76.421" z="227.225" ay="-1"/>
+				<position x="-79.040" z="227.109" ay="-1"/>
+				<position x="-77.862" z="224.683" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="4169C4F420C843BAB5D48F918EF33435" x="-55.592" y="10.605" z="218.254" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="8.0" HateLink="1">
+			<item No="1" id="monm769008" ay="-1" amount="3" refreshtime="5" desc="雪峰怪侠">
+				<position x="-54.562" z="221.015" ay="-1"/>
+				<position x="-57.978" z="220.491" ay="-1"/>
+				<position x="-58.437" z="216.841" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="8FFF4542A35E4684AABD069111019F21" x="-36.638" y="13.192" z="258.005" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+			<item No="1" id="monm769008" ay="0.395" amount="3" refreshtime="5" desc="雪峰怪侠">
+				<position x="-37.088" z="257.020" ay="0.395"/>
+				<position x="-39.376" z="259.705" ay="0.496"/>
+				<position x="-34.402" z="254.786" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="6D38E9EC87364E8482986B2BFAA9C665" x="-51.768" y="13.158" z="262.674" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="5.0" HateLink="1">
+			<item No="1" id="monm769008" ay="-1" amount="3" refreshtime="5" desc="雪峰怪侠">
+				<position x="-50.738" z="265.436" ay="-1"/>
+				<position x="-54.155" z="264.912" ay="-1"/>
+				<position x="-54.613" z="261.261" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="056CB04D7B294529B9CF83B866D2D09A" x="-16.777" y="13.889" z="253.648" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="5.0" HateLink="1">
+			<item No="1" id="monm769008" ay="-1" amount="3" refreshtime="5" desc="雪峰怪侠">
+				<position x="-15.747" z="256.410" ay="-1"/>
+				<position x="-19.164" z="255.886" ay="-1"/>
+				<position x="-19.622" z="252.235" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="FB7A8B6069234B1EB26D8288B62AD960" x="-74.737" y="10.048" z="254.596" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="5.0" HateLink="1">
+			<item No="1" id="monm769008" ay="-1" amount="3" refreshtime="5" desc="雪峰怪侠">
+				<position x="-73.707" z="257.357" ay="-1"/>
+				<position x="-77.124" z="256.833" ay="-1"/>
+				<position x="-77.582" z="253.183" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="484DDDB7D98F4B328D29E80C4DBF4D20" x="-88.038" y="10.358" z="241.328" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="5.0" HateLink="1">
+			<item No="1" id="monm769008" ay="-1" amount="3" refreshtime="5" desc="雪峰怪侠">
+				<position x="-87.008" z="244.090" ay="-1"/>
+				<position x="-90.425" z="243.566" ay="-1"/>
+				<position x="-90.883" z="239.915" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="33EDBB5083244818B497F3C6F59AF69E" x="-43.771" y="10.478" z="234.745" radius="8.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+			<item No="1" id="monm769008" ay="3.654" amount="5" refreshtime="5" desc="雪峰怪侠">
+				<position x="-41.332" z="240.354" ay="3.654"/>
+				<position x="-44.218" z="236.775" ay="0.553"/>
+				<position x="-45.621" z="237.596" ay="0.901"/>
+				<position x="-42.798" z="236.013" ay="0.673"/>
+				<position x="-41.361" z="235.262" ay="0.360"/>
+			</item>
+		</creator>
+		<creator No="3F70B0236EC44056BC0D2908ADA634B1" x="-8.288" y="17.089" z="224.349" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+			<item No="1" id="monm769008" ay="0.935" amount="3" refreshtime="5" desc="雪峰怪侠">
+				<position x="-12.617" z="229.669" ay="0.935"/>
+				<position x="-9.988" z="222.961" ay="1.572"/>
+				<position x="-6.111" z="217.782" ay="1.041"/>
+			</item>
+		</creator>
+		<creator No="882C17CDBFF2431BB1AD3F9D132D43B0" x="-17.312" y="14.601" z="201.393" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="5.0" HateLink="1">
+			<item No="1" id="monm769008" ay="-1" amount="3" refreshtime="5" desc="雪峰怪侠">
+				<position x="-16.282" z="204.155" ay="-1"/>
+				<position x="-19.698" z="203.631" ay="-1"/>
+				<position x="-20.157" z="199.980" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="60834826A4B3407DBD0A7A5FE3D08179" x="-25.306" y="12.316" z="216.594" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+			<item No="1" id="monm769008" ay="5.730" amount="5" refreshtime="5" desc="雪峰怪侠">
+				<position x="-25.153" z="218.878" ay="5.730"/>
+				<position x="-26.488" z="217.753" ay="5.310"/>
+				<position x="-26.673" z="215.814" ay="4.379"/>
+				<position x="-25.492" z="214.224" ay="3.561"/>
+				<position x="-23.384" z="214.268" ay="2.203"/>
+			</item>
+		</creator>
+		<creator No="BE3A83AEDE8B41168A07F4E41E290AEC" x="-43.272" y="11.080" z="203.457" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="monm769008" ay="-1" amount="3" refreshtime="5" desc="雪峰怪侠">
+				<position x="-42.242" z="206.218" ay="-1"/>
+				<position x="-45.659" z="205.694" ay="-1"/>
+				<position x="-46.117" z="202.044" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="1C44CDD330E149E0BA90A8A4311ED536" x="-5.633" y="15.318" z="189.166" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="5.0" HateLink="1">
+			<item No="1" id="monm769008" ay="-1" amount="3" refreshtime="5" desc="雪峰怪侠">
+				<position x="-4.603" z="191.928" ay="-1"/>
+				<position x="-8.020" z="191.404" ay="-1"/>
+				<position x="-8.478" z="187.753" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="F51C8494CB68423D8831C4DCD88E4592" x="-6.401" y="13.186" z="175.816" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="5.0" HateLink="1">
+			<item No="1" id="monm769008" ay="-1" amount="3" refreshtime="5" desc="雪峰怪侠">
+				<position x="-5.371" z="178.578" ay="-1"/>
+				<position x="-8.787" z="178.054" ay="-1"/>
+				<position x="-9.246" z="174.404" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="9F91BAD198EA478E866BFE663248DC01" x="-29.409" y="10.716" z="190.776" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="8.0" HateLink="1">
+			<item No="1" id="monm769008" ay="-1" amount="3" refreshtime="5" desc="雪峰怪侠">
+				<position x="-28.379" z="193.538" ay="-1"/>
+				<position x="-31.795" z="193.014" ay="-1"/>
+				<position x="-32.254" z="189.364" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="2C12B999CC2F4F4DA87ADBDC549A23CB" x="-1.198" y="15.491" z="241.577" radius="8.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+			<item No="1" id="monm769008" ay="1.190" amount="3" refreshtime="5" desc="雪峰怪侠">
+				<position x="0.697" z="236.468" ay="1.190"/>
+				<position x="-6.165" z="244.653" ay="1.250"/>
+				<position x="-3.244" z="239.852" ay="1.381"/>
+			</item>
+		</creator>
+		<creator No="003E54B397574573B4BF610CDE21F0DF" x="26.313" y="15.101" z="249.817" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+			<item No="1" id="monm769009" ay="3.543" amount="8" refreshtime="5" desc="疯癫山民">
+				<position x="27.343" z="252.579" ay="3.543"/>
+				<position x="24.003" z="250.458" ay="1.835"/>
+				<position x="23.468" z="248.405" ay="1.172"/>
+				<position x="25.609" z="246.405" ay="0.200"/>
+				<position x="29.310" z="247.542" ay="5.417"/>
+				<position x="24.621" z="246.776" ay="0.579"/>
+				<position x="27.985" z="246.818" ay="5.870"/>
+				<position x="29.238" z="251.413" ay="4.099"/>
+			</item>
+		</creator>
+		<creator No="6AFA8F4944D349E49EED2ED11A55D1AE" x="37.360" y="16.088" z="248.716" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="5.0" HateLink="1">
+			<item No="1" id="monm769009" ay="-1" amount="3" refreshtime="5" desc="疯癫山民">
+				<position x="38.390" z="251.477" ay="-1"/>
+				<position x="34.973" z="250.953" ay="-1"/>
+				<position x="34.515" z="247.303" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="98A6B468536145898F3FE3CA4B77C9C1" x="25.762" y="17.058" z="236.548" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+			<item No="1" id="monm769009" ay="3.607" amount="5" refreshtime="5" desc="疯癫山民">
+				<position x="26.701" z="238.399" ay="3.607"/>
+				<position x="23.917" z="238.036" ay="2.190"/>
+				<position x="23.840" z="235.739" ay="1.185"/>
+				<position x="27.358" z="235.693" ay="5.073"/>
+				<position x="24.615" z="235.087" ay="0.655"/>
+			</item>
+		</creator>
+		<creator No="2EE263DBE81E4B1DAEBA3C58DFB7944B" x="12.024" y="13.620" z="263.429" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="5.0" HateLink="1">
+			<item No="1" id="monm769009" ay="-1" amount="3" refreshtime="5" desc="疯癫山民">
+				<position x="13.054" z="266.190" ay="-1"/>
+				<position x="9.637" z="265.666" ay="-1"/>
+				<position x="9.179" z="262.016" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="A331A43AF10D4CD1A622F146107FE114" x="37.931" y="18.553" z="236.472" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="5.0" HateLink="1">
+			<item No="1" id="monm769009" ay="-1" amount="3" refreshtime="5" desc="疯癫山民">
+				<position x="38.961" z="239.234" ay="-1"/>
+				<position x="35.545" z="238.710" ay="-1"/>
+				<position x="35.086" z="235.060" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="D446914C2FCB43D0BBBAD6E68C55C13D" x="20.622" y="17.554" z="230.481" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="5.0" HateLink="1">
+			<item No="1" id="monm769009" ay="-1" amount="3" refreshtime="5" desc="疯癫山民">
+				<position x="18.235" z="232.719" ay="-1"/>
+				<position x="17.777" z="229.068" ay="-1"/>
+				<position x="22.264" z="228.103" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="26FA4CD5B7514DB282E8666D311FA326" x="18.336" y="17.965" z="187.850" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+			<item No="1" id="monm769009" ay="-1" amount="3" refreshtime="5" desc="疯癫山民">
+				<position x="19.366" z="190.612" ay="-1"/>
+				<position x="15.949" z="190.088" ay="-1"/>
+				<position x="15.491" z="186.437" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="A79E251F9BB94566AF7BBD9A7D047E97" x="32.809" y="19.637" z="220.445" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+			<item No="1" id="monm769009" ay="4.718" amount="6" refreshtime="5" desc="疯癫山民">
+				<position x="35.755" z="220.560" ay="4.718"/>
+				<position x="32.510" z="222.824" ay="4.404"/>
+				<position x="30.408" z="222.526" ay="2.787"/>
+				<position x="31.864" z="216.803" ay="0.309"/>
+				<position x="29.350" z="220.833" ay="1.544"/>
+				<position x="30.685" z="217.746" ay="0.802"/>
+			</item>
+		</creator>
+		<creator No="C29E86026BFE446DBDBB1C7FEB66756A" x="-125.772" y="10.030" z="220.915" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="75703" TaskSubType="1" HateLink="1">
+			<item No="1" id="hurntnpc_klzyb_002" ay="-1" amount="5" refreshtime="5" NotPositive="0" desc="谢若宁小弟">
+				<position x="-123.439" z="220.429" ay="-1"/>
+				<position x="-125.024" z="220.501" ay="-1"/>
+				<position x="-126.029" z="221.415" ay="-1"/>
+				<position x="-127.520" z="220.260" ay="-1"/>
+				<position x="-124.520" z="222.107" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="858EB46555EF459E8BA6D5B65CC99698" x="-133.268" y="9.964" z="218.523" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="75703" TaskSubType="1" HateLink="1">
+			<item No="1" id="hurntnpc_klzyb_002" ay="-1" amount="5" refreshtime="5" NotPositive="0" desc="谢若宁小弟">
+				<position x="-130.935" z="218.037" ay="-1"/>
+				<position x="-132.520" z="218.109" ay="-1"/>
+				<position x="-133.525" z="219.023" ay="-1"/>
+				<position x="-135.016" z="217.868" ay="-1"/>
+				<position x="-132.016" z="219.715" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="9DF0FC12F66B4E42BF50FA2ECF7EAE1E" x="-116.875" y="10.200" z="218.646" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="75703" TaskSubType="1" HateLink="1">
+			<item No="1" id="hurntnpc_klzyb_002" ay="-1" amount="5" refreshtime="5" NotPositive="0" desc="谢若宁小弟">
+				<position x="-114.542" z="218.160" ay="-1"/>
+				<position x="-116.127" z="218.232" ay="-1"/>
+				<position x="-117.132" z="219.146" ay="-1"/>
+				<position x="-118.623" z="217.991" ay="-1"/>
+				<position x="-115.623" z="219.838" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="EF293C51A57947D1B014CB1A4D3455C9" x="-116.548" y="10.094" z="225.790" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="75703" TaskSubType="1" HateLink="1">
+			<item No="1" id="hurntnpc_klzyb_002" ay="-1" amount="5" refreshtime="5" NotPositive="0" desc="谢若宁小弟">
+				<position x="-114.215" z="225.305" ay="-1"/>
+				<position x="-115.800" z="225.377" ay="-1"/>
+				<position x="-116.806" z="226.290" ay="-1"/>
+				<position x="-118.296" z="225.136" ay="-1"/>
+				<position x="-115.296" z="226.983" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="2D844E043B7646D5AF84DC2CEA9F32D3" x="-128.233" y="9.985" z="227.259" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="75703" TaskSubType="1" HateLink="1">
+			<item No="1" id="hurntnpc_klzyb_002" ay="-1" amount="5" refreshtime="5" NotPositive="0" desc="谢若宁小弟">
+				<position x="-125.900" z="226.773" ay="-1"/>
+				<position x="-127.485" z="226.845" ay="-1"/>
+				<position x="-128.490" z="227.759" ay="-1"/>
+				<position x="-129.981" z="226.604" ay="-1"/>
+				<position x="-126.981" z="228.451" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="57E0B9C90CAD4AC18982811F23966D6D" x="-122.161" y="10.013" z="214.789" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="75702" TaskSubType="1" HateLink="1">
+			<item No="1" id="hurntnpc_klzyb_001" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="谢若宁小弟"/>
+		</creator>
+		<creator No="C1613E758A3946E992ED418D8CB81C0D" x="-129.641" y="9.995" z="213.085" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="75702" TaskSubType="1" HateLink="1">
+			<item No="1" id="hurntnpc_klzyb_001" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="谢若宁小弟"/>
+		</creator>
+		<creator No="74691063AE8E4BCDACA7996B9A270360" x="-138.307" y="9.939" z="213.104" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="75702" TaskSubType="1" HateLink="1">
+			<item No="1" id="hurntnpc_klzyb_001" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="谢若宁小弟"/>
+		</creator>
+		<creator No="1E9A2A3C3F904C7D97055C8A5BEB5D26" x="-118.479" y="10.002" z="226.521" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="75702" TaskSubType="1" HateLink="1">
+			<item No="1" id="hurntnpc_klzyb_001" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="谢若宁小弟"/>
+		</creator>
+		<creator No="B04380FAC0A84D0EB78BF380CDEA1C76" x="-129.429" y="9.922" z="225.405" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="75702" TaskSubType="1" HateLink="1">
+			<item No="1" id="hurntnpc_klzyb_001" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="谢若宁小弟"/>
+		</creator>
+		<creator No="3EE1D8A1466E467B86AFD6FC518FC47D" x="-117.481" y="10.122" z="219.581" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="75702" TaskSubType="1" HateLink="1">
+			<item No="1" id="hurntnpc_klzyb_001" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="谢若宁小弟"/>
+		</creator>
+		<creator No="41218C284C624508BDC421C300FF72E3" x="-311.960" y="10.000" z="180.702" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="75705" TaskSubType="1" HateLink="1">
+			<item No="1" id="hurntnpc_klzyb_003" ay="-1" amount="5" refreshtime="5" NotPositive="0" desc="黑衣杀手">
+				<position x="-313.070" z="178.766" ay="-1"/>
+				<position x="-312.232" z="182.671" ay="-1"/>
+				<position x="-308.900" z="181.141" ay="-1"/>
+				<position x="-310.391" z="178.535" ay="-1"/>
+				<position x="-308.659" z="178.956" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="2B5844036B834DA395A1536DCB7B8254" x="-306.829" y="10.000" z="170.083" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="75705" TaskSubType="1" HateLink="1">
+			<item No="1" id="hurntnpc_klzyb_003" ay="-1" amount="5" refreshtime="5" NotPositive="0" desc="黑衣杀手">
+				<position x="-307.939" z="168.147" ay="-1"/>
+				<position x="-307.102" z="172.052" ay="-1"/>
+				<position x="-303.769" z="170.522" ay="-1"/>
+				<position x="-305.260" z="167.916" ay="-1"/>
+				<position x="-303.529" z="168.337" ay="-1"/>
+			</item>
+		</creator>
+		<creator No="1D605690B89649678F7E92A7E8446F60" x="-303.983" y="9.990" z="184.874" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="75705" TaskSubType="1" HateLink="1">
+			<item No="1" id="hurntnpc_klzyb_003" ay="-1" amount="5" refreshtime="5" NotPositive="0" desc="黑衣杀手">
+				<position x="-305.094" z="182.938" ay="-1"/>
+				<position x="-304.256" z="186.843" ay="-1"/>
+				<position x="-300.924" z="185.314" ay="-1"/>
+				<position x="-302.414" z="182.707" ay="-1"/>
+				<position x="-300.683" z="183.128" ay="-1"/>
+			</item>
+		</creator>
+	</randomcreator>
+</object>

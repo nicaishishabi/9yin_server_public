@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="657716B594B24D3DAD09CEEBA872DD26" x="-429.705" y="31.819" z="1919.733" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="74107" TaskSubType="1" HateLink="1" SubSceneNo="9323">
+            <item No="1" id="npc_2304_dy_001" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="打手甲">
+                <position x="-431.031" z="1917.341" ay="-1" />
+                <position x="-430.821" z="1921.770" ay="-1" />
+                <position x="-428.135" z="1919.077" ay="-1" />
+            </item>
+        </creator>
+        <creator No="26F0C054E66D41588953166570B85B65" x="-432.374" y="33.643" z="2048.682" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="74108" TaskSubType="1" HateLink="1" SubSceneNo="9323">
+            <item No="1" id="npc_2304_dy_002" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="打手乙">
+                <position x="-434.430" z="2050.585" ay="-1" />
+                <position x="-433.739" z="2046.321" ay="-1" />
+                <position x="-429.580" z="2049.196" ay="-1" />
+            </item>
+        </creator>
+        <creator No="CF36EAAE7D36413ABBCA6D1AF07BAFB4" x="-385.166" y="31.025" z="2048.316" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="74109" TaskSubType="1" HateLink="1" SubSceneNo="9323">
+            <item No="1" id="npc_2304_dy_003" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="打手丙">
+                <position x="-385.726" z="2051.240" ay="-1" />
+                <position x="-387.236" z="2048.108" ay="-1" />
+                <position x="-382.518" z="2046.388" ay="-1" />
+            </item>
+        </creator>
+        <creator No="26F0C054E66D41588953166570B85B65" x="482.125" y="11.388" z="1066.140" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="74126" TaskSubType="1" HateLink="1" SubSceneNo="9323">
+            <item No="1" id="npc_2304_dy_007" ay="-1" amount="2" refreshtime="5" NotPositive="0" desc="打手乙">
+                <position x="482.125" z="1066.140" ay="-1" />
+                <position x="482.125" z="1066.140" ay="-1" />
+            </item>
+        </creator>
+        <creator No="26F0C054E66D41588953166570B85B65" x="482.185" y="11.388" z="1057.200" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="74127" TaskSubType="1" HateLink="1" SubSceneNo="9323">
+            <item No="1" id="npc_2304_dy_008" ay="-1" amount="2" refreshtime="5" NotPositive="0" desc="打手乙">
+                <position x="482.185" z="1057.200" ay="-1" />
+                <position x="482.185" z="1057.200" ay="-1" />
+            </item>
+        </creator>
+        <creator No="26F0C054E66D41588953166570B85B65" x="478.809" y="11.388" z="1061.548" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="74128" TaskSubType="1" HateLink="1" SubSceneNo="9323">
+            <item No="1" id="npc_2304_dy_009" ay="-1" amount="2" refreshtime="5" NotPositive="0" desc="打手乙">
+                <position x="478.809" z="1061.548" ay="-1" />
+                <position x="478.600" z="1061.561" ay="-1" />
+            </item>
+        </creator>
+        <creator No="26F0C054E66D41588953166570B85B65" x="-1352.739" y="-6.436" z="1896.827" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="74123" TaskSubType="1" HateLink="1" SubSceneNo="9323">
+            <item No="1" id="npc_2304_dy_010" ay="-1" amount="2" refreshtime="5" NotPositive="0" desc="打手乙">
+                <position x="-1352.739" z="1896.827" ay="-1" />
+                <position x="-1354.155" z="1894.230" ay="-1" />
+            </item>
+        </creator>
+        <creator No="26F0C054E66D41588953166570B85B65" x="-1341.341" y="-6.310" z="1905.703" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="74124" TaskSubType="1" HateLink="1" SubSceneNo="9323">
+            <item No="1" id="npc_2304_dy_011" ay="-1" amount="2" refreshtime="5" NotPositive="0" desc="打手乙">
+                <position x="-1341.341" z="1905.703" ay="-1" />
+                <position x="-1341.341" z="1905.703" ay="-1" />
+            </item>
+        </creator>
+        <creator No="26F0C054E66D41588953166570B85B65" x="-1350.427" y="-6.398" z="1862.117" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="74125" TaskSubType="1" HateLink="1" SubSceneNo="9323">
+            <item No="1" id="npc_2304_dy_012" ay="-1" amount="2" refreshtime="5" NotPositive="0" desc="打手乙">
+                <position x="-1350.427" z="1862.117" ay="-1" />
+                <position x="-1350.427" z="1862.117" ay="-1" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="C579A48AED724CECB471559C0F51FDC9" x="-401.819" y="356.423" z="-428.514" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="15257" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_gmp_014" ay="-1" amount="6" refreshtime="5" NotPositive="0" desc="酒坛">
+                <position x="-399.780" z="-425.004" ay="-1" />
+                <position x="-400.952" z="-424.948" ay="-1" />
+                <position x="-401.812" z="-424.381" ay="-1" />
+                <position x="-397.615" z="-427.856" ay="-1" />
+                <position x="-397.913" z="-429.115" ay="-1" />
+                <position x="-399.072" z="-426.516" ay="-1" />
+            </item>
+        </creator>
+        <creator No="81412D109FBA43E99E4EF6D01C7D265B" x="-430.547" y="356.423" z="-358.835" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="15258" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_gmp_015" ay="-1" amount="6" refreshtime="5" NotPositive="0" desc="蜜坛">
+                <position x="-430.954" z="-356.174" ay="-1" />
+                <position x="-431.336" z="-356.955" ay="-1" />
+                <position x="-430.196" z="-355.649" ay="-1" />
+                <position x="-432.349" z="-356.804" ay="-1" />
+                <position x="-430.376" z="-356.932" ay="-1" />
+                <position x="-431.819" z="-355.538" ay="-1" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

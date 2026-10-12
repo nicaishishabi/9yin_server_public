@@ -1,0 +1,241 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	NpcId	Count	RefreshMonster	TrackInfo	SceneID	HideAccept	IsNeedCreator	IsQieCuo	QiecuoTitle	QiecuoMenu	TaskID	ActionID
+4001	monv040100	3		hunterinfo_4001	1						24013	
+4004	monv040200	2		hunterinfo_4004	1						24026	
+4005	monv040200	3		hunterinfo_4005	1						24036	
+4014	monv042300	6		hunterinfo_4014	1						24072	
+4023	monf040400	6		hunterinfo_4023_1	21						24105	
+4024	bossf040100	1		hunterinfo_4024_2	21						24105	
+4026	monf041100	6		hunterinfo_4026	21						24115	
+4027	monf041200	6		hunterinfo_4027	21						24116	
+4028	monf041400	4		hunterinfo_4028_1	21						24119	
+4029	bossf040200	1		hunterinfo_4029_2	21						24119	
+4031	monf042100	6		hunterinfo_4031	21						24122	
+4032	monf042300	5		hunterinfo_4032_1	21						24132	
+4033	monf042400	5		hunterinfo_4033_2	21						24132	
+4035	WorldNpc06010	1		hunterinfo_4035	21			1	QiecuoTitle_4035	QiecuoMenu_4035	24136	
+4036	monf042600	6		hunterinfo_4036_1	21						24141	
+4037	bossf040400	1		hunter24141_2	21							
+4043	monf051200	5		hunterinfo_4043	22						24170	
+4044	monrf051000	1		hunterinfo_4044	22		1				24176	
+4045	bossf050100	1		hunterinfo_4045	22						24178	
+4047	monf051700	6		hunterinfo_4047	22							
+4048	monf051400	8		hunterinfo_4048	22						24190	
+4049	WorldNpc09804	1		hunterinfo_4049	17			1	QiecuoTitle_4049	QiecuoMenu_4049	24200	
+4050	monrc050300	1		hunterinfo_4050	17							
+4051	monrc050400	1		hunterinfo_4051	17							
+4052	WorldNpc09803	1		hunterinfo_4052	17			1	QiecuoTitle_4052	QiecuoMenu_4052	24209	
+4055	monrc050900	1		hunterinfo_4055_1	17		1				24214	
+4056	monrc051000	1		hunterinfo_4056_2	17		1				24214	
+4057	monrc051100	1		hunterinfo_4057_3	17		1				24214	
+4058	WorldNpc09806	1		hunterinfo_4058_1	17			1	QiecuoTitle_4058	QiecuoMenu_4058	24220	
+4059	monrc050900	1	1023;1024;1025;1026	hunter24223_1	17							
+4060	monrc051000	1		hunter24223_2	17							
+4061	monrc051100	1		hunter24223_3	17							
+4062	monrc051200	1		hunter24223_4	17							
+4063	WorldNpc09601	1		hunterinfo_4063	17			1	QiecuoTitle_4063	QiecuoMenu_4063	24226	
+4064	WorldNpc09813	1		hunterinfo_4064	17			1	QiecuoTitle_4064	QiecuoMenu_4064	24231	
+4065	WorldNpc09611	1		hunterinfo_4065	17			1	QiecuoTitle_4065	QiecuoMenu_4065	24238	
+4071	WorldNpc09616	1		hunterinfo_4071	17			1	QiecuoTitle_4071	QiecuoMenu_4071	24279	
+4072	bossc050100	1		hunterinfo_4072	17						24281	
+4073	monrv041000	1	1044	hunterinfo_4073	1							
+4075	monc033500	6		hunterinfo_4075_2	15							
+4076	WorldNpc08841	1		hunterinfo_4076	13			1	QiecuoTitle_4076	QiecuoMenu_4076	24299	
+4080	monf031300	6		hunterinfo_4080	20						24309	
+4081	monrf032900	4		hunterinfo_4081	20		1				24318	
+4082	monrf033200	6		hunterinfo_4082	20		1				24321	
+4085	monf031300	6		hunterinfo_4085	20							
+4086	bossf030200	1		hunterinfo_4086	20							
+4087	bossf030100	1		hunterinfo_4087	20						24334	
+4088	WorldNpc08408	1		hunterinfo_4088	13			1	QiecuoTitle_4088	QiecuoMenu_4088	24338	
+4090	WorldNpc08834	1		hunterinfo_4090	13			1	QiecuoTitle_4090	QiecuoMenu_4090	24350	
+4091	WorldNpc08519	1		hunterinfo_4091	13			1	QiecuoTitle_4091	QiecuoMenu_4091	24354	
+4092	WorldNpc08840	1		hunterinfo_4092	13			1	QiecuoTitle_4092	QiecuoMenu_4092	24358	
+4095	WorldNpc08860	1		hunterinfo_4095	13			1	QiecuoTitle_4095	QiecuoMenu_4095	24371	
+4097	WorldNpc08838	1		hunterinfo_4097	13			1	QiecuoTitle_4097	QiecuoMenu_4097	24375	
+4101	WorldNpc02640	1		hunterinfo_4101	10			1	QiecuoTitle_4101	QiecuoMenu_4101	24388	
+4105	WorldNpc02912	1		hunterinfo_4105	10			1	QiecuoTitle_4105	QiecuoMenu_4105	24411	
+4106	WorldNpc02915	1		hunterinfo_4106	10			1	QiecuoTitle_4106	QiecuoMenu_4106	24416	
+4107	WorldNpc02691	1		hunterinfo_4107_1	10			1	QiecuoTitle_4107	QiecuoMenu_4107	24422	
+4110	WorldNpc02649	1		hunterinfo_4110	10			1	QiecuoTitle_4110	QiecuoMenu_4110	24427	
+4113	monrm051500	1	1246	hunterinfo_4113_2	9							
+4114	WorldNpc02531	1		hunterinfo_4114	9			1	QiecuoTitle_4114	QiecuoMenu_4114	24457	
+4115	WorldNpc02532	1		hunterinfo_4115	9			1	QiecuoTitle_4115	QiecuoMenu_4115	24458	
+4116	WorldNpc02525	1		hunterinfo_4116	9			1	QiecuoTitle_4116	QiecuoMenu_4116	24438	
+4119	monrm051400	1	1113	hunterinfo_4119	9							
+4120	monrm051500	1	1114	hunterinfo_4120	9							
+4121	monrm051700	1	1115	hunterinfo_4121	9							
+4123	WorldNpc02501	1		hunterinfo_4123_2	9			1	QiecuoTitle_4123	QiecuoMenu_4123	24468	
+4125	monf052200	10		hunter24487	22							
+4126	monrf050900	1	1122	hunter24488	22							
+4127	monf052300	10		hunterinfo_4127	22							
+4129	monrf050600	3	1124;1125;1126	hunterinfo_4129	22							
+4130	monrf050700	1		hunterinfo_4130	22							
+4131	monrf050800	1	1128	hunterinfo_4131	22							
+4132	monrm055300	2	1129;1130	hunterinfo_4132	22							
+4136	monrm058000	1	1138	hunterinfo_4136	9							
+4137	monrm058200	1	1140	hunterinfo_4137	9							
+4138	monrm058300	5	1141;1142;1143;1144;1145	hunterinfo_4138	9							
+4140	monrm058800	4	1155;1156;1157;1158;1159	hunterinfo_4140_1	9							
+4141	monrm058700	1		hunterinfo_4141_2	9							
+4142	monrm058300	5	1163;1164;1165;1166;1167	hunterinfo_4142	9							
+4143	monrm058900	1	1168	hunterinfo_4143	9							
+4145	monrm059000	1		hunterinfo_4145	9		1				24579	
+4146	monrm059200	4		hunterinfo_4146	9							
+4149	monrm059500	1	1182;1183	hunter24601_1	9							
+4150	monrm059600	1		hunter24601_2	9							
+4151	monrm059700	4		hunterinfo_4151	9		1					
+4152	monm053700	15		hunter24609	9							
+4154	monrm059800	5		hunter24610_2	9		1					
+4156	monrm060000	5		hunter24617_2	9							
+4157	monrm071500	1		hunterinfo_4157	17							
+4159	monrv040200	3		hunterinfo_4159	1						24021	
+4160	monrf051300	2		hunterinfo_4160_2	22		1				24162	
+4161	WorldNpc00052	1		hunterinfo_4161	1			1	QiecuoTitle_4161	QiecuoMenu_4161	24247	
+4163	monf030200	5		hunterinfo_4163	20						24317	
+4164	monf031700	6		hunterinfo_4164	20						24332	
+4165	WorldNpc08513	1		hunterinfo_4165_1	13			1	QiecuoTitle_4165	QiecuoMenu_4165	24378	
+4166	WorldNpc06444	1		hunterinfo_4166_1	20			1	QiecuoTitle_4166	QiecuoMenu_4166	24318	
+4179	monrm057700	1		hunterinfo_4179	9		1				24556	
+4181	WorldNpc02545	1		hunterinfo_4181	9			1	QiecuoTitle_4181	QiecuoMenu_4181	24442	
+4184	WorldNpc02449	1		hunter24585	9			1				
+4186	monm053700	6		hunterinfo_4186	9						24613	
+4187	monrm059600	5		hunterinfo_4187	9		1				24619	
+4189	WorldNpc04708	1		hunterinfo_4189	11			1			24629	
+4190	monm074300	6		hunterinfo_4190	11						24631	
+4191	monrm070300	1		hunterinfo_4191	11		1				24634	
+4195	monrm070800	4		hunterinfo_4195	11		1				24666	
+4196	monrm071000	3		hunterinfo_4196	11		1				24677	
+4200	monrm074800	3		hunterinfo_4200	11		1				24715	
+4202	monrc053700	3		hunterinfo_4202	17		1				24722	
+4206	monrc053900	2		hunterinfo_4206	17		1				24729	
+4207	monrm061100	2		hunterinfo_4207	10		1				24736	
+4211	monrm061200	4		hunterinfo_4211	10		1				24760	
+4066	WorldNpc00028	1		hunterinfo_4066	1			1	QiecuoTitle_4066	QiecuoMenu_4066	24245	
+4067	WorldNpc00030	1		hunterinfo_4067	1			1	QiecuoTitle_4067	QiecuoMenu_4067	24249	
+4068	WorldNpc00032	1		hunterinfo_4068	1			1	QiecuoTitle_4068	QiecuoMenu_4068	24256	
+4069	WorldNpc05803	1		hunterinfo_4069	21			1	QiecuoTitle_4069	QiecuoMenu_4069	24266	
+4111	monrm051300	3		hunterinfo_4111	9		1				24437	
+4117	monrm051200	3		hunterinfo_4117	9		1				24439	
+4122	monrm051800	3		hunterinfo_4122_1	9		1				24468	
+4099	monrm063600	2		hunterinfo_4099	10		1				24386	
+4098	monrc021100	3		hunterinfo_4098	13		1				24378	
+4096	monrc020800	1		hunterinfo_4096	13		1				24374	
+4094	monrc020900	1		hunterinfo_4094	13		1				24366	
+4089	monrc020500	3		hunterinfo_4089	13		1				24344	
+4083	monrf033100	3		hunterinfo_4083	20		1				24326	
+4079	monrc021400	3		hunterinfo_4079	20		1				24304	
+4078	monrf030400	1		hunterinfo_4078_2	20		1				24301	
+4077	monrf030300	1		hunterinfo_4077_1	20		1				24301	
+4070	monrv041800	3		hunterinfo_4070	1		1				24272	
+4084	monrf033101	4		hunterinfo_4084	20		1				24328	
+4118	monrm051201	3		hunterinfo_4118	9		1				24447	
+4112	monrm051202	2		hunterinfo_4112_1	9		1				24449	
+4167	monrm051203	3		hunterinfo_4167	9		1				24463	
+4104	monrm061601	3		hunterinfo_4104	10		1				24409	
+4102	monrm063601	3		hunterinfo_4102	10		1				24400	
+4169	WorldNpc06128	1		hunterinfo_4169	22			1	QiecuoTitle_4169	QiecuoMenu_4169	24481	
+4171	monrf050800	1		hunterinfo_4171	22		1				24489	
+4183	WorldNpc02444	1		hunterinfo_4183	9			1	QiecuoTitle_4183	QiecuoMenu_4183	24569	
+4193	WorldNpc04810	1		hunterinfo_4193	11			1	QiecuoTitle_4193	QiecuoMenu_4193	24662	
+4194	WorldNpc04809	1		hunterinfo_4194	11			1	QiecuoTitle_4194	QiecuoMenu_4194	24664	
+4197	WorldNpc04428	1		hunterinfo_4197	11			1	QiecuoTitle_4197	QiecuoMenu_4197	24687	
+4198	WorldNpc04429	1		hunterinfo_4198	11			1	QiecuoTitle_4198	QiecuoMenu_4198	24698	
+4204	monrc053800	3		hunterinfo_4204	17		1				24724	
+4208	WorldNpc02709	1		hunterinfo_4208	10			1	QiecuoTitle_4208	QiecuoMenu_4208	24740	
+4210	WorldNpc02711	1		hunterinfo_4210	10			1	QiecuoTitle_4210	QiecuoMenu_4210	24749	
+4212	WorldNpc02713	1		hunterinfo_4212	10			1	QiecuoTitle_4212	QiecuoMenu_4212	24762	
+4215												
+4170	monrf051500	2		hunterinfo_4170	22		1				24489	
+4176	monrm057800	3		hunterinfo_4176	9		1				24542	
+4182	WorldNpc02477	1		hunterinfo_4182	9			1	QiecuoTitle_4182	QiecuoMenu_4182	24560	
+4188	monm074100	6		hunterinfo_4188	11		1				24626	
+4139	monrm069900	3		hunterinfo_4139	9		1				24560	
+4203	WorldNpc09603	1		hunterinfo_4203	17			1	QiecuoTitle_4203	QiecuoMenu_4203	24724	
+4173	WorldNpc06128	1		hunterinfo_4173	22			1	QiecuoTitle_4173	QiecuoMenu_4173	24507	
+4174	WorldNpc06184	1		hunterinfo_4174	22			1	QiecuoTitle_4174	QiecuoMenu_4174	24518	
+4175	WorldNpc02269	1		hunterinfo_4175	9			1	QiecuoTitle_4175	QiecuoMenu_4175	24522	
+4133	WorldNpc02427	1		hunterinfo_4133	9			1	QiecuoTitle_4133	QiecuoMenu_4133	24529	
+4213	WorldNpc00033	1		hunterinfo_4213	1			1	QiecuoTitle_4213	QiecuoMenu_4213	24262	
+4214	WorldNpc05804	1		hunterinfo_4214	21			1	QiecuoTitle_4214	QiecuoMenu_4214	24268	
+4172	monrf051601	4		hunterinfo_4172	22		1				24498	
+4144	WorldNpc02445	1		hunterinfo_4144	9			1	QiecuoTitle_4144	QiecuoMenu_4144	24577	
+4147	WorldNpc02451	1		hunterinfo_4147	9			1	QiecuoTitle_4147	QiecuoMenu_4147	24597	
+4148	WorldNpc02450	1		hunterinfo_4148	9			1	QiecuoTitle_4148	QiecuoMenu_4148	24599	
+4185	WorldNpc02478	1		hunterinfo_4185	9			1	QiecuoTitle_4185	QiecuoMenu_4185	24602	
+4155	WorldNpc02455	1		hunterinfo_4155	9			1	QiecuoTitle_4155	QiecuoMenu_4155	24615	
+4153	monrm070000	5		hunterinfo_4153	9		1				24608	
+4192	WorldNpc04805	1		hunterinfo_4192	11			1	QiecuoTitle_4192	QiecuoMenu_4192	24646	
+4209	WorldNpc02710	1		hunterinfo_4209	10			1	QiecuoTitle_4209	QiecuoMenu_4209	24747	
+4046	WorldNpc06119	1		hunterinfo_4046	22		1	1	QiecuoTitle_4046	QiecuoMenu_4046	24183	
+4201	monrm070900	1		hunterinfo_4201	11		1				24719	
+4216	monrv042803	1		hunterinfo_4216	9						24470	
+4199	monrm070901	3		hunterinfo_4199	11		1				24699	
+4025	monf040500	4		hunterinfo_4025	21						24112	
+4041	monf051600	5		hunterinfo_4041	22						24159	
+4002	monrv042400	3		hunterinfo_4002	1						24016	
+4205	monrc053701	3		hunterinfo_4205	17		1				24726	
+4022	monf040200	2		hunterinfo_4022	21						24102	
+4038	monf050100	4		hunterinfo_4038	22						24147	
+4039	monf050201	5		hunterinfo_4039	22						24149	
+4042	monrf053700	3		hunterinfo_4042_1	22						24162	
+4074	monrc025057	3		hunterinfo_4074_1	13						24289	
+4162	monrc025059	3		hunterinfo_4162	13						24296	
+4093	monrc025060	6		hunterinfo_4093	13						24362	
+4100	monrm067706	3		hunterinfo_4100	10						24387	
+4103	monrm061600	3		hunterinfo_4103	10		1				24402	
+4109	monm061600	4		hunterinfo_4109	10						24426	
+4108	monrm062300	2		hunterinfo_4108_2	10		1				24422	
+4168	monrm050029	3		hunterinfo_4168	9						24476	
+4124	monrf053800	3		hunterinfo_4124	22						24484	
+4128	monrf051700	3		hunterinfo_4128	22		1				24502	
+4134	monrm069800	3		hunterinfo_4134	9		1				24531	
+4135	monrm050030	3		hunterinfo_4135	9						24543	
+4177	monrm058200	3		hunterinfo_4177	9		1				24548	
+4178	monrm050031	3		hunterinfo_4178	9						24550	
+4180	monrm058300	3		hunterinfo_4180	9		1				24558	
+4030	monrf040700	3		hunterinfo_4030	21		1				24121	
+4007	monrv042808	2		hunterinfo_4007	1						24041	
+4040	monrf053900	3		hunterinfo_4040	22						24154	
+4053	monc051100	4		hunterinfo_4053	17						24210	
+4217	monrv042810	3		hunterinfo_4217	1						24046	
+4021	monrf043422	3		hunterinfo_4021	21						24099	
+4034	monrf043423	3		hunterinfo_4034_1	21						24136	
+4218	WorldNpc00010	1		hunterinfo_4218	1			1	QiecuoTitle_4218	QiecuoMenu_4218	24017	
+4008	bosstg02001	1		hunterinfo_4008	1							
+4003	monv041603	3		hunterinfo_4003	1						24019	
+4006	WorldNpc00085	1		hunterinfo_4006	1			1	QiecuoTitle_4006	QiecuoMenu_4006		
+4016	monm060200	5		hunterinfo_4016	10							
+4017	monm060300	4		hunterinfo_4017	10							
+4018	monm060400	6		hunterinfo_4018	10							
+4019	bossm060100	1		hunterinfo_4019	10							
+4222	monv040200	3			1						24060	
+4225	monv040500	5			1						24069	
+4226	monv040502	4			1						24071	
+4009	monv040300	4		hunterinfo_4009	1							
+4223	monrv042818	2		hunterinfo_4223	1							
+4224	monrv042819	2		hunterinfo_4224	1							
+4015	monrm060100	3		hunterinfo_4015	10		1					
+4221	monm060200	5		hunterinfo_4221	10							
+4228	monrv042820	3		hunterinfo_4228	1						24056	
+4229	monrv042821	2		hunterinfo_4229	1						24057	
+4011	WorldNpc00022	1		hunterinfo_4011	1			1	QiecuoTitle_4011	QiecuoMenu_4011	24066	
+4012	monv042100	3		hunterinfo_4012_1	1		1					
+4219	bossm060100	1		hunterinfo_4219	10							
+4220	monm060400	3		hunterinfo_4220	10						24077	
+4227	monm060301	4		hunterinfo_4227	1							
+4020	monm060500	6		hunterinfo_4020	10							
+4334	em561	1		hunterinfo_4334	10			1	QiecuoTitle_4334	QiecuoMenu_4334	24093	
+4233	monrm067715	3		hunterinfo_4233	10						24092	
+4230	monv040500	3		hunterinfo_4230	1						24065	
+4010	monrm050034	3		hunterinfo_4010	1						24063	
+4231	qdzai064	1		hunterinfo_4231	1			1	QiecuoTitle_4231	QiecuoMenu_4231	24067	
+4232	monrm067714	3		hunterinfo_4232	10						24090	
+4013	monrm050035	3	1279;1280	hunterinfo_4013	1						24068	
+4341	23333	1		hunterinfo_4341	595						24104	
+4335	2333333	1		hunterinfo_4335	595						24096	
+4336	mon_zx_fhs_003	5		hunterinfo_4336	595						24097	
+4337	mon_zx_fhs_004	5		hunterinfo_4337	595						24100	
+4339	mon_zx_fhs_008	1		hunterinfo_4339	595						24101	
+4338	mon_zx_fhs_006	5		hunterinfo_4338	595						24101	
+4340	mon_zx_fhs_010	3		hunterinfo_4340	595						24102	

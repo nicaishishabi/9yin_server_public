@@ -1,0 +1,130 @@
+NPC编号	对象类型	名称	模型编号	模型半径	NPC类型	响应范围	移动的时候是否旋转	走路速度	跑步速度	AI类型	巡逻模式	路径编号	相对于自身的可站立高度	Xz平面上可站立范围类形	"StandShape=0时为半径StandShape=1时为长,垂直于面向"	"StandShape=1时为宽,平行于面向"	绳子资源路径	绳子顶高度值	脚本编号	AI编辑包	能不能被攻击	存在时间
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	script	Name	Resource	CollideRadius	NpcType	SpringRange	MotionNoRotate	WalkSpeed	RunSpeed	AITemplate	PatrolMode	PathID	StandHeight	StandShape	ShapePara1	ShapePara2	RopeResource	RopeTopY	LuaScript	AIEditorPackID	CantBeAttack	LifeTime
+																						
+FlyNpc00001	FlyNpc	二傻	npc\fbmac00523	1	48	0	1	1.2	3	8	0	flytest	3	1	3	3						
+FlyNpc00002	FlyNpc	转刺机关1	npc\itemnpc684	1	202	0	0	5	5	8	0	city02_fly001	3	0	1	3			npc\task\suzhou_01.lua			
+FlyNpc00003	FlyNpc	转刺机关2	npc\itemnpc684	1	202	0	0	5	5	8	0	city02_fly002	3	0	1	3			npc\task\suzhou_01.lua			
+																						
+FlyNpc17001	FlyNpc	凌霄城电梯机关	npc\jt_dianti01	1	48	0	1	1.2	3	8	0	scene06_fly001	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	155				
+FlyNpc17002	FlyNpc	凌霄城电梯机关	npc\jt_dianti01	1	48	0	1	1.2	3	8	0	scene06_fly002	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	155				
+																						
+FlyNpc17003	FlyNpc	踢馆凌霄城电梯机关	npc\jt_dianti01	1	48	0	1	1.2	3	8	0	scene06_fly001	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	155				
+FlyNpc17004	FlyNpc	踢馆凌霄城电梯机关	npc\jt_dianti01	1	48	0	1	1.2	3	8	0	scene06_fly002	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	155				
+																						
+FlyNpc09001	FlyNpc	唐门电梯	npc\jt_dianti01	1	48	0	1	4	5	8	0	school05_fly01	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	86.518				
+FlyNpc09002	FlyNpc	唐门电梯	npc\jt_dianti01	1	48	0	1	4	5	8	0	school05_fly02	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	191.116				
+																						
+FlyNpc19001	FlyNpc	蓬莱电梯	npc\jt_dianti01	1	48	0	1	1.2	3	8	0	FlyNpc19002	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	60.106				
+FlyNpc19002	FlyNpc	蓬莱电梯	npc\jt_dianti01	1	48	0	1	1.2	3	8	0	FlyNpc19003	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	103.748				
+FlyNpc19003	FlyNpc	蓬莱电梯	npc\jt_dianti01	1	48	0	1	1.2	3	8	0	FlyNpc19001	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	152.125				
+																						
+FlyNpc54101	FlyNpc	古墓派电梯	npc\npcitem853	1	48	0	1	1.2	3	8	0	school14_fly01	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	400				
+FlyNpc54102	FlyNpc	古墓派电梯	npc\npcitem853	1	48	0	1	1.2	3	8	0	school14_fly02	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	400				
+																						
+FlyNpcClone024_999	FlyNpc	是男人就下100层电梯	npc\shui	100	202	64	1	0.25	0.25	8	1	FlyNpcClone024_182	0	0	0	0				1809		
+																						
+FlyNpcClone024_001	FlyNpc	是男人就下100层电梯	npc\itemnpc796	1	48	0	1	2	2	8	1	FlyNpcClone024_000011	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	111				
+FlyNpcClone024_002	FlyNpc	是男人就下100层电梯	npc\itemnpc796	1	48	0	1	2	2	8	1	FlyNpcClone024_000012	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	111				
+FlyNpcClone024_003	FlyNpc	是男人就下100层电梯	npc\itemnpc796	1	48	0	1	2	2	8	1	FlyNpcClone024_000013	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	101				
+FlyNpcClone024_004	FlyNpc	是男人就下100层电梯	npc\itemnpc796	1	48	0	1	2	2	8	1	FlyNpcClone024_000014	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	96				
+FlyNpcClone024_005	FlyNpc	是男人就下100层电梯	npc\itemnpc796	1	48	0	1	2	2	8	1	FlyNpcClone024_000015	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	91				
+FlyNpcClone024_006	FlyNpc	是男人就下100层电梯	npc\itemnpc796	1	48	0	1	2	2	8	1	FlyNpcClone024_000016	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	86				
+FlyNpcClone024_007	FlyNpc	是男人就下100层电梯	npc\itemnpc796	1	48	0	1	2	2	8	1	FlyNpcClone024_000017	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	81				
+FlyNpcClone024_008	FlyNpc	是男人就下100层电梯	npc\itemnpc796	1	48	0	1	2	2	8	1	FlyNpcClone024_000018	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	76				
+FlyNpcClone024_009	FlyNpc	是男人就下100层电梯	npc\itemnpc796	1	48	0	1	2	2	8	1	FlyNpcClone024_000019	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	71				
+																						
+																						
+FlyNpcClone024_101	FlyNpc	是男人就下100层电梯	npc\itemnpc795	1	48	0	1	2.5	2.5	8	1	FlyNpcClone024_050511	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	111				
+FlyNpcClone024_102	FlyNpc	是男人就下100层电梯	npc\itemnpc795	1	48	0	1	2.5	2.5	8	1	FlyNpcClone024_050512	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	111				
+FlyNpcClone024_103	FlyNpc	是男人就下100层电梯	npc\itemnpc795	1	48	0	1	2.5	2.5	8	1	FlyNpcClone024_050513	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	101				
+FlyNpcClone024_104	FlyNpc	是男人就下100层电梯	npc\itemnpc795	1	48	0	1	2.5	2.5	8	1	FlyNpcClone024_050514	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	96				
+FlyNpcClone024_105	FlyNpc	是男人就下100层电梯	npc\itemnpc795	1	48	0	1	2.5	2.5	8	1	FlyNpcClone024_050515	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	91				
+FlyNpcClone024_106	FlyNpc	是男人就下100层电梯	npc\itemnpc795	1	48	0	1	2.5	2.5	8	1	FlyNpcClone024_050516	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	86				
+FlyNpcClone024_107	FlyNpc	是男人就下100层电梯	npc\itemnpc795	1	48	0	1	2.5	2.5	8	1	FlyNpcClone024_050517	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	81				
+FlyNpcClone024_108	FlyNpc	是男人就下100层电梯	npc\itemnpc795	1	48	0	1	2.5	2.5	8	1	FlyNpcClone024_050518	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	76				
+																						
+																						
+FlyNpcClone024_201	FlyNpc	是男人就下100层电梯	npc\itemnpc795	1	48	0	1	3	3	8	1	FlyNpcClone024_5_511	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	111				
+FlyNpcClone024_202	FlyNpc	是男人就下100层电梯	npc\itemnpc795	1	48	0	1	3	3	8	1	FlyNpcClone024_5_512	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	111				
+FlyNpcClone024_203	FlyNpc	是男人就下100层电梯	npc\itemnpc795	1	48	0	1	3	3	8	1	FlyNpcClone024_5_513	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	101				
+FlyNpcClone024_204	FlyNpc	是男人就下100层电梯	npc\itemnpc795	1	48	0	1	3	3	8	1	FlyNpcClone024_5_514	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	96				
+FlyNpcClone024_205	FlyNpc	是男人就下100层电梯	npc\itemnpc795	1	48	0	1	3	3	8	1	FlyNpcClone024_5_515	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	91				
+FlyNpcClone024_206	FlyNpc	是男人就下100层电梯	npc\itemnpc795	1	48	0	1	3	3	8	1	FlyNpcClone024_5_516	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	86				
+FlyNpcClone024_207	FlyNpc	是男人就下100层电梯	npc\itemnpc795	1	48	0	1	3	3	8	1	FlyNpcClone024_5_517	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	81				
+FlyNpcClone024_208	FlyNpc	是男人就下100层电梯	npc\itemnpc795	1	48	0	1	3	3	8	1	FlyNpcClone024_5_518	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	76				
+																						
+FlyNpcClone024_301	FlyNpc	是男人就下100层电梯	npc\itemnpc795	1	48	0	1	0.5	0.5	8	1	FlyNpcClone024_05_511	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	36				
+FlyNpcClone024_302	FlyNpc	是男人就下100层电梯	npc\itemnpc795	1	48	0	1	0.5	0.5	8	1	FlyNpcClone024_05_512	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	56				
+FlyNpcClone024_303	FlyNpc	是男人就下100层电梯	npc\itemnpc795	1	48	0	1	0.5	0.5	8	1	FlyNpcClone024_05_513	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	76				
+FlyNpcClone024_304	FlyNpc	是男人就下100层电梯	npc\itemnpc795	1	48	0	1	0.5	0.5	8	1	FlyNpcClone024_05_514	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	96				
+FlyNpcClone024_305	FlyNpc	是男人就下100层电梯	npc\itemnpc795	1	48	0	1	0.5	0.5	8	1	FlyNpcClone024_05_515	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	111				
+																						
+FlyNpcClone024_401	FlyNpc	是男人就下100层电梯	npc\itemnpc795	1	48	0	1	0.5	0.5	8	1	FlyNpcClone024_50511	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	36				
+FlyNpcClone024_402	FlyNpc	是男人就下100层电梯	npc\itemnpc795	1	48	0	1	0.5	0.5	8	1	FlyNpcClone024_50512	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	56				
+FlyNpcClone024_403	FlyNpc	是男人就下100层电梯	npc\itemnpc795	1	48	0	1	0.5	0.5	8	1	FlyNpcClone024_50513	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	76				
+FlyNpcClone024_404	FlyNpc	是男人就下100层电梯	npc\itemnpc795	1	48	0	1	0.5	0.5	8	1	FlyNpcClone024_50514	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	96				
+FlyNpcClone024_405	FlyNpc	是男人就下100层电梯	npc\itemnpc795	1	48	0	1	0.5	0.5	8	1	FlyNpcClone024_50515	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	111				
+																						
+	//武林大会擂台																					
+FlyNpcHuanshan01	FlyNpc	莲花灯	npc\itemnpc057x	1	48	0	0	0.1	0.1	8	1	huashan_leitai01	3	1	3	3				2011		
+FlyNpcHuanshan02	FlyNpc	莲花灯	npc\itemnpc057x	1	48	0	0	0.1	0.1	8	1	huashan_leitai02	3	1	3	3				2011		
+FlyNpcHuanshan03	FlyNpc	莲花灯	npc\itemnpc057x	1	48	0	0	0.1	0.1	8	1	huashan_leitai03	3	1	3	3				2011		
+FlyNpcHuanshan04	FlyNpc	莲花灯	npc\itemnpc057x	1	48	0	0	0.1	0.1	8	1	huashan_leitai04	3	1	3	3				2011		
+FlyNpcHuanshan05	FlyNpc	莲花灯	npc\itemnpc057x	1	48	0	0	0.1	0.1	8	1	huashan_leitai05	3	1	3	3				2011		
+FlyNpcHuanshan06	FlyNpc	莲花灯	npc\itemnpc057x	1	48	0	0	0.1	0.1	8	1	huashan_leitai06	3	1	3	3				2011		
+FlyNpcHuanshan07	FlyNpc	莲花灯	npc\itemnpc057x	1	48	0	0	0.1	0.1	8	1	huashan_leitai07	3	1	3	3				2011		
+FlyNpcHuanshan08	FlyNpc	莲花灯	npc\itemnpc057x	1	48	0	0	0.08	0.08	8	1	huashan_leitai01	3	1	3	3				2011		
+FlyNpcHuanshan09	FlyNpc	莲花灯	npc\itemnpc057x	1	48	0	0	0.08	0.08	8	1	huashan_leitai02	3	1	3	3				2011		
+FlyNpcHuanshan10	FlyNpc	莲花灯	npc\itemnpc057x	1	48	0	0	0.08	0.08	8	1	huashan_leitai03	3	1	3	3				2011		
+FlyNpcHuanshan11	FlyNpc	莲花灯	npc\itemnpc057x	1	48	0	0	0.08	0.08	8	1	huashan_leitai04	3	1	3	3				2011		
+FlyNpcHuanshan12	FlyNpc	莲花灯	npc\itemnpc057x	1	48	0	0	0.08	0.08	8	1	huashan_leitai05	3	1	3	3				2011		
+FlyNpcHuanshan13	FlyNpc	莲花灯	npc\itemnpc057x	1	48	0	0	0.08	0.08	8	1	huashan_leitai06	3	1	3	3				2011		
+FlyNpcHuanshan14	FlyNpc	莲花灯	npc\itemnpc057x	1	48	0	0	0.08	0.08	8	1	huashan_leitai07	3	1	3	3				2011		
+FlyNpcHuanshan15	FlyNpc	莲花灯	npc\itemnpc057x	1	48	0	0	0.12	0.12	8	1	huashan_leitai01	3	1	3	3				2011		
+FlyNpcHuanshan16	FlyNpc	莲花灯	npc\itemnpc057x	1	48	0	0	0.12	0.12	8	1	huashan_leitai02	3	1	3	3				2011		
+FlyNpcHuanshan17	FlyNpc	莲花灯	npc\itemnpc057x	1	48	0	0	0.12	0.12	8	1	huashan_leitai03	3	1	3	3				2011		
+FlyNpcHuanshan18	FlyNpc	莲花灯	npc\itemnpc057x	1	48	0	0	0.12	0.12	8	1	huashan_leitai04	3	1	3	3				2011		
+FlyNpcHuanshan19	FlyNpc	莲花灯	npc\itemnpc057x	1	48	0	0	0.12	0.12	8	1	huashan_leitai05	3	1	3	3				2011		
+FlyNpcHuanshan20	FlyNpc	莲花灯	npc\itemnpc057x	1	48	0	0	0.12	0.12	8	1	huashan_leitai06	3	1	3	3				2011		
+FlyNpcHuanshan21	FlyNpc	莲花灯	npc\itemnpc057x	1	48	0	0	0.12	0.12	8	1	huashan_leitai07	3	1	3	3				2011		
+																						
+FlyNpcmetropolis01	FlyNpc	汽车	npc\jt_paoche01	1	48	0	0	6	8	8	1	Fly_01	2	1	6	3						
+FlyNpcmetropolis02	FlyNpc	汽车	npc\jt_paoche02	1	48	0	0	6	8	8	1	Fly_02	5	1	14	3.5						
+FlyNpcmetropolis03	FlyNpc	汽车	npc\jt_paoche01	1	48	0	0	6	8	8	1	Fly_03	2	1	6	3						
+FlyNpcmetropolis04	FlyNpc	汽车	npc\jt_paoche03	1	48	0	0	6	8	8	1	Fly_04	2	1	6	3						
+FlyNpcmetropolis05	FlyNpc	汽车	npc\jt_paoche01	1	48	0	0	6	8	8	1	Fly_05	2	1	6	3						
+FlyNpcmetropolis06	FlyNpc	汽车	npc\jt_paoche02	1	48	0	0	6	8	8	1	Fly_03	2	1	6	3						
+FlyNpcmetropolis07	FlyNpc	卡车	npc\jt_kache01	1	48	0	0	6	8	8	1	Fly_kache1	5	1	14	3.5						
+FlyNpcmetropolis08	FlyNpc	卡车	npc\jt_kache01	1	48	0	0	6	8	8	1	Fly_kache2	5	1	14	3.5						
+																						
+boat06	FlyNpc	卡车	npc\boat06n	1	48	0	0	6	8	8	1	AI_flyboat	5	1	14	3.5						
+																						
+FlyNpclmbj_ssyb01	FlyNpc	海盗首领船	npc\jt_chuan03	1	48	0	0	4	4	8	1		3	1	3	3				2011		
+FlyNpclmbj_ssyb02	FlyNpc	海盗小船	npc\fbmac015030	1	48	0	0	5	5	8	1		3	1	3	3				2011		
+																						
+	//新江湖																					
+FlyNpcnewworld_001	FlyNpc	鹰	npc\petm_100202	1	48	0	0	6	6	8	1	feixing001	3	1	3	3						
+FlyNpcnewworld_002	FlyNpc	鹰	npc\petm_100202	1	48	0	0	6	6	8	1	feixing002	3	1	3	3						
+FlyNpcnewworld_003	FlyNpc	鹰	npc\petm_100202	1	48	0	0	6	6	8	1	feixing003	3	1	3	3						
+FlyNpcnewworld_004	FlyNpc	鹰	npc\petm_100202	1	48	0	0	6	6	8	1	feixing004	3	1	3	3						
+																						
+shenshuiflynpc001	FlyNpc	神水宫表现NPC001	npc\worldnpc1433	1	675	0	0	6	6	8	1	shenshuiflynpc001	0	0	0	0						
+shenshuiflynpc002	FlyNpc	神水宫表现NPC002	npc\worldnpc1434	1	675	0	0	6	6	8	1	shenshuiflynpc002	0	0	0	0						
+shenshuiflynpc003	FlyNpc	神水宫表现NPC003	npc\worldnpc1435	1	675	0	0	6	6	8	1	shenshuiflynpc003	0	0	0	0						
+shenshuiflynpc004	FlyNpc	神水宫表现NPC004	npc\worldnpc1436	1	675	0	0	6	6	8	1	shenshuiflynpc004	0	0	0	0						
+shenshuiflynpc005	FlyNpc	神水宫表现NPC005	npc\worldnpc1437	1	675	0	0	6	6	8	1	shenshuinpc006	0	0	0	0						
+shenshuiflynpc006	FlyNpc	神水宫表现NPC006	npc\worldnpc1438	1	675	0	0	6	6	8	1	shenshuinpc007	0	0	0	0						
+																						
+	//烟雨庄-蓬莱																					
+																						
+																						
+newworld_donghai_yd_009	FlyNpc	海盗首领船	npc\searide_thd_1	1	48	0	0	4	4	8	1	donghaiguide_1_01	3	1	3	3						
+newworld_donghai_yd_010	FlyNpc	海盗首领船	npc\searide_thd_1	1	48	0	0	4	4	8	1	donghaiguide_1_02	3	1	3	3						
+newworld_donghai_yd_011	FlyNpc	海盗首领船	npc\searide_thd_1	1	48	0	0	4	4	8	1	donghaiguide_1_03	3	1	3	3						
+newworld_donghai_yd_012	FlyNpc	海盗首领船	npc\searide_thd_1	1	48	0	0	4	4	8	1	donghaiguide_1_04	3	1	3	3						
+																						
+FlyNpc60401	FlyNpc	生死判电梯	npc\PLD_SSP_shengjiangti	1	48	0	1	4	5	8	0	scene16_fly01	3	1	3	3						
+																						
+FlyNpcscene25001	FlyNpc	凌霄城电梯机关	npc\jt_dianti01	1	48	0	1	1.2	3	8	0	scene25_fly01	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	155				
+FlyNpcscene25002	FlyNpc	凌霄城电梯机关	npc\jt_dianti01	1	48	0	1	1.2	3	8	0	scene25_fly02	3	1	3	3	obj\itemnpc\shengzi\diantishengzi02	155				

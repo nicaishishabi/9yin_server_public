@@ -1,0 +1,142 @@
+{
+ "fireworks_56": {
+  "mode": "random",
+  "rolls": 1,
+  "entries": [
+   {
+    "config_id": "ride_windrunner_004",
+    "amount": 1,
+    "weight": 30
+   },
+   {
+    "config_id": "ride_windrunner_003",
+    "amount": 1,
+    "weight": 30
+   },
+   {
+    "config_id": "ride_windrunner_005",
+    "amount": 1,
+    "weight": 25
+   },
+   {
+    "config_id": "ride_huodong_forever_2020",
+    "amount": 1,
+    "weight": 15
+   }
+  ]
+ },
+ "drop_cardbox_967": {
+  "mode": "random",
+  "rolls": 1,
+  "entries": [
+   {
+    "config_id": "Game_item_hp_001",
+    "amount": 5,
+    "weight": 40
+   },
+   {
+    "config_id": "Game_item_mp_001",
+    "amount": 3,
+    "weight": 30
+   },
+   {
+    "config_id": "Item_nmp_sj001",
+    "amount": 10,
+    "weight": 20
+   },
+   {
+    "config_id": "ltitem_dailymp001",
+    "amount": 2,
+    "weight": 10
+   }
+  ]
+ },
+ "drop_box_newplayer_jindi_001": {
+  "mode": "fixed",
+  "entries": [
+   {
+    "config_id": "Game_item_hp_001",
+    "amount": 5
+   },
+   {
+    "config_id": "Game_item_mp_001",
+    "amount": 5
+   },
+   {
+    "config_id": "Item_nmp_sj001",
+    "amount": 10
+   }
+  ]
+ },
+ "drp_sellwx_04": {
+  "mode": "random",
+  "rolls": 1,
+  "entries": [
+   {
+    "config_id": "Game_item_hp_001",
+    "amount": 10,
+    "weight": 50
+   },
+   {
+    "config_id": "ride_windrunner_004",
+    "amount": 1,
+    "weight": 30
+   },
+   {
+    "config_id": "ride_huodong_forever_2020",
+    "amount": 1,
+    "weight": 20
+   }
+  ]
+ },
+ "drop_box_dllb01": {
+  "mode": "fixed",
+  "entries": [
+   {
+    "config_id": "helmet_daxia_30301",
+    "amount": 1
+   },
+   {
+    "config_id": "cloth_daxia_30301",
+    "amount": 1
+   },
+   {
+    "config_id": "pants_daxia_30301",
+    "amount": 1
+   },
+   {
+    "config_id": "shoes_daxia_30301",
+    "amount": 1
+   },
+   {
+    "config_id": "leg_daxia_30301",
+    "amount": 1
+   },
+   {
+    "config_id": "wrist_daxia_30301",
+    "amount": 1
+   }
+  ]
+ },
+ "drop_box_guj_20200808_001": {
+  "mode": "fixed",
+  "entries": [
+   {
+    "config_id": "SC_ITEMBAG_005_fc30",
+    "amount": 2
+   },
+   {
+    "config_id": "SC_EQUIPBAG_005_fc30",
+    "amount": 2
+   },
+   {
+    "config_id": "SC_STUFFBAG_005_fc30",
+    "amount": 2
+   },
+   {
+    "config_id": "SC_TASKBAG_005_fc30",
+    "amount": 2
+   }
+  ]
+ }
+}

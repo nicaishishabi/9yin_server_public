@@ -1,0 +1,764 @@
+NPC编号	对象类型	名称	模型编号	触发范围	NPC类型	走路速度	跑步速度	相对位置	子怪物	巡逻模式	AI类型	追击范围	路径编号	能否死亡	脚本编号	AI编辑包	刷新时间
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	script	Name	Resource	SpringRange	NpcType	WalkSpeed	RunSpeed	PosList	ChildList	PatrolMode	AITemplate	ChaseRange	PathID	CanDead	LuaScript	AIEditorPackID	RefreshTime
+																	
+Leader_clone001_019	TeamLeaderNpc	巡逻山贼（低）	npc\itemnpc057		11	1.5	5	"0,1;-1,-1"	npcclone001011;npcclone001011	1	6	0	AI_clone001_017	1			
+Leader_clone001_020	TeamLeaderNpc	巡逻山贼（中）	npc\itemnpc057		11	1.5	5	"0,1;-1,-1"	npcclone001219;npcclone001219	1	6	0	AI_clone001_017	1			
+Leader_clone001_021	TeamLeaderNpc	巡逻山贼（高）	npc\itemnpc057		11	1.5	5	"0,1;-1,-1"	npcclone001319;npcclone001319	1	6	0	AI_clone001_017	1			
+																	
+Leader_clone002_001	TeamLeaderNpc	废弃	npc\itemnpc057e		11	3.5	5	"0,0;1,-1;-1,-1"	funnpcclone002001;funnpcclone002007;funnpcclone002008	1	6	0	clone002_001	1			
+Leader_clone002_003	TeamLeaderNpc	节点之前，沈义山至斫镇门口	npc\itemnpc057e		11	3.5	5	"0,0;1,-1;-1,-1"	bossclone002028;bossclone002014;bossclone002017	1	6	0	clone002_003	1			
+Leader_clone002_005	TeamLeaderNpc	节点之前，护送贾廷，陆小川至龙门客栈	npc\itemnpc057e		11	3.5	5	"0,0;1,-1;-1,-2;1,-2;-1,-3;1,-3;-1,-4;1,-4"	bossclone002009;bossclone002010;funnpcclone002027;funnpcclone002027;funnpcclone002027;funnpcclone002027;funnpcclone002027;funnpcclone002027	1	6	0	clone002_005	1			
+Leader_clone002_006	TeamLeaderNpc	节点之前，崔杨队列	npc\itemnpc057e		11	3.5	5	"0,0;1,-2;1,-4;-1,-2;-1,-4"	bossclone002022;funnpcclone002019;funnpcclone002019;funnpcclone002019;funnpcclone002019	1	6	0	clone002_006	1			
+Leader_clone002_101	TeamLeaderNpc	周淮安线，周淮安至胡人大营	npc\itemnpc057e		11	3.5	5	"0,0"	bossclone002004	1	6	0	clone002_012	1			
+Leader_clone002_301	TeamLeaderNpc	沈义山线，护送沈义山至龙门关下	npc\itemnpc057e		11	3.5	5	"0,0;-1,-1"	bossclone002028;bossclone002014	1	6	0	clone002_008	1			
+Leader_clone002_501	TeamLeaderNpc	马贼线，护送马贼喽啰和小孩至龙门关常言笑处	npc\itemnpc057e		11	3.5	5	"0,1;1,0;-1,0;1,-1;-1,-1"	funnpcclone002040;funnpcclone002007;funnpcclone002008;funnpcclone002040;funnpcclone002040	1	6	0	clone002_015	1			
+Leader_clone002_502	TeamLeaderNpc	马贼线，贺虎去聚义厅	npc\itemnpc057e		11	3.5	5	"0,0;-1,0;0,-1;1,0"	bossclone002013;funnpcclone002041;funnpcclone002042;funnpcclone002043	1	6	0	clone002_014	1			
+Leader_clone002_102	TeamLeaderNpc	周淮安线，护送周淮安等至密道入口1	npc\itemnpc057e		11	3.5	5	"0,1;0,0;0.2,-1;-0.2,-1;0,-2"	bossclone002007;bossclone002006;funnpcclone002107;funnpcclone002108;bossclone002004	1	6	0	clone002_010	1			
+Leader_clone002_103	TeamLeaderNpc	周淮安线，跟随周淮安等至曹少钦处	npc\itemnpc057e		11	3.5	5	"0,1;0,0;1,-1;-1,-1;-2,0"	bossclone002004;bossclone002006;funnpcclone002007;funnpcclone002008;bossclone002007	1	6	0	clone002_009	1			
+Leader_clone002_104	TeamLeaderNpc	周淮安线，护送周淮安等至密道入口2	npc\itemnpc057e		11	3.5	5	"0,1;0,0;1,-1;-1,-1;0,-2"	bossclone002004;bossclone002006;funnpcclone002007;funnpcclone002008;bossclone002007	1	6	0	clone002_011	1			
+Leader_clone002_401	TeamLeaderNpc	东厂线，更随常言笑到达龙门客栈	npc\itemnpc057e		11	3.5	5	"0,0;1,-1"	bossclone002005;bossclone002011	1	6	0	clone002_013	1			
+Leader_clone002_601	TeamLeaderNpc	龙门关大道巡逻	npc\itemnpc057		11	3.5	5	"-1,0;0,1;1,0"	funnpcclone002031;funnpcclone002053;funnpcclone002031	1	6	0	clone002_024	1			
+Leader_clone002_602	TeamLeaderNpc	龙门关马棚巡逻	npc\itemnpc057		11	3.5	5	"0,0;1,-1"	funnpcclone002053;funnpcclone002031	1	6	0	clone002_025	1			
+Leader_clone002_603	TeamLeaderNpc	龙门关城墙巡逻1	npc\itemnpc057		11	3.5	5	"-1,0;0,1;1,0"	funnpcclone002031;funnpcclone002053;funnpcclone002031	1	6	0	clone002_026	1			
+Leader_clone002_604	TeamLeaderNpc	龙门关城墙巡逻2	npc\itemnpc057		11	3.5	5	"-1,0;0,1;1,0"	funnpcclone002031;funnpcclone002053;funnpcclone002031	1	6	0	clone002_027	1			
+Leader_clone002_605	TeamLeaderNpc	龙门关兵营巡逻	npc\itemnpc057		11	3.5	5	"-1,0;0,1;1,0"	funnpcclone002031;funnpcclone002053;funnpcclone002031	1	6	0	clone002_028	1			
+Leader_clone002_606	TeamLeaderNpc	龙门关投石车巡逻	npc\itemnpc057		11	3.5	5	"-1,0;0,1;1,0"	funnpcclone002031;funnpcclone002053;funnpcclone002031	1	6	0	clone002_029	1			
+Leader_clone002_607	TeamLeaderNpc	龙门关城墙投石车巡逻3	npc\itemnpc057		11	3.5	5	"-1,0;0,1;1,0"	funnpcclone002031;funnpcclone002053;funnpcclone002031	1	6	0	clone002_030	1			
+Leader_clone002_608	TeamLeaderNpc	龙门关城墙巡逻4	npc\itemnpc057		11	3.5	5	"-1,0;0,1;1,0"	funnpcclone002031;funnpcclone002053;funnpcclone002031	1	6	0	clone002_031	1			
+Leader_clone002_609	TeamLeaderNpc	龙门关粮草巡逻	npc\itemnpc057		11	3.5	5	"-1,0;0,1;1,0"	funnpcclone002031;funnpcclone002053;funnpcclone002031	1	6	0	clone002_032	1			
+Leader_clone002_610	TeamLeaderNpc	胡人大营中军帐巡逻	npc\itemnpc057		11	3.5	5	"0,0;0,1;0,2;1,0;1,1;1,2"	funnpcclone002088;funnpcclone002088;funnpcclone002088;funnpcclone002088;funnpcclone002088;funnpcclone002088	1	6	0	clone002_033	1			
+Leader_clone002_611	TeamLeaderNpc	胡人大营右路巡逻	npc\itemnpc057		11	3.5	5	"0,0;0,1;1,0;1,1"	funnpcclone002088;funnpcclone002088;funnpcclone002088;funnpcclone002088	1	6	0	clone002_034	1			
+Leader_clone002_612	TeamLeaderNpc	胡人大营左路巡逻	npc\itemnpc057		11	3.5	5	"0,0;0,1;1,0;1,1"	funnpcclone002088;funnpcclone002088;funnpcclone002088;funnpcclone002088	1	6	0	clone002_035	1			
+Leader_clone002_613	TeamLeaderNpc	马贼山寨马棚巡逻	npc\itemnpc057		11	3.5	5	"0,1;1,0"	funnpcclone002089;funnpcclone002090	1	6	0	clone002_036	1			
+Leader_clone002_614	TeamLeaderNpc	马贼山寨山路巡逻	npc\itemnpc057		11	3.5	5	"0,1;1,0"	funnpcclone002090;funnpcclone002090	1	6	0	clone002_037	1			
+Leader_clone002_615	TeamLeaderNpc	马贼山寨内巡逻	npc\itemnpc057		11	3.5	5	"-1,0;0,1;1,0"	funnpcclone002090;funnpcclone002089;funnpcclone002090	1	6	0	clone002_038	1			
+Leader_clone002_616	TeamLeaderNpc	马贼山牢房巡逻	npc\itemnpc057		11	3.5	5	"-1,0;0,1;1,0"	funnpcclone002090;funnpcclone002089;funnpcclone002090	1	6	0	clone002_039	1			
+Leader_clone002_617	TeamLeaderNpc	马场巡逻1	npc\itemnpc057		11	8	13	"0,2;0,0;2,-2;-2,-2;0,-4"	funnpcclone002103;funnpcclone002103;funnpcclone002103;funnpcclone002103;funnpcclone002103	1	6	0	clone002_ey_01	1			
+Leader_clone002_618	TeamLeaderNpc	马场巡逻2	npc\itemnpc057		11	3.5	5	"-1,0;0,1;1,0"	funnpcclone002034;funnpcclone002037;funnpcclone002037	1	6	0	clone002_ey_02	1			
+Leader_clone002_619	TeamLeaderNpc	马场巡逻3	npc\itemnpc057		11	8	13	"0,2;0,0;2,-2;-2,-2;0,-4"	funnpcclone002103;funnpcclone002103;funnpcclone002103;funnpcclone002103;funnpcclone002103	1	6	0	clone002_ey_01	1			
+																	
+																	
+																	
+																	
+																	
+Leader_clone017_001	TeamLeaderNpc	机关通道巡逻	npc\itemnpc057		11	1.5	5	"0,0;-1,-1;1,-1"	NpcClone017171hh;NpcClone017171hh;NpcClone017171hh	1	6	0	AI_clone017_03	1			
+Leader_clone017_002	TeamLeaderNpc	机关通道巡逻	npc\itemnpc057		11	1.5	5	"0,0;-1,-1;1,-1"	NpcClone017171hh;NpcClone017171hh;NpcClone017171hh	1	6	0	AI_clone017_04	1			
+Leader_clone017_003	TeamLeaderNpc	栈道巡逻	npc\itemnpc057		11	1.5	5	"0,0;-1,-1;1,-1"	NpcClone017169hh;NpcClone017169hh;NpcClone017169hh	1	6	0	AI_clone017_10	1			
+Leader_clone017_004	TeamLeaderNpc	山谷巡逻	npc\itemnpc057		11	1.5	5	"0,0;-1,-1;1,-1"	NpcClone017150nn;NpcClone017150nn;NpcClone017150nn	1	6	0	AI_clone017_13a	1			
+Leader_clone017_005	TeamLeaderNpc	山谷巡逻	npc\itemnpc057		11	1.5	5	"0,0;-1,-1;1,-1"	NpcClone017150nn;NpcClone017150nn;NpcClone017150nn	1	6	0	AI_clone017_13b	1			
+Leader_clone017_006	TeamLeaderNpc	沈鸿烈随从	npc\itemnpc057		11	1.5	5	"0,0;-1,-1;1,-1"	BossClone017003;FunnpcClone017017;FunnpcClone017018	1	6	0	AI_clone017_001	0			
+																	
+Leader_clone005_100	TeamLeaderNpc	盗墓贼巡逻	npc\itemnpc057		11	2	5	"0,0;-1,-1;1,-1"	NpcClone005030;NpcClone005028;NpcClone005029	1	6	0		1			
+																	
+																	
+																	
+Leader_clone004_001	TeamLeaderNpc	雁门关城里巡逻1	npc\itemnpc057	15	11	3	5	"0,0;-1,-1;1,-1;-1,-2;1,-2"	FunnpcClone004501;FunnpcClone004501;FunnpcClone004501;FunnpcClone004501;FunnpcClone004501	1	6	30	clone004_002	1			
+Leader_clone004_002	TeamLeaderNpc	雁门关城里巡逻2	npc\itemnpc057	15	11	3	5	"0,0;-1,-1;1,-1;-1,-2;1,-2"	funnpcclone004501;FunnpcClone004501;FunnpcClone004501;FunnpcClone004501;FunnpcClone004501	1	6	30	clone004_003	1			
+Leader_clone004_003	TeamLeaderNpc	雁门关城楼巡逻1	npc\itemnpc057	15	11	3	5	"0,0;-1,-1;1,-1;-1,-2;1,-2"	FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503	1	6	30	clone004_004	1			
+Leader_clone004_004	TeamLeaderNpc	雁门关城楼巡逻2	npc\itemnpc057	15	11	3	5	"0,0;-1,-1;1,-1;-1,-2;1,-2"	FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503	1	6	30	clone004_005	1			
+Leader_clone004_005	TeamLeaderNpc	雁门关城楼巡逻3	npc\itemnpc057	15	11	3	5	"0,0;-1,-1;1,-1;-1,-2;1,-2"	FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503	1	6	30	clone004_006	1			
+Leader_clone004_006	TeamLeaderNpc	雁门关城楼巡逻4	npc\itemnpc057	15	11	3	5	"0,0;-1,-1;1,-1;-1,-2;1,-2"	FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503	1	6	30	clone004_007	1			
+Leader_clone004_007	TeamLeaderNpc	鞑靼军巡逻1	npc\itemnpc057	15	11	3	5	"0,0;-1,-1;1,-1;-1,-2;1,-2"	FunnpcClone004601;FunnpcClone004601;FunnpcClone004601;FunnpcClone004601;FunnpcClone004601	1	6	30	clone004_010	1			
+Leader_clone004_008	TeamLeaderNpc	鞑靼军巡逻2	npc\itemnpc057	15	11	3	5	"0,0;-1,-1;1,-1;-1,-2;1,-2"	FunnpcClone004601;FunnpcClone004601;FunnpcClone004601;FunnpcClone004601;FunnpcClone004601	1	6	30	clone004_011	1			
+Leader_clone004_009	TeamLeaderNpc	鞑靼军巡逻3	npc\itemnpc057	15	11	3	5	"0,0;-1,-1;1,-1;-1,-2;1,-2"	FunnpcClone004601;FunnpcClone004601;FunnpcClone004601;FunnpcClone004601;FunnpcClone004601	1	6	30	clone004_012	1			
+Leader_clone004_010	TeamLeaderNpc	鞑靼军偷袭1	npc\itemnpc057	15	11	3	5	"0,0;-1,-1;1,-1;-1,-2;1,-2;-1-3;1,-3;-1,-4;1,-4;-1,-5;1,-5"	FunnpcClone004530;FunnpcClone004530;FunnpcClone004530;FunnpcClone004530;FunnpcClone004530;FunnpcClone004530;FunnpcClone004530;FunnpcClone004530;FunnpcClone004530;FunnpcClone004530;FunnpcClone004530	1	6	30	clone004_52	1			
+Leader_clone004_012	TeamLeaderNpc	鞑靼军偷袭3	npc\itemnpc057	15	11	3	5	"-1,-1;1,-1"	BossClone004006	1	6	30	clone004_52	1			
+Leader_clone004_013	TeamLeaderNpc	明军冲锋	npc\itemnpc057	15	11	5	5	"-6,0;-2,0;2,0;6,0;-2,-4;-6,-4;2,-4;6,-4;-6,-8;-2,-8;2,-8;6,-8;-6,-12;-2,-12;2,-12;6,-12"	FunnpcClone004646;FunnpcClone004646;FunnpcClone004646;FunnpcClone004646;FunnpcClone004646;FunnpcClone004646;FunnpcClone004646;FunnpcClone004646;FunnpcClone004646;FunnpcClone004646;FunnpcClone004647;FunnpcClone004647;FunnpcClone004647;FunnpcClone004647;FunnpcClone004647;FunnpcClone004647:FunnpcClone004647;FunnpcClone004647;FunnpcClone004647;FunnpcClone004647	1	6	30	clone004_014	1			
+Leader_clone004_014	TeamLeaderNpc	守备	npc\itemnpc057	15	11	5	5	"0,0"	FunnpcClone004650	1	6	30	clone004_014	1			
+Leader_clone004_015	TeamLeaderNpc	鞑靼军冲锋	npc\itemnpc057	15	11	5	5	"-6,0;-2,0;2,0;6,0;-2,-4;-6,-4;2,-4;6,-4;-6,-8;-2,-8;2,-8;6,-8;-6,-12;-2,-12;2,-12;6,-12"	FunnpcClone004627;FunnpcClone004627;FunnpcClone004627;FunnpcClone004627;FunnpcClone004627;FunnpcClone004627;FunnpcClone004627;FunnpcClone004627;FunnpcClone004627;FunnpcClone004627;FunnpcClone004627;FunnpcClone004627;FunnpcClone004627;FunnpcClone004627;FunnpcClone004627;FunnpcClone004627;FunnpcClone004627;FunnpcClone004627;FunnpcClone004627;FunnpcClone004627	1	6	30	clone004_015	1			
+Leader_clone004_016	TeamLeaderNpc	鞑靼军冲锋	npc\itemnpc057	15	11	5	5	"-6,0;-2,0;2,0;6,0;-2,-4;-6,-4;2,-4;6,-4;-6,-8;-2,-8;2,-8;6,-8;-6,-12;-2,-12;2,-12;6,-12"	FunnpcClone004628;FunnpcClone004628;FunnpcClone004628;FunnpcClone004628;FunnpcClone004628;FunnpcClone004628;FunnpcClone004628;FunnpcClone004628;FunnpcClone004628;FunnpcClone004628;FunnpcClone004628;FunnpcClone004628;FunnpcClone004628;FunnpcClone004628;FunnpcClone004628;NpcClone004381;FunnpcClone004628;FunnpcClone004628;FunnpcClone004628;FunnpcClone004628	1	6	30	clone004_015	1			
+Leader_clone004_017	TeamLeaderNpc	游骑兵	npc\itemnpc057	15	11	3	5	"0,0;3,-1;-2,-2;2,-3;-3,-4;0,-4;3,-4;-1,-5;4,-5;-4,-7;-1,-7;2,-7;-3,-8;3,-8;0,-9"	FunnpcClone004611;FunnpcClone004611;FunnpcClone004611;FunnpcClone004611;FunnpcClone004611;FunnpcClone004611;FunnpcClone004611;FunnpcClone004611;FunnpcClone004611;FunnpcClone004611;FunnpcClone004611;FunnpcClone004611;FunnpcClone004611;FunnpcClone004611;FunnpcClone004611;	1	6	30	clone004_009	1			
+Leader_clone004_018	TeamLeaderNpc	鞑靼军增援	npc\itemnpc057	15	11	5	5	"0,0;-1,-1;1,-1;-1,-2;1,-2"	FunnpcClone004601;FunnpcClone004601;FunnpcClone004601;FunnpcClone004601;FunnpcClone004601	1	6	30	clone004_016	1			
+Leader_clone004_019	TeamLeaderNpc	鞑靼军增援	npc\itemnpc057	15	11	5	5	"0,0;-1,-1;1,-1;-1,-2;1,-2"	FunnpcClone004601;FunnpcClone004601;FunnpcClone004601;FunnpcClone004601;FunnpcClone004601	1	6	30	clone004_017	1			
+Leader_clone004_020	TeamLeaderNpc	鞑靼军增援	npc\itemnpc057	15	11	5	5	"0,0;-1,-1;1,-1;-1,-2;1,-2"	FunnpcClone004601;FunnpcClone004601;FunnpcClone004601;FunnpcClone004601;FunnpcClone004601	1	6	30	clone004_018	1			
+Leader_clone004_021	TeamLeaderNpc	鞑靼军增援	npc\itemnpc057	15	11	5	5	"0,0;-1,-1;1,-1;-1,-2;1,-2"	FunnpcClone004601;FunnpcClone004601;FunnpcClone004601;FunnpcClone004601;FunnpcClone004601	1	6	30	clone004_019	1			
+Leader_clone004_022	TeamLeaderNpc	鞑靼军增援	npc\itemnpc057	15	11	5	5	"0,0;-1,-1;1,-1;-1,-2;1,-2"	FunnpcClone004601;FunnpcClone004601;FunnpcClone004601;FunnpcClone004601;FunnpcClone004601	1	6	30	clone004_020	1			
+Leader_clone004_023	TeamLeaderNpc	鞑靼军增援	npc\itemnpc057	15	11	5	5	"0,0;-1,-1;1,-1;-1,-2;1,-2"	FunnpcClone004601;FunnpcClone004601;FunnpcClone004601;FunnpcClone004601;FunnpcClone004601	1	6	30	clone004_021	1			
+Leader_clone004_024	TeamLeaderNpc	鞑靼军增援	npc\itemnpc057	15	11	5	5	"0,0;-1,-1;1,-1;-1,-2;1,-2"	FunnpcClone004601;FunnpcClone004601;FunnpcClone004601;FunnpcClone004601;FunnpcClone004601	1	6	30	clone004_022	1			
+Leader_clone004_025	TeamLeaderNpc	鞑靼军增援	npc\itemnpc057	15	11	5	5	"0,0;-1,-1;1,-1;-1,-2;1,-2"	FunnpcClone004601;FunnpcClone004601;FunnpcClone004601;FunnpcClone004601;FunnpcClone004601	1	6	30	clone004_023	1			
+Leader_clone004_026	TeamLeaderNpc	鞑靼军增援	npc\itemnpc057	15	11	5	5	"0,0;-1,-1;1,-1;-1,-2;1,-2"	FunnpcClone004601;FunnpcClone004601;FunnpcClone004601;FunnpcClone004601;FunnpcClone004601	1	6	30	clone004_024	1			
+Leader_clone004_027	TeamLeaderNpc	鞑靼军增援	npc\itemnpc057	15	11	5	5	"0,0;-1,-1;1,-1;-1,-2;1,-2"	FunnpcClone004601;FunnpcClone004601;FunnpcClone004601;FunnpcClone004601;FunnpcClone004601	1	6	30	clone004_025	1			
+Leader_clone004_028	TeamLeaderNpc	守备带兵反偷袭	npc\itemnpc057	15	11	5	5	"-1,0;1,0;-1,-1;1,-1;-1,-2;1,-2;-1,-3;1,-3;-1,-4;1,-4;-1,-5;1,-5"	FunnpcClone004524;FunnpcClone004527;FunnpcClone004501;FunnpcClone004501;FunnpcClone004501;FunnpcClone004501;FunnpcClone004501;FunnpcClone004501;FunnpcClone004501;FunnpcClone004501;FunnpcClone004501;FunnpcClone004501;	1	6	30	clone004_51	1			
+Leader_clone004_040	TeamLeaderNpc	巡逻兵	npc\itemnpc057	15	11	5	5	"0,0;-1,-1;1,-1;-1,-2;1,-2"	FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503	1	6	30	clone004_40	1			
+Leader_clone004_041	TeamLeaderNpc	巡逻兵	npc\itemnpc057	15	11	5	5	"0,0;-1,-1;1,-1;-1,-2;1,-2"	FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503	1	6	30	clone004_41	1			
+Leader_clone004_042	TeamLeaderNpc	民兵搬石头	npc\itemnpc057	15	11	5	5	"0,0"	FunnpcClone004513	1	6	30	clone004_43	1			
+Leader_clone004_043	TeamLeaderNpc	村民搬石头	npc\itemnpc057	15	11	5	5	"0,0"	FunnpcClone004509	1	6	30	clone004_43	1			
+Leader_clone004_044	TeamLeaderNpc	民兵搬木头	npc\itemnpc057	15	11	5	5	"0,0"	FunnpcClone004513	1	6	30	clone004_44	1			
+Leader_clone004_045	TeamLeaderNpc	村民搬木头	npc\itemnpc057	15	11	5	5	"0,0"	FunnpcClone004510	1	6	30	clone004_44	1			
+Leader_clone004_046	TeamLeaderNpc	鞑靼军	npc\itemnpc057	15	11	5	5	"0,0;-1,-1;1,-1;-1,-2;1,-2;-1,-3;1,-3;-1,-4;1,-4;-1,-5;1,-5"	FunnpcClone004607;FunnpcClone004607;FunnpcClone004607;FunnpcClone004607;FunnpcClone004607;FunnpcClone004607;FunnpcClone004607;FunnpcClone004607;FunnpcClone004607;FunnpcClone004607;FunnpcClone004607	1	6	30		1			
+Leader_clone004_047	TeamLeaderNpc	鞑靼军	npc\itemnpc057	15	11	5	5	"0,0;-1,-1;1,-1;-1,-2;1,-2;-1,-3;1,-3;-1,-4;1,-4;-1,-5;1,-5"	FunnpcClone004607;FunnpcClone004607;FunnpcClone004607;FunnpcClone004607;FunnpcClone004607;FunnpcClone004607;FunnpcClone004607;FunnpcClone004607;FunnpcClone004607;FunnpcClone004607;FunnpcClone004607	1	6	30		1			
+Leader_clone004_048	TeamLeaderNpc	鞑靼军	npc\itemnpc057	15	11	5	5	"0,0;-1,-1;1,-1;-1,-2;1,-2;-1,-3;1,-3;-1,-4;1,-4;-1,-5;1,-5"	FunnpcClone004607;FunnpcClone004607;FunnpcClone004607;FunnpcClone004607;FunnpcClone004607;FunnpcClone004607;FunnpcClone004607;FunnpcClone004607;FunnpcClone004607;FunnpcClone004607;FunnpcClone004607	1	6	30		1			
+Leader_clone004_049	TeamLeaderNpc	明军守城	npc\itemnpc057	15	11	5	5	"-6,0;-2,0;2,0;6,0;-2,-4;-6,-4;2,-4;6,-4;-6,-8;-2,-8;2,-8;6,-8;-6,-12;-2,-12;2,-12;6,-12"	FunnpcClone004501;FunnpcClone004501;FunnpcClone004501;FunnpcClone004501;FunnpcClone004501;FunnpcClone004501;FunnpcClone004501;FunnpcClone004501;FunnpcClone004501;FunnpcClone004501;FunnpcClone004501;FunnpcClone004501;FunnpcClone004501;FunnpcClone004501;FunnpcClone004501;FunnpcClone004501;FunnpcClone004501;FunnpcClone004501;FunnpcClone004501;FunnpcClone004501	1	6	30	clone004_55	1			
+Leader_clone004_050	TeamLeaderNpc	明军守城	npc\itemnpc057	15	11	5	5	"-6,0;-2,0;2,0;6,0;-2,-4;-6,-4;2,-4;6,-4;-6,-8;-2,-8;2,-8;6,-8;-6,-12;-2,-12;2,-12;6,-12"	FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503	1	6	30	clone004_56	1			
+Leader_clone004_051	TeamLeaderNpc	城楼上巡逻	npc\itemnpc057	15	11	5	5	"0,0;-1,-1;1,-1;-1,-2;1,-2;-1,-3;1,-3;-1,-4;1,-4;-1,-5;1,-5"	FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503;FunnpcClone004503	1	6	30	clone004_58	1			
+Leader_clone004_052	TeamLeaderNpc	攻城车小队	npc\itemnpc057	15	11	1.5	1.5	"0,0;2.4,-2.8;-2.4,-2.8;2.4,0.2;-2.4,0.2"	FunnpcClone004644;FunnpcClone004644;FunnpcClone004644;FunnpcClone004644	1	6	30	clone004_57	1			
+Leader_clone004_053	TeamLeaderNpc	呼延晓先锋队	npc\itemnpc057	15	11	5	5	"0,0;-1,-1;1,-1;-1,-2;1,-2"	BossClone004001;FunnpcClone004063;FunnpcClone004063;FunnpcClone004063;FunnpcClone004063	1	6	40	clone004_60	1			
+Leader_clone004_054	TeamLeaderNpc	逃难村民	npc\itemnpc057	15	11	3	4	"0,0;-1,0;1,0;0,1;1,1"	FunnpcClone004064;FunnpcClone004065;FunnpcClone004066;FunnpcClone004067;FunnpcClone004068	1	6	30	clone004_tncm	1			
+Leader_clone004_055	TeamLeaderNpc	呼延晓先锋队	npc\itemnpc057	15	11	5	5	"0,0;-1,-1;1,-1;-1,-2;1,-2"	BossClone004301;FunnpcClone004063;FunnpcClone004063;FunnpcClone004063;FunnpcClone004063	1	6	30	clone004_60	1			
+Leader_clone004_056	TeamLeaderNpc	村民线鞑靼进村	npc\itemnpc057	15	11	5	5	"0,0;-1,-1;1,-1"	FunnpcClone004072;FunnpcClone004063;FunnpcClone004209	1	6	30	clone004_60	1			
+Leader_clone004_057	TeamLeaderNpc	村民线牢房寻路BOSS	npc\itemnpc057	15	11	5	5	"0,0;0,-1;0,-2;0,-3;0,-4"	BossClone004211;FunnpcClone004072;FunnpcClone004063;FunnpcClone004063;FunnpcClone004063	1	6	30	clone004_71	1			
+Leader_clone004_058	TeamLeaderNpc	村民线牢房村民	npc\itemnpc057	15	11	5	5	"0,0;0,-1;0,-2;0,-3;0,-4"	FunnpcClone004207;FunnpcClone004204;FunnpcClone004205;FunnpcClone004206;FunnpcClone004040	1	6	30	clone004_71	1			
+Leader_clone004_059	TeamLeaderNpc	村民线引路村民	npc\itemnpc057	15	11	5	5	"0,0;0,-1;0,-1;0,-1;0,-1;"	BossClone004211;FunnpcClone004072;FunnpcClone004063;FunnpcClone004063;FunnpcClone004063	1	6	30	clone004_72	1			
+Leader_clone004_060	TeamLeaderNpc	村民线鞑靼队伍	npc\itemnpc057	15	11	5	5	"0,0;0,-1;0,-1;0,-1;0,-1;"	FunnpcClone004207;FunnpcClone004204;FunnpcClone004205;FunnpcClone004206;FunnpcClone004040	1	6	30	clone004_72	1			
+Leader_clone004_061	TeamLeaderNpc	鞑靼军巡逻1	npc\itemnpc057	15	11	5	5	"0,0;-1,-1;1,-1;-1,-2;1,-2"	FunnpcClone004601;FunnpcClone004601;FunnpcClone004601;FunnpcClone004601;FunnpcClone004601	1	6	30	clone004_73	1			
+Leader_clone004_062	TeamLeaderNpc	鞑靼军巡逻1	npc\itemnpc057	15	11	5	5	"0,0;-1,-1;1,-1;-1,-2;1,-2"	FunnpcClone004601;FunnpcClone004601;FunnpcClone004601;FunnpcClone004601;FunnpcClone004601	1	6	30	clone004_74	1			
+Leader_clone004_063	TeamLeaderNpc	村民线拉忽尔脱攻城	npc\itemnpc057	15	11	5	5	"-1,-1;1,-1"	BossClone004210	1	6	60	clone004_52	1			
+Leader_clone004_064	TeamLeaderNpc	守军线呼延晓先锋队	npc\itemnpc057	15	11	5	5	"0,0;-1,-1;1,-1;-1,-2;1,-2"	BossClone004401;FunnpcClone004063;FunnpcClone004063;FunnpcClone004063;FunnpcClone004063	1	6	40	clone004_60	1			
+Leader_clone004_065	TeamLeaderNpc	粮草队伍	npc\itemnpc057	15	11	5	5	"0,3;-2,2;0,2;2,2;-2,0;0,0;2,0;-2,-2;2,-2;-2,-4;0,-4;2,-4"	FunnpcClone004675;FunnpcClone004676;FunnpcClone004674;FunnpcClone004676;FunnpcClone004676;FunnpcClone004674;FunnpcClone004676;FunnpcClone004676;FunnpcClone004676;FunnpcClone004676;FunnpcClone004674;FunnpcClone004676;	1	6	30	clone004_77	1			
+Leader_clone004_066	TeamLeaderNpc	鞑靼追击	npc\itemnpc057	15	11	5	5	"0,3;-2,2;0,2;"	FunnpcClone004037;FunnpcClone004038;FunnpcClone004038;	1	6	30	clone004_75	1			
+																	
+Leader_clone004_068	TeamLeaderNpc	正门进攻鞑靼	npc\itemnpc057	15	11	5	5	"0,1;-1,0;1,0;-1,-1;1,-1;-1,-2;1,-2;-1,-3;1,-3"	FunnpcClone004589;FunnpcClone004589;FunnpcClone004589;FunnpcClone004587;FunnpcClone004587;FunnpcClone004588;FunnpcClone004588;FunnpcClone004588;FunnpcClone004588;	1	6	30	clone004_76	1			
+Leader_clone004_069	TeamLeaderNpc	东泉村巡逻村民1（农民）	npc\itemnpc057	15	11	5	5	"0.492,-3.016;0.167,-1.144;1.414,-1.863;1.320,-0.626;-0.505,-2.035"	FunnpcClone004013;FunnpcClone004014;FunnpcClone004016;FunnpcClone004018;FunnpcClone004019	1	6	30	clone004_76	1			
+Leader_clone004_070	TeamLeaderNpc	东泉村巡逻村民2（农民）	npc\itemnpc057	15	11	5	5	"0.400,-0.563;-1.121,0.014;0.434,0.796"	FunnpcClone004013;FunnpcClone004014;FunnpcClone004016	1	6	30	clone004_75	1			
+Leader_clone004_071	TeamLeaderNpc	东泉村巡逻村民3（农民）	npc\itemnpc057	15	11	5	5	"-0.897,0.507;1.189,0.585;0.275,-0.957"	FunnpcClone004018;FunnpcClone004016;FunnpcClone004014	1	6	30	clone004_77	1			
+Leader_clone004_072	TeamLeaderNpc	村民线鞑靼进村BOSS	npc\itemnpc057	15	11	5	5	"0,0;-1,-1;1,-1;-1,-2;1,-2"	BossClone004201;FunnpcClone004063;FunnpcClone004063	1	6	30	clone004_60	1			
+Leader_clone004_073	TeamLeaderNpc	村民线鞑靼进村1	npc\itemnpc057	15	11	5	5	"0,0;-1,-1;1,-1;-1,-2;1,-2;-1,-3;1,-3"	FunnpcClone0045003;FunnpcClone0045001;FunnpcClone0045001;FunnpcClone0045001;FunnpcClone0045001;FunnpcClone0045002;FunnpcClone0045002;FunnpcClone004063;FunnpcClone004063;FunnpcClone004063;FunnpcClone004063;FunnpcClone004063	1	6	30	clone004_60	1			
+Leader_clone004_074	TeamLeaderNpc	村民线鞑靼进村2	npc\itemnpc057	15	11	5	5	"0,0;-1,-1;1,-1;-1,-2;1,-2;-1,-3;1,-3;-1,-4;1,-4"	FunnpcClone0045003;FunnpcClone0045001;FunnpcClone0045001;FunnpcClone0045001;FunnpcClone0045001;FunnpcClone0045000;FunnpcClone0045000;FunnpcClone0045000;FunnpcClone0045000;FunnpcClone004063;FunnpcClone004063;FunnpcClone004063	1	6	30	clone004_60	1			
+Leader_clone004_075	TeamLeaderNpc	村民线鞑靼进村3	npc\itemnpc057	15	11	5	5	"0,0;-1,-1;1,-1;-1,-2;1,-2;-1,-3;1,-3;-2,-1;2,-1;-2,-2;2,-2;-2,-3;2,-3"	FunnpcClone0045003;FunnpcClone0045003;FunnpcClone0045003;FunnpcClone0045002;FunnpcClone0045002;FunnpcClone0045002;FunnpcClone0045002;FunnpcClone0045000;FunnpcClone0045000;FunnpcClone0045000;FunnpcClone0045000;FunnpcClone0045000;FunnpcClone0045000	1	6	30	clone004_60	1			
+Leader_clone004_076	TeamLeaderNpc	村民线鞑靼进村4	npc\itemnpc057	15	11	5	5	"0,0;-1,-1;1,-1;-1,-2;1,-2;-1,-3;1,-3;-1,-4;1,-4;-2,-1;2,-1;-2,-2;2,-2;-2,-3;2,-3;-2,-4;2,-4"	FunnpcClone0045003;FunnpcClone0045001;FunnpcClone0045001;FunnpcClone0045001;FunnpcClone0045001;FunnpcClone0045002;FunnpcClone0045002;FunnpcClone0045002;FunnpcClone0045002;FunnpcClone0045000;FunnpcClone0045000;FunnpcClone0045000;FunnpcClone0045000;FunnpcClone0045000;FunnpcClone0045000;FunnpcClone0045000;FunnpcClone0045000;FunnpcClone004063;FunnpcClone004063	1	6	30	clone004_60	1			
+Leader_clone004_077	TeamLeaderNpc	村民线鞑靼进村5	npc\itemnpc057	15	11	5	5	"0,0;-1,-1;1,-1;-1,-2;1,-2;-1,-3;1,-3;-1,-4;1,-4;-2,-1;2,-1;-2,-2;2,-2;-2,-3;2,-3;-2,-4;2,-4"	FunnpcClone0045003;FunnpcClone0045001;FunnpcClone0045001;FunnpcClone0045001;FunnpcClone0045001;FunnpcClone0045002;FunnpcClone0045002;FunnpcClone0045002;FunnpcClone0045002;FunnpcClone0045000;FunnpcClone0045000;FunnpcClone0045000;FunnpcClone0045000;FunnpcClone0045000;FunnpcClone0045000;FunnpcClone0045000;FunnpcClone0045000;FunnpcClone004063;FunnpcClone004063	1	6	30	clone004_60	1			
+Leader_clone004_078	TeamLeaderNpc	lfs雁门关巡逻1	npc\itemnpc057e	15	11	2	5	"1,1;-1,1;1,-1;-1,-1"	FunnpcClone0048723;FunnpcClone0048723;FunnpcClone0048723;FunnpcClone0048723	1	6	30	clone004_lfs_003	1			
+Leader_clone004_079	TeamLeaderNpc	lfs雁门关巡逻2	npc\itemnpc057e	15	11	2	5	"1,1;-1,1;1,-1;-1,-1"	FunnpcClone0048723;FunnpcClone0048723;FunnpcClone0048723;FunnpcClone0048723	1	6	30	clone004_lfs_004	1			
+Leader_clone004_080	TeamLeaderNpc	jj雁门关巡逻兵1	npc\itemnpc057e	15	11	2	5	"0,0;2,0;0,2;2,2"	FunnpcClone0046007;FunnpcClone0046007;FunnpcClone0046007;FunnpcClone0046007	1	6	30	clone_jj_001	1			
+Leader_clone004_081	TeamLeaderNpc	jj雁门关巡逻兵2	npc\itemnpc057e	15	11	2	5	"0,0;2,0;0,2;2,2"	FunnpcClone0046007;FunnpcClone0046007;FunnpcClone0046007;FunnpcClone0046007	1	6	30	clone_jj_002	1			
+Leader_clone004_082	TeamLeaderNpc	jj东泉村鞑靼巡逻兵1	npc\itemnpc057e	15	11	2	5	"0,0;-1,-3;1,-3;-1,-6;1,-6"	FunnpcClone0046113;FunnpcClone0046113;FunnpcClone0046113;FunnpcClone0046113;FunnpcClone0046113	1	6	30	clone_jj_003	1			
+Leader_clone004_083	TeamLeaderNpc	jj东泉村鞑靼巡逻兵2	npc\itemnpc057e	15	11	2	5	"0,0;0,-2"	FunnpcClone0046112;FunnpcClone0046112	1	6	30	clone_jj_004	1			
+Leader_clone004_084	TeamLeaderNpc	jj东泉村鞑靼巡逻兵3	npc\itemnpc057e	15	11	2	5	"0,0;0,-2"	FunnpcClone0046112;FunnpcClone0046112	1	6	30	clone_jj_005	1			
+Leader_clone004_085	TeamLeaderNpc	jj蛇谷鞑靼巡逻兵4	npc\itemnpc057e	15	11	2	5	"0,0;0,-2"	FunnpcClone0046209;FunnpcClone0046209	1	6	30	clone_jj_006	1			
+Leader_clone004_086	TeamLeaderNpc	jj鞑靼大营巡逻兵5	npc\itemnpc057e	15	11	2	5	"0,0;2,0"	FunnpcClone0046508;FunnpcClone0046508	1	6	30	clone_jj_007	1			
+Leader_clone004_087	TeamLeaderNpc	jj鞑靼大营巡逻兵6	npc\itemnpc057e	15	11	2	5	"0,0;2,0"	FunnpcClone0046508;FunnpcClone0046508	1	6	30	clone_jj_008	1			
+Leader_clone004_088	TeamLeaderNpc	jj鞑靼大营巡逻兵7	npc\itemnpc057e	15	11	2	5	"0,0;2,0"	FunnpcClone0046508;FunnpcClone0046508	1	6	30	clone_jj_009	1			
+Leader_clone004_089	TeamLeaderNpc	jj鞑靼大营巡逻兵8	npc\itemnpc057e	15	11	2	5	"0,0;2,0"	FunnpcClone0046508;FunnpcClone0046508	1	6	30	clone_jj_010	1			
+Leader_clone004_090	TeamLeaderNpc	jj鞑靼大营巡逻兵9	npc\itemnpc057e	15	11	2	5	"0,0;2,0"	FunnpcClone0046508;FunnpcClone0046508	1	6	30	clone_jj_011	1			
+Leader_clone004_067	TeamLeaderNpc	逃跑农民	npc\itemnpc057e	15	11	2	5	"0,0"	FunnpcClone004075	1	6	30	clone004_75	1	npc\clone\clone004\EscapeNpc.lua		
+Leader_clone004_091	TeamLeaderNpc	逃跑农民	npc\itemnpc057e	15	11	2	5	"0,0"	FunnpcClone004076	1	6	30	clone004_75	1	npc\clone\clone004\EscapeNpc.lua		
+Leader_clone004_092	TeamLeaderNpc	逃跑农民	npc\itemnpc057e	15	11	2	5	"0,0"	FunnpcClone004077	1	6	30	clone004_75	1	npc\clone\clone004\EscapeNpc.lua		
+Leader_clone004_093	TeamLeaderNpc	逃跑农民	npc\itemnpc057e	15	11	2	5	"0,0"	FunnpcClone004078	1	6	30	clone004_75	1	npc\clone\clone004\EscapeNpc.lua		
+Leader_clone004_094	TeamLeaderNpc	逃跑农民	npc\itemnpc057e	15	11	2	5	"0,0"	FunnpcClone004079	1	6	30	clone004_75	1	npc\clone\clone004\EscapeNpc.lua		
+Leader_clone004_095	TeamLeaderNpc	逃跑农民	npc\itemnpc057e	15	11	2	5	"0,0"	FunnpcClone004076	1	6	30	clone004_75	1	npc\clone\clone004\EscapeNpc.lua		
+Leader_clone004_096	TeamLeaderNpc	逃跑农民	npc\itemnpc057e	15	11	2	5	"0,0"	FunnpcClone004077	1	6	30	clone004_75	1	npc\clone\clone004\EscapeNpc.lua		
+																	
+Leader_clone007_001	TeamLeaderNpc	死门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007021a;NpcClone007011a;NpcClone007012a	1	6	0	AI_clone007_xl01	1			
+Leader_clone007_002	TeamLeaderNpc	死门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007021a;NpcClone007011a;NpcClone007012a	1	6	0	AI_clone007_xl02	1			
+Leader_clone007_003	TeamLeaderNpc	死门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007021a;NpcClone007013a;NpcClone007013a	1	6	0	AI_clone007_xl03	1			
+Leader_clone007_004	TeamLeaderNpc	休门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007021yg;NpcClone007022m;NpcClone007022m	1	6	0	AI_clone007_xl04	1			
+Leader_clone007_005	TeamLeaderNpc	杜门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007021ya;NpcClone007019a;NpcClone007018a	1	6	0	AI_clone007_xl05	1			
+Leader_clone007_006	TeamLeaderNpc	杜门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007021ya;NpcClone007019a;NpcClone007018a	1	6	0	AI_clone007_xl06	1			
+Leader_clone007_007	TeamLeaderNpc	杜门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007021ya;NpcClone007020a;NpcClone007020a	1	6	0	AI_clone007_xl07	1			
+Leader_clone007_008	TeamLeaderNpc	杜门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007021ya;NpcClone007020a;NpcClone007020a	1	6	0	AI_clone007_xl08	1			
+Leader_clone007_009	TeamLeaderNpc	景门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007021yf;NpcClone007022k;NpcClone007022k	1	6	0	AI_clone007_xl09	1			
+Leader_clone007_010	TeamLeaderNpc	惊门机关人巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007007;NpcClone007003;NpcClone007003	1	6	0	AI_clone007_xl10	1			
+	//困难																
+Leader_clone007_101	TeamLeaderNpc	死门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007121a;NpcClone007111a;NpcClone007112a	1	6	0	AI_clone007_xl01	1			
+Leader_clone007_102	TeamLeaderNpc	死门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007121a;NpcClone007111a;NpcClone007112a	1	6	0	AI_clone007_xl02	1			
+Leader_clone007_103	TeamLeaderNpc	死门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007121a;NpcClone007113a;NpcClone007113a	1	6	0	AI_clone007_xl03	1			
+Leader_clone007_104	TeamLeaderNpc	休门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007121yg;NpcClone007122m;NpcClone007122m	1	6	0	AI_clone007_xl04	1			
+Leader_clone007_105	TeamLeaderNpc	杜门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007121ya;NpcClone007119a;NpcClone007118a	1	6	0	AI_clone007_xl05	1			
+Leader_clone007_106	TeamLeaderNpc	杜门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007121ya;NpcClone007119a;NpcClone007118a	1	6	0	AI_clone007_xl06	1			
+Leader_clone007_107	TeamLeaderNpc	杜门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007121ya;NpcClone007120a;NpcClone007120a	1	6	0	AI_clone007_xl07	1			
+Leader_clone007_108	TeamLeaderNpc	杜门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007121ya;NpcClone007120a;NpcClone007120a	1	6	0	AI_clone007_xl08	1			
+Leader_clone007_109	TeamLeaderNpc	景门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007121yf;NpcClone007122k;NpcClone007122k	1	6	0	AI_clone007_xl09	1			
+Leader_clone007_110	TeamLeaderNpc	惊门机关人巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007107;NpcClone007103;NpcClone007103	1	6	0	AI_clone007_xl10	1			
+	//地狱																
+Leader_clone007_201	TeamLeaderNpc	死门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007221a;NpcClone007211a;NpcClone007212a	1	6	0	AI_clone007_xl01	1			
+Leader_clone007_202	TeamLeaderNpc	死门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007221a;NpcClone007211a;NpcClone007212a	1	6	0	AI_clone007_xl02	1			
+Leader_clone007_203	TeamLeaderNpc	死门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007221a;NpcClone007213a;NpcClone007213a	1	6	0	AI_clone007_xl03	1			
+Leader_clone007_204	TeamLeaderNpc	休门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007221yg;NpcClone007222m;NpcClone007222m	1	6	0	AI_clone007_xl04	1			
+Leader_clone007_205	TeamLeaderNpc	杜门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007221ya;NpcClone007219a;NpcClone007218a	1	6	0	AI_clone007_xl05	1			
+Leader_clone007_206	TeamLeaderNpc	杜门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007221ya;NpcClone007219a;NpcClone007218a	1	6	0	AI_clone007_xl06	1			
+Leader_clone007_207	TeamLeaderNpc	杜门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007221ya;NpcClone007220a;NpcClone007220a	1	6	0	AI_clone007_xl07	1			
+Leader_clone007_208	TeamLeaderNpc	杜门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007221ya;NpcClone007220a;NpcClone007220a	1	6	0	AI_clone007_xl08	1			
+Leader_clone007_209	TeamLeaderNpc	景门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007221yf;NpcClone007222k;NpcClone007222k	1	6	0	AI_clone007_xl09	1			
+Leader_clone007_210	TeamLeaderNpc	惊门机关人巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007207;NpcClone007203;NpcClone007203	1	6	0	AI_clone007_xl10	1			
+	//修罗																
+Leader_clone007_301	TeamLeaderNpc	死门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007321a;NpcClone007311a;NpcClone007312a	1	6	0	AI_clone007_xl01	1			
+Leader_clone007_302	TeamLeaderNpc	死门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007321a;NpcClone007311a;NpcClone007312a	1	6	0	AI_clone007_xl02	1			
+Leader_clone007_303	TeamLeaderNpc	死门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007321a;NpcClone007313a;NpcClone007313a	1	6	0	AI_clone007_xl03	1			
+Leader_clone007_304	TeamLeaderNpc	休门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007321yg;NpcClone007322m;NpcClone007322m	1	6	0	AI_clone007_xl04	1			
+Leader_clone007_305	TeamLeaderNpc	杜门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007321ya;NpcClone007319a;NpcClone007318a	1	6	0	AI_clone007_xl05	1			
+Leader_clone007_306	TeamLeaderNpc	杜门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007321ya;NpcClone007319a;NpcClone007318a	1	6	0	AI_clone007_xl06	1			
+Leader_clone007_307	TeamLeaderNpc	杜门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007321ya;NpcClone007320a;NpcClone007320a	1	6	0	AI_clone007_xl07	1			
+Leader_clone007_308	TeamLeaderNpc	杜门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007321ya;NpcClone007320a;NpcClone007320a	1	6	0	AI_clone007_xl08	1			
+Leader_clone007_309	TeamLeaderNpc	景门巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007321yf;NpcClone007322k;NpcClone007322k	1	6	0	AI_clone007_xl09	1			
+Leader_clone007_310	TeamLeaderNpc	惊门机关人巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	NpcClone007307;NpcClone007303;NpcClone007303	1	6	0	AI_clone007_xl10	1			
+																	
+																	
+																	
+																	
+																	
+Leader_clone009_002	TeamLeaderNpc	入口巡逻2	npc\itemnpc057e		11	3	5	"0,0;0,1"	NpcClone009103;NpcClone009103	1	6	0	clone009_002	1			
+Leader_clone009_003	TeamLeaderNpc	震云台巡逻左	npc\itemnpc057e		11	3	5	"0,0;0,-1"	NpcClone009103;NpcClone009103	1	6	0	clone009_003	1			
+Leader_clone009_004	TeamLeaderNpc	震云台巡逻右	npc\itemnpc057e		11	3	5	"0,0;0,-1"	NpcClone009103;NpcClone009103	1	6	0	clone009_004	1			
+Leader_clone009_005	TeamLeaderNpc	眉严院前巡逻	npc\itemnpc057e		11	3	5	"0,0;-1,-1"	NpcClone009106;NpcClone009106	1	6	0	clone009_005	1			
+Leader_clone009_006	TeamLeaderNpc	眉严塔巡逻	npc\itemnpc057e		11	3	5	"0,0;-1,-1"	NpcClone009106;NpcClone009106	1	6	0	clone009_006	1			
+Leader_clone009_007	TeamLeaderNpc	眉严塔后巡逻1	npc\itemnpc057e		11	3	5	"0,0;-1,-1"	NpcClone009106;NpcClone009106	1	6	0	clone009_007	1			
+Leader_clone009_008	TeamLeaderNpc	眉严塔后巡逻2	npc\itemnpc057e		11	3	5	"0,0;-1,-1"	NpcClone009106;NpcClone009106	1	6	0	clone009_008	1			
+Leader_clone009_009	TeamLeaderNpc	眉严院山下巡逻	npc\itemnpc057e		11	3	5	"0,0;-1,-1"		1	6	0	clone009_009	1			
+Leader_clone009_010	TeamLeaderNpc	绝魂窟巡逻	npc\itemnpc057e		11	3	5	"0,0;-1,-1"		1	6	0	clone009_010	1			
+Leader_clone009_011	TeamLeaderNpc	仙女庵前巡逻	npc\itemnpc057e		11	3	5	"0,0;-1,-1"	NpcClone009112;NpcClone009112	1	6	0	clone009_011	1			
+Leader_clone009_012	TeamLeaderNpc	仙女庵后巡逻	npc\itemnpc057e		11	3	5	"0,0;-1,-1"	NpcClone009112;NpcClone009112	1	6	0	clone009_012	1			
+Leader_clone009_013	TeamLeaderNpc	卧云庵巡逻1	npc\itemnpc057e		11	3	5	"0,0;-1,-1"	NpcClone009112;NpcClone009112	1	6	0	clone009_017	1			
+Leader_clone009_014	TeamLeaderNpc	卧云庵巡逻2	npc\itemnpc057e		11	3	5	"0,0;-1,-1"	NpcClone009112;NpcClone009112	1	6	0	clone009_018	1			
+Leader_clone009_015	TeamLeaderNpc	眉严塔巡逻	npc\itemnpc057e		11	3	5	"0,0;-1,-1"	NpcClone009006;NpcClone009003	1	6	0	clone009_020	1			
+Leader_clone009_016	TeamLeaderNpc	舍身崖桥前巡逻	npc\itemnpc057		11	3	5	"0,0;0,1"	NpcClone009115;NpcClone009115	1	6	0	clone009_027	1			
+Leader_clone009_017	TeamLeaderNpc	舍身崖楼梯巡逻1	npc\itemnpc057		11	3	5	"0,0;0,1"	NpcClone009115;NpcClone009115	1	6	0	clone009_028	1			
+Leader_clone009_018	TeamLeaderNpc	舍身崖楼梯巡逻2	npc\itemnpc057		11	3	5	"0,0;0,1"	NpcClone009115;NpcClone009115	1	6	0	clone009_029	1			
+Leader_clone009_019	TeamLeaderNpc	舍身崖楼梯巡逻3	npc\itemnpc057		11	3	5	"0,0;0,1"	NpcClone009115;NpcClone009115	1	6	0	clone009_030	1			
+Leader_clone009_020	TeamLeaderNpc	舍身崖后巡逻	npc\itemnpc057		11	3	5	"0,0;0,1"	NpcClone009115;NpcClone009115	1	6	0	clone009_031	1			
+																	
+Leader_clone005_001	TeamLeaderNpc	木人巷塔林巡逻1	npc\itemnpc057	10	11	2	5	"0,0"	NpcClone005006	1	6	0	clone005_001	1			
+Leader_clone005_002	TeamLeaderNpc	木人巷塔林巡逻2	npc\itemnpc057	10	11	2	5	"0,0"	NpcClone005008	1	6	0	clone005_002	1			
+Leader_clone005_003	TeamLeaderNpc	木人巷塔林巡逻3	npc\itemnpc057	10	11	2	5	"0,0;1,0"	NpcClone005002;NpcClone005004	1	6	0	clone005_003	1			
+Leader_clone005_004	TeamLeaderNpc	木人巷塔林巡逻4	npc\itemnpc057	10	11	2	5	"0,0;-1,-1"	NpcClone005003;NpcClone005005	1	6	0	clone005_004	1			
+Leader_clone005_005	TeamLeaderNpc	木人巷罗汉区1	npc\itemnpc057	10	11	2	5	"0,0;-1,-1"	NpcClone005016;NpcClone005017	1	6	0	clone005_005	1			
+Leader_clone005_006	TeamLeaderNpc	木人巷罗汉区2	npc\itemnpc057	10	11	2	5	"0,0;-1,-1"	NpcClone005015;NpcClone005016	1	6	0	clone005_006	1			
+Leader_clone005_007	TeamLeaderNpc	木人巷罗汉区3	npc\itemnpc057	10	11	2	5	"0,0;-1,-1"	NpcClone005015;NpcClone005017	1	6	0	clone005_007	1			
+Leader_clone005_008	TeamLeaderNpc	木人巷罗汉区4	npc\itemnpc057	10	11	2	5	"0,0;-1,-1"	NpcClone005016;NpcClone005017	1	6	0	clone005_008	1			
+Leader_clone005_009	TeamLeaderNpc	木人巷精英区1	npc\itemnpc057	10	11	2	5	"0,0;-1,0"	NpcClone005018;NpcClone005023	1	6	0	clone005_009	1			
+Leader_clone005_010	TeamLeaderNpc	木人巷精英区2	npc\itemnpc057	10	11	2	5	"0,0;-1,0"	NpcClone005018;NpcClone005023	1	6	0	clone005_010	1			
+Leader_clone005_011	TeamLeaderNpc	木人巷精英区3	npc\itemnpc057	10	11	2	5	"0,0;1,-1"	NpcClone005018;NpcClone005023	1	6	0	clone005_011	1			
+Leader_clone005_012	TeamLeaderNpc	木人巷八角塔1	npc\itemnpc057	10	11	2	5	"0,0"	NpcClone005022	1	6	0	clone005_012	1			
+Leader_clone005_013	TeamLeaderNpc	木人巷八角塔2	npc\itemnpc057	10	11	2	5	"0,0"	NpcClone005022	1	6	0	clone005_013	1			
+Leader_clone005_014	TeamLeaderNpc	木人巷八角塔3	npc\itemnpc057	10	11	2	5	"0,0"	NpcClone005022	1	6	0	clone005_014	1			
+Leader_clone005_015	TeamLeaderNpc	木人巷解禅通道1	npc\itemnpc057	10	11	2	5	"0,0;-1,-1"	NpcClone005026;NpcClone005026	1	6	0	clone005_015	1			
+Leader_clone005_016	TeamLeaderNpc	木人巷解禅通道2	npc\itemnpc057	10	11	2	5	"0,0;-1,-1"	NpcClone005025;NpcClone005025	1	6	0	clone005_016	1			
+Leader_clone005_017	TeamLeaderNpc	木人巷塔林巡逻4	npc\itemnpc057	10	11	2	5	"0,0"	NpcClone005007	1	6	0	clone005_017	1			
+Leader_clone005_018	TeamLeaderNpc	木人巷塔林巡逻5	npc\itemnpc057	10	11	2	5	"0,0"	NpcClone005008	1	6	0	clone005_018	1			
+Leader_clone005_019	TeamLeaderNpc	木人巷塔林巡逻6	npc\itemnpc057	10	11	2	5	"0,0;-1,-1"	NpcClone005004;NpcClone005005	1	6	0	clone005_019	1			
+Leader_clone005_020	TeamLeaderNpc	木人巷塔林巡逻7	npc\itemnpc057	10	11	2	5	"0,0"	NpcClone005006	1	6	0	clone005_020	1			
+Leader_clone005_021	TeamLeaderNpc	木人巷塔林巡逻8	npc\itemnpc057	10	11	2	5	"0,0"	NpcClone005008	1	6	0	clone005_021	1			
+Leader_clone005_022	TeamLeaderNpc	木人巷塔林巡逻9	npc\itemnpc057	10	11	2	5	"0,0;-1,-1"	NpcClone005003;NpcClone005004	1	6	0	clone005_022	1			
+Leader_clone005_023	TeamLeaderNpc	木人巷塔林巡逻10	npc\itemnpc057	10	11	2	5	"0,0;-1,-1"	NpcClone005002;NpcClone005005	1	6	0	clone005_023	1			
+Leader_clone005_024	TeamLeaderNpc	木人巷塔林巡逻11	npc\itemnpc057	10	11	2	5	"0,0"	NpcClone005007	1	6	0	clone005_024	1			
+Leader_clone005_025	TeamLeaderNpc	木人巷塔林巡逻12	npc\itemnpc057	10	11	2	5	"0,0"	NpcClone005004	1	6	0	clone005_025	1			
+Leader_clone005_026	TeamLeaderNpc	木人巷塔林巡逻13	npc\itemnpc057	10	11	2	5	"0,0"	NpcClone005005	1	6	0	clone005_026	1			
+Leader_clone005_027	TeamLeaderNpc	木人巷塔林巡逻14	npc\itemnpc057	10	11	2	5	"0,0"	NpcClone005006	1	6	0	clone005_027	1			
+Leader_clone005_028	TeamLeaderNpc	木人巷解禅迷宫1	npc\itemnpc057	10	11	2.5	6	"0,0;-1,-1"	NpcClone005026;NpcClone005025	1	6	0	clone005_028	1			
+Leader_clone005_029	TeamLeaderNpc	木人巷解禅迷宫2	npc\itemnpc057	10	11	2.5	6	"0,0;-1,-1"	NpcClone005026;NpcClone005025	1	6	0	clone005_029	1			
+Leader_clone005_030	TeamLeaderNpc	木人巷解禅迷宫3	npc\itemnpc057	10	11	2.5	6	"0,0;-1,-1"	NpcClone005026;NpcClone005025	1	6	0	clone005_030	1			
+Leader_clone005_031	TeamLeaderNpc	木人巷解禅迷宫4	npc\itemnpc057	10	11	2.5	6	"0,0;-1,-1"	NpcClone005026;NpcClone005025	1	6	0	clone005_031	1			
+Leader_clone005_032	TeamLeaderNpc	木人巷解禅迷宫5	npc\itemnpc057	10	11	2.5	6	"0,0;-1,-1"	NpcClone005026;NpcClone005025	1	6	0	clone005_032	1			
+Leader_clone005_033	TeamLeaderNpc	木人巷解禅迷宫6	npc\itemnpc057	10	11	2.5	6	"0,0;-1,-1"	NpcClone005026;NpcClone005025	1	6	0	clone005_033	1			
+Leader_clone005_034	TeamLeaderNpc	木人巷解禅迷宫7	npc\itemnpc057	10	11	2.5	6	"0,0;-1,-1"	NpcClone005026;NpcClone005025	1	6	0	clone005_034	1			
+Leader_clone005_035	TeamLeaderNpc	木人巷解禅迷宫8	npc\itemnpc057	10	11	2.5	6	"0,0;-1,-1"	NpcClone005026;NpcClone005025	1	6	0	clone005_035	1			
+Leader_clone005_036	TeamLeaderNpc	木人巷解禅迷宫9	npc\itemnpc057	10	11	2.5	6	"0,0;-1,-1"	NpcClone005026;NpcClone005025	1	6	0	clone005_036	1			
+Leader_clone005_037	TeamLeaderNpc	木人巷木人区1	npc\itemnpc057	10	11	2.5	6	"0,0;-1,-1"	NpcClone005028;NpcClone005029	1	6	0	clone005_037	1			
+Leader_clone005_038	TeamLeaderNpc	木人巷木人区2	npc\itemnpc057	10	11	2.5	6	"0,0;-1,-1"	NpcClone005028;NpcClone005029	1	6	0	clone005_038	1			
+Leader_clone005_039	TeamLeaderNpc	木人巷木人区3	npc\itemnpc057	10	11	2.5	6	"0,0;-1,-1"	NpcClone005029;NpcClone005029	1	6	0	clone005_039	1			
+Leader_clone005_040	TeamLeaderNpc	木人巷木人区4	npc\itemnpc057	10	11	2.5	6	"0,0;-1,-1"	NpcClone005029;NpcClone005028	1	6	0	clone005_040	1			
+Leader_clone005_041	TeamLeaderNpc	木人巷木人区5	npc\itemnpc057	10	11	2.5	6	"0,0;-1,-1"	NpcClone005029;NpcClone005028	1	6	0	clone005_041	1			
+Leader_clone005_042	TeamLeaderNpc	木人巷木人区6	npc\itemnpc057	10	11	2.5	6	"0,0;-1,-1"	NpcClone005028;NpcClone005028	1	6	0	clone005_042	1			
+Leader_clone005_043	TeamLeaderNpc	木人巷铜人区1	npc\itemnpc057	10	11	2.5	6	"0,0;-1,-1"	NpcClone005030;NpcClone005031	1	6	0	clone005_043	1			
+Leader_clone005_044	TeamLeaderNpc	木人巷铜人区2	npc\itemnpc057	10	11	2.5	6	"0,0;-1,-1"	NpcClone005030;NpcClone005031	1	6	0	clone005_044	1			
+Leader_clone005_045	TeamLeaderNpc	木人巷金人区1	npc\itemnpc057	10	11	2.5	6	"0,0;-1,-1;1,-1"	NpcClone005032;NpcClone005033;NpcClone005033	1	6	0	clone005_045	1			
+Leader_clone005_046	TeamLeaderNpc	木人巷金人区2	npc\itemnpc057	10	11	2.5	6	"0,0;-1,-1;1,-1"	NpcClone005032;NpcClone005033;NpcClone005033	1	6	0	clone005_046	1			
+Leader_clone005_047	TeamLeaderNpc	木人巷罗汉区1	npc\itemnpc057	10	11	2.5	6	"0,0;-1,-1;1,-1"	NpcClone005036;NpcClone005037;NpcClone005037	1	6	0	clone005_047	1			
+Leader_clone005_048	TeamLeaderNpc	木人巷罗汉区2	npc\itemnpc057	10	11	2.5	6	"0,0;-1,-1;1,-1"	NpcClone005036;NpcClone005037;NpcClone005037	1	6	0	clone005_048	1			
+Leader_clone005_049	TeamLeaderNpc	木人巷罗汉区3	npc\itemnpc057	10	11	2.5	6	"0,0;-1,-1;1,-1"	NpcClone005036;NpcClone005037;NpcClone005037	1	6	0	clone005_049	1			
+Leader_clone005_050	TeamLeaderNpc	木人巷罗汉区4	npc\itemnpc057	10	11	2.5	6	"0,0;-1,-1;1,-1"	NpcClone005036;NpcClone005037;NpcClone005037	1	6	0	clone005_050	1			
+																	
+																	
+																	
+Leader_clone019_001p	TeamLeaderNpc	蛊使召唤仪式巡逻	npc\itemnpc057e	25	11	6	6	"0,0;-1,-1;1,-1"	NpcClone019014p;NpcClone019014p;NpcClone019016p	1	6	0	clone019_002	1			
+Leader_clone019_002p	TeamLeaderNpc	蛊使召唤仪式巡逻	npc\itemnpc057e	25	11	6	6	"0,0;-1,-1;1,-1"	NpcClone019014p;NpcClone019014p;NpcClone019016p	1	6	0	clone019_003	1			
+Leader_clone019_003p	TeamLeaderNpc	蛊使召唤仪式巡逻	npc\itemnpc057e	25	11	6	6	"0,0;-1,-1;1,-1"	NpcClone019014p;NpcClone019016p;NpcClone019016p	1	6	0	clone019_004	1			
+Leader_clone019_004p	TeamLeaderNpc	蛊使召唤仪式巡逻	npc\itemnpc057e	25	11	6	6	"0,0;-1,-1;1,-1"	NpcClone019014p;NpcClone019016p;NpcClone019016p	1	6	0	clone019_005	1			
+Leader_clone019_001k	TeamLeaderNpc	蛊使召唤仪式巡逻	npc\itemnpc057e	25	11	6	6	"0,0;-1,-1;1,-1"	NpcClone019014k;NpcClone019014k;NpcClone019016k	1	6	0	clone019_002	1			
+Leader_clone019_002k	TeamLeaderNpc	蛊使召唤仪式巡逻	npc\itemnpc057e	25	11	6	6	"0,0;-1,-1;1,-1"	NpcClone019014k;NpcClone019014k;NpcClone019016k	1	6	0	clone019_003	1			
+Leader_clone019_003k	TeamLeaderNpc	蛊使召唤仪式巡逻	npc\itemnpc057e	25	11	6	6	"0,0;-1,-1;1,-1"	NpcClone019014k;NpcClone019016k;NpcClone019016k	1	6	0	clone019_004	1			
+Leader_clone019_004k	TeamLeaderNpc	蛊使召唤仪式巡逻	npc\itemnpc057e	25	11	6	6	"0,0;-1,-1;1,-1"	NpcClone019014k;NpcClone019016k;NpcClone019016k	1	6	0	clone019_005	1			
+Leader_clone019_001d	TeamLeaderNpc	蛊使召唤仪式巡逻	npc\itemnpc057e	25	11	6	6	"0,0;-1,-1;1,-1"	NpcClone019014d;NpcClone019014d;NpcClone019016d	1	6	0	clone019_002	1			
+Leader_clone019_002d	TeamLeaderNpc	蛊使召唤仪式巡逻	npc\itemnpc057e	25	11	6	6	"0,0;-1,-1;1,-1"	NpcClone019014d;NpcClone019014d;NpcClone019016d	1	6	0	clone019_003	1			
+Leader_clone019_003d	TeamLeaderNpc	蛊使召唤仪式巡逻	npc\itemnpc057e	25	11	6	6	"0,0;-1,-1;1,-1"	NpcClone019014d;NpcClone019016d;NpcClone019016d	1	6	0	clone019_004	1			
+Leader_clone019_004d	TeamLeaderNpc	蛊使召唤仪式巡逻	npc\itemnpc057e	25	11	6	6	"0,0;-1,-1;1,-1"	NpcClone019014d;NpcClone019016d;NpcClone019016d	1	6	0	clone019_005	1			
+Leader_clone019_005p	TeamLeaderNpc	巡逻1	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone019035p;NpcClone019036p	1	6	0	clone019_006	1			
+Leader_clone019_005k	TeamLeaderNpc	巡逻1	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone019035k;NpcClone019036k	1	6	0	clone019_006	1			
+Leader_clone019_005d	TeamLeaderNpc	巡逻1	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone019035d;NpcClone019036d	1	6	0	clone019_006	1			
+Leader_clone019_006p	TeamLeaderNpc	鬼使巡逻1	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1"	NpcClone019037p;NpcClone019038p;NpcClone019039p	1	6	0	clone019_007	1			
+Leader_clone019_006k	TeamLeaderNpc	鬼使巡逻1	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1"	NpcClone019037k;NpcClone019038k;NpcClone019039k	1	6	0	clone019_007	1			
+Leader_clone019_006d	TeamLeaderNpc	鬼使巡逻1	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1"	NpcClone019037d;NpcClone019038d;NpcClone019039d	1	6	0	clone019_007	1			
+Leader_clone019_007p	TeamLeaderNpc	鬼使巡逻2	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1"	NpcClone019037p;NpcClone019038p;NpcClone019038p	1	6	0	clone019_008	1			
+Leader_clone019_007k	TeamLeaderNpc	鬼使巡逻2	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1"	NpcClone019037k;NpcClone019038k;NpcClone019038k	1	6	0	clone019_008	1			
+Leader_clone019_007d	TeamLeaderNpc	鬼使巡逻2	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1"	NpcClone019037d;NpcClone019038d;NpcClone019038d	1	6	0	clone019_008	1			
+Leader_clone019_008p	TeamLeaderNpc	毒使巡逻1	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1"	BossClone019015p;NpcClone019040p;NpcClone019041p	1	6	0	clone019_009	1			
+Leader_clone019_008k	TeamLeaderNpc	毒使巡逻1	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1"	BossClone019015k;NpcClone019040k;NpcClone019041k	1	6	0	clone019_009	1			
+Leader_clone019_008d	TeamLeaderNpc	毒使巡逻1	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1"	BossClone019015d;NpcClone019040d;NpcClone019041d	1	6	0	clone019_009	1			
+Leader_clone019_009p	TeamLeaderNpc	毒使巡逻2	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1"	NpcClone019040p;NpcClone019041p	1	6	0	clone019_010	1			
+Leader_clone019_009k	TeamLeaderNpc	毒使巡逻2	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1"	NpcClone019040k;NpcClone019041k	1	6	0	clone019_010	1			
+Leader_clone019_009d	TeamLeaderNpc	毒使巡逻2	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1"	NpcClone019040d;NpcClone019041d	1	6	0	clone019_010	1			
+Leader_clone019_010p	TeamLeaderNpc	尸使巡逻1	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1"	NpcClone019042p;NpcClone019043p;NpcClone019043p	1	6	0	clone019_011	1			
+Leader_clone019_010k	TeamLeaderNpc	尸使巡逻1	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1"	NpcClone019042k;NpcClone019043k;NpcClone019043k	1	6	0	clone019_011	1			
+Leader_clone019_010d	TeamLeaderNpc	尸使巡逻1	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1"	NpcClone019042d;NpcClone019043d;NpcClone019043d	1	6	0	clone019_011	1			
+Leader_clone019_011p	TeamLeaderNpc	佛使巡逻1	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1"	NpcClone019045p;NpcClone019046p;NpcClone019044p	1	6	0	clone019_012	1			
+Leader_clone019_011k	TeamLeaderNpc	佛使巡逻1	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1"	NpcClone019045k;NpcClone019046k;NpcClone019044k	1	6	0	clone019_012	1			
+Leader_clone019_011d	TeamLeaderNpc	佛使巡逻1	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1"	NpcClone019045d;NpcClone019046d;NpcClone019044d	1	6	0	clone019_012	1			
+Leader_clone019_012p	TeamLeaderNpc	佛使巡逻2	npc\itemnpc057e		11	3	5	"1,1;-1,1;-1,-1;1,-1"	NpcClone019045p;NpcClone019046p;NpcClone019044p;NpcClone019045p	1	6	0	clone019_013	1			
+Leader_clone019_012k	TeamLeaderNpc	佛使巡逻2	npc\itemnpc057e		11	3	5	"1,1;-1,1;-1,-1;1,-1"	NpcClone019045k;NpcClone019046k;NpcClone019044k;NpcClone019045k	1	6	0	clone019_013	1			
+Leader_clone019_012d	TeamLeaderNpc	佛使巡逻2	npc\itemnpc057e		11	3	5	"1,1;-1,1;-1,-1;1,-1"	NpcClone019045d;NpcClone019046d;NpcClone019044d;NpcClone019045d	1	6	0	clone019_013	1			
+Leader_clone019_013p	TeamLeaderNpc	山谷巡逻1	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone019077p;NpcClone019077p	1	6	0	clone019_014	1			
+Leader_clone019_013k	TeamLeaderNpc	山谷巡逻1	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone019077k;NpcClone019077k	1	6	0	clone019_014	1			
+Leader_clone019_013d	TeamLeaderNpc	山谷巡逻1	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone019077d;NpcClone019077d	1	6	0	clone019_014	1			
+Leader_clone019_014p	TeamLeaderNpc	山谷巡逻2	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1"	NpcClone019077p;NpcClone019077p;NpcClone019077p	1	6	0	clone019_015	1			
+Leader_clone019_014k	TeamLeaderNpc	山谷巡逻2	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1"	NpcClone019077k;NpcClone019077k;NpcClone019077k	1	6	0	clone019_015	1			
+Leader_clone019_014d	TeamLeaderNpc	山谷巡逻2	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1"	NpcClone019077d;NpcClone019077d;NpcClone019077d	1	6	0	clone019_015	1			
+Leader_clone019_015	TeamLeaderNpc	修罗殿刷兵	npc\itemnpc057e	25	11	6	6	"1,1;-1,1;-1,-1;1,-1"	NpcClone019057;NpcClone019057;NpcClone019058;NpcClone019058	1	6	0	clone019_016	1		1423	
+Leader_clone019_016	TeamLeaderNpc	修罗殿刷兵	npc\itemnpc057e	25	11	6	6	"0,0;-1,-1;1,-1"	NpcClone019057;NpcClone019058;NpcClone019058	1	6	0	clone019_016	1		1423	
+Leader_clone019_017	TeamLeaderNpc	修罗殿刷兵	npc\itemnpc057e	25	11	3	7.5	"1,1;-1,1;-1,-1;1,-1;0,0"	NpcClone019058;NpcClone019058;NpcClone019058;NpcClone019058;NpcClone019057	1	6	0	clone019_022	1			
+Leader_clone019_018	TeamLeaderNpc	修罗殿刷兵	npc\itemnpc057e	16	11	1.5	5	"0,0;-1,-1;1,-1"	NpcClone019074;NpcClone019073;NpcClone019073	1	6	0	mst_clone_008	1			
+Leader_clone019_019	TeamLeaderNpc	巡逻1(地狱)	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1"	NpcClone019035;NpcClone019035;NpcClone019036	1	6	0	clone019_006	1			
+Leader_clone019_020	TeamLeaderNpc	鬼使巡逻(困难)	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone019037;NpcClone019038	1	6	0	clone019_023	1			
+Leader_clone019_021	TeamLeaderNpc	鬼使巡逻(地狱)	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1"	NpcClone019037;NpcClone019037;NpcClone019039	1	6	0	clone019_024	1			
+Leader_clone019_022	TeamLeaderNpc	鬼使巡逻(地狱)	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1"	NpcClone019037;NpcClone019037;NpcClone019038	1	6	0	clone019_025	1			
+Leader_clone019_023	TeamLeaderNpc	修罗殿困难巡逻	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1"	NpcClone019079k;NpcClone019079k;NpcClone019079k	1	6	0	clone019_026	1			
+Leader_clone019_024	TeamLeaderNpc	修罗殿困难巡逻	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1"	NpcClone019079k;NpcClone019079k;NpcClone019079k	1	6	0	clone019_027	1			
+Leader_clone019_025	TeamLeaderNpc	修罗殿困难巡逻	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1;1,1"	NpcClone019079k;NpcClone019079k;NpcClone019079k;BossClone019024	1	6	0	clone019_028	1			
+Leader_clone019_026	TeamLeaderNpc	修罗殿困难巡逻	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1;1,1"	NpcClone019079k;NpcClone019079k;NpcClone019079k;BossClone019024	1	6	0	clone019_029	1			
+Leader_clone019_027	TeamLeaderNpc	修罗殿地狱巡逻	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1;1,1"	NpcClone019079d;NpcClone019079d;NpcClone019079d;BossClone019024	1	6	0	clone019_022	1			
+Leader_clone019_028	TeamLeaderNpc	修罗殿地狱巡逻	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1;1,1"	NpcClone019079d;NpcClone019079d;NpcClone019079d;BossClone019024	1	6	0	clone019_032	1			
+Leader_clone019_029	TeamLeaderNpc	修罗殿地狱巡逻	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1;1,1"	NpcClone019079d;NpcClone019079d;NpcClone019079d;BossClone019024	1	6	0	clone019_033	1			
+Leader_clone019_030	TeamLeaderNpc	修罗殿地狱巡逻	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1;1,1"	NpcClone019079d;NpcClone019079d;NpcClone019079d;BossClone019024	1	6	0	clone019_034	1			
+Leader_clone019_031	TeamLeaderNpc	修罗殿地狱巡逻	npc\itemnpc057e		11	3	5	"0,0;-1,-1;1,-1;1,1"	NpcClone019079d;NpcClone019079d;NpcClone019079d;BossClone019024	1	6	0	clone019_035	1			
+																	
+Leader_clone015_001	TeamLeaderNpc	后庭院巡逻	npc\itemnpc057e		11	1.5	5	"0,1;-1,0;1,0"	NpcClone015005;NpcClone015007;NpcClone015007	1	6	0	clone015_001	1			
+Leader_clone015_002	TeamLeaderNpc	后庭院右巡逻	npc\itemnpc057e		11	1.5	5	"0,0;0,-2;0,-3"	NpcClone015002;NpcClone015008;NpcClone015008	1	6	0	clone015_002	1			
+Leader_clone015_003	TeamLeaderNpc	后庭院左巡逻	npc\itemnpc057e		11	1.5	5	"0,0;-1,-1;1,-1"	NpcClone015003;NpcClone015005;NpcClone015005	1	6	0	clone015_003	1			
+Leader_clone015_004	TeamLeaderNpc	楼梯巡逻	npc\itemnpc057e		11	1.5	5	"0,0;1,0"	NpcClone015004;NpcClone015004	1	6	0	clone015_004	1			
+Leader_clone015_005	TeamLeaderNpc	道路巡逻1	npc\itemnpc057e		11	1.5	5	"0,0;-1,-1;1,-1"	NpcClone015008;NpcClone015008;NpcClone015008	1	6	0	clone015_005	1			
+Leader_clone015_006	TeamLeaderNpc	道路巡逻2	npc\itemnpc057e		11	1.5	5	"0,0;-1,-1;1,-1"	NpcClone015007;NpcClone015007;NpcClone015007	1	6	0	clone015_006	1			
+Leader_clone015_007	TeamLeaderNpc	道路巡逻3	npc\itemnpc057e		11	1.5	5	"1,1;-1,1;-1,-1;1,-1"	NpcClone015008;NpcClone015008;NpcClone015008;NpcClone015008	1	6	0	clone015_007	1			
+Leader_clone015_008	TeamLeaderNpc	海贼巡逻	npc\itemnpc057e		11	1.5	5	"0,0;-1,-1;1,-1"	NpcClone015012;NpcClone015012;NpcClone015012	1	6	0	clone015_008	1			
+Leader_clone015_009	TeamLeaderNpc	棋道巡逻	npc\itemnpc057e		11	1.5	5	"0,0;1,0"	NpcClone015002;NpcClone015002	1	6	0	clone015_009	1			
+Leader_clone015_010	TeamLeaderNpc	崖道巡逻	npc\itemnpc057e		11	1.5	5	"0,0;0,-1;0,-2;0,-3"	NpcClone015008;NpcClone015008;NpcClone015008;NpcClone015008	1	6	0	clone015_010	1			
+Leader_clone015_011	TeamLeaderNpc	荷花亭巡逻	npc\itemnpc057e		11	1.5	5	"0,0"	NpcClone015007	1	6	0	clone015_011	1			
+Leader_clone015_012	TeamLeaderNpc	左走廊巡逻	npc\itemnpc057e		11	1.5	5	"0,0;1,1"	NpcClone015005;NpcClone015006	1	6	0	clone015_012	1			
+Leader_clone015_013	TeamLeaderNpc	右走廊巡逻	npc\itemnpc057e		11	1.5	5	"0,0;1,1"	NpcClone015005;NpcClone015006	1	6	0	clone015_013	1			
+Leader_clone015_014	TeamLeaderNpc	酒窖1巡逻	npc\itemnpc057e		11	1.5	5	"0,0"	BossClone015012	1	6	0	clone015_014	1			
+Leader_clone015_015	TeamLeaderNpc	酒窖2巡逻	npc\itemnpc057e		11	1.5	5	"0,0"	BossClone015012	1	6	0	clone015_015	1			
+Leader_clone015_016	TeamLeaderNpc	左廊巡逻	npc\itemnpc057e		11	1.5	5	"0,0"	NpcClone015003	1	6	0	clone015_016	1			
+Leader_clone015_017	TeamLeaderNpc	右廊巡逻	npc\itemnpc057e		11	1.5	5	"0,0"	NpcClone015002	1	6	0	clone015_017	1			
+Leader_clone015_018	TeamLeaderNpc	书生	npc\itemnpc057e		11	1.5	5	"0,0"	NpcClone015006	1	6	0	clone015_018	1			
+Leader_clone015_019	TeamLeaderNpc	扫地1	npc\itemnpc057e		11	1.5	5	"0,0"	NpcClone015007	1	6	0	clone015_019	1			
+Leader_clone015_020	TeamLeaderNpc	扫地2	npc\itemnpc057e		11	1.5	5	"0,0"	NpcClone015007	1	6	0	clone015_020	1			
+Leader_clone015_021	TeamLeaderNpc	绕桌	npc\itemnpc057e		11	1.5	5	"0,0"	NpcClone015006	1	6	0	clone015_021	1			
+Leader_clone015_022	TeamLeaderNpc	扫地3	npc\itemnpc057e		11	1.5	5	"0,0"	NpcClone015007	1	6	0	clone015_022	1			
+Leader_clone015_023	TeamLeaderNpc	书生2	npc\itemnpc057e		11	1.5	5	"0,0"	NpcClone015006	1	6	0	clone015_023	1			
+Leader_clone015_024	TeamLeaderNpc	丫鬟	npc\itemnpc057e		11	1.5	5	"0,0;0,-1"	NpcClone015007;NpcClone015007	1	6	0	clone015_024	1			
+Leader_clone015_025	TeamLeaderNpc	琴童	npc\itemnpc057e		11	1.5	5	"0,0"	NpcClone015001	1	6	0	clone015_025	1			
+Leader_clone015_027	TeamLeaderNpc	琴童	npc\itemnpc057e		11	1.5	5	"0,0"	NpcClone015001	1	6	0	clone015_027	1			
+Leader_clone015_026	TeamLeaderNpc	小孩	npc\itemnpc057e		11	1.5	5	"0,0;-1,-2"	FunnpcClone015070;FunnpcClone015073	1	6	0	clone015_026	1			
+Leader_clone015_028	TeamLeaderNpc	鸡	npc\itemnpc057e		11	1.5	5	"0,0;-1,-2"	FunnpcClone015071;FunnpcClone015071	1	6	0	clone015_028	1			
+																	
+																	
+																	
+Leader_clone013_000	TeamLeaderNpc	宝箱杂役	npc\itemnpc057		11	3	5	"1,-1;-1,-1"	npcclone013028;npcclone013028	1	6	0		1			
+Leader_clone013_001	TeamLeaderNpc	庭院巡逻1	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013005_01;npcclone013006_01;npcclone013006_01	1	6	0	AI_clone013_xl01	1			
+Leader_clone013_002	TeamLeaderNpc	庭院巡逻2	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013005_01;npcclone013006_01;npcclone013006_01	1	6	0	AI_clone013_xl02	1			
+Leader_clone013_003	TeamLeaderNpc	花海巡逻	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013005_01;npcclone013006_01;npcclone013006_01	1	6	0	AI_clone013_xl03	1			
+Leader_clone013_004	TeamLeaderNpc	路点46	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013006_04;npcclone013005_04;npcclone013005_04	1	6	0	AI_clone013_xl09	1			
+Leader_clone013_005	TeamLeaderNpc	路点20	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013005_02;npcclone013006_02;npcclone013006_02	1	6	0	AI_clone013_xl08	1			
+Leader_clone013_006	TeamLeaderNpc	路点41	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013006_02;npcclone013005_02;npcclone013005_02	1	6	0	AI_clone013_xl07	1			
+Leader_clone013_007	TeamLeaderNpc	路点36	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013005_02;npcclone013006_02;npcclone013006_02	1	6	0	AI_clone013_xl06	1			
+Leader_clone013_008	TeamLeaderNpc	路点34	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013006_07;npcclone013005_07;npcclone013005_07	1	6	0	AI_clone013_xl05	1			
+Leader_clone013_009	TeamLeaderNpc	路点27	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013005_07;npcclone013006_07;npcclone013006_07	1	6	0	AI_clone013_xl04	1			
+Leader_clone013_010	TeamLeaderNpc	路点52	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013005;npcclone013006;npcclone013006	1	6	0	AI_clone013_xl10	1			
+Leader_clone013_011	TeamLeaderNpc	路点54	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013006;npcclone013005;npcclone013005	1	6	0	AI_clone013_xl11	1			
+Leader_clone013_012	TeamLeaderNpc	路点57	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013005;npcclone013006;npcclone013006	1	6	0	AI_clone013_xl12	1			
+Leader_clone013_013	TeamLeaderNpc	路点58	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013006;npcclone013005;npcclone013005	1	6	0	AI_clone013_xl13	1			
+Leader_clone013_014	TeamLeaderNpc	路点6	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013005;npcclone013006;npcclone013006	1	6	0	AI_clone013_xl14	1			
+Leader_clone013_015	TeamLeaderNpc	路点61	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013006_06;npcclone013005_06;npcclone013005_06	1	6	0	AI_clone013_xl15	1			
+Leader_clone013_016	TeamLeaderNpc	路点64	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013005_03;npcclone013006_03;npcclone013006_03	1	6	0	AI_clone013_xl16	1			
+Leader_clone013_017	TeamLeaderNpc	路点71	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013006_03;npcclone013005_03;npcclone013005_03	1	6	0	AI_clone013_xl17	1			
+Leader_clone013_018	TeamLeaderNpc	路点76	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013005_03;npcclone013006_03;npcclone013006_03	1	6	0	AI_clone013_xl18	1			
+Leader_clone013_019	TeamLeaderNpc	路点81	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013005_03;npcclone013006_03;npcclone013006_03	1	6	0	AI_clone013_xl19	1			
+Leader_clone013_020	TeamLeaderNpc	路点157	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013006_03;npcclone013005_03;npcclone013005_03	1	6	0	AI_clone013_xl20	1			
+Leader_clone013_021	TeamLeaderNpc	路点84	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013005_03;npcclone013006_03;npcclone013006_03	1	6	0	AI_clone013_xl21	1			
+Leader_clone013_022	TeamLeaderNpc	路点86	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013006_03;npcclone013005_03;npcclone013005_03	1	6	0	AI_clone013_xl22	1			
+Leader_clone013_023	TeamLeaderNpc	路点139	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013005_03;npcclone013006_03;npcclone013006_03	1	6	0	AI_clone013_xl23	1			
+Leader_clone013_024	TeamLeaderNpc	路点137	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013006_03;npcclone013005_03;npcclone013005_03	1	6	0	AI_clone013_xl24	1			
+Leader_clone013_025	TeamLeaderNpc	路点93	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013005_03;npcclone013006_03;npcclone013006_03	1	6	0	AI_clone013_xl25	1			
+Leader_clone013_026	TeamLeaderNpc	路点97	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013006_03;npcclone013005_03;npcclone013005_03	1	6	0	AI_clone013_xl26	1			
+Leader_clone013_027	TeamLeaderNpc	路点101	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013005;npcclone013006;npcclone013006	1	6	0	AI_clone013_xl27	1			
+Leader_clone013_028	TeamLeaderNpc	路点158	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013005;npcclone013006;npcclone013006	1	6	0	AI_clone013_xl28	1			
+Leader_clone013_029	TeamLeaderNpc	路点106	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013006;npcclone013005;npcclone013005	1	6	0	AI_clone013_xl29	1			
+Leader_clone013_030	TeamLeaderNpc	路点110	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013005;npcclone013006;npcclone013006	1	6	0	AI_clone013_xl30	1			
+Leader_clone013_031	TeamLeaderNpc	路点118	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013006_03;npcclone013005_03;npcclone013005_03	1	6	0	AI_clone013_xl31	1			
+Leader_clone013_032	TeamLeaderNpc	路点120	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013005_03;npcclone013006_03;npcclone013006_03	1	6	0	AI_clone013_xl32	1			
+Leader_clone013_033	TeamLeaderNpc	路点125	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013006_03;npcclone013005_03;npcclone013005_03	1	6	0	AI_clone013_xl33	1			
+Leader_clone013_034	TeamLeaderNpc	路点159	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013005;npcclone013006;npcclone013006	1	6	0	AI_clone013_xl34	1			
+Leader_clone013_035	TeamLeaderNpc	路点131	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013006;npcclone013005;npcclone013005	1	6	0	AI_clone013_xl35	1			
+Leader_clone013_036	TeamLeaderNpc	路点146	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013005_03;npcclone013006_03;npcclone013006_03	1	6	0	AI_clone013_xl36	1			
+Leader_clone013_037	TeamLeaderNpc	路点150	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013005_03;npcclone013006_03;npcclone013006_03	1	6	0	AI_clone013_xl37	1			
+Leader_clone013_038	TeamLeaderNpc	路点153	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013006_03;npcclone013005_03;npcclone013005_03	1	6	0	AI_clone013_xl38	1			
+Leader_clone013_039	TeamLeaderNpc	路点77	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013006_03;npcclone013005_03;npcclone013005_03	1	6	0	AI_clone013_xl39	1			
+Leader_clone013_040	TeamLeaderNpc	路点95	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013005_03;npcclone013006_03;npcclone013006_03	1	6	0	AI_clone013_xl40	1			
+Leader_clone013_041	TeamLeaderNpc	路点103	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013006;npcclone013005;npcclone013005	1	6	0	AI_clone013_xl41	1			
+Leader_clone013_042	TeamLeaderNpc	路点115	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013005;npcclone013006;npcclone013006	1	6	0	AI_clone013_xl42	1			
+Leader_clone013_043	TeamLeaderNpc	路点129	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013005;npcclone013006;npcclone013006	1	6	0	AI_clone013_xl43	1			
+Leader_clone013_044	TeamLeaderNpc	路点171	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013005_01;npcclone013006_01;npcclone013006_01	1	6	0	AI_clone013_xl44	1			
+Leader_clone013_045	TeamLeaderNpc	路点175	npc\itemnpc057		11	3	5	"0,0;-1,-1;1,-1"	npcclone013005_01;npcclone013006_01;npcclone013006_01	1	6	0	AI_clone013_xl45	1			
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+Leader_clone021_001	TeamLeaderNpc	入口火使巡逻	npc\itemnpc057e		11	3	5	"0,0;-1,0"	NpcClone021001;NpcClone021002	1	6	0	clone021_001	1			
+Leader_clone021_002	TeamLeaderNpc	墙上水使	npc\itemnpc057e		11	3	5	"0,0;0,1"	NpcClone021007;NpcClone021008	1	6	0	clone021_002	1			
+Leader_clone021_003	TeamLeaderNpc	墙上木使	npc\itemnpc057e		11	3	5	"0,0;0,-1"	NpcClone021009;NpcClone021010	1	6	0	clone021_003	1			
+Leader_clone021_004	TeamLeaderNpc	前院木使	npc\itemnpc057e		11	3	5	"0,0;0,1"	NpcClone021010;NpcClone021010	1	6	0	clone021_004	1			
+Leader_clone021_005	TeamLeaderNpc	前院火使	npc\itemnpc057e		11	3	5	"1,0;0,-1;0,1"	NpcClone021007;NpcClone021008;NpcClone021008	1	6	0	clone021_005	1			
+Leader_clone021_006	TeamLeaderNpc	前院土使	npc\itemnpc057e		11	3	5	"0,0;0,1"	NpcClone021006;NpcClone021006	1	6	0	clone021_006	1			
+Leader_clone021_007	TeamLeaderNpc	前院金使	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone021004;NpcClone021004	1	6	0	clone021_007	1			
+Leader_clone021_008	TeamLeaderNpc	前院水使	npc\itemnpc057e		11	3	5	"0,1;0,0"	NpcClone021008;NpcClone021008	1	6	0	clone021_008	1			
+Leader_clone021_009	TeamLeaderNpc		npc\itemnpc057e		11	3	5	"0,1;0,0"	NpcClone021042;NpcClone021042	1	6	0	clone021_009	1			
+Leader_clone021_010	TeamLeaderNpc	后院下人	npc\itemnpc057e		11	3	5	"0,1;0,0"	NpcClone021018;NpcClone021018	1	6	0	clone021_010	1			
+Leader_clone021_011	TeamLeaderNpc	后院家丁	npc\itemnpc057e		11	3	5	"0,1;0,0"	NpcClone021017;NpcClone021017	1	6	0	clone021_011	1			
+Leader_clone021_012	TeamLeaderNpc	幽冥侍女	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone021019;NpcClone021019	1	6	0	clone021_012	1			
+Leader_clone021_013	TeamLeaderNpc	幽暗侍女	npc\itemnpc057e		11	3	5	"0,1;1,0"	NpcClone021020;NpcClone021020	1	6	0	clone021_013	1			
+Leader_clone021_014	TeamLeaderNpc	薛地众1	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone021012;NpcClone021012	1	6	0	clone021_014	1			
+Leader_clone021_016	TeamLeaderNpc	薛地众2	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone021012;NpcClone021012	1	6	0	clone021_016	1			
+Leader_clone021_017	TeamLeaderNpc	郭天众1	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone021013;NpcClone021013	1	6	0	clone021_017	1			
+Leader_clone021_019	TeamLeaderNpc	郭天众2	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone021013;NpcClone021013	1	6	0	clone021_019	1			
+Leader_clone021_020	TeamLeaderNpc	郭天众3	npc\itemnpc057e		11	3	5	"0,0;1,1"	NpcClone021013;NpcClone021013	1	6	0	clone021_020	1			
+Leader_clone021_021	TeamLeaderNpc	吴天众1	npc\itemnpc057e		11	3	5	"0,0;1,1"	NpcClone021015;NpcClone021015	1	6	0	clone021_021	1			
+Leader_clone021_022	TeamLeaderNpc	吴地众1	npc\itemnpc057e		11	3	5	"0,0;1,1"	NpcClone021016;NpcClone021016	1	6	0	clone021_022	1			
+Leader_clone021_023	TeamLeaderNpc	吴天众2	npc\itemnpc057e		11	3	5	"0,0;-1,0"	NpcClone021015;NpcClone021015	1	6	0	clone021_023	1			
+Leader_clone021_024	TeamLeaderNpc	吴地众2	npc\itemnpc057e		11	3	5	"0,0;-1,0"	NpcClone021016;NpcClone021016	1	6	0	clone021_024	1			
+Leader_clone021_025	TeamLeaderNpc	吴天众3	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone021015;NpcClone021015	1	6	0	clone021_025	1			
+Leader_clone021_026	TeamLeaderNpc	吴地众3	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone021016;NpcClone021016	1	6	0	clone021_026	1			
+Leader_clone021_027	TeamLeaderNpc	吴地众4	npc\itemnpc057e		11	3	5	"0,0;-1,1;1,1"	NpcClone021016;NpcClone021016;NpcClone021016	1	6	0	clone021_027	1			
+Leader_clone021_028	TeamLeaderNpc	吴天众4	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone021015;NpcClone021015;NpcClone021015	1	6	0	clone021_028	1			
+Leader_clone021_029	TeamLeaderNpc	暗卫伏兵左	npc\itemnpc057e	100	11	3	5	"0,0;1,0;0,1"	NpcClone021021;NpcClone021021;NpcClone021021	1	6	0	clone021_047	1			
+Leader_clone021_030	TeamLeaderNpc	暗卫伏兵右	npc\itemnpc057e	100	11	3	5	"0,0;1,0;0,1"	NpcClone021021;NpcClone021021;NpcClone021021	1	6	0	clone021_048	1			
+Leader_clone021_031	TeamLeaderNpc	入口火使巡逻（2）	npc\itemnpc057e		11	3	5	"0,0;-1,0;1,1"	NpcClone021501;NpcClone021502;NpcClone021502	1	6	0	clone021_001	1			
+Leader_clone021_032	TeamLeaderNpc	墙上水使（2）	npc\itemnpc057e		11	3	5	"0,0;0,1;-1,0"	NpcClone021507;NpcClone021508;NpcClone021508	1	6	0	clone021_002	1			
+Leader_clone021_033	TeamLeaderNpc	墙上木使（2）	npc\itemnpc057e		11	3	5	"0,0;0,-1;1,1"	NpcClone021509;NpcClone021510;NpcClone021507	1	6	0	clone021_003	1			
+Leader_clone021_034	TeamLeaderNpc	前院木使（2）	npc\itemnpc057e		11	3	5	"0,0;0,1;-1,0"	NpcClone021510;NpcClone021510;NpcClone021508	1	6	0	clone021_004	1			
+Leader_clone021_035	TeamLeaderNpc	前院火使（2）	npc\itemnpc057e		11	3	5	"1,0;0,-1;0,1"	NpcClone021507;NpcClone021508;NpcClone021508	1	6	0	clone021_005	1			
+Leader_clone021_036	TeamLeaderNpc	前院土使（2）	npc\itemnpc057e		11	3	5	"0,0;0,1;-1,0"	NpcClone021506;NpcClone021506;NpcClone021507	1	6	0	clone021_006	1			
+Leader_clone021_037	TeamLeaderNpc	前院金使（2）	npc\itemnpc057e		11	3	5	"0,0;1,0;-1,0"	NpcClone021504;NpcClone021504;NpcClone021501	1	6	0	clone021_007	1			
+Leader_clone021_038	TeamLeaderNpc	前院水使（2）	npc\itemnpc057e		11	3	5	"0,1;0,0;-1,0"	NpcClone021508;NpcClone021508;NpcClone021503	1	6	0	clone021_008	1			
+																	
+																	
+																	
+																	
+																	
+Leader_clone011_001	TeamLeaderNpc	丐帮巡逻1	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone011009;NpcClone011010	1	6	0	clone011_001	1			
+Leader_clone011_002	TeamLeaderNpc	丐帮巡逻2	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011010;NpcClone011011;NpcClone011012	1	6	0	clone011_002	1			
+Leader_clone011_003	TeamLeaderNpc	丐帮巡逻3	npc\itemnpc057e		11	3	5	"0,0;0,1"	NpcClone011009;NpcClone011012	1	6	0	clone011_003	1			
+Leader_clone011_004	TeamLeaderNpc	丐帮巡逻4	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011009;NpcClone011010;NpcClone011012	1	6	0	clone011_004	1			
+Leader_clone011_005	TeamLeaderNpc	丐帮巡逻5	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone011009;NpcClone011010	1	6	0	clone011_005	1			
+Leader_clone011_006	TeamLeaderNpc	丐帮巡逻6	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011010;NpcClone011011;NpcClone011012	1	6	0	clone011_006	1			
+Leader_clone011_007	TeamLeaderNpc	丐帮巡逻7	npc\itemnpc057e		11	3	5	"0,0;0,1"	NpcClone011009;NpcClone011012	1	6	0	clone011_007	1			
+Leader_clone011_008	TeamLeaderNpc	丐帮巡逻8	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011009;NpcClone011010;NpcClone011012	1	6	0	clone011_008	1			
+Leader_clone011_009	TeamLeaderNpc	丐帮巡逻9	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone011009;NpcClone011010	1	6	0	clone011_009	1			
+Leader_clone011_010	TeamLeaderNpc	丐帮巡逻10	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011010;NpcClone011011;NpcClone011012	1	6	0	clone011_010	1			
+Leader_clone011_011	TeamLeaderNpc	丐帮巡逻11	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011009;NpcClone011010;NpcClone011012	1	6	0	clone011_011	1			
+Leader_clone011_012	TeamLeaderNpc	丐帮巡逻12	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011009;NpcClone011010;NpcClone011012	1	6	0	clone011_012	1			
+Leader_clone011_013	TeamLeaderNpc	丐帮巡逻13	npc\itemnpc057e		11	3	5	"0,0;0,1"	NpcClone011009;NpcClone011012	1	6	0	clone011_013	1			
+Leader_clone011_014	TeamLeaderNpc	丐帮巡逻14	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011010;NpcClone011011;NpcClone011012	1	6	0	clone011_014	1			
+Leader_clone011_015	TeamLeaderNpc	丐帮巡逻15	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone011009;NpcClone011010	1	6	0	clone011_015	1			
+Leader_clone011_016	TeamLeaderNpc	丐帮巡逻16	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011010;NpcClone011011;NpcClone011012	1	6	0	clone011_016	1			
+Leader_clone011_017	TeamLeaderNpc	丐帮巡逻17	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011006;NpcClone011002;NpcClone011001	1	6	0	clone011_017	1			
+Leader_clone011_018	TeamLeaderNpc	丐帮巡逻18	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011006;NpcClone011002;NpcClone011005	1	6	0	clone011_018	1			
+Leader_clone011_019	TeamLeaderNpc	丐帮巡逻19	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011003;NpcClone011002;NpcClone011002	1	6	0	clone011_019	1			
+Leader_clone011_020	TeamLeaderNpc	丐帮巡逻20	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011003;NpcClone011002;NpcClone011002	1	6	0	clone011_020	1			
+Leader_clone011_021	TeamLeaderNpc	丐帮巡逻21	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011003;NpcClone011001;NpcClone011001	1	6	0	clone011_021	1			
+Leader_clone011_022	TeamLeaderNpc	丐帮巡逻22	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011006;NpcClone011005;NpcClone011005	1	6	0	clone011_022	1			
+Leader_clone011_023	TeamLeaderNpc	丐帮巡逻23	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011006;NpcClone011002;NpcClone011002	1	6	0	clone011_023	1			
+Leader_clone011_024	TeamLeaderNpc	丐帮巡逻24	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011006;NpcClone011001;NpcClone011001	1	6	0	clone011_024	1			
+Leader_clone011_025	TeamLeaderNpc	丐帮巡逻25	npc\itemnpc057e		11	3	5	"0,1;-1,0"	NpcClone011023;NpcClone011024	1	6	0	clone011_025	1			
+Leader_clone011_026	TeamLeaderNpc	丐帮巡逻26	npc\itemnpc057e		11	3	5	"0,0;0,-1"	NpcClone011003;NpcClone011001	1	6	0	clone011_026	1			
+Leader_clone011_027	TeamLeaderNpc	丐帮巡逻27	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone011002;NpcClone011002	1	6	0	clone011_027	1			
+Leader_clone011_028	TeamLeaderNpc	丐帮巡逻28	npc\itemnpc057e		11	3	5	"0,0;0,-1"	NpcClone011003;NpcClone011001	1	6	0	clone011_028	1			
+Leader_clone011_029	TeamLeaderNpc	丐帮巡逻29	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone011002;NpcClone011002	1	6	0	clone011_029	1			
+Leader_clone011_030	TeamLeaderNpc	丐帮巡逻30	npc\itemnpc057e		11	3	5	"0,0;0,-1"	NpcClone011002;NpcClone011001	1	6	0	clone011_030	1			
+Leader_clone011_031	TeamLeaderNpc	丐帮巡逻31	npc\itemnpc057e		11	3	5	"0,0;0,-1"	NpcClone011003;NpcClone011001	1	6	0	clone011_031	1			
+Leader_clone011_032	TeamLeaderNpc	丐帮巡逻32	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011004;NpcClone011005;NpcClone011005	1	6	0	clone011_032	1			
+Leader_clone011_033	TeamLeaderNpc	丐帮巡逻33	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011006;NpcClone011002;NpcClone011002	1	6	0	clone011_033	1			
+Leader_clone011_034	TeamLeaderNpc	丐帮巡逻34	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone011003;NpcClone011004	1	6	0	clone011_034	1			
+Leader_clone011_035	TeamLeaderNpc	丐帮巡逻35	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone011002;NpcClone011002	1	6	0	clone011_035	1			
+Leader_clone011_036	TeamLeaderNpc	丐帮巡逻36	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011006;NpcClone011005;NpcClone011005	1	6	0	clone011_036	1			
+Leader_clone011_037	TeamLeaderNpc	丐帮巡逻37	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011003;NpcClone011004;NpcClone011004	1	6	0	clone011_037	1			
+Leader_clone011_038	TeamLeaderNpc	丐帮巡逻38	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone011004;NpcClone011004	1	6	0	clone011_038	1			
+Leader_clone011_039	TeamLeaderNpc	丐帮巡逻39	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011004;NpcClone011005;NpcClone011001	1	6	0	clone011_039	1			
+Leader_clone011_040	TeamLeaderNpc	丐帮巡逻40	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone011007;NpcClone011008	1	6	0	clone011_040	1			
+Leader_clone011_041	TeamLeaderNpc	丐帮巡逻41	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	bossclone011001;NpcClone011007;NpcClone011008	1	6	0	clone011_041	1			
+Leader_clone011_042	TeamLeaderNpc	丐帮五大舵主	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0;-1,-1;1,-1"	funnpcclone011017;funnpcclone011013;funnpcclone011014;funnpcclone011015;funnpcclone011016	1	6	0	clone011_042	1			
+Leader_clone011_043	TeamLeaderNpc	丐帮五大舵主	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0;-1,-1;1,-1"	funnpcclone011017;funnpcclone011013;funnpcclone011014;funnpcclone011015;funnpcclone011016	1	6	0	clone011_043	1			
+Leader_clone011_044	TeamLeaderNpc	小王爷精兵	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0;-1,-1;1,-1"	NpcClone011004;NpcClone011054;NpcClone011054;NpcClone011054;NpcClone011049	1	6	0	clone011_045	1			
+Leader_clone011_045	TeamLeaderNpc	丐帮巡逻41	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone011009;NpcClone011010	1	6	0	clone011_046	1			
+Leader_clone011_046	TeamLeaderNpc	丐帮巡逻42	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone011009;NpcClone011010	1	6	0	clone011_047	1			
+Leader_clone011_047	TeamLeaderNpc	丐帮巡逻43	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone011009;NpcClone011010	1	6	0	clone011_048	1			
+Leader_clone011_048	TeamLeaderNpc	丐帮巡逻44	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone011009;NpcClone011010	1	6	0	clone011_049	1			
+Leader_clone011_049	TeamLeaderNpc	丐帮巡逻44	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone011009;NpcClone011010	1	6	0	clone011_050	1			
+Leader_clone011_050	TeamLeaderNpc	丐帮巡逻44	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone011009;NpcClone011010	1	6	0	clone011_051	1			
+Leader_clone011_051	TeamLeaderNpc	丐帮巡逻44	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone011009;NpcClone011010	1	6	0	clone011_052	1			
+Leader_clone011_053	TeamLeaderNpc	密道全志行亲信	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone011061;NpcClone011062	1	6	0	clone011_053	1			
+Leader_clone011_054	TeamLeaderNpc	密道老鼠	npc\itemnpc057e		11	5	5	"1,1;-1,1;-1,-1;1,-1"	NpcClone011069;NpcClone011069;NpcClone011069;NpcClone011069	1	6	0	clone011_054	1			
+Leader_clone011_055	TeamLeaderNpc	密道老鼠	npc\itemnpc057e		11	5	5	"1,1;-1,1;-1,-1;1,-1"	NpcClone011069;NpcClone011069;NpcClone011069;NpcClone011069	1	6	0	clone011_055	1			
+																	
+Leader_clone011_101	TeamLeaderNpc	丐帮巡逻101	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011085;NpcClone011088;NpcClone011089	1	6	0	clone011_101	1			
+Leader_clone011_102	TeamLeaderNpc	丐帮巡逻102	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011085;NpcClone011088;NpcClone011089	1	6	0	clone011_102	1			
+Leader_clone011_103	TeamLeaderNpc	丐帮巡逻103	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011085;NpcClone011088;NpcClone011089	1	6	0	clone011_103	1			
+Leader_clone011_104	TeamLeaderNpc	丐帮巡逻104	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011085;NpcClone011088;NpcClone011089	1	6	0	clone011_104	1			
+Leader_clone011_105	TeamLeaderNpc	丐帮巡逻105	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011085;NpcClone011088;NpcClone011089	1	6	0	clone011_105	1			
+Leader_clone011_106	TeamLeaderNpc	丐帮巡逻106	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011085;NpcClone011088;NpcClone011089	1	6	0	clone011_106	1			
+Leader_clone011_107	TeamLeaderNpc	丐帮巡逻107	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011085;NpcClone011088;NpcClone011089	1	6	0	clone011_107	1			
+Leader_clone011_108	TeamLeaderNpc	丐帮巡逻108	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011085;NpcClone011088;NpcClone011089	1	6	0	clone011_108	1			
+Leader_clone011_109	TeamLeaderNpc	丐帮巡逻109	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011085;NpcClone011088;NpcClone011089	1	6	0	clone011_109	1			
+Leader_clone011_110	TeamLeaderNpc	丐帮巡逻110	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011085;NpcClone011088;NpcClone011089	1	6	0	clone011_110	1			
+Leader_clone011_111	TeamLeaderNpc	丐帮巡逻111	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011085;NpcClone011088;NpcClone011089	1	6	0	clone011_111	1			
+Leader_clone011_112	TeamLeaderNpc	丐帮巡逻112	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011085;NpcClone011088;NpcClone011089	1	6	0	clone011_112	1			
+Leader_clone011_113	TeamLeaderNpc	丐帮巡逻113	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011085;NpcClone011088;NpcClone011089	1	6	0	clone011_113	1			
+Leader_clone011_114	TeamLeaderNpc	丐帮巡逻114	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011085;NpcClone011088;NpcClone011089	1	6	0	clone011_114	1			
+Leader_clone011_115	TeamLeaderNpc	丐帮巡逻115	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011085;NpcClone011088;NpcClone011089	1	6	0	clone011_115	1			
+Leader_clone011_116	TeamLeaderNpc	丐帮巡逻116	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011085;NpcClone011088;NpcClone011089	1	6	0	clone011_116	1			
+Leader_clone011_117	TeamLeaderNpc	丐帮巡逻117	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011085;NpcClone011088;NpcClone011089	1	6	0	clone011_117	1			
+Leader_clone011_118	TeamLeaderNpc	丐帮巡逻118	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011085;NpcClone011088;NpcClone011089	1	6	0	clone011_118	1			
+Leader_clone011_119	TeamLeaderNpc	丐帮巡逻119	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011085;NpcClone011088;NpcClone011089	1	6	0	clone011_119	1			
+Leader_clone011_120	TeamLeaderNpc	丐帮巡逻120	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011085;NpcClone011088;NpcClone011089	1	6	0	clone011_120	1			
+Leader_clone011_121	TeamLeaderNpc	丐帮巡逻121	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011085;NpcClone011088;NpcClone011089	1	6	0	clone011_121	1			
+Leader_clone011_122	TeamLeaderNpc	丐帮巡逻122	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone011085;NpcClone011088;NpcClone011089	1	6	0	clone011_122	1			
+																	
+Leader_clone003_01	TeamLeaderNpc	渔村巡逻	npc\itemnpc057e		11	3	5	"0,0;1,0;-1,0"	NpcClone003036;NpcClone003036;NpcClone003037	1	6	0	clone003_023	1			
+Leader_clone003_02	TeamLeaderNpc	渔村巡逻	npc\itemnpc057e		11	3	5	"0,0;1,0;-1,0"	NpcClone003036;NpcClone003036;NpcClone003037	1	6	0	clone003_024	1			
+Leader_clone003_03	TeamLeaderNpc	渔村巡逻	npc\itemnpc057e		11	3	5	"0,0;1,0;-1,0"	NpcClone003036;NpcClone003037;NpcClone003036	1	6	0	clone003_025	1			
+Leader_clone003_04	TeamLeaderNpc	渔村巡逻	npc\itemnpc057e		11	3	5	"0,0;1,0;-1,0"	NpcClone003036;NpcClone003036;NpcClone003037	1	6	0	clone003_026	1			
+Leader_clone003_05	TeamLeaderNpc	渔村巡逻	npc\itemnpc057e		11	3	5	"0,0;1,0;-1,0"	NpcClone003036;NpcClone003037;NpcClone003036	1	6	0	clone003_027	1			
+Leader_clone003_06	TeamLeaderNpc	渔村巡逻	npc\itemnpc057e		11	3	5	"0,0;1,0;-1,0"	NpcClone003036;NpcClone003036;NpcClone003037	1	6	0	clone003_028	1			
+Leader_clone003_07	TeamLeaderNpc	渔村巡逻	npc\itemnpc057e		11	3	5	"0,0;1,0;-1,0"	NpcClone003036;NpcClone003037;NpcClone003036	1	6	0	clone003_029	1			
+																	
+Leader_NPC_001	TeamLeaderNpc	千灯镇跑路	npc\itemnpc057e		11	5.5	5.5	"0,0"	NpcQYTM011	1	6	0	AI_qdz_73	1			
+																	
+Leader_event_japan01	TeamLeaderNpc	三内事件巡逻倭寇1队	npc\itemnpc057		11	1.25	6	"0,2;0,0;0,-2"	World_japan18_1;World_japan19;World_japan19	1	6	0	event_japan_01	1			-1
+Leader_event_japan02	TeamLeaderNpc	三内事件巡逻倭寇2队	npc\itemnpc057		11	1.25	6	"0,2;0,0;0,-2"	World_japan18_2;World_japan19;World_japan19	1	6	0	event_japan_02	1			-1
+Leader_event_japan03	TeamLeaderNpc	三内事件巡逻倭寇3队	npc\itemnpc057		11	1.25	6	"0,2;0,0;0,-2"	World_japan18_3;World_japan19;World_japan19	1	6	0	event_japan_03	1			-1
+Leader_event_japan04	TeamLeaderNpc	三内事件巡逻倭寇4队	npc\itemnpc057		11	1.25	6	"0,2;0,0;0,-2"	World_japan18_4;World_japan19;World_japan19	1	6	0	event_japan_04	1			-1
+Leader_event_japan05	TeamLeaderNpc	三内事件巡逻倭寇5队	npc\itemnpc057		11	1.25	6	"0,2;0,0;0,-2"	World_japan18_5;World_japan19;World_japan19	1	6	0	event_japan_05	1			-1
+Leader_event_japan06	TeamLeaderNpc	三内事件巡逻倭寇6队	npc\itemnpc057		11	1.25	6	"0,2;0,0;0,-2"	World_japan18_6;World_japan19;World_japan19	1	6	0	event_japan_06	1			-1
+Leader_event_japan07	TeamLeaderNpc	三内事件巡逻倭寇7队	npc\itemnpc057		11	1.25	6	"0,2;0,0;0,-2"	World_japan18_7;World_japan19;World_japan19	1	6	0	event_japan_07	1			-1
+Leader_event_japan08	TeamLeaderNpc	三内事件巡逻倭寇8队	npc\itemnpc057		11	1.25	6	"0,2;0,0;0,-2"	World_japan18_8;World_japan19;World_japan19	1	6	0	event_japan_08	1			-1
+Leader_event_japan09	TeamLeaderNpc	三内事件巡逻倭寇9队	npc\itemnpc057		11	1.25	6	"0,2;0,0;0,-2"	World_japan18_9;World_japan19;World_japan19	1	6	0	event_japan_09	1			-1
+Leader_event_japan10	TeamLeaderNpc	三内事件巡逻倭寇10队	npc\itemnpc057		11	1.25	6	"0,2;0,0;0,-2"	World_japan18_10;World_japan19;World_japan19	1	6	0	event_japan_10	1			-1
+																	
+leader_korea_11	TeamLeaderNpc	镇派事件锦衣押镖队伍	npc\itemnpc057		11	1.25	4	"0,4;0,0;0,2;0,-2;0,-4"	leader_korea_11_01;leader_korea_11_02;leader_korea_11_03;leader_korea_11_04;leader_korea_11_05	1	6	20	event_korea_11				
+leader_korea_12	TeamLeaderNpc	镇派事件锦衣押镖队伍	npc\itemnpc057		11	1.25	4	"0,4;0,0;0,2;0,-2;0,-4"	leader_korea_11_01;leader_korea_11_02;leader_korea_11_03;leader_korea_11_04;leader_korea_11_05	1	6	20	event_korea_12				
+leader_korea_13	TeamLeaderNpc	镇派事件锦衣押镖队伍	npc\itemnpc057		11	1.25	4	"0,4;0,0;0,2;0,-2;0,-4"	leader_korea_11_01;leader_korea_11_02;leader_korea_11_03;leader_korea_11_04;leader_korea_11_05	1	6	20	event_korea_13				
+																	
+leader_korea_21	TeamLeaderNpc	镇派事件丐帮押镖队伍	npc\itemnpc057		11	1.25	4	"0,4;0,0;0,2;0,-2;0,-4"	leader_korea_21_01;leader_korea_21_02;leader_korea_21_03;leader_korea_21_04;leader_korea_21_05	1	6	20	event_korea_21				
+leader_korea_22	TeamLeaderNpc	镇派事件丐帮押镖队伍	npc\itemnpc057		11	1.25	4	"0,4;0,0;0,2;0,-2;0,-4"	leader_korea_21_01;leader_korea_21_02;leader_korea_21_03;leader_korea_21_04;leader_korea_21_05	1	6	20	event_korea_22				
+leader_korea_23	TeamLeaderNpc	镇派事件丐帮押镖队伍	npc\itemnpc057		11	1.25	4	"0,4;0,0;0,2;0,-2;0,-4"	leader_korea_21_01;leader_korea_21_02;leader_korea_21_03;leader_korea_21_04;leader_korea_21_05	1	6	20	event_korea_23				
+																	
+leader_korea_31	TeamLeaderNpc	镇派事件君子押镖队伍	npc\itemnpc057		11	1.25	4	"0,4;0,0;0,2;0,-2;0,-4"	leader_korea_31_01;leader_korea_31_02;leader_korea_31_03;leader_korea_31_04;leader_korea_31_05	1	6	20	event_korea_31				
+leader_korea_32	TeamLeaderNpc	镇派事件君子押镖队伍	npc\itemnpc057		11	1.25	4	"0,4;0,0;0,2;0,-2;0,-4"	leader_korea_31_01;leader_korea_31_02;leader_korea_31_03;leader_korea_31_04;leader_korea_31_05	1	6	20	event_korea_32				
+leader_korea_33	TeamLeaderNpc	镇派事件君子押镖队伍	npc\itemnpc057		11	1.25	4	"0,4;0,0;0,2;0,-2;0,-4"	leader_korea_31_01;leader_korea_31_02;leader_korea_31_03;leader_korea_31_04;leader_korea_31_05	1	6	20	event_korea_33				
+																	
+leader_korea_41	TeamLeaderNpc	镇派事件极乐押镖队伍	npc\itemnpc057		11	1.25	4	"0,4;0,0;0,2;0,-2;0,-4"	leader_korea_41_01;leader_korea_41_02;leader_korea_41_03;leader_korea_41_04;leader_korea_41_05	1	6	20	event_korea_41				
+leader_korea_42	TeamLeaderNpc	镇派事件极乐押镖队伍	npc\itemnpc057		11	1.25	4	"0,4;0,0;0,2;0,-2;0,-4"	leader_korea_41_01;leader_korea_41_02;leader_korea_41_03;leader_korea_41_04;leader_korea_41_05	1	6	20	event_korea_42				
+leader_korea_43	TeamLeaderNpc	镇派事件极乐押镖队伍	npc\itemnpc057		11	1.25	4	"0,4;0,0;0,2;0,-2;0,-4"	leader_korea_41_01;leader_korea_41_02;leader_korea_41_03;leader_korea_41_04;leader_korea_41_05	1	6	20	event_korea_43				
+																	
+leader_korea_51	TeamLeaderNpc	镇派事件唐门押镖队伍	npc\itemnpc057		11	1.25	4	"0,4;0,0;0,2;0,-2;0,-4"	leader_korea_51_01;leader_korea_51_02;leader_korea_51_03;leader_korea_51_04;leader_korea_51_05	1	6	20	event_korea_51				
+leader_korea_52	TeamLeaderNpc	镇派事件唐门押镖队伍	npc\itemnpc057		11	1.25	4	"0,4;0,0;0,2;0,-2;0,-4"	leader_korea_51_01;leader_korea_51_02;leader_korea_51_03;leader_korea_51_04;leader_korea_51_05	1	6	20	event_korea_52				
+leader_korea_53	TeamLeaderNpc	镇派事件唐门押镖队伍	npc\itemnpc057		11	1.25	4	"0,4;0,0;0,2;0,-2;0,-4"	leader_korea_51_01;leader_korea_51_02;leader_korea_51_03;leader_korea_51_04;leader_korea_51_05	1	6	20	event_korea_53				
+																	
+leader_korea_61	TeamLeaderNpc	镇派事件峨眉押镖队伍	npc\itemnpc057		11	1.25	4	"0,4;0,0;0,2;0,-2;0,-4"	leader_korea_61_01;leader_korea_61_02;leader_korea_61_03;leader_korea_61_04;leader_korea_61_05	1	6	20	event_korea_61				
+leader_korea_62	TeamLeaderNpc	镇派事件峨眉押镖队伍	npc\itemnpc057		11	1.25	4	"0,4;0,0;0,2;0,-2;0,-4"	leader_korea_61_01;leader_korea_61_02;leader_korea_61_03;leader_korea_61_04;leader_korea_61_05	1	6	20	event_korea_62				
+leader_korea_63	TeamLeaderNpc	镇派事件峨眉押镖队伍	npc\itemnpc057		11	1.25	4	"0,4;0,0;0,2;0,-2;0,-4"	leader_korea_61_01;leader_korea_61_02;leader_korea_61_03;leader_korea_61_04;leader_korea_61_05	1	6	20	event_korea_63				
+																	
+leader_korea_71	TeamLeaderNpc	镇派事件武当押镖队伍	npc\itemnpc057		11	1.25	4	"0,4;0,0;0,2;0,-2;0,-4"	leader_korea_71_01;leader_korea_71_02;leader_korea_71_03;leader_korea_71_04;leader_korea_71_05	1	6	20	event_korea_71				
+leader_korea_72	TeamLeaderNpc	镇派事件武当押镖队伍	npc\itemnpc057		11	1.25	4	"0,4;0,0;0,2;0,-2;0,-4"	leader_korea_71_01;leader_korea_71_02;leader_korea_71_03;leader_korea_71_04;leader_korea_71_05	1	6	20	event_korea_72				
+leader_korea_73	TeamLeaderNpc	镇派事件武当押镖队伍	npc\itemnpc057		11	1.25	4	"0,4;0,0;0,2;0,-2;0,-4"	leader_korea_71_01;leader_korea_71_02;leader_korea_71_03;leader_korea_71_04;leader_korea_71_05	1	6	20	event_korea_73				
+																	
+leader_korea_81	TeamLeaderNpc	镇派事件少林押镖队伍	npc\itemnpc057		11	1.25	4	"0,4;0,0;0,2;0,-2;0,-4"	leader_korea_81_01;leader_korea_81_02;leader_korea_81_03;leader_korea_81_04;leader_korea_81_05	1	6	20	event_korea_81				
+leader_korea_82	TeamLeaderNpc	镇派事件少林押镖队伍	npc\itemnpc057		11	1.25	4	"0,4;0,0;0,2;0,-2;0,-4"	leader_korea_81_01;leader_korea_81_02;leader_korea_81_03;leader_korea_81_04;leader_korea_81_05	1	6	20	event_korea_82				
+leader_korea_83	TeamLeaderNpc	镇派事件少林押镖队伍	npc\itemnpc057		11	1.25	4	"0,4;0,0;0,2;0,-2;0,-4"	leader_korea_81_01;leader_korea_81_02;leader_korea_81_03;leader_korea_81_04;leader_korea_81_05	1	6	20	event_korea_83				
+																	
+leader_korea_91	TeamLeaderNpc	镇派事件明教押镖队伍	npc\itemnpc057		11	1.25	4	"0,4;0,0;0,2;0,-2;0,-4"	leader_korea_91_01;leader_korea_91_02;leader_korea_91_03;leader_korea_91_04;leader_korea_91_05	1	6	20	event_korea_91				
+leader_korea_92	TeamLeaderNpc	镇派事件明教押镖队伍	npc\itemnpc057		11	1.25	4	"0,4;0,0;0,2;0,-2;0,-4"	leader_korea_91_01;leader_korea_91_02;leader_korea_91_03;leader_korea_91_04;leader_korea_91_05	1	6	20	event_korea_92				
+leader_korea_93	TeamLeaderNpc	镇派事件明教押镖队伍	npc\itemnpc057		11	1.25	4	"0,4;0,0;0,2;0,-2;0,-4"	leader_korea_91_01;leader_korea_91_02;leader_korea_91_03;leader_korea_91_04;leader_korea_91_05	1	6	20	event_korea_93				
+																	
+leader_korea_101	TeamLeaderNpc	镇派事件明教押镖队伍	npc\itemnpc057		11	1.25	4	"0,4;0,0;0,2;0,-2;0,-4"	leader_korea_101_01;leader_korea_101_02;leader_korea_101_03;leader_korea_101_04;leader_korea_101_05	1	6	20	event_korea_101	1			
+leader_korea_102	TeamLeaderNpc	镇派事件明教押镖队伍	npc\itemnpc057		11	1.25	4	"0,4;0,0;0,2;0,-2;0,-4"	leader_korea_101_01;leader_korea_101_02;leader_korea_101_03;leader_korea_101_04;leader_korea_101_05	1	6	20	event_korea_102	1			
+leader_korea_103	TeamLeaderNpc	镇派事件明教押镖队伍	npc\itemnpc057		11	1.25	4	"0,4;0,0;0,2;0,-2;0,-4"	leader_korea_101_01;leader_korea_101_02;leader_korea_101_03;leader_korea_101_04;leader_korea_101_05	1	6	20	event_korea_103	1			
+																	
+																	
+																	
+leader_judas_11	TeamLeaderNpc	镇派事件环秀山庄巡逻	npc\itemnpc057		11	1.2	5.5	"0,2;0,0;0,-2"	leader_judas_11_01;leader_judas_11_02;leader_judas_11_03	1	6	20	event_judas_11	1			-1
+leader_judas_12	TeamLeaderNpc	镇派事件环秀山庄巡逻	npc\itemnpc057		11	1.2	5.5	"0,2;0,0;0,-2"	leader_judas_12_01;leader_judas_12_02;leader_judas_12_03	1	6	20	event_judas_12	1			-1
+leader_judas_13	TeamLeaderNpc	镇派事件环秀山庄巡逻	npc\itemnpc057		11	1.2	5.5	"0,2;0,0;0,-2"	leader_judas_13_01;leader_judas_13_02;leader_judas_13_03	1	6	20	event_judas_13	1			-1
+leader_judas_14	TeamLeaderNpc	镇派事件环秀山庄巡逻	npc\itemnpc057		11	1.2	5.5	"0,2;0,0;0,-2"	leader_judas_14_01;leader_judas_14_02;leader_judas_14_03	1	6	20	event_judas_14	1			-1
+leader_judas_15	TeamLeaderNpc	镇派事件环秀山庄巡逻	npc\itemnpc057		11	1.2	5.5	"0,2;0,0;0,-2"	leader_judas_15_01;leader_judas_15_02;leader_judas_15_03	1	6	20	event_judas_15	1			-1
+leader_judas_16	TeamLeaderNpc	镇派事件环秀山庄巡逻	npc\itemnpc057		11	1.2	5.5	"0,2;0,0;0,-2"	leader_judas_16_01;leader_judas_16_02;leader_judas_16_03	1	6	20	event_judas_16	1			-1
+leader_judas_17	TeamLeaderNpc	镇派事件环秀山庄巡逻	npc\itemnpc057		11	1.2	5.5	"0,2;0,0;0,-2"	leader_judas_17_01;leader_judas_17_02;leader_judas_17_03	1	6	20	event_judas_17	1			-1
+leader_judas_18	TeamLeaderNpc	镇派事件环秀山庄巡逻	npc\itemnpc057		11	1.2	5.5	"0,2;0,0;0,-2"	leader_judas_18_01;leader_judas_18_02;leader_judas_18_03	1	6	20	event_judas_18	1			-1
+leader_judas_19	TeamLeaderNpc	镇派事件环秀山庄巡逻	npc\itemnpc057		11	1.2	5.5	"0,2;0,0;0,-2"	leader_judas_19_01;leader_judas_19_02;leader_judas_19_03	1	6	20	event_judas_19	1			-1
+leader_judas_20	TeamLeaderNpc	镇派事件环秀山庄巡逻	npc\itemnpc057		11	1.2	5.5	"0,2;0,0;0,-2"	leader_judas_20_01;leader_judas_20_02;leader_judas_20_03	1	6	20	event_judas_20	1			-1
+																	
+Leader_korea_g11	TeamLeaderNpc	镇派事件少林押镖队伍	npc\itemnpc057		11	6	6	"0,4;0,2;0,0;0,-2;0,-4"	world_korea_g11;world_korea_g11;world_korea_g11;world_korea_g11;world_korea_g11	1	6	20	event_korea_g11	1			-1
+Leader_korea_g12	TeamLeaderNpc	镇派事件少林押镖队伍	npc\itemnpc057		11	6	6	"0,4;0,2;0,0;0,-2;0,-4"	world_korea_g12;world_korea_g12;world_korea_g12;world_korea_g12;world_korea_g12	1	6	20	event_korea_g12	1			-1
+Leader_korea_g13	TeamLeaderNpc	镇派事件少林押镖队伍	npc\itemnpc057		11	6	6	"0,4;0,2;0,0;0,-2;0,-4"	world_korea_g13;world_korea_g13;world_korea_g13;world_korea_g13;world_korea_g13	1	6	20	event_korea_g13	1			-1
+Leader_korea_g14	TeamLeaderNpc	镇派事件少林押镖队伍	npc\itemnpc057		11	6	6	"0,4;0,2;0,0;0,-2;0,-4"	world_korea_g14;world_korea_g14;world_korea_g14;world_korea_g14;world_korea_g14	1	6	20	event_korea_g14	1			-1
+Leader_korea_g15	TeamLeaderNpc	镇派事件少林押镖队伍	npc\itemnpc057		11	6	6	"0,4;0,2;0,0;0,-2;0,-4"	world_korea_g15;world_korea_g15;world_korea_g15;world_korea_g15;world_korea_g15	1	6	20	event_korea_g15	1			-1
+																	
+Leader_korea_g21	TeamLeaderNpc	镇派事件少林押镖队伍	npc\itemnpc057		11	6	6	"0,4;0,2;0,0;0,-2;0,-4"	world_korea_g21;world_korea_g21;world_korea_g21;world_korea_g21;world_korea_g21	1	6	20	event_korea_g21	1			-1
+Leader_korea_g22	TeamLeaderNpc	镇派事件少林押镖队伍	npc\itemnpc057		11	6	6	"0,4;0,2;0,0;0,-2;0,-4"	world_korea_g22;world_korea_g22;world_korea_g22;world_korea_g22;world_korea_g22	1	6	20	event_korea_g22	1			-1
+Leader_korea_g23	TeamLeaderNpc	镇派事件少林押镖队伍	npc\itemnpc057		11	6	6	"0,4;0,2;0,0;0,-2;0,-4"	world_korea_g23;world_korea_g23;world_korea_g23;world_korea_g23;world_korea_g23	1	6	20	event_korea_g23	1			-1
+Leader_korea_g24	TeamLeaderNpc	镇派事件少林押镖队伍	npc\itemnpc057		11	6	6	"0,4;0,2;0,0;0,-2;0,-4"	world_korea_g24;world_korea_g24;world_korea_g24;world_korea_g24;world_korea_g24	1	6	20	event_korea_g24	1			-1
+Leader_korea_g25	TeamLeaderNpc	镇派事件少林押镖队伍	npc\itemnpc057		11	6	6	"0,4;0,2;0,0;0,-2;0,-4"	world_korea_g25;world_korea_g25;world_korea_g25;world_korea_g25;world_korea_g25	1	6	20	event_korea_g25	1			-1
+																	
+Leader_korea_g41	TeamLeaderNpc	镇派事件少林押镖队伍	npc\itemnpc057		11	6	6	"0,4;0,2;0,0;0,-2;0,-4"	world_korea_g41;world_korea_g41;world_korea_g41;world_korea_g41;world_korea_g41	1	6	20	event_korea_g41	1			-1
+Leader_korea_g42	TeamLeaderNpc	镇派事件少林押镖队伍	npc\itemnpc057		11	6	6	"0,4;0,2;0,0;0,-2;0,-4"	world_korea_g42;world_korea_g42;world_korea_g42;world_korea_g42;world_korea_g42	1	6	20	event_korea_g42	1			-1
+Leader_korea_g43	TeamLeaderNpc	镇派事件少林押镖队伍	npc\itemnpc057		11	6	6	"0,4;0,2;0,0;0,-2;0,-4"	world_korea_g43;world_korea_g43;world_korea_g43;world_korea_g43;world_korea_g43	1	6	20	event_korea_g43	1			-1
+Leader_korea_g44	TeamLeaderNpc	镇派事件少林押镖队伍	npc\itemnpc057		11	6	6	"0,4;0,2;0,0;0,-2;0,-4"	world_korea_g44;world_korea_g44;world_korea_g44;world_korea_g44;world_korea_g44	1	6	20	event_korea_g44	1			-1
+Leader_korea_g45	TeamLeaderNpc	镇派事件少林押镖队伍	npc\itemnpc057		11	6	6	"0,4;0,2;0,0;0,-2;0,-4"	world_korea_g45;world_korea_g45;world_korea_g45;world_korea_g45;world_korea_g45	1	6	20	event_korea_g45	1			-1
+																	
+Leader_korea_g51	TeamLeaderNpc	镇派事件少林押镖队伍	npc\itemnpc057		11	6	6	"0,4;0,2;0,0;0,-2;0,-4"	world_korea_g51;world_korea_g51;world_korea_g51;world_korea_g51;world_korea_g51	1	6	20	event_korea_g51	1			-1
+Leader_korea_g52	TeamLeaderNpc	镇派事件少林押镖队伍	npc\itemnpc057		11	6	6	"0,4;0,2;0,0;0,-2;0,-4"	world_korea_g52;world_korea_g52;world_korea_g52;world_korea_g52;world_korea_g52	1	6	20	event_korea_g52	1			-1
+Leader_korea_g53	TeamLeaderNpc	镇派事件少林押镖队伍	npc\itemnpc057		11	6	6	"0,4;0,2;0,0;0,-2;0,-4"	world_korea_g53;world_korea_g53;world_korea_g53;world_korea_g53;world_korea_g53	1	6	20	event_korea_g53	1			-1
+Leader_korea_g54	TeamLeaderNpc	镇派事件少林押镖队伍	npc\itemnpc057		11	6	6	"0,4;0,2;0,0;0,-2;0,-4"	world_korea_g54;world_korea_g54;world_korea_g54;world_korea_g54;world_korea_g54	1	6	20	event_korea_g54	1			-1
+Leader_korea_g55	TeamLeaderNpc	镇派事件少林押镖队伍	npc\itemnpc057		11	6	6	"0,4;0,2;0,0;0,-2;0,-4"	world_korea_g55;world_korea_g55;world_korea_g55;world_korea_g55;world_korea_g55	1	6	20	event_korea_g55	1			-1
+																	
+	//快活岛禁地																
+Leader_clone031_001	TeamLeaderNpc	洗心池巡逻倭寇1	npc\itemnpc057		11	3.5	5	"0,1;0,0;1,-1;-1,-1;0,-2"	Funnpcclone031013;Funnpcclone031007;Funnpcclone031007;Funnpcclone031008;Funnpcclone031008	1	6	20	clone031_001	1			
+Leader_clone031_002	TeamLeaderNpc	洗心池巡逻倭寇2	npc\itemnpc057		11	3.5	5	"0,0;0,-1;1,-2;-1,-2"	Funnpcclone031014;Funnpcclone031009;Funnpcclone031009;Funnpcclone031009	1	6	20	clone031_002	1			
+Leader_clone031_003	TeamLeaderNpc	洗心池巡逻倭寇3	npc\itemnpc057		11	3.5	5	"1,0;-1,0;1,-1;-1,-1;1,-2;-1,-2;"	Funnpcclone031013;Funnpcclone031013;Funnpcclone031007;Funnpcclone031007;Funnpcclone031008;Funnpcclone031008	1	6	20	clone031_003	1			
+Leader_clone031_004	TeamLeaderNpc	醉仙楼巡逻阎罗卫1	npc\itemnpc057		11	3.5	5	"0,1;0,0;1,-1;-1,-1;0,-2"	Funnpcclone031017;Funnpcclone031020;Funnpcclone031020;Funnpcclone031020;Funnpcclone031020	1	6	20	clone031_006	1			
+Leader_clone031_005	TeamLeaderNpc	醉仙楼巡逻阎罗卫2	npc\itemnpc057		11	3.5	5	"0,1;0,0;1,-1;-1,-1;0,-2"	Funnpcclone031017;Funnpcclone031020;Funnpcclone031020;Funnpcclone031020;Funnpcclone031020	1	6	20	clone031_007	1			
+Leader_clone031_006	TeamLeaderNpc	醉仙楼巡逻阎罗卫3	npc\itemnpc057		11	3.5	5	"0,1;0,0;1,-1;-1,-1;0,-2"	Funnpcclone031017;Funnpcclone031020;Funnpcclone031020;Funnpcclone031020;Funnpcclone031020	1	6	20	clone031_008	1			
+Leader_clone031_007	TeamLeaderNpc	醉仙楼巡逻阎罗卫4	npc\itemnpc057		11	3.5	5	"0,1;0,0;1,-1;-1,-1;0,-2"	Funnpcclone031017;Funnpcclone031020;Funnpcclone031020;Funnpcclone031020;Funnpcclone031020	1	6	20	clone031_009	1			
+Leader_clone031_008	TeamLeaderNpc	醉仙楼巡逻阎罗卫5	npc\itemnpc057		11	3.5	5	"0,1;0,0;1,-1;-1,-1;0,-2"	Funnpcclone031017;Funnpcclone031020;Funnpcclone031020;Funnpcclone031020;Funnpcclone031020	1	6	20	clone031_010	1			
+																	
+	//华山派巡逻																
+Leader_school17_001	TeamLeaderNpc	华山派巡逻	npc\worldnpc124		11	3	5	"0,0;1,0"		1	6	0		1			
+Leader_school17_002	TeamLeaderNpc	华山派巡逻	npc\worldnpc124		11	3	5	"0,0;1,0"		1	6	0		1			
+Leader_school17_003	TeamLeaderNpc	华山派巡逻	npc\worldnpc124		11	3	5	"0,0;1,0"		1	6	0		1			
+Leader_school17_004	TeamLeaderNpc	华山派巡逻	npc\worldnpc124		11	3	5	"0,0;1,0"		1	6	0		1			
+Leader_school17_005	TeamLeaderNpc	华山派巡逻	npc\worldnpc124		11	3	5	"0,0;1,0"		1	6	0		1			
+Leader_school17_006	TeamLeaderNpc	华山派巡逻	npc\worldnpc124		11	3	5	"0,0;1,0"		1	6	0		1			
+Leader_school17_007	TeamLeaderNpc	华山派巡逻	npc\worldnpc124		11	3	5	"0,0;1,0"		1	6	0		1			
+Leader_school17_008	TeamLeaderNpc	华山派巡逻	npc\worldnpc124		11	3	5	"0,0;1,0"		1	6	0		1			
+Leader_school17_009	TeamLeaderNpc	华山派巡逻	npc\worldnpc124		11	3	5	"0,0;1,0"		1	6	0		1			
+Leader_school17_010	TeamLeaderNpc	华山派巡逻	npc\worldnpc124		11	3	5	"0,0;1,0"		1	6	0		1			
+Leader_school17_011	TeamLeaderNpc	华山派巡逻	npc\worldnpc124		11	3	5	"0,0;1,0"		1	6	0		1			
+Leader_school17_012	TeamLeaderNpc	华山派巡逻	npc\worldnpc124		11	3	5	"0,0;1,0"		1	6	0		1			
+Leader_school17_013	TeamLeaderNpc	华山派巡逻	npc\worldnpc124		11	3	5	"0,0;1,0"		1	6	0		1			
+Leader_school17_014	TeamLeaderNpc	华山派巡逻	npc\worldnpc124		11	3	5	"0,0;1,0"		1	6	0		1			
+Leader_school17_015	TeamLeaderNpc	华山派巡逻	npc\worldnpc124		11	3	5	"0,0;1,0"		1	6	0		1			
+																	
+	//华山-魔教入侵																
+leadernpc_hs_mjrq01	TeamLeaderNpc	华山魔教入侵1波小怪4	npc\itemnpc057		11	3	5	"0,0;0,1;0,2;0,3"	npc_hsp_mjrq_03;npc_hsp_mjrq_08;npc_hsp_mjrq_03;npc_hsp_mjrq_08	1	6	0	hsp_mjrq_01	1			-1
+leadernpc_hs_mjrq02	TeamLeaderNpc	华山魔教入侵1波小怪5	npc\itemnpc057		11	3	5	"0,0;-0.5,-1.5;0.5,-1.5;-0.5,-2.5;0.5,-2.5"	npc_hsp_mjrq_03;npc_hsp_mjrq_08;npc_hsp_mjrq_03;npc_hsp_mjrq_08;npc_hsp_mjrq_08	1	6	0	hsp_mjrq_01	1			-1
+leadernpc_hs_mjrq03	TeamLeaderNpc	华山魔教入侵1波小怪6	npc\itemnpc057		11	3	5	"1,0;-1,0;1,1;-1,1;1,2;-1,2;"	npc_hsp_mjrq_03;npc_hsp_mjrq_08;npc_hsp_mjrq_03;npc_hsp_mjrq_08;npc_hsp_mjrq_08;npc_hsp_mjrq_03	1	6	0	hsp_mjrq_01	1			-1
+leadernpc_hs_mjrq04	TeamLeaderNpc	华山魔教入侵2波前小怪6	npc\itemnpc057		11	3	5	"1,0;-1,0;1,1;-1,1;1,2;-1,2;"	npc_hsp_mjrq_04;npc_hsp_mjrq_09;npc_hsp_mjrq_04;npc_hsp_mjrq_09;;npc_hsp_mjrq_09;npc_hsp_mjrq_04	1	6	0	hsp_mjrq_01	1			-1
+leadernpc_hs_mjrq05	TeamLeaderNpc	华山魔教入侵2波前小怪7	npc\itemnpc057		11	3	5	"1,0;-1,0;1,1;-1,1;1,2;-1,2;0,-3"	npc_hsp_mjrq_04;npc_hsp_mjrq_09;npc_hsp_mjrq_04;npc_hsp_mjrq_09;npc_hsp_mjrq_09;npc_hsp_mjrq_04;npc_hsp_mjrq_04	1	6	0	hsp_mjrq_01	1			-1
+leadernpc_hs_mjrq06	TeamLeaderNpc	华山魔教入侵2波前小怪8	npc\itemnpc057		11	3	5	"1,0;-1,0;1,1;-1,1;1,2;-1,2;1,3;-1,3"	npc_hsp_mjrq_04;npc_hsp_mjrq_09;npc_hsp_mjrq_04;npc_hsp_mjrq_09;npc_hsp_mjrq_09;npc_hsp_mjrq_04;npc_hsp_mjrq_04;npc_hsp_mjrq_09	1	6	0	hsp_mjrq_01	1			-1
+leadernpc_hs_mjrq07	TeamLeaderNpc	华山魔教入侵2波后小怪3	npc\itemnpc057		11	3	5	"0,0;0,1;0,2"	npc_hsp_mjrq_05;npc_hsp_mjrq_10;npc_hsp_mjrq_05	1	6	0	hsp_mjrq_02	1			-1
+leadernpc_hs_mjrq08	TeamLeaderNpc	华山魔教入侵3波前小怪8	npc\itemnpc057		11	3	5	"1,0;-1,0;1,1;-1,1;1,2;-1,2;1,3;-1,3"	npc_hsp_mjrq_04;npc_hsp_mjrq_09;npc_hsp_mjrq_04;npc_hsp_mjrq_09;npc_hsp_mjrq_09;npc_hsp_mjrq_04;npc_hsp_mjrq_04;npc_hsp_mjrq_09	1	6	0	hsp_mjrq_01	1			-1
+leadernpc_hs_mjrq09	TeamLeaderNpc	华山魔教入侵3波前小怪9	npc\itemnpc057		11	3	5	"1,0;-1,0;1,1;-1,1;1,2;-1,2;1,3;-1,3;0.-4"	npc_hsp_mjrq_04;npc_hsp_mjrq_09;npc_hsp_mjrq_04;npc_hsp_mjrq_09;npc_hsp_mjrq_09;npc_hsp_mjrq_04;npc_hsp_mjrq_04;npc_hsp_mjrq_09;npc_hsp_mjrq_09	1	6	0	hsp_mjrq_01	1			-1
+leadernpc_hs_mjrq10	TeamLeaderNpc	华山魔教入侵3波前小怪10	npc\itemnpc057		11	3	5	"0,0;-1,0;1,0;0,-1;1,-1;-1,-1;0,-2;1,-2;-1,-2;0,1"	npc_hsp_mjrq_04;npc_hsp_mjrq_09;npc_hsp_mjrq_04;npc_hsp_mjrq_09;npc_hsp_mjrq_09;npc_hsp_mjrq_04;npc_hsp_mjrq_04;npc_hsp_mjrq_09;npc_hsp_mjrq_09;npc_hsp_mjrq_04	1	6	0	hsp_mjrq_01	1			-1
+leadernpc_hs_mjrq11	TeamLeaderNpc	华山魔教入侵2波后小怪4	npc\itemnpc057		11	3	5	"0,0;0,1;0,2;0,3"	npc_hsp_mjrq_05;npc_hsp_mjrq_10;npc_hsp_mjrq_05;npc_hsp_mjrq_10	1	6	0	hsp_mjrq_02	1			-1
+																	
+Leader_wyls_01	TeamLeaderNpc	镇派事件少林押镖队伍	npc\itemnpc057		11	6	6	"0,4;0,2;0,0;0,-2;0,-4"	Npc_huodong_sb01;Npc_huodong_sb02;Npc_huodong_sb03;	1	6	20	AI_swdm_15	1			-1
+Leader_wyls_02	TeamLeaderNpc	镇派事件少林押镖队伍	npc\itemnpc057		11	6	6	"0,4;0,2;0,0;0,-2;0,-4"	Npc_huodong_sb01;Npc_huodong_sb02;Npc_huodong_sb03;	1	6	20	AI_swdm_16	1			-1
+																	
+leader_1908_dy_001	TeamLeaderNpc	潜入玩法巡逻	npc\itemnpc057		11	1.2	5.5	"0,2;0,0;0,-2"	npc_1908_dy_001;npc_1908_dy_002;npc_1908_dy_003	1	6	20	AI_1908_001	1			-1
+leader_1908_dy_002	TeamLeaderNpc	潜入玩法巡逻	npc\itemnpc057		11	1.2	5.5	"0,2;0,0;0,-2"	npc_1908_dy_001;npc_1908_dy_002;npc_1908_dy_003	1	6	20	AI_1908_002	1			-1
+leader_1908_dy_003	TeamLeaderNpc	潜入玩法巡逻	npc\itemnpc057		11	1.2	5.5	"0,2;0,0;0,-2"	npc_1908_dy_001;npc_1908_dy_002;npc_1908_dy_003	1	6	20	AI_1908_003	1			-1
+leader_1908_dy_004	TeamLeaderNpc	潜入玩法巡逻	npc\itemnpc057		11	1.2	5.5	"0,2;0,0;0,-2"	npc_1908_dy_001;npc_1908_dy_002;npc_1908_dy_003	1	6	20	AI_1908_004	1			-1
+leader_1908_dy_005	TeamLeaderNpc	潜入玩法巡逻	npc\itemnpc057		11	1.2	5.5	"0,2;0,0;0,-2"	npc_1908_dy_401;npc_1908_dy_401;npc_1908_dy_401	1	6	20	AI_1908_005	1			-1
+leader_1908_dy_006	TeamLeaderNpc	潜入玩法巡逻	npc\itemnpc057		11	1.2	5.5	"0,2;0,0;0,-2"	npc_1908_dy_401;npc_1908_dy_401;npc_1908_dy_401	1	6	20	AI_1908_006	1			-1
+leader_1908_dy_007	TeamLeaderNpc	潜入玩法巡逻	npc\itemnpc057		11	1.2	5.5	"0,2;0,0;0,-2"	npc_1908_dy_001;npc_1908_dy_002;npc_1908_dy_003	1	6	20	AI_1908_007	1			-1
+leader_1908_dy_008	TeamLeaderNpc	潜入玩法巡逻	npc\itemnpc057		11	1.2	5.5	"0,2;0,0;0,-2"	npc_1908_dy_001;npc_1908_dy_002;npc_1908_dy_003	1	6	20	AI_1908_008	1			-1
+leader_1908_dy_009	TeamLeaderNpc	潜入玩法巡逻	npc\itemnpc057		11	1.2	5.5	"0,2;0,0;0,-2"	npc_1908_dy_001;npc_1908_dy_002;npc_1908_dy_003	1	6	20	AI_1908_009	1			-1
+leader_1908_dy_010	TeamLeaderNpc	潜入玩法巡逻	npc\itemnpc057		11	1.2	5.5	"0,2;0,0;0,-2"	npc_1908_dy_001;npc_1908_dy_002;npc_1908_dy_003	1	6	20	AI_1908_010	1			-1
+leader_1908_dy_011	TeamLeaderNpc	潜入玩法巡逻	npc\itemnpc057		11	1.2	5.5	"0,2;0,0;0,-2"	npc_1908_dy_001;npc_1908_dy_002;npc_1908_dy_003	1	6	20	AI_1908_011	1			-1
+leader_1908_dy_012	TeamLeaderNpc	潜入玩法巡逻	npc\itemnpc057		11	1.2	5.5	"0,2;0,0;0,-2"	npc_1908_dy_001;npc_1908_dy_002;npc_1908_dy_003	1	6	20	AI_1908_012	1			-1
+leader_1908_dy_013	TeamLeaderNpc	潜入玩法巡逻	npc\itemnpc057		11	1.2	5.5	"0,2;0,0;0,-2"	npc_1908_dy_001;npc_1908_dy_002;npc_1908_dy_003	1	6	20	AI_1908_013	1			-1
+leader_1908_dy_014	TeamLeaderNpc	潜入玩法巡逻	npc\itemnpc057		11	1.2	5.5	"0,2;0,0;0,-2"	npc_1908_dy_001;npc_1908_dy_002;npc_1908_dy_003	1	6	20	AI_1908_014	1			-1
+leader_1908_dy_015	TeamLeaderNpc	潜入玩法巡逻	npc\itemnpc057		11	1.2	5.5	"0,2;0,0;0,-2"	npc_1908_dy_001;npc_1908_dy_002;npc_1908_dy_003	1	6	20	AI_1908_015	1			-1
+leader_1908_dy_016	TeamLeaderNpc	潜入玩法巡逻	npc\itemnpc057		11	1.2	5.5	"0,2;0,0;0,-2"	npc_1908_dy_001;npc_1908_dy_002;npc_1908_dy_003	1	6	20	AI_1908_016	1			-1
+leader_1908_dy_017	TeamLeaderNpc	潜入玩法巡逻	npc\itemnpc057		11	1.2	5.5	"0,2;0,0;0,-2"	npc_1908_dy_401;npc_1908_dy_401;npc_1908_dy_401	1	6	20	AI_1908_017	1			-1
+leader_1908_dy_018	TeamLeaderNpc	潜入玩法巡逻	npc\itemnpc057		11	1.2	5.5	"0,2;0,0;0,-2"	npc_1908_dy_001;npc_1908_dy_002;npc_1908_dy_003	1	6	20	AI_1908_018	1			-1
+leader_1908_dy_019	TeamLeaderNpc	潜入玩法巡逻	npc\itemnpc057		11	1.2	5.5	"0,2;0,0;0,-2"	npc_1908_dy_001;npc_1908_dy_002;npc_1908_dy_003	1	6	20	AI_1908_019	1			-1
+leader_1908_dy_020	TeamLeaderNpc	潜入玩法巡逻	npc\itemnpc057		11	1.2	5.5	"0,2;0,0;0,-2"	npc_1908_dy_001;npc_1908_dy_002;npc_1908_dy_003	1	6	20	AI_1908_020	1			-1
+																	
+Leader_clone048_010	TeamLeaderNpc	后院下人	npc\itemnpc057e		11	3	5	"0,1;0,0"	NpcClone048018;NpcClone048018	1	6	0	clone048_010	1			
+Leader_clone048_011	TeamLeaderNpc	后院家丁	npc\itemnpc057e		11	3	5	"0,1;0,0"	NpcClone048017;NpcClone048017	1	6	0	clone048_011	1			
+Leader_clone048_013	TeamLeaderNpc	幽暗侍女	npc\itemnpc057e		11	3	5	"0,1;1,0"	NpcClone048020;NpcClone048020	1	6	0	clone048_013	1			
+Leader_clone048_016	TeamLeaderNpc	薛地众2	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone048012;NpcClone048012	1	6	0	clone048_016	1			
+Leader_clone048_019	TeamLeaderNpc	郭天众2	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone048013;NpcClone048013	1	6	0	clone048_019	1			
+Leader_clone048_021	TeamLeaderNpc	吴天众1	npc\itemnpc057e		11	3	5	"0,0;1,1"	NpcClone048015;NpcClone048015	1	6	0	clone048_021	1			
+Leader_clone048_022	TeamLeaderNpc	吴地众1	npc\itemnpc057e		11	3	5	"0,0;1,1"	NpcClone048016;NpcClone048016	1	6	0	clone048_022	1			
+Leader_clone048_023	TeamLeaderNpc	吴天众2	npc\itemnpc057e		11	3	5	"0,0;-1,0"	NpcClone048015;NpcClone048015	1	6	0	clone048_023	1			
+Leader_clone048_024	TeamLeaderNpc	吴地众2	npc\itemnpc057e		11	3	5	"0,0;-1,0"	NpcClone048016;NpcClone048016	1	6	0	clone048_024	1			
+Leader_clone048_025	TeamLeaderNpc	吴天众3	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone048015;NpcClone048015	1	6	0	clone048_025	1			
+Leader_clone048_026	TeamLeaderNpc	吴地众3	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcClone048016;NpcClone048016	1	6	0	clone048_026	1			
+Leader_clone048_027	TeamLeaderNpc	吴地众4	npc\itemnpc057e		11	3	5	"0,0;-1,1;1,1"	NpcClone048016;NpcClone048016;NpcClone048016	1	6	0	clone048_027	1			
+Leader_clone048_028	TeamLeaderNpc	吴天众4	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcClone048015;NpcClone048015;NpcClone048015	1	6	0	clone048_028	1			
+Leader_clone048_030	TeamLeaderNpc	暗卫伏兵右	npc\itemnpc057e	100	11	3	5	"0,0;1,0;0,1"	NpcClone048021;NpcClone048021;NpcClone048021	1	6	0	clone048_048	1			
+Leader_clone048_031	TeamLeaderNpc	入口火使巡逻（2）	npc\itemnpc057e		11	3	5	"0,0;-1,0;1,1"	NpcClone048501;NpcClone048502;NpcClone048502	1	6	0	clone048_001	1			
+Leader_clone048_034	TeamLeaderNpc	前院木使（2）	npc\itemnpc057e		11	3	5	"0,0;0,1;-1,0"	NpcClone048510;NpcClone048510;NpcClone048508	1	6	0	clone048_004	1			
+Leader_clone048_035	TeamLeaderNpc	前院火使（2）	npc\itemnpc057e		11	3	5	"1,0;0,-1;0,1"	NpcClone048507;NpcClone048508;NpcClone048508	1	6	0	clone048_005	1			
+Leader_clone048_036	TeamLeaderNpc	前院土使（2）	npc\itemnpc057e		11	3	5	"0,0;0,1;-1,0"	NpcClone048506;NpcClone048506;NpcClone048507	1	6	0	clone048_006	1			
+Leader_clone048_037	TeamLeaderNpc	前院金使（2）	npc\itemnpc057e		11	3	5	"0,0;1,0;-1,0"	NpcClone048504;NpcClone048504;NpcClone048501	1	6	0	clone048_007	1			
+Leader_clone048_038	TeamLeaderNpc	前院水使（2）	npc\itemnpc057e		11	3	5	"0,1;0,0;-1,0"	NpcClone048508;NpcClone048508;NpcClone048503	1	6	0	clone048_008	1			
+																	
+	//挑战青云																
+Leader_clone021TZ_010	TeamLeaderNpc	后院下人	npc\itemnpc057e		11	3	5	"0,1;0,0"	NpcCloneTZ021018;NpcCloneTZ021018	1	6	0	clone021_010	1			
+Leader_clone021TZ_011	TeamLeaderNpc	后院家丁	npc\itemnpc057e		11	3	5	"0,1;0,0"	NpcCloneTZ021017;NpcCloneTZ021017	1	6	0	clone021_011	1			
+Leader_clone021TZ_013	TeamLeaderNpc	幽暗侍女	npc\itemnpc057e		11	3	5	"0,1;1,0"	NpcCloneTZ021020;NpcCloneTZ021020	1	6	0	clone021_013	1			
+Leader_clone021TZ_016	TeamLeaderNpc	薛地众2	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcCloneTZ021012;NpcCloneTZ021012	1	6	0	clone021_016	1			
+Leader_clone021TZ_019	TeamLeaderNpc	郭天众2	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcCloneTZ021013;NpcCloneTZ021013	1	6	0	clone021_019	1			
+Leader_clone021TZ_021	TeamLeaderNpc	吴天众1	npc\itemnpc057e		11	3	5	"0,0;1,1"	NpcCloneTZ021015;NpcCloneTZ021015	1	6	0	clone021_021	1			
+Leader_clone021TZ_022	TeamLeaderNpc	吴地众1	npc\itemnpc057e		11	3	5	"0,0;1,1"	NpcCloneTZ021016;NpcCloneTZ021016	1	6	0	clone021_022	1			
+Leader_clone021TZ_023	TeamLeaderNpc	吴天众2	npc\itemnpc057e		11	3	5	"0,0;-1,0"	NpcCloneTZ021015;NpcCloneTZ021015	1	6	0	clone021_023	1			
+Leader_clone021TZ_024	TeamLeaderNpc	吴地众2	npc\itemnpc057e		11	3	5	"0,0;-1,0"	NpcCloneTZ021016;NpcCloneTZ021016	1	6	0	clone021_024	1			
+Leader_clone021TZ_025	TeamLeaderNpc	吴天众3	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcCloneTZ021015;NpcCloneTZ021015	1	6	0	clone021_025	1			
+Leader_clone021TZ_026	TeamLeaderNpc	吴地众3	npc\itemnpc057e		11	3	5	"0,0;1,0"	NpcCloneTZ021016;NpcCloneTZ021016	1	6	0	clone021_026	1			
+Leader_clone021TZ_027	TeamLeaderNpc	吴地众4	npc\itemnpc057e		11	3	5	"0,0;-1,1;1,1"	NpcCloneTZ021016;NpcCloneTZ021016;NpcCloneTZ021016	1	6	0	clone021_027	1			
+Leader_clone021TZ_028	TeamLeaderNpc	吴天众4	npc\itemnpc057e		11	3	5	"0,1;-1,0;1,0"	NpcCloneTZ021015;NpcCloneTZ021015;NpcCloneTZ021015	1	6	0	clone021_028	1			
+Leader_clone021TZ_031	TeamLeaderNpc	入口火使巡逻（2）	npc\itemnpc057e		11	3	5	"0,0;-1,0;1,1"	NpcCloneTZ021501;NpcCloneTZ021502;NpcCloneTZ021502	1	6	0	clone021_001	1			
+Leader_clone021TZ_034	TeamLeaderNpc	前院木使（2）	npc\itemnpc057e		11	3	5	"0,0;0,1;-1,0"	NpcCloneTZ021510;NpcCloneTZ021510;NpcCloneTZ021508	1	6	0	clone021_004	1			
+Leader_clone021TZ_035	TeamLeaderNpc	前院火使（2）	npc\itemnpc057e		11	3	5	"1,0;0,-1;0,1"	NpcCloneTZ021507;NpcCloneTZ021508;NpcCloneTZ021508	1	6	0	clone021_005	1			
+Leader_clone021TZ_036	TeamLeaderNpc	前院土使（2）	npc\itemnpc057e		11	3	5	"0,0;0,1;-1,0"	NpcCloneTZ021506;NpcCloneTZ021506;NpcCloneTZ021507	1	6	0	clone021_006	1			
+Leader_clone021TZ_037	TeamLeaderNpc	前院金使（2）	npc\itemnpc057e		11	3	5	"0,0;1,0;-1,0"	NpcCloneTZ021504;NpcCloneTZ021504;NpcCloneTZ021501	1	6	0	clone021_007	1			
+Leader_clone021TZ_038	TeamLeaderNpc	前院水使（2）	npc\itemnpc057e		11	3	5	"0,1;0,0;-1,0"	NpcCloneTZ021508;NpcCloneTZ021508;NpcCloneTZ021503	1	6	0	clone021_008	1			
+																	
+	//挑战龙门																
+Leader_clone002TZ_602	TeamLeaderNpc	龙门关马棚巡逻	npc\itemnpc057		11	3.5	5	"0,0;1,-1"	funnpccloneTZ002053;funnpccloneTZ002031	1	6	0	clone002_025	1			
+Leader_clone002TZ_603	TeamLeaderNpc	龙门关城墙巡逻1	npc\itemnpc057		11	3.5	5	"-1,0;0,1;1,0"	funnpccloneTZ002031;funnpccloneTZ002053;funnpccloneTZ002031	1	6	0	clone002_026	1			
+Leader_clone002TZ_604	TeamLeaderNpc	龙门关城墙巡逻2	npc\itemnpc057		11	3.5	5	"-1,0;0,1;1,0"	funnpccloneTZ002031;funnpccloneTZ002053;funnpccloneTZ002031	1	6	0	clone002_027	1			
+Leader_clone002TZ_605	TeamLeaderNpc	龙门关兵营巡逻	npc\itemnpc057		11	3.5	5	"-1,0;0,1;1,0"	funnpccloneTZ002031;funnpccloneTZ002053;funnpccloneTZ002031	1	6	0	clone002_028	1			
+Leader_clone002TZ_606	TeamLeaderNpc	龙门关投石车巡逻	npc\itemnpc057		11	3.5	5	"-1,0;0,1;1,0"	funnpccloneTZ002031;funnpccloneTZ002053;funnpccloneTZ002031	1	6	0	clone002_029	1			
+Leader_clone002TZ_608	TeamLeaderNpc	龙门关城墙巡逻4	npc\itemnpc057		11	3.5	5	"-1,0;0,1;1,0"	funnpccloneTZ002031;funnpccloneTZ002053;funnpccloneTZ002031	1	6	0	clone002_031	1			
+Leader_clone002TZ_609	TeamLeaderNpc	龙门关粮草巡逻	npc\itemnpc057		11	3.5	5	"-1,0;0,1;1,0"	funnpccloneTZ002031;funnpccloneTZ002053;funnpccloneTZ002031	1	6	0	clone002_032	1			
+Leader_clone002TZ_610	TeamLeaderNpc	胡人大营中军帐巡逻	npc\itemnpc057		11	3.5	5	"0,0;0,1;0,2;1,0;1,1;1,2"	funnpccloneTZ002088;funnpccloneTZ002088;funnpccloneTZ002088;funnpccloneTZ002088;funnpccloneTZ002088;funnpccloneTZ002088	1	6	0	clone002_033	1			
+Leader_clone002TZ_611	TeamLeaderNpc	胡人大营右路巡逻	npc\itemnpc057		11	3.5	5	"0,0;0,1;1,0;1,1"	funnpccloneTZ002088;funnpccloneTZ002088;funnpccloneTZ002088;funnpccloneTZ002088	1	6	0	clone002_034	1			
+Leader_clone002TZ_612	TeamLeaderNpc	胡人大营左路巡逻	npc\itemnpc057		11	3.5	5	"0,0;0,1;1,0;1,1"	funnpccloneTZ002088;funnpccloneTZ002088;funnpccloneTZ002088;funnpccloneTZ002088	1	6	0	clone002_035	1			
+Leader_clone002TZ_613	TeamLeaderNpc	马贼山寨马棚巡逻	npc\itemnpc057		11	3.5	5	"0,1;1,0"	funnpccloneTZ002089;funnpccloneTZ002090	1	6	0	clone002_036	1			
+Leader_clone002TZ_614	TeamLeaderNpc	马贼山寨山路巡逻	npc\itemnpc057		11	3.5	5	"0,1;1,0"	funnpccloneTZ002090;funnpccloneTZ002090	1	6	0	clone002_037	1			
+Leader_clone002TZ_615	TeamLeaderNpc	马贼山寨内巡逻	npc\itemnpc057		11	3.5	5	"-1,0;0,1;1,0"	funnpccloneTZ002090;funnpccloneTZ002089;funnpccloneTZ002090	1	6	0	clone002_038	1			
+Leader_clone002TZ_616	TeamLeaderNpc	马贼山牢房巡逻	npc\itemnpc057		11	3.5	5	"-1,0;0,1;1,0"	funnpccloneTZ002090;funnpccloneTZ002089;funnpccloneTZ002090	1	6	0	clone002_039	1			
+Leader_clone002TZ_618	TeamLeaderNpc	马场巡逻2	npc\itemnpc057		11	3.5	5	"-1,0;0,1;1,0"	funnpccloneTZ002034;funnpccloneTZ002037;funnpccloneTZ002037	1	6	0	clone002_ey_02	1			
+																	
+	望辉洲																
+Leader_whz_dy_01	TeamLeaderNpc	马场巡逻2	npc\itemnpc057		11	3.5	5	"-1,0;0,1;1,0"	boss_whz_dy_06;boss_whz_dy_07;boss_whz_dy_08	1	6	0	AI_whz_dy_002	1			
+Leader_whz_dy_02	TeamLeaderNpc	马场巡逻2	npc\itemnpc057		11	3.5	5	"-1,0;0,1;1,0"	boss_whz_dy_06;boss_whz_dy_07;boss_whz_dy_08	1	6	0	AI_whz_dy_003	1			
+Leader_whz_dy_03	TeamLeaderNpc	马场巡逻2	npc\itemnpc057		11	3.5	5	"-1,0;0,1;1,0"	boss_whz_dy_06;boss_whz_dy_07;boss_whz_dy_08	1	6	0	AI_whz_dy_004	1			
+Leader_whz_dy_04	TeamLeaderNpc	马场巡逻2	npc\itemnpc057		11	3.5	5	"-1,0;0,1;1,0"	boss_whz_dy_06;boss_whz_dy_07;boss_whz_dy_08	1	6	0	AI_whz_dy_005	1			
+Leader_whz_dy_05	TeamLeaderNpc	马场巡逻2	npc\itemnpc057		11	3.5	5	"-1,0;0,1;1,0"	boss_whz_dy_06;boss_whz_dy_07;boss_whz_dy_08	1	6	0	AI_whz_dy_007	1			
+																	
+																	
+	//新岛																
+Leader_xd_fc_01	TeamLeaderNpc	日本城巡逻	npc\itemnpc057		11	3.5	5	"0,1;0,0;1,-1;-1,-1;0,-2"	npc_xd_fc_014;npc_xd_fc_013;npc_xd_fc_012;npc_xd_fc_012;npc_xd_fc_012	1	6	0	scene38_fc01	1			
+Leader_xd_fc_02	TeamLeaderNpc	日本城巡逻	npc\itemnpc057		11	3.5	5	"0,1;0,0;1,-1;-1,-1;0,-2"	npc_xd_fc_008;npc_xd_fc_006;npc_xd_fc_004;npc_xd_fc_004;npc_xd_fc_004	1	6	0	scene38_fc02	1			
+Leader_xd_fc_03	TeamLeaderNpc	日本城巡逻	npc\itemnpc057		11	3.5	5	"0,1;0,0;1,-1;-1,-1;0,-2"	npc_xd_fc_007;npc_xd_fc_005;npc_xd_fc_003;npc_xd_fc_003;npc_xd_fc_003	1	6	0	scene38_fc03	1			

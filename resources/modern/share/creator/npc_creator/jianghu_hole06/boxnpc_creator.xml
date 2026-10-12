@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="39853D72DB5447329B67350FD8F5EE54" x="-34.301" y="34.080" z="238.635" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1" SubSceneNo="8503">
+            <item No="1" id="Box_mijing_ssg_001" ay="-1" amount="1" refreshtime="120000" NotPositive="0" desc="真宝箱">
+                <position x="-32.659" z="236.547" ay="-1" />
+                <position x="-33.425" z="240.324" ay="-1" />
+            </item>
+        </creator>
+        <creator No="FCD32E08E8594613BBAC629A43E9200A" x="36.447" y="40.058" z="274.511" radius="4.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1" SubSceneNo="8503">
+            <item No="1" id="Box_mijing_ssg_001" ay="-1" amount="1" refreshtime="120000" NotPositive="0" desc="真宝箱">
+                <position x="35.161" z="276.165" ay="-1" />
+                <position x="36.176" z="273.280" ay="-1" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

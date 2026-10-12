@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="E0FD826177064839B16AEE1B58C5F5FA" x="1478.792" y="26.141" z="268.231" radius="5.0" WakeupRange="14.0" ChaseRange="-1.0" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="funnpcclone035002" ay="2.944" amount="2" refreshtime="-1" NotPositive="0" desc="魔教弟子男关卡一">
+                <position x="1476.095" z="271.467" ay="2.944" WeaponName="b_r_npcitem318" WeaponMode="blade1_1" />
+                <position x="1480.098" z="265.732" ay="5.788" WeaponName="b_r_npcitem318" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="799EEC76A30E4394919CDDF7820021EE" x="1468.475" y="24.303" z="247.021" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="funnpcclone035001" ay="4.063" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子男关卡一">
+                <position x="1469.196" z="247.877" ay="4.063" BornAction="sitloop" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="funnpcclone035002" ay="1.491" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子男关卡一">
+                <position x="1467.589" z="247.659" ay="1.491" BornAction="sitloop" WeaponName="b_r_npcitem318" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="38922CB615B84CB5A8A83C6B46C93754" x="1471.864" y="23.183" z="196.597" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="funnpcclone035003" ay="1.433" amount="2" refreshtime="-1" NotPositive="0" desc="魔教弟子男关卡二">
+                <position x="1469.926" z="193.167" ay="1.433" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+                <position x="1469.093" z="199.447" ay="1.504" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="BA5D381AFE09424CBC50698E90B68F79" x="1455.732" y="23.183" z="194.546" radius="4.0" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="funnpcclone035004" ay="2.848" amount="2" refreshtime="-1" NotPositive="0" desc="魔教弟子女关卡二">
+                <position x="1456.557" z="197.319" ay="2.848" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+                <position x="1457.122" z="192.214" ay="1.628" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+            </item>
+        </creator>
+        <creator No="D601B213AC4A4C3993F61D77C8FBCF83" x="1428.373" y="23.183" z="203.413" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="funnpcclone035004" ay="0.972" amount="2" refreshtime="-1" NotPositive="0" desc="魔教弟子女关卡二">
+                <position x="1426.420" z="206.376" ay="0.972" BornAction="scratch" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+                <position x="1427.676" z="207.092" ay="4.135" BornAction="shake" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+            </item>
+        </creator>
+        <creator No="38B8F6C5EE6E48EFA386B39EBFECFFA1" x="1417.699" y="23.200" z="177.674" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="funnpcclone035004" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子女关卡二">
+                <position x="1420.947" z="178.140" ay="-1" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+            </item>
+            <item No="2" id="funnpcclone035003" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子男关卡二">
+                <position x="1414.641" z="177.788" ay="-1" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="EBEF5554840D48DD90FE6E0988D32B91" x="1400.639" y="23.200" z="200.026" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="funnpcclone035004" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子女关卡二">
+                <position x="1400.849" z="196.658" ay="-1" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+            </item>
+            <item No="2" id="funnpcclone035003" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子男关卡二">
+                <position x="1402.583" z="202.146" ay="-1" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="2E96E766A31D4901844A1D40895DD799" x="1392.171" y="23.200" z="176.361" radius="5.0" WakeupRange="20.0" ChaseRange="-1.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="funnpcclone035004" ay="-1" amount="2" refreshtime="-1" NotPositive="0" desc="魔教弟子女关卡二">
+                <position x="1395.354" z="176.384" ay="-1" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+                <position x="1392.858" z="178.569" ay="-1" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+            </item>
+        </creator>
+        <creator No="99BEF5E1EF374C2E9B22ABE6CA931C79" x="1444.741" y="23.183" z="153.604" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="funnpcclone035005" ay="2.074" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子男关卡三">
+                <position x="1445.825" z="156.484" ay="2.074" BornAction="s_atk5_2" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="funnpcclone035006" ay="5.239" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子女关卡三">
+                <position x="1447.882" z="155.326" ay="5.239" BornAction="phyparry_l" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+            </item>
+        </creator>
+        <creator No="8A0A2BA3158341708D097B3745B7BA88" x="1467.140" y="24.099" z="148.168" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="funnpcclone035006" ay="4.166" amount="2" refreshtime="-1" NotPositive="0" desc="魔教弟子女关卡三">
+                <position x="1464.490" z="150.294" ay="4.166" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+                <position x="1465.286" z="145.443" ay="5.202" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+            </item>
+        </creator>
+        <creator No="00A8A9EEC97F4ABBBE8BE3C37296286F" x="1487.551" y="23.183" z="150.679" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="funnpcclone035006" ay="4.365" amount="4" refreshtime="-1" NotPositive="0" desc="魔教弟子女关卡三">
+                <position x="1488.162" z="152.897" ay="4.365" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+                <position x="1488.812" z="149.378" ay="4.681" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+                <position x="1485.273" z="154.097" ay="4.060" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+                <position x="1486.275" z="147.500" ay="5.156" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+            </item>
+        </creator>
+        <creator No="F8B884ED032949AD9C331103D0164095" x="1428.797" y="23.183" z="137.029" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="funnpcclone035005" ay="1.516" amount="2" refreshtime="-1" NotPositive="0" desc="魔教弟子男关卡三">
+                <position x="1426.174" z="139.677" ay="1.516" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+                <position x="1426.891" z="133.636" ay="1.410" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="CC0E227D6D4549409215196E9B95A040" x="1462.178" y="23.183" z="115.014" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="funnpcclone035005" ay="6.221" amount="2" refreshtime="-1" NotPositive="0" desc="魔教弟子男关卡三">
+                <position x="1460.831" z="111.043" ay="6.221" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+                <position x="1465.005" z="111.760" ay="5.890" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="F6BCD3419A27465CA14A820ED69A424B" x="1486.181" y="23.183" z="117.910" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="funnpcclone035005" ay="4.419" amount="2" refreshtime="-1" NotPositive="0" desc="魔教弟子男关卡三">
+                <position x="1486.360" z="119.980" ay="4.419" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+                <position x="1487.037" z="115.621" ay="4.696" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="DCE38848F9B04A238443D2DF9E573A64" x="1493.529" y="23.183" z="127.261" radius="5.0" WakeupRange="10.0" ChaseRange="-1.0" PatrolRange="7.0" HateLink="1">
+            <item No="1" id="funnpcclone035006" ay="-1" amount="3" refreshtime="-1" NotPositive="0" desc="魔教弟子女关卡三">
+                <position x="1493.441" z="125.051" ay="-1" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+                <position x="1491.171" z="128.319" ay="-1" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+                <position x="1494.192" z="130.209" ay="-1" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+            </item>
+        </creator>
+        <creator No="385340CBB49F45BC89C928BCF655F1A3" x="1453.602" y="24.089" z="268.618" radius="5.0" WakeupRange="20.0" ChaseRange="-1.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="funnpcclone035001" ay="0.284" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子男关卡一">
+                <position x="1451.813" z="266.198" ay="0.284" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="funnpcclone035002" ay="0.284" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子男关卡一">
+                <position x="1455.264" z="271.110" ay="0.284" WeaponName="b_r_npcitem318" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="0DD944ED5DFE46CEAB65AF2BDC944315" x="1502.738" y="30.143" z="276.402" radius="5.0" WakeupRange="7.0" ChaseRange="-1.0" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="funnpcclone035001" ay="0.714" amount="2" refreshtime="-1" NotPositive="0" desc="魔教弟子男关卡一">
+                <position x="1503.405" z="272.933" ay="0.714" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+                <position x="1500.323" z="278.339" ay="1.189" WeaponName="s_r_npcitem417" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="B52D6B99FBF3440A85B35ACBE9147F57" x="1488.117" y="30.233" z="282.883" radius="5.0" WakeupRange="15.0" ChaseRange="-1.0" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="funnpcclone035002" ay="3.307" amount="2" refreshtime="-1" NotPositive="0" desc="魔教弟子男关卡一">
+                <position x="1485.676" z="283.190" ay="3.307" WeaponName="b_r_npcitem318" WeaponMode="blade1_1" />
+                <position x="1490.711" z="282.334" ay="3.722" WeaponName="b_r_npcitem318" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

@@ -1,0 +1,32 @@
+NPC编号	实力包编号	级别	对象类型	名称	模型编号	头像	类型	连接NPC模型	脚本编号	棋子类型	棋子阵营	最大HP	技能表	选择状态	鼠标形状	棋子灭亡消失时间	刷新时间	攻击间隔	势力归属	势力关系表	AI编辑包
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	PowerNo	Level	script	Name	Resource	Photo	NpcType	LinkResource	LuaScript	ChessType	ChessSide	MaxHP	table@chess_skill_rec	SelectState	CursorShape	DestroyTime1	RefreshTime	AIFightFreq	SelfForceID	table@ForceRec	AIEditorPackID
+																					
+MacNpcClone015021	49	60	ChineseChessNpc	俥	npc\fbmac015001	icon\funcnpc\fbmac015002.png	175		war\MacNpcClone015021.lua	0	0	10000	Chess0_1;Chess0_2;Chess0_3;Chess0_4;Chess0_5;Chess0_6	2	28	2	-1				
+MacNpcClone015022	49	60	ChineseChessNpc	马	npc\fbmac015002	icon\funcnpc\fbmac015003.png	175		war\MacNpcClone015022.lua	1	0	10000	Chess1_1;Chess1_2;Chess1_3;Chess1_4;Chess1_5;Chess1_6	2	28	2	-1				
+MacNpcClone015023	49	60	ChineseChessNpc	相	npc\fbmac015003	icon\funcnpc\fbmac015004.png	175		war\MacNpcClone015023.lua	2	0	10000	Chess2_1;Chess2_2;Chess2_3;Chess2_4;Chess2_5;Chess2_6	2	28	2	-1				
+MacNpcClone015024	49	60	ChineseChessNpc	仕	npc\fbmac015004	icon\funcnpc\fbmac015005.png	175		war\MacNpcClone015024.lua	3	0	10000	Chess3_1;Chess3_2;Chess3_3;Chess3_4;Chess3_5;Chess3_6	2	28	2	-1				
+MacNpcClone015025	49	70	ChineseChessNpc	帅	npc\fbmac015005	icon\funcnpc\fbmac015001.png	175		war\MacNpcClone015025.lua	4	0	10000	Chess4_1;Chess4_2;Chess4_3;Chess4_4;Chess4_5;Chess4_6	2	28	2	-1				
+MacNpcClone015026	49	60	ChineseChessNpc	炮	npc\fbmac015006	icon\funcnpc\fbmac015006.png	175		war\MacNpcClone015026.lua	5	0	10000	Chess5_1;Chess5_2;Chess5_3;Chess5_4;Chess5_5;Chess5_6	2	28	2	-1				
+MacNpcClone015027	49	60	ChineseChessNpc	兵	npc\fbmac015007	icon\funcnpc\fbmac015007.png	175		war\MacNpcClone015027.lua	6	0	10000	Chess6_1;Chess6_2;Chess6_3;Chess6_4;Chess6_5;Chess6_6	2	28	2	-1				
+MacNpcClone015028	49	35	ChineseChessNpc	车	npc\fbmac015001a	icon\funcnpc\fbmac015002a.png	175	npc\fbnpc015004	war\MacNpcClone015028.lua	0	1	10000	Chess0_1;Chess0_2;Chess0_3;Chess0_4;Chess0_5;Chess0_6	2	10	2	-1				
+MacNpcClone015029	49	35	ChineseChessNpc	马	npc\fbmac015002a	icon\funcnpc\fbmac015003a.png	175	npc\fbnpc015004	war\MacNpcClone015029.lua	1	1	10000	Chess1_1;Chess1_2;Chess1_3;Chess1_4;Chess1_5;Chess1_6	2	10	2	-1				
+MacNpcClone015030	49	35	ChineseChessNpc	象	npc\fbmac015003a	icon\funcnpc\fbmac015004a.png	175	npc\fbnpc015004	war\MacNpcClone015030.lua	2	1	10000	Chess2_1;Chess2_2;Chess2_3;Chess2_4;Chess2_5;Chess2_6	2	10	2	-1				
+MacNpcClone015031	49	35	ChineseChessNpc	士	npc\fbmac015004a	icon\funcnpc\fbmac015005a.png	175	npc\fbnpc015004	war\MacNpcClone015031.lua	3	1	10000	Chess3_1;Chess3_2;Chess3_3;Chess3_4;Chess3_5;Chess3_6	2	10	2	-1				
+MacNpcClone015032	49	44	ChineseChessNpc	将	npc\fbmac015005a	icon\funcnpc\fbmac015001a.png	175	npc\fbnpc015004	war\MacNpcClone015032.lua	4	1	10000	Chess4_1;Chess4_2;Chess4_3;Chess4_4;Chess4_5;Chess4_6	2	10	2	-1				
+MacNpcClone015033	49	35	ChineseChessNpc	砲	npc\fbmac015006a	icon\funcnpc\fbmac015006a.png	175	npc\fbnpc015004	war\MacNpcClone015033.lua	5	1	10000	Chess5_1;Chess5_2;Chess5_3;Chess5_4;Chess5_5;Chess5_6	2	10	2	-1				
+MacNpcClone015034	49	35	ChineseChessNpc	卒	npc\fbmac015007a	icon\funcnpc\fbmac015007a.png	175	npc\fbnpc015004	war\MacNpcClone015034.lua	6	1	10000	Chess6_1;Chess6_2;Chess6_3;Chess6_4;Chess6_5;Chess6_6	2	10	2	-1				
+ChessClone015001	49	35	ChineseChessNpc	俥	npc\fbmac015001	icon\funcnpc\fbmac015002.png	173		war\MacNpcClone015021.lua	0	0	10000	Chess0_1;Chess0_2;Chess0_3;Chess0_4;Chess0_5;Chess0_6	2	2	2	-1				
+ChessClone015002	49	35	ChineseChessNpc	马	npc\fbmac015002	icon\funcnpc\fbmac015003.png	173		war\MacNpcClone015022.lua	1	0	10000	Chess1_1;Chess1_2;Chess1_3;Chess1_4;Chess1_5;Chess1_6	2	2	2	-1				
+ChessClone015003	49	35	ChineseChessNpc	相	npc\fbmac015003	icon\funcnpc\fbmac015004.png	173		war\MacNpcClone015023.lua	2	0	10000	Chess2_1;Chess2_2;Chess2_3;Chess2_4;Chess2_5;Chess2_6	2	2	2	-1				
+ChessClone015004	49	35	ChineseChessNpc	仕	npc\fbmac015004	icon\funcnpc\fbmac015005.png	173		war\MacNpcClone015024.lua	3	0	10000	Chess3_1;Chess3_2;Chess3_3;Chess3_4;Chess3_5;Chess3_6	2	2	2	-1				
+ChessClone015005	49	44	ChineseChessNpc	帅	npc\fbmac015005	icon\funcnpc\fbmac015001.png	173		war\MacNpcClone015025.lua	4	0	10000	Chess4_1;Chess4_2;Chess4_3;Chess4_4;Chess4_5;Chess4_6	2	2	2	-1				
+ChessClone015006	49	35	ChineseChessNpc	炮	npc\fbmac015006	icon\funcnpc\fbmac015006.png	173		war\MacNpcClone015026.lua	5	0	10000	Chess5_1;Chess5_2;Chess5_3;Chess5_4;Chess5_5;Chess5_6	2	2	2	-1				
+ChessClone015007	49	35	ChineseChessNpc	兵	npc\fbmac015007	icon\funcnpc\fbmac015007.png	173		war\MacNpcClone015027.lua	6	0	10000	Chess6_1;Chess6_2;Chess6_3;Chess6_4;Chess6_5;Chess6_6	2	2	2	-1				
+ChessClone015008	49	35	ChineseChessNpc	车	npc\fbmac015001a	icon\funcnpc\fbmac015002a.png	173		war\MacNpcClone015028.lua	0	1	10000	Chess0_1;Chess0_2;Chess0_3;Chess0_4;Chess0_5;Chess0_6	2	2	2	-1				
+ChessClone015009	49	35	ChineseChessNpc	马	npc\fbmac015002a	icon\funcnpc\fbmac015003a.png	173		war\MacNpcClone015029.lua	1	1	10000	Chess1_1;Chess1_2;Chess1_3;Chess1_4;Chess1_5;Chess1_6	2	2	2	-1				
+ChessClone015010	49	35	ChineseChessNpc	象	npc\fbmac015003a	icon\funcnpc\fbmac015004a.png	173		war\MacNpcClone015030.lua	2	1	10000	Chess2_1;Chess2_2;Chess2_3;Chess2_4;Chess2_5;Chess2_6	2	2	2	-1				
+ChessClone015011	49	35	ChineseChessNpc	士	npc\fbmac015004a	icon\funcnpc\fbmac015005a.png	173		war\MacNpcClone015031.lua	3	1	10000	Chess3_1;Chess3_2;Chess3_3;Chess3_4;Chess3_5;Chess3_6	2	2	2	-1				
+ChessClone015012	49	44	ChineseChessNpc	将	npc\fbmac015005a	icon\funcnpc\fbmac015001a.png	173		war\MacNpcClone015032.lua	4	1	10000	Chess4_1;Chess4_2;Chess4_3;Chess4_4;Chess4_5;Chess4_6	2	2	2	-1				
+ChessClone015013	49	35	ChineseChessNpc	砲	npc\fbmac015006a	icon\funcnpc\fbmac015006a.png	173		war\MacNpcClone015033.lua	5	1	10000	Chess5_1;Chess5_2;Chess5_3;Chess5_4;Chess5_5;Chess5_6	2	2	2	-1				
+ChessClone015014	49	35	ChineseChessNpc	卒	npc\fbmac015007a	icon\funcnpc\fbmac015007a.png	173		war\MacNpcClone015034.lua	6	1	10000	Chess6_1;Chess6_2;Chess6_3;Chess6_4;Chess6_5;Chess6_6	2	2	2	-1				

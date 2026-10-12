@@ -1,0 +1,101 @@
+STRING	STRING	STRING	STRING	STRING
+ID	Type	TypeID	Order	RandCount
+77304	interact	77301	1	
+77304	interact	77302	2	
+77305	interact	77303	1	
+77305	useitem	77301	2	
+77306	interact	77304	1	
+77306	useitem	77302	2	
+77306	useitem	77303	3	
+77307	interact	77305	1	
+77307	interact	77306	2	
+77308	interact	77307	1	
+77308	useitem	77304	2	
+77310	interact	77309	1	
+77310	useitem	77307	2	
+77310	useitem	77308	3	
+77310	useitem	77309	4	
+77309	interact	77308	1	
+77309	useitem	77305	3	
+77309	useitem	77306	4	
+77309	interact	77310	2	
+77311	interact	77311	1	
+77311	useitem	77310	2	
+77311	useitem	77311	3	
+77311	useitem	77312	4	
+77312	interact	77312	1	
+77312	convoy	77301	2	
+77313	interact	77313	1	
+77313	convoy	77302	2	
+77314	interact	77314	1	
+77314	interact	77315	2	
+77314	interact	77316	3	
+77315	interact	77317	1	
+77315	interact	77318	2	
+77315	interact	77319	3	
+77316	interact	77320	1	
+77316	collect	77301	2	
+77316	collect	77302	3	
+77317	interact	77321	1	
+77317	collect	77303	2	
+77317	collect	77304	3	
+77319	interact	77323	1	
+77319	hunter	77301	2	
+77320	interact	77324	1	
+77320	collect	77305	2	
+77321	interact	77325	1	
+77321	collect	77306	2	
+77322	interact	77326	1	
+77322	interact	77327	2	
+77322	interact	77328	3	
+77322	interact	77329	4	
+77323	interact	77330	1	
+77323	hunter	77302	2	
+77323	hunter	77303	3	
+77323	hunter	77304	4	
+77318	interact	77322	1	
+77318	useitem	77313	2	
+77324	collect	77307	1	
+77326	collect	77308	1	
+77327	interact	77337	1	
+77327	useitem	77316	2	
+77327	useitem	77317	3	
+77328	collect	77309	1	
+77329	hunter	77305	1	
+77329	hunter	77306	2	
+77325	interact	77331	-1	2
+77325	interact	77332	-1	2
+77325	interact	77333	-1	2
+77325	interact	77334	-1	2
+77325	interact	77335	-1	2
+77325	interact	77336	-1	2
+77330	collect	77310	1	
+77331	interact	77338	-1	2
+77331	interact	77339	-1	2
+77331	interact	77340	-1	2
+77331	interact	77341	-1	2
+77331	interact	77342	-1	2
+77331	interact	77343	-1	2
+77332	collect	77311	1	
+77333	interact	77344	1	
+77333	useitem	77318	2	
+77333	useitem	77319	3	
+77334	collect	77312	1	
+77335	hunter	77307	1	
+77335	hunter	77308	2	
+77336	special	1758	1	
+77338	special	1761	1	
+77340	interact	77345	1	
+77340	hunter	77309	2	
+77344	collect	77313	-1	
+77344	collect	77314	-1	
+77344	collect	77315	-1	
+77344	collect	77316	-1	
+77344	collect	77317	-1	
+77345	collect	77318	-1	
+77345	collect	77319	-1	
+77345	collect	77320	-1	
+77345	collect	77321	-1	
+77346	interact	77346	1	
+77347	hunter	77310	1	
+77348	special	1773	1	

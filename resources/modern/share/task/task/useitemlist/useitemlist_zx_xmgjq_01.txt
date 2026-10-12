@@ -1,0 +1,17 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	ItemID	ProCount	AddPro	TrackInfoID	DeleteSelf	LockTarget	Radius	SceneID	Water	AddItems	DeleteItems	TargetConfig	TaskID	ActionID	BufferID
+74302	useitem_xmg_dy_02	1	1	useiteminfo_74302			3	832				Eventnpc_xmg_dy_07	74336		
+74306	useitem_xmgzyb_001	1	1	useiteminfo_74306	1	xmgnpc_zyb_005	5	891				xmgnpc_zyb_005	74307		
+74307	useitem_xmgzyb_001	1	1	useiteminfo_74307	1	xmgnpc_zyb_006	5	891				xmgnpc_zyb_006	74307		
+74308	useitem_xmgzyb_001	1	1	useiteminfo_74308	1	xmgnpc_zyb_007	5	891				xmgnpc_zyb_007	74307		
+74309	useitem_xmgzyb_002	1	1	useiteminfo_74309	1		3	891				EventNpc_smgzyb_004	74309		
+74305	useitem_xmg_dy_04	1	1	useiteminfo_74305				832		item_xmg_dy_02			74339		
+74303	useitem_xmg_dy_02	1	1	useiteminfo_74303			3	832				Eventnpc_xmg_dy_08	74336		
+74301	useitem_xmg_dy_01	5	1	useiteminfo_74301		1	5	832				npc_xmg_dy_06	74333		buff_xmg_dy_15
+74383				useiteminfo_74383									74383		
+74310	useitem_xmgzyb_003	1	1	useiteminfo_74310	1	newmp_xmg_003	5	891				newmp_xmg_003			
+74304	useitem_xmg_dy_02	1	1	useiteminfo_74304	1		3	832				Eventnpc_xmg_dy_09	74336,74310		
+74384	item_mywzsj_guj001	1	1	useiteminfo_74384	1	1	2	931	0	item_mywzsj_guj002		GatherNpc_mywzsj_guj001	74396		
+74385	item_mywzsj_guj002	1	1	useiteminfo_74385	1	1	2	931	0	item_mywzsj_guj003		GatherNpc_mywzsj_guj002			
+74386	item_mywzsj_guj003	1	1	useiteminfo_74386	1	1	2	931	0	item_mywzsj_guj004		GatherNpc_mywzsj_guj003			
+74387	item_mywzsj_guj004	1	1	useiteminfo_74387	1	1	2	931	0	item_mywzsj_guj005		GatherNpc_mywzsj_guj004			

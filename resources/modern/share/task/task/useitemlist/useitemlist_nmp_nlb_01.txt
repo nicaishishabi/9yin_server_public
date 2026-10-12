@@ -1,0 +1,9 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	ItemID	ProCount	AddPro	TrackInfoID	DeleteSelf	LockTarget	Radius	SceneID	Water	AddItems	DeleteItems	TargetConfig	TaskID	BufferID
+15751	item_nlb_mxm05	1	1	useiteminfo_15751	1		5	17	0			Event_nlb_mxm16	21273	
+15750	item_nlb_ww22	1	1	useiteminfo_15750					0	item_nlb_ww31	item_nlb_ww22		21251	
+15754	useitem_nlb_dy_xh	1	1	useiteminfo_15754	1	1	5	563	0			NPC_nlb_dy_llzcf	21352	buf_nlb_dy_llzdj
+15755	item_nlb_ww32	1	1	useiteminfo_15755			1	565	0		item_nlb_ww32	npc_nlb_ww64	21252	
+15752	item_nlb_mxm09	1	1	useiteminfo_15752		1	5	15	0	item_nlb_mxm10	item_nlb_mxm07;item_nlb_mxm08;item_nlb_mxm09	npc_nlb_mxm35	21277	
+15756	useitem_nlb_dy_lz	10	1	useiteminfo_15756		1		563	0	item_nlb_dy_zw		NPC_nlb_dy_zw	21354	buf_nlb_dy_20
+15753	item_nlb_ww26			useiteminfo_15753	1					item_nlb_ww26_full				

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="B1CE5DAD321A405BBA7A154AA0CA1147" x="377.434" y="24.850" z="1071.153" radius="1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" StaticY="1" HateLink="1">
+            <item No="1" id="BoxNpc10096" ax="4.917" ay="5.447" amount="1" refreshtime="36000000" NotPositive="0" desc="钱袋">
+                <position x="377.783" z="1070.982" ax="4.917" ay="5.447" />
+            </item>
+        </creator>
+        <creator No="3DC671C582CA4F1AA4D9A363F6EEC10E" x="386.026" y="23.335" z="1042.430" radius="1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" StaticY="1" HateLink="1">
+            <item No="1" id="BoxNpc10098" ay="-1" amount="1" refreshtime="36000000" NotPositive="0" desc="土堆">
+                <position x="386.374" z="1042.822" ay="-1" />
+            </item>
+        </creator>
+        <creator No="90D49149F3C042F89DFFEF0570279F2D" x="420.633" y="24.268" z="1028.397" radius="1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" StaticY="1" HateLink="1">
+            <item No="1" id="BoxNpc10096" ax="5.766" ay="5.635" amount="1" refreshtime="600000" NotPositive="0" desc="钱袋">
+                <position x="420.744" z="1027.567" ax="5.766" ay="5.635" />
+            </item>
+        </creator>
+        <creator No="349422D5754146CAA74A68834F24358B" x="445.098" y="14.162" z="1038.519" radius="1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" StaticY="1" HateLink="1">
+            <item No="1" id="BoxNpc10096" ax="1.486" ay="1.852" az="5.505" amount="1" refreshtime="600000" NotPositive="0" desc="钱袋">
+                <position x="444.596" z="1039.272" ax="1.486" ay="1.852" az="5.505" />
+            </item>
+        </creator>
+        <creator No="EB5046F0026C4FE1B8D13C3244D8E308" x="457.675" y="13.704" z="967.867" radius="1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" StaticY="1" HateLink="1">
+            <item No="1" id="BoxNpc10014" sx="0.290" sy="0.290" sz="0.290" ay="4.712" amount="1" refreshtime="36000000" NotPositive="0" desc="武器架">
+                <position x="458.251" z="968.222" sx="0.290" sy="0.290" sz="0.290" ay="4.712" />
+            </item>
+        </creator>
+        <creator No="0D4D7469892940D2B6A2FA01F1FBAD9D" x="512.096" y="2.456" z="1001.328" radius="4.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="0.0" StaticY="1" HateLink="1">
+            <item No="1" id="BoxNpc10096" ax="0.323" ay="4.207" amount="1" refreshtime="36000000" NotPositive="0" desc="钱袋">
+                <position x="509.533" z="1000.856" ax="0.323" ay="4.207" />
+            </item>
+        </creator>
+        <creator No="639FC3E3D3464D41882EBF31C1317463" x="513.113" y="2.978" z="989.449" radius="2.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" StaticY="1" HateLink="1">
+            <item No="1" id="BoxNpc10093" ay="5.482" amount="1" refreshtime="36000000" NotPositive="0" desc="药">
+                <position x="514.264" z="989.343" ay="5.482" />
+                <position x="512.381" z="989.404" ay="5.482" />
+            </item>
+        </creator>
+        <creator No="F2D5BBDB2EE345A188D3D405AB7DC27F" x="449.290" y="14.162" z="1017.234" radius="10.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" StaticY="1" HateLink="1">
+            <item No="1" id="BoxNpc10096" ax="1.452" ay="5.482" amount="1" refreshtime="36000000" NotPositive="0" desc="钱袋">
+                <position x="451.449" z="1013.092" ax="1.452" ay="5.482" />
+                <position x="445.810" z="1020.848" ax="4.834" ay="0.524" />
+                <position x="445.935" z="1012.582" ax="4.769" ay="5.482" />
+            </item>
+        </creator>
+        <creator No="2ADF2BAED1A44065807C427D1B60C07F" x="452.049" y="14.162" z="1031.453" radius="2.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="BoxNpc10095" sx="0.920" sy="0.920" sz="0.920" ay="4.737" amount="1" refreshtime="36000000" NotPositive="0" desc="首饰盒">
+                <position x="453.519" z="1031.381" sx="0.920" sy="0.920" sz="0.920" ay="4.737" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

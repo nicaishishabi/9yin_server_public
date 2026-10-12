@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="894BCA2C40C24969AD78E89B9D552CE4" x="-303.255" y="-76.744" z="-165.293" radius="3.0" WakeupRange="4.0" ChaseRange="8.0" PatrolRange="1.0" HateLink="1">
+            <item No="1" id="tasknpc_tls_daily04_04" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="怪">
+                <position x="-302.697" z="-166.620" ay="-1" />
+            </item>
+        </creator>
+        <creator No="C84C8EA35AC7468990318263AADE8F17" x="-336.023" y="-75.178" z="-211.116" radius="8.0" WakeupRange="8.0" ChaseRange="10.0" PatrolRange="8.0" HateLink="1">
+            <item No="1" id="tasknpc_tls_daily06_06" ay="-1" amount="5" refreshtime="5" NotPositive="0" desc="恶霸">
+                <position x="-340.063" z="-211.193" ay="-1" />
+                <position x="-336.319" z="-205.907" ay="-1" />
+                <position x="-331.577" z="-208.352" ay="-1" />
+                <position x="-335.970" z="-214.128" ay="-1" />
+                <position x="-332.151" z="-211.445" ay="-1" />
+            </item>
+        </creator>
+        <creator No="66A9D9ABDFDD4CE1A1E437B223190BAC" x="-454.925" y="-70.344" z="-167.308" radius="8.0" WakeupRange="8.0" ChaseRange="12.0" PatrolRange="8.0" HateLink="1">
+            <item No="1" id="tasknpc_tls_daily06_07" ay="-1" amount="5" refreshtime="5" NotPositive="0" desc="恶霸">
+                <position x="-459.600" z="-163.880" ay="-1" />
+                <position x="-457.383" z="-173.755" ay="-1" />
+                <position x="-453.309" z="-170.492" ay="-1" />
+                <position x="-454.056" z="-163.175" ay="-1" />
+                <position x="-450.699" z="-167.611" ay="-1" />
+            </item>
+        </creator>
+        <creator No="BE8E7E099C824D659DD1A42B6D62314F" x="-462.892" y="-71.829" z="-144.692" radius="8.0" WakeupRange="8.0" ChaseRange="12.0" PatrolRange="8.0" HateLink="1">
+            <item No="1" id="tasknpc_tls_daily06_07" ay="-1" amount="5" refreshtime="5" NotPositive="0" desc="恶霸">
+                <position x="-467.567" z="-141.264" ay="-1" />
+                <position x="-462.437" z="-149.945" ay="-1" />
+                <position x="-464.551" z="-146.668" ay="-1" />
+                <position x="-462.022" z="-140.559" ay="-1" />
+                <position x="-458.665" z="-144.995" ay="-1" />
+            </item>
+        </creator>
+        <creator No="FA6F7BA873814B17A83AA28C0862E2AD" x="-456.265" y="-72.544" z="-123.363" radius="4.0" WakeupRange="4.0" ChaseRange="4.0" PatrolRange="4.0" HateLink="1">
+            <item No="1" id="tasknpc_tls_daily06_08" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="恶霸头目" />
+        </creator>
+        <creator No="DB66F469F02143A1A28595EC02E34988" x="-261.434" y="-77.653" z="-120.068" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="76402" TaskSubType="1" HateLink="1">
+            <item No="1" id="hurnt_tlszyb_001" ay="3.239" amount="1" refreshtime="5" NotPositive="0" desc="机关木偶" />
+        </creator>
+        <creator No="032B7B8A4EF44047A7666B3B3A448D6A" x="-260.182" y="-77.593" z="-125.249" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="76406" TaskSubType="1" HateLink="1">
+            <item No="1" id="hurnt_tlszyb_004" ay="3.239" amount="3" refreshtime="5" NotPositive="0" desc="野猪">
+                <position x="-261.390" z="-126.484" ay="3.239" />
+                <position x="-258.255" z="-125.694" ay="3.239" />
+                <position x="-259.611" z="-127.354" ay="3.239" />
+            </item>
+        </creator>
+        <creator No="01F17F5092A24689B358DE42F7BEEA6A" x="-324.136" y="-75.456" z="-8.543" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="76403" TaskSubType="1" HateLink="1">
+            <item No="1" id="hurnt_tlszyb_005" ay="1.494" amount="1" refreshtime="5" NotPositive="0" desc="猪鬃刚" />
+        </creator>
+        <creator No="7BDCD3248E7443A0AFD22891B2628538" x="-327.495" y="-74.926" z="-9.596" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="76404" TaskSubType="1" HateLink="1">
+            <item No="1" id="hurnt_tlszyb_002" ay="1.494" amount="1" refreshtime="5" NotPositive="0" desc="赤杰" />
+        </creator>
+        <creator No="A059796F9E9F4C1DBB1EE27681CCD593" x="-328.366" y="-74.692" z="-12.071" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="76405" TaskSubType="1" HateLink="1">
+            <item No="1" id="hurnt_tlszyb_003" ay="1.494" amount="1" refreshtime="5" NotPositive="0" desc="秦百魅" />
+        </creator>
+    </randomcreator>
+</object>

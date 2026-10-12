@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="98A6DB93E25F46958A9BE2EC958174F0" x="1423.282" y="23.183" z="201.475" radius="5.0" WakeupRange="4.2" ChaseRange="26.5" PatrolRange="0.0" HateLink="1" SubSceneNo="9314">
+            <item No="1" id="npc_qyby_dy_001" ay="3.065" amount="2" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1423.693" z="203.855" ay="3.065" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="1424.345" z="198.895" ay="6.243" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+            </item>
+        </creator>
+        <creator No="25BE079C072E483EA951E3FA72DF0FCA" x="1408.935" y="23.183" z="205.602" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="9314">
+            <item No="1" id="npc_qyby_dy_002" ay="2.260" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子女" />
+            <item No="2" id="npc_qyby_dy_003" ay="2.260" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1410.012" z="202.871" ay="2.260" WeaponName="s_r_npcitem087" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="892564783C914D6BB33C5482EED5F6B8" x="1409.543" y="23.183" z="166.832" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1" SubSceneNo="9314">
+            <item No="1" id="npc_qyby_dy_004" amount="2" refreshtime="-1" NotPositive="0" desc="魔教弟子男">
+                <position x="1410.629" z="164.207" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="1408.674" z="163.620" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+            </item>
+            <item No="2" id="npc_qyby_dy_006" amount="1" refreshtime="-1" NotPositive="0" desc="魔教弟子女">
+                <position x="1409.536" z="163.382" WeaponName="s_r_npcitem087" WeaponMode="sword1_2" />
+            </item>
+        </creator>
+        <creator No="71E84470ADA944E49E33B33031655E3F" x="1388.095" y="23.183" z="171.405" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="6.1" HateLink="1" SubSceneNo="9314">
+            <item No="1" id="npc_qyby_dy_005" amount="3" refreshtime="-1" NotPositive="0" desc="魔教弟子女">
+                <position x="1385.712" z="170.983" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+                <position x="1388.489" z="169.454" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+                <position x="1389.339" z="173.297" WeaponName="db_r_42" WeaponMode="dsword1_2" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

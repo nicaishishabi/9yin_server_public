@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="EE18834AA20C4CCC99B6C1722C194D01" x="198.241" y="369.912" z="-440.055" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="pld_npc019" amount="5" refreshtime="60000" desc="野兔子">
+                <position x="201.664" z="-445.811" />
+                <position x="191.694" z="-444.297" />
+                <position x="192.539" z="-436.305" />
+                <position x="198.131" z="-432.596" />
+                <position x="204.897" z="-438.014" />
+                <position x="205.628" z="-433.099" />
+                <position x="189.559" z="-432.876" />
+                <position x="205.524" z="-444.659" />
+            </item>
+        </creator>
+        <creator No="DFD94785F104461B95E9D077573F1869" x="-526.606" y="373.168" z="-324.723" radius="20.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="pld_npc028" ay="2.335" amount="5" refreshtime="30000" NotPositive="0" desc="灰狼">
+                <position x="-536.670" z="-329.354" ay="2.335" />
+                <position x="-532.074" z="-314.017" ay="2.335" />
+                <position x="-526.464" z="-333.885" ay="2.335" />
+                <position x="-522.063" z="-326.469" ay="2.335" />
+                <position x="-519.798" z="-312.729" ay="2.335" />
+                <position x="-529.465" z="-329.191" ay="2.335" />
+                <position x="-527.289" z="-318.435" ay="2.335" />
+                <position x="-520.614" z="-333.142" ay="2.335" />
+                <position x="-518.026" z="-325.764" ay="2.335" />
+                <position x="-516.821" z="-320.323" ay="2.335" />
+                <position x="-523.778" z="-338.879" ay="2.335" />
+                <position x="-517.049" z="-337.002" ay="2.335" />
+                <position x="-511.002" z="-331.579" ay="2.335" />
+                <position x="-509.592" z="-319.309" ay="2.335" />
+                <position x="-515.575" z="-329.211" ay="2.335" />
+            </item>
+        </creator>
+        <creator No="4D4E4A1F2FF64584A4A202BC53BA1398" x="-61.724" y="373.549" z="-315.042" radius="20.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="npc_pld_xu11" ay="-1" amount="5" refreshtime="300000" desc="">
+                <position x="-57.376" z="-322.544" ay="-1" />
+                <position x="-70.384" z="-324.356" ay="-1" />
+                <position x="-71.048" z="-318.539" ay="-1" />
+                <position x="-56.213" z="-308.974" ay="-1" />
+                <position x="-49.720" z="-314.756" ay="-1" />
+            </item>
+            <item No="2" id="npc_pld_xu12" ay="-1" amount="5" refreshtime="300000" desc="">
+                <position x="-68.049" z="-308.908" ay="-1" />
+                <position x="-61.252" z="-310.510" ay="-1" />
+                <position x="-62.291" z="-322.202" ay="-1" />
+                <position x="-57.437" z="-326.925" ay="-1" />
+                <position x="-67.333" z="-328.852" ay="-1" />
+            </item>
+        </creator>
+        <creator No="F2A7042ADF8D443686E90B4557A46565" x="322.293" y="373.254" z="-381.292" radius="20.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="npc_pld_xu11" ay="-1" amount="5" refreshtime="300000" desc="">
+                <position x="317.218" z="-381.315" ay="-1" />
+                <position x="317.572" z="-391.941" ay="-1" />
+                <position x="323.920" z="-394.363" ay="-1" />
+                <position x="328.438" z="-388.858" ay="-1" />
+                <position x="329.247" z="-385.531" ay="-1" />
+            </item>
+            <item No="2" id="npc_pld_xu12" ay="-1" amount="5" refreshtime="300000" desc="">
+                <position x="322.806" z="-371.388" ay="-1" />
+                <position x="315.787" z="-373.005" ay="-1" />
+                <position x="313.696" z="-386.796" ay="-1" />
+                <position x="316.499" z="-396.849" ay="-1" />
+                <position x="322.924" z="-397.213" ay="-1" />
+            </item>
+        </creator>
+        <creator No="5B69689505544349AFDFD3F28998ED20" x="-86.243" y="437.334" z="-81.582" radius="20.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="npc_pld_xu11" ay="-1" amount="5" refreshtime="300000" desc="">
+                <position x="-79.786" z="-76.916" ay="-1" />
+                <position x="-90.369" z="-75.140" ay="-1" />
+                <position x="-93.045" z="-89.198" ay="-1" />
+                <position x="-88.949" z="-96.404" ay="-1" />
+                <position x="-77.018" z="-89.094" ay="-1" />
+            </item>
+            <item No="2" id="npc_pld_xu12" ay="-1" amount="5" refreshtime="300000" desc="">
+                <position x="-79.192" z="-84.133" ay="-1" />
+                <position x="-93.154" z="-81.520" ay="-1" />
+                <position x="-85.813" z="-91.196" ay="-1" />
+                <position x="-80.733" z="-92.264" ay="-1" />
+                <position x="-94.406" z="-94.327" ay="-1" />
+            </item>
+        </creator>
+        <creator No="9978B03772C9443B8CF0114E1A0E2BB2" x="86.825" y="582.394" z="559.802" radius="20.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="npc_pld_xu11" ay="-1" amount="5" refreshtime="300000" desc="">
+                <position x="96.395" z="555.438" ay="-1" />
+                <position x="94.020" z="552.370" ay="-1" />
+                <position x="88.990" z="549.520" ay="-1" />
+                <position x="85.181" z="556.039" ay="-1" />
+                <position x="91.465" z="563.188" ay="-1" />
+            </item>
+            <item No="2" id="npc_pld_xu12" ay="-1" amount="5" refreshtime="300000" desc="">
+                <position x="93.053" z="557.110" ay="-1" />
+                <position x="92.667" z="552.028" ay="-1" />
+                <position x="92.848" z="548.758" ay="-1" />
+                <position x="96.719" z="552.076" ay="-1" />
+                <position x="88.423" z="551.885" ay="-1" />
+            </item>
+        </creator>
+        <creator No="B31ACA5134D348A89DDB79557C0861B0" x="31.806" y="584.271" z="487.952" radius="20.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="npc_pld_xu11" ay="-1" amount="5" refreshtime="300000" desc="">
+                <position x="30.194" z="492.421" ay="-1" />
+                <position x="43.044" z="488.870" ay="-1" />
+                <position x="37.942" z="481.980" ay="-1" />
+                <position x="32.784" z="479.647" ay="-1" />
+                <position x="25.616" z="477.925" ay="-1" />
+            </item>
+            <item No="2" id="npc_pld_xu12" ay="-1" amount="5" refreshtime="300000" desc="">
+                <position x="26.883" z="486.055" ay="-1" />
+                <position x="43.290" z="492.960" ay="-1" />
+                <position x="37.804" z="493.831" ay="-1" />
+                <position x="36.014" z="477.325" ay="-1" />
+                <position x="44.329" z="483.897" ay="-1" />
+            </item>
+        </creator>
+        <creator No="5DBF8DD35A2347D78CB5045FE3763117" x="-708.064" y="434.580" z="-277.916" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="pld_attnpc007" ay="2.335" amount="2" refreshtime="300000" NotPositive="0" desc="盗宝贼">
+                <position x="-697.014" z="-265.048" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="-705.962" z="-299.977" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="-722.347" z="-257.517" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="-731.065" z="-284.102" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="-708.221" z="-281.079" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="44C9D03E5EBF46AF9FE3E07DF5B4AC87" x="-883.141" y="432.400" z="-222.031" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="pld_attnpc007" ay="2.335" amount="2" refreshtime="300000" NotPositive="0" desc="盗宝贼">
+                <position x="-901.830" z="-233.324" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="-900.297" z="-202.502" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="-865.324" z="-208.748" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="-867.209" z="-243.350" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="-882.121" z="-223.288" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="3280F57F2D2146E99BCB12CEFFAE3C95" x="-737.556" y="439.874" z="12.187" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="pld_attnpc007" ay="2.335" amount="2" refreshtime="300000" NotPositive="0" desc="盗宝贼">
+                <position x="-738.122" z="33.133" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="-724.451" z="27.999" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="-721.555" z="1.587" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="-742.318" z="2.104" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="-739.888" z="19.938" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="24DBA59FD30C465781AEBCFC9DCE701D" x="-638.648" y="434.583" z="-48.044" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="pld_attnpc007" ay="2.335" amount="2" refreshtime="300000" NotPositive="0" desc="盗宝贼">
+                <position x="-612.956" z="-51.151" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="-639.829" z="-49.275" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="-643.265" z="-73.497" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="-650.460" z="-33.591" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="-656.962" z="-58.137" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="1FD26E41885B46599807A22316A790A0" x="65.991" y="556.885" z="216.966" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="pld_attnpc007" ay="2.335" amount="2" refreshtime="300000" NotPositive="0" desc="盗宝贼">
+                <position x="47.245" z="227.901" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="76.208" z="219.610" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="71.169" z="240.130" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="49.385" z="206.324" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="77.587" z="207.727" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="24177BD46E94430AAA54CB4867013893" x="3.820" y="569.134" z="285.584" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="pld_attnpc007" ay="2.335" amount="2" refreshtime="300000" NotPositive="0" desc="盗宝贼">
+                <position x="-8.348" z="284.062" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="14.692" z="268.953" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="-2.670" z="284.542" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="-0.270" z="303.394" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="14.771" z="300.359" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="30BEE8D4A19C4F4387CC5FD65428E7DD" x="116.027" y="568.802" z="285.606" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="pld_attnpc007" ay="2.335" amount="2" refreshtime="300000" NotPositive="0" desc="盗宝贼">
+                <position x="106.686" z="291.726" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="126.517" z="285.862" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="118.384" z="268.633" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="105.047" z="272.734" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="125.067" z="304.015" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="433B83F847CB4D9B804BF092B31246A7" x="-3.915" y="583.765" z="635.048" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="pld_attnpc007" ay="2.335" amount="2" refreshtime="300000" NotPositive="0" desc="盗宝贼">
+                <position x="-14.677" z="633.712" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="3.134" z="638.940" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="-7.747" z="618.780" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="-11.425" z="651.547" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="8.739" z="618.420" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="B990045751B54303A2694BC4982A542E" x="686.095" y="367.123" z="616.235" radius="50.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="pld_attnpc007" ay="2.335" amount="2" refreshtime="300000" NotPositive="0" desc="盗宝贼">
+                <position x="719.373" z="629.295" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="674.954" z="601.828" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="639.942" z="617.658" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="687.033" z="652.706" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="721.061" z="594.202" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="5467A7F21EE346FA8D0ED4BB4F57BB49" x="605.526" y="359.564" z="312.938" radius="50.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="pld_attnpc007" ay="2.335" amount="2" refreshtime="300000" NotPositive="0" desc="盗宝贼">
+                <position x="574.581" z="316.400" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="602.345" z="340.233" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="608.312" z="310.693" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="587.379" z="290.794" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="620.326" z="287.511" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="C95B4EA123D94DCA803D20DFFAD507AC" x="573.673" y="367.750" z="593.970" radius="50.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="pld_attnpc007" ay="2.335" amount="2" refreshtime="300000" NotPositive="0" desc="盗宝贼">
+                <position x="548.356" z="579.332" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="533.756" z="610.018" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="570.407" z="623.375" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="595.012" z="607.221" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="573.804" z="550.769" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="9AD201E696AC4D6F84AFF7C66CACF8D5" x="604.620" y="356.882" z="109.046" radius="50.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="pld_attnpc007" ay="2.335" amount="2" refreshtime="300000" NotPositive="0" desc="盗宝贼">
+                <position x="592.184" z="122.104" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="617.139" z="121.436" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="601.542" z="130.908" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="592.553" z="94.133" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="614.978" z="92.607" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="71183DB25CAD45A794D67044C6D644E4" x="378.105" y="304.546" z="-681.231" radius="50.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="pld_attnpc007" ay="2.335" amount="2" refreshtime="300000" NotPositive="0" desc="盗宝贼">
+                <position x="376.545" z="-664.560" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="391.782" z="-682.712" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="397.642" z="-663.168" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="362.210" z="-681.987" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="360.085" z="-661.467" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="1528AF7A82FD4269979E510187D9A49D" x="437.094" y="304.449" z="-956.601" radius="50.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="pld_attnpc007" ay="2.335" amount="2" refreshtime="300000" NotPositive="0" desc="盗宝贼">
+                <position x="438.645" z="-945.534" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="434.369" z="-966.519" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="418.767" z="-947.529" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="455.664" z="-951.089" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="446.490" z="-936.408" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="AE82506A4A79421CA9184B487AE1D3DA" x="626.226" y="319.101" z="-888.930" radius="50.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="pld_attnpc007" ay="2.335" amount="2" refreshtime="300000" NotPositive="0" desc="盗宝贼">
+                <position x="621.276" z="-901.680" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="610.389" z="-868.419" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="631.964" z="-880.948" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="601.491" z="-894.159" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+                <position x="618.466" z="-886.816" ay="2.335" WeaponName="gb_yydf" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="8DAFCC4F3E654B11849D66D9CA6256D8" x="-262.650" y="345.701" z="-307.087" radius="30.0" WakeupRange="10.0" ChaseRange="10.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="newworldpl_zyb_002" ay="1.055" amount="13" refreshtime="2000" NotPositive="0" desc="武林人士">
+                <position x="-265.603" z="-307.547" ay="1.055" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="-258.915" z="-309.693" ay="4.335" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="-258.438" z="-306.058" ay="4.350" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="-258.803" z="-303.970" ay="0.530" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="-263.063" z="-300.533" ay="2.980" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="-264.054" z="-303.791" ay="3.285" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="-254.960" z="-308.148" ay="0.465" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="-257.162" z="-304.029" ay="2.335" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="-262.944" z="-311.047" ay="3.670" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="-261.422" z="-312.899" ay="0.755" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="-260.085" z="-301.042" ay="1.265" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="-258.175" z="-301.436" ay="2.335" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="-261.701" z="-309.413" ay="3.990" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+            </item>
+        </creator>
+        <creator No="ADBE393D8BFC4A76B6B3E8F0476BC979" x="-247.411" y="341.908" z="-260.946" radius="30.0" WakeupRange="10.0" ChaseRange="10.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="newworldpl_zyb_012" ay="2.335" amount="15" refreshtime="2000" NotPositive="0" desc="武林人士">
+                <position x="-251.104" z="-259.074" ay="2.335" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="-248.146" z="-257.348" ay="2.335" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="-246.995" z="-265.615" ay="0.375" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="-249.579" z="-262.785" ay="0.415" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="-252.047" z="-262.428" ay="3.823" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="-244.006" z="-262.126" ay="3.515" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="-243.780" z="-265.365" ay="2.335" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="-246.548" z="-267.363" ay="3.440" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="-249.720" z="-265.301" ay="3.520" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="-243.493" z="-256.642" ay="2.335" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="-241.641" z="-260.312" ay="2.335" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="-239.364" z="-263.443" ay="5.385" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="-241.307" z="-265.642" ay="1.180" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="-243.659" z="-268.059" ay="0.100" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="-247.009" z="-269.413" ay="5.303" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+            </item>
+        </creator>
+        <creator No="5CAFA855B13D42E48855014C6F3734C8" x="367.822" y="448.184" z="-38.952" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="newworldpl_zyb_003" amount="4" refreshtime="2000" NotPositive="0" desc="武林人士">
+                <position x="365.756" z="-37.175" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="370.699" z="-41.796" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="371.453" z="-38.719" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+                <position x="368.093" z="-35.671" WeaponName="db_rl_npcitem323" WeaponMode="dsword3_1" />
+            </item>
+        </creator>
+        <creator No="8BE9A4518B0A465EA0C53FF779CF68CB" x="64.271" y="339.151" z="-617.433" radius="30.0" WakeupRange="20.0" ChaseRange="20.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="pld_zyb_010" amount="13" refreshtime="2000" NotPositive="0" desc="佛门有缘人">
+                <position x="62.469" z="-622.109" />
+                <position x="62.355" z="-619.021" ay="3.888" />
+                <position x="61.077" z="-615.498" />
+                <position x="64.312" z="-613.922" ay="4.633" />
+                <position x="69.053" z="-619.196" />
+                <position x="66.168" z="-621.890" ay="1.495" />
+                <position x="67.761" z="-618.136" ay="2.415" />
+                <position x="70.095" z="-616.309" ay="3.813" />
+                <position x="58.591" z="-619.238" />
+                <position x="67.132" z="-612.494" ay="0.725" />
+                <position x="67.018" z="-617.439" />
+                <position x="62.351" z="-612.475" ay="4.328" />
+                <position x="70.926" z="-621.372" ay="1.150" />
+            </item>
+        </creator>
+        <creator No="B39FC06074DC4D4DB4B8237FD64A64DA" x="-163.814" y="345.794" z="-369.965" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="pld_zyb_009" amount="12" refreshtime="2000" NotPositive="0" desc="乐善">
+                <position x="-159.729" z="-370.653" />
+                <position x="-161.642" z="-374.237" ay="5.208" />
+                <position x="-165.517" z="-373.776" ay="1.320" />
+                <position x="-170.358" z="-370.491" ay="4.888" />
+                <position x="-165.635" z="-369.337" />
+                <position x="-160.740" z="-369.733" ay="3.133" />
+                <position x="-161.499" z="-365.605" />
+                <position x="-168.612" z="-366.335" ay="0.815" />
+                <position x="-165.424" z="-364.979" />
+                <position x="-170.759" z="-367.903" ay="0.355" />
+                <position x="-164.004" z="-370.819" ay="4.713" />
+                <position x="-163.156" z="-367.567" ay="3.490" />
+            </item>
+        </creator>
+        <creator No="B0730FDD64BD4405BD7D8D8F93D2BEFD" x="-104.339" y="432.052" z="-95.651" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="pld_zyb_022" amount="5" refreshtime="2000" NotPositive="0" desc="高僧">
+                <position x="-106.558" z="-94.295" />
+                <position x="-103.571" z="-93.325" />
+                <position x="-101.199" z="-97.350" />
+                <position x="-103.734" z="-98.047" />
+                <position x="-106.146" z="-96.287" />
+            </item>
+        </creator>
+        <creator No="FFF0770323A14326AB26012C7C0E55EA" x="-53.457" y="388.646" z="-270.094" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="pld_zyb_022" amount="6" refreshtime="2000" NotPositive="0" desc="高僧">
+                <position x="-52.173" z="-266.983" />
+                <position x="-51.373" z="-269.155" />
+                <position x="-56.050" z="-270.693" />
+                <position x="-53.691" z="-272.298" />
+                <position x="-51.033" z="-271.534" />
+                <position x="-55.358" z="-267.907" />
+            </item>
+        </creator>
+        <creator No="FE6C9E41144749BDB26822ED6E6DFD7F" x="20.292" y="386.314" z="-449.035" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="pld_zyb_022" amount="6" refreshtime="2000" NotPositive="0" desc="高僧">
+                <position x="19.243" z="-449.534" />
+                <position x="21.832" z="-450.867" />
+                <position x="18.906" z="-451.874" />
+                <position x="17.041" z="-449.993" />
+                <position x="21.395" z="-446.686" />
+                <position x="22.767" z="-449.308" />
+            </item>
+        </creator>
+        <creator No="7C7805DF811941A2ABB3A9B95D30D807" x="-164.972" y="434.373" z="-3.213" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="pld_zyb_022" amount="5" refreshtime="2000" NotPositive="0" desc="高僧">
+                <position x="-164.470" z="-4.927" />
+                <position x="-163.049" z="-3.298" />
+                <position x="-162.921" z="-4.813" />
+                <position x="-163.435" z="-6.081" />
+                <position x="-166.486" z="-3.444" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

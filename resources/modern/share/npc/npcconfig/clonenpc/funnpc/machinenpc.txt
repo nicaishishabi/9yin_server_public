@@ -1,0 +1,241 @@
+NPC编号	对象类型	名称	隐藏地面贴花	模型编号	头像	类型	NPC种类ID	响应范围	选择操作分类	脚本编号	机关npc类型	机关npc被触发后的执行函数	出生状态	触发机关时的动作	触发后播放的特效	触发后持续添加的buff	NPC阵营	门派	表演时间（ms）	模型缩放	鼠标形状	AI编辑包
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	script	Name	HideDecal	Resource	Photo	NpcType	CKindID	SpringRange	SelectState	LuaScript	MachineNpcType	SpringFunc	table@BornActionRec	SpringAction	SpringEffect	AddBufferID	Camp	School	ActionTimer	Scale	CursorShape	AIEditorPackID
+																						
+macclone001010	MachineNpc	星位机关		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		1	0	npc\clone\clone001\macclone001010.lua	-1										0	
+MachineNpc00002	MachineNpc	火盆		npc\itemnpc057	icon\funcnpc\clonedoor.png	202		2	0		2			1_stand	E_weaponfire01	buf_fire					0	
+macclone001009	MachineNpc	水闸		npc\itemnpc008	icon\funcnpc\clonedoor.png	202		5	0		2			1_stand							0	
+MachineNpc00004	MachineNpc	开关3		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		5	0	npc\machine_npc.lua	2			close							0	
+MachineNpc00005	MachineNpc	开关4		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		5	0	npc\machine_npc.lua	2			close							0	
+MachineNpc00006	MachineNpc	地宫机关		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		5	0	npc\machine_npc.lua	2			open							0	
+MachineNpc00007	MachineNpc	金		npc\fbmac00001	icon\funcnpc\clonedoor.png	202		1	0	npc\machine_npc.lua	2			1_stand							0	
+MachineNpc00008	MachineNpc	木		npc\fbmac00002	icon\funcnpc\clonedoor.png	202		1	0	npc\machine_npc.lua	2			1_stand							0	
+MachineNpc00009	MachineNpc	土		npc\fbmac00003	icon\funcnpc\clonedoor.png	202		1	0	npc\machine_npc.lua	2			1_stand							0	
+MachineNpc00010	MachineNpc	水		npc\fbmac00004	icon\funcnpc\clonedoor.png	202		1	0	npc\machine_npc.lua	2			1_stand							0	
+MachineNpc00011	MachineNpc	火		npc\fbmac00005	icon\funcnpc\clonedoor.png	202		1	0	npc\machine_npc.lua	2			1_stand							0	
+MachineNpc00012	MachineNpc	开关11		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		5	0	npc\machine_npc.lua	2			close							0	
+MachineNpc00013	MachineNpc	开关12		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		5	0	npc\machine_npc.lua	2			close							0	
+MachineNpc00014	MachineNpc	地宫中央的石柱		npc\fbmac00026	icon\funcnpc\clonedoor.png	202		5	0	npc\machine_npc.lua	2			stand							0	
+MachineNpc00019	MachineNpc	金相地宫小机关		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		1.5	0	npc\clone\clone001\MachineNpc00019.lua	-1			stand							0	
+MacClone007001	MachineNpc	小块落石		npc\worldnpc266	icon\funcnpc\worldnpc097.png	202		5	2	npc\machine_npc.lua	2			1_stand							0	
+MacClone007002	MachineNpc	大块落石		npc\worldnpc266	icon\funcnpc\worldnpc097.png	202		5	2	npc\machine_npc.lua	2			1_stand							0	
+MacClone007003	MachineNpc	滚石		npc\worldnpc266	icon\funcnpc\worldnpc097.png	202		5	2	npc\machine_npc.lua	2			1_stand							0	
+TriggerNpc00006	MachineNpc	金石柱		npc\fbmac00018	icon\funcnpc\fbmac00018.png	202		10	2	npc\machine_npc.lua	-1			1_stand							9	
+TriggerNpc00007	MachineNpc	木石柱		npc\fbmac00019	icon\funcnpc\fbmac00018.png	202		10	2	npc\machine_npc.lua	-1			1_stand							9	
+TriggerNpc00008	MachineNpc	土石柱		npc\fbmac00020	icon\funcnpc\fbmac00018.png	202		10	2	npc\machine_npc.lua	-1			1_stand							9	
+TriggerNpc00009	MachineNpc	火石柱		npc\fbmac00022	icon\funcnpc\fbmac00018.png	202		10	2	npc\machine_npc.lua	-1			1_stand							9	
+TriggerNpc00010	MachineNpc	水石柱		npc\fbmac00021	icon\funcnpc\fbmac00018.png	202		10	2	npc\machine_npc.lua	-1			1_stand							9	
+BlockNpc00012	MachineNpc	五行阵门塔		npc\fbmac00013	icon\funcnpc\itemnpc070.png	202		20	2	npc\machine_npc.lua	-1										0	
+macclone001501	MachineNpc	青龙古镜		npc\fbmac00028	icon\funcnpc\worldnpc097.png	202		5	0	npc\machine_npc.lua	-1			1_stand							0	
+macclone001502	MachineNpc	白虎古镜		npc\fbmac00028	icon\funcnpc\worldnpc097.png	202		5	0	npc\machine_npc.lua	-1			1_stand							0	
+macclone001503	MachineNpc	玄武古镜		npc\fbmac00028	icon\funcnpc\worldnpc097.png	202		5	0	npc\machine_npc.lua	-1			1_stand							0	
+macclone001504	MachineNpc	朱雀古镜		npc\fbmac00028	icon\funcnpc\worldnpc097.png	202		5	0	npc\machine_npc.lua	-1			1_stand							0	
+																						
+MacClone017002	MachineNpc	路障1		npc\fbmac00512		202	4	1	2	npc\machine_npc.lua	2		close	open							0	
+MacClone017003	MachineNpc	路障2		npc\fbmac00513		202	4	1	2	npc\machine_npc.lua	2		close	open							0	
+MacClone017004	MachineNpc	路障3		npc\fbmac00514		202	4	1	2	npc\machine_npc.lua	2		close	open							0	
+MacClone017005	MachineNpc	路障4		npc\fbmac00514		202	4	1	2	npc\machine_npc.lua	2		close	open							0	
+MacClone017006	MachineNpc	蚁道内		npc\fbmac00515	icon\funcnpc\fbmac00515.png	202		1	2	npc\machine_npc.lua	2		close	open							0	
+MacClone017007	MachineNpc	独木桥		npc\fbmac00515	icon\funcnpc\fbmac00515.png	202		1	2	npc\machine_npc.lua	2		close	open							0	
+MacClone017008	MachineNpc	十王殿机关		npc\fbmac00516	icon\funcnpc\fbmac00516.png	202		1	2	npc\machine_npc.lua	2		close	open							0	
+MacClone017024	MachineNpc	石台2		npc\fbmac00521	icon\funcnpc\fbmac00521.png	202		1	2	npc\machine_npc.lua	2		close	open							0	
+MacClone017025	MachineNpc	石台3		npc\fbmac00521	icon\funcnpc\fbmac00521.png	202		1	2	npc\machine_npc.lua	2		close	open							0	
+MacClone017026	MachineNpc	石台4		npc\fbmac00521	icon\funcnpc\fbmac00521.png	202		1	2	npc\machine_npc.lua	2		close	open							0	
+MacClone017027	MachineNpc	石台5		npc\fbmac00521	icon\funcnpc\fbmac00521.png	202		1	2	npc\machine_npc.lua	2		close	open							0	
+MacClone017041	MachineNpc	机关通道踩踏地板砖10		npc\fbmac00523	icon\funcnpc\fbmac00523.png	202		3	2	npc\machine_npc.lua	2		close	open							0	
+MacClone017042	MachineNpc	机关通道踩踏地板砖11		npc\fbmac00524	icon\funcnpc\fbmac00524.png	202		1	2	npc\machine_npc.lua	2		close	open							0	
+MacClone017045	MachineNpc	火牢大铁笼子	1	npc\fbmac00526		202	4	1	2		2		close	open							0	
+MacClone017062	MachineNpc	火牢伤害机关		npc\fbmac00527	icon\funcnpc\fbmac00527.png	202		1	2	npc\machine_npc.lua	2		close	open							0	
+MacClone017063	MachineNpc	水牢伤害机关		npc\fbmac00527	icon\funcnpc\fbmac00527.png	202		1	2	npc\machine_npc.lua	2		close	open							0	
+MacClone017064	MachineNpc	冰牢伤害机关		npc\fbmac00527	icon\funcnpc\fbmac00527.png	202		1	2	npc\machine_npc.lua	2		close	open							0	
+MacClone017065	MachineNpc	机关通道伤害		npc\fbmac00527	icon\funcnpc\fbmac00527.png	202		1	2	npc\machine_npc.lua	2		close	open							0	
+MacClone017067	MachineNpc	铁栏		npc\fbmac00536	icon\funcnpc\fbmac00527.png	172		1	0		2		open	open							0	
+MacClone017076	MachineNpc	九死一生入口	1	npc\fbmac019011	icon\funcnpc\fbmac00511.png	172		1	0	npc\clone\clone017\door_PlayerPush.lua	1		close	open					20000		0	
+MacClone017077	MachineNpc	冰牢伤害机关	1	npc\itemboxnpc003_yunbiao	icon\funcnpc\clonedoor.png	202		1	2		1		closeloop	open					20000		5	
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+MachineClone004001	MachineNpc	落石BUF		npc\fbmac004012	icon\funcnpc\itemnpc033.png	202			2		2					buf_clone004_luoshi					0	
+MachineClone004002	MachineNpc	毒水BUF		npc\fbmac004012		202			2		2					buf_clone004_dushui					0	
+MachineClone004003	MachineNpc	火焰BUF		npc\fbmac004012		202			2		2					buf_clone004_huoyan					0	
+MachineClone004004	MachineNpc	毒气BUF		npc\fbmac004012		202			0		2					buf_clone004_duqi					0	
+MachineClone004005	MachineNpc	木墩		npc\fbmac00012	icon\funcnpc\itemnpc005.png	161			2	npc\clone\clone004\MachineClone004005.lua	1								5000		9	
+MachineClone004006	MachineNpc	箱子		npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	161			2	npc\clone\clone004\MachineClone004006.lua	1								5000		9	
+MachineClone004007	MachineNpc	箱子		npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	161			2	npc\clone\clone004\MachineClone004007.lua	1								5000		9	
+MachineClone004008	MachineNpc	箱子		npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	161			2	npc\clone\clone004\MachineClone004008.lua	1								5000		9	
+MachineClone004009	MachineNpc	箱子		npc\fbmac019004	icon\funcnpc\fbmac019004.png	161			2	npc\clone\clone004\MachineClone004009.lua	1								1000		9	
+MachineClone004010	MachineNpc	毒气BUF		npc\fbmac004012		202			0	npc\clone\clone004\MachineClone004010.lua	2					buf_qiyuduchi_1					0	
+MachineClone004011	MachineNpc	衣服箱子		npc\itemnpc586	icon\funcnpc\itemnpc005.png	161			2	npc\clone\clone004\MachineClone004011.lua	1								5000		9	
+MachineClone004012	MachineNpc	暗影洞内门	1	npc\fbmac021033	icon\funcnpc\clonedoor.png	163		5	2	npc\clone\clone004\MachineClone004012.lua	1		closeloop	open					5000		5	
+MachineClone004013	MachineNpc	火焰BUF		npc\guildeffect001		202		2	0		2								30000		0	
+																						
+MachineClone015001	MachineNpc	酒杯NPC		npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	161		3	2	npc\clone\clone015\macclone015098.lua	1								3000		9	
+MachineClone015002	MachineNpc	酒坛NPC		npc\fbmac015036	icon\funcnpc\itemnpc001.png	161		3	2	npc\clone\clone015\macclone015099.lua	1								3000		9	
+MachineClone015003	MachineNpc	酒坛NPC		npc\fbmac015036	icon\funcnpc\itemnpc001.png	161		3	2	npc\clone\clone015\macclone015099.lua	1								3000		9	
+MachineClone015004	MachineNpc	酒坛NPC		npc\fbmac015036	icon\funcnpc\itemnpc001.png	161		3	2	npc\clone\clone015\macclone015099.lua	1								3000		9	
+MachineClone015005	MachineNpc	酒坛NPC		npc\fbmac015036	icon\funcnpc\itemnpc001.png	161		3	2	npc\clone\clone015\macclone015099.lua	1								3000		9	
+MachineClone015006	MachineNpc	酒坛NPC		npc\fbmac015036	icon\funcnpc\itemnpc001.png	161		3	2	npc\clone\clone015\macclone015099.lua	1								3000		9	
+MachineClone015007	MachineNpc	酒坛NPC		npc\fbmac015036	icon\funcnpc\itemnpc001.png	161		3	2	npc\clone\clone015\macclone015099.lua	1								3000		9	
+MachineClone015008	MachineNpc	酒坛NPC		npc\fbmac015035	icon\funcnpc\fbmac015035.png	161		3	2	npc\clone\clone015\macclone015099.lua	1								3000		9	
+MachineClone015009	MachineNpc	酒坛NPC		npc\itemnpc001	icon\funcnpc\itemnpc001.png	161		3	2	npc\clone\clone015\macclone015099.lua	1								3000		9	
+MachineClone015010	MachineNpc	酒坛NPC		npc\itemnpc001	icon\funcnpc\itemnpc001.png	161		3	2	npc\clone\clone015\macclone015099.lua	1								3000		9	
+MachineClone015011	MachineNpc	酒坛NPC		npc\fbmac015036	icon\funcnpc\itemnpc001.png	161		3	2	npc\clone\clone015\macclone015099.lua	1								3000		9	
+																						
+MachineNpc005001	MachineNpc	火焰		npc\itemnpc057	icon\funcnpc\clonedoor.png	202		2	0	npc\clone\clone007\born_add_effect.lua	2											
+																						
+																						
+BoxClone013006	MachineNpc	坤宫水桶		npc\npcitem067	icon\funcnpc\itemnpc175.png	161		3	2	npc\clone\clone013\BoxClone013006.lua	1			interact41					3000		9	
+BoxClone013008	MachineNpc	震宫宝箱2		npc\itemboxnpc003	icon\funcnpc\itemboxnpc003.png	161		3	2	npc\clone\clone013\BoxClone013008.lua	1			interact41					3000		9	
+BoxClone013009	MachineNpc	震宫宝箱3		npc\itemboxnpc003	icon\funcnpc\itemboxnpc003.png	161		3	2	npc\clone\clone013\BoxClone013009.lua	1			interact41					3000		9	
+																						
+																						
+																						
+																						
+																						
+MacPlot2_1	MachineNpc	洞内瘴气		npc\fbmac00022	icon\funcnpc\fbmac00018.png	202		30	0	npc\clone\clone007\born_add_effect.lua	-1			stand								
+MacPlot19_1	MachineNpc	巡风剑		npc\npcitem411	icon\equip\sword_00072.png	202		2	2	npc\machine_npc.lua	1			stand		buf_plot19_1						
+																						
+																						
+BlockClone019001	MachineNpc	逍遥洞石刻NPC		npc\fbmac019011		173		5			-1										5	
+MacClone019004	MachineNpc	火焰NPC		npc\itemnpc057l		202		6.5		npc\machine_npc.lua	2					buf_clone019_hy						
+MacClone019005	MachineNpc	尸使山洞检测NPC		npc\itemnpc057		202		7			2					buf_clone019_biaoji						
+MacClone019007	MachineNpc	机关兽1		npc\fbmac019017_3	icon\funcnpc\fbmac019017.png	163		3	2	npc\clone\clone019\MacClone019007.lua	1										5	524
+MacClone019008	MachineNpc	机关兽2		npc\fbmac019017	icon\funcnpc\fbmac019017.png	163		3	2	npc\clone\clone019\MacClone019008.lua	1										5	524
+MacClone019009	MachineNpc	增加冰魄bufNPC		npc\itemnpc057		202		30			2					buf_clone019_bingp						
+MacClone019011	MachineNpc			npc\fbmac004013		202		16			2					buff_yjqy_sfdt						
+MacClone019010	MachineNpc	增加燥热bufNPC		npc\itemnpc057		202		30			2					buf_clone019_zaor						
+MacClone019012	MachineNpc	毒使通道假花		npc\itemnpc066_01	icon\funcnpc\itemnpc005.png	163		2	2	npc\machine_npc.lua	2										9	
+MacClone019012_z	MachineNpc	毒使通道真花		npc\itemnpc066	icon\funcnpc\itemnpc005.png	163		2	2	npc\machine_npc.lua	2										9	
+MacClone019015	MachineNpc	剑气		npc\itemnpc057n		202		2		npc\machine_npc.lua	2											
+MacClone019018	MachineNpc	阳光1		npc\itemnpc057o		202		2		npc\machine_npc.lua	2											
+MacClone019019	MachineNpc	噩梦草		npc\itemnpc066		202		3	2	npc\clone\clone019\addeffectself.lua	1				dapoguancai	buf_clone019_emengcao				"0.8,0.8,0.8"	9	
+MacClone019020	MachineNpc	人数检测NPC		npc\itemnpc057		202		1.4		npc\clone\clone019\MacClone019020.lua	2											
+MacClone019021	MachineNpc	冰剑		npc\itemnpc057m		202		5		npc\clone\clone019\MacClone019030.lua	2					buf_clone019_icesword						
+MacClone019031	MachineNpc	火剑		npc\itemnpc057i		202		5		npc\clone\clone019\MacClone019031.lua	2					buf_clone019_firesword						
+MacClone019032	MachineNpc	蜂巢		npc\itemnpc484		202		12		npc\machine_npc.lua	2											
+MacClone019033	MachineNpc	密道牢门		npc\fbmac00536		173		12		npc\machine_npc.lua	-1		closeloop	open								
+MacClone019034	MachineNpc	毒使大铁笼子		npc\fbmac00526		173		1			-1										0	
+																						
+MacClone011001	MachineNpc	拒马		npc\fbmac00007	icon\funcnpc\fbmac00007.png	202		0			-1											
+																						
+																						
+MacClone005151	MachineNpc	机关																				
+MacClone005152	MachineNpc	机关																				
+MacClone005153	MachineNpc	机关																				
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+Macclone021201	MachineNpc	九宫板1		npc\fbmac021002	icon\funcnpc\clonedoor.png	202		1	0	npc\machine_npc.lua	-1											
+Macclone021202	MachineNpc	九宫板2		npc\fbmac021003	icon\funcnpc\clonedoor.png	202		1	0	npc\machine_npc.lua	-1											
+Macclone021203	MachineNpc	九宫板3		npc\fbmac021004	icon\funcnpc\clonedoor.png	202		1	0	npc\machine_npc.lua	-1											
+Macclone021204	MachineNpc	九宫板4		npc\fbmac021005	icon\funcnpc\clonedoor.png	202		1	0	npc\machine_npc.lua	-1											
+Macclone021205	MachineNpc	九宫板5		npc\fbmac021006	icon\funcnpc\clonedoor.png	202		1	0	npc\machine_npc.lua	-1											
+Macclone021206	MachineNpc	九宫板6		npc\fbmac021007	icon\funcnpc\clonedoor.png	202		1	0	npc\machine_npc.lua	-1											
+Macclone021207	MachineNpc	九宫板7		npc\fbmac021008	icon\funcnpc\clonedoor.png	202		1	0	npc\machine_npc.lua	-1											
+Macclone021208	MachineNpc	九宫板8		npc\fbmac021009	icon\funcnpc\clonedoor.png	202		1	0	npc\machine_npc.lua	-1											
+Macclone021209	MachineNpc	空白挡板		npc\fbmac021010	icon\funcnpc\clonedoor.png	202		1	0	npc\machine_npc.lua	-1											
+Macclone021043	MachineNpc	青龙角		npc\fbmac021029	icon\funcnpc\clonedoor.png	202		1	2		-1											
+Macclone021044	MachineNpc	青龙爪		npc\fbmac021030	icon\funcnpc\clonedoor.png	202		1	2		-1											
+Macclone021045	MachineNpc	青龙鳞		npc\fbmac021031	icon\funcnpc\clonedoor.png	202		1	2		-1											
+Macclone021046	MachineNpc	青龙鳍		npc\fbmac021032	icon\funcnpc\clonedoor.png	202		1	2		-1											
+Macclone021122	MachineNpc			npc\fbmac005020c	icon\funcnpc\clonedoor.png	202		1	2	npc\machine_npc.lua	-1											
+MacClone021010	MachineNpc			npc\fbmac021011	icon\funcnpc\clonedoor.png	202		1	2	npc\machine_npc.lua	-1		closeloop								5	
+MacClone021011	MachineNpc			npc\fbmac021011	icon\funcnpc\clonedoor.png	202		1	2	npc\machine_npc.lua	-1		closeloop								5	
+MacClone021012	MachineNpc			npc\fbmac021011	icon\funcnpc\clonedoor.png	202		1	2	npc\machine_npc.lua	-1		closeloop								5	
+MacClone021013	MachineNpc			npc\fbmac021011	icon\funcnpc\clonedoor.png	202		1	2	npc\machine_npc.lua	-1		closeloop								5	
+MacClone021014	MachineNpc			npc\fbmac021011	icon\funcnpc\clonedoor.png	202		1	2	npc\machine_npc.lua	-1		closeloop								5	
+MacClone021015	MachineNpc			npc\fbmac021011	icon\funcnpc\clonedoor.png	202		1	2	npc\machine_npc.lua	-1		closeloop								5	
+MacClone021016	MachineNpc			npc\fbmac021011	icon\funcnpc\clonedoor.png	202		1	2	npc\machine_npc.lua	-1		closeloop								5	
+MacClone021017	MachineNpc			npc\fbmac021011	icon\funcnpc\clonedoor.png	202		1	2	npc\machine_npc.lua	-1		closeloop								5	
+MacClone021018	MachineNpc			npc\fbmac021011	icon\funcnpc\clonedoor.png	202		1	2	npc\machine_npc.lua	-1		closeloop								5	
+Macclone021124	MachineNpc		1	npc\fbmac021033	icon\funcnpc\clonedoor.png	163		1	2		1		closeloop	open					20000		5	
+																						
+																						
+Machineworld014001	MachineNpc	毒气BUF		npc\fbmac004012		202			0	npc\machine_npc.lua	2					buf_qiyuduchi_1					0	
+																						
+MacchineNpc001	MachineNpc	机关NPC		npc\fbmac021002	icon\funcnpc\clonedoor.png	202		1	2	npc\MacchineNpc001.lua	2											
+MacchineNpc002	MachineNpc	机关NPC		npc\fbmac013044	icon\funcnpc\clonedoor.png	202		0	0		-1											
+qy_luoyang_dongkou	MachineNpc	机关NPC		npc\fbmac013044	icon\funcnpc\clonedoor.png	202		0	0		-1											
+																						
+qy_luoyang_shitou1	MachineNpc	洛阳奇遇石头(变化前)		npc\itemnpc181	icon\funcnpc\itemnpc075.png	202		10	2	npc\machine_npc.lua	2											
+qy_luoyang_shitou2	MachineNpc	洛阳奇遇石头(变化后)		npc\itemnpc181a	icon\funcnpc\itemnpc075.png	202		10	2	npc\machine_npc.lua	2											
+qy_yd_buff	MachineNpc	火把BUFF		npc\fbmac004012		202			0	npc\machine_npc.lua	2					qy_yindao_huoba					0	
+																						
+jieyujiguan_001	MachineNpc	劫狱牢门		npc\itemnpc643		173	4	5	2	npc\machine_npc.lua	-1			open							5	
+mac_qy_qdz_002	MachineNpc	劫狱牢门		npc\fbmac00197		170	4	5	2	Adventure\qdz\mac_qy_qdz_002.lua	1		closeloop							"0.4,0.4,0.4"	5	
+qy_yanjing_jgwj	MachineNpc	机关物件		npc\fbmac00521	icon\funcnpc\fbmac00521.png	163		1	0	npc\machine_npc.lua	2										0	
+MacchineNpc003	MachineNpc	机关NPC		npc\fbmac013046	icon\funcnpc\clonedoor.png	202		0	0		-1											
+task_digong_0003	MachineNpc	巡风剑		npc\npcitem419	icon\equip\sword_00072.png	202		2	2	npc\machine_npc.lua	1			stand		buf_task_suzhou01						
+task_digong_0006	MachineNpc	金		npc\itemnpc679	icon\funcnpc\clonedoor.png	172		1	0	npc\wuxing_npc.lua	2		open	open							0	
+task_digong_0007	MachineNpc	木		npc\itemnpc680	icon\funcnpc\clonedoor.png	172		1	0	npc\wuxing_npc.lua	2		open	open							0	
+task_digong_0008	MachineNpc	土		npc\itemnpc683	icon\funcnpc\clonedoor.png	172		1	0	npc\wuxing_npc.lua	2		open	open							0	
+task_digong_0009	MachineNpc	水		npc\itemnpc681	icon\funcnpc\clonedoor.png	172		1	0	npc\wuxing_npc.lua	2		open	open							0	
+task_digong_0010	MachineNpc	火		npc\itemnpc682	icon\funcnpc\clonedoor.png	172		1	0	npc\wuxing_npc.lua	2		open	open							0	
+Machine_qy_wdschool	MachineNpc	鱼		npc\cj_101009	icon\shenghuo\cl_01010009.png	161		2	2	Adventure\wdschool\Machine_qy_wdschool.lua	1								100		9	
+Machine_qy_wdschool_guanjia	MachineNpc	鱼		npc\monster341a	icon\monster\monster341.png	161		2	2	Adventure\wdschool\Machine_qy_wdschool_guanjia.lua	1								100		9	
+Machine_qy_wdschool_shu	MachineNpc	被盗书籍		npc\itemboxnpc003	icon\funcnpc\itemboxnpc003.png	161		2	2	Adventure\wdschool\Machine_qy_wdschool_shu.lua	1								100		9	
+	//唐门门派奇遇																					
+Machine_qy_tm3nei01	MachineNpc	藏信匣		npc\itemnpc605	icon\prop\prop882.png	161		2	2	Adventure\tm\Machine_qy_tm3nei01.lua	1								5000		9	
+																						
+	//战场																					
+battle_npc_book	MachineNpc	密宗秘籍		npc\itemnpc053b	icon\funcnpc\npcitem532.png	251	4	10	2	npc\BattleField\battle_npc_book.lua	1										37	
+battle_npc_banner1	MachineNpc	战旗-红		npc\itemnpc707	icon\funcnpc\npcitem532.png	251	4	5	2	npc\BattleField\battle_npc_banner.lua	1								1000	"1.5,1.5,1.5"	37	
+battle_npc_banner2	MachineNpc	战旗-白		npc\itemnpc708	icon\funcnpc\npcitem532.png	251	4	5	2	npc\BattleField\battle_npc_banner.lua	1								1000	"1.5,1.5,1.5"	37	
+battle_npc_bayonet	MachineNpc	战场地刺		npc\bfmac000001		202		5	0	npc\machine_npc.lua	2		closeloop	open		buf_clone004_duqi					0	
+																						
+battle_npc_jishi1	MachineNpc	战旗基座-红		npc\itemnpc_schoolwar_018	icon\funcnpc\itemnpc_schoolwar_018	172		2	0		2											
+battle_npc_jishi2	MachineNpc	战旗基座-白		npc\itemnpc_schoolwar_018	icon\funcnpc\itemnpc_schoolwar_018	172		2	0		2											
+macclone009004	MachineNpc	星位机关		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		0.5	2		-1										2	
+macclone009005	MachineNpc	星位机关		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		0.5	2		-1										2	
+macclone009006	MachineNpc	星位机关		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		0.5	2		-1										2	
+macclone009007	MachineNpc	星位机关		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		0.5	2		-1										2	
+macclone009008	MachineNpc	星位机关		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		0.5	2		-1										2	
+macclone009009	MachineNpc	星位机关		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		0.5	2		-1										2	
+macclone009010	MachineNpc	星位机关		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		0.5	2		-1										2	
+macclone009011	MachineNpc	星位机关		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		0.5	2		-1										2	
+macclone009012	MachineNpc	星位机关		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		0.5	2		-1										2	
+macclone009013	MachineNpc	星位机关		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		0.5	2		-1										2	
+macclone009014	MachineNpc	星位机关		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		0.5	2		-1										2	
+macclone009015	MachineNpc	星位机关		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		0.5	2		-1										2	
+macclone009016	MachineNpc	星位机关		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		0.5	2		-1										2	
+macclone009017	MachineNpc	星位机关		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		0.5	2		-1										2	
+macclone009018	MachineNpc	星位机关		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		0.5	2		-1										2	
+macclone009019	MachineNpc	星位机关		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		0.5	2		-1										2	
+macclone009020	MachineNpc	星位机关		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		0.5	2		-1										2	
+macclone009021	MachineNpc	星位机关		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		0.5	2		-1										2	
+macclone009022	MachineNpc	星位机关		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		0.5	2		-1										2	
+macclone009023	MachineNpc	星位机关		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		0.5	2		-1										2	
+macclone009024	MachineNpc	星位机关		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		0.5	2		-1										2	
+macclone009025	MachineNpc	星位机关		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		0.5	2		-1										2	
+macclone009026	MachineNpc	星位机关		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		0.5	2		-1										2	
+																						
+		//无门派																				
+ItemNpcSchool000001	MachineNpc	带鞘单刀		npc\itemnpc202_a	icon\funcnpc\itemnpc202.png	202		1	0		-1											520
+																						
+MackarmaNpc012	MachineNpc	火盆		npc\itemnpc057_huo	icon\funcnpc\clonedoor.png	202		1.5	0	npc\machine_npc.lua	2			1_stand		buf_karma_raoshao					0	
+Macadv032_cloneNpc001	MachineNpc	毒		npc\itemnpc057_jlg01	icon\funcnpc\clonedoor.png	202		8	0	npc\machine_npc.lua	2			1_stand		buf_guichou_du					0	
+MackarmaNpc013	MachineNpc	升降机关		npc\fbmac00012	icon\funcnpc\clonedoor.png	202		0.5	0	npc\machine_npc.lua	2		close	open		buf_adv100_sanlian01					0	
+																						
+macclone031001	MachineNpc	快活岛禁地地刺		npc\bfmac000001		202		1	0	npc\machine_npc.lua	2		closeloop	open		buf_clone031_dici					0	
+macclone031002	MachineNpc	快活岛禁地火箭		npc\itemnpc057_jyw03		202		1	0	npc\machine_npc.lua	2										0	
+macclone031003	MachineNpc	快活岛禁地飞镖		npc\fbmac00527		202		1	0	npc\machine_npc.lua	2										0	
+macclone031004	MachineNpc		1	npc\fbmac031001	icon\funcnpc\clonedoor.png	163		2	2	npc\clone\clone031\door_PlayerPush.lua	1		closeloop	open					20000		5	
+macclone031005	MachineNpc	快活岛机关1		npc\fbmac00012		202														"0.3,0.3,0.3"	2	
+macclone031006	MachineNpc	快活岛机关2		npc\fbmac00012		202		1	0		-1									"0.3,0.3,0.3"	0	
+macclone031007	MachineNpc	快活岛机关3		npc\fbmac00012		202		1	0		-1									"0.3,0.3,0.3"	0	
+macclone031008	MachineNpc	快活岛机关4		npc\fbmac00012		202		1	0		-1									"0.3,0.3,0.3"	0	
+macclone031009	MachineNpc	快活岛机关5		npc\fbmac00012		202		1	0		-1									"0.3,0.3,0.3"	0	
+macclone031010	MachineNpc	快活岛机关6		npc\fbmac00012		202		1	0		-1									"0.3,0.3,0.3"	0	

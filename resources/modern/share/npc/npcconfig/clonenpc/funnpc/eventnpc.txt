@@ -1,0 +1,1238 @@
+NPC编号	对象类型	名称	模型编号	NPC类型	NPC种类ID	响应范围	触发事件编号	触发类型	触发任务ID	是否可见	交互顺序	脚本编号	触发条件	AI编辑包
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	script	Name	Resource	NpcType	CKindID	SpringRange	EventIndex	EventType	EventTaskID	Invisible	EventOrder	LuaScript	SpringCondition	AIEditorPackID
+														
+TriggerNpc00005	EventNpc	门口拒马人数检测	npc\worldnpc140	202	4	15				1				
+														
+TriggerNpc00011	EventNpc	五行检测	npc\itemnpc057	202	4	10				1				
+TriggerNpc00012	EventNpc	五行牢房释放	npc\itemnpc059	202	4	2				0				
+TriggerNpc00014	EventNpc	开启高立寻路	npc\itemnpc057	202	4	20				1				
+TriggerNpc00015	EventNpc	开启高立寻路	npc\itemnpc057	202	4	20				1				
+TriggerNpc00020	EventNpc	武当出师副本触发使用1	npc\worldnpc140	47	4	8				1				
+TriggerNpc00021	EventNpc	武当出师副本触发使用2	npc\worldnpc140	47	4	8				1				
+TriggerNpc00022	EventNpc	武当出师副本触发使用3	npc\worldnpc140	47	4	8				1				
+TriggerNpc00023	EventNpc	武当出师副本触发使用4	npc\worldnpc140	47	4	8				1				
+TriggerNpc00024	EventNpc	武当出师副本触发使用5	npc\worldnpc140	47	4	8				1				
+														
+EventNpcClone007001	EventNpc	为民除恶触发npc	npc\fbmac00515	47	4	8		6		1		npc\clone\clone007\wd_task2301_event_1.lua		
+EventNpcClone007003	EventNpc	虎口救人触发npc1	npc\fbmac00515	47	4	8		6		1		npc\clone\clone007\wd_task2306_event1.lua		
+EventNpcClone007004	EventNpc	虎口救人触发npc2	npc\fbmac00515	47	4	8		6		1		npc\clone\clone007\wd_task2306_event2.lua		
+EventNpcClone007005	EventNpc	滕雷闯山触发npc	npc\fbmac00515	47	4	8		6		1		npc\clone\clone007\wd_task2307_event.lua		
+EventNpcClone007006	EventNpc	滕雷闯山触发npc2	npc\fbmac00515	47	4	8		6		1		npc\clone\clone007\wd_task2307_event2.lua		
+EventNpcClone007007	EventNpc	创建袁齐触发npc	npc\fbmac00515	47	4	20		6		1		npc\clone\clone007\wd_task2310_event.lua		
+EventNpcClone007008	EventNpc	任务“下山调查”使用	npc\fbmac00515	47	4	8		6		1		npc\clone\clone007\TriForTaskTrans.lua		
+EventNpcClone007009	EventNpc	花盆	npc\fbmac007005	202	4	20				0				
+EventNpcClone007010	EventNpc	进入紫霄殿分组场景触发NPC	npc\fbmac00515	202	4	10		6		1		npc\clone\clone007\EventNpcClone007010.lua		
+EventNpcClone007011	EventNpc	离开紫霄殿分组场景触发NPC	npc\fbmac00515	202	4	12		6		1		npc\clone\clone007\EventNpcClone007011.lua		
+EventNpcClone007012	EventNpc	困难、地狱开场动画触发NPC	npc\itemnpc057e	202	4	5		6		1				
+														
+														
+														
+														
+														
+EventNpcClone017000	EventNpc	蚁洞出口	npc\worldnpc140	47	4	20		6		1				
+EventNpcClone017001	EventNpc	创建张继武BOSS	npc\fbmac00515	47	4	20		6		1				
+EventNpcClone017002	EventNpc	沈毫动画	npc\fbmac00515	47	4	20		6		1				
+EventNpcClone017003	EventNpc	创建张继武牢房	npc\fbmac00515	47	4	20		6		1				
+EventNpcClone017004	EventNpc	创建沈洪烈	npc\fbmac00515	47	4	20		6		1				
+EventNpcClone017005	EventNpc	创建张继武任务	npc\fbmac00515	47	4	20		6		1				
+EventNpcClone017006	EventNpc	遇到沈豪	npc\fbmac00515	47	4	20		6		1				
+EventNpcClone017007	EventNpc	提示转动佛像	npc\fbmac00515	47	4	10		6		1				
+EventNpcClone017008	EventNpc	提示机关通道	npc\fbmac00515	47	4	10		6		1				
+EventNpcClone017009	EventNpc	提示水牢机关	npc\fbmac00515	47	4	20		6		1				
+EventNpcClone017010	EventNpc	播放沈鸿烈挡刀	npc\fbmac00515	47	4	5		6		1				
+EventNpcClone017011	EventNpc	打探触发点	npc\fbmac00515	47	4	80		6		1				
+EventNpcClone017012	EventNpc	机关创建NPC	npc\fbmac00515	47	4	42		6		1		npc\clone\clone017\mac_grid_creator.lua  		
+TriggerNpcClone017012	EventNpc	沈鸿烈目标点	npc\fbmac00515	47	4	5		6		1				
+EventNpcClone017013	EventNpc	沈鸿烈一行消失点	npc\fbmac00515	47	4	5		6		1				
+EventNpcClone017014	EventNpc	崔家门口任务完成点	npc\fbmac00515	47	4	10		6		1		npc\clone\clone017\EventNpcClone017014.lua		
+EventNpcClone017015	EventNpc	副本奖励	npc\fbmac00515	47	4	50		6		1				
+EventNpcClone017016	EventNpc	困难难度传送至出生点	npc\fbmac004012	47	4	50		6		1		npc\clone\clone017\EventNpcClone017016.lua		
+EventNpcClone017017	EventNpc	动画播放触发NPC	npc\fbmac004012	47	4	50		6		1				
+EventNpcClone017018	EventNpc	冰牢阵法触发NPC	npc\fbmac004012	47	4	50		6		1				
+EventNpcClone017021	EventNpc	尸坑触发NPC	npc\fbmac00515	47	4	2		6		1				
+EventNpcClone017019	EventNpc	副本入口触发NPC	npc\fbmac004012	47	4	50		6		1				
+EventNpcClone017020	EventNpc	BOSS技能隐藏NPC	npc\fbmac00515	47	4	5		6		1				
+														
+EventNpcClone009001	EventNpc	隐藏1	npc\worldnpc140	47	4	8	0	2		1				
+EventNpcClone009002	EventNpc	隐藏2	npc\worldnpc140	47	4	8	0	2		1				
+EventNpcClone009003	EventNpc	隐藏3	npc\worldnpc140	47	4	8	0	2		1				
+EventNpcClone009004	EventNpc	隐藏4	npc\worldnpc140	47	4	8	0	2		1				
+EventNpcClone009005	EventNpc	隐藏5	npc\worldnpc140	47	4	8	0	2		1				
+EventNpcClone009006	EventNpc	隐藏6	npc\worldnpc140	47	4	8	0	2		1				
+EventNpcClone009007	EventNpc	舍身崖出口触发NPC	npc\worldnpc140	47	4	80	0			1				
+EventNpcClone009008	EventNpc	尚寸方逃跑触发点	npc\itemnpc057d	47	4	2	0			1				
+EventNpcClone009009	EventNpc	尚寸方逃跑触发点	npc\itemnpc057d	47	4	2	0			1				
+EventNpcClone009010	EventNpc	尚寸方逃跑触发点	npc\itemnpc057d	47	4	2	0			1				
+EventNpcClone009011	EventNpc	尚寸方逃跑触发点	npc\itemnpc057d	47	4	2	0			1				
+EventNpcClone009012	EventNpc	舍身崖动画播放	npc\itemnpc057d	47	4	10	0			1				
+EventNpcClone009013	EventNpc	舍身崖动画播放	npc\itemnpc057d	47	4	20	0			1				
+EventNpcClone009014	EventNpc	看到绝冥播放动画	npc\itemnpc057d	47	4	5	0			1				
+EventNpcClone009015	EventNpc	进入山寨播放动画	npc\itemnpc057d	47	4	5	0			1				
+EventNpcClone009030	EventNpc	鱼群触发NPC	npc\itemnpc057	202	4	60				0				
+EventNpcClone009031	EventNpc	鱼群触发NPC	npc\itemnpc057	202	4	20				0				
+EventNpcClone009032	EventNpc	鱼群触发NPC	npc\itemnpc057	202	4	12				0				
+EventNpcClone009033	EventNpc	灭元动画	npc\itemnpc057	202	4	20				0				
+EventNpcClone009034	EventNpc	灭元前招马	npc\itemnpc057	202	4	20				0				
+EventNpcClone009035	EventNpc	灭元前招马	npc\itemnpc057	202	4	10				0				
+														
+EventNpcClone002000	EventNpc	玩家第一次进副本触发器	npc\fbmac00515	202	4	10				0				
+EventNpcClone002001	EventNpc	马贼山寨下绿洲处检测NPC1	npc\fbmac00515	202	4	10				0				
+EventNpcClone002002	EventNpc	崔杨是否在龙门关附近距离检测NPC	npc\fbmac00515	202	4	50				0				
+EventNpcClone002003	EventNpc	马贼攻击客栈外事件触发	npc\fbmac00515	202	4	10				0				
+EventNpcClone002004	EventNpc	沈义山线；护送沈义山至龙门关末端检测NPC	npc\fbmac00515	202	4	10				0				
+EventNpcClone002005	EventNpc	龙门客栈前门范围检测NPC	npc\fbmac00515	202	4	10				0				
+EventNpcClone002006	EventNpc	金镶玉线密道入口范围检测NPC	npc\fbmac00515	202	4	3				0				
+EventNpcClone002007	EventNpc	金镶玉线密道出口范围检测NPC	npc\fbmac00515	202	4	3				0				
+EventNpcClone002008	EventNpc	斫镇门口范围检测NPC	npc\fbmac00515	202	4	10				0				
+EventNpcClone002009	EventNpc	传令兵触发范围NPC	npc\fbmac00515	202	4	3				0				
+EventNpcClone002010	EventNpc	董遒楼梯口事件触发NPC	npc\fbmac00515	202	4	1				0				
+EventNpcClone002011	EventNpc	曹少钦事件范围触发NPC	npc\fbmac00515	202	4	10				0				
+EventNpcClone002012	EventNpc	邱莫言寻路终点检测NPC	npc\fbmac00515	202	4	4				0				
+EventNpcClone002013	EventNpc	金镶玉寻路对白点1	npc\fbmac00515	202	4	1				0				
+EventNpcClone002014	EventNpc	金镶玉寻路对白点2	npc\fbmac00515	202	4	1				0				
+EventNpcClone002015	EventNpc	金镶玉寻路对白点3	npc\fbmac00515	202	4	1				0				
+EventNpcClone002016	EventNpc	金镶玉寻路对白点4	npc\fbmac00515	202	4	1				0				
+EventNpcClone002017	EventNpc	金镶玉寻路终点	npc\fbmac00515	202	4	3				0				
+EventNpcClone002018	EventNpc	废弃	npc\fbmac00515	202	4	5				0				
+EventNpcClone002019	EventNpc	废弃	npc\fbmac00515	202	4	5				0				
+EventNpcClone002020	EventNpc	沈义山线；龙门关外门处东厂阻截事件触发点	npc\fbmac00515	202	4	5				0				
+EventNpcClone002021	EventNpc	节点前；贺虎进聚义堂触发点	npc\fbmac00515	202	4	5				0				
+EventNpcClone002022	EventNpc	废弃	npc\fbmac00515	202	4	5				0				
+EventNpcClone002023	EventNpc	护送贾廷至龙门客栈触发怪物创建	npc\fbmac00515	202	4	5				0				
+EventNpcClone002024	EventNpc	胡人督军帐篷内战斗触发器	npc\fbmac00515	202	4	5				0				
+EventNpcClone002025	EventNpc	任务2061战斗触发器	npc\fbmac00515	202	4	5				0				
+EventNpcClone002026	EventNpc	剧情454触发器	npc\fbmac00515	202	4	10				0				
+EventNpcClone002027	EventNpc	龙门关关卡守卫刷新器	npc\fbmac00515	202	4	5				0		npc\clone\clone002\lmg_guardcreate_trigger.lua		
+EventNpcClone002028	EventNpc	龙门恩仇触发NPC-马场	npc\fbmac00515	202	4	10				0				
+EventNpcClone002029	EventNpc	马场水坑	npc\fbmac00515	202	4	10				0				
+EventNpcClone002030	EventNpc	王翦恩仇触发点NPC	npc\fbmac00515	47	4	10		6		0				
+EventNpcClone002031	EventNpc	王翦恩仇触发点NPC1	npc\fbmac00515	47	4	10		6		0		npc\clone\clone002\EventNpcClone002031.lua		
+EventNpcClone002032	EventNpc	王翦恩仇触发点NPC2-驯马	npc\fbmac00515	47	4	10		6		0		npc\clone\clone002\EventNpcClone002032.lua		
+EventNpcClone002033	EventNpc	龙门恩仇触发NPC-桥段1	npc\fbmac00515	47	4	10		6		0		npc\clone\clone002\EventNpcClone002033.lua		
+EventNpcClone002034	EventNpc	龙门恩仇触发NPC-桥段3	npc\fbmac00515	47	4	10		6		0		npc\clone\clone002\EventNpcClone002034.lua		
+EventNpcClone002035	EventNpc	龙门恩仇触发NPC-驯马点7	npc\fbmac00515	47	4	10		6		0		npc\clone\clone002\EventNpcClone002035.lua		
+EventNpcClone002036	EventNpc	龙门奇遇	npc\fbmac00515	202	4	10		6		1		npc\clone\clone002\EventNpcClone002036.lua		
+EventNpcClone002037	EventNpc	龙门奇遇	npc\fbmac00515	202	4	10		6		1		npc\clone\clone002\EventNpcClone002037.lua		
+														
+EventNpcClone004001	EventNpc	雁门关检测NPC	npc\fbmac004012	202	4	10		6		1				
+EventNpcClone004002	EventNpc	东泉村检测NPC1	npc\fbmac004012	202	4	30		6		1				
+EventNpcClone004003	EventNpc	东泉村检测NPC2	npc\fbmac004012	202	4	10		6		1				
+EventNpcClone004004	EventNpc	万蛇谷检测NPC	npc\fbmac004012	202	4	10		6		1				
+EventNpcClone004005	EventNpc	大峪沟检测NPC	npc\fbmac004012	202	4	10		6		1				
+EventNpcClone004006	EventNpc	落马道检测NPC	npc\fbmac004012	202	4	50		6		1				
+EventNpcClone004007	EventNpc	洞口检测NPC	npc\fbmac004012	202	4	10		6		1				
+EventNpcClone004008	EventNpc	暗影洞检测传送NPC	npc\fbmac004012	202	4			6		1		npc\clone\clone004\EventNpcClone004008.lua		
+EventNpcClone004009	EventNpc	迷宫检测NPC	npc\fbmac004012	202	4	10		6		1				
+EventNpcClone004010	EventNpc	雁门关检测NPC 2	npc\fbmac004012	202	4	50		6		1		npc\clone\clone004\EventNpcClone004010.lua		
+EventNpcClone004012	EventNpc	粮草房检测NPC	npc\fbmac004012	202	4	10		6		1				
+EventNpcClone004013	EventNpc	战场检测NPC	npc\fbmac004012	202	4	10		6						
+EventNpcClone004014	EventNpc	少林方丈触发NPC	npc\fbmac004012	202	4	3		6		1		npc\clone\clone004\EventNpcClone004014.lua		
+EventNpcClone004015	EventNpc	阻挡NPC1	npc\fbmac004013	202	4	10		6		1				
+EventNpcClone004016	EventNpc	阻挡NPC2	npc\fbmac004013	202	4	10		6		1				
+EventNpcClone004017	EventNpc	骑兵删除NPC	npc\fbmac004012	202	4	10		6		1				
+EventNpcClone004018	EventNpc	阿鲁台和方无恨密谋动画触发NPC	npc\fbmac004012	202	4	10		6		1				
+EventNpcClone004019	EventNpc	玩家见到柳方朔动画触发NPC	npc\fbmac004012	202	4	10	520	4	5311	1				
+EventNpcClone004100	EventNpc		npc\fbmac004012	202	4	10		6		1				
+EventNpcClone004101	EventNpc		npc\fbmac004012	202	4	10		6		1		npc\clone\clone004\EventNpcClone004101.lua		
+EventNpcClone004102	EventNpc	云梯	npc\fbmac004103	202	4	1		6				npc\clone\clone004\EventNpcClone004102.lua		
+EventNpcClone004103	EventNpc	陷阱	npc\hw_xj001	202	4	5		6				npc\clone\clone004\xianjing.lua		
+EventNpcClone004998	EventNpc	删除泛黄平原支援民兵	npc\fbmac004012	202	4	10		6		1		npc\clone\clone004\EventNpcClone004998.lua		
+EventNpcClone004999	EventNpc	删除泛黄平原逃难百姓	npc\fbmac004012	202	4	10		6		1		npc\clone\clone004\EventNpcClone004999.lua		
+EventNpcClone004104	EventNpc	方无恨牢房触发NPC1	npc\fbmac004012	202	4	3		6		1				
+EventNpcClone004105	EventNpc	方无恨牢房触发NPC2	npc\fbmac004012	202	4	3		6		1				
+EventNpcClone004106	EventNpc	东泉村逃难村民1	npc\fbmac004012	202	4	3		6		1				
+EventNpcClone004107	EventNpc	东泉村逃难村民2	npc\fbmac004012	202	4	3		6		1				
+EventNpcClone004108	EventNpc	东泉村逃难村民3	npc\fbmac004012	202	4	3		6		1				
+EventNpcClone004109	EventNpc	东泉村逃难村民4	npc\fbmac004012	202	4	3		6		1				
+EventNpcClone004110	EventNpc	东泉村逃难村民5	npc\fbmac004012	202	4	3		6		1				
+EventNpcClone004111	EventNpc	东泉村逃难村民6	npc\fbmac004012	202	4	3		6		1				
+EventNpcClone004112	EventNpc	村民线柳方硕寻路点1	npc\fbmac004012	202	4	3		6		1				
+EventNpcClone004113	EventNpc	村民线柳方硕寻路点2	npc\fbmac004012	202	4	3		6		1				
+EventNpcClone004114	EventNpc	村民线柳方硕寻路点3	npc\fbmac004012	202	4	3		6		1				
+EventNpcClone004115	EventNpc	村民线柳方硕寻路点4	npc\fbmac004012	202	4	3		6		1				
+EventNpcClone004116	EventNpc	村民线搬运NPC终点	npc\fbmac004012	202	4	6		6		1		npc\clone\clone004\EventNpcClone004116.lua		
+EventNpcClone004117	EventNpc	武林线骑兵玩法刷新NPC	npc\fbmac004012	202	4	3		6		1		npc\clone\clone004\EventNpcClone004117.lua		
+EventNpcClone004118	EventNpc	雁门关关卡刷新NPC	npc\fbmac004012	202	4	50		6		1		npc\clone\clone004\EventNpcClone004118.lua		
+EventNpcClone004119	EventNpc	村民线柳方硕寻路点8	npc\fbmac004012	202	4	3		6		1				
+EventNpcClone004120	EventNpc	村民线柳方硕寻路点9	npc\fbmac004012	202	4	3		6		1				
+EventNpcClone004501	EventNpc	监军线 蛇道	npc\worldnpc140	202	4	8		6		1				
+EventNpcClone004502	EventNpc	冬泉动画	npc\worldnpc140	202	4	8		6		1				
+EventNpcClone004503	EventNpc	滚石陷阱	npc\worldnpc140	202	4	8		6		1		npc\clone\clone004\EventNpcClone004503.lua		
+EventNpcClone004504	EventNpc	大营警戒	npc\worldnpc140	202	4	50		6		1		npc\clone\clone004\EventNpcClone004504.lua		
+EventNpcClone004505	EventNpc	粮草检测NPC	npc\fbmac004012	202	4	8		6		1				
+EventNpcClone004506	EventNpc	鸿门宴触发NPC1	npc\fbmac004012	202	4	8		6		1				
+EventNpcClone004507	EventNpc	鸿门宴触发NPC2	npc\fbmac004012	202	4	8		6		1				
+EventNpcClone004508	EventNpc	创建骑兵队长	npc\fbmac004012	202	4	8		6		1		npc\clone\clone004\EventNpcClone004508.lua		
+EventNpcClone004509	EventNpc	创建步兵队长	npc\fbmac004012	202	4	8		6		1		npc\clone\clone004\EventNpcClone004509.lua		
+EventNpcClone004510	EventNpc	蛇谷检测	npc\fbmac004012	202	4	8		6		1				
+EventNpcClone004511	EventNpc	大峪沟检测	npc\fbmac004012	202	4	8		6		1				
+EventNpcClone004512	EventNpc	鞑靼骑兵表现触发	npc\fbmac004012	202	4	50		6		1		npc\clone\clone004\EventNpcClone004512.lua		
+EventNpcClone004513	EventNpc	暗影洞前检测NPC	npc\fbmac004012	202	4	8		6		1		npc\clone\clone004\EventNpcClone004513.lua		
+EventNpcClone004514	EventNpc	粮草车队终点	npc\fbmac004012	202	4	8		6		1		npc\clone\clone004\EventNpcClone004514.lua		
+EventNpcClone004515	EventNpc	雁门关前门逃难农民判断	npc\fbmac004012	202	4	8		6		1		npc\clone\clone004\EventNpcClone004515.lua		
+EventNpcClone004516	EventNpc	完颜拉索检测	npc\fbmac004012	202	4	8		6		1				
+														
+EventNpcClone003001	EventNpc	沙滩救村民	npc\worldnpc140	47	4	8				1				
+EventNpcClone003002	EventNpc	燃烧的房子	npc\worldnpc140	47	4	8				1				
+EventNpcClone003003	EventNpc	祠堂动画触发	npc\worldnpc140	47	4	8				1				
+EventNpcClone003004	EventNpc	赵子亟死	npc\worldnpc140	47	4	10				1				
+EventNpcClone003005	EventNpc	赵子亟没死	npc\worldnpc140	47	4	10				1				
+EventNpcClone003006	EventNpc	宇文绝动画	npc\worldnpc140	47	4	4				1				
+EventNpc_mskn01	EventNpc	进入苏州分组场景	npc\itemnpc057e	47	4	5		6		1		npc\clone\clone003\EventNpc_qy_jinru.lua	10299	
+EventNpc_mskn02	EventNpc	离开苏州分组场景	npc\itemnpc057e	47	4	20		6		1		npc\clone\clone003\EventNpc_qy_likai.lua		
+														
+EventNpcClone005001	EventNpc	触发石门开启	npc\worldnpc140	47	4	8				1				
+EventNpcClone005002	EventNpc	铜人区香炉刷怪	npc\worldnpc140	47	4	8				1				
+EventNpcClone005003	EventNpc	活动地板刷怪	npc\worldnpc140	47	4	8				1				
+EventNpcClone005004	EventNpc	触发疯人出现	npc\worldnpc140	47	4	8				1				
+EventNpcClone005005	EventNpc	迷宫触发动画	npc\worldnpc140	47	4	8				1				
+EventNpcClone005006	EventNpc	触发盗墓贼刷新	npc\worldnpc140	47	4	8				1				
+EventNpcClone005007	EventNpc		npc\worldnpc140	47	4	8				1				
+EventNpcClone005008	EventNpc	隐藏恢复BOSS刷新	npc\worldnpc140	47	4	38				1				
+EventNpcClone005009	EventNpc	隐藏恢复BOSS刷新	npc\worldnpc140	47	4	4		6		1		npc\clone\clone005\EventNpc_for_guide.lua		
+EventNpcClone005010	EventNpc	禅院进门触发动画	npc\worldnpc140	47	4	18				1				
+EventNpcClone005011	EventNpc	木人觉处触发动画	npc\worldnpc140	47	4	10				1				
+EventNpcClone005012	EventNpc		npc\worldnpc140	47	4	10				1				
+EventNpcClone005013	EventNpc		npc\worldnpc140	47	4	10				1				
+EventNpcClone005014	EventNpc		npc\worldnpc140	47	4	10				1				
+EventNpcClone005015	EventNpc		npc\worldnpc140	47	4	10				1				
+EventNpcClone005016	EventNpc		npc\worldnpc140	47	4	10				1				
+EventNpcClone005017	EventNpc		npc\worldnpc140	47	4	10				1				
+EventNpcClone005018	EventNpc		npc\worldnpc140	47	4	10				1				
+EventNpcClone005019	EventNpc		npc\worldnpc140	47	4	10				1				
+EventNpcClone005020	EventNpc	木人桩玩法触发动画	npc\worldnpc140	47	4	10				1				
+EventNpcClone005021	EventNpc		npc\worldnpc140	47	4	10				1				
+EventNpcClone005022	EventNpc		npc\worldnpc140	47	4	10				1				
+EventNpcClone005023	EventNpc		npc\worldnpc140	47	4	10				1				
+EventNpcClone005024	EventNpc		npc\worldnpc140	47	4	10				1				
+EventNpcClone005025	EventNpc		npc\worldnpc140	47	4	10				1				
+EventNpcClone005026	EventNpc		npc\worldnpc140	47	4	10				1				
+EventNpcClone005027	EventNpc	木桩水道swich	npc\worldnpc140	47	4	10				1				
+EventNpcClone005028	EventNpc	地狱模式泥沼触发npc	npc\worldnpc140	47	4	2				1				
+EventNpcClone005029	EventNpc	可用触发npc	npc\worldnpc140	47	4	10				1				
+EventNpcClone005030	EventNpc	可用触发npc	npc\worldnpc140	47	4	10				1				
+EventNpcClone005031	EventNpc	可用触发npc	npc\worldnpc140	47	4	10				1				
+EventNpcClone005032	EventNpc	困难地狱动画触发npc	npc\worldnpc140	47	4	10				1				
+														
+														
+EventNpcClone019001	EventNpc	进入鬼使领地检测NPC	npc\cj_101007	47	4	8				1				
+EventNpcClone019002	EventNpc	毒使提示检测NPC	npc\cj_101007	47	4	8				1				
+EventNpcClone019003	EventNpc	蛊使领地检测NPC	npc\cj_101007	47	4	8				1				
+EventNpcClone019004	EventNpc	第一次进入场景播剧情	npc\cj_101007	47	4	10				1				
+EventNpcClone019006	EventNpc	尸使检测NPC	npc\cj_101007	47	4	8				1				
+EventNpcClone019007	EventNpc	佛使检测NPC	npc\cj_101007	47	4	8				1				
+EventNpcClone019008	EventNpc	修罗殿检测NPC1	npc\cj_101007	47	4	8				1				
+EventNpcClone019009	EventNpc	修罗殿检测NPC2	npc\cj_101007	47	4	8				1				
+EventNpcClone019010	EventNpc	2092任务检测NPC	npc\cj_101007	47	4	10		6		1		npc\clone\clone019\task2902_triggernpc.lua		
+EventNpcClone019011	EventNpc	毒使通道花粉buff检测	npc\cj_101008	47	4	20				1				
+EventNpcClone019012	EventNpc	火球终点检测	npc\cj_101007	47	4	4.5				1				
+EventNpcClone019013	EventNpc	毒使通道标记buff增加	npc\cj_101008	47	4	15				1				
+EventNpcClone019014	EventNpc	毒使通道标记buff删除	npc\cj_101009	47	4	20				1				
+EventNpcClone019015	EventNpc		npc\cj_101009	47	4	20				1				
+EventNpcClone019016	EventNpc	蛊使通道检测npc2	npc\cj_101009	47	4	20				1				
+EventNpcClone019017	EventNpc		npc\cj_101009	47	4	20				1				
+EventNpcClone019018	EventNpc	蛊使通道检测npc4	npc\cj_101009	47	4	12				1				
+EventNpcClone019019	EventNpc	修罗殿检测npc停止寻路	npc\cj_101009	47	4	12				1				
+EventNpcClone019020	EventNpc	火buff增加	npc\cj_101008	47	4	15				1				
+EventNpcClone019021	EventNpc	火buff删除	npc\cj_101009	47	4	20				1				
+EventNpcClone019022	EventNpc	冰buff增加	npc\cj_101008	47	4	15				1				
+EventNpcClone019023	EventNpc	冰buff删除	npc\cj_101009	47	4	20				1				
+EventNpcClone019024	EventNpc	单冲说话检测点	npc\cj_101009	47	4	4				1				
+EventNpcClone019025	EventNpc	检测机关是否开启	npc\cj_101009	47	4	10		6		1		npc\clone\clone019\EventNpcClone019025.lua		522
+EventNpcClone019026	EventNpc	鬼使战结束检测	npc\cj_101009	47	4	4		6		1				
+EventNpcClone019027	EventNpc	尸使通道触发检测1	npc\cj_101009	47	4	16		6		1				
+EventNpcClone019028	EventNpc	尸使通道触发检测2	npc\cj_101009	47	4	16		6		1				
+EventNpcClone019029	EventNpc	尸使通道触发检测3	npc\cj_101009	47	4	16		6		1				
+EventNpcClone019030	EventNpc	鬼使出现检测	npc\cj_101009	47	4	4				1				
+EventNpcClone019031	EventNpc	灼热提示触发检测	npc\cj_101009	47	4	6				1				
+EventNpcClone019034	EventNpc	寒冰提示触发检测	npc\cj_101009	47	4	6				1				
+EventNpcClone019035	EventNpc	突袭士兵	npc\cj_101009	47	4	6				1				
+EventNpcClone019036	EventNpc	进入分组场景	npc\cj_101009	47	4	10		6		1		npc\clone\clone019\EventNpcClone019036.lua		
+EventNpcClone019037	EventNpc	出分组场景	npc\cj_101009	47	4	10		6		1		npc\clone\clone019\EventNpcClone019037.lua		
+EventNpcClone019038	EventNpc	触发动画	npc\cj_101009	47	4	10		6		1		npc\clone\clone019\EventNpcClone019038.lua		
+EventNpcClone019039	EventNpc	改变势力触发1	npc\cj_101009	47	4	10				1				
+EventNpcClone019040	EventNpc	改变势力触发2	npc\cj_101009	47	4	10				1				
+EventNpcClone019041	EventNpc	水库宝箱触发	npc\cj_101009	47	4	2				1				
+EventNpcClone019042	EventNpc	恩仇传送	npc\cj_101009	47	4	2				1				
+EventNpcClone019050	EventNpc	水洞	npc\cj_101009	47	4	10				1				
+EventNpcClone019051	EventNpc	石柱1	npc\cj_101009	202	4	3				1				
+EventNpcClone019052	EventNpc	石柱2	npc\cj_101009	202	4	1				1				
+EventNpcClone019053	EventNpc	石柱3	npc\cj_101009	202	4	1				1				
+EventNpcClone019054	EventNpc	石柱4	npc\cj_101009	202	4	1				1				
+EventNpcClone019055	EventNpc	石柱4	npc\cj_101009	202	4	2				1				
+EventNpcClone019056	EventNpc	密道计数器触发	npc\cj_101009	202	4	2				1				
+														
+														
+														
+														
+TriggerNpcClone013004	EventNpc	绝情针	npc\fbmac013019f	202	4	5				1				
+TriggerNpcClone013005	EventNpc	油灯毒雾	npc\fbmac013019f	202	4	5				1				
+TriggerNpcClone013007	EventNpc	唐青进分组场景触发NPC	npc\fbmac013019f	202	4	20		6		1		npc\clone\clone013\TriggerNpcClone013007.lua		
+TriggerNpcClone013008	EventNpc	唐青出分组场景触发NPC	npc\fbmac013019f	202	4	22		6		1		npc\clone\clone013\TriggerNpcClone013008.lua		
+TriggerNpcClone013009	EventNpc	检测创建唐青触发NPC	npc\fbmac013019f	202	4	10		6		1		npc\clone\clone013\TriggerNpcClone013009.lua		
+TriggerNpcClone013010	EventNpc	囚牢进分组场景触发NPC	npc\fbmac013019f	202	4	20		6		1		npc\clone\clone013\TriggerNpcClone013010.lua		
+TriggerNpcClone013011	EventNpc	囚牢出分组场景触发NPC	npc\fbmac013019f	202	4	22		6		1		npc\clone\clone013\TriggerNpcClone013011.lua		
+														
+EventNpcClone013000	EventNpc	万毒宫进入副本触发NPC	npc\itemnpc057	202	4	10				1				
+EventNpcClone013001	EventNpc	万毒宫副本唐青剧情事件触发763	npc\itemnpc057	202	4	30				1				
+EventNpcClone013002	EventNpc	万毒宫副本唐蓝剧情事件触发764	npc\itemnpc057	202	4	5				1				
+EventNpcClone013003	EventNpc	万毒宫副本事件触发NPC3	npc\itemnpc057	202	4	10				1				
+EventNpcClone013004	EventNpc	万毒宫副本事件触发NPC4	npc\itemnpc057	202	4	10				1				
+EventNpcClone013005	EventNpc	万毒宫副本事件触发NPC5	npc\itemnpc057	202	4	10				1				
+EventNpcClone013006	EventNpc	万毒宫副本事件触发NPC6	npc\itemnpc057	202	4	10				1				
+EventNpcClone013007	EventNpc	九折迷宫大门触发	npc\itemnpc057	202	4	20				1				
+EventNpcClone013008	EventNpc	天宫宝箱怪物删除NPC	npc\itemnpc057	202	4	3				1				
+														
+EventNpcClone013011	EventNpc	下山调查触发npc	npc\fbmac00515	47	4	8		6		1				
+EventNpcClone013012	EventNpc	唐门暗哨2触发npc	npc\fbmac00515	47	4	8		6		1				
+EventNpcClone013013	EventNpc	唐门暗哨3触发npc	npc\fbmac00515	47	4	8		6		1				
+EventNpcClone013025	EventNpc	弟子房提示	npc\fbmac013019f	202	4	3				1				
+EventNpcClone013026	EventNpc	九折门前提示	npc\fbmac013019f	202	4	3				1				
+EventNpcClone013024	EventNpc	花海提示	npc\fbmac013019f	202	4	3				1				
+EventNpcClone013018	EventNpc	回廊处提示	npc\fbmac013019f	202	4	3				1				
+EventNpcClone013019	EventNpc	乾宫提示	npc\fbmac013019f	202	4	2				1				
+EventNpcClone013020	EventNpc	九折迷宫剧情事件触发771	npc\itemnpc057	202	4	5				1				
+EventNpcClone013021	EventNpc	陷害唐蓝剧情事件触发776	npc\itemnpc057	202	4	5		6		1		npc\clone\clone013\EventNpcClone013021.lua		
+EventNpcClone013022	EventNpc	结束副本剧情事件触发778	npc\itemnpc057	202	4	5		6		1		npc\clone\clone013\EventNpcClone013022.lua		
+EventNpcClone013023	EventNpc	唐门恩仇（简单）	npc\itemnpc057	202	4	5		6		1		npc\clone\clone013\EventNpcClone013023.lua		
+EventNpcClone013099	EventNpc	唐门九宫八卦阵检测范围	npc\worldnpc140	202	4	4		6		1				
+														
+														
+														
+														
+														
+EventNpcClone015001	EventNpc	亲情动画触发NPC	npc\fbmac004012	202	4	10		6						
+EventNpcClone015002	EventNpc	受伤动画触发NPC	npc\fbmac004012	202	4	10		6						
+EventNpcClone015003	EventNpc	神秘人动画触发NPC	npc\fbmac004012	202	4	10		6						
+EventNpcClone015004	EventNpc	沈公墓动画触发NPC	npc\fbmac004012	202	4	10		6						
+EventNpcClone015005	EventNpc	传送管家触发NPC	npc\fbmac004012	202	4	3		6						
+EventNpcClone015006	EventNpc	触发NPC6（瑶光塔传送NPC）	npc\fbmac004012	202	4	7		6						
+EventNpcClone015007	EventNpc	触发NPC7	npc\fbmac004012	202	4	10		6						
+EventNpcClone015008	EventNpc	触发NPC8	npc\fbmac004012	202	4	10		6						
+EventNpcClone015009	EventNpc	触发NPC9	npc\fbmac004012	202	4	10		6						
+EventNpcClone015010	EventNpc	进副本荷塘触发NPC	npc\fbmac004012	202	4	10		6						
+EventNpcClone015011	EventNpc	酒窖出触发NPC	npc\fbmac004012	202	4	1		6						
+EventNpcClone015012	EventNpc	酒窖进触发NPC	npc\fbmac004012	202	4	1		6						
+EventNpcClone015013	EventNpc	触发NPC13	npc\fbmac004012	202	4	10		6						
+EventNpcClone015014	EventNpc	触发NPC14	npc\fbmac004012	202	4	10		6						
+EventNpcClone015015	EventNpc	BOSS战酒坛1	npc\itemnpc001	47	4	2		6		0				216
+EventNpcClone015016	EventNpc	BOSS战酒坛2	npc\itemnpc001	47	4	2		6		0				217
+EventNpcClone015017	EventNpc	BOSS战酒坛3	npc\itemnpc001	47	4	2		6		0				218
+EventNpcClone015018	EventNpc	地球光效	npc\fbmac015027	202	4			6						
+EventNpcClone015019	EventNpc	太阳	npc\fbmac015027	202	4			6		0				
+EventNpcClone015020	EventNpc	月亮	npc\fbmac015027	202	4			6		0				
+EventNpcClone015031	EventNpc	触发NPC31	npc\fbmac004012	47	4	5		6						
+EventNpcClone015032	EventNpc	触发NPC32	npc\fbmac004012	47	4			6						
+EventNpcClone015171	EventNpc	江行初雪图	npc\fbmac004012	202	4	10		6		1				
+EventNpcClone015172	EventNpc	春暖花开	npc\fbmac004012	202	4	10		6		1				
+EventNpcClone015173	EventNpc	百花争艳	npc\fbmac004012	202	4	10		6		1				
+EventNpcClone015174	EventNpc	百毒心经	npc\fbmac004012	202	4	10		6		1				
+EventNpcClone015175	EventNpc	星火燎原	npc\fbmac004012	202	4	10		6		1				
+														
+														
+EventNpcClone021001	EventNpc	地下客房触发NPC1	npc\itemnpc057e	47	4	5				1				
+EventNpcClone021002	EventNpc	地下客房触发NPC2	npc\itemnpc057e	47	4	5				1				
+EventNpcClone021003	EventNpc	地下客房触发NPC3	npc\itemnpc057e	47	4	2				1				
+EventNpcClone021004	EventNpc	地下书房门触发NPC	npc\itemnpc057e	47	4	2				1				
+EventNpcClone021005	EventNpc	地下大殿前广场动画触发NPC	npc\itemnpc057e	47	4	20				1				
+EventNpcClone021006	EventNpc	炼金室剧情动画播放NPC	npc\itemnpc057e	47	4	10				1				
+EventNpcClone021007	EventNpc	机关龙使用道具触发NPC	npc\itemnpc057e	47	4	7				1				
+EventNpcClone021008	EventNpc	删除哑女1	npc\itemnpc057e	47	4	2				1				
+EventNpcClone021009	EventNpc	大火球爆炸NPC	npc\itemnpc057e	47	4	2				1				
+EventNpcClone021010	EventNpc	火球路径触发点1	npc\itemnpc057e	47	4	0.5				1				
+EventNpcClone021011	EventNpc	火球路径触发点2	npc\itemnpc057e	47	4	0.5				1				
+EventNpcClone021012	EventNpc	火球路径触发点3	npc\itemnpc057e	47	4	0.5				1				
+EventNpcClone021013	EventNpc	火球路径触发点4	npc\itemnpc057e	47	4	0.5				1				
+EventNpcClone021014	EventNpc	火球路径触发点5	npc\itemnpc057e	47	4	0.5				1				
+EventNpcClone021015	EventNpc	火球路径触发点6	npc\itemnpc057e	47	4	1				1				
+EventNpcClone021016	EventNpc	火球路径触发点7	npc\itemnpc057e	47	4	2				1				
+EventNpcClone021017	EventNpc	哑女2启动寻路点	npc\itemnpc057e	47	4	2				1				
+EventNpcClone021018	EventNpc	哑女2停止寻路点	npc\itemnpc057e	47	4	2				1				
+EventNpcClone021019	EventNpc	火球路径触发点10	npc\itemnpc057e	47	4	2				1				
+EventNpcClone021020	EventNpc	洛阳徐先生	npc\itemnpc057e	47	4	50				1		npc\clone\clone021\EventNpcClone021020.lua		
+														
+														
+	//奇遇投放触发NPC													
+Eventbook_qinggong_7_1	EventNpc	熏香使用检测	npc\itemnpc057e	47	4	50		6		1				
+Event_ng_book_jz_005_1	EventNpc	奇遇触发灵符检测	npc\itemnpc057e	47	4	20		6		1		npc\clone\adventureNPC\Event_ng_book_jz_005_1.lua		
+Event_ng_book_jz_005_2	EventNpc	进95号场景播动画检测	npc\itemnpc057e	47	4	10		6		1		npc\clone\adventureNPC\Event_ng_book_jz_005_2.lua		
+Event_ng_book_jz_005_3	EventNpc	进入劫匪分组场景19	npc\itemnpc057e	47	4	50		6		1		npc\clone\adventureNPC\Event_ng_book_jz_005_3.lua	10248	
+Event_ng_book_jz_005_4	EventNpc	场景19返回大世界检测	npc\itemnpc057e	47	4	52		6		1		npc\clone\adventureNPC\Event_ng_book_jz_005_4.lua		
+														
+EventNpcClone01101	EventNpc	黑心商贩触发任务	npc\fbnpc021021	47	4	20		2	6006	1				
+EventNpc_ec_Clone00101	EventNpc	密室奇遇触发任务	npc\itemnpc057e	47	4	20		6		1				
+														
+EventNpc_qy_tangmen015_1	EventNpc	唐门奇遇21号分组场景进	npc\itemnpc057e	47	4	18		6		1		npc\clone\CJ\Event_condition.lua	24718	
+EventNpc_qy_tangmen015_2	EventNpc	唐门奇遇21号分组场景出	npc\itemnpc057e	47	4	26		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+														
+EventNpc_qy_tangmen017_1	EventNpc	唐门奇遇22号分组场景进	npc\itemnpc057e	47	4	5		6		1		npc\clone\CJ\EventNpc_qy_tangmen017_1.lua		
+EventNpc_qy_tangmen017_2	EventNpc	唐门奇遇22号分组场景出	npc\itemnpc057e	47	4	20		6		1		npc\clone\CJ\EventNpc_qy_tangmen017_2.lua		
+														
+EventNpc_qy_tangmen030_1	EventNpc	唐门奇遇23号分组场景进（百晓生）	npc\itemnpc057e	47	4	15		6		1		npc\clone\CJ\EventNpc_qy_tangmen030_1.lua		
+EventNpc_qy_tangmen030_2	EventNpc	唐门奇遇23号分组场景出（百晓生）	npc\itemnpc057e	47	4	22		6		1		npc\clone\CJ\EventNpc_qy_tangmen030_2.lua		
+														
+EventNpc_qy_tangmen030_3	EventNpc	唐门奇遇24号分组场景进(回心涧黑衣人)	npc\itemnpc057e	47	4	10		6		1		npc\clone\CJ\EventNpc_qy_tangmen030_3.lua	9923	
+EventNpc_qy_tangmen030_4	EventNpc	唐门奇遇24号分组场景出(回心涧黑衣人)	npc\itemnpc057e	47	4	40		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+														
+EventNpc_qy_tangmen131_1	EventNpc	进入触发NPC	npc\itemnpc057e	47	4	20		6		1		npc\clone\CJ\Event_condition.lua	22429	
+EventNpc_qy_tangmen131_2	EventNpc	出分组场景触发NPC	npc\itemnpc057e	47	4	40		6		1		npc\clone\adventureNPC\Event_ng_book_jz_005_4.lua		
+														
+EventNpc_qy_tangmen7015_1	EventNpc	唐门新增奇遇1分组场景进	npc\itemnpc057e	47	4	20		6		1		npc\clone\CJ\Event_condition.lua		
+EventNpc_qy_tangmen7015_2	EventNpc	唐门新增奇遇1分组场景出	npc\itemnpc057e	47	4	20		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+	EventNpc		npc\itemnpc057e	47	4	20		6		1				
+EventNpc_qy_tangmen7016_1	EventNpc	唐门新增奇遇2分组场景进	npc\itemnpc057e	47	4	20		6		1		Adventure\EventNpc_QY_TM.lua	10278	
+EventNpc_qy_tangmen7016_2	EventNpc	唐门新增奇遇2分组场景出	npc\itemnpc057e	47	4	20		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+	EventNpc		npc\itemnpc057e	47	4	20		6		1				
+EventNpc_qy_tangmen7017_1	EventNpc	唐门新增奇遇3分组场景进	npc\itemnpc057e	47	4	20		6		1		Adventure\EventNpc_QY_TM.lua	10278	
+EventNpc_qy_tangmen7017_2	EventNpc	唐门新增奇遇3分组场景出	npc\itemnpc057e	47	4	20		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+	EventNpc		npc\itemnpc057e	47	4	20		6		1				
+EventNpc_qy_tangmen7018_1	EventNpc	唐门新增奇遇4分组场景进	npc\itemnpc057e	47	4	20		6		1		Adventure\EventNpc_QY_TM.lua	10278	
+EventNpc_qy_tangmen7018_2	EventNpc	唐门新增奇遇4分组场景出	npc\itemnpc057e	47	4	20		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+	EventNpc		npc\itemnpc057e	47	4	20		6		1				
+EventNpc_qy_tangmen7019_1	EventNpc	唐门新增奇遇5分组场景进	npc\itemnpc057e	47	4	20		6		1		npc\clone\CJ\Event_condition.lua		
+EventNpc_qy_tangmen7019_2	EventNpc	唐门新增奇遇5分组场景出	npc\itemnpc057e	47	4	20		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+EventNpc_qy_qyb354_2	EventNpc	青云堡奇遇354分组场景出	npc\itemnpc057e	47	4	40		6		1		Adventure\clone021\EventNpc_qy_qyb354_2.lua		
+EventNpc_qy_qybmafei_1	EventNpc	马斐刷新点1	npc\itemnpc057e	47	4	5		6		1				
+EventNpc_qy_qybmafei_2	EventNpc	马斐刷新点2	npc\itemnpc057e	47	4	5		6		1				
+EventNpc_qy_qybmafei_3	EventNpc	马斐刷新点3	npc\itemnpc057e	47	4	5		6		1				
+														
+EventNpc_qy_tangmen7050_1	EventNpc	唐门3内奇遇分组场景进	npc\itemnpc057e	47	4	8		6		1		npc\clone\CJ\Event_condition.lua	23288	
+EventNpc_qy_tangmen7050_2	EventNpc	唐门3内奇遇分组场景出	npc\itemnpc057e	47	4	13		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+														
+EventNpc_qy_tangmen7051_1	EventNpc	唐门3内奇遇分组场景进	npc\itemnpc057e	47	4	6		6		1		npc\clone\CJ\Event_condition.lua	23287	
+EventNpc_qy_tangmen7051_2	EventNpc	唐门3内奇遇分组场景出	npc\itemnpc057e	47	4	10		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+								6		1				
+EventNpc_qy_tangmen7052_1	EventNpc	唐门3内奇遇分组场景进	npc\itemnpc057e	47	4	6		6		1		npc\clone\CJ\Event_condition.lua	23286	
+EventNpc_qy_tangmen7052_2	EventNpc	唐门3内奇遇分组场景出	npc\itemnpc057e	47	4	12		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+														
+EventNpc_qy_tangmen7061_1	EventNpc	唐门3内奇遇疾风谷进	npc\itemnpc057e	47	4	15		6		1		npc\clone\CJ\Event_condition.lua	23786	
+EventNpc_qy_tangmen7061_2	EventNpc	唐门3内奇遇分组场景出	npc\itemnpc057e	47	4	25		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+														
+EventNpc_qy_tangmen7062_1	EventNpc	唐门3内奇遇成都进密室分组场景进	npc\itemnpc057e	47	4	10		6		1		npc\clone\CJ\Event_condition.lua	23378	
+EventNpc_qy_tangmen7062_2	EventNpc	唐门3内奇遇成都进密室分组场景出	npc\itemnpc057e	47	4	15		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+														
+EventNpc_qy_tangmen_task18214	EventNpc	唐门3内奇遇任务	npc\itemnpc057e	47	4	3		2	18214	1	1			
+														
+EventNpc_qy_tangmen_task18223	EventNpc	唐门3内奇遇任务	npc\itemnpc057e	47	4	3		2	18223	1	1			
+EventNpc_qy_tangmen7065_1	EventNpc	唐门3内奇遇分组场景进	npc\itemnpc057e	47	4	20		6		1		Adventure\tm\EventNpc_qy_tangmen7065_1.lua	14676	
+EventNpc_qy_tangmen7065_2	EventNpc	唐门3内奇遇分组场景出	npc\itemnpc057e	47	4	60		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+														
+EventNpc_qy_tangmen7066_1	EventNpc	唐门3内奇遇分组场景进	npc\itemnpc057e	47	4	30		6		1		npc\clone\CJ\Event_condition.lua	23553	
+EventNpc_qy_tangmen7066_2	EventNpc	唐门3内奇遇分组场景出	npc\itemnpc057e	47	4	70		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+														
+EventNpc_qy_120501_tangmen_betrayer	EventNpc	唐门3内奇遇分组场景进	npc\itemnpc057e	47	4	15		6		1		Adventure\tm\EventNpc_qy_120501_tangmen_betrayer.lua	23551	
+														
+EventNpc_qy_tangmen7068_1	EventNpc	暗线成都卧底与唐芸交谈进	npc\itemnpc057e	47	4	10		6		1		npc\clone\CJ\Event_condition.lua	23499	
+EventNpc_qy_tangmen7068_2	EventNpc	暗线成都卧底与唐芸交谈出	npc\itemnpc057e	47	4	20		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+														
+EventNpc_qy_tangmen7069_1	EventNpc	暗线丐帮与唐芸会合进	npc\itemnpc057e	47	4	12		6		1		Adventure\tm\EventNpc_qy_tangmen7069_1.lua	23458	
+EventNpc_qy_tangmen7069_2	EventNpc	暗线丐帮与唐芸会合出	npc\itemnpc057e	47	4	20		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+														
+EventNpc_qy_tangmen7070_1	EventNpc	暗线丐帮刺杀场景进	npc\itemnpc057e	47	4	30		6		1		npc\clone\CJ\Event_condition.lua	11148	
+EventNpc_qy_tangmen7070_2	EventNpc	暗线丐帮刺杀场景出	npc\itemnpc057e	47	4	70		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+														
+EventNpc_qy_tangmen7071_1	EventNpc	暗线丐帮唐芸逃离进	npc\itemnpc057e	47	4	12		6		1		npc\clone\CJ\Event_condition.lua	11148	
+EventNpc_qy_tangmen7071_2	EventNpc	暗线丐帮唐芸逃离出	npc\itemnpc057e	47	4	20		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+														
+EventNpc_qy_tangmen7072_1	EventNpc	暗线唐门卧底与唐芸会合进	npc\itemnpc057e	47	4	12		6		1		npc\clone\CJ\Event_condition.lua	23549	
+EventNpc_qy_tangmen7072_2	EventNpc	暗线唐门卧底与唐芸会合出	npc\itemnpc057e	47	4	20		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+														
+EventNpc_qy_tangmen7073_1	EventNpc	暗线唐门正门高潮进	npc\itemnpc057e	47	4	20		6		1		Adventure\tm\EventNpc_qy_tangmen7073_1.lua	14675	
+EventNpc_qy_tangmen7073_2	EventNpc	暗线唐门正门高潮出	npc\itemnpc057e	47	4	60		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+														
+EventNpc_qy_tangmen_end	EventNpc	唐门3内孔雀山庄	npc\itemnpc057e	47	4	30		6		1		Adventure\tm\EventNpc_qy_tangmen_end.lua	23369	
+														
+														
+EventNpc_qy_001	EventNpc	千灯镇跑路NPC	npc\itemnpc057e	47	4	5		6		1		Adventure\EventNpc_qy_001.lua		
+EventNpc_qy_002	EventNpc	恶人谷触发NPC1	npc\itemnpc057e	47	4	5		6		1		Adventure\EventNpc_qy_002.lua	820	
+EventNpc_qy_003	EventNpc	恶人谷触发NPC2	npc\itemnpc057e	47	4	5		6		1		Adventure\EventNpc_qy_003.lua		
+EventNpc_qy_004	EventNpc	烟雨庄触发NPC1	npc\itemnpc057e	47	4	5		6		1		Adventure\EventNpc_qy_004.lua	820	
+EventNpc_qy_005	EventNpc	烟雨庄触发NPC2	npc\itemnpc057e	47	4	5		6		1		Adventure\EventNpc_qy_005.lua		
+EventNpc_qy_006	EventNpc	漠河镇触发NPC1	npc\itemnpc057e	47	4	5		6		1		Adventure\EventNpc_qy_006.lua	820	
+EventNpc_qy_007	EventNpc	漠河镇触发NPC2	npc\itemnpc057e	47	4	5		6		1		Adventure\EventNpc_qy_007.lua		
+														
+EventNpc_qy_tangmen001	EventNpc	判定任务	npc\itemnpc057e	47	4	15		6	18204	1		npc\clone\CJ\EventNpc_qy_tangmen001.lua		
+EventNpc_qy_tangmen002	EventNpc	自动承接任务	npc\itemnpc057e	47	4	15		6	18203	1		npc\clone\CJ\EventNpc_qy_tangmen002.lua		
+														
+														
+														
+EventNpc_qy_jilegu020_1	EventNpc	极乐谷奇遇20最后结局	npc\itemnpc057e	47	4	18		6				npc\clone\CJ\EventNpc_qy_jilegu020_1.lua		
+														
+EventNpc_qy_qiandengzhen0018_1	EventNpc	千灯镇奇遇分组场景进	npc\itemnpc057e	47	4	20		6		1		npc\clone\CJ\EventNpc_qy_qiandengzhen0018_1.lua	22461	
+EventNpc_qy_qiandengzhen0018_2	EventNpc	千灯镇奇遇分组场景出	npc\itemnpc057e	47	4	25		6		1		npc\clone\CJ\EventNpc_qy_qiandengzhen0018_2.lua		
+EventNpc_qy_qdz0019_1	EventNpc	千灯镇奇遇分组场景出	npc\itemnpc057e	47	4	30		6		1		npc\clone\CJ\Event_condition.lua	10447	
+EventNpc_qy_qdz0019_2	EventNpc	千灯镇奇遇分组场景出	npc\itemnpc057e	47	4	35		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+														
+EventNpc_qy_em028_1	EventNpc	峨眉奇遇28号分组场景进	npc\itemnpc057e	47	4	9		6		1		npc\clone\CJ\Event_condition.lua	9524	
+EventNpc_qy_em028_2	EventNpc	峨眉奇遇28号分组场景出	npc\itemnpc057e	47	4	15		6		1		npc\clone\adventureNPC\Event_ng_book_jz_005_4.lua		
+														
+EventNpc_qy_em030_1	EventNpc	峨眉奇遇30号分组场景进	npc\itemnpc057e	47	4	5		6		1		npc\clone\CJ\Event_condition.lua	9547	
+EventNpc_qy_em030_2	EventNpc	峨眉奇遇30号分组场景出	npc\itemnpc057e	47	4	30		6		1		npc\clone\adventureNPC\Event_ng_book_jz_005_4.lua		
+														
+EventNpc_qy_em031_1	EventNpc	峨眉奇遇31号分组场景进	npc\itemnpc057e	47	4	40		6		1		npc\clone\CJ\Event_condition.lua	9501	
+EventNpc_qy_em031_2	EventNpc	峨眉奇遇31号分组场景出	npc\itemnpc057e	47	4	60		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+														
+EventNpc_qy_em032_1	EventNpc	峨眉奇遇32号分组场景进	npc\itemnpc057e	47	4	40		6		1		npc\clone\CJ\Event_condition.lua	9518	
+EventNpc_qy_em032_2	EventNpc	峨眉奇遇32号分组场景出	npc\itemnpc057e	47	4	60		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+														
+EventNpc_qy_em033_1	EventNpc	峨眉奇遇33号分组场景进	npc\itemnpc057e	47	4	40		6		1		npc\clone\CJ\Event_condition.lua	9519	
+EventNpc_qy_em033_2	EventNpc	峨眉奇遇33号分组场景出	npc\itemnpc057e	47	4	60		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+														
+EventNpc_qy_em034_1	EventNpc	峨眉奇遇34号分组场景进	npc\itemnpc057e	47	4	40		6		1		npc\clone\CJ\Event_condition.lua	9517	
+EventNpc_qy_em034_2	EventNpc	峨眉奇遇34号分组场景出	npc\itemnpc057e	47	4	60		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+EventNpc_qy_em035	EventNpc	峨眉3内奇遇18421触发动画	npc\itemnpc057e	47	4	20	5851	4	18421	1				
+EventNpc_qy_em036_1	EventNpc	峨眉3内奇遇18430进分组场景	npc\itemnpc057e	47	4	15		6		1		npc\clone\CJ\Event_condition.lua	14565	
+EventNpc_qy_em036_2	EventNpc	峨眉3内奇遇18430出分组场景	npc\itemnpc057e	47	4	20		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+EventNpc_qy_em038	EventNpc	峨眉3内奇遇18432触发动画	npc\itemnpc057e	47	4	20	5860	4	18432	1				
+EventNpc_qy_em039	EventNpc	峨眉3内奇遇18435触发动画	npc\itemnpc057e	47	4	20	5861	4	18435	1				
+EventNpc_qy_em040	EventNpc	峨眉3内奇遇18436触发动画	npc\itemnpc057e	47	4	20	5862	4	18436	1				
+EventNpc_task18471	EventNpc	峨眉3内奇遇18471府衙门口触发NPC	npc\itemnpc057	47	4	5		6		1		Adventure\em3n\EventNpc_task18471.lua	14473	
+EventNpc_task18472	EventNpc	峨眉3内奇遇18472野外分组场景触发NPC（组队）	npc\itemnpc057	47	4	20		6		1		Adventure\em3n\EventNpc_task18472.lua	14474	
+EventNpc_task18473	EventNpc	峨眉3内奇遇小场景传送NPC	npc\itemnpc057	47	4	5		6		1		Adventure\em3n\EventNpc_task18473.lua	14475	
+EventNpc_em3n_yewai_in	EventNpc	峨眉3内奇遇18472野外分组场景触发NPC（组队）	npc\itemnpc057	47	4	30		6		1		Adventure\em3n\EventNpc_em3n_yewai_in.lua	14474	
+EventNpc_em3n_yewai_out	EventNpc	峨眉3内奇遇小场景传送NPC	npc\itemnpc057	47	4	40		6		1		Adventure\em3n\EventNpc_em3n_yewai_out.lua		
+EventNpc_em3n_shandong_in	EventNpc	峨眉3内奇遇18473野外分组场景触发NPC（组队）	npc\itemnpc057	47	4	5		6		1		Adventure\em3n\EventNpc_em3n_shandong_in.lua	14475	
+EventNpc_em3n_shandong_out	EventNpc	峨眉3内奇遇18473野外分组场景触发NPC（组队）	npc\itemnpc057	47	4	50		6		1		Adventure\em3n\EventNpc_em3n_shandong_out.lua		
+EventNpc_qygp_tjq_out	EventNpc	玄音洞出口	npc\itemnpc057	47	4	50		6		1		Adventure\em3n\EventNpc_em3n_shandong_out.lua		
+EventNpc_qy_em7086_02	EventNpc	峨眉3内故事1出7086分组场景	npc\itemnpc057e	47	4	40		6		1		Adventure\em3n\EventNpc_qy_em7086_02.lua		
+EventNpc_qy_em7087_01	EventNpc	峨眉3内故事1进7087分组场景	npc\itemnpc057e	47	4	5		6		1		Adventure\em3n\EventNpc_qy_em7087_01.lua	14480	
+EventNpc_qy_em7087_02	EventNpc	峨眉3内故事1出7088分组场景	npc\itemnpc057e	47	4	40		6		1		Adventure\em3n\EventNpc_qy_em7086_02.lua		
+														
+EventNpc_qy_em041	EventNpc	峨眉3内支线5	npc\itemnpc057e	47	4	20		6		1		Adventure\cd\EventNpc_qy_em041.lua	14590	
+EventNpc_qy_em7086_01	EventNpc	峨眉3内故事1进7086分组场景	npc\itemnpc057e	47	4	5		6		1		Adventure\em3n\EventNpc_qy_em7086_01.lua	23550	
+EventNpc_qy_em18403	EventNpc	绝音师太处动画	npc\itemnpc057e	47	4	40	5106	4	18403	1				
+EventNpc_qy_em18406	EventNpc	赵大璟图谋不轨动画	npc\itemnpc057e	47	4	40	5107	4	18406	1				
+														
+EventNpc_qy_luoyang_05	EventNpc	洛阳奇遇38号分组场景动画触发	npc\itemnpc057e	202	4	10		6		1		Adventure\ly\EventNpc_qy_luoyang_05.lua		
+EventNpc_qy_luoyang_00	EventNpc	洛阳奇遇37号创建遗书	npc\itemnpc057e	47	4	20		6		1		Adventure\ly\EventNpc_qy_luoyang_00.lua		
+EventNpc_qy_luoyang_01	EventNpc	洛阳奇遇37号分组场景进	npc\itemnpc057	202	4	8		6		0		Adventure\ly\EventNpc_qy_luoyang_01.lua		
+EventNpc_qy_luoyang_02	EventNpc	洛阳奇遇37号分组场景出	npc\itemnpc057	202	4	10		6		0		Adventure\yd\EventNpc_qy_yd_02.lua		
+EventNpc_qy_luoyang_03	EventNpc	洛阳奇遇38号分组场景进	npc\itemnpc057	202	4	50		6		0		Adventure\ly\EventNpc_qy_luoyang_03.lua		
+EventNpc_qy_luoyang_04	EventNpc	洛阳奇遇38号分组场景出	npc\itemnpc057	202	4	60		6		0		Adventure\yd\EventNpc_qy_yd_02.lua		
+EventNpc_qy_luoyang_indoor	EventNpc	洛阳奇遇进入62号场景传送门	npc\itemnpc057	202	4	5		6		0		Adventure\ly\EventNpc_qy_luoyang_indoor.lua		
+EventNpc_qy_luoyang_indoor2	EventNpc	洛阳奇遇进入63号场景传送门	npc\itemnpc057	202	4	5		6		0		Adventure\ly\EventNpc_qy_luoyang_indoor2.lua		
+EventNpc_qy_yd_01	EventNpc	千灯奇遇新手引导36号分组场景进	npc\itemnpc057	202	4	60		6		0		Adventure\yd\EventNpc_qy_yd_01.lua		
+EventNpc_qy_yd_02	EventNpc	烟雨庄奇遇新手引导48号分组场景进	npc\itemnpc057	202	4	60		6		0		Adventure\yd\EventNpc_qy_yd_02.lua		
+EventNpc_qy_yd_03	EventNpc	成都奇遇新手引导352号分组场景进	npc\itemnpc057	202	4	60		6		0		Adventure\yd\EventNpc_qy_yd_03.lua		
+EventNpc_qy_yd_04	EventNpc	鸡鸣驿奇遇新手引导353号分组场景进	npc\itemnpc057	202	4	60		6		0		Adventure\yd\EventNpc_qy_yd_04.lua		
+EventNpc_qy_yd_indoor	EventNpc	奇遇引导进入传送门（千灯镇）	npc\itemnpc057	202	4	5		6		0		Adventure\yd\EventNpc_qy_yd_indoor.lua	10432	
+EventNpc_yd_yyz_indoor	EventNpc	奇遇引导进入传送门（烟雨庄）	npc\itemnpc057	202	4	5		6		0		Adventure\yd\EventNpc_yd_yyz_indoor.lua	10433	
+EventNpc_yd_cd_indoor	EventNpc	奇遇引导进入传送门（成都）	npc\itemnpc057	202	4	5		6		0		Adventure\yd\EventNpc_qy_cd_indoor.lua	10434	
+EventNpc_yd_jmy_indoor	EventNpc	奇遇引导进入传送门（鸡鸣驿）	npc\itemnpc057	202	4	5		6		0		Adventure\yd\EventNpc_yd_jmy_indoor.lua	10435	
+EventNpc_qy_sz_indoor	EventNpc	苏州奇遇进入传送门	npc\itemnpc057	47	4	10		6		0		npc\clone\CJ\Event_condition.lua	9817	
+EventNpc_qy_sz_outdoor	EventNpc	苏州奇遇出来传送门	npc\itemnpc057	47	4	10		6		0		npc\clone\CJ\EventNpc_qy_sz_outdoor.lua		
+EventNpcClone021021	EventNpc	五行阵触发	npc\itemnpc057e	47	4	20				1				
+EventNpcClone021022	EventNpc		npc\itemnpc057e	47	4	50				1				
+EventNpcClone021023	EventNpc	五行阵剧情触发	npc\itemnpc057e	47	4	20				1				
+EventNpcClone021024	EventNpc	乾	npc\itemnpc057e	47	4	20				1				
+EventNpcClone021025	EventNpc	坤	npc\itemnpc057e	47	4	20				1				
+EventNpcClone021026	EventNpc	离	npc\itemnpc057e	47	4	20				1				
+EventNpcClone021027	EventNpc	兑	npc\itemnpc057e	47	4	20				1				
+EventNpcClone021028	EventNpc	震	npc\itemnpc057e	47	4	20				1				
+EventNpcClone021029	EventNpc	坎	npc\itemnpc057e	47	4	20				1				
+EventNpcClone021030	EventNpc	艮	npc\itemnpc057e	47	4	20				1				
+EventNpcClone021032	EventNpc	巽	npc\itemnpc057e	47	4	20				1				
+EventNpcClone021033	EventNpc	第一关	npc\itemnpc057e	47	4	20				1				
+EventNpcClone021031	EventNpc	鲍梦婕前触发	npc\itemnpc057e	47	4	20				1				
+qy_111030_jilegu_jin_01	EventNpc	极乐谷奇遇40号分组场景进	npc\itemnpc057	47	4	45		6		0		npc\clone\CJ\Event_condition.lua	9891	
+qy_111030_jilegu_chu_01	EventNpc	极乐谷奇遇40号分组场景出	npc\itemnpc057	47	4	49		6		0		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+qy_111030_junzitang_jin_02	EventNpc	分组进君子堂正殿	npc\itemnpc057	47	4	40		6		0		npc\clone\CJ\Event_condition.lua	9931	
+qy_111030_junzitang_chu_02	EventNpc	分组出君子堂正殿	npc\itemnpc057	47	4	49		6		0		Adventure\junzitang\qy_111030_junzitang_chu_02.lua		
+qy_111030_junzitang_jin_03	EventNpc	分组进君子堂试剑台	npc\itemnpc057	47	4	45		6		0		npc\clone\CJ\Event_condition.lua	9940	
+qy_111030_junzitang_chu_03	EventNpc	分组出君子堂试剑台	npc\itemnpc057	47	4	49		6		0		Adventure\junzitang\qy_111030_junzitang_chu_03.lua		
+qy_111030_junzitang_anshao	EventNpc	暗哨	npc\itemnpc057	202	4	5		6		0				
+qy_111031_jilegu_xunlu	EventNpc	删除莫无情	npc\itemnpc057	47	4	5		6		1		Adventure\jilegu\qy_111030_jilegu_xunlu.lua		
+qy_111030_jilegu_sjt	EventNpc	试剑台动画NPC	npc\itemnpc057	47	4	3		6		1		Adventure\junzitang\qy_111030_jilegu_sjt.lua		
+														
+qy_111030_junzitang_youyuandong_01	EventNpc	君子堂游鹭洞奇遇进	npc\itemnpc057	47	4	33		6		1		Adventure\junzitang\Event_jzt111030_1.lua	22587	
+qy_111030_junzitang_youyuandong_02	EventNpc	君子堂游鹭洞奇遇出	npc\itemnpc057	47	4	35		6		1		Adventure\junzitang\qy_111030_junzitang_youyuandong_02.lua		
+														
+qy_111030_junzitang_shanmen	EventNpc	君子堂山门	npc\itemnpc057	47	4	20		6		1		Adventure\junzitang\qy_111030_junzitang_shanmen.lua	10030	
+EventClone01101	EventNpc	护镖路程刷新小怪用	npc\itemnpc057	47	4	20		6		1		Adventure\EscortNpc0260_eventnpc.lua	10922	
+EventClone01102	EventNpc	烟雨庄，卢夏和玩家见面动画	npc\itemnpc057	202	4	5		6		1		Adventure\FuncNpc00056_eventnpc.lua	10833	
+EventClone01103	EventNpc	检测镖车是否进入，完成任务	npc\itemnpc057	202	4	5		6		1		Adventure\EscortNpc0260_eventnpc_1.lua		
+EventClone01104	EventNpc	诡异隐士分组场景进入	npc\itemnpc057	47	4	20		6		1		npc\clone\CJ\Event_condition.lua	10386	
+EventClone01105	EventNpc	诡异隐士分组场景离开	npc\itemnpc057	47	4	20		6		1		npc\clone\CJ\EventNpc_qy_sz_outdoor.lua		
+EventClone01106	EventNpc	卢夏病危分组场景进入	npc\itemnpc057	47	4	10		6		1		npc\clone\CJ\Event_condition.lua	10403	
+EventClone01107	EventNpc	卢夏病危分组场景离开	npc\itemnpc057	47	4	25		6		1		npc\clone\CJ\EventNpc_qy_sz_outdoor.lua		
+														
+qy_111030_junzitang_jin_04	EventNpc	分组进君子堂老君洞	npc\itemnpc057	47	4	49		6		0		npc\clone\CJ\Event_condition.lua	9939	
+qy_111030_junzitang_chu_04	EventNpc	分组出君子堂老君洞	npc\itemnpc057	47	4	30		6		0		Adventure\junzitang\qy_111030_junzitang_chu_04.lua		
+EventNpc_qy_xyp042_1	EventNpc	向阳坡遇42号分组场景进（强盗）	npc\itemnpc057	47	4	30		6		1		npc\clone\CJ\Event_condition.lua		
+EventNpc_qy_xyp042_2	EventNpc	向阳坡奇遇42号分组场景出	npc\itemnpc057	47	4	100		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+														
+EventNpc_qy_erg_1	EventNpc	恶人谷奇遇7010号分组场景入	npc\itemnpc057	47	4	30		6		1		npc\clone\CJ\Event_condition.lua	10008	
+EventNpc_qy_erg_01	EventNpc	恶人谷奇遇7010号分组场景出	npc\itemnpc057	47	4	40		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+EventNpc_qy_erg_2	EventNpc	恶人谷奇遇7011号分组场景入	npc\itemnpc057	47	4	100		6		1		npc\clone\CJ\Event_condition.lua	10019	
+EventNpc_qy_erg_02	EventNpc	恶人谷奇遇7011号分组场景出	npc\itemnpc057	47	4	110		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+EventNpc_qy_erg_3	EventNpc	恶人谷奇遇7012号分组场景入	npc\itemnpc057	47	4	20		6		1		npc\clone\CJ\Event_condition.lua	22586	
+EventNpc_qy_erg_03	EventNpc	恶人谷奇遇7012号分组场景出	npc\itemnpc057	47	4	30		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+qy_yanjing_szcf	EventNpc		npc\fbmac004013	47	4	15		6		1		npc\qy_shuifudongtian.lua		
+qy_yanjing_bmzy	EventNpc	燕京壁画奇遇	npc\fbmac004013	47	4	1		6		1		Adventure\yanjing\event_yanjing_bmzy.lua	10249	
+qy_yanjing_sfdtsmr	EventNpc	水府洞天奇遇神秘人触发	npc\fbmac004013	47	4	5		6		1		Adventure\yanjing\event_shenmiren.lua		
+qy_yanjing_sfdtfz	EventNpc	水府洞天奇遇分组场景入	npc\fbmac004013	47	4	10		6		1		npc\clone\CJ\Event_condition.lua	10445	
+														
+EventNpc_qy_wudang_01	EventNpc	武当奇遇	npc\itemnpc057e	47	4	3		6		1		Adventure\ly\EventNpc_qy_wudang_01.lua	9333	
+EventNpc_qy_wudang_02	EventNpc	武当奇遇	npc\itemnpc057e	47	4	10		6		1		Adventure\ly\EventNpc_qy_wudang_02.lua	9331	
+EventNpc_qy_wudang_03	EventNpc	武当奇遇	npc\itemnpc057e	47	4	10		6		1		Adventure\ly\EventNpc_qy_wudang_03.lua	9334	
+EventNpc_qy_wudang_04	EventNpc	武当奇遇	npc\itemnpc057e	47	4	10		6		1		Adventure\ly\EventNpc_qy_wudang_04.lua	9335	
+EventNpc_qy_wudang_05	EventNpc	武当奇遇	npc\itemnpc057e	47	4	10		6		1		Adventure\ly\EventNpc_qy_wudang_05.lua	9332	
+														
+EventNpc_qy_kq_1	EventNpc	孔雀山庄奇遇7035号分组场景入	npc\itemnpc057e	47	4	100		6		1		npc\clone\CJ\Event_condition.lua	11185	
+EventNpc_qy_kq_01	EventNpc	孔雀山庄奇遇7035号分组场景出	npc\itemnpc057e	47	4	110		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+EventNpc_qy_kq_001	EventNpc	孔雀山庄奇遇强盗	npc\itemnpc057e	47	4	50		6		1		Adventure\kq\EventNpc_qy_kq_001.lua	11185	
+EventNpc_qy_kq_002	EventNpc	孔雀山庄奇遇蛇	npc\itemnpc057e	47	4	20		6		1		Adventure\kq\EventNpc_qy_kq_002.lua	11299	
+EventNpc_qy_kq_003	EventNpc	孔雀山庄奇遇暗号删除	npc\itemnpc057e	47	4	50		6		1		Adventure\kq\EventNpc_qy_kq_003.lua	22938	
+														
+EventNpc_qy_wdschool_001	EventNpc	武当门派奇遇劫镖进入	npc\itemnpc057e	47	4	40		6		1		Adventure\wdschool\EventNpc_qy_wdschool_001.lua		
+EventNpc_qy_wdschool_001_1	EventNpc	武当门派奇遇劫镖进出	npc\itemnpc057e	47	4	45		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+EventNpc_qy_wdschool_002	EventNpc	武当门派奇遇山洞进入	npc\itemnpc057e	47	4	80		6		1		npc\clone\CJ\Event_condition.lua	11299	
+EventNpc_qy_wdschool_01	EventNpc	武当门派奇遇支线01进入	npc\itemnpc057e	47	4	25		6		1		Adventure\wdschool\EventNpc_qy_wdschool_01.lua		
+EventNpc_qy_wdschool_01_1	EventNpc	武当门派奇遇支线01出	npc\itemnpc057e	47	4	30		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+EventNpc_qy_wdschool_02	EventNpc	武当门派奇遇支线02进入	npc\itemnpc057e	47	4	15		6		1		Adventure\wdschool\EventNpc_qy_wdschool_02.lua		
+EventNpc_qy_wdschool_02_1	EventNpc	武当门派奇遇支线02出	npc\itemnpc057e	47	4	30		6		1		npc\clone\CJ\EventNpc_qy_sz_outdoor.lua		
+EventNpc_qy_wdschool_03	EventNpc	武当门派奇遇支线03进入	npc\itemnpc057e	47	4	15		6		1		Adventure\wdschool\EventNpc_qy_wdschool_03.lua		
+EventNpc_qy_wdschool_03_1	EventNpc	武当门派奇遇支线03出	npc\itemnpc057e	47	4	30		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+EventNpc_qy_wdschool_003	EventNpc	武当门派奇遇支线03进入	npc\itemnpc057e	47	4	15		6		1		Adventure\wdschool\EventNpc_qy_wdschool_003.lua		
+EventNpc_qy_wdschool_5905	EventNpc	武当门派奇遇播放动画5905	npc\itemnpc057e	47	4	10		6		1		Adventure\wdschool\EventNpc_qy_wdschool_5905.lua		
+EventNpc_qy_wdschool_5907	EventNpc	武当门派奇遇副本传送	npc\itemnpc057e	47	4	20		6		1				
+EventNpc_qy_wdschool_shu	EventNpc	武当门派奇遇支线被盗秘籍进	npc\itemnpc057e	47	4	20		6		1		Adventure\wdschool\EventNpc_qy_wdschool_shu.lua		
+EventNpc_qy_wdschool_shu_01	EventNpc	武当门派奇遇支线被盗秘籍出	npc\itemnpc057e	47	4	25		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+EventNpc_qy_wdschool_5907_01	EventNpc	武当门派奇遇5907播放触发器	npc\itemnpc057e	47	4	20		6		1				
+														
+EventNpc_jmy_dajie1	EventNpc	鸡鸣驿打劫奇遇人	npc\worldnpc140	47	4	10		6		1		Adventure\yanjing\qy_jmy_dajie1.lua	22843	
+EventNpc_jmy_dajie2	EventNpc	鸡鸣驿打劫奇遇虎	npc\worldnpc140	47	4	15		6		1		Adventure\yanjing\qy_jmy_dajie2.lua	22844	
+EventNpc_jmy_dajie3	EventNpc	鸡鸣驿打劫奇遇熊	npc\worldnpc140	47	4	15		6		1		Adventure\yanjing\qy_jmy_dajie3.lua	22845	
+EventNpc_jmy_dajie4	EventNpc	鸡鸣驿打劫奇遇猴	npc\worldnpc140	47	4	15		6		1		Adventure\yanjing\qy_jmy_dajie4.lua	22846	
+EventNpc_jmy_dajie5	EventNpc	鸡鸣驿打劫奇遇出分组	npc\worldnpc140	47	4	100		6		1		Adventure\yanjing\qy_jmy_dajie5.lua		
+EventNpc_jmy_wuguan	EventNpc	武馆传送	npc\worldnpc140	47	4	3		6		1		Adventure\yanjing\wuguan.lua	10448	
+EventNpc_jmy_zhencha	EventNpc	地区侦查	npc\worldnpc140	47	4	15		2	10920	1				
+EventNpc_jmy_duyao	EventNpc	毒药检测	npc\worldnpc140	47	4	10		6		1		Adventure\yanjing\EventNpc_jmy_duyao.lua	10792	
+EventNpc_jmy_duyao2	EventNpc	投毒离开	npc\worldnpc140	47	4	45		6		1		Adventure\yanjing\EventNpc_jmy_duyao2.lua		
+														
+														
+														
+														
+EventClone01108	EventNpc	风铃谷救人分组场景进入	npc\itemnpc057	47	4	20		6		1		Adventure\sz\EventClone01108.lua	23776	
+EventClone01109	EventNpc	风铃谷救人分组场景离开	npc\itemnpc057	47	4	20		6		1		npc\clone\CJ\EventNpc_qy_sz_outdoor.lua		
+														
+EventNpc_cd_qy_01	EventNpc	成都蛊王分组场景进入	npc\itemnpc057e	47	4	80		6		1		npc\clone\CJ\Event_condition.lua	10822	
+EventNpc_cd_qy_02	EventNpc	成都蛊王分组场景离开	npc\itemnpc057e	47	4	100		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+EventNpc_cd_qy_03	EventNpc	发现蛊王动画	npc\itemnpc057e	47	4	50	5553	4	14003	1				
+EventNpc_cd_qy_04	EventNpc	蛊王死亡动画	npc\itemnpc057e	47	4	50	5554	4	14003	1				
+														
+														
+EventClone01110	EventNpc	护镖路程刷新小怪用	npc\itemnpc057	47	4	20		6		1		Adventure\sz\EventClone01110.lua	10922	
+EventClone01111	EventNpc	护镖路程刷新小怪用	npc\itemnpc057	47	4	20		6		1		Adventure\sz\EventClone01111.lua	10922	
+EventClone01112	EventNpc	护镖路程刷新小怪用	npc\itemnpc057	47	4	20		6		1		Adventure\sz\EventClone01112.lua	10922	
+EventClone01113	EventNpc	护镖路程刷新小怪用	npc\itemnpc057	47	4	20		6		1		Adventure\sz\EventClone01113.lua	10922	
+														
+EventNpc_jy_001	EventNpc	锦衣卫奇遇贪财鬼分组场景	npc\worldnpc140	47	4	45		6		1		npc\clone\CJ\Event_condition.lua	11241	
+														
+EventNpc_qy_lmkz_01	EventNpc	龙门客栈引导奇遇刷新马贼	npc\itemnpc057e	47	4	60		6		1		Adventure\EventNpc_qy_lmkz_mazei.lua	11252	
+EventNpcClone009016	EventNpc	进入山寨播放动画	npc\itemnpc057d	47	4	10	0			1				
+EventNpcClone009016a	EventNpc	进入山寨播放动画	npc\itemnpc057d	47	4	10	0			1				
+EventNpcClone009016d	EventNpc	进入山寨播放动画	npc\itemnpc057d	47	4	10	0			1				
+EventNpcClone009016c	EventNpc	进入山寨播放动画	npc\itemnpc057d	47	4	10	0			1				
+EventNpcClone009016b	EventNpc	进入山寨播放动画	npc\itemnpc057d	47	4	10	0			1				
+EventNpcClone009017	EventNpc	进入山寨播放动画	npc\itemnpc057d	47	4	10	0			1				
+EventNpcClone009018	EventNpc	进入山寨播放动画	npc\itemnpc057d	47	4	10	0			1				
+EventNpcClone009019	EventNpc	进入山寨播放动画	npc\itemnpc057d	47	4	10	0			1				
+EventNpcClone009020	EventNpc	进入山寨播放动画	npc\itemnpc057d	47	4	10	0			1				
+EventNpcClone009021	EventNpc	进入山寨播放动画	npc\itemnpc057d	47	4	10	0			1				
+EventNpc_yd_out_remind	EventNpc	奇遇引导进入传送门（烟雨庄）	npc\worldnpc140	202	4	5		6		1		Adventure\EventNpctxj.lua	10433	
+EventNpcClone009116	EventNpc		npc\itemnpc057d	47	4	10	0			1				
+EventNpcClone009117	EventNpc		npc\itemnpc057d	47	4	10	0			1				
+EventNpcClone009118	EventNpc		npc\itemnpc057d	47	4	10	0			1				
+EventNpcClone009119	EventNpc		npc\itemnpc057d	47	4	10	0			1				
+EventNpcClone009120	EventNpc		npc\itemnpc057d	47	4	15	0			1				
+														
+qyjysmcf2	EventNpc	触发刑君可动画	npc\fbmac004013	47	4	5		6		1		Adventure\jysm\qyjysmcf2.lua	11563	
+qyjysmcfnz	EventNpc	触发瘦弱男子	npc\fbmac004013	47	4	15		6		1		Adventure\jysm\qyjysmcfnz.lua	11562	
+qyjysmcf1	EventNpc	触发温杜尔汗动画	npc\fbmac004013	47	4	5		6		1		Adventure\jysm\qyjysmcf1.lua	11561	
+Event_qy_jysm_fz	EventNpc	锦衣师门奇遇陈志勇分组	npc\fbmac004013	47	4	50		6		1		npc\clone\CJ\Event_condition.lua	11560	
+EventNpc_qy_gaibang7054_1	EventNpc	丐帮师门奇遇庙中庙分组	npc\fbmac004013	47	4	50		6		1		npc\clone\CJ\Event_condition.lua	23379	
+Event_qy_wdschool_chu	EventNpc	武当门派奇遇触发器添加BUFF	npc\itemnpc057e	47	4	10		6		1		Adventure\wdschool\Event_qy_wdschool_chu.lua		
+EventNpcClone009022	EventNpc	进入山寨播放动画	npc\itemnpc057d	47	4	10	0			1				
+EventNpcClone009122	EventNpc		npc\itemnpc057d	47	4	10	0			1				
+														
+														
+EventNpc_qy_gb17613	EventNpc	唐门密林处动画	npc\itemnpc057e	47	4	1	5651	4	17613	1				
+Event_qy_wdschool_add	EventNpc	武当门派奇遇触发器添加BUFF	npc\itemnpc057e	47	4	10		6		1		Adventure\wdschool\Event_qy_wdschool_add.lua		
+Event_qy_wdschool_yu01	EventNpc	武当门派奇遇渔村进	npc\itemnpc057e	47	4	50		6		1		Adventure\wdschool\Event_qy_wdschool_yu01.lua		
+Event_qy_wdschool_yu02	EventNpc	武当门派奇遇渔村出	npc\itemnpc057e	47	4	60		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+EventNpcClone009023	EventNpc	进入山寨播放动画	npc\itemnpc057d	47	4	10	0			1				
+														
+Event_qy_wdschool_zhang01	EventNpc	武当门派奇遇张黎黎进	npc\itemnpc057e	47	4	60		6		1		Adventure\wdschool\Event_qy_wdschool_zhang01.lua		
+Event_qy_wdschool_zhang02	EventNpc	武当门派奇遇渔村出	npc\itemnpc057e	47	4	65		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+EventNpcClone009024	EventNpc	进入山寨播放动画	npc\itemnpc057d	47	4	5	0			1				
+EventNpcClone009025	EventNpc	进入山寨播放动画	NpcClone011048	47	4	5	0			1				
+EventNpc_em3n_001	EventNpc	唐门3内奇遇分组场景出	npc\itemnpc057e	47	4	30		6		1		Adventure\cd\EventNpc_em3n_001.lua	14432	
+EventNpc_qy_em18463	EventNpc	峨眉3内18463	npc\itemnpc057e	47	4	30		6		1		Adventure\cd\EventNpc_qy_em18463.lua	14432	
+EventNpc_em3n_002	EventNpc	唐门3内奇遇分组场景出	npc\itemnpc057e	47	4	35		6		1		Adventure\cd\EventNpc_em3n_002.lua		
+EventNpc_qy_gb310	EventNpc	唐门奇遇21号分组场景进	npc\itemnpc057e	47	4	5		6		1		npc\clone\CJ\Event_condition.lua	14677	
+														
+EventNpcCloneFinishClone	EventNpc	副本通关奖励通用触发npc	npc\fbmac00515	202	4	10		6		1		npc\clone\clone002\EventNpcClone002035.lua		
+EventNpcClone009126	EventNpc	进入山寨播放动画	npc\itemnpc057d	47	4	5	0			1				
+EventNpcClone009127	EventNpc	进入山寨播放动画	npc\itemnpc057d	47	4	5	0			1				
+EventNpcClone009128	EventNpc	进入山寨播放动画	npc\itemnpc057d	47	4	5	0			1				
+														
+														
+EventNpcClone015171	EventNpc	江行初雪图	npc\itemnpc057e	47	4	5	0			0				
+EventNpcClone015172	EventNpc	春暖花开	npc\itemnpc057e	47	4	5	0			0				
+EventNpcClone015173	EventNpc	百花争艳	npc\itemnpc057e	47	4	5	0			0				
+EventNpcClone015174	EventNpc	百毒心经	npc\itemnpc057e	47	4	5	0			0				
+EventNpcClone015175	EventNpc	星火燎原	npc\itemnpc057e	47	4	5	0			0				
+														
+EventNpcClone011001	EventNpc	杏子林进入副本触发NPC	npc\itemnpc057e	202	4	10				1				
+EventNpcClone011002	EventNpc	帮主与长老对峙触发NPC	npc\itemnpc057e	202	4	10				1				
+EventNpcClone011003	EventNpc	玩家见到谢广宽触发NPC	npc\itemnpc057e	202	4	10				1				
+EventNpcClone011004	EventNpc	玩家遇见云清星触发NPC	npc\itemnpc057e	202	4	10				1				
+EventNpcClone011005	EventNpc	大信寻路触发NPC	npc\itemnpc057e	202	4	10				1				
+EventNpcClone011006	EventNpc	五大舵主寻路触发NPC	npc\itemnpc057e	202	4	10				1				
+EventNpcClone011007	EventNpc	击杀岳兴神五大舵主寻路触发NPC	npc\itemnpc057e	202	4	10				1				
+EventNpcClone011008	EventNpc	朱禛旦技能隐藏NPC	npc\itemnpc057e	202	4	10				1				
+EventNpcClone011009	EventNpc	触发NPC09	npc\itemnpc057e	202	4	15				1				
+EventNpcClone011010	EventNpc	触发NPC10	npc\itemnpc057e	202	4	15				1				
+EventNpcClone011011	EventNpc	触发NPC11	npc\itemnpc057e	202	4	15				1				
+EventNpcClone011012	EventNpc	杏子林大会	npc\itemnpc057e	202	4	15				1				
+EventNpcClone011013	EventNpc	触发NPC13	npc\itemnpc057e	202	4	15				1				
+EventNpcClone011014	EventNpc	触发NPC14	npc\itemnpc057e	202	4	15		5		1				
+EventNpcClone011015	EventNpc	触发NPC15	npc\itemnpc057e	202	4	15		5		1				
+EventNpcClone011016	EventNpc	//禁地闯关	npc\itemnpc057e	202	4	10				1				
+EventNpcClone011017	EventNpc	//禁地闯关	npc\itemnpc057e	202	4	10				1				
+EventNpcClone011018	EventNpc	//禁地闯关	npc\itemnpc057e	202	4	10				1				
+EventNpcClone011019	EventNpc	//禁地闯关	npc\itemnpc057e	202	4	10				1				
+EventNpcClone011020	EventNpc	//禁地闯关	npc\itemnpc057e	202	4	10				1				
+EventNpcClone011021	EventNpc	//禁地闯关	npc\itemnpc057e	202	4	10				1				
+EventNpcClone011022	EventNpc	//禁地闯关	npc\itemnpc057e	202	4	10				1				
+EventNpcClone011023	EventNpc	//禁地闯关	npc\itemnpc057e	202	4	10				1				
+EventNpcClone011024	EventNpc	//禁地闯关	npc\itemnpc057e	202	4	10				1				
+EventNpcClone011025	EventNpc	//禁地闯关	npc\itemnpc057e	202	4	10				1				
+														
+EventNpcClone011201	EventNpc	杏子林1陷阱	npc\itemnpc057e	202	4	10				1				
+EventNpcClone011202	EventNpc	杏子林1陷阱	npc\itemnpc057e	202	4	10				1				
+EventNpcClone011203	EventNpc	杏子林1陷阱	npc\itemnpc057e	202	4	10				1				
+EventNpcClone011204	EventNpc	开场电影	npc\itemnpc057e	202	4	10				1				
+EventNpcClone011205	EventNpc	大智提示	npc\itemnpc057e	202	4	10				1				
+EventNpcClone011206	EventNpc	大勇提示	npc\itemnpc057e	202	4	10				1				
+EventNpcClone011207	EventNpc	大信提示	npc\itemnpc057e	202	4	10				1				
+EventNpcClone011208	EventNpc	大礼提示	npc\itemnpc057e	202	4	10				1				
+EventNpcClone011209	EventNpc	大仁提示	npc\itemnpc057e	202	4	10				1				
+EventNpcClone011210	EventNpc	恶人提示	npc\itemnpc057e	202	4	10				1				
+EventNpcClone011211	EventNpc	徐长老提示	npc\itemnpc057e	202	4	10				1				
+EventNpcClone011212	EventNpc	杏子林1陷阱1	npc\itemnpc057e	202	4	20				1				
+EventNpcClone011213	EventNpc	杏子林1陷阱2	npc\itemnpc057e	202	4	20				1				
+EventNpcClone011214	EventNpc	杏子林1陷阱3	npc\itemnpc057e	202	4	20				1				
+EventNpcClone011216	EventNpc	通道陷阱1	npc\itemnpc057e	202	4	5				1				
+EventNpcClone011217	EventNpc	通道陷阱2	npc\itemnpc057e	202	4	5				1				
+EventNpcClone011218	EventNpc	通道陷阱3	npc\itemnpc057e	202	4	5				1				
+EventNpcClone011219	EventNpc	通道陷阱4	npc\itemnpc057e	202	4	5				1				
+EventNpcClone011221	EventNpc	徐天启前触发NPC	npc\itemnpc057e	202	4	15				1				
+EventNpcClone011222	EventNpc	通道中呼吸不畅	npc\itemnpc057e	202	4	30				1				
+														
+EventNpcBorn003001	EventNpc	沙滩救村民	npc\worldnpc140	47	4	8		6		1		npc\yd\event_help_people.lua		
+EventNpcBorn003002	EventNpc	燃烧的房子	npc\worldnpc140	47	4	8				1				
+EventNpcBorn003003	EventNpc	祠堂动画触发	npc\worldnpc140	47	4	8	478	4	1346	1				
+	//猴子奇遇													
+EventNpc_cwqy_monkeycatch01	EventNpc	猴子奇遇--成都抓猴进	npc\itemnpc057e	47	4	18		6		1		npc\clone\CJ\Event_condition.lua	24896	
+EventNpc_cwqy_monkeycatch02	EventNpc	猴子奇遇--成都抓猴出	npc\itemnpc057e	47	4	50		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+EventNpc_cwqy_monkeyrescue01	EventNpc	猴子奇遇--成都救猴进	npc\itemnpc057e	47	4	5		6		1		npc\clone\CJ\Event_condition.lua	19293	
+EventNpc_cwqy_monkeyrescue02	EventNpc	猴子奇遇--成都救猴出	npc\itemnpc057e	47	4	30		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+														
+EventNpcQYcl001	EventNpc	进入8042分组	npc\worldnpc112	173	4	40		6		1				1755
+EventNpcQYcl002	EventNpc	出8042分组	npc\worldnpc112	173	4	40		6		1		npc\clone\CJ\EventNpc_qy_tangmen015_2.lua		
+EventNpcQYcl003	EventNpc	出奇遇分组通用	npc\worldnpc112	173	4	40		6		1		Adventure\em3n\EventNpc_em3n_yewai_out.lua		
+npc_4nei_emei07	EventNpc	峨眉四内	npc\itemnpc057	47	4	20	5865	4	56023	1			19848	
+npc_4nei_emei27	EventNpc	峨眉四内出	npc\itemnpc057	47	4	30		6		1		Adventure\em3n\EventNpc_em3n_shandong_out.lua		
+		//四内雪山之后												
+EventNPCxszhh_4nei_smell01	EventNpc	追踪香粉	npc\itemnpc057_jlg03	47	4	2		2	57536	0	2			
+EventNPCxszhh_4nei_smell02	EventNpc	追踪香粉	npc\itemnpc057_jlg03	47	4	2		2	57536	0	3			
+EventNPCxszhh_4nei_smell03	EventNpc	追踪香粉	npc\itemnpc057_jlg03	47	4	2		2	57536	0	4			
+EventNPCxszhh_4nei_fgxsh	EventNpc	飞鸽血书地点	npc\itemnpc057e	47	4	2		2	57531	1	2			
+EventNPCxszhh_4nei_protect	EventNpc	守卫雅典娜	npc\itemnpc057e	47	4	2		2	57532	1	1			
+		//四内												
+EvenNPC_4nei_tm_blood00	EventNpc	唐门四内57511	npc\itemnpc057e	47	4	5		2	57511	1	1			
+EvenNPC_4nei_tm_blood01	EventNpc	唐门四内57511	npc\itemnpc057e	47	4	5		2	57511	1	2			
+EvenNPC_4nei_tm_blood02	EventNpc	唐门四内57516	npc\itemnpc057e	47	4	6		2	57516	1	1			
+EvenNPC_4nei_tm_blood03	EventNpc	唐门四内57507	npc\itemnpc057e	47	4	10		2	57507	1	1			
+EvenNPC_4nei_tm_blood04	EventNpc	唐门四内57526	npc\itemnpc057e	47	4	2		2	57526	1	2			
+EvenNPC_4nei_tm_blood05	EventNpc	唐门四内57524	npc\itemnpc057e	47	4	6		2	57524	1	-1			
+EvenNPC_4nei_tm_blood06	EventNpc	唐门四内57526	npc\itemnpc057e	47	4	2		2	57526	1	-1			
+EvenNPC_4nei_tm_blood07	EventNpc	唐门四内57526	npc\itemnpc057e	47	4	2		2	57526	1	-1			
+EventNpc_4nei_gbj001	EventNpc	君子堂四内金蚕村处动画	npc\itemnpc057e	47	4	2	5708	4	57029	1				
+event_4nei_jy_gdd	EventNpc	锦衣四内触发龚大胆	npc\itemnpc057e	47	4	5		2	58507	1	1			
+EvenNPC_4neijyz_sl	EventNpc	四内触发动画	npc\itemnpc057e	47	4	20		6		1				
+EvenNPC_4neijyz_wd	EventNpc	四内触发动画	npc\itemnpc057e	47	4	20		6		1				
+EvenNPC_4neijyz_gb	EventNpc	四内触发动画	npc\itemnpc057e	47	4	20		6		1				
+EvenNPC_4neijyz_em	EventNpc	四内触发动画	npc\itemnpc057e	47	4	20		6		1				
+EvenNPC_4neijyz_jz	EventNpc	四内触发动画	npc\itemnpc057e	47	4	20		6		1				
+EvenNPC_4neijyz_tm	EventNpc	四内触发动画	npc\itemnpc057e	47	4	20		6		1				
+EvenNPC_4neijyz_jl	EventNpc	四内触发动画	npc\itemnpc057e	47	4	20		6		1				
+EvenNPC_4neijyz_jy	EventNpc	四内触发动画	npc\itemnpc057e	47	4	20		6		1				
+														
+EvenNPC_qygp_suzhou01	EventNpc	18241	npc\itemnpc057	47	4	6		2	18241	1	1			
+EvenNPC_qygp_suzhou02	EventNpc	18241	npc\itemnpc057	47	4	5		2	18241	1	3			
+EvenNPC_qygp_suzhou03	EventNpc	18241	npc\itemnpc057	47	4	5		2	18244	1	1			
+														
+Event_wmp_2nglm_meet	EventNpc	邢君可邂逅	npc\itemnpc057e	47	4	8	3012	4	51242	1	1			
+Event_wmp_2nglm_drink	EventNpc	邢君可喝酒	npc\itemnpc057e	47	4	4		2	51241	1	1			
+event_wmp_2nzy_lphs	EventNpc	无门派触发落魄和尚	npc\itemnpc057e	47	4	5		2	51283	1	1			
+														
+Eventnpc_wmp_x01	EventNpc	无门派	npc\itemnpc057	47	4	2		2	51001	1				
+Eventnpc_wmp_x02	EventNpc	无门派	npc\itemnpc057	47	4	2		2	51031	1				
+Eventnpc_wmp_x03	EventNpc	无门派	npc\itemnpc057	47	4	20		2	51001	1				
+Eventnpc_wmp_x04	EventNpc	无门派	npc\itemnpc057	47	4	20		2	51001	1				
+TriggerSchool000001	EventNpc	动画455气喘吁吁	npc\itemnpc057	202	4	2	3000	4	51013	1	1			
+TriggerSchool000002	EventNpc	山上删BUFF	npc\itemnpc057	202	4	2		2	51003	1	1			
+TriggerSchool000003	EventNpc	进入分组场景8024 遇见武当弟子	npc\itemnpc057	47	4	2		6		1				1811
+TriggerSchool000004	EventNpc	退出分组场景8024 遇见武当弟子	npc\itemnpc057	47	4	2		6		1				1812
+TriggerSchool000005	EventNpc	峨眉遇蛇	npc\itemnpc057	202	4	2				1				
+EventNpc_nmp_sj002	EventNpc	金针沈家触发老园丁	npc\itemnpc057e	47	4	2		2	41648	1				
+EventNpc_nmp_sj001	EventNpc	金针沈家触发老乞丐动画	npc\itemnpc057e	47	4	2	4002	4	41635	1				
+EventNpc_nmp_sj101	EventNpc	金针沈家触发进入分组场景	npc\itemnpc057e	47	4	10				1				2292
+EventNpc_nmp_sj102	EventNpc	金针沈家触发进入分组场景	npc\itemnpc057e	47	4	20				1		Adventure\em3n\EventNpc_qy_em7086_02.lua		
+EventNpc_nmp_sj103	EventNpc	金针沈家触发创建病人A	npc\itemnpc057e	47	4	10				1				2304
+														
+														
+														
+														
+trig_szwe01_9	EventNpc	退出活动分组	npc\itemnpc057e	202	4	30		10		1				
+trig_szwe01_10	EventNpc	活动开始进入	npc\itemnpc057e	202	4	30		10		1				
+														
+	//万兽山庄													
+EventNpc_wssz_boss_001	EventNpc	3人boss	npc\worldnpc140	47	4	4		2		1				
+EventNpc_wssz_boss_002	EventNpc	3人boss	npc\worldnpc140	47	4	4		2		1				
+EventNpc_wssz_boss_003	EventNpc	3人boss	npc\worldnpc140	47	4	4		2		1				
+EventNpc_wssz_boss_004	EventNpc	3人boss	npc\worldnpc140	47	4	4		2		1				
+EventNpc_wssz_boss_005	EventNpc	儿童说话	npc\worldnpc140	47	4	4		2		1				
+EventNpc_wssz_boss_006	EventNpc	49301任务	npc\worldnpc140	47	4	4		2	49301	1				
+EventNpc_wssz_boss_007	EventNpc	万兽山庄007	npc\worldnpc140	47	4	4		2		1				
+EventNpc_wssz_boss_008	EventNpc	万兽山庄008	npc\worldnpc140	47	4	4		2		1				
+EventNpc_wssz_boss_009	EventNpc	万兽山庄009	npc\worldnpc140	47	4	4		2		1				
+EventNpc_wssz_boss_010	EventNpc	万兽山庄010	npc\worldnpc140	47	4	4		2		1				
+EventNpc_wssz_boss_011	EventNpc	万兽山庄011	npc\worldnpc140	47	4	4		2		1				
+EventNpc_wssz_boss_012	EventNpc	万兽山庄012	npc\worldnpc140	47	4	4		2		1				
+EventNpc_wssz_boss_013	EventNpc	万兽山庄013	npc\worldnpc140	47	4	4		2		1				
+EventNpc_wssz_boss_014	EventNpc	万兽山庄014	npc\worldnpc140	47	4	4		2		1				
+EventNpc_wssz_boss_015	EventNpc	万兽山庄015	npc\worldnpc140	47	4	4		2		1				
+														
+EventNpc_nmp_wgm001	EventNpc	无根门主线第1个动画	npc\itemnpc057e	47	4	2	4051	4	49528	1				
+EventNpc_nmp_wgm002	EventNpc	无根门主线第2个动画	npc\itemnpc057e	47	4	2	4052	4	49529	1				
+EventNpc_nmp_wgm003	EventNpc	无根门主线第3个动画	npc\itemnpc057e	47	4	2	4053	4	49533	1				
+EventNpc_nmp_wgm004	EventNpc	无根门主线第4个动画	npc\itemnpc057e	47	4	2	4055	4	49534	1				
+EventNpc_nmp_wgm005	EventNpc	无根门主线触发对话	npc\itemnpc057_wgm01	47	4	8		2						
+EventNpc_wgm_pm001	EventNpc	无根门叛门	npc\itemnpc057	47	4	5		2	49651	1	1			
+														
+EventAdv100clone001	EventNpc	删除看守	npc\itemnpc057e	47	4	3		6		1				
+EventAdv_clone002	EventNpc	清楚小怪	npc\itemnpc057e	47	4	50		6		1				
+														
+EventNpc_wmp_hsin_new	EventNpc	华山分组新入口	npc\itemnpc057k	202	4	3		6				npc\yd\hszd_door_in_1.lua		
+npc_qy_luxia_e01	EventNpc	卢夏奇遇	npc\itemnpc057e	47	4	2		4		1				
+npc_qy_luxia_e02	EventNpc	卢夏奇遇	npc\itemnpc057e	47	4	2		4		1				
+npc_qy_luxia_e03	EventNpc	卢夏奇遇	npc\itemnpc057e	47	4	2		4		1				
+npc_qy_luxia_e04	EventNpc	卢夏奇遇	npc\itemnpc057e	47	4	2		4		1				
+npc_qy_luxia_e05	EventNpc	卢夏奇遇	npc\itemnpc057e	47	4	2		4		1				
+npc_qy_luxia_e06	EventNpc	卢夏奇遇	npc\itemnpc057e	47	4	2		4		1				
+npc_qy_luxia_e07	EventNpc	卢夏奇遇	npc\itemnpc057e	47	4	2		4		1				
+npc_qy_luxia_e08	EventNpc	卢夏奇遇	npc\itemnpc057e	47	4	2		4		1				
+npc_qy_luxia_e09	EventNpc	卢夏奇遇	npc\itemnpc057e	47	4	2		4		1				
+npc_qy_luxia_e10	EventNpc	卢夏奇遇	npc\itemnpc057e	47	4	2		4		1				
+npc_qy_luxia_e11	EventNpc	卢夏奇遇	npc\itemnpc057e	47	4	2		4		1				
+npc_qy_luxia_e12	EventNpc	卢夏奇遇	npc\itemnpc057e	47	4	2		4		1				
+npc_qy_luxia_e13	EventNpc	卢夏奇遇	npc\itemnpc057e	47	4	2		4		1				
+npc_qy_luxia_e14	EventNpc	卢夏奇遇	npc\itemnpc057e	47	4	2		4		1				
+npc_qy_luxia_e15	EventNpc	卢夏奇遇	npc\itemnpc057e	47	4	2		4		1				
+Npc_snst_event_01	EventNpc	卢夏奇遇	npc\itemnpc057_tg2	202	4	2		4		1				
+Npc_snst_event_02	EventNpc	卢夏奇遇	npc\itemnpc057_tg2	202	4	2		4		1				
+Npc_snst_event_03	EventNpc	卢夏奇遇	npc\itemnpc057_tg2	202	4	2		4		1				
+Npc_snst_event_04	EventNpc	卢夏奇遇	npc\itemnpc057_tg2	202	4	2		4		1				
+Npc_snst_event_05	EventNpc	卢夏奇遇	npc\itemnpc057_tg2	202	4	2		4		1				
+Npc_snst_event_06	EventNpc	卢夏奇遇	npc\itemnpc057_tg2	202	4	2		4		1				
+Npc_snst_event_07	EventNpc	卢夏奇遇	npc\itemnpc057_tg2	202	4	2		4		1				
+Npc_snst_event_08	EventNpc	卢夏奇遇	npc\itemnpc057_tg2	202	4	2		4		1				
+Npc_snst_event_09	EventNpc	卢夏奇遇	npc\itemnpc057_tg2	202	4	2		4		1				
+Npc_snst_event_10	EventNpc	卢夏奇遇	npc\itemnpc057_tg2	202	4	2		4		1				
+														
+		//长乐舫												
+EventNpc_clf_qz001	EventNpc	长乐舫任务1	npc\itemnpc057	47	4	5		2	49021	1	1			
+														
+Npc_event_spa_001	EventNpc	暗器之王入口	npc\worldnpc140	47	4	27		10		1				
+														
+		//五内前传												
+EventNpc_5nei_gb001	EventNpc	触发动画-酒楼动画	npc\itemnpc057e	47	4	2		4		1				
+EventNpc_5nei_gb002	EventNpc	触发动画-酒楼动画	npc\itemnpc057e	47	4	2		2	56551	1				
+EventNpc_5nei_gb003	EventNpc	触发动画-酒楼动画	npc\itemnpc057e	47	4	2		2	56558	1				
+EventNpc_5nei_gb004	EventNpc	触发动画-酒楼动画	npc\itemnpc057e	47	4	2		2	56559	1				
+EventNpc_5nei_gb005	EventNpc	触发动画-酒楼动画	npc\itemnpc057e	47	4	2		4		1				
+														
+		//唐门5内												
+EventNpc_tm5nei_xiansuo01	EventNpc	追踪毒气	npc\itemnpc057_jlg01	47	4	5		2	57553	0	1			
+EventNpc_tm5nei_xiansuo02	EventNpc	追踪毒气	npc\itemnpc057_jlg01	47	4	5		2	57553	0	2			
+EventNpc_tm5nei_dog	EventNpc	狗咬人	npc\itemnpc057_jlg01	47	4	5		2	57557	1	1			
+EventNpc_tm5nei_down	EventNpc	被击倒	npc\itemnpc057_jlg01	47	4	5		2	57559	1	3			
+EventNpc_tm5nei_fight	EventNpc	大战	npc\itemnpc057_jlg01	47	4	5	5815	4	57559	1	4			
+EventNpc_0tm5nei_mountain01	EventNpc	进入华山	npc\fbmac004012	47	4	5		2	57561	1	1			
+EventNpc_0tm5nei_mountain02	EventNpc	华山之巅	npc\fbmac004012	47	4	15		2	57562	1	1			
+EventNpc_0tm5nei_jzt01	EventNpc	君子堂追击化地	npc\fbmac004012	47	4	6		2	57567	1	4			
+														
+		//快活岛禁地												
+EventNpc_clone031_001	EventNpc	快活岛01	npc\itemnpc057e	47	4	5		10		1				
+EventNpc_clone031_002	EventNpc	快活岛02	npc\itemnpc057e	47	4	5		10		1				
+EventNpc_clone031_003	EventNpc	快活岛03	npc\itemnpc057e	47	4	5		10		1				
+EventNpc_clone031_004	EventNpc	快活岛04	npc\itemnpc057e	47	4	25		10		1				
+EventNpc_clone031_005	EventNpc	快活岛05	npc\itemnpc057e	47	4	5		10		1				
+EventNpc_clone031_006	EventNpc	快活岛06	npc\itemnpc057e	47	4	5		10		1				
+EventNpc_clone031_007	EventNpc	快活岛07	npc\itemnpc057e	47	4	5		10		1				
+EventNpc_clone031_008	EventNpc	快活岛08	npc\itemnpc057e	47	4	5		10		1				
+EventNpc_clone031_009	EventNpc	快活岛09	npc\itemnpc057e	47	4	5		10		1				
+EventNpc_clone031_010	EventNpc	快活岛10	npc\itemnpc057e	47	4	5		10		1				
+														
+Npc_5neijz_57034e_01	EventNpc	取水触发动画	npc\itemnpc057e	47	4	2	5709	4	57034	1				
+npc_5neijy_58533event01	EventNpc	唐门3内奇遇任务	npc\itemnpc057e	47	4	8		2	58533	1	2			
+npc_5neijy_58535event01	EventNpc	唐门3内奇遇任务	npc\itemnpc057e	47	4	8		2	58535	1	1			
+npc_5n_em_11	EventNpc	五内峨眉	npc\itemnpc057e	47	4	8		2	56088	1				
+npc_5n_em_12	EventNpc	五内峨眉	npc\itemnpc057e	47	4	8		2	56089	1				
+EventNpc_5n_zx_01	EventNpc	五内主线第一段	npc\itemnpc057e	47	4	8		2	56102	1				
+EventNpc_5n_zx_02	EventNpc	五内主线第一段	npc\itemnpc057e	47	4	8		2	56103	1				
+EventNpc_5n_zx_03	EventNpc	五内主线第一段	npc\itemnpc057e	47	4	8		2	56105	1				
+EventNpc_5n_zx_04	EventNpc	五内主线第一段	npc\itemnpc057e	47	4	8		2	56107	1				
+EventNpc_5n_zx_05	EventNpc	五内主线第一段	npc\itemnpc057e	47	4	8		2	56107	1				
+EventNpc_5n_zx_06	EventNpc	五内主线第一段	npc\itemnpc057e	47	4	8		2	56107	1				
+EventNpc_5n_zx_07	EventNpc	五内主线第一段	npc\itemnpc057e	47	4	8		2	56106	1				
+EventNpc_5n_zx_08	EventNpc	锦衣夜行进场景播放动画	npc\itemnpc057e	47	4	8	5609	4	56072	1				
+		//千灯劫												
+Npc_event_qdj_001	EventNpc	第二关	npc\worldnpc140	47	4	5		10		1				
+Npc_event_qdj_002	EventNpc	第二关	npc\worldnpc140	47	4	5		10		1				
+Npc_event_qdj_003	EventNpc	第二关	npc\worldnpc140	47	4	5		10		1				
+Npc_event_qdj_004	EventNpc	第二关	npc\worldnpc140	47	4	5		10		1				
+Npc_event_qdj_005	EventNpc	第二关	npc\worldnpc140	47	4	5		10		1				
+Npc_event_qdj_006	EventNpc	第二关	npc\worldnpc140	47	4	5		10		1				
+Npc_event_qdj_007	EventNpc	第二关	npc\worldnpc140	47	4	5		10		1				
+														
+		//血刀门												
+EventNpc_xuedao_001	EventNpc	试刀大会	npc\itemnpc057e	47	4	5		10		1				
+EventNpc_xuedao_002	EventNpc	试刀大会	npc\itemnpc057e	47	4	5		10		1				
+EventNpc_xuedao_003	EventNpc	师门大会	npc\itemnpc057e	47	4	5		10		1				
+		//血刀门奇遇												
+EventNpc_qy_xdm_01	EventNpc	血刀门地图奇遇	npc\itemnpc057e	47	4	5		2	20961	1	1			
+EventNpc_qy_xdm_02	EventNpc	血刀门地图奇遇	npc\itemnpc057e	47	4	5		2	20961	1	2			
+		//念萝坝												
+EventNpc_nianluoba_001	EventNpc	花圃之战	npc\itemnpc057e	47	4	1		10		1				
+EventNpc_nianluoba_002	EventNpc	花圃之战	npc\itemnpc057e	47	4	1		10		1				
+EventNpc_nianluoba_003	EventNpc	花圃之战	npc\itemnpc057e	47	4	1		10		1				
+npc_nlb_brhbz	EventNpc	百荣花孢子	npc\itemnpc1402	47	4	1		10		0				3356
+		//华山魔教入侵												
+EventNpc_hsp_001	CommonNpc	魔教入侵	npc\itemnpc057	202	4	1		10		0				
+EventNpc_hsp_002	EventNpc	魔教入侵	npc\itemnpc057e	47	4	1		10		1				
+EventNpc_hsp_003	EventNpc	魔教入侵	npc\itemnpc057e	47	4	1		10		1				
+														
+EventNpc_hsp_smdh_001	EventNpc	师门大会	npc\itemnpc057e	47	4	1		10		1				
+EventNpc_hsp_wxjz_001	EventNpc	五行剑阵	npc\itemnpc057e	47	4	1		10		1				
+														
+		//华山派灵剑台												
+EventNpc_hsp_ljt_muse	EventNpc	华山派打坐	npc\itemnpc057e	47	4	4		2	30353	1	1			
+														
+		//晴瑶宫												
+EventNpc_qyg_001	EventNpc	晴瑶宫-程坚	npc\itemnpc057e	47	4	1		10		1				
+EventNpc_qyg_002	EventNpc	晴瑶宫-青罴	npc\itemnpc057e	47	4	1		10		1				
+EventNpc_qyg_003	EventNpc	晴瑶宫-双魂狼王	npc\itemnpc057e	47	4	1		10		1				
+EventNpc_qyg_004	EventNpc	桃花阵1	npc\itemnpc057e	47	4	10		10		1				
+EventNpc_qyg_005	EventNpc	桃花阵2	npc\itemnpc057e	47	4	10		10		1				
+EventNpc_qyg_006	EventNpc	桃花阵3	npc\itemnpc057e	47	4	10		10		1				
+EventNpc_qyg_007	EventNpc	桃花阵4	npc\itemnpc057e	47	4	10		10		1				
+EventNpc_qyg_008	EventNpc	桃花阵5	npc\itemnpc057e	47	4	10		10		1				
+														
+		//皇家秘境												
+EventNpc_wyhs_lh_001	EventNpc	场景传送	npc\itemnpc057e	47	4	100		10		1				
+EventNpc_wyhs_lh_002	EventNpc	水银池传送	npc\itemnpc057e	47	4	8		10		1				
+														
+		//晴瑶别院												
+event_qyby01	EventNpc	晴瑶别院	npc\itemnpc057e	47	4	3		10		1				
+event_qyby02	EventNpc	晴瑶别院	npc\itemnpc057e	47	4	3		10		1				
+event_qyby03	EventNpc	晴瑶别院	npc\itemnpc057e	47	4	3		10		1				
+event_qyby04	EventNpc	晴瑶别院	npc\itemnpc057e	47	4	3		10		1				
+event_qyby05	EventNpc	晴瑶别院	npc\itemnpc057e	47	4	3		10		1				
+event_qyby06	EventNpc	晴瑶别院	npc\itemnpc057e	47	4	3		10		1				
+event_qyby07	EventNpc	晴瑶别院	npc\itemnpc057e	47	4	3		10		1				
+event_qyby08	EventNpc	晴瑶别院	npc\itemnpc057e	47	4	3		10		1				
+														
+		//动态副本												
+clonezone_boss_build	EventNpc	刷BOSS点	npc\itemnpc057e	47	4	1		10		1				
+														
+		//凌霄仙主												
+eventnpc_lxxz_xu_001	EventNpc	凌霄城触发NPC	npc\itemnpc057e	47	4	10		2	27553	1				
+eventnpc_lxxz_xu_002	EventNpc	凌霄城触发NPC	npc\itemnpc057e	47	4	10		2	27553	1				
+eventnpc_lxxz_xu_003	EventNpc	凌霄城触发NPC	npc\itemnpc057e	47	4	10		2	27553	1				
+eventnpc_lxxz_xu_004	EventNpc	凌霄城触发NPC	npc\itemnpc057e	47	4	10		2	27553	1				
+eventnpc_lxxz_xu_005	EventNpc	凌霄城触发NPC	npc\itemnpc057e	47	4	10		2	27553	1				
+eventnpc_lxxz_xu_006	EventNpc	凌霄城触发NPC	npc\itemnpc057e	47	4	10		2	27558	1				
+eventnpc_lxxz_xu_007	EventNpc	凌霄城触发NPC	npc\itemnpc057e	47	4	10		2	27558	1				
+eventnpc_lxxz_xu_008	EventNpc	凌霄城触发NPC	npc\itemnpc057e	47	4	10		2	27558	1				
+eventnpc_lxxz_xu_009	EventNpc	凌霄城触发NPC	npc\itemnpc057e	47	4	10		2	27558	1				
+eventnpc_lxxz_xu_010	EventNpc	凌霄城触发NPC	npc\itemnpc057e	47	4	10		2	27558	1				
+														
+eventnpc_clone035_001	EventNpc	单人包子HP	npc\itemnpc057_city05war_baozi	202	4	1		10		0				4198
+eventnpc_clone035_002	EventNpc	单人人参MP	npc\itemnpc057_city05war_renshen	202	4	1		10		0				4199
+														
+Event_clone034_jin1	EventNpc	前往金行台	npc\itemnpc057_yhg08	47	4	1				0				4352
+Event_clone034_jin2	EventNpc	金行台返回	npc\itemnpc057_yhg08	47	4	1				0				4342
+Event_clone034_mu1	EventNpc	前往木行台	npc\itemnpc057_yhg08	47	4	1				0				4353
+Event_clone034_mu2	EventNpc	木行台返回	npc\itemnpc057_yhg08	47	4	1				0				4334
+Event_clone034_shui1	EventNpc	前往水行台	npc\itemnpc057_yhg08	47	4	1				0				4349
+Event_clone034_shui2	EventNpc	水行台返回	npc\itemnpc057_yhg08	47	4	1				0				4336
+Event_clone034_huo1	EventNpc	前往火行台	npc\itemnpc057_yhg08	47	4	1				0				4350
+Event_clone034_huo2	EventNpc	火行台返回	npc\itemnpc057_yhg08	47	4	1				0				4338
+Event_clone034_tu1	EventNpc	前往土行台	npc\itemnpc057_yhg08	47	4	1				0				4351
+Event_clone034_tu2	EventNpc	土行台返回	npc\itemnpc057_yhg08	47	4	1				0				4340
+														
+		//天隐谷禁地												
+EventNpc_clone034_lh_001	CommonNpc	清风谷跳跃圆台3(NPC名字必须配置）	npc\itemnpc057	202	4	2		10		0				4180
+EventNpc_clone034_lh_002	CommonNpc	禁地加速	npc\itemnpc057	202	4	2		10		0				4184
+EventNpc_clone034_lh_003	CommonNpc	清风谷跳跃2	npc\itemnpc057	202	4	2		10		0				4181
+EventNpc_clone034_lh_004	CommonNpc	清风谷跳跃3	npc\itemnpc057	202	4	2		10		0				4182
+EventNpc_clone034_lh_005	CommonNpc	月华池跳跃1	npc\itemnpc057	202	4	2		10		0				4183
+EventNpc_clone034_lh_006	CommonNpc	月华池跳跃2	npc\itemnpc057	202	4	2		10		0				4283
+EventNpc_clone034_lh_007	CommonNpc	月华池跳跃3	npc\itemnpc057	202	4	2		10		0				4284
+EventNpc_clone034_lh_008	CommonNpc	月华池跳跃4	npc\itemnpc057	202	4	2		10		0				4285
+EventNpc_clone034_lh_009	CommonNpc	月华池跳跃5	npc\itemnpc057	202	4	2		10		0				4286
+EventNpc_clone034_lh_010	CommonNpc	月华池跳跃6	npc\itemnpc057	202	4	2		10		0				4287
+EventNpc_clone034_lh_011	CommonNpc	月华池跳跃7	npc\itemnpc057	202	4	2		10		0				4288
+EventNpc_clone034_lh_012	CommonNpc	清风谷崖底跳跃1	npc\itemnpc057	202	4	2		10		0				4187
+EventNpc_clone034_lh_013	CommonNpc	清风谷跳跃圆台1	npc\itemnpc057	202	4	2		10		0				4281
+EventNpc_clone034_lh_014	CommonNpc	清风谷跳跃圆台2	npc\itemnpc057	202	4	2		10		0				4282
+														
+EventNpc_clone034_lh_001a	CommonNpc	清风谷跳跃失败	npc\itemnpc057	202	4	2		10		0				4280
+														
+EventNpc_clone034_lh_015	EventNpc	玄机堡关卡触发	npc\itemnpc057e	47	4	8		10		1				
+														
+														
+	//通天峰													
+Event_clonetower001_xwgsz001	CommonNpc	龟蛇阵	npc\itemnpc057	202	4	5		10		0				
+Event_clonetower001_ys001	CommonNpc	御兽1	npc\itemnpc057	202	4	1		10		1				
+Event_clonetower001_ys002	CommonNpc	御兽2	npc\itemnpc057	202	4	1		10		1				
+Event_clonetower001_ys003	CommonNpc	御兽3	npc\itemnpc057	202	4	1		10		1				
+Event_clonetower001_ys004	CommonNpc	御兽4	npc\itemnpc057	202	4	1		10		1				
+Event_clonetower001_ys005	CommonNpc	御兽5	npc\itemnpc057	202	4	1		10		1				
+Event_clonetower001_ys006	CommonNpc	御兽5	npc\itemnpc057	202	4	1		10		1				
+Event_clonetower001_zhch001	CommonNpc	侦查1	npc\itemnpc057	202	4	1		10		1				
+Event_clonetower001_zhch002	CommonNpc	侦查点1	npc\itemnpc057	202	4	3		10		0				
+Event_clonetower001_zhch003	CommonNpc	侦查点2	npc\itemnpc057	202	4	3		10		0				
+Event_clonetower001_zhch004	CommonNpc	侦查点3	npc\itemnpc057	202	4	3		10		0				
+Event_clonetower001_zhch	CommonNpc	侦查销毁标记	npc\itemnpc057	202	4	3		10		0				
+Event_clonetower001_shw	CommonNpc	御敌销毁标记	npc\itemnpc057	202	4	3		10		0				
+Event_clonetower001_shw002	CommonNpc	御敌刷怪点1	npc\itemnpc057	202	4	3		10		0				
+Event_clonetower001_shw003	CommonNpc	御敌刷怪点2	npc\itemnpc057	202	4	3		10		0				
+Event_clonetower001_shw004	CommonNpc	御敌刷怪点3	npc\itemnpc057	202	4	3		10		0				
+Event_clonetower001_shw005	CommonNpc	御敌刷怪点4	npc\itemnpc057	202	4	3		10		0				
+Event_clonetower001_shw006	CommonNpc	御敌刷怪点5	npc\itemnpc057	202	4	3		10		0				
+Event_clonetower001_shw007	CommonNpc	御敌刷怪点6	npc\itemnpc057	202	4	3		10		0				
+Event_clonetower001_shw008	CommonNpc	御敌刷怪点7	npc\itemnpc057	202	4	3		10		0				
+Event_clonetower001_shw009	CommonNpc	御敌刷怪点8	npc\itemnpc057	202	4	3		10		0				
+Event_clonetower001_star001	CommonNpc	星石迷阵1	npc\itemnpc057	202	4	3		10		0				
+Event_clonetower001_tx_001	CommonNpc	清心檀香	npc\itemnpc057	47	4	3		10		0				
+Event_clonetower001_tx_002	CommonNpc	镇魂檀香	npc\itemnpc057	47	4	3		10		1				
+Event_clonetower001_tx_003	CommonNpc	神行檀香	npc\itemnpc057	47	4	3		10		1				
+														
+		//通天峰-开亦飞												
+Event_clonetower001_hyjj01	EventNpc	火眼金睛1	npc\itemnpc057e	47	4	1		10		1				
+Event_clonetower001_hyjj02	EventNpc	火眼金睛2	npc\itemnpc057e	47	4	1		10		1				
+Event_clonetower001_hyjj03	EventNpc	火眼金睛3	npc\itemnpc057e	47	4	1		10		1				
+Event_clonetower001_hyjj04	EventNpc	火眼金睛4	npc\itemnpc057e	47	4	1		10		1				
+														
+		//通天峰-杨振中												
+Event_clonetower001_mjqy001	EventNpc	魔教前营1	npc\itemnpc057e	47	4	1		10		1				
+														
+eventnpc_clonetower001_xianjin	EventNpc	陷进	npc\hw_xj003	202	4	1		10		0				
+														
+EventNpc_clonetower001_lh_001	EventNpc	通天峰打地鼠玩法	npc\itemnpc057e	47	4	10		10		1				
+														
+		//大漠鬼城-陆文信												
+EventNpcClone038_liusha1	CommonNpc	流沙阵入阵	npc\itemnpc057	202	4	3		6		0				4947
+EventNpcClone038_liusha2	EventNpc	流沙阵出阵	npc\itemnpc057	202	4	3		6		1				
+EventNpcClone038_movie	EventNpc	大漠鬼城电影触发NPC	npc\itemnpc057e	47	4	10		10		1				
+EventNpcClone038_movie_2	EventNpc	大漠鬼城电影触发NPC	npc\itemnpc057e	47	4	10		10		1				
+EventNpcClone038_movie_3	EventNpc	大漠鬼城电影触发NPC	npc\itemnpc057e	47	4	10		10		1				
+														
+Eventnpc_qynew_dy_01	EventNpc	触发NPC（71059）	npc\itemnpc057	202	4	5		2	71080	1				
+Eventnpc_qynew_dy_02	EventNpc	触发NPC（71059）	npc\itemnpc057	202	4	5		2	71081	1				
+Eventnpc_qynew_dy_03	EventNpc	触发NPC（71059）	npc\itemnpc057	202	4	5		2	71082	1				
+Eventnpc_qynew_dy_08	EventNpc	触发NPC（71059）	npc\itemnpc057	202	4	5		2	71083	1				
+Eventnpc_qynew_dy_04	EventNpc	触发NPC（71059）	npc\itemnpc057	202	4	5		2	71085	1				
+Eventnpc_qynew_dy_05	EventNpc	触发NPC（71059）	npc\itemnpc057	202	4	5		2	71085	1				
+Eventnpc_qynew_dy_06	EventNpc	触发NPC（71059）	npc\itemnpc057	202	4	5		2	71085	1				
+Eventnpc_qynew_dy_07	EventNpc	触发NPC（71059）	npc\itemnpc057	202	4	5		2	71086	1				
+														
+EventNpcClone039_movie_1	EventNpc	千苍峡电影触发NPC	npc\itemnpc057e	47	4	10		10		1				
+EventNpcClone039_movie_2	EventNpc	千苍峡电影触发NPC	npc\itemnpc057e	47	4	10		10		1				
+EventNpcClone039_movie_3	EventNpc	千苍峡电影触发NPC	npc\itemnpc057e	47	4	10		10		1				
+EventNpcClone039_movie_4	EventNpc	千苍峡电影触发NPC	npc\itemnpc057e	47	4	10		10		1				
+														
+EventNpcClone002n_movie_1	EventNpc	龙门客栈电影触发NPC	npc\itemnpc057e	47	4	10		10		1				
+														
+EventNpcClone004yin001	EventNpc	雁门引通关动画	npc\itemnpc057e	47	4	10		10		1				
+														
+EventNpcClone041	EventNpc	隐岐群岛	npc\itemnpc057e	47	4	20		10		1				
+														
+Eventnpc_xmg_dy_01	EventNpc	触发NPC（74301）	npc\itemnpc057	202	4	5		2	74331	1	2			
+Eventnpc_xmg_dy_02	EventNpc	触发NPC（74301）	npc\itemnpc057	202	4	5		2	74332	1	1			
+Eventnpc_xmg_dy_03	EventNpc	触发NPC（74301）	npc\itemnpc057	202	4	5		2	74332	1	2			
+Eventnpc_xmg_dy_04	EventNpc	触发NPC（74301）	npc\itemnpc057	202	4	5		2	74332	1	3			
+Eventnpc_xmg_dy_05	EventNpc	触发NPC（74301）	npc\itemnpc057	202	4	5		2	74332	1	4			
+Eventnpc_xmg_dy_06	EventNpc	触发NPC（74301）	npc\itemnpc057	202	4	5		2	74332	1	5			
+Eventnpc_xmg_dy_07	EventNpc	触发NPC（74366）	npc\itemnpc057	202	4	5		2	74336	1	3			
+Eventnpc_xmg_dy_08	EventNpc	触发NPC（74366）	npc\itemnpc057	202	4	5		2	74336	1	4			
+Eventnpc_xmg_dy_09	EventNpc	触发NPC（74366）	npc\itemnpc057	202	4	5		2	74336	1	5			
+Eventnpc_xmg_dy_10	EventNpc	触发NPC（74366）	npc\itemnpc057	202	4	5		2	74342	1	2			
+Eventnpc_xmg_dy_11	EventNpc	触发NPC（74366）	npc\itemnpc057	202	4	5		2	74343	1	3			
+Eventnpc_xmg_dy_12	EventNpc	触发NPC（74366）	npc\itemnpc057	202	4	5		2	74342	1	1			
+														
+EventNpcClone043	EventNpc	隐王峰	npc\itemnpc057e	47	4	15		10		1				
+														
+EventNpcNightmare_001	EventNpc	永夜第一章	npc\itemnpc057	202	4	5				1				
+EventNpcNightmare_002	EventNpc	永夜第一章	npc\itemnpc057	202	4	5				1				
+EventNpcNightmare_003	EventNpc	永夜第一章	npc\itemnpc057	202	4	2				1				
+EventNpcNightmare_004	EventNpc	离开绿竹巷	npc\itemnpc057	202	4	2				1				
+EventNpcNightmare_005	EventNpc	出城	npc\itemnpc057	202	4	2				1				
+EventNpcNightmare_006	EventNpc	过桥	npc\itemnpc057	202	4	2				1				
+EventNpcNightmare_007	EventNpc	逃出洛阳	npc\itemnpc057	202	4	2				1				
+EventNpcNightmare_008	EventNpc	过城里的桥	npc\itemnpc057	202	4	2				1				
+EventNpcNightmare_009	EventNpc	占坑	npc\itemnpc057	202	4	2				1				
+														
+EventNpcClone044	EventNpc	五行天宫	npc\itemnpc057e	47	4	15		10		1				
+														
+EventNpcClone052	EventNpc	人质道中点	npc\itemnpc057	202	4	5				1				
+EventNpcClone052_zhizaoju	EventNpc	人质终点	npc\itemnpc057	202	4	5				1				
+EventNpcClone052_yuhuayuan001	EventNpc	人质终点	npc\itemnpc057	202	4	5				1				
+EventNpcClone052_yuhuayuan002	EventNpc	人质终点	npc\itemnpc057	202	4	5				1				
+EventNpcClone052_lengyuegong_001	EventNpc	人质终点	npc\itemnpc057	202	4	5				1				
+EventNpcClone052_lengyuegong_002	EventNpc	人质终点	npc\itemnpc057	202	4	5				1				
+														
+eventnpc_sec_huifu_001	EventNpc	夜探回血	npc\itemnpc057_city05war_baozi	202	4	1		10		0				5737
+														
+Eventnpc_ty_dy_01	EventNpc	76233传送删buff	npc\itemnpc057	202	4	5		2	76233	1	3			
+Eventnpc_ty_dy_02	EventNpc	76234触发说话1	npc\itemnpc057	202	4	5		2	76234	1	1			
+Eventnpc_ty_dy_03	EventNpc	76234触发说话	npc\itemnpc057	202	4	5		2	76234	1	1			
+Eventnpc_ty_dy_04	EventNpc	76236传送删buff	npc\itemnpc057	202	4	5		2	76236	1	1			
+Eventnpc_ty_dy_05	EventNpc	76240交互子任务	npc\itemnpc057	202	4	5		2	76245	1	4			
+Eventnpc_ty_dy_06	EventNpc	76247交互子任务	npc\itemnpc057	202	4	5		2	76247	1	4			
+Eventnpc_ty_dy_07	EventNpc	76247交互子任务	npc\itemnpc057	202	4	5		2	76240	1	2			
+														
+EventNpcClone053_movie_1	EventNpc	阴阳颠倒宫动画1	npc\itemnpc057	202	4	7				1				
+EventNpcClone053_movie_2	EventNpc	阴阳颠倒宫动画2	npc\itemnpc057	202	4	7				1				
+EventNpcClone053_movie_3	EventNpc	阴阳颠倒宫动画3	npc\itemnpc057	202	4	7				1				
+EventNpcClone053_movie_4	EventNpc	阴阳颠倒宫动画4	npc\itemnpc057	202	4	7				1				
+EventNpcClone053_movie_5	EventNpc	阴阳颠倒宫动画5	npc\itemnpc057	202	4	7				1				
+EventNpcClone053_movie_6	EventNpc	阴阳颠倒宫动画6	npc\itemnpc057	202	4	7				1				
+EventNpcClone053_movie_7	EventNpc	阴阳颠倒宫动画7	npc\itemnpc057	202	4	7				1				
+EventNpcClone053_movie_8	EventNpc	阴阳颠倒宫动画8	npc\itemnpc057	202	4	7				1				
+EventNpcClone053_movie_9	EventNpc	阴阳颠倒宫动画9	npc\itemnpc057	202	4	7				1				
+EventNpcClone053_movie_10	EventNpc	阴阳颠倒宫动画10	npc\itemnpc057	202	4	7				1				
+EventNpcClone053_movie_11	EventNpc	阴阳颠倒宫动画11	npc\itemnpc057	202	4	7				1				
+														
+EventNpcClone053_jiemi_1	TriggerNpc	刑具	npc\itemnpc057_shyb005	202	4	2				0				
+EventNpcClone053_jiemi_2	TriggerNpc	勾包裹	npc\itemnpc057_shyb005	202	4	2				0				
+EventNpcClone053_jiemi_3	TriggerNpc	桌子边宝箱	npc\itemnpc057_shyb005	202	4	2				0				
+EventNpcClone053_jiemi_4	TriggerNpc	桌子包子	npc\itemnpc057_shyb005	202	4	2				0				
+EventNpcClone053_jiemi_5	TriggerNpc	引老鼠	npc\itemnpc057_shyb005	202	4	2				0				
+EventNpcClone053_jiemi_6	TriggerNpc	引蛇胆	npc\itemnpc057_shyb005	202	4	2				0				
+EventNpcClone053_jiemi_7	TriggerNpc	篝火	npc\itemnpc057_shyb005	202	4	2				0				
+EventNpcClone053_jiemi_8	TriggerNpc	机关柱	npc\itemnpc057	202	4	2				0				
+														
+Eventnpc_tls_dy_01	EventNpc	76330交互子任务	npc\itemnpc057	202	4	2		2	76330	1	1			
+Eventnpc_tls_dy_02	EventNpc	76330交互子任务	npc\itemnpc057	202	4	2		2	76331	1	1			
+Eventnpc_tls_dy_03	EventNpc	76330交互子任务	npc\itemnpc057	202	4	2		2	76333	1	1			
+Eventnpc_tls_dy_04	EventNpc	76336交互子任务	npc\itemnpc057	202	4	2		2	76336	1	2			
+Eventnpc_tls_dy_05	EventNpc	76336交互子任务	npc\itemnpc057	202	4	2		2	76329	1	3			
+Eventnpc_tls_dy_001	EventNpc	76336交互子任务	npc\itemnpc057	202	4	2		2	76339	1	1			
+Eventnpc_tls_dy_002	EventNpc	76336交互子任务	npc\itemnpc057	202	4	2		2	76340	1	1			
+														
+Eventnpc_txkyf_001	EventNpc	救援渔村	npc\worldnpc140	47	4	3				1				
+														
+Eventnpc_qyg_dy_01	EventNpc	76651曼娘取钉	npc\itemnpc057	202	4	2		2	76651	1	1			
+Eventnpc_qyg_dy_02	EventNpc	76652踱步	npc\itemnpc057	202	4	2		2	76652	1	4			
+Eventnpc_qyg_dy_03	EventNpc	76653找到弟	npc\itemnpc057	202	4	2		2	76653	1	1			
+Eventnpc_qyg_dy_04	EventNpc	76653回客栈	npc\itemnpc057	202	4	2		2	76653	1	2			
+Eventnpc_qyg_dy_05	EventNpc	76654找到兄	npc\itemnpc057	202	4	2		2	76654	1	3			
+Eventnpc_qyg_dy_06	EventNpc	76656房中休息	npc\itemnpc057	202	4	2		2	76656	1	1			
+Eventnpc_qyg_dy_07	EventNpc	76657马车地点	npc\itemnpc057	202	4	2		2	76657	1	1			
+Eventnpc_qyg_dy_08	EventNpc	76658传送	npc\itemnpc057	202	4	2		2	76658	1	1			
+Eventnpc_qyg_dy_09	EventNpc	76658放动画	npc\itemnpc057	202	4	2		2	76658	1	2			
+Eventnpc_qyg_dy_10	EventNpc	76662暗语1	npc\itemnpc057	202	4	2		2	76662	1	2			
+Eventnpc_qyg_dy_11	EventNpc	76662暗语2	npc\itemnpc057	202	4	2		2	76662	1	2			
+Eventnpc_qyg_dy_12	EventNpc	76662暗语3	npc\itemnpc057	202	4	2		2	76662	1	2			
+														
+Eventnpc_xtb_dy_rd01	EventNpc	76662暗语3	npc\itemnpc057	202	4	2								
+														
+Eventnpc_xtb_dy_01	EventNpc	76861说话	npc\itemnpc057	202	4	2		2	76861	1	1			
+Eventnpc_xtb_dy_02	EventNpc	76864说话	npc\itemnpc057	202	4	2		2	76864	1	3			
+														
+Eventnpc_whz_dy_01	EventNpc	77208交互	npc\itemnpc057	202	4	2		2	77208	1	2			
+Eventnpc_whz_dy_02	EventNpc	77210交互	npc\itemnpc057	202	4	2		2	77210	1	1			
+Eventnpc_whz_dy_03	EventNpc	77210交互	npc\itemnpc057	202	4	2		2	77210	1	2			
+Eventnpc_whz_dy_04	EventNpc	77211交互	npc\itemnpc057	202	4	2		2	77211	1	2			
+Eventnpc_whz_dy_05	EventNpc	77212交互	npc\itemnpc057	202	4	2		2	77212	1	2			
+Eventnpc_whz_dy_06	EventNpc	77217交互	npc\itemnpc057	202	4	2		2	77217	1	3			
+Eventnpc_whz_dy_07	EventNpc	77218交互	npc\itemnpc057	202	4	2		2	77218	1	2			
+Eventnpc_whz_dy_08	EventNpc	77219交互	npc\itemnpc057	202	4	2		2	77219	1	3			
+Eventnpc_whz_dy_09	EventNpc	77219交互	npc\itemnpc057	202	4	2		2	77219	1	3			
+Eventnpc_whz_dy_10	EventNpc	77219交互	npc\itemnpc057	202	4	2		2	77219	1	3			
+Eventnpc_whz_dy_11	EventNpc	77221交互	npc\itemnpc057	202	4	2		2	77221	1	2			
+Eventnpc_whz_dy_12	EventNpc	77221交互	npc\itemnpc057	202	4	2		2	77221	1	3			
+Eventnpc_whz_dy_13	EventNpc	77221交互	npc\itemnpc057	202	4	2		2	77221	1	3			
+Eventnpc_whz_dy_14	EventNpc	77221交互	npc\itemnpc057	202	4	2		2	77221	1	6			
+Eventnpc_whz_dy_15	EventNpc	77221交互	npc\itemnpc057	202	4	2		2	77221	1	4			
+Eventnpc_whz_dy_16	EventNpc	77221交互	npc\itemnpc057	202	4	2		2	77221	1	5			
+Eventnpc_whz_dy_17	EventNpc	77222交互	npc\itemnpc057	202	4	2		2	77222	1	4			
+Eventnpc_whz_dy_18	EventNpc	77222交互	npc\itemnpc057	202	4	2		2	77212	1	3			
+Eventnpc_whz_dy_19	EventNpc	77217交互	npc\itemnpc057	202	4	2		2	77217	1	1			
+Eventnpc_whz_dy_20	EventNpc	77217交互	npc\itemnpc057	202	4	2		2	77217	1	4			
+Eventnpc_whz_dy_21	EventNpc	77217交互	npc\itemnpc057	202	4	2		2	77217	1	5			
+Eventnpc_whz_dy_22	EventNpc	77217交互	npc\itemnpc057	202	4	2		2	77223	1	1			
+														
+	//寂月湾前往比武台													
+Event_home_jyw_go	EventNpc	前往比武台	npc\itemnpc057_yhg08	47	4	1				0				6110
+Event_home_jyw_back	EventNpc	离开比武台	npc\itemnpc057_yhg08	47	4	1				0				6111
+														
+	//小夜宫													
+EventNpcClone055_1	EventNpc		npc\itemnpc057	202	4	10				1				
+EventNpcClone055_2	EventNpc		npc\itemnpc057	202	4	10				1				
+EventNpcClone055_3	EventNpc		npc\itemnpc057	202	4	10				1				
+EventNpcClone055_4	EventNpc		npc\itemnpc057	202	4	10				1				
+EventNpcClone055_5	EventNpc		npc\itemnpc057	202	4	10				1				
+														
+	//五气堡支线													
+Eventnpc_wqb_task_01	EventNpc	79809交互	npc\itemnpc057	202	4	2		2	79809	1	6			
+Eventnpc_wqb_task_02	EventNpc	79810交互	npc\itemnpc057	202	4	2		2	79810	1	2			
+Eventnpc_wqb_task_03	EventNpc	79812交互	npc\itemnpc057	202	4	2		2	79812	1	5			
+Eventnpc_wqb_task_04	EventNpc	79814交互	npc\itemnpc057	202	4	2		2	79814	1	3			
+Eventnpc_wqb_task_05	EventNpc	79816交互	npc\itemnpc057	202	4	2		2	79816	1	5			
+Eventnpc_wqb_task_06	EventNpc	79817交互	npc\itemnpc057	202	4	2		2	79817	1	2			
+Eventnpc_wqb_task_07	EventNpc	79820交互	npc\itemnpc057	202	4	2		2	79820	1	2			
+Eventnpc_wqb_task_08	EventNpc	79822交互	npc\itemnpc057	202	4	2		2	79822	1	2			
+Eventnpc_wqb_task_09	EventNpc	79823交互	npc\itemnpc057	202	4	2		2	79823	1	1			
+														
+	//春山隐庭													
+EventNpcClone063_1	EventNpc		npc\itemnpc057	202	4	10				1				
+EventNpcClone063_2	EventNpc		npc\itemnpc057	202	4	10				1				
+EventNpcClone063_3	EventNpc		npc\itemnpc057	202	4	10				1				
+EventNpcClone063_4	EventNpc		npc\itemnpc057	202	4	10				1				
+EventNpcClone063_5	EventNpc		npc\itemnpc057	202	4	10				1				
+EventNpcClone063_jump	EventNpc		npc\itemnpc057qgyd	202	4	1				0				
+														
+	//潮之巷													
+EventNpcClone062_1	EventNpc		npc\itemnpc057	202	4	10				1				
+EventNpcClone062_2	EventNpc		npc\itemnpc057	202	4	10				1				
+EventNpcClone062_3	EventNpc		npc\itemnpc057	202	4	10				1				
+EventNpcClone062_4	EventNpc		npc\itemnpc057	202	4	10				1				
+														
+NPC_jjgc_20240703_fc_004	EventNpc	隐藏4	npc\worldnpc065	47	4	5		2		1				
+														
+	//溟海													
+EventNpcClone069_1	EventNpc		npc\itemnpc057	202	4	40				1				
+EventNpcClone069_2	EventNpc		npc\itemnpc057	202	4	40				1				
+EventNpcClone069_3	EventNpc		npc\itemnpc057	202	4	40				1				
+EventNpcClone069_4	EventNpc		npc\itemnpc057	202	4	40				1				
+EventNpcClone069_5	EventNpc		npc\itemnpc057	202	4	40				1				
+EventNpcClone069_6	EventNpc		npc\itemnpc057	202	4	40				1				

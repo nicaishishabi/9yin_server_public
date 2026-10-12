@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+	    <creator No="A02F17927EDC43548AC6A7D625F9A4B2" x="561.112" y="361.953" z="1010.911" radius="20.0" WakeupRange="20.0" ChaseRange="20.0" PatrolRange="5.0" TaskSubId="82515" TaskSubType="1" StaticY="1" HateLink="1" SubSceneNo="8364">
+            <item No="1" id="AttackNPC_0tm5nei_mountain01" amount="5" refreshtime="3000" NotPositive="0" desc="化地手下">
+                <position x="563.013" y="361.886" z="1010.817" WeaponName="dk_r_626" WeaponMode="dknife2_2" />
+                <position x="561.875" y="362.689" z="1008.714" az="0.014" WeaponName="dk_r_626" WeaponMode="dknife2_2" />
+                <position x="559.630" y="362.533" z="1011.794" ay="1.820" WeaponName="dk_r_626" WeaponMode="dknife2_2" />
+                <position x="562.480" y="361.259" z="1012.246" WeaponName="dk_r_626" WeaponMode="dknife2_2" />
+                <position x="558.889" y="362.427" z="1013.080" ay="0.855" WeaponName="dk_r_626" WeaponMode="dknife2_2" />
+            </item>
+        </creator>
+        <creator No="890B46AA8AFD4C0A86D7B3EE9F40E634" x="565.733" y="404.414" z="911.505" radius="20.0" WakeupRange="20.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="82516" TaskSubType="1" StaticY="1" HateLink="1" SubSceneNo="8364">
+            <item No="1" id="AttackNPC_0tm5nei_mountain02" amount="5" refreshtime="30000" NotPositive="0" desc="苏虹红手下">
+                <position x="568.652" y="405.928" z="909.348" WeaponName="s_r_258" WeaponMode="sword1_2" />
+                <position x="568.830" y="404.589" z="912.316" WeaponName="s_r_258" WeaponMode="sword1_2" />
+                <position x="563.603" y="405.927" z="911.080" WeaponName="s_r_258" WeaponMode="sword1_2" />
+                <position x="563.754" y="404.130" z="913.781" WeaponName="s_r_258" WeaponMode="sword1_2" />
+                <position x="566.251" y="403.076" z="913.946" WeaponName="s_r_258" WeaponMode="sword1_2" />
+            </item>
+        </creator>
+        <creator No="F921E1A06409407ABAF1D7CA798C4019" x="586.001" y="440.565" z="811.886" radius="20.0" WakeupRange="20.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="82518" TaskSubType="1" StaticY="1" HateLink="1" SubSceneNo="8364">
+            <item No="1" id="AttackNPC_0tm5nei_mountain03" amount="4" refreshtime="3000" NotPositive="0" desc="卓北手下">
+                <position x="588.024" y="442.168" z="811.972" WeaponName="b_r_77" WeaponMode="blade3_1" />
+                <position x="587.531" y="440.701" z="814.728" WeaponName="b_r_77" WeaponMode="blade3_1" />
+                <position x="583.337" y="439.405" z="811.634" WeaponName="b_r_77" WeaponMode="blade3_1" />
+                <position x="585.042" y="441.701" z="809.381" WeaponName="b_r_77" WeaponMode="blade3_1" />
+            </item>
+        </creator>
+		<creator No="65F83BCD197F4C0682BED4D7991F015B" x="627.735" y="522.441" z="896.894" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="82507" TaskSubType="4" StaticY="1" HateLink="0" SubSceneNo="8364">
+            <item No="1" id="NPC_0tm5nei_ysx02" amount="1" refreshtime="3000" NotPositive="0" desc="燕双行">
+                <position x="629.551" y="522.716" z="897.830" ay="-0.490" WeaponName="s_r_260" WeaponMode="sword3_1" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

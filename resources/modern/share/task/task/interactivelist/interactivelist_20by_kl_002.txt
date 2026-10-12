@@ -1,0 +1,78 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	NpcId	SceneID	DialogID	GetItems	LostItems	TrackInfo	OkMenu	TaskID
+75701	newmp_kl_001	448	DialogID_75701			interactinfo_75701	okmenu_75701	75708
+75707	wd170	11	DialogID_75707			interactinfo_75707	okmenu_75707	75730
+75708	EventNpc_klen_001	16	DialogID_75708			interactinfo_75708	okmenu_75708	75732
+75709	newmp_kl_003	448	DialogID_75709			interactinfo_75709	okmenu_75709	75732
+75714	newmp_klzyb_016	448						
+75702	Event_klzyb_001	448				interactinfo_75702		75708
+75703	newmp_klzyb_003	448	DialogID_75703	item_klzyb_001-1		interactinfo_75703	okmenu_75703	75709
+75704	newmp_klzyb_002	448	DialogID_75704		item_klzyb_001-1	interactinfo_75704	okmenu_75704	75709
+75705	Event_klzyb_002	448				interactinfo_75705		75712
+75706	newmp_klzyb_010	448	DialogID_75706	item_klzyb_006-1		interactinfo_75706	okmenu_75706	75715
+75710	Event_klzyb_003	448				interactinfo_75710		75717
+75711	newmp_klzyb_015	448	DialogID_75711			interactinfo_75711	okmenu_75711	75718
+75712	newmp_klzyb_013	448	DialogID_75712	item_klzyb_007-1		interactinfo_75712	okmenu_75712	75718
+75713	newmp_klzyb_014	448	DialogID_75713	item_klzyb_007-1		interactinfo_75713	okmenu_75713	75718
+75716	newmp_klzyb_018	448	DialogID_75716		item_klzyb_008-1	interactinfo_75716	okmenu_75716	75720
+75715	Event_klzyb_004	448				interactinfo_75715		75720
+75719	newmp_klzyb_020	448	DialogID_75719		item_klzyb_006-1	interactinfo_75719	okmenu_75719	75721
+75717	Event_klzyb_008	448				interactinfo_75717		75721
+75720	Event_klzyb_007	448				interactinfo_75720		75722
+75721	Event_klzyb_009	448				interactinfo_75721		75722
+75718	Event_klzyb_006	448				interactinfo_75718		75721
+75728	npcmp_lzy_tyhg_drrc_001_a	456	DialogID_75728			interactinfo_75728	okmenu_75728	75755
+75729	npcmp_lzy_tyhg_drrc_001_b	456	DialogID_75729			interactinfo_75729	okmenu_75729	75755
+75730	npcmp_lzy_tyhg_drrc_001_c	456	DialogID_75730			interactinfo_75730	okmenu_75730	75755
+75722	newmp_tyhg_kldh01	456	DialogID_75722			interactinfo_75722	okmenu_75722	75751
+75723	newmp_tyhg_001	456	DialogID_75723			interactinfo_75723	okmenu_75723	75751
+75724	newmp_tyhg_001	456	DialogID_75724			interactinfo_75724	okmenu_75724	75751
+75725	newmp_kl_001	456	DialogID_75725			interactinfo_75725	okmenu_75725	75752
+75726	newmp_tyhg_001	456	DialogID_75726			interactinfo_75726	okmenu_75726	75753
+75727	newmp_tyhg_kldh01	456	DialogID_75727			interactinfo_75727	okmenu_75727	75754
+75732						interactinfo_75732		75758
+75731						interactinfo_75731		75756
+75760	gujian_2021_88_001	473	DialogID_75760			interactinfo_75760	okmenu_75760	75760
+75763	gujian_2021_88_01	473	DialogID_75763			interactinfo_75763	okmenu_75763	75761
+75767	Event_gujzlcy0102	473				interactinfo_75767		75762
+75766	gujian_2021_88_0101	473	DialogID_75766			interactinfo_75766	okmenu_75766	75762
+75768	gujian_2021_88_0101	473	DialogID_75768			interactinfo_75768	okmenu_75768	75762
+75769	gujian_2021_88_0102	473	DialogID_75769			interactinfo_75769	okmenu_75769	75762
+75770	gujian_2021_88_0101	473	DialogID_75770			interactinfo_75770	okmenu_75770	75762
+75771	Event_gujzlcy0201	473				interactinfo_75771		75763
+75773	Event_gujzlcy0202	473				interactinfo_75773		75763
+75774	Event_gujzlcy0203	473				interactinfo_75774		75763
+75772	gujian_2021_88_0201	473	DialogID_75772			interactinfo_75772	okmenu_75772	75763
+75775	gujian_2021_88_0301	473	DialogID_75775	useitem_20210808_guji_001-2		interactinfo_75775	okmenu_75775	75765
+75776	gujian_2021_88_0302	473	DialogID_75776	useitem_20210808_guji_002-1		interactinfo_75776	okmenu_75776	75766
+75778	gujian_2021_88_0305	473	DialogID_75778			interactinfo_75778	okmenu_75778	75767
+75779	gujian_2021_88_0306	473	DialogID_75779			interactinfo_75779	okmenu_75779	75767
+75780	gujian_2021_88_0307	473	DialogID_75780			interactinfo_75780	okmenu_75780	75767
+75781	Event_gujzlcy0303	473				interactinfo_75781		75768
+75783	Gather_gujian_005	473				interactinfo_75783		75768
+75782	gujian_2021_88_0309	473	DialogID_75782			interactinfo_75782	okmenu_75782	75768
+75785	Gather_gujian_006	473				interactinfo_75785		75769
+75786	Gather_gujian_007	473				interactinfo_75786		75769
+75787	gujian_2021_88_0310	473	DialogID_75787		taskitem_gujian_005-1|taskitem_gujian_006-1	interactinfo_75787	okmenu_75787	75769
+75788	gujian_2021_88_0311	473	DialogID_75788			interactinfo_75788	okmenu_75788	75770
+75789	gujian_2021_88_0313	473	DialogID_75789		taskitem_gujian_007-1	interactinfo_75789	okmenu_75789	75771
+75790	gujian_2021_88_0314	473	DialogID_75790		taskitem_gujian_007-1	interactinfo_75790	okmenu_75790	75771
+75791	gujian_2021_88_0315	473	DialogID_75791			interactinfo_75791	okmenu_75791	75772
+75761	gujian_2021_88_002	473	DialogID_75761	item_guj_20210808_001-1		interactinfo_75761	okmenu_75761	75760
+75762	gujian_2021_88_001	473	DialogID_75762		item_guj_20210808_002-1|item_guj_20210808_003-1|item_guj_20210808_004-1|item_guj_20210808_001-1	interactinfo_75762	okmenu_75762	75760
+75764	gujian_2021_88_02	473	DialogID_75764	item_guj_20210808_01-1		interactinfo_75764	okmenu_75764	75761
+75765	gujian_2021_88_01	473	DialogID_75765		item_guj_20210808_02-1|item_guj_20210808_03-1|item_guj_20210808_04-1|item_guj_20210808_01-1	interactinfo_75765	okmenu_75765	75761
+75777	gujian_2021_88_0303	473	DialogID_75777			interactinfo_75777	okmenu_75777	75766
+75784	Event_gujzlcy0304	473				interactinfo_75784		75769
+75792	gujian_2021_88_011301	473	DialogID_75792	useitem_18a_guj_001-1		interactinfo_75792	okmenu_75792	75784
+75740	newmp_xingtb_001	1036						
+75742	EventNpc_xtshp_001	16	DialogID_75742			interactinfo_75742	okmenu_75742	
+75743	newmp_xingtb_002	1036	DialogID_75743			interactinfo_75743	okmenu_75743	
+75744	eventnpc_shp_xingtc_003	1036				interactinfo_75744		75744
+75746	npc_shp_xingtc_001	1036	DialogID_75746		caiyao20002-5	interactinfo_75746	okmenu_75746	75745
+75747	eventnpc_shp_xingtc_004	1036				interactinfo_75747		75746
+75739								
+75738								
+75748	npc_shp_xingtc_007	1036	DialogID_75748			interactinfo_75748	okmenu_75748	75747
+75749	npc_shp_xingtc_008	1036	DialogID_75749			interactinfo_75749	okmenu_75749	75748
+75745	npc_shp_xingtc_006	1036	DialogID_75745			interactinfo_75745	okmenu_75745	75744

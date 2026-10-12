@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="CA98356CFC904E8F9EBD3E32EC478FFB" x="-538.268" y="166.637" z="-400.217" radius="12.5" WakeupRange="12.9" ChaseRange="30.3" PatrolRange="13.1" TaskSubId="15571" TaskSubType="1" HateLink="1">
+            <item No="1" id="xdm_xueya_gdj" ay="-1" amount="14" refreshtime="5" desc="血蚜">
+                <position x="-530.986" z="-395.935" ay="-1" />
+                <position x="-534.332" z="-391.967" ay="-1" />
+                <position x="-537.290" z="-391.841" ay="-1" />
+                <position x="-543.596" z="-405.286" ay="-1" />
+                <position x="-534.903" z="-404.043" ay="-1" />
+                <position x="-527.154" z="-398.040" ay="-1" />
+                <position x="-527.986" z="-396.315" ay="-1" />
+                <position x="-529.789" z="-392.730" ay="-1" />
+                <position x="-537.140" z="-395.260" ay="-1" />
+                <position x="-533.196" z="-400.485" ay="-1" />
+                <position x="-536.278" z="-396.976" ay="-1" />
+                <position x="-540.250" z="-406.243" ay="-1" />
+                <position x="-530.440" z="-401.182" ay="-1" />
+                <position x="-533.828" z="-398.793" ay="-1" />
+            </item>
+		</creator>
+		<creator No="89A2B37B83E74BABA0C1957E814944CE" x="-206.735" y="305.634" z="-483.989" radius="9.7" WakeupRange="16.0" ChaseRange="28.0" PatrolRange="-1.0" TaskSubId="15576" TaskSubType="2" HateLink="1">
+			<item No="1" id="xdm_pantu_gdj" ay="3.655" amount="6" refreshtime="5" desc="叛徒">
+				<position x="-206.585" z="-483.781" ay="3.655" BornAction="sitloop"/>
+				<position x="-209.936" z="-485.462" ay="5.543" az="0.028" BornAction="excite"/>
+				<position x="-209.236" z="-480.113" ay="3.233" BornAction="h_stand_12"/>
+				<position x="-203.576" z="-478.054" ay="1.337" BornAction="sitloop"/>
+				<position x="-204.451" z="-483.675" ay="6.050" BornAction="sitloop"/>
+				<position x="-206.872" z="-489.165" ay="2.600" az="0.034" BornAction="scratch"/>
+            </item>
+        </creator>
+        <creator No="25BB93CFF8024316B7A875F075B88316" x="102.627" y="177.606" z="-512.550" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15555" TaskSubType="1" HateLink="1">
+            <item No="1" id="NPC_xdm_dy_ars2" ay="-1.460" amount="1" refreshtime="10000" NotPositive="0" desc="灵兽" />
+        </creator>
+        <creator No="865457830A2A4A58AF8A009D6549A235" x="-527.007" y="-6.261" z="-1546.065" radius="1.9" WakeupRange="2.2" ChaseRange="2.7" PatrolRange="2.0" TaskSubId="15575" TaskSubType="2" HateLink="1">
+            <item No="1" id="xdm_duchong_gdj" ay="-1" amount="3" refreshtime="5" desc="毒虫（黑石洞窟）">
+                <position x="-526.125" z="-1546.422" ay="-1" />
+                <position x="-526.277" z="-1545.276" ay="-1" />
+                <position x="-526.569" z="-1544.723" ay="-1" />
+            </item>
+        </creator>
+        <creator No="80CB918446A144B4AAF55515C2F9259A" x="-564.498" y="-6.475" z="-1594.311" radius="2.5" WakeupRange="4.2" ChaseRange="9.5" PatrolRange="3.0" TaskSubId="15575" TaskSubType="2" HateLink="1">
+            <item No="1" id="xdm_duchong_gdj" ay="-1" amount="3" refreshtime="5" desc="毒虫（黑石洞窟）">
+                <position x="-565.904" z="-1594.840" ay="-1" />
+                <position x="-564.739" z="-1593.265" ay="-1" />
+                <position x="-562.881" z="-1594.651" ay="-1" />
+            </item>
+        </creator>
+        <creator No="82CBDFB63DFB4F94AA0DADF1CD3ACCFB" x="-551.347" y="-6.690" z="-1513.311" radius="2.5" WakeupRange="7.7" ChaseRange="6.4" PatrolRange="4.3" TaskSubId="15575" HateLink="1">
+            <item No="1" id="xdm_duchong_gdj" ay="-1" amount="3" refreshtime="5" desc="毒虫（黑石洞窟）">
+                <position x="-552.256" z="-1512.580" ay="-1" />
+                <position x="-552.520" z="-1514.197" ay="-1" />
+                <position x="-550.527" z="-1513.319" ay="-1" />
+            </item>
+        </creator>
+        <creator No="BA8EFCA11AC847F1A503A634367FB177" x="185.031" y="267.124" z="-271.898" radius="8.1" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="-1.0" TaskSubId="15572" TaskSubType="1" HateLink="1">
+            <item No="1" id="xdm_muzhuang_gdj" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="训练木棍">
+                <position x="190.519" z="-272.019" ay="-1" />
+                <position x="189.770" z="-275.917" ay="-1" />
+                <position x="190.003" z="-266.799" ay="-1" />
+            </item>
+        </creator>
+        <creator No="2B912CCEC5EA41BF89C7742C723BBD4D" x="180.579" y="267.124" z="-273.554" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="-1.0" TaskSubId="15572" TaskSubType="1" HateLink="1">
+            <item No="1" id="xdm_muzhuang_gdj" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="训练木棍">
+                <position x="182.728" z="-270.381" ay="-1" />
+                <position x="182.919" z="-276.963" ay="-1" />
+                <position x="182.920" z="-273.216" ay="-1" />
+            </item>
+        </creator>
+		<creator No="B90AC0DA27E74C98BEDD27ECFD568D8F" x="185.0" y="265.3" z="-262.273" radius="4.3" WakeupRange="6.3" ChaseRange="6.9" PatrolRange="-1.0" TaskSubId="15573" TaskSubType="1" HateLink="1">
+			<item No="1" id="xdm_qiufan_gdj" ay="3.0" amount="3" refreshtime="5" NotPositive="0" desc="犯人">
+				<position x="185.0" z="-262.1" ay="3.0" BornAction="ty_kneel_peccavi"/>
+				<position x="188.285" z="-262.1" ay="3.0" BornAction="ty_kneel_entreat"/>
+				<position x="179.9" z="-262.1" ay="3.0" BornAction="diedownloop"/>
+			</item>
+		</creator>
+        <creator No="0887DBF4F4E248829E51C3C60E45E1D7" x="284.096" y="263.403" z="-282.299" radius="3.3" WakeupRange="16.0" ChaseRange="10.6" PatrolRange="-1.0" TaskSubId="15573" TaskSubType="2" HateLink="1">
+            <item No="1" id="xdm_mitan_gdj" ay="3.233" amount="2" refreshtime="5" NotPositive="0" desc="朝廷密探">
+                <position x="285.034" z="-280.309" ay="3.233" BornAction="ty_kneel_peccavi" WeaponMode="hand2_1" />
+                <position x="286.321" z="-282.467" ay="4.778" BornAction="ty_kneel_peccavi" />
+            </item>
+        </creator>
+        <creator No="6DD18AF879C34275B5BFE894A674F1F2" x="-440.800" y="180.410" z="-323.843" radius="5.0" WakeupRange="11.6" ChaseRange="10.4" PatrolRange="5.2" TaskSubId="15575" TaskSubType="1" HateLink="1">
+            <item No="1" id="xdm_xuezhi_gdj" ay="3.233" amount="5" refreshtime="5" desc="血蛭">
+                <position x="-443.261" z="-323.199" ay="3.233" />
+                <position x="-440.666" z="-326.882" ay="3.233" />
+                <position x="-437.076" z="-323.882" ay="3.233" />
+                <position x="-440.485" z="-319.761" ay="3.233" />
+                <position x="-442.398" z="-327.214" ay="3.233" />
+            </item>
+        </creator>
+        <creator No="C502AE5D23194BE3AD8D17FA8AC1B926" x="-222.138" y="224.544" z="740.638" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="-1.0" TaskSubId="15576" TaskSubType="1" HateLink="1">
+            <item No="1" id="xdm_jianghuxiaoxiao_gdj" ay="-1" amount="3" refreshtime="5" desc="江湖宵小">
+                <position x="-220.644" z="742.740" ay="-1" />
+                <position x="-222.042" z="738.438" ay="-1" />
+                <position x="-219.741" z="738.823" ay="-1" BornAction="sitloop" />
+            </item>
+        </creator>
+        <creator No="179DE437463F45DABA6EADCA1C8CA336" x="-219.327" y="223.207" z="727.525" radius="12.8" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="12.2" TaskSubId="15576" TaskSubType="1" HateLink="1">
+            <item No="1" id="xdm_jianghuxiaoxiao_gdj" ay="-1" amount="3" refreshtime="5" desc="江湖宵小">
+                <position x="-220.937" z="725.405" ay="-1" />
+                <position x="-221.811" z="728.755" ay="-1" />
+                <position x="-216.739" z="729.146" ay="-1" />
+            </item>
+        </creator>
+        <creator No="B9542A911A554710A3BC70535F577247" x="-200.445" y="324.612" z="-57.356" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="-1.0" TaskSubId="15574" TaskSubType="1" HateLink="1">
+            <item No="1" id="xdm_shafahuanying_gdj" ay="6.096" amount="4" refreshtime="5" desc="杀伐幻象">
+                <position x="-197.241" z="-55.097" ay="6.096" BornAction="atkhit3" />
+                <position x="-199.330" z="-59.983" ay="2.653" BornAction="h_parry_hitdownloop_1" />
+                <position x="-198.580" z="-53.564" ay="2.653" BornAction="atkhit3" />
+                <position x="-198.332" z="-58.053" ay="2.653" BornAction="sitloop" />
+            </item>
+        </creator>
+        <creator No="F5CBF68966284C97B12DC86F5AF29619" x="-621.250" y="312.338" z="-165.096" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="NPC_xdm_dy_zp" ay="2.481" amount="2" refreshtime="30000" NotPositive="0" desc="江湖人">
+                <position x="-620.853" z="-166.987" ay="2.481" BornAction="parry_hitdownloop" />
+                <position x="-619.919" z="-163.644" ay="2.481" BornAction="parry_hitdownloop" />
+            </item>
+        </creator>
+        <creator No="5D1A4AA5FE3443148AE652DA61A7C82E" x="-654.328" y="315.191" z="-157.007" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="NPC_xdm_dy_zp1" ay="3.096" amount="2" refreshtime="30000" NotPositive="0" desc="江湖人">
+                <position x="-655.818" z="-159.378" ay="3.096" BornAction="parry_hitdownloop" />
+                <position x="-654.195" z="-156.068" ay="3.096" BornAction="parry_hitdownloop" />
+            </item>
+        </creator>
+        <creator No="6A27BD2749714F5B80AEB580F4EA9EB3" x="-639.011" y="313.972" z="-156.172" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="NPC_xdm_dy_zp2" ay="3.401" amount="2" refreshtime="30000" NotPositive="0" desc="江湖人">
+                <position x="-640.836" z="-157.598" ay="3.401" BornAction="parry_hitdownloop" />
+                <position x="-637.483" z="-156.623" ay="3.401" BornAction="parry_hitdownloop" />
+            </item>
+        </creator>
+        <creator No="BA97912CDAA34FBE854DE29425345EDD" x="-565.818" y="309.593" z="-215.147" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15647" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_mp8" ay="1.261" amount="1" refreshtime="10000" NotPositive="0" desc="唐门精英"/>
+		</creator>
+		<creator No="BA97912CDAA34FBE854DE29425345EDD" x="-573.709" y="309.593" z="-165.970" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15648" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_mp9" ay="1.261" amount="1" refreshtime="10000" NotPositive="0" desc="唐门精英"/>
+		</creator>
+		<creator No="BA97912CDAA34FBE854DE29425345EDD" x="-624.858" y="287.642" z="-245.226" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15649" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_mp10" ay="1.261" amount="1" refreshtime="10000" NotPositive="0" desc="唐门精英"/>
+		</creator>
+		<creator No="BA97912CDAA34FBE854DE29425345EDD" x="-634.373" y="262.501" z="-335.207" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15650" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_mp11" ay="1.261" amount="1" refreshtime="10000" NotPositive="0" desc="唐门精英"/>
+		</creator>
+		<creator No="BA97912CDAA34FBE854DE29425345EDD" x="-565.818" y="309.593" z="-215.147" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15651" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_mp12" ay="1.261" amount="1" refreshtime="10000" NotPositive="0" desc="唐门精英"/>
+		</creator>
+		<creator No="BA97912CDAA34FBE854DE29425345EDD" x="-573.709" y="309.593" z="-165.970" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15652" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_mp13" ay="1.261" amount="1" refreshtime="10000" NotPositive="0" desc="唐门精英"/>
+		</creator>
+		<creator No="BA97912CDAA34FBE854DE29425345EDD" x="-624.858" y="287.642" z="-245.226" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15653" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_mp14" ay="1.261" amount="1" refreshtime="10000" NotPositive="0" desc="唐门精英"/>
+		</creator>
+		<creator No="BA97912CDAA34FBE854DE29425345EDD" x="-634.373" y="262.501" z="-335.207" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15654" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_mp15" ay="1.261" amount="1" refreshtime="10000" NotPositive="0" desc="唐门精英"/>
+		</creator>
+        <creator No="FD52B7986F114009BE7063D631AAAE92" x="-636.470" y="262.501" z="-346.055" radius="5.0" WakeupRange="8.0" ChaseRange="8.0" PatrolRange="5.0" HateLink="1" SubSceneNo="8528">
+            <item No="1" id="NPC_xdm_wj_10" ay="-1" amount="5" refreshtime="5" desc="瘟疫鼠">
+                <position x="-637.255" z="-344.464" ay="-1" />
+                <position x="-639.732" z="-348.739" ay="-1" />
+                <position x="-635.892" z="-347.327" ay="-1" />
+                <position x="-634.395" z="-344.640" ay="-1" />
+                <position x="-633.938" z="-346.781" ay="-1" />
+            </item>
+        </creator>
+        <creator No="F56499F8C8044C3DA935EC2ECBEBD4C3" x="-635.613" y="262.501" z="-333.338" radius="5.0" WakeupRange="8.0" ChaseRange="8.0" PatrolRange="5.0" HateLink="1" SubSceneNo="8528">
+            <item No="1" id="NPC_xdm_wj_10" ay="-1" amount="4" refreshtime="5" desc="瘟疫鼠">
+                <position x="-633.706" z="-332.014" ay="-1" />
+                <position x="-635.874" z="-336.389" ay="-1" />
+                <position x="-635.286" z="-329.631" ay="-1" />
+                <position x="-637.238" z="-334.056" ay="-1" />
+            </item>
+        </creator>
+        <creator No="D0632974F36C4BEBBE5AC0AA4FEED1A7" x="-627.921" y="262.501" z="-340.478" radius="8.0" WakeupRange="8.0" ChaseRange="8.0" PatrolRange="8.0" HateLink="1" SubSceneNo="8528">
+            <item No="1" id="NPC_xdm_wj_10" ay="-1" amount="6" refreshtime="5" desc="瘟疫鼠">
+                <position x="-627.087" z="-345.393" ay="-1" />
+                <position x="-626.719" z="-347.867" ay="-1" />
+                <position x="-624.559" z="-341.459" ay="-1" />
+                <position x="-623.907" z="-339.990" ay="-1" />
+                <position x="-626.018" z="-342.133" ay="-1" />
+                <position x="-629.336" z="-342.925" ay="-1" />
+            </item>
+        </creator>
+        <creator No="E8B722E299A84A0DB69410E2EA079E72" x="-625.405" y="262.501" z="-332.971" radius="5.0" WakeupRange="8.0" ChaseRange="8.0" PatrolRange="5.0" HateLink="1" SubSceneNo="8528">
+            <item No="1" id="NPC_xdm_wj_10" ay="-1" amount="5" refreshtime="5" desc="瘟疫鼠">
+                <position x="-625.367" z="-336.245" ay="-1" />
+                <position x="-626.955" z="-335.684" ay="-1" />
+                <position x="-625.377" z="-329.664" ay="-1" />
+                <position x="-622.028" z="-332.291" ay="-1" />
+                <position x="-622.648" z="-333.432" ay="-1" />
+            </item>
+        </creator>
+        <creator No="7B4526102AF74188839A43F62ED646F2" x="-648.659" y="264.041" z="-339.549" radius="5.0" WakeupRange="8.0" ChaseRange="8.0" PatrolRange="5.0" HateLink="1" SubSceneNo="8528">
+            <item No="1" id="NPC_xdm_wj_10" ay="-1" amount="4" refreshtime="5" desc="瘟疫鼠">
+                <position x="-646.719" z="-340.725" ay="-1" />
+                <position x="-648.375" z="-343.375" ay="-1" />
+                <position x="-652.584" z="-337.762" ay="-1" />
+                <position x="-647.071" z="-339.218" ay="-1" />
+            </item>
+        </creator>
+        <creator No="4F97827AF48F40C69F091E63D63F2A15" x="-633.189" y="262.501" z="-357.581" radius="5.0" WakeupRange="8.0" ChaseRange="8.0" PatrolRange="5.0" HateLink="1" SubSceneNo="8528">
+            <item No="1" id="NPC_xdm_wj_10" ay="-1" amount="5" refreshtime="5" desc="瘟疫鼠">
+                <position x="-635.048" z="-356.168" ay="-1" />
+                <position x="-630.611" z="-356.559" ay="-1" />
+                <position x="-636.072" z="-359.647" ay="-1" />
+                <position x="-631.307" z="-359.880" ay="-1" />
+                <position x="-632.602" z="-355.157" ay="-1" />
+            </item>
+        </creator>
+        <creator No="4E826D3F5E1A43028BE0BDDCB50A70C5" x="-626.845" y="262.501" z="-350.833" radius="8.0" WakeupRange="8.0" ChaseRange="8.0" PatrolRange="8.0" HateLink="1" SubSceneNo="8528">
+            <item No="1" id="NPC_xdm_wj_10" ay="-1" amount="6" refreshtime="5" desc="瘟疫鼠">
+                <position x="-629.874" z="-350.409" ay="-1" />
+                <position x="-623.828" z="-351.110" ay="-1" />
+                <position x="-629.769" z="-352.478" ay="-1" />
+                <position x="-626.756" z="-353.167" ay="-1" />
+                <position x="-625.874" z="-346.456" ay="-1" />
+                <position x="-622.172" z="-348.008" ay="-1" />
+            </item>
+        </creator>
+        <creator No="6483EE71121C454F9A3428F004AFB0F8" x="-257.026" y="321.571" z="352.263" radius="2.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="Attack_npc_xdm_wj_02" ay="4.704" amount="1" refreshtime="30" NotPositive="0" desc="锦衣卫密探">
+                <position x="-256.449" z="352.116" ay="4.704" BornAction="ty_crouch_loop" />
+            </item>
+        </creator>
+        <creator No="9FD24AEAF6574BC19922E2F75488FCBD" x="-258.038" y="318.328" z="361.581" radius="2.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="Attack_npc_xdm_wj_02" ay="4.704" amount="1" refreshtime="30" NotPositive="0" desc="锦衣卫密探">
+                <position x="-258.887" z="361.156" ay="4.704" BornAction="ty_crouch_loop" />
+            </item>
+        </creator>
+        <creator No="34BDAC245D1C488BBE24657697B7F4D2" x="-256.776" y="316.469" z="368.717" radius="2.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="Attack_npc_xdm_wj_02" ay="4.704" amount="1" refreshtime="30" NotPositive="0" desc="锦衣卫密探">
+                <position x="-255.845" z="369.161" ay="4.704" BornAction="ty_crouch_loop" />
+            </item>
+        </creator>
+        <creator No="610B78EF8D534CE79E256F46649FDD89" x="-309.320" y="329.669" z="376.745" radius="2.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="Attack_npc_xdm_wj_02" ay="2.014" amount="1" refreshtime="30" NotPositive="0" desc="锦衣卫密探">
+                <position x="-309.092" z="377.294" ay="2.014" BornAction="ty_crouch_loop" />
+            </item>
+        </creator>
+        <creator No="1DBA78507D044A748B80D378C89BAC81" x="-294.525" y="308.915" z="412.299" radius="2.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="Attack_npc_xdm_wj_02" ay="2.014" amount="1" refreshtime="30" NotPositive="0" desc="锦衣卫密探">
+                <position x="-295.179" z="411.572" ay="2.014" BornAction="ty_crouch_loop" />
+            </item>
+        </creator>
+        <creator No="DA226570B5A148F9A38A612396937253" x="-299.967" y="306.950" z="420.911" radius="2.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="Attack_npc_xdm_wj_02" ay="2.014" amount="1" refreshtime="30" NotPositive="0" desc="锦衣卫密探">
+                <position x="-300.361" z="420.741" ay="2.014" BornAction="ty_crouch_loop" />
+            </item>
+        </creator>
+        <creator No="8ECACEA192394307A873BC941A5D9327" x="-245.502" y="307.450" z="401.050" radius="2.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="Attack_npc_xdm_wj_02" ay="4.547" amount="1" refreshtime="30" NotPositive="0" desc="锦衣卫密探">
+                <position x="-245.353" z="401.380" ay="4.547" BornAction="ty_crouch_loop" />
+            </item>
+        </creator>
+        <creator No="59D3FA886C2F4B20B9E37A9117B95F4F" x="-271.143" y="290.795" z="454.810" radius="2.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="Attack_npc_xdm_wj_02" ay="3.667" amount="1" refreshtime="30" NotPositive="0" desc="锦衣卫密探">
+                <position x="-270.460" z="455.156" ay="3.667" BornAction="ty_crouch_loop" />
+            </item>
+        </creator>
+        <creator No="F440662E332F4F16B257723B72B2A13D" x="193.512" y="264.423" z="-349.357" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8527">
+            <item No="1" id="NPC_xdm_dy_tm" ay="1.820" amount="2" refreshtime="-1" NotPositive="0" desc="同门">
+                <position x="191.387" z="-349.133" ay="1.820" />
+                <position x="194.955" z="-350.266" ay="-0.925" />
+            </item>
+        </creator>
+        <creator No="E104C6BAB0404689B124338D86D8204F" x="186.465" y="264.417" z="-350.738" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8527">
+            <item No="1" id="NPC_xdm_dy_tm" ay="1.820" amount="2" refreshtime="-1" NotPositive="0" desc="同门">
+                <position x="184.340" z="-350.514" ay="1.820" />
+                <position x="187.908" z="-351.647" ay="-0.925" />
+            </item>
+        </creator>
+        <creator No="D3EFB13E27D34E5DAE0DBB825FDA9504" x="-409.762" y="436.186" z="-555.415" radius="3.6" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="4.0" TaskSubId="15579" TaskSubType="1" HateLink="1">
+            <item No="1" id="xdm_gdj_shifuwuya" ay="4.778" amount="5" refreshtime="5" desc="食腐乌鸦">
+                <position x="-411.768" z="-555.048" ay="4.778" />
+                <position x="-408.310" z="-553.337" ay="4.778" />
+                <position x="-408.568" z="-557.200" ay="4.778" />
+                <position x="-410.866" z="-552.925" ay="4.778" />
+                <position x="-409.953" z="-554.915" ay="4.778" />
+            </item>
+        </creator>
+        <creator No="1FE8BA9AB9914712A58F98791E19F73A" x="-563.878" y="-7.335" z="-1747.951" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="7.0" HateLink="1">
+            <item No="1" id="Boss_xdm_XY" ay="5.922" amount="1" refreshtime="7200000" desc="马宁儿" />
+        </creator>
+        <creator No="F175190E45484D58859CE7FB459C95AC" x="-664.818" y="265.070" z="-363.210" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="NPC_xdm_dy_muz" ay="-1" amount="1" refreshtime="5" desc="同门">
+                <position x="-664.616" z="-364.104" ay="-1" />
+            </item>
+        </creator>
+        <creator No="8C816281B4DB479BB53DA5DCF073631C" x="-503.825" y="327.248" z="-542.592" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15700" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_lsxg" sx="0.310" sy="0.310" sz="0.310" ay="1.426" amount="1" refreshtime="10000" NotPositive="0" desc="灵兽"/>
+		</creator>
+		<creator No="8C816281B4DB479BB53DA5DCF073631C" x="-469.269" y="319.082" z="-535.292" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15701" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_lsxg1" sx="0.310" sy="0.310" sz="0.310" ay="1.426" amount="1" refreshtime="10000" NotPositive="0" desc="灵兽"/>
+		</creator>
+		<creator No="8C816281B4DB479BB53DA5DCF073631C" x="-460.944" y="313.824" z="-516.731" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15703" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_lsxg2" sx="0.310" sy="0.310" sz="0.310" ay="1.426" amount="1" refreshtime="10000" NotPositive="0" desc="灵兽"/>
+		</creator>
+		<creator No="8C816281B4DB479BB53DA5DCF073631C" x="-468.126" y="312.283" z="-491.593" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15702" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_lsxg3" sx="0.310" sy="0.310" sz="0.310" ay="1.426" amount="1" refreshtime="10000" NotPositive="0" desc="灵兽"/>
+		</creator>
+		<creator No="8C816281B4DB479BB53DA5DCF073631C" x="-346.172" y="304.250" z="-479.523" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15704" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_lsxg4" sx="0.310" sy="0.310" sz="0.310" ay="1.426" amount="1" refreshtime="10000" NotPositive="0" desc="灵兽"/>
+		</creator>
+		<creator No="8C816281B4DB479BB53DA5DCF073631C" x="-319.230" y="305.635" z="-491.368" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15705" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_lsxg5" sx="0.310" sy="0.310" sz="0.310" ay="1.426" amount="1" refreshtime="10000" NotPositive="0" desc="灵兽"/>
+		</creator>
+		<creator No="8C816281B4DB479BB53DA5DCF073631C" x="-322.731" y="304.413" z="-464.325" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15707" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_lsxg6" sx="0.310" sy="0.310" sz="0.310" ay="1.426" amount="1" refreshtime="10000" NotPositive="0" desc="灵兽"/>
+		</creator>
+		<creator No="8C816281B4DB479BB53DA5DCF073631C" x="-397.728" y="305.070" z="-488.874" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15708" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_lsxg7" sx="0.310" sy="0.310" sz="0.310" ay="1.426" amount="1" refreshtime="10000" NotPositive="0" desc="灵兽"/>
+		</creator>
+		<creator No="213B96128D2E4510B658E4009294A177" x="-148.862" y="305.348" z="-507.558" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15710" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_mpxg" ay="-2.011" amount="1" refreshtime="10000" NotPositive="0" desc="灵兽"/>
+		</creator>
+		<creator No="213B96128D2E4510B658E4009294A177" x="-146.760" y="305.663" z="-513.194" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15711" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_mpxg1" ay="-2.011" amount="1" refreshtime="10000" NotPositive="0" desc="灵兽"/>
+		</creator>
+		<creator No="213B96128D2E4510B658E4009294A177" x="-167.146" y="305.678" z="-513.950" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15712" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_mpxg2" ay="-2.011" amount="1" refreshtime="10000" NotPositive="0" desc="灵兽"/>
+		</creator>
+		<creator No="213B96128D2E4510B658E4009294A177" x="-170.332" y="304.850" z="-473.905" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15713" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_mpxg3" ay="-2.011" amount="1" refreshtime="10000" NotPositive="0" desc="灵兽"/>
+		</creator>
+		<creator No="213B96128D2E4510B658E4009294A177" x="-227.526" y="304.507" z="-468.168" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15714" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_mpxg4" ay="-2.011" amount="1" refreshtime="10000" NotPositive="0" desc="灵兽"/>
+		</creator>
+		<creator No="213B96128D2E4510B658E4009294A177" x="-203.817" y="304.741" z="-465.826" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15715" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_mpxg5" ay="-2.011" amount="1" refreshtime="10000" NotPositive="0" desc="灵兽"/>
+		</creator>
+		<creator No="213B96128D2E4510B658E4009294A177" x="-184.691" y="307.771" z="-513.409" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15716" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_mpxg6" ay="-2.011" amount="1" refreshtime="10000" NotPositive="0" desc="灵兽"/>
+		</creator>
+		<creator No="213B96128D2E4510B658E4009294A177" x="-209.358" y="305.634" z="-483.567" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15717" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_mpxg7" ay="-2.011" amount="1" refreshtime="10000" NotPositive="0" desc="灵兽"/>
+		</creator>
+		<creator No="8C816281B4DB479BB53DA5DCF073631C" x="-656.129" y="262.162" z="-301.202" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15720" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_lszf1" sx="3" sy="3" sz="3" ay="1.426" amount="1" refreshtime="10000" NotPositive="0" desc="灵兽"/>
+		</creator>
+		<creator No="8C816281B4DB479BB53DA5DCF073631C" x="-639.790" y="272.362" z="-277.940" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15721" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_lszf2" sx="4" sy="4" sz="4" ay="1.426" amount="1" refreshtime="10000" NotPositive="0" desc="灵兽"/>
+		</creator>
+		<creator No="8C816281B4DB479BB53DA5DCF073631C" x="-664.951" y="286.602" z="-264.836" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15722" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_lszf3" sx="1" sy="1" sz="1" ay="1.426" amount="1" refreshtime="10000" NotPositive="0" desc="灵兽"/>
+		</creator>
+		<creator No="8C816281B4DB479BB53DA5DCF073631C" x="-611.894" y="286.808" z="-217.540" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15723" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_lszf4" sx="1" sy="1" sz="1" ay="1.426" amount="1" refreshtime="10000" NotPositive="0" desc="灵兽"/>
+		</creator>
+		<creator No="213B96128D2E4510B658E4009294A177" x="-504.892" y="309.653" z="-248.608" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15726" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_mpzf1" ay="-2.011" amount="1" refreshtime="10000" NotPositive="0" desc="灵兽"/>
+		</creator>
+		<creator No="213B96128D2E4510B658E4009294A177" x="-473.009" y="309.593" z="-251.877" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15727" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_mpzf2" ay="-2.011" amount="1" refreshtime="10000" NotPositive="0" desc="灵兽"/>
+		</creator>
+		<creator No="213B96128D2E4510B658E4009294A177" x="-584.176" y="299.291" z="-241.633" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15728" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_mpzf3" ay="-2.011" amount="1" refreshtime="10000" NotPositive="0" desc="灵兽"/>
+		</creator>
+		<creator No="213B96128D2E4510B658E4009294A177" x="-638.180" y="262.444" z="-314.376" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15729" TaskSubType="1" HateLink="1">
+			<item No="1" id="NPC_xdm_dy_mpzf4" ay="-2.011" amount="1" refreshtime="10000" NotPositive="0" desc="灵兽"/>
+		</creator>
+    </randomcreator>
+</object>

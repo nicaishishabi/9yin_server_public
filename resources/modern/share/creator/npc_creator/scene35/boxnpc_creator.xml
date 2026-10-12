@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="917BFFFD0BFA4135BADF14613ED6DFB3" x="-755.428" y="19.999" z="880.309" radius="20.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjnormal_01" ay="-1" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="-756.979" z="879.681" ay="-1" />
+            </item>
+            <item No="2" id="Box_qjnormal_03" ay="0.855" amount="0" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="-767.831" z="866.737" ay="0.855" />
+            </item>
+        </creator>
+        <creator No="3262B3F3E9E04CDFBD32E35C4383B167" x="-453.785" y="20.519" z="1011.698" radius="20.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjnormal_02" amount="0" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="-467.076" z="1016.416" />
+            </item>
+            <item No="2" id="Box_qjhard_02" ay="0.795" amount="0" refreshtime="21600000" NotPositive="0" desc="中等宝箱">
+                <position x="-439.062" z="1016.930" ay="0.795" />
+            </item>
+            <item No="3" id="Box_qjnormal_01" ay="-0.065" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="-459.066" z="998.018" ay="-0.065" />
+            </item>
+        </creator>
+        <creator No="841217EAD0C04822B8D35AA3C939C7F7" x="-494.620" y="22.410" z="985.736" radius="20.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjnormal_03" ay="1.135" amount="2" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="-501.214" z="974.719" ay="1.135" />
+                <position x="-500.511" z="988.347" ay="1.580" />
+            </item>
+            <item No="2" id="Box_qjvhard_02" ay="1.580" amount="1" refreshtime="21600000" NotPositive="0" desc="高级宝箱">
+                <position x="-509.654" z="995.837" ay="1.580" />
+            </item>
+        </creator>
+        <creator No="1797296598EA475986D42DA7D84B67D7" x="-240.528" y="26.075" z="867.149" radius="50.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjnormal_03" ay="0.255" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="-251.834" z="856.392" ay="0.255" />
+            </item>
+            <item No="2" id="Box_qjnormal_01" ay="2.395" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="-261.727" z="875.190" ay="2.395" />
+            </item>
+            <item No="3" id="Box_qjvhard_03" ay="0.925" amount="1" refreshtime="21600000" NotPositive="0" desc="高级宝箱">
+                <position x="-245.970" z="870.182" ay="0.925" />
+            </item>
+            <item No="4" id="Box_qjhard_01" ay="4.750" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱">
+                <position x="-218.946" z="876.197" ay="4.750" />
+            </item>
+        </creator>
+        <creator No="6A830617CE044B3DBCF22016AF6CFCE7" x="-33.031" y="28.105" z="928.825" radius="20.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjnormal_03" ay="0.965" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="-31.574" z="928.111" ay="0.965" />
+            </item>
+            <item No="2" id="Box_qjnormal_01" ay="0.590" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="-26.886" z="917.798" ay="0.590" />
+            </item>
+        </creator>
+        <creator No="15BF8AC09FA9455BA2C70879C90B70AE" x="45.689" y="21.308" z="1077.031" radius="20.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjvhard_02" ay="1.460" amount="1" refreshtime="21600000" NotPositive="0" desc="高级宝箱">
+                <position x="39.635" z="1074.845" ay="1.460" />
+            </item>
+            <item No="2" id="Box_qjnormal_03" ay="1.750" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="57.258" z="1079.075" ay="1.750" />
+            </item>
+            <item No="3" id="Box_qjnormal_02" ay="2.860" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="34.440" z="1066.916" ay="2.860" />
+            </item>
+            <item No="4" id="Box_qjhard_02" ay="2.400" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱">
+                <position x="29.148" z="1069.295" ay="2.400" />
+            </item>
+        </creator>
+        <creator No="48C0CDF49FCF499ABBA3A579B89830F2" x="26.792" y="22.864" z="1032.622" radius="20.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjhard_02" ay="1.940" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱">
+                <position x="11.478" z="1040.039" ay="1.940" />
+            </item>
+            <item No="2" id="Box_qjnormal_02" ay="2.435" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="21.624" z="1023.691" ay="2.435" />
+            </item>
+            <item No="3" id="Box_qjnormal_03" ay="2.610" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="27.677" z="1042.749" ay="2.610" />
+            </item>
+            <item No="4" id="Box_qjnormal_01" ay="1.070" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="29.280" z="1032.236" ay="1.070" />
+            </item>
+        </creator>
+        <creator No="EAC560377BD5441998FFE594A9C35DCB" x="26.521" y="23.469" z="969.704" radius="20.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjnormal_03" ay="2.870" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="29.668" z="961.289" ay="2.870" />
+            </item>
+            <item No="2" id="Box_qjnormal_01" ay="2.870" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="37.111" z="974.246" ay="2.870" />
+            </item>
+            <item No="3" id="Box_qjhard_02" ay="2.870" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱">
+                <position x="44.263" z="965.479" ay="2.870" />
+            </item>
+            <item No="4" id="Box_qjnormal_02" ay="1.950" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="34.287" z="983.846" ay="1.950" />
+            </item>
+        </creator>
+        <creator No="5538B6B476B644F48D6C5712A2D1F792" x="137.732" y="28.868" z="1047.263" radius="50.0" WakeupRange="50.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjvhard_03" ay="1.070" amount="1" refreshtime="21600000" NotPositive="0" desc="高级宝箱">
+                <position x="101.762" z="1076.181" ay="1.070" />
+            </item>
+            <item No="2" id="Box_qjhard_02" ay="5.448" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱">
+                <position x="117.574" z="1066.601" ay="5.448" />
+            </item>
+            <item No="3" id="Box_qjnormal_01" ay="6.273" amount="4" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="133.504" z="1032.765" ay="6.273" />
+                <position x="169.816" z="1066.359" ay="6.173" />
+                <position x="147.607" z="1034.847" ay="5.538" />
+                <position x="154.321" z="1045.144" ay="6.258" />
+            </item>
+            <item No="4" id="Box_qjnormal_02" ay="4.893" amount="2" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="162.360" z="1070.924" ay="4.893" />
+                <position x="115.393" z="1016.458" ay="6.258" />
+            </item>
+        </creator>
+        <creator No="69F00C7BD54D4B63B4A9F7ED3FB8F3B3" x="195.830" y="23.603" z="1141.702" radius="50.0" WakeupRange="50.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjvhard_03" ay="2.870" amount="1" refreshtime="21600000" NotPositive="0" desc="高级宝箱">
+                <position x="162.156" z="1169.373" ay="2.870" />
+            </item>
+            <item No="2" id="Box_qjnormal_03" ay="1.750" amount="3" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="155.085" z="1124.391" ay="1.750" />
+                <position x="236.777" z="1128.120" ay="1.750" />
+                <position x="201.268" z="1176.239" ay="3.635" />
+            </item>
+            <item No="3" id="Box_qjnormal_01" ay="1.750" amount="2" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="224.138" z="1153.974" ay="1.750" />
+                <position x="205.638" z="1118.315" ay="3.085" />
+            </item>
+            <item No="4" id="Box_qjhard_02" ay="4.625" amount="2" refreshtime="21600000" NotPositive="0" desc="中等宝箱">
+                <position x="226.060" z="1115.709" ay="4.625" />
+                <position x="224.736" z="1179.179" ay="3.635" />
+            </item>
+            <item No="5" id="Box_qjhard_01" ay="3.635" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱">
+                <position x="217.688" z="1155.450" ay="3.635" />
+            </item>
+        </creator>
+        <creator No="CA9B704163854B529735FB1C7B802DDE" x="-420.900" y="21.185" z="938.316" radius="50.0" WakeupRange="50.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjnormal_01" ay="3.085" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="-451.159" z="951.514" ay="3.085" />
+            </item>
+            <item No="2" id="Box_qjhard_02" ay="1.410" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱">
+                <position x="-376.815" z="952.829" ay="1.410" />
+            </item>
+            <item No="3" id="Box_qjhard_01" ay="0.135" amount="2" refreshtime="21600000" NotPositive="0" desc="中等宝箱">
+                <position x="-398.434" z="964.346" ay="0.135" />
+                <position x="-380.217" z="926.962" ay="0.165" />
+            </item>
+            <item No="4" id="Box_qjnormal_02" ay="6.153" amount="2" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="-446.141" z="976.782" ay="6.153" />
+                <position x="-422.115" z="939.240" ay="6.153" />
+            </item>
+        </creator>
+        <creator No="934CEFAC05C94774B9E9D7005DEB0A99" x="608.745" y="20.950" z="177.458" radius="50.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjhard_02" ay="6.153" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱">
+                <position x="607.715" z="175.744" ay="6.153" />
+            </item>
+            <item No="2" id="Box_qjvhard_01" ax="6.228" ay="5.673" az="0.032" amount="1" refreshtime="21600000" NotPositive="0" desc="高级宝箱">
+                <position x="606.482" z="151.673" ax="6.228" ay="5.673" az="0.032" />
+            </item>
+            <item No="3" id="Box_qjnormal_02" ay="5.673" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="615.827" z="175.149" ay="5.673" />
+            </item>
+            <item No="4" id="Box_qjnormal_01" ay="4.018" amount="2" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="618.562" z="192.694" ay="4.018" />
+                <position x="621.903" z="178.580" ax="6.247" ay="2.488" />
+            </item>
+            <item No="5" id="Box_qjnormal_03" ay="2.933" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="605.925" z="161.931" ay="2.933" />
+            </item>
+        </creator>
+        <creator No="C503CFA259E34CA8BD2D3C369B409E92" x="702.806" y="21.947" z="40.930" radius="50.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjvhard_02" ay="-1" amount="1" refreshtime="21600000" NotPositive="0" desc="高级宝箱">
+                <position x="743.375" z="58.994" ay="-1" />
+            </item>
+            <item No="2" id="Box_qjnormal_01" ay="-1" amount="2" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="682.053" z="15.278" ay="-1" />
+                <position x="689.049" z="58.319" ay="-1" />
+            </item>
+            <item No="3" id="Box_qjnormal_03" ay="-1" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="689.801" z="78.239" ay="-1" />
+            </item>
+            <item No="4" id="Box_qjhard_02" ax="0.392" ay="6.218" az="6.148" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱">
+                <position x="728.723" z="58.654" ax="0.392" ay="6.218" az="6.148" />
+            </item>
+        </creator>
+        <creator No="E963C04B5D454DC3BC3C252C94D5D114" x="-354.893" y="189.436" z="196.662" radius="50.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjnormal_01" ay="6.218" amount="2" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="-326.105" z="200.336" ay="6.218" />
+                <position x="-372.179" z="217.413" ay="5.218" />
+            </item>
+            <item No="2" id="Box_qjvhard_01" ay="5.218" amount="1" refreshtime="21600000" NotPositive="0" desc="高级宝箱">
+                <position x="-331.698" z="158.138" ay="5.218" />
+            </item>
+            <item No="3" id="Box_qjhard_02" ay="5.218" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱">
+                <position x="-318.609" z="186.489" ay="5.218" />
+            </item>
+        </creator>
+        <creator No="E1616AE502884A59AE5C3204BCA9EA26" x="-258.302" y="206.959" z="135.189" radius="50.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjhard_02" ay="5.218" amount="2" refreshtime="21600000" NotPositive="0" desc="中等宝箱">
+                <position x="-267.987" z="121.518" ay="5.218" />
+                <position x="-233.031" z="98.383" ay="0.460" />
+            </item>
+            <item No="2" id="Box_qjnormal_02" ay="0.505" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="-275.870" z="115.448" ay="0.505" />
+            </item>
+            <item No="3" id="Box_qjnormal_03" ay="5.218" amount="2" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="-302.197" z="148.689" ay="5.218" />
+                <position x="-272.691" z="176.263" ay="0.005" />
+            </item>
+            <item No="4" id="Box_qjnormal_01" ay="0.465" amount="3" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="-285.671" z="139.529" ay="0.465" />
+                <position x="-224.819" z="149.417" ay="0.460" />
+                <position x="-216.787" z="150.931" ay="0.460" />
+            </item>
+            <item No="5" id="Box_qjvhard_01" ax="0.008" ay="0.460" amount="2" refreshtime="21600000" NotPositive="0" desc="高级宝箱">
+                <position x="-246.287" z="167.163" ax="0.008" ay="0.460" />
+                <position x="-258.995" z="102.741" ax="0.022" ay="0.460" />
+            </item>
+        </creator>
+        <creator No="0AAB376CF7524761825437AF95693F3F" x="-1170.452" y="20.726" z="524.438" radius="50.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjnormal_01" ay="4.738" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="-1169.510" z="488.362" ay="4.738" />
+            </item>
+            <item No="2" id="Box_qjnormal_03" ay="4.738" amount="2" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="-1152.891" z="535.616" ay="4.738" />
+                <position x="-1169.729" z="561.196" ay="4.738" />
+            </item>
+            <item No="3" id="Box_qjhard_02" ay="0.005" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱">
+                <position x="-1172.080" z="567.010" ay="0.005" />
+            </item>
+        </creator>
+        <creator No="C7611EA36C3B41E9842A780A86E9F4C6" x="-821.623" y="55.369" z="679.556" radius="50.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjnormal_03" ay="4.718" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="-845.663" z="666.992" ay="4.718" />
+            </item>
+            <item No="2" id="Box_qjnormal_01" ay="0.010" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="-831.197" z="660.032" ay="0.010" />
+            </item>
+            <item No="3" id="Box_qjnormal_02" ay="4.733" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="-804.505" z="665.496" ay="4.733" />
+            </item>
+            <item No="4" id="Box_qjhard_02" ay="3.108" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱">
+                <position x="-823.314" z="658.306" ay="3.108" />
+            </item>
+        </creator>
+        <creator No="71B2FE58A6414F1A8B1F00412B6C23C6" x="572.249" y="170.824" z="-266.621" radius="50.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjnormal_03" ay="3.128" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="562.884" z="-235.342" ay="3.128" />
+            </item>
+            <item No="2" id="Box_qjnormal_01" ay="4.738" amount="2" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="599.916" z="-297.122" ay="4.738" />
+                <position x="578.625" z="-235.306" ay="3.115" />
+            </item>
+            <item No="3" id="Box_qjhard_02" ay="4.738" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱">
+                <position x="604.281" z="-244.868" ay="4.738" />
+            </item>
+        </creator>
+        <creator No="11B29344A422411283131D8DA65A9565" x="-1061.559" y="88.548" z="-47.860" radius="50.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjnormal_03" ay="0.035" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="-1103.805" z="-49.764" ay="0.035" />
+            </item>
+            <item No="2" id="Box_qjnormal_01" ay="3.140" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="-1050.186" z="-3.645" ay="3.140" />
+            </item>
+            <item No="3" id="Box_qjnormal_02" ay="3.140" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="-1046.912" z="-72.637" ay="3.140" />
+            </item>
+            <item No="4" id="Box_qjhard_02" ay="3.140" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱">
+                <position x="-1034.377" z="-79.850" ay="3.140" />
+            </item>
+        </creator>
+        <creator No="36B9F29D696949F3A6198BEA63656EA3" x="-392.712" y="110.710" z="-423.362" radius="50.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjhard_02" ay="4.585" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱">
+                <position x="-429.492" z="-405.017" ay="4.585" />
+            </item>
+            <item No="2" id="Box_qjnormal_03" ay="0.027" amount="2" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="-382.618" z="-439.143" ay="0.027" />
+                <position x="-371.177" z="-403.922" ay="4.700" />
+            </item>
+            <item No="3" id="Box_qjnormal_01" ay="3.090" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="-368.933" z="-452.646" ay="3.090" />
+            </item>
+        </creator>
+        <creator No="1E1B7358251C4C4B9FFED6D63498210A" x="43.056" y="152.067" z="-548.548" radius="50.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjnormal_03" ay="4.275" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="79.423" z="-534.743" ay="4.275" />
+            </item>
+            <item No="2" id="Box_qjnormal_01" ay="5.760" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="56.913" z="-575.599" ay="5.760" />
+            </item>
+            <item No="3" id="Box_qjhard_01" ay="5.740" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱">
+                <position x="23.670" z="-516.270" ay="5.740" />
+            </item>
+            <item No="4" id="Box_qjnormal_02" ay="5.180" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="51.776" z="-526.780" ay="5.180" />
+            </item>
+        </creator>
+        <creator No="6586AE222B3E4A009F1E64B2F7ED0EE7" x="-726.877" y="136.681" z="-271.868" radius="50.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjnormal_03" ay="5.815" amount="2" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="-696.403" z="-303.205" ay="5.815" />
+                <position x="-772.984" z="-283.040" ay="4.185" />
+            </item>
+            <item No="2" id="Box_qjhard_02" ay="5.745" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱">
+                <position x="-721.064" z="-290.919" ay="5.745" />
+            </item>
+            <item No="3" id="Box_qjnormal_01" ay="4.300" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="-725.792" z="-266.456" ay="4.300" />
+            </item>
+        </creator>
+        <creator No="11B986E514C340ADB871DBD29430FEC0" x="-18.307" y="24.729" z="852.381" radius="20.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjvhard_02" ay="1.460" amount="1" refreshtime="21600000" NotPositive="0" desc="高级宝箱" />
+            <item No="2" id="Box_qjnormal_03" ay="1.750" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+            <item No="3" id="Box_qjnormal_02" ay="2.860" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+            <item No="4" id="Box_qjhard_02" ay="2.400" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱" />
+        </creator>
+        <creator No="DA16479F4D4F483BAFC4B9678C8D9745" x="-66.274" y="22.594" z="651.898" radius="20.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjvhard_02" ay="1.460" amount="1" refreshtime="21600000" NotPositive="0" desc="高级宝箱" />
+            <item No="2" id="Box_qjnormal_03" ay="1.750" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+            <item No="3" id="Box_qjnormal_02" ay="2.860" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+            <item No="4" id="Box_qjhard_02" ay="2.400" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱" />
+        </creator>
+        <creator No="320B91801E1348508BC8F2ED1A4B8C80" x="301.927" y="46.770" z="365.354" radius="50.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjnormal_02" ay="5.128" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+            <item No="2" id="Box_qjnormal_01" ay="5.173" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+            <item No="3" id="Box_qjhard_01" ay="0.470" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱" />
+            <item No="4" id="Box_qjnormal_03" ay="0.470" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+        </creator>
+        <creator No="76C978E82E094F8584FA66CA3EB4A3B1" x="362.035" y="83.060" z="83.104" radius="50.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjnormal_02" ay="5.128" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+            <item No="2" id="Box_qjnormal_01" ay="5.173" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+            <item No="3" id="Box_qjhard_01" ay="0.470" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱" />
+            <item No="4" id="Box_qjnormal_03" ay="0.470" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+        </creator>
+        <creator No="C386729024FF4F80A6B7853546A1A67C" x="131.518" y="84.097" z="339.577" radius="50.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjnormal_02" ay="5.128" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+            <item No="2" id="Box_qjnormal_01" ay="5.173" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+            <item No="3" id="Box_qjhard_01" ay="0.470" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱" />
+            <item No="4" id="Box_qjnormal_03" ay="0.470" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+        </creator>
+        <creator No="9C99B201DA514524A1E8BE054CA74772" x="-37.540" y="76.469" z="353.942" radius="50.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjnormal_02" ay="5.128" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+            <item No="2" id="Box_qjnormal_01" ay="5.173" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+            <item No="3" id="Box_qjhard_01" ay="0.470" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱" />
+            <item No="4" id="Box_qjnormal_03" ay="0.470" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+        </creator>
+        <creator No="FC33B793F19448FFA845F7CE42804569" x="-392.109" y="37.753" z="624.767" radius="50.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjnormal_02" ay="5.128" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+            <item No="2" id="Box_qjnormal_01" ay="5.173" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+            <item No="3" id="Box_qjhard_01" ay="0.470" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱" />
+            <item No="4" id="Box_qjnormal_03" ay="0.470" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+        </creator>
+        <creator No="CD6955849B2A4CD7AB5A5D1734976A25" x="-695.097" y="55.490" z="514.936" radius="50.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjnormal_02" ay="5.128" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+            <item No="2" id="Box_qjnormal_01" ay="5.173" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+            <item No="3" id="Box_qjhard_01" ay="0.470" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱" />
+            <item No="4" id="Box_qjnormal_03" ay="0.470" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+        </creator>
+        <creator No="93A4CCC32F624085B19B25C4501EA6F3" x="-887.143" y="52.785" z="193.772" radius="50.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjnormal_02" ay="5.128" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+            <item No="2" id="Box_qjnormal_01" ay="5.173" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+            <item No="3" id="Box_qjhard_01" ay="0.470" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱" />
+            <item No="4" id="Box_qjnormal_03" ay="0.470" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+        </creator>
+        <creator No="DE8E76FBE49D45579C537F7F0EA1F451" x="-529.081" y="96.805" z="13.948" radius="50.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjnormal_02" ay="5.128" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+            <item No="2" id="Box_qjnormal_01" ay="5.173" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+            <item No="3" id="Box_qjhard_01" ay="0.470" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱" />
+            <item No="4" id="Box_qjnormal_03" ay="0.470" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+        </creator>
+        <creator No="7ABEE917D33D4F55A0B5FE7EA39C55A8" x="-834.169" y="84.352" z="-56.431" radius="50.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjnormal_02" ay="5.128" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+            <item No="2" id="Box_qjnormal_01" ay="5.173" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+            <item No="3" id="Box_qjhard_01" ay="0.470" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱" />
+            <item No="4" id="Box_qjnormal_03" ay="0.470" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+        </creator>
+        <creator No="D5FBECCD5F6147F7B9674EE8EA12C3E7" x="-347.554" y="118.513" z="-202.822" radius="50.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjnormal_02" ay="5.128" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+            <item No="2" id="Box_qjnormal_01" ay="5.173" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+            <item No="3" id="Box_qjhard_01" ay="0.470" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱" />
+            <item No="4" id="Box_qjnormal_03" ay="0.470" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+        </creator>
+        <creator No="B0BB7CEDD40D40168BDF868244EAA607" x="-132.738" y="148.414" z="-218.127" radius="50.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjnormal_02" ay="5.128" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+            <item No="2" id="Box_qjnormal_01" ay="5.173" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+            <item No="3" id="Box_qjhard_01" ay="0.470" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱" />
+            <item No="4" id="Box_qjnormal_03" ay="0.470" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱" />
+        </creator>
+        <creator No="B56642F927F84A32ABE23A1519B4119C" x="613.133" y="161.664" z="-892.112" radius="50.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qjhard_01" ay="1.605" amount="1" refreshtime="21600000" NotPositive="0" desc="中等宝箱">
+                <position x="618.828" z="-851.403" ay="1.605" />
+            </item>
+            <item No="2" id="Box_qjnormal_01" ay="6.240" amount="2" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="626.757" z="-933.896" ay="6.240" />
+                <position x="570.342" z="-884.480" ay="2.097" />
+            </item>
+            <item No="3" id="Box_qjnormal_03" ay="5.225" amount="1" refreshtime="21600000" NotPositive="0" desc="普通宝箱">
+                <position x="588.437" z="-850.976" ay="5.225" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+       
+        <creator No="650F7C62C4D54B31903A8E1189F81E62" x="1266.015" y="6.777" z="1304.491" radius="1.5" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1" SubSceneNo="8285">
+            <item No="1" id="Box_jlqz_001" ay="1.549" amount="2" refreshtime="5" NotPositive="0" desc="解毒药1">
+                <position x="1266.038" z="1305.299" ay="1.549" />
+                <position x="1266.050" z="1303.787" ay="1.577" />
+            </item>
+        </creator>
+        <creator No="AEC3FDA207474BD0ABB737862316E260" x="1266.971" y="6.777" z="1297.797" radius="1.5" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1" SubSceneNo="8285">
+            <item No="1" id="Box_jlqz_002" ay="1.577" amount="2" refreshtime="5" NotPositive="0" desc="解毒药1">
+                <position x="1267.008" z="1298.536" ay="1.577" />
+                <position x="1267.008" z="1297.037" ay="1.577" />
+            </item>
+        </creator>
+        <creator No="9909B44BF6B945ACB702C0E311019F94" x="1254.820" y="6.777" z="1304.121" radius="1.5" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1" SubSceneNo="8285">
+            <item No="1" id="Box_jlqz_003" ay="1.577" amount="2" refreshtime="5" NotPositive="0" desc="解毒药1">
+                <position x="1254.781" z="1303.206" ay="1.577" />
+                <position x="1254.808" z="1304.792" ay="1.577" />
+            </item>
+        </creator>
+        <creator No="0B463E7C23224D97A1582EBEC5E51C22" x="1253.339" y="6.777" z="1298.035" radius="1.5" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1" SubSceneNo="8285">
+            <item No="1" id="Box_jlqz_004" ay="1.577" amount="2" refreshtime="5" NotPositive="0" desc="解毒药1">
+                <position x="1253.418" z="1297.323" ay="1.577" />
+                <position x="1253.392" z="1298.697" ay="1.577" />
+            </item>
+        </creator>
+        <creator No="FF1790D9C77443A99A7C05F56B4E9D00" x="1259.046" y="6.819" z="1294.811" radius="1.5" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1" SubSceneNo="8285">
+            <item No="1" id="Box_jlqz_005" ay="0.057" amount="2" refreshtime="5" NotPositive="0" desc="解毒药1">
+                <position x="1259.928" z="1294.725" ay="0.057" />
+                <position x="1258.445" z="1294.657" ay="0.022" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

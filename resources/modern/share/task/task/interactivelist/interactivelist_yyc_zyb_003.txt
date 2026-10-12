@@ -1,0 +1,52 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	NpcId	SceneID	DialogID	GetItems	LostItems	TrackInfo	OkMenu	TaskID	BufferID
+75301	Transcity04A	16	DialogID_75301			interactinfo_75301	okmenu_75301	75301	
+75302	WorldNpc10070	16	DialogID_75302			interactinfo_75302	okmenu_75302	75301	
+75303	WorldNpc10069	16	DialogID_75303			interactinfo_75303	okmenu_75303	75301	
+75304	WorldNpc10546	16	DialogID_75304			interactinfo_75304	okmenu_75304	75301	
+75305	WorldNpc10388	16	DialogID_75305			interactinfo_75305	okmenu_75305	75301	
+75306	EventNpc_dingzw_201908y3_001	16				interactinfo_75306		75302	
+75307	DriveNpc_dingzw_201908y3_001	16				interactinfo_75307		75302	
+75310	EventNpc_dingzw_201908y3_003	16				interactinfo_75310		75302	
+75308	Npc_dingzw_201908y3_003	16	DialogID_75308			interactinfo_75308	okmenu_75308	75302	
+75309	EventNpc_dingzw_201908y3_002	16				interactinfo_75309		75302	
+75311	WorldNpc10106	16	DialogID_75311	item_dingzw_201908y3_001-1		interactinfo_75311	okmenu_75311	75302	
+75315	EventNpc_dingzw_201908y3_006	16				interactinfo_75315		75303	
+75318	Npc_dingzw_201908y3_017	16	DialogID_75318			interactinfo_75318	okmenu_75318	75304	
+75319	Npc_dingzw_201908y3_018	16	DialogID_75319			interactinfo_75319	okmenu_75319	75304	
+75323	Npc_dingzw_201908y3_018	16	DialogID_75323	item_dingzw_201908y3_006-1		interactinfo_75323	okmenu_75323	75308	
+75312	EventNpc_dingzw_201908y3_005	16				interactinfo_75312		75303	
+75314	Npc_dingzw_201908y3_017	16	DialogID_75314	item_dingzw_201908y3_003-3		interactinfo_75314	okmenu_75314	75304	
+75320	Npc_dingzw_201908y3_018	16	DialogID_75320			interactinfo_75320	okmenu_75320	75305	
+75321	Npc_dingzw_201908y3_018	16	DialogID_75321			interactinfo_75321	okmenu_75321	75306	
+75324	EventNpc_dingzw_201908y3_008	16				interactinfo_75324		75308	
+75326	Npc_dingzw_201908y3_018	16	DialogID_75326			interactinfo_75326	okmenu_75326	75309	
+75316	EventNpc_dingzw_201908y3_007	16				interactinfo_75316		75303	
+75317	Npc_dingzw_201908y3_017	16	DialogID_75317		item_dingzw_201908y3_001-1	interactinfo_75317	okmenu_75317	75304	
+75327	EventNpc_dingzw_201908y3_010	16				interactinfo_75327		75309	
+75313	DriveNpc_dingzw_201908y3_002	16	DialogID_75313			interactinfo_75313		75303	
+75329	EventNpc_dingzw_201908y4_002	16				interactinfo_75329		75311	
+75337	EventNpc_dingzw_201908y4_008	930				interactinfo_75337		75317	
+75341	EventNpc_dingzw_201908y4_009	930				interactinfo_75341		75318	
+75342	EventNpc_dingzw_201908y4_010	930				interactinfo_75342		75319	
+75330	EventNpc_dingzw_201908y4_003	930				interactinfo_75330		75311	
+75333	EventNpc_dingzw_201908y4_004	930				interactinfo_75333		75317	buff_dingzw_201908y4_004
+75334	EventNpc_dingzw_201908y4_005	930				interactinfo_75334		75317	buff_dingzw_201908y4_004
+75335	EventNpc_dingzw_201908y4_006	930				interactinfo_75335		75317	buff_dingzw_201908y4_004
+75336	EventNpc_dingzw_201908y4_007	930				interactinfo_75336		75317	buff_dingzw_201908y4_004
+75343	Npc_dingzw_201908y4_010	930	DialogID_75343			interactinfo_75343	okmenu_75343	75319	
+75344	Npc_dingzw_201908y4_011	930	DialogID_75344	item_lzy_201908jq_004-1		interactinfo_75344	okmenu_75344	75320	
+75345	Npc_dingzw_201908y4_011	930	DialogID_75345			interactinfo_75345	okmenu_75345	75320	
+75338	Npc_dingzw_201908y4_006	930	DialogID_75338			interactinfo_75338	okmenu_75338	75318	
+75339	Npc_dingzw_201908y4_007	930	DialogID_75339			interactinfo_75339	okmenu_75339	75318	
+75340	Npc_dingzw_201908y4_008	930	DialogID_75340			interactinfo_75340	okmenu_75340	75318	
+75322	Npc_dingzw_201908y3_018	16	DialogID_75322	item_dingzw_201908y3_007-1		interactinfo_75322	okmenu_75322	75307	
+75328	EventNpc_dingzw_201908y4_001	16				interactinfo_75328		75310	
+75332	Npc_dingzw_201908y4_004	930	DialogID_75332			interactinfo_75332	okmenu_75332	75314	buff_dingzw_201908y4_001
+75325						interactinfo_75325		75312	
+75346	EventNpc_dingzw_201908y4_011	930				interactinfo_75346		75319	
+75331	Npc_dingzw_201908y4_002	930	DialogID_75331			interactinfo_75331	okmenu_75331	75313,75314,75315,75316	
+75347	Npc_dingzw_201908y4_011	930	DialogID_75347		item_dingzw_201908y3_007-1	interactinfo_75347	okmenu_75347	75320	
+75348	npc_dreamtask_001	930	DialogID_75348			interactinfo_75348	okmenu_75348	75321	
+75349	npc_dreamtask_001	930	DialogID_75349			interactinfo_75349	okmenu_75349		
+75350						interactinfo_75350			

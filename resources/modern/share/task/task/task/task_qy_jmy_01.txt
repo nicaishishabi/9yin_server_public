@@ -1,0 +1,25 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	Plot	Title	Step	SearchID	Line	AcceptNpc	SubmitNpc	SceneID	AcceptSceneID	SubmitSceneID	AutoAcceptID	AutoSubmit	PreTaskLimit	NextTaskLimit	NotShowMenu	Relation	LuckValue	AcceptLimit	SubmitLimit	AcceptDecMoney	SubFunction	TaskItemList	RefreshMonster	TimeLimitLength	SubmitNpcEx	TaskScript	TitleId	ContextId	AcceptDialogId	CompleteDialogId	UnCompleteDialogId	TaskTargetId	TrackInfoID	LineNextInfo	CanAcceptMenu	UncompleteMenu	CompleteMenu	AcceptMovie	SubmitMovie	DramaAccept	DramaSubmit	CanGiveup	ShareType	RepeatType	RepeatPeriod	CountDayLimit	DifficultCoefficient	DifficultLevel
+10901																																																
+10902				s460101	8				4	4	10903	1															title_10902	context_10902	accept_10902_1;menu_10902_1			target_10902		next_10902	CanAcceptMenu_10902							1	0	1	1	9999		
+10903				s460101	8		WorldNpc10801		4	4			10902														title_10903	context_10903		complete_10903;submit_10903		target_10903		next_10903			CompleteMenu_10903	5150				1	0	1	1	9999		
+10904				s460101	8				4	4	10905	1															title_10904	context_10904	accept_10904_1;menu_10904_1			target_10904		next_10904	CanAcceptMenu_10904							1	0	1	1	9999		
+10905				s460101	8		WorldNpc10803		4	4			10904														title_10905	context_10905	accept_10905_1;menu_10905_1	complete_10905;submit_10905		target_10905		next_10905			CompleteMenu_10905	5150				1	0	1	1	9999		
+10906				s460101	8				4	4	10907	1															title_10906	context_10906	accept_10906_1;menu_10906_1			target_10906		next_10906	CanAcceptMenu_10906				5151			1	0	1	1	9999		
+10908				s460101	8		WorldNpc10732		4	4																	title_10908	context_10908	accept_10908_1;menu_10908_1	complete_10908;submit_10908		target_10908										1	0	1	1	1		
+10907				s460101	8		WorldNpc10645		4	4			10906														title_10907	context_10907		complete_10907;submit_10907		target_10907		next_10907			CompleteMenu_10907					1	0	1	1	9999		
+10910				s460101	8		JobMoHZ006		4	4																	title_10910	context_10910	accept_10910_1;menu_10910_4	complete_10910;submit_10910		target_10910										1	0	1	1	333		
+10911				s460101	8		JobMoHZ006a		4	4			10910													Adventure\yanjing\task10911.lua	title_10911	context_10911	accept_10911_1;menu_10911_5	complete_10911;submit_10911		target_10911										1	0	1	1	333		
+10909				s460101	8		WorldNpc10917		4	4																	title_10909	context_10909				target_10909		next_10909								1	0	1	1	999		
+10912				s460101	8		WorldNpc10968		4	4																	title_10912	context_10912	accept_10912_1;menu_10912_1	complete_10912;submit_10912		target_10912										1	0	1	1	666		
+10920				s460101	8		WorldNpc10701		4	4																	title_10920	context_10920	accept_10920_1;menu_10920_1	complete_10920;submit_10920		target_10920		next_10920	CanAcceptMenu_10920		CompleteMenu_10920					1	0	1	1	999		
+10913				s460101	8		WorldNpc10901		4	4																	title_10913	context_10913	accept_10913_1;menu_10913_1	complete_10913;submit_10913		target_10913		next_10913								1	0	1	1	888		
+10915				s460101	8		WorldNpc10662		4	4																Adventure\yanjing\task10915.lua	title_10915	context_10915	accept_10915_1;menu_10915_1	complete_10915;submit_10915		target_10915										1	0	1	1	999		
+10914				s460101	8		WorldNpc10901		4	4																	title_10914	context_10914	accept_10914_1;menu_10914_1	complete_10914;submit_10914		target_10914										1	0	1	1	999		
+10916				s460101	8		WorldNpc10939		4	4																	title_10916	context_10916				target_10916										1	0	1	1	999		
+10917				s460101	8				4	14	10918	1		10918													title_10917	context_10917	accept_10917_1;menu_10917_1			target_10917			CanAcceptMenu_10917							1	0	1	1	9999		
+10918				s460101	8		WorldNpc10642		14	4			10917														title_10918	context_10918		complete_10918;submit_10918		target_10918					CompleteMenu_10918					1	0	1	1	9999		
+10919				s460101	8		WorldNpc10645	208		4																	title_10919	context_10919		complete_10919;submit_10919		target_10919					CompleteMenu_10919					1	0	1	1	9999		
+10921				s460101	8				4	4	10922	1		10922													title_10921	context_10921	accept_10921_1;menu_10921_1	complete_10921;submit_10921		target_10921			CanAcceptMenu_10921		CompleteMenu_10921					1	0	1	1	9999		
+10922				s460101	8		WorldNpc10943		14	4			10921														title_10922	context_10922		complete_10922;submit_10922		target_10922					CompleteMenu_10922					1	0	1	1	9999		
+10930				s460101	8		NPC_qygp_tjq_jmy001		4	4																	title_10930	context_10930	accept_10930_1;menu_10930_1	complete_10930;submit_10930		target_10930			CanAcceptMenu_10930		CompleteMenu_10930					1	0	1	1	999		

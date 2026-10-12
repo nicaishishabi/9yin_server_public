@@ -1,0 +1,7 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	ItemID	ProCount	AddPro	TrackInfoID	DeleteSelf	LockTarget	Radius	SceneID	Water	AddItems	DeleteItems	TargetConfig	TaskID
+31600	useitem_002xk	1	1	useiteminfo_31600	1		3	1	0			WorldNpc00060	80002
+31601	useitem_003xk	1	1	useiteminfo_31601	1		3	1	0			WorldNpc00021	80017
+31604	useitem_007xk	1	1	useiteminfo_31604	1		0	1	1				
+31603	useitem_004xk	1	1	useiteminfo_31603	1			1	0				80019
+31602	useitem_005xk	1	1	useiteminfo_31602	1			1	0	useitem_004xk	useitem_006xk		80019

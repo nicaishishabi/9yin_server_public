@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="E085BAA62404460B887C0740053CFA57" x="175.266" y="73.421" z="-170.942" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="79602" TaskSubType="1">
+            <item No="1" id="attnpc_2506_fc_02" ay="-1" amount="5" refreshtime="5" NotPositive="1" desc="蛊虫">
+                <position x="173.337" z="-171.791" ay="-1" />
+                <position x="174.968" z="-173.525" ay="-1" />
+                <position x="177.062" z="-172.557" ay="-1" />
+                <position x="177.309" z="-170.203" ay="-1" />
+                <position x="174.594" z="-169.234" ay="-1" />
+            </item>
+        </creator>
+        <creator No="926F46AD5BF74A7595BC2DFB17AC17E4" x="168.586" y="70.955" z="-165.334" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="79603" TaskSubType="1">
+            <item No="1" id="attnpc_2506_fc_03" ay="-1" amount="5" refreshtime="5" NotPositive="1" desc="毒蛇">
+                <position x="168.129" z="-167.079" ay="-1" />
+                <position x="169.964" z="-166.609" ay="-1" />
+                <position x="171.292" z="-164.673" ay="-1" />
+                <position x="168.878" z="-163.906" ay="-1" />
+                <position x="166.962" z="-165.701" ay="-1" />
+            </item>
+        </creator>
+        <creator No="00AD5909EB40403180B2304D82F5687B" x="110.439" y="52.566" z="-132.403" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="79604" TaskSubType="1" HateLink="1">
+            <item No="1" id="attnpc_2506_fc_04" ay="2.641" amount="1" refreshtime="5" NotPositive="1" desc="过往" />
+        </creator>
+        <creator No="FC7215F0D32F4FA899991F3FC64DB450" x="69.699" y="57.312" z="-170.072" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="79701" TaskSubType="1">
+            <item No="1" id="attnpc_2506_fc_06" ay="-1" amount="5" refreshtime="5" NotPositive="1" desc="蜥蜴">
+                <position x="66.898" z="-169.862" ay="-1" />
+                <position x="70.375" z="-171.901" ay="-1" />
+                <position x="71.930" z="-170.404" ay="-1" />
+                <position x="68.540" z="-168.097" ay="-1" />
+                <position x="70.985" z="-168.306" ay="-1" />
+            </item>
+        </creator>
+        <creator No="652D21804CA34C9CB56FAF7B9417C926" x="76.209" y="55.929" z="-168.907" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="79702" TaskSubType="1">
+            <item No="1" id="attnpc_2506_fc_07" ay="-1" amount="5" refreshtime="5" NotPositive="1" desc="野狼">
+                <position x="76.917" z="-169.701" ay="-1" />
+                <position x="74.110" z="-169.243" ay="-1" />
+                <position x="75.035" z="-166.672" ay="-1" />
+                <position x="78.555" z="-168.315" ay="-1" />
+                <position x="77.214" z="-167.000" ay="-1" />
+            </item>
+        </creator>
+        <creator No="F3EA0FFF536749319AE9CF98C9856B08" x="164.937" y="70.432" z="-165.158" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="79701" TaskSubType="2">
+            <item No="1" id="attnpc_2506_fc_08" sx="0.140" sy="0.140" sz="0.140" ay="-1" amount="5" refreshtime="5" NotPositive="1" desc="噬骨鲛">
+                <position x="162.416" z="-162.901" sx="0.140" sy="0.140" sz="0.140" ay="-1" />
+                <position x="162.570" z="-164.932" sx="0.140" sy="0.140" sz="0.140" ay="-1" />
+                <position x="165.780" z="-163.531" sx="0.140" sy="0.140" sz="0.140" ay="-1" />
+                <position x="163.381" z="-164.089" sx="0.140" sy="0.140" sz="0.140" ay="-1" />
+                <position x="164.583" z="-162.666" sx="0.140" sy="0.140" sz="0.140" ay="-1" />
+            </item>
+        </creator>
+        <creator No="93F5B31356C44EDE9C146E3F9C97C3C7" x="110.777" y="51.795" z="-131.460" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="79605" TaskSubType="1" HateLink="1">
+            <item No="1" id="attnpc_2506_fc_05" ay="-1" amount="1" refreshtime="5" NotPositive="1" desc="旧我" />
+        </creator>
+        <creator No="63DE382CF0D041D88B67B17BE3854580" x="74.312" y="56.018" z="-167.989" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="79705" TaskSubType="1">
+            <item No="1" id="attnpc_2506_fc_09" amount="5" refreshtime="30000" NotPositive="1" desc="蛊虫">
+                <position x="72.741" z="-168.960" />
+                <position x="72.505" z="-166.053" />
+                <position x="74.951" z="-165.367" />
+                <position x="76.521" z="-166.720" />
+                <position x="75.127" z="-169.473" />
+            </item>
+        </creator>
+        <creator No="F49E868F40894BE1AA8C2902CE2008A7" x="71.578" y="52.418" z="-134.315" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="79486" TaskSubType="1" HateLink="1">
+            <item No="1" id="attnpc_2511_fc_01" ay="-1" amount="5" refreshtime="5" desc="野狼">
+                <position x="70.145" z="-134.673" ay="-1" />
+                <position x="72.100" z="-135.884" ay="-1" />
+                <position x="72.969" z="-132.824" ay="-1" />
+                <position x="73.521" z="-135.993" ay="-1" />
+                <position x="74.853" z="-134.098" ay="-1" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <staticcreator>
+        <item No="EF4999CB4F0C4C12ACB0BB7D8914549B" x="252.579" y="10.097" z="250.694" ay="4.853" id="bossclone002007" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" SubSceneNo="351" desc="金怀玉" ChildList="" PosList="" />
+        <item No="B7BF4927315B4BE99218A9974AB06D9B" x="251.758" y="10.097" z="250.142" ay="4.310" id="bossclone002018" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" SubSceneNo="351" desc="刁不二" ChildList="" PosList="" />
+        <item No="B8502EB4481141DD84AC365D66696153" x="250.446" y="10.097" z="250.504" id="EventNpcClone002035" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" SubSceneNo="351" desc="龙门恩仇触发NPC-驯马点7" ChildList="" PosList="" />
+        <item No="B82E6F1F142A44869896E8B160134E7A" x="260.323" y="12.000" z="247.758" id="Event_qy_swgj02" RefreshTime="30000.0" PatrolMode="1" WakeupRange="25.0" ChaseRange="23.0" NotPositive="0" SubSceneNo="7014" desc="塞外高级2引导任务-入" ChildList="" PosList="" />
+        <item No="B4D4C7E65D824B75B764687588729879" x="256.608" y="14.976" z="247.795" sx="1.450" sy="1.450" sz="1.450" ay="1.571" id="qy_swgj_jiguan01" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" SubSceneNo="7014" desc="机关" ChildList="" PosList="" NeedCollide="true" CoWalkable="true" CoGenWall="true" CoGenRoof="true" CoThrough="false" />
+        <item No="DF374954347B49C08D30A66C596F3E30" x="251.862" y="10.097" z="250.999" id="Event_qy_swgj01" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" desc="塞外高级1引导任务-入" ChildList="" PosList="" />
+        <item No="115296DEC6DA443389500C3FB28C562C" x="260.394" y="10.107" z="252.852" id="TriggerNpc_qy_tangmen001" RefreshTime="30000.0" PatrolMode="1" ChaseRange="10.0" NotPositive="0" SubSceneNo="7063" desc="地钉" ChildList="" PosList="" />
+        <item No="9EDD3FE661D04F15A938CD48684ADC2C" x="257.325" y="13.270" z="247.656" id="PlotDoor00024" RefreshTime="30000.0" PatrolMode="1" WakeupRange="1.0" ChaseRange="1.0" NotPositive="0" SubSceneNo="7063" desc="分组场景到成都" ChildList="" PosList="" />
+        <item No="695A8A3C80D645F8885796B18D95BECA" x="255.055" y="10.000" z="262.387" ay="3.013" id="World_qy_tangmen_heiyity01" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" SubSceneNo="7067" desc="密室黑衣唐芸" ChildList="" PosList="" />
+        <item No="0AF4B908AB2144468CB8C57F3BAE9A06" x="258.405" y="10.000" z="265.435" ax="-0.030" ay="-3.125" id="Box_qy_tm3nei_book02" RefreshTime="30000.0" PatrolMode="1" WakeupRange="5.0" ChaseRange="5.0" NotPositive="0" SubSceneNo="7063" desc="唐门秋水一剪瞳" ChildList="" PosList="" />
+        <item No="2956EA1ECED0476B870C51251A2A270C" x="257.316" y="13.018" z="247.391" id="PlotDoor00026" RefreshTime="30000.0" PatrolMode="1" WakeupRange="2.0" ChaseRange="23.0" NotPositive="0" SubSceneNo="7090" desc="7090分组场景到洛阳" ChildList="" PosList="" />
+        <item No="72E2A23C62EA4B82BA332803F53E754B" x="256.517" y="15.104" z="247.609" sx="1.590" sy="1.590" sz="1.590" ay="1.575" id="mac_qy_tm_door" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" SubSceneNo="7063" desc="木门" ChildList="" PosList="" />
+        <item No="18B0FE93A26A4E8E9BC383F7FB7BAD0A" x="255.954" y="15.064" z="248.109" sx="1.970" sy="1.970" sz="1.970" ay="1.555" id="mac_qy_tm_door" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" SubSceneNo="7067" desc="木门" ChildList="" PosList="" />
+    </staticcreator>
+</object>

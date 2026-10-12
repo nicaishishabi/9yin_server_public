@@ -1,0 +1,99 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	NpcId	SceneID	DialogID	GetItems	LostItems	TrackInfo	OkMenu	TaskID
+33001	FuncNpc00058	3	DialogID_33001			interact10602	okmenu_33001	
+33002	WorldNpc00523	3	DialogID_33002			interactinfo_33002	okmenu_33002	
+33003	JobYanYZ001	3	DialogID_33003			interactinfo_33003	okmenu_33003	
+33004	WorldNpc00523	3	DialogID_33004		taskitem_03006-1	interactinfo_33004	okmenu_33004	
+33005	FuncNpc00058	3	DialogID_33005			interactinfo_33005	okmenu_33005	
+33008	FuncNpc00056	3	DialogID_33008		taskitem_03014-1	interactinfo_33008	okmenu_33008	
+33009	FuncNpc00061	3	DialogID_33009		taskitem_03015-1	interactinfo_33009	okmenu_33009	
+33010	JobYanYZ004	3	DialogID_33010	taskitem_03016-1		interactinfo_33010	okmenu_33010	
+33011	JobYanYZ011	3	DialogID_33011			interactinfo_33011	okmenu_33011	
+33012	yyz009	3	DialogID_33012		taskitem_03017-1	interactinfo_33012	okmenu_33012	
+33013	JobYanYZ004	3	DialogID_33013			interactinfo_33013	okmenu_33013	
+33014	JobYanYZ007	3	DialogID_33014			interactinfo_33014	okmenu_33014	
+33015	yyz012	3	DialogID_33015			interactinfo_33015	okmenu_33015	
+33016	FuncNpc00051	3	DialogID_33016		taskitem_03018-1	interactinfo_33016	okmenu_33016	
+33017	JobYanYZ008	3	DialogID_33017			interactinfo_33017	okmenu_33017	
+33018	JobYanYZ004	3	DialogID_33018	taskitem_03019-1		interactinfo_33018	okmenu_33018	
+33019	FuncNpc00057	3	DialogID_33019		taskitem_03020-1	interactinfo_33019	okmenu_33019	
+33020	WorldNpc00584	3	DialogID_33020		taskitem_03017-1	interactinfo_33020	okmenu_33020	
+33021	FuncNpc00056	3	DialogID_33021			interactinfo_33021	okmenu_33021	
+33022	JobYanYZ004	3	DialogID_33022			interactinfo_33022	okmenu_33022	
+33023	FuncNpc00051	3	DialogID_33023		taskitem_03023-1	interactinfo_33023	okmenu_33023	
+33024	WorldNpc00566	3	DialogID_33024		taskitem_03025-1	interactinfo_33024	okmenu_33024	
+33025	FuncNpc00054	3	DialogID_33025	taskitem03006-1		interactinfo_33025	okmenu_33025	
+33026	FuncNpc00051	3	DialogID_33026			interactinfo_33026	okmenu_33026	
+33027	yyz006	3	DialogID_33027		taskitem_03028-1	interactinfo_33027	okmenu_33027	
+33028	WorldNpc00698	3	DialogID_33028			interact10617	okmenu_33028	
+33029	JobYanYZ009	3	DialogID_33029			interact10641	okmenu_33029	
+33100	WorldNpc00689		DialogID_33100			interactinfo_33100	okmenu_33100	10708
+33101	WorldNpc00514		DialogID_33101_1			interactinfo_33101_1		10710
+33105	WorldNpc00508		DialogID_33105			interactinfo_33105	okmenu_33105	10714
+33106	WorldNpc00688		DialogID_33106			interactinfo_33106	okmenu_33106	10719
+33107	JobYanYZ007		DialogID_33107			interactinfo_33107	okmenu_33107	10730
+33108	WorldNpc00568		DialogID_33108		taskitem_03105-1	interactinfo_33108	okmenu_33108	10731
+33109	WorldNpc00563		DialogID_33109			interactinfo_33109	okmenu_33109	10732
+33110	WorldNpc00634		DialogID_33110			interactinfo_33110	okmenu_33110	10736
+33111	WorldNpc00547		DialogID_33111			interactinfo_33111		10741
+33112	Gather10860			ng_book_jh_501-1		interactinfo_33112		10860
+33113	BossPlot001		DialogID_33113		taskitem_03100-1	interactinfo_33113_1	okmenu_33113	10860
+33201	JobYanYZ011		DialogID_33201			interactinfo_33201		10801
+33202	WorldNpc00641		DialogID_33202			interactinfo_33202		10802
+33203	WorldNpc00594		DialogID_33203			interactinfo_33203		10803
+33204	WorldNpc00641		DialogID_33204	taskitem_03401-1		interactinfo_33204		10804
+33205	WorldNpc00591		DialogID_33205		taskitem_03402-1	interactinfo_33205		10805
+33206	FuncNpc00056		DialogID_33206	taskitem_03403-1		interactinfo_33206		10806
+33207	JobYanYZ011		DialogID_33207		taskitem_03402-1|taskitem_03403-1|taskitem_03404-1|taskitem_03405-1|taskitem_03406-1|taskitem_03407-1|taskitem_03408-1	interactinfo_33207		10808
+33209	WorldNpc00591		DialogID_33209		taskitem_03411-1	interactinfo_33209		10810
+33210	yyz012		DialogID_33210			interactinfo_33210		10812
+33211	yyz012		DialogID_33211		taskitem_03414-5|taskitem_03413-5	interactinfo_33211		10819
+33212	WorldNpc00591		DialogID_33212		taskitem_03414-5|taskitem_03413-5	interactinfo_33212		10820
+33213	WorldNpc00515		DialogID_33213		taskitem_03414-1	interactinfo_33213		10821
+33214	WorldNpc00512		DialogID_33214			interactinfo_33214		10822
+33215	WorldNpc00580		DialogID_33215			interactinfo_33215		10823
+33216	WorldNpc00512		DialogID_33216			interactinfo_33216		10824
+33217	WorldNpc00580		DialogID_33217			interactinfo_33217		10825
+33218	WorldNpc00512		DialogID_33218		taskitem_03416-1	interactinfo_33218		10828
+33219	WorldNpc00580		DialogID_33219		taskitem_03417-1	interactinfo_33219		10829
+33220	WorldNpc00581		DialogID_33220		taskitem_03417-1	interactinfo_33220		10830
+33221	WorldNpc00659		DialogID_33221		taskitem_03418-1	interactinfo_33221		10834
+33222	WorldNpc00577		DialogID_33222			interactinfo_33222		10836
+33226	WorldNpc00545		DialogID_33226			interactinfo_33226		10846
+33227	WorldNpc00545		DialogID_33227			interactinfo_33227		10847
+33228	JobYanYZ002		DialogID_33228			interactinfo_33228		10848
+33229	WorldNpc00545		DialogID_33229		taskitem_03424-1	interactinfo_33229		10850
+33230	WorldNpc00516		DialogID_33230		taskitem_03423-1	interactinfo_33230		10851
+33231	WorldNpc00583		DialogID_33231			interactinfo_33231		10854
+33232	FuncNpc00061		DialogID_33232			interactinfo_33232		10855
+33233	FuncNpc00054		DialogID_33233		taskitem_03426-1	interactinfo_33233		10857
+33234	JobYanYZ011		DialogID_33234		taskitem_03410-1	interactinfo_33234		10809
+33235	WorldNpc00581		DialogID_33235		taskitem_03427-1	interactinfo_33235		10827
+33251	JobYanYZ010		DialogID_10759_1			interact10759_1		10759
+33252	JobYanYZ009		DialogID_10759_2			interact10759_2		10759
+33253	JobYanYZ002		DialogID_10759_3			interact10759_3		10759
+33254	JobYanYZ006		DialogID_10759_4			interact10759_4		10759
+33259	WorldNpc00696		DialogID_10767			interact10767	okmenu10767	10767
+33273	WorldNpc00578		DialogID_33273			interact10770	okmenu_33273	10770
+33102	WorldNpc00517		DialogID_33102_2			interactinfo_33101_2		10710
+33103	WorldNpc00651		DialogID_33103_3			interactinfo_33101_3		10710
+33104	WorldNpc00516		DialogID_33104_4			interactinfo_33101_4		10710
+33223	WorldNpc00577		DialogID_33223_1			interactinfo_33223		10840
+33224	WorldNpc00576		DialogID_33224_2			interactinfo_33224		10840
+33225	WorldNpc00579		DialogID_33225_3			interactinfo_33225		10840
+33272	WorldNpc00506		DialogID_33272			interact10800	okmenu_33272	10800
+33271	WorldNpc00688		DialogID_33271			interact10799		10799
+33270	WorldNpc00553		DialogID_33270			interact10798	okmenu_33270	10798
+33269	JobYanYZ002		DialogID_33269			interact10795		10795
+33268	WorldNpc00553		DialogID_33268			interact10794	okmenu_33268	10794
+33267	WorldNpc00674		DialogID_33267		taskitem_03305-1	interact10793		10793
+33266	FuncNpc00055		DialogID_33266	taskitem_03304-1		interact10791		10791
+33265	WorldNpc00578		DialogID_33265			interact10788		10788
+33264	JobYanYZ002		DialogID_33264			interact10784		10784
+33263	FuncNpc00058		DialogID_33263			interact10778	okmenu_33263	10778
+33262	FuncNpc00056		DialogID_33262	taskitem_03306-1		interact10774		10774
+33261	WorldNpc00674		DialogID_33261			interact10773		10773
+33258	WorldNpc00580		DialogID_33258			interact10766	okmenu_33258	10766
+33257	WorldNpc00697		DialogID_33257			interact10764	okmenu_33257	10764
+33256	WorldNpc00697		DialogID_33256	taskitem_03307-1		interact10761	okmenu_33256	10761
+33255	FuncNpc00058		DialogID_33255			interact10760	okmenu_33255	10760

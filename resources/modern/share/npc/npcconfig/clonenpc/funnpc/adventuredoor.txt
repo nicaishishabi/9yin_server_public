@@ -1,0 +1,301 @@
+NPC编号	对象类型	名称	进入条件	江湖人脉值	计入场景编号	传送到目标场景的坐标	进入分组编号	对话方式	触发方式	是否弹出进入按钮	模型编号	头像	NPC种类ID	NPC类型	响应范围	选择状态	脚本编号	鼠标形状	成功进入描述	无法进入描述	AI编辑包	客户端不可见	衰减一次所需时间	衰减最大值
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	script	Name	Condition	LuckValue	SceneID	SwitchPostion	SwitchGroupId	NpcTalkType	SpringType	SpringAct	Resource	Photo	CKindID	NpcType	SpringRange	SelectState	LuaScript	CursorShape	MenuEntrySuccess	MenuEntryFail	AIEditorPackID	Invisible	AttenuatorSeconds	AttenuatorMax
+PlotDoor00001	AdventureDoor	进入95号场景	"200,352,999"	1	95		-1	1	1	1	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	8	2		4	EntrySuccess001					
+PlotDoor00002	AdventureDoor	进入95号场景	"200,352,999"	1	95		-1	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	8	2		4						
+PlotDoor00003	AdventureDoor	进入95号场景	"200,352,999"	1	95		-1	1	2	1	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	8	2		4	EntrySuccess001	EntryFail001				
+PlotDoor00004	AdventureDoor	进入95号场景	"200,352,999"	1	95		-1	1	2	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	8	2		4						
+PlotDoor00005	AdventureDoor	进入95号场景	"200,352,999"	1	95		-1	1	1	0	npc\tiemnpc057	icon\funcnpc\clonedoor.png	4	49	12	2		4						
+PlotDoor00006	AdventureDoor	进入95号场景	"23,592,999"	1	95		-1	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	8	2		4						
+PlotDoor00007	AdventureDoor	进入95号场景	"23,572,999"	1	95		-1	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	8	2		4						
+PlotDoor00008	AdventureDoor	进入95号场景	"200,352,999"	1	95		-1	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	8	2		4						
+PlotDoor00009	AdventureDoor	进入95号场景	"200,352,999"	1	95		-1	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	8	2		4						
+PlotDoor00010	AdventureDoor	进入95号场景	"200,352,999"	1	95		-1	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	8	2		4						
+PlotDoor00011	AdventureDoor	95号场景到烟雨庄			3		-1	1	1	1	npc\tiemnpc057	icon\funcnpc\clonedoor.png	4	49	2	2		4	EntrySuccess002					
+PlotDoor00012	AdventureDoor	进入86号场景			95		-1	1	2	1	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	8	2		4	EntrySuccess001	EntryFail001				
+PlotDoor00013	AdventureDoor	95号场景到苏州			14	"930,19.7,180.3,19.2"	-1	1	1	0	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	3	2		4	EntrySuccess002					
+PlotDoor00014	AdventureDoor	95号场景到唐门			9	"1300,-15,-90,30"	-1	1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	2	2		4	EntrySuccess002					
+PlotDoor00015	AdventureDoor	36号分组场景到千灯镇			1	"440.886,-20.718,602.797,0"	-1	1	1	0	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	3	2		4	EntrySuccess002					
+PlotDoor00016	AdventureDoor	38号分组场景到洛阳			16	"1807.086,57.217,1008.756,0"	-1	1	1	0	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	3	2		4	EntrySuccess002					
+PlotDoor00017	AdventureDoor	37号分组场景到洛阳			16	"1163.175,-7.583,1198.296,1.747"	-1	1	1	0	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	3	2		4	EntrySuccess002					
+PlotDoor00018	AdventureDoor	48号分组场景到烟雨庄			3	"257.825,87.230,561.578,0"	-1	1	1	0	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	3	2		4	EntrySuccess002					
+PlotDoor00019	AdventureDoor	352号分组场景到成都			17	"1086.084,15.888,1131.733,3"	-1	1	1	0	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	3	2		4	EntrySuccess002					
+PlotDoor00020	AdventureDoor	353号分组场景到鸡鸣驿			4	"836.825,14.230,417.578,2.9"	-1	1	1	0	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	3	2		4	EntrySuccess002					
+PlotDoor00021	AdventureDoor	7025号分组场景到鸡鸣驿			4	"565,26.230,343,1.5"	-1	1	1	0	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	3	2		4	EntrySuccess002					
+PlotDoor00022	AdventureDoor	7054号分组场景到丐帮			6	"711.841431,52.007729,132.417542"	-1	1	1	0	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	2	2		4	EntrySuccess002					
+PlotDoor00023	AdventureDoor	7045号分组场景到武当	14660		11	"488.539,-10.854,978.453,0"	-1	1	1	0	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	3	2		4	EntrySuccess002					
+PlotDoor00024a	AdventureDoor	勿用此编号			17	"939.902,24.554,890.078,0"	-1	1	1	1	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	3	2		4	EntrySuccess002					
+PlotDoor00025	AdventureDoor	7084号分组场景到成都			17	"602.618,21.094,1058.804,0.124"	-1	1	1	0	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	3	2		4	EntrySuccess002					
+PlotDoor00026	AdventureDoor	7090分组场景到洛阳			16	"1065.83,-8.16,517.66,0.124"	-1	1	1	0	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	3	2		4	EntrySuccess002					
+PlotDoor00027	AdventureDoor				5	"352,31.417,233,3.1"	-1	1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	2	2		4	EntrySuccess003					
+PlotDoor00028	AdventureDoor		19858		0		7124	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	2	2		4	EntrySuccess003			1		
+PlotDoor00029	AdventureDoor				1	"440.886,-20.718,602.797,0"	-1	1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	2	2		4	EntrySuccess003					
+PlotDoor00030	AdventureDoor	少林四内-55006-传分组8053	101112		0	"483.866,5.992,288.788,2.776"	8053	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	20	2		4	EntrySuccess003			1		
+PlotDoor00031	AdventureDoor	少林四内-55026-传分组8056	25322		0	"1655.326,1.304,401.931,0.944"	8056	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	20	2		4	EntrySuccess003			1		
+PlotDoor00032	AdventureDoor	唐门四内-任务57515传分组8047	100981		0		8047	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	10	2		4	EntrySuccess003			1		
+PlotDoor00033	AdventureDoor	武当四内哑仆	101043		0		8048	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	30	2		4	EntrySuccess003			1		
+PlotDoor00034	AdventureDoor	雪山出口			2	"485.705,19.590,350.661,-0.886"	-1	1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	4	2		4	EntrySuccess004	EntryFail001				
+PlotDoor00035	AdventureDoor	进入雪山	25281		0		7125	1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	6	2		4	EntrySuccess005	EntryFail001				
+PlotDoor00036	AdventureDoor	极乐谷四内	101032		0		8049	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	20	2		4		EntryFail001		1		
+PlotDoor00037	AdventureDoor	极乐谷四内	101033		0		8049	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	20	2		4		EntryFail001		1		
+PlotDoor00038	AdventureDoor	极乐谷四内	101034		0		8049	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	20	2		4		EntryFail001		1		
+PlotDoor00039	AdventureDoor	极乐谷四内	101035		0		8049	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	20	2		4		EntryFail001		1		
+PlotDoor00040	AdventureDoor	丐帮四内	25292		0	"-98.246,131.946,481.896,-1.568"	7126	1	1	0	npc\itemnpc057		4	49	20	2		4	EntrySuccess003			1		
+PlotDoor00041	AdventureDoor	武当四内	25469		0		8051	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	30	2		4	EntrySuccess003			1		
+PlotDoor00042	AdventureDoor	丐帮四内出口			4	"0.515,131.945,472.111,-0.886"	-1	1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	4	2		2	EntrySuccess006	EntryFail001				
+PlotDoor00043	AdventureDoor	武当四内	101154		0		8052	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	30	2		4	EntrySuccess003			1		
+PlotDoor00044	AdventureDoor	极乐谷四内	101105		0		8050	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	20	2		4		EntryFail001		1		
+PlotDoor00045	AdventureDoor	极乐谷四内	101106		0		8050	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	20	2		4		EntryFail001		1		
+PlotDoor00046	AdventureDoor	极乐谷四内	101107		0		8050	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	20	2		4		EntryFail001		1		
+PlotDoor00047	AdventureDoor	极乐谷四内	101108		0		8050	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	20	2		4		EntryFail001		1		
+PlotDoor00048	AdventureDoor	极乐谷四内	101109		0		8050	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	20	2		4		EntryFail001		1		
+PlotDoor00049	AdventureDoor	极乐谷四内	101110		0		8050	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	20	2		4		EntryFail001		1		
+PlotDoor00050	AdventureDoor	极乐谷四内	101111		0		8050	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	20	2		4		EntryFail001		1		
+PlotDoor00051	AdventureDoor	唐门四内-任务57522传分组8054	25305		0		8054	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	15	2		4		EntryFail001		1		
+PlotDoor00052	AdventureDoor	唐门四内-任务57524传分组8055	101182		0		8055	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	20	2		4		EntryFail001		1		
+PlotDoor00053	AdventureDoor	极乐谷日常小场景进	25364		0	"-70.000,65.244,-123.000,-2.868"	8064	1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	10	2		4	EntrySuccess001	EntryFail001				
+PlotDoor00054	AdventureDoor	极乐谷日常小场景出			3	"721.829,128.980,24.641,3.023"	-1	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	10	2		4				1		
+PlotDoor00055	AdventureDoor	丐帮四内小场景进	25367		0	"303.943,17.011,612.373,-3.001"	8043	1	1	0	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	5	2		2	EntrySuccessgb01	EntryFail001				
+PlotDoor00056	AdventureDoor	丐帮四内小场景出			6	"939.506,76.772,377.632,-1.338"	-1	1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	5	2		2	EntrySuccessgb02	EntryFail001				
+PlotDoor00057	AdventureDoor	武当四内	25331		0		8057	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	10	2		4	EntrySuccess003			1		
+PlotDoor00058	AdventureDoor	峨眉四内小场景进	25368		0		8058	1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	6	2		4	EntrySuccessgb01	EntryFail001				
+PlotDoor00059	AdventureDoor	峨眉四内小场景出			10	"154.111,8.567,294.693,2.103"	-1	1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	6	2		4	EntrySuccessgb02	EntryFail001				
+PlotDoor00060	AdventureDoor	武当四内	101323		0		8059	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	10	2		4	EntrySuccess003			1		
+PlotDoor00061	AdventureDoor	武当四内	101360		0		8060	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	20	2		4	EntrySuccess003			1		
+PlotDoor00062	AdventureDoor	锦衣卫四门小场景进	25366		0	"254.020,34.199,-523.315,0.014"	8061	1	1	1	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	2	2		4	EntrySuccess003	EntryFail001				
+PlotDoor00063	AdventureDoor	锦衣卫四门小场景出			13	"545.233,-162.830,1522.369,1"	-1	1	1	1	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	1	2		4	EntrySuccess002					
+PlotDoor00064	AdventureDoor	唐门四内日常BOSS分组进	25363		0		8062	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	10	2		4		EntryFail001		1		
+PlotDoor00065	AdventureDoor	唐门四内日常BOSS分组出			9	"495.622,80.682,989.147,2.187"	-1	1	1	0	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	4	2		4	EntrySuccess002					
+PlotDoor00066	AdventureDoor	少林四内-进入雪山	25281		0		7125	1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	6	2		4	EntrySuccess005	EntryFail001				
+PlotDoor00067	AdventureDoor	少林四内-进入小场景	25361		0	"178.126,8.518,472.845,2.545"	8063	1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	6	2		4	EntrySuccess067	EntryFail001				
+PlotDoor00068	AdventureDoor	君子堂四内	25472		0		8065	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	20	2		4		EntryFail001				
+PlotDoor00069	AdventureDoor	极乐谷四内-进入小场景	25353		0	"-70.000,65.244,-123.000,-2.868"	8064	1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	6	2		4	EntrySuccess005	EntryFail001				
+PlotDoor00070	AdventureDoor	武当四内-小场景	25362		0	"608.411,10.066,383.639,-2.031"	8067	1	1	0	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	10	2		4	EntrySuccess003			1		
+PlotDoor00071	AdventureDoor	雪山之后--任务57532	25369		0		8068	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	10	2		4		EntryFail001		1		
+PlotDoor00072	AdventureDoor	雪山之后--任务57537	101625		0		8069	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	10	2		4		EntryFail001		1		
+PlotDoor00073	AdventureDoor	武当四内-回武当			11	"426.670,184.932,-359.826,-0.005"		1	2	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	10	2		4	EntrySuccessgb02					
+PlotDoor00074	AdventureDoor	少林四内-55012任务备用分组1	101914		0	"1714.241,1.304,429.067,3.003"	8072	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	20	2		4	EntrySuccess003			1		
+PlotDoor00075	AdventureDoor	少林四内-55012任务备用分组2	25416		0	"1714.241,1.304,429.067,3.003"	8073	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	20	2		4	EntrySuccess003			1		
+PlotDoor00076	AdventureDoor	峨眉四内-56013	19851		0		8071	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	6	2		4	EntrySuccess003			1		
+PlotDoor00077	AdventureDoor	少林四内-小场景出口			12	"247.089,-46.314,852.915,2.182"	-1	1	1	1	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	2	2		2	EntrySuccess077	EntryFail001				
+qy_pre_jlg_door_in_000	AdventureDoor	奇遇前置分组进			0		8083	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	30	2		2				1		
+qy_pre_sz_door_in_000	AdventureDoor	奇遇前置分组出			0		8196	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	30	2		2				1		
+sfb_door_in_3200	AdventureDoor	神风帮分组进3200	102054		3	"1011,81,538,3.12"	3200	1	1	0	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	2	2		2						
+sfb_door_in_3200_1	AdventureDoor	神风帮分组进3200	102054		0		3200	1	1	0	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	2	2		2						
+sfb_door_out_3200	AdventureDoor	神风帮分组出3200			17	"603,38,321,0.31"	-1	1	1	0	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	2	2		2						
+gmp_door_in_3210	AdventureDoor	古墓派密室进3210	109336		541	"-244.450,375.905,-656.049,-3.108"	3210	1	1	0	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	2	2		2	EntrySuccess011					
+gmp_door_out_3210	AdventureDoor	古墓派密室出3210			541	"-244.813,386.437,-576.347,0"	-1	1	1	0	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	2	2		2	EntrySuccess012					
+PlotDoor00078	AdventureDoor	18242-古谱高阶武学-叫花鸡	102114		0		8194	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	5	2		2		EntryFail001				
+PlotDoor00079	AdventureDoor	18244-古谱高阶武学-叫花鸡	102115		0		8195	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	15	2		2		EntryFail001				
+PlotDoor00080	AdventureDoor	奇遇古谱太极拳	102107		0		8197	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	8	2		2	EntrySuccess003			1		
+PlotDoor00081	AdventureDoor	太极玄音洞出口			14	"1532.839,4.622,968.980,0.091"	-1	1	1	0	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	4	0		2	EntrySuccess007	EntryFail001		1		
+PlotDoor00082	AdventureDoor	进入太极玄音洞	102122		0		7127	1	1	0	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	6	0		2	EntrySuccess008	EntryFail001		1		
+PlotDoor00083	AdventureDoor	龙爪奉先寺出口			16	"1807.042,57.094,1009.032,-0.112"	-1	1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	4	2		2	EntrySuccess007	EntryFail001				
+PlotDoor00084	AdventureDoor	进入龙爪奉先寺	26000		0		7129	1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	6	2		2	EntrySuccess008	EntryFail001				
+																								
+SZZZJ_door_in_8198	AdventureDoor	苏州况府分组进8198	102850		0		8198	1	1	0	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	30	2		2				1		
+SZZZJ_door_in_8198_1	AdventureDoor	苏州况府分组进8198_1	102850		0	"295.963,-0.006,443.668,1.276"	8198	1	1	0	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	30	2		2				1		
+SZZZJ_door_out_8198	AdventureDoor	苏州况府分组出8198			0		-1	1	1	0	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	50	2		2				1		
+																								
+szzzj_door_in_8222	AdventureDoor	苏州况府分组进8198	102850		0		8222	1	1	0	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	5	2		2						
+szzzj_door_out_8222	AdventureDoor	苏州况府分组出8198			0		-1	1	1	0	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	5	2		2						
+		//无门派																						
+npc_wmp_2ndy_51261	AdventureDoor	进入酒楼	25649		0		8212	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	8	2		2	EntrySuccess003			1		
+npc_wmp_2ndy_yanxi	AdventureDoor	进入喜宴	25614		0		8217	1	1	0	npc\monster482a	icon\monster\monster482.png	4	49	10	2		2	EntrySuccess003			1	1	300
+npc_wmp_2ndy_dongfang	AdventureDoor	洞房男	25603		0		8218	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	30	2		2	EntrySuccess003			1		
+npc_wmp_2ndy_yanxilk	AdventureDoor	离开			0		-1	1	1	0	npc\monster482a	icon\monster\monster482.png	4	49	10	2		2	EntrySuccess003			1		
+npc_wmp_2ndy_dongfangn	AdventureDoor	洞房女	25604		0		8219	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	30	2		2	EntrySuccess003			1		
+npc_wmp_2ndy_kj	AdventureDoor	枯井	26055		61	"311.367,10.408,333.577,2.010"	8221	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	30	2		2	EntrySuccess003			1		
+npc_wmp_2ndy_kjlk	AdventureDoor	枯井离开			15	"1979.784,13.781,787.548,0.655"		1	2	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	30	2		2	EntrySuccess003					
+PlotDoor_wmp_1nei_cc	AdventureDoor	无门派-比武进分组	25615		0	"761.302,23.016,651.671,-2.301"	8203	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	20	2		2	EntrySuccess003			1	6	150
+Npc_wmp_2n_door_8214	AdventureDoor	成都	102618		0		8214	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	8	2		2	EntrySuccess003			1		
+Door_wmp_2n_glm01	AdventureDoor	成都邂逅救美	25589		0		8215	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	20	2		2		EntryFail001		1	6	150
+hszd_door_in_1	AdventureDoor	华山之巅分组进	18991		72	"675.4,296.6,1116.5,0"	-1	1	1	0	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	3	2		2	EntrySuccess009					
+hszd_door_out_2	AdventureDoor	华山之巅分组出	106025		2	"782,-3.8,426,2.88"	-1	1	1	0	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	3	2		2	entrysuccess002		520			
+																								
+PlotDoor00085	AdventureDoor	冲灵剑法男（入口）	25593		0		7130	1	1	0	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	6	2		2	EntrySuccess008	EntryFail001		1		
+PlotDoor00086	AdventureDoor	冲灵剑法女（入口）	25594		0		7131	1	1	0	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	6	2		2	EntrySuccess008	EntryFail001		1		
+	//金针沈家																							
+PlotDoornmpsj001	AdventureDoor	金针沈家进分组	25652		0		8223	1	1	0	npc\itemnpc057		4	49	20	2		2				1		
+PlotDoornmpsj002	AdventureDoor	金针沈家进分组			0	"152.826,76.075,831.951,-0.620"	8223	1	1	0	npc\itemnpc057		4	49	20	2		2				1		
+PlotDoornmpsj003	AdventureDoor	金针沈家进分组	102899		0		8225	1	1	0	npc\itemnpc057		4	49	20	2		2				1		
+PlotDoornmpsj004	AdventureDoor	金针沈家第四阶段分组	102917		0		8230	1	1	0	npc\itemnpc057		4	49	20	2		2				1		
+PlotDoornmpsj005	AdventureDoor	金针沈家第四阶段分组	102918		0		8231	1	1	0	npc\itemnpc057		4	49	20	2		2				1		
+PlotDoornmpsj006	AdventureDoor	金针沈家41524	106072		0		8090	1	1	0	npc\itemnpc057		4	49	20	2		2				1		
+																								
+PlotDoornmpsjdw002	AdventureDoor	金针沈家进分组	104534		0		8226	1	1	0	npc\itemnpc057		4	49	15	2		2				1		
+PlotDoornmpsjdw003	AdventureDoor	金针沈家进分组	102977		0		8227	1	1	0	npc\itemnpc057		4	49	15	2		2				1		
+PlotDoornmpsjdw004	AdventureDoor	金针沈家进分组	102978		0		8228	1	1	0	npc\itemnpc057		4	49	15	2		2				1		
+PlotDoornmpsjdw005	AdventureDoor	金针沈家进分组结局	26089		0		8088	1	1	0	npc\itemnpc057		4	49	20	2		2				1		
+PlotDoornmpsjdw006	AdventureDoor	金针沈家进分组决斗			0		8089	1	1	0	npc\itemnpc057		4	49	20	2		2				1		
+	//奇遇																							
+qy_wd_tjq01	AdventureDoor	太极拳开箱子	103086		0		8243	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	20	2		2	EntrySuccess003			1		
+qy_wd_tjq02	AdventureDoor	太极拳开箱子	103140		0		8244	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	20	2		2	EntrySuccess003			1		
+qy_wd_tjq03	AdventureDoor	太极拳开箱子	103087		0		8247	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	20	2		2	EntrySuccess003			1		
+																								
+	//无根门																							
+Door_wgm_in_8229	AdventureDoor	无根门分组进8232	104674		0		8232	1	1	0	npc\itemnpc057		4	49	10	2		2				1		
+Door_wgm_in_8230	AdventureDoor	烟雨庄1分组进8233	104675		0		8233	1	1	0	npc\itemnpc057		4	49	20	2		2				1		
+Door_wgm_in_8231	AdventureDoor	烟雨庄2分组进8234	104676		0		8234	1	1	0	npc\itemnpc057		4	49	30	2		2				1		
+Door_wgm_in_8235	AdventureDoor	苏州1分组进8235	103065		0		8235	1	1	0	npc\itemnpc057		4	49	30	2		2				1		
+Door_wgm_in_8236	AdventureDoor	苏州2分组进8236	103066		0		8236	1	1	0	npc\itemnpc057		4	49	20	2		2				1		
+Door_wgm_in_8237	AdventureDoor	苏州3分组进8237	103067		0		8237	1	1	0	npc\itemnpc057		4	49	20	2		2				1		
+Door_wgm_in_8238	AdventureDoor	苏州4分组进8238	26264		0		8238	1	1	0	npc\itemnpc057		4	49	20	2		2				1		
+Door_wgm_in_8239	AdventureDoor	苏州5分组进8239	103068		0		8239	1	1	0	npc\itemnpc057		4	49	48	2		2				1		
+PlotDoor_wgm_cc_49572	AdventureDoor	无根门-陈宸-分组8252	103381		0		8252	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	20	2		2	EntrySuccess003					
+PlotDoor_wgm_cc_49574	AdventureDoor	无根门-陈宸-分组8253	103382		0		8253	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	20	2		2	EntrySuccess003					
+PlotDoor_wgm_cc_49576	AdventureDoor	无根门-陈宸-分组8258	104797		0		8258	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	20	2		2	EntrySuccess003					
+PlotDoor_wgm_cc_49575	AdventureDoor	无根门-陈宸-分组8275	104803		0		8275	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	20	2		2	EntrySuccess003					
+Door_wmp_glm_8251	AdventureDoor	锦衣卫截杀将领	103380		0		8251	1	1	0	npc\itemnpc057		4	49	20	2		2		EntryFail001		1		
+PlotDoor_wgm_dy_49542a	AdventureDoor	赌坊	103515		0		8254	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	30	2		2	EntrySuccess003			1		
+PlotDoor_wgm_dy_49542b	AdventureDoor	长寿亭	104705		0		8255	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	45	2		2	EntrySuccess003			1		
+PlotDoor_wgm_dy_49541	AdventureDoor	大牢	103517		0		8256	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	5	2		2	EntrySuccess003			1		
+PlotDoor_wgm_dy_49540	AdventureDoor	富春园	104744		0		8257	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	5	2		2	EntrySuccess003			1		
+PlotDoor_wgm_dy_lkfcy	AdventureDoor	离开富春园			15	"1507.228,0.001,1585.109,-1.440"		1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	5	2		2	EntrySuccess003					
+PlotDoor_wgm_dy_lkdl	AdventureDoor	离开大牢			15	"1719.959,17.533,1054.175,-0.161"		1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	5	2		2	EntrySuccess003					
+																								
+	//万兽山庄																							
+wssz_door_in_8184	AdventureDoor	万兽山庄分组进8184猴子	26166		0		8184	1	1	1	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	10	2		2	EntrySuccess010					
+wssz_door_out_8184	AdventureDoor	万兽山庄分组出8184			0		-1	1	1	0	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	50	2		2						
+wssz_door_in_8189	AdventureDoor	万兽山庄分组进8189老鹰	26165		0		8189	1	1	1	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	10	2		2	EntrySuccess010					
+wssz_door_out_8189	AdventureDoor	万兽山庄分组出8189			0		-1	1	1	0	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	50	2		2						
+wssz_door_in_8190	AdventureDoor	万兽山庄分组进8190乌龟	26167		0		8190	1	1	1	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	10	2		2	EntrySuccess010					
+wssz_door_out_8190	AdventureDoor	万兽山庄分组出8190			0		-1	1	1	0	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	50	2		2						
+wssz_door_in_8191	AdventureDoor	万兽山庄分组进8191猛虎	26164		0		8191	1	1	1	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	10	2		2	EntrySuccess010					
+wssz_door_out_8191	AdventureDoor	万兽山庄分组出8191			0		-1	1	1	0	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	50	2		2						
+door_qywx_jhngcj_001	AdventureDoor	五内锦衣卫抛尸谷	29951		0		7133	1	1	0	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	40	2		2	EntrySuccess008	EntryFail001		1		
+																								
+PlotDoor_5nei_cc_ing8348	AdventureDoor	五内-陈宸-论经场景进入	26933		0		8348	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	45	2		2	EntrySuccess003					
+PlotDoor_5nei_cc_ing8349	AdventureDoor	五内-陈宸-论经场景进入	26925		0		8390	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	45	2		2	EntrySuccess003					
+PlotDoor5neigbqz001	AdventureDoor	苏州酒楼进分组	26767		0		8349	1	1	0	npc\itemnpc057		4	49	20	2		2				1		
+PlotDoor5neigbqz002	AdventureDoor	烟雨庄鹿分组	107426		0		8353	1	1	0	npc\itemnpc057		4	49	20	2		2				1		
+PlotDoor5neigbqz003	AdventureDoor	去5内小场景	26813		332	"366.660,31.644,19.938,-1.795"	8361	1	1	0	npc\itemnpc057		4	49	10	2		2	EntrySuccess003	EntryFail001				
+																								
+PlotDoor_0tm5nei_01	AdventureDoor	雪山进入分组场景	26815		0		8364	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	40	2		2		EntryFail001				
+PlotDoor_0tm5nei_02	AdventureDoor	返回君子堂苦竹林			7	"1120.425,60.506,115.175,3.075"	-1	1	1	0	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	10	2		2	EntrySuccess002					
+PlotDoor_0tm5nei_03	AdventureDoor	雪山进入分组场景--山崖下			0		8364	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	40	2		2		EntryFail001				
+																								
+door_5neijy_58537infz	AdventureDoor	五内锦衣卫抛尸谷	107514		0		8358	1	1	0	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	6	2		2	EntrySuccess008	EntryFail001		1		
+door_5neijz_57035_01	AdventureDoor	五内君子堂进入分组	107732		0		7134	1	1	0	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	6	2		2	EntrySuccess008	EntryFail001		1		
+door_5neijz_57037_01	AdventureDoor	五内君子堂进入分组	107797		0		7135	1	1	0	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	6	2		2	EntrySuccess008	EntryFail001		1		
+groupscenedoor_8360_1	AdventureDoor	千灯劫进			346	"595.026,-44.255,746.581,2.307"	8360	1	2	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	10	2		2	EntrySuccess003	EntryFail001				
+groupscenedoor_8360_2	AdventureDoor	千灯劫出			1		-1	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	10	2		2						
+																								
+	//五内属性玩法																							
+PlotDoor_5nei_cc_ing8365	AdventureDoor	五内-陈宸-峨眉邢君可与莫无情隐居结婚			0		8365	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	45	2		2	EntrySuccess003					
+																								
+	//五内-武当																							
+NPC_5nei_wd_01	AdventureDoor	抓貂	26802		0		8357	1	1	0	npc\itemnpc057		4	49	45	2		2				1		
+NPC_5nei_wd_likai	AdventureDoor	离开			0		-1	1	1	0	npc\itemnpc057		4	49	50	2		2				1		
+NPC_5nei_z2_qc	AdventureDoor	切磋			0		-1	1	1	0	npc\itemnpc057		4	49	45	2		2				1		
+NPC_5nei_z2_wgm1	AdventureDoor	无根门	107767		0		8378	1	1	0	npc\itemnpc057		4	49	45	2		2				1		
+NPC_5nei_z2_qj	AdventureDoor	劝架	107787		0		8379	1	1	0	npc\itemnpc057		4	49	45	2		2				1		
+NPC_5nei_z2_lqc1	AdventureDoor	连青城	107788		0		8380	1	1	0	npc\itemnpc057		4	49	45	2		2				1		
+NPC_5nei_z2_wg1	AdventureDoor	围攻十缺	107789		0		8381	1	1	0	npc\itemnpc057		4	49	45	2		2				1		
+NPC_5nei_z2_sqtx	AdventureDoor	十缺偷袭	107791		0		8382	1	1	0	npc\itemnpc057		4	49	45	2		2				1		
+NPC_5nei_z2_kzj	AdventureDoor	苦竹居	26822		0		8383	1	1	0	npc\itemnpc057		4	49	45	2		2				1		
+NPC_5nei_z2_xs	AdventureDoor	雪山	107796		352	"695.321,466.191,828.238,0.501"	8384	1	1	0	npc\ride_horse_0501		4	49	45	2		2				1		
+NPC_5nei_z2_lkxs	AdventureDoor	离开雪山			14	"288.557,-0.006,443.698,-0.565"		1	1	1	npc\ride_horse_0501		4	49	45	2		2	EntrySuccess017			0		
+NPC_5nei_z2_cd	AdventureDoor	前往成都	26840		17	"400.257,22.977,585.433,0.098"		1	1	1	npc\ride_horse_0501		4	49	45	2		2	EntrySuccess014			0		
+NPC_5nei_z2_sz	AdventureDoor	前往苏州	26842		14	"1816.089,9.972,879.469,-2.325"		1	1	1	npc\ride_horse_0501		4	49	45	2		2	EntrySuccess015			0		
+NPC_5nei_z2_jzt	AdventureDoor	前往君子堂	26843		7	"1174.530,2.581,718.888,-2.233"		1	1	1	npc\ride_horse_0501		4	49	45	2		2	EntrySuccess016			0		
+PlotDoor_5nei_nx_8286	AdventureDoor	五内大侠养成			299	"48.12,-15.74,-28.37,15.86"	8286	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	20	2		2	EntrySuccess003					
+PlotDoor_5nei_nx_8335	AdventureDoor	五内大侠养成			299	"48.12,-15.74,-28.37,15.86"	8335	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	20	2		2	EntrySuccess003					
+PlotDoor_5nei_nx_sl	AdventureDoor	武当四内-回武当			11	"374.898,106.408,341.290,1.896"		1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	10	2		2	EntrySuccess003					
+PlotDoor_0tm5nei_bird	AdventureDoor	捕鸟返回苏州			14	"770.000,1.903,484.000,1.903"	-1	1	1	1	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	5	2		2	EntrySuccess002					
+NPC_chz_dy	AdventureDoor	参合指奇遇	108639		0		8394	1	1	0	npc\itemnpc057		4	49	45	2		2				1		
+NPC_xhmd_dy	AdventureDoor	血海魔刀奇遇	109718		0		8534	1	1	0	npc\itemnpc057		4	49	45	2		2				1		
+																								
+	//血刀门																							
+NPC_xdm_wj_19	AdventureDoor	灭鼠	109522		0		8528	1	1	0	npc\itemnpc057		4	49	20	2		2				1		
+NPC_xdm_wj_21	AdventureDoor	制药	109533		0		8529	1	1	0	npc\itemnpc057		4	49	10	2		2				1		
+NPC_xdm_dy_01	AdventureDoor	击杀同门			0		8527	1	1	0	npc\itemnpc057		4	49	45	2		2				1		
+NPC_xdm_cc_in_01	AdventureDoor	血刀门-入门任务	109766		0		8541	1	1	0	npc\itemnpc057		4	49	45	2		2				1		
+npc_xdm_ww19	AdventureDoor	矿洞-进	27253		552	"-556.588,-6.046,-1768.979,-0.364"	-1	1	1	0	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	1	2		2						
+npc_xdm_ww20	AdventureDoor	矿洞场景-出			552	"-351.3,441.9,-587.6,0.2"	-1	1	1	0	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	1	2		2						
+NPC_xdm_dy_02	AdventureDoor	养棺场景	109770		0		8543	1	1	0	npc\itemnpc057		4	49	45	2		2				1		
+NPC_xdm_dy_03	AdventureDoor	养棺场景	109771		0		8544	1	1	0	npc\itemnpc057		4	49	45	2		2				1		
+NPC_xdm_mhd_wj	AdventureDoor	迷魂洞-出			552	"-5.2,264.1,-541.2,-1.0"	-1	1	1	0	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	3	2		2						
+NPC_xdm_dy_04	AdventureDoor	武当四内-回武当			552	"-14.136,265.182,-540.810,2.572"		1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	3	2		2	entrysuccess018					
+	//长风镖局坐夜																							
+cfbj_door_in_3211	AdventureDoor	长风镖局3211进	29932		0		3211	1	1	0	npc\itemnpc057_tg2	icon\funcnpc\clonedoor.png	4	49	2	2		2	EntrySuccess011					
+cfbj_door_out_3211	AdventureDoor	长风镖局3211出			0		-1	1	1	0	npc\itemnpc057_tg2	icon\funcnpc\clonedoor.png	4	49	2	2		2	EntrySuccess012					
+																								
+	//念萝坝花会																							
+PlotDoor_nlb_hh_01	AdventureDoor	莲花-入	110290		0		8602	1	1	0	npc\itemnpc057		4	49	40	2		2				1		
+PlotDoor_nlb_cc_01	AdventureDoor	花会离开			17	"967.001,18.762,762.375,1.214"	-1	1	1	0	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	30	2		2	EntrySuccess003			1		
+PlotDoor_nlb_mxm_01	AdventureDoor	潜入刑部	110301		0		8605	1	1	0	npc\itemnpc057k		4	49	40	2		2				1		
+	//华山																							
+PlotDoor_hs_dy_01	AdventureDoor	铸剑	111179		571	"1503.794,147.996,947.344,-2.106"	8630	1	1	0	npc\itemnpc057		4	49	45	2		2				1		
+PlotDoor_hs_dy_02	AdventureDoor	心剑台	111147		571	"1820.000,118.955,814.000,0.063"	8631	1	1	0	npc\itemnpc057		4	49	45	2		2				1		
+PlotDoor_hs_dy_03	AdventureDoor	剑冢	111178		571	"1525.733,146.439,1023.631,0.041"	8632	1	1	0	npc\itemnpc057		4	49	45	2		2				1		
+PlotDoor_hs_dy_04	AdventureDoor	华山-心剑台出口			571	"1807.265,119.050,799.401,0.594"		1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	3	2		2	EntrySuccess019					
+PlotDoor_hs_dy_05	AdventureDoor	华山-铸剑出口			571	"1509.369,146.435,938.118,-1.337"		1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	3	2		2	EntrySuccess019					
+PlotDoor_hs_dy_06	AdventureDoor	华山-剑冢出口			571	"1527.380,146.003,1030.229,-2.990"		1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	3	2		2	EntrySuccess019					
+PlotDoor_hsp_ljt	AdventureDoor	华山派灵剑台分组	27748		0		8640	1	1	0	npc\itemnpc057	icon\funcnpc\clonedoor.png	4	49	5	2		2		EntryFail001				
+																								
+PlotDoor_hsp_cc_30411	AdventureDoor	华山派入门任务-君子线	27724		0		8636	1	1	0	npc\funcnpc019		4	49	45	2		2				1		
+npc_hsp_mxm020	AdventureDoor	尊剑台			571	"1761.415,101.450,856.001,-3.070"	-1	1	2	1	npc\worldnpc222_02_mxm	icon\funcnpc\clonedoor.png	4	49	5	2		2	entrysuccess002					
+NPC_shl_dy	AdventureDoor	圣火令奇遇	111354		0		8645	1	1	0	npc\itemnpc057		4	49	45	2		2				1		
+	//新镇派																							
+PlotDoor_zp_cc_01	AdventureDoor	镇派-掠夺码头分组场景进入NPC	112182		0		8705	1	1	0	npc\funcnpc019		4	49	45	2		2				1		
+																								
+PlotDoor_pld_dy_01	AdventureDoor	传入			348	"2083.140,38.526,1442.375,-2.023"	8713	1	1	0	npc\itemnpc057		4	49	10	2		2				1		
+PlotDoor_pld_dy_02	AdventureDoor	传出			604			1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	3	2		2	EntrySuccessgb02					
+																								
+		//凌霄城																						
+npc_hwcy_mxm05	AdventureDoor	荷舞藏渊			633	"644.51,18.10,436.31,0"	-1	1	2	1	npc\itemnpc057k	icon\funcnpc\clonedoor.png	4	49	5	2		2	entrysuccess002					
+																								
+PlotDoor_qynew_dy_01	AdventureDoor	71039进分组	115223		0		8984	1	1	0	npc\itemnpc057		4	49	45	2		2				1		
+PlotDoor_qynew_dy_02	AdventureDoor	71082进山洞	115227		65	"253.775,39.759,-551.805,-0.268"	8985	1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	3	2		2	EntrySuccess003					
+PlotDoor_qynew_dy_03	AdventureDoor	71039进分组	115228		0		8986	1	1	0	npc\itemnpc057		4	49	45	2		2				1		
+PlotDoor_qynew_dy_04	AdventureDoor	出山洞			1	"583.821,-44.157,1203.274,2.233"		1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	3	2		2	EntrySuccess003					
+PlotDoor_qynew_dy_05	AdventureDoor	71012进分组	28891		63	"182.826,7.272,469.780,1.979"	8987	1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	3	2		2	EntrySuccess003					
+PlotDoor_qynew_dy_06	AdventureDoor	出山洞			14	"1251.413,8.842,504.439,-0.338"		1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	3	2		2	EntrySuccess003					
+PlotDoor_qynew_dy_07	AdventureDoor	71039进分组	9332		0		8988	1	1	0	npc\itemnpc057		4	49	45	2		2				1		
+																								
+PlotDoor_yxhd_dy_01	AdventureDoor	出山洞			14	"509.522,0.631,750.968,-1.576"		1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	3	2		2	EntrySuccess003					
+PlotDoor_yxhd_dy_02	AdventureDoor	71039进分组	29026		0		9005	1	1	0	npc\itemnpc057		4	49	45	2		2				1		
+																								
+		//祭拜夫子																						
+PlotDoor_jibfz_fc_01	AdventureDoor	出分组			15	"1215.353,1.906,1636.571,2.685"	-1	1	1	1	npc\itemnpc057k		4	49	3	2		2	jibaifuzi_fc_001					
+																								
+PlotDoor_wuy_dy_02	AdventureDoor	出分组			16	"891.552,-25.002,730.087,-0.029"	-1	1	1	1	npc\itemnpc057k		4	49	3	2		2	huodong_dy5101					
+																								
+PlotDoor_xjdy_15	AdventureDoor	离开			13	"840.362,-112.897,717.867,1.669"	-1	1	2	1	npc\funcnpc019		4	49	5	2		2	entrysuccess002					
+PlotDoor_xjdy_16	AdventureDoor	离开			14	"782.310,0.268,670.385,3.071"	-1	1	2	1	npc\funcnpc019		4	49	5	2		2	entrysuccess002					
+PlotDoor_xjdy_17	AdventureDoor	离开			15	"1080.635,-2.837,2036.526,-2.300"	-1	1	2	1	npc\funcnpc019		4	49	5	2		2	entrysuccess002					
+PlotDoor_xjdy_18	AdventureDoor	离开			16	"1047.000,-19.064,958.000,-1.516"	-1	1	2	1	npc\funcnpc019		4	49	5	2		2	entrysuccess002					
+PlotDoor_xjdy_19	AdventureDoor	离开			17	"763.714,21.871,355.971,1.480"	-1	1	2	1	npc\funcnpc019		4	49	5	2		2	entrysuccess002					
+																								
+PlotDoor_xmg_dy_01	AdventureDoor	74336进分组	29945		0		9096	1	1	0	npc\itemnpc057		4	49	3	2		2				1		
+PlotDoor_xmg_dy_02	AdventureDoor	74336进分组			832		-1	1	1	0	npc\itemnpc057		4	49	3	2		2				1		
+																								
+DoorNpcadv152001	AdventureDoor	寒木春华宫前往塔顶			948	"-904,505.6,-2890.7,0"	-1	1	1	0	npc\funcnpc019		4	49	2	2		2						
+DoorNpcadv152002	AdventureDoor	前往镜花水月宫中央平台			948	"10835,203.6,7029.8,0"	-1	1	1	0	npc\funcnpc019		4	49	2	2		2						
+DoorNpcadv152003	AdventureDoor	前往金宫			948	"-7047.6,175.3,-7220.7,-2.5"	-1	1	1	0	npc\funcnpc019_1		4	49	2	2		2						
+DoorNpcadv152004	AdventureDoor	前往木宫			948	"-904.5,178.1,-2430.7,3.1"	-1	1	1	0	npc\funcnpc019_2		4	49	2	2		2						
+DoorNpcadv152005	AdventureDoor	前往水宫			948	"10836.5,204.2,7193.8,3.1"	-1	1	1	0	npc\funcnpc019		4	49	2	2		2						
+DoorNpcadv152006	AdventureDoor	前往火宫			948	"9223.0,301.1,-3374.2,-1.2"	-1	1	1	0	npc\funcnpc019_3		4	49	2	2		2						
+DoorNpcadv152007	AdventureDoor	前往土宫			948	"-578.0,205.2,6813.6,-3.1"	-1	1	1	0	npc\funcnpc019_4		4	49	2	2		2						
+DoorNpcadv152008	AdventureDoor	74336进分组			948	"-8200,215.1,7185.0,2.6"	-1	1	1	0	npc\funcnpc019		4	49	2	2		2						
+																								
+DoorNpcadv152009	AdventureDoor	回到老家					-1	1	1	0	npc\funcnpc019		4	49	2	2		2						
+																								
+PlotDoor_ty_dy_01	AdventureDoor	76233传送	119278		448	"-110.948,10.330,267.561,1.839"	-1	1	1	0	npc\itemnpc057		4	49	5	2		2				1		
+PlotDoor_ty_dy_02	AdventureDoor	76233传送	119280		448	"-127.073,188.241,-424.999,3.128"	-1	1	1	0	npc\itemnpc057		4	49	5	2		2				1		
+PlotDoor_ty_dy_03	AdventureDoor	76238传送	119282		0		9231	1	1	0	npc\itemnpc057		4	49	5	2		2				1		
+PlotDoor_ty_dy_04	AdventureDoor	76233传送			448	"-127.073,188.241,-424.999,3.128"	-1	1	2	1	npc\funcnpc019		4	49	5	2		2	entrysuccess002					
+PlotDoor_ty_dy_05	AdventureDoor	76238传送	119284		0		9232	1	1	0	npc\itemnpc057		4	49	5	2		2				1		
+																								
+PlotDoor_xtb_dy_01	AdventureDoor	76814出军营			1036	"-378.118,9.591,1043.535,0.371"	-1	1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	3	2		2	EntrySuccess003					
+PlotDoor_xtb_dy_02	AdventureDoor	76814进地宫	200518		0		9265	1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	3	2		2	EntrySuccess003					
+PlotDoor_xtb_dy_03	AdventureDoor	进军营	200519		0		9266	1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	3	2		2	EntrySuccess003					
+PlotDoor_xtb_dy_04	AdventureDoor	76817出军营2			1036	"-537.179,28.051,756.491,-1.352"	-1	1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	3	2		2	EntrySuccess003					
+PlotDoor_xtb_dy_05	AdventureDoor	进地宫2	200520		0		9267	1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	3	2		2	EntrySuccess003					
+PlotDoor_xtb_dy_06	AdventureDoor	76815出地宫			1036	"-386.041,21.280,925.316,-0.042"	-1	1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	3	2		2	EntrySuccess003					
+																								
+PlotDoor_qyby_dy_01	AdventureDoor	晴瑶别院	201032		0		9314	1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	3	2		2	EntrySuccess003					
+PlotDoor_qyby_dy_02	AdventureDoor	出晴瑶别院			3	"338.797,138.935,23.426,-2.517"	-1	1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	3	2		2	EntrySuccess003					
+																								
+PlotDoor_jwd_dy_01	AdventureDoor	离开福船			3	"810.950,3.195,1780.979,0.036"	-1	1	1	1	npc\funcnpc019	icon\funcnpc\clonedoor.png	4	49	3	2		2	EntrySuccess003					

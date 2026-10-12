@@ -1,0 +1,600 @@
+NPC编号	对象类型	名称	模型编号	头像	NPC类型	NPC种类ID	响应范围	选择操作分类	鼠标形状	脚本编号	采集范围	采集动作名	刷新时间（ms）	读条时间(ms)	采集类型	参数1	参数2	钓鱼难度	回收	掉落	掉落物品	采集地点	最多可采集次数	体力	消耗工具耐久	排行榜积分	影响时间	运营管理读取类别	运营管理读取名称	分解技能等级	身份掉落包	生活掉落包	生活心得	工具限制ID（不填写表示没有限制）	选中是否有绿色光圈	非vip采集次数	等同最多可采集次数	无拾取物消失时间	最大消失时间	AI编辑包	模型路径	限制包	NPC优先显示	是否求助	呼叫半径	采集成功添加BUFF	生存时间	缩放尺寸	战斗采集	不能被杀死
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	script	Name	Resource	Photo	NpcType	CKindID	SpringRange	SelectState	CursorShape	LuaScript	GatherRange	GatherAction	RefreshTime	DelayTime	GatherType	GatherPara1	GatherPara2	GatherGameDiff	LostItems	DropID	ShowDrop	ShowPoint	MaxCount	NeedEne	UseHardiness	PaiHangPoint	EffectsTime	QTypeID	QName	SkinPara2	ShenFenDropID	LifeDropPackage	LifeExpPackage	ToolLimited	HideDecal	VipMaxCount	VipLeftCount	DestroyTime1	DestroyTime2	AIEditorPackID	table@model_rec	Limit	RefreshAtonce	IsCallHelp	CallHelpRange	AfterGatherBuffer	LifeTime	Scale	NotCheckFight	CantBeKilled
+																																																		
+fishnpc10001	MineNpc	弓鱼群	npc\cj_101004	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	1		fishnpc10001	"fish_10003,fish_10005"	恶人谷	6	1	1	0	1000	13	13			901	45	207		3	6		3											
+fishnpc10002	MineNpc	团头鲂群	npc\cj_101004	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	20	1		fishnpc10002	"fish_10011,fish_10015"	恶人谷	6	1	1	0	1000	13	13			902	45	207		3	6		3											
+fishnpc10003	MineNpc	黑龙鱼群	npc\cj_101005	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	50	1		fishnpc10003	"fish_10020,fish_10024"	恶人谷	6	2	2	0	1000	13	13			903	45	207		3	6		3											
+fishnpc10004	MineNpc	白甲鱼群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	70	2		fishnpc10004	"fish_10025,fish_10079"	恶人谷	4	3	5	2	1000	13	13			904	45	207		2	4		2											
+fishnpc10005	MineNpc	黄爪鱼群	npc\cj_101004	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	190	9		fishnpc10005	"fish_10106,fish_10128"	塞外草原	6	6	30	12	1000	13	13			905	45	207		3	6		3											
+fishnpc10006	MineNpc	条鳅群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	230	10		fishnpc10006	"fish_10145,fish_10153"	塞外草原	6	7	60	24	1000	13	13			906	45	207		3	6		3											
+fishnpc10007	MineNpc	雅鱼群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	250	12		fishnpc10007	"fish_10167,fish_10181"	塞外草原	6	8	60	24	1000	13	13			907	45	207		3	6		3											
+fishnpc10008	MineNpc	高背鲫群	npc\cj_101010	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	280	15		fishnpc10008	"fish_10191,fish_10198"	塞外草原	4	9	100	40	1000	13	13			908	45	207		2	4		2											
+fishnpc10009	MineNpc	鳙鱼群	npc\cj_101005	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	250	12		fishnpc10009	"fish_10169,fish_10177"	塞外大漠	6	8	60	24	1000	13	13			909	45	207		3	6		3											
+fishnpc10010	MineNpc	白鱼群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	260	13		fishnpc10010	"fish_10170,fish_10185"	塞外大漠	6	8	80	32	1000	13	13			910	45	207		3	6		3											
+fishnpc10011	MineNpc	赤梢鱼群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	270	14		fishnpc10011	"fish_10187,fish_10196"	塞外大漠	6	8	80	32	1000	13	13			911	45	207		3	6		3											
+fishnpc10012	MineNpc	黑鲫群	npc\cj_101010	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	290	15		fishnpc10012	"fish_10192,fish_10199"	塞外大漠	4	9	100	40	1000	13	13			912	45	207		2	4		2											
+fishnpc10013	MineNpc	鳟鱼群	npc\cj_101004	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	1		fishnpc10013	"fish_10004,fish_10008"	千灯镇	6	1	1	0	1000	13	13			913	45	207		3	6		3											
+fishnpc10014	MineNpc	岩原鲤群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	30	1		fishnpc10014	"fish_10012,fish_10014"	千灯镇	6	1	2	0	1000	13	13			914	45	207		3	6		3											
+fishnpc10015	MineNpc	大肚鱼群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	40	1		fishnpc10015	"fish_10018,fish_10022"	千灯镇	6	2	2	0	1000	13	13			915	45	207		3	6		3											
+fishnpc10016	MineNpc	春鲤群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	70	2		fishnpc10016	"fish_10026,fish_10046"	千灯镇	4	3	5	2	1000	13	13			916	45	207		2	4		2											
+fishnpc10017	MineNpc	青竹鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	80	3		fishnpc10017	"fish_10033,fish_10045"	唐门	6	3	7	2	1000	13	13			917	45	207		3	6		3											
+fishnpc10018	MineNpc	大头鲤群	npc\cj_101005	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	100	4		fishnpc10018	"fish_10050,fish_10061"	唐门	6	3	7	2	1000	13	13			918	45	207		3	6		3											
+fishnpc10019	MineNpc	尖鳍鲤群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	150	7		fishnpc10019	"fish_10077,fish_10092"	唐门	6	5	15	6	1000	13	13			919	45	207		3	6		3											
+fishnpc10020	MineNpc	泉水鱼群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	180	9		fishnpc10020	"fish_10109,fish_10135"	唐门	4	6	30	12	1000	13	13			920	45	207		2	4		2											
+fishnpc10021	MineNpc	石首鱼群	npc\cj_101004	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	80	3		fishnpc10021	"fish_10034,fish_10039"	峨眉	6	3	7	2	1000	13	13			921	45	207		3	6		3											
+fishnpc10022	MineNpc	龙虾群	npc\cj_101005	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	110	4		fishnpc10022	"fish_10054,fish_10057"	峨眉	6	4	10	4	1000	13	13			922	45	207		3	6		3											
+fishnpc10023	MineNpc	刺鳑鲏群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	140	7		fishnpc10023	"fish_10072,fish_10086"	峨眉	6	5	15	6	1000	13	13			923	45	207		3	6		3											
+fishnpc10024	MineNpc	香榄鱼群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	180	9		fishnpc10024	"fish_10111,fish_10132"	峨眉	4	6	30	12	1000	13	13			924	45	207		2	4		2											
+fishnpc10025	MineNpc	胡鲶群	npc\cj_101005	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	120	5		fishnpc10025	"fish_10059,fish_10067"	念罗坝	6	4	10	4	1000	13	13			925	45	207		3	6		3											
+fishnpc10026	MineNpc	半边鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	130	6		fishnpc10026	"fish_10068,fish_10073"	念罗坝	6	4	15	6	1000	13	13			926	45	207		3	6		3											
+fishnpc10027	MineNpc	金线鲃群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	170	8		fishnpc10027	"fish_10090,fish_10100"	念罗坝	6	5	20	8	1000	13	13			927	45	207		3	6		3											
+fishnpc10028	MineNpc	月光鱼群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	180	9		fishnpc10028	"fish_10115,fish_10120"	念罗坝	4	6	30	12	1000	13	13			928	45	207		2	4		2											
+fishnpc10029	MineNpc	石鱼群	npc\cj_101005	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	160	7		fishnpc10029	"fish_10080,fish_10087"	成都	6	5	20	8	1000	13	13			929	45	207		3	6		3											
+fishnpc10030	MineNpc	长臀鮠群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	180	9		fishnpc10030	"fish_10102,fish_10133"	成都	6	6	30	12	1000	13	13			930	45	207		3	6		3											
+fishnpc10031	MineNpc	燕鳐鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	230	10		fishnpc10031	"fish_10147,fish_10154"	成都	6	7	60	24	1000	13	13			931	45	207		3	6		3											
+fishnpc10032	MineNpc	黄金斑群	npc\cj_101010	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	240	12		fishnpc10032	"fish_10162,fish_10173"	成都	4	8	60	24	1000	13	13			932	45	207		2	4		2											
+fishnpc10033	MineNpc	直口鲮群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	200	9		fishnpc10033	"fish_10116,fish_10126"	向阳坡	6	6	30	12	1000	13	13			933	45	207		3	6		3											
+fishnpc10034	MineNpc	月鳢群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	210	10		fishnpc10034	"fish_10139,fish_10148"	向阳坡	6	7	45	18	1000	13	13			934	45	207		3	6		3											
+fishnpc10035	MineNpc	长体鳜群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	240	11		fishnpc10035	"fish_10151,fish_10158"	向阳坡	6	8	60	24	1000	13	13			935	45	207		3	6		3											
+fishnpc10036	MineNpc	乌塘鳢群	npc\cj_101010	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	240	12		fishnpc10036	"fish_10165,fish_10171"	向阳坡	4	8	60	24	1000	13	13			936	45	207		2	4		2											
+fishnpc10037	MineNpc	白头鳜群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	240	12		fishnpc10037	"fish_10159,fish_10174"	凌霄城	6	8	60	24	1000	13	13			937	45	207		3	6		3											
+fishnpc10038	MineNpc	墨头鱼群	npc\cj_101005	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	260	13		fishnpc10038	"fish_10179,fish_10189"	凌霄城	6	8	80	32	1000	13	13			938	45	207		3	6		3											
+fishnpc10039	MineNpc	暗鳜群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	270	14		fishnpc10039	"fish_10184,fish_10194"	凌霄城	6	8	80	32	1000	13	13			939	45	207		3	6		3											
+fishnpc10040	MineNpc	抗浪鱼群	npc\cj_101010	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	290	15		fishnpc10040	"fish_10193,fish_10200"	凌霄城	4	9	100	40	1000	13	13			940	45	207		2	4		2											
+fishnpc10041	MineNpc	对虾群	npc\cj_101004	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	60	3		fishnpc10041	"fish_10027,fish_10040"	少林	6	2	5	2	1000	13	13			941	45	207		3	6		3											
+fishnpc10042	MineNpc	鲤鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	110	4		fishnpc10042	"fish_10053,fish_10062"	少林	6	4	10	4	1000	13	13			942	45	207		3	6		3											
+fishnpc10043	MineNpc	黄尾鲴群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	150	7		fishnpc10043	"fish_10076,fish_10094"	少林	6	5	15	6	1000	13	13			943	45	207		3	6		3											
+fishnpc10044	MineNpc	平鳍鳅群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	180	9		fishnpc10044	"fish_10108,fish_10129"	少林	4	6	30	12	1000	13	13			944	45	207		2	4		2											
+fishnpc10045	MineNpc	鳓鱼群	npc\cj_101004	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	70	3		fishnpc10045	"fish_10030,fish_10042"	武当	6	3	5	2	1000	13	13			945	45	207		3	6		3											
+fishnpc10046	MineNpc	黄颡鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	100	4		fishnpc10046	"fish_10052,fish_10065"	武当	6	3	7	2	1000	13	13			946	45	207		3	6		3											
+fishnpc10047	MineNpc	鲌鱼群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	170	7		fishnpc10047	"fish_10084,fish_10096"	武当	6	5	20	8	1000	13	13			947	45	207		3	6		3											
+fishnpc10048	MineNpc	铜鱼群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	180	9		fishnpc10048	"fish_10110,fish_10121"	武当	4	6	30	12	1000	13	13			948	45	207		2	4		2											
+fishnpc10049	MineNpc	黑鲈群	npc\cj_101004	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	140	7		fishnpc10049	"fish_10074,fish_10091"	洛阳	6	5	15	6	1000	13	13			949	45	207		3	6		3											
+fishnpc10050	MineNpc	刀鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	190	9		fishnpc10050	"fish_10104,fish_10131"	洛阳	6	6	30	12	1000	13	13			950	45	207		3	6		3											
+fishnpc10051	MineNpc	大眼鳜群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	220	10		fishnpc10051	"fish_10141,fish_10156"	洛阳	6	7	45	18	1000	13	13			951	45	207		3	6		3											
+fishnpc10052	MineNpc	火鲤群	npc\cj_101010	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	240	12		fishnpc10052	"fish_10163,fish_10178"	洛阳	4	8	60	24	1000	13	13			952	45	207		2	4		2											
+fishnpc10053	MineNpc	大白鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	1		fishnpc10053	"fish_10002,fish_10006"	漠河镇	6	1	1	0	1000	13	13			953	45	207		3	6		3											
+fishnpc10054	MineNpc	狗鱼群	npc\cj_101005	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	10	1		fishnpc10054	"fish_10009,fish_10013"	漠河镇	6	1	1	0	1000	13	13			954	45	207		3	6		3											
+fishnpc10055	MineNpc	鲱鱼群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	50	1		fishnpc10055	"fish_10019,fish_10021"	漠河镇	6	2	2	0	1000	13	13			955	45	207		3	6		3											
+fishnpc10056	MineNpc	马头鱼群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	70	2		fishnpc10056	"fish_10031,fish_10043"	漠河镇	4	3	5	2	1000	13	13			956	45	207		2	4		2											
+fishnpc10057	MineNpc	燕鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	80	3		fishnpc10057	"fish_10036,fish_10044"	丐帮	6	3	7	2	1000	13	13			957	45	207		3	6		3											
+fishnpc10058	MineNpc	鲅鱼群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	90	4		fishnpc10058	"fish_10048,fish_10058"	丐帮	6	3	7	2	1000	13	13			958	45	207		3	6		3											
+fishnpc10059	MineNpc	塘角鱼群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	170	7		fishnpc10059	"fish_10083,fish_10098"	丐帮	6	5	20	8	1000	13	13			959	45	207		3	6		3											
+fishnpc10060	MineNpc	香鱼群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	180	9		fishnpc10060	"fish_10112,fish_10122"	丐帮	4	6	30	12	1000	13	13			960	45	207		2	4		2											
+fishnpc10061	MineNpc	白鲦群	npc\cj_101005	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	140	7		fishnpc10061	"fish_10071,fish_10095"	燕京	6	5	15	6	1000	13	13			961	45	207		3	6		3											
+fishnpc10062	MineNpc	灯笼鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	190	9		fishnpc10062	"fish_10105,fish_10130"	燕京	6	6	30	12	1000	13	13			962	45	207		3	6		3											
+fishnpc10063	MineNpc	雪鱼群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	230	10		fishnpc10063	"fish_10146,fish_10155"	燕京	6	7	60	24	1000	13	13			963	45	207		3	6		3											
+fishnpc10064	MineNpc	花鱼群	npc\cj_101010	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	240	12		fishnpc10064	"fish_10161,fish_10183"	燕京	4	8	60	24	1000	13	13			964	45	207		2	4		2											
+fishnpc10065	MineNpc	竹夹鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	200	9		fishnpc10065	"fish_10117,fish_10119"	泛黄平原	6	6	30	12	1000	13	13			965	45	207		3	6		3											
+fishnpc10066	MineNpc	鮰鱼群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	210	10		fishnpc10066	"fish_10137,fish_10140"	泛黄平原	6	7	45	18	1000	13	13			966	45	207		3	6		3											
+fishnpc10067	MineNpc	鲢鱼群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	220	10		fishnpc10067	"fish_10143,fish_10152"	泛黄平原	6	7	45	18	1000	13	13			967	45	207		3	6		3											
+fishnpc10068	MineNpc	细鳞鱼群	npc\cj_101010	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	240	12		fishnpc10068	"fish_10166,fish_10180"	泛黄平原	4	8	60	24	1000	13	13			968	45	207		2	4		2											
+fishnpc10069	MineNpc	银鲫群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	200	9		fishnpc10069	"fish_10114,fish_10125"	蓬莱	6	6	30	12	1000	13	13			969	45	207		3	6		3											
+fishnpc10070	MineNpc	青花鱼群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	210	10		fishnpc10070	"fish_10138,fish_10142"	蓬莱	6	7	45	18	1000	13	13			970	45	207		3	6		3											
+fishnpc10071	MineNpc	白鲳群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	240	11		fishnpc10071	"fish_10149,fish_10157"	蓬莱	6	8	60	24	1000	13	13			971	45	207		3	6		3											
+fishnpc10072	MineNpc	胭脂鱼群	npc\cj_101010	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	240	12		fishnpc10072	"fish_10168,fish_10175"	蓬莱	4	8	60	24	1000	13	13			972	45	207		2	4		2											
+fishnpc10073	MineNpc	赤鳞鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	250	12		fishnpc10073	"fish_10160,fish_10176"	幽云十八洲	6	8	60	24	1000	13	13			973	45	207		3	6		3											
+fishnpc10074	MineNpc	红鲷鱼群	npc\cj_101004	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	260	13		fishnpc10074	"fish_10172,fish_10186"	幽云十八洲	6	8	80	32	1000	13	13			974	45	207		3	6		3											
+fishnpc10075	MineNpc	大银鱼群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	270	14		fishnpc10075	"fish_10188,fish_10195"	幽云十八洲	6	8	80	32	1000	13	13			975	45	207		3	6		3											
+fishnpc10076	MineNpc	白鲟群	npc\cj_101010	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	280	15		fishnpc10076	"fish_10190,fish_10197"	幽云十八洲	4	9	100	40	1000	13	13			976	45	207		2	4		2											
+fishnpc10077	MineNpc	鳊鱼群	npc\cj_101004	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	1		fishnpc10077	"fish_10001,fish_10007"	烟雨庄	6	1	1	0	1000	13	13			977	45	207		3	6		3											
+fishnpc10078	MineNpc	青鱼群	npc\cj_101005	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	20	1		fishnpc10078	"fish_10010,fish_10016"	烟雨庄	6	1	1	0	1000	13	13			978	45	207		3	6		3											
+fishnpc10079	MineNpc	鲳鱼群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	40	1		fishnpc10079	"fish_10017,fish_10023"	烟雨庄	6	2	2	0	1000	13	13			979	45	207		3	6		3											
+fishnpc10080	MineNpc	小黄鱼群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	70	2		fishnpc10080	"fish_10035,fish_10041"	烟雨庄	4	3	5	2	1000	13	13			980	45	207		2	4		2											
+fishnpc10081	MineNpc	螃蟹群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	70	3		fishnpc10081	"fish_10032,fish_10047"	君子堂	6	3	5	2	1000	13	13			981	45	207		3	6		3											
+fishnpc10082	MineNpc	青蟹群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	110	4		fishnpc10082	"fish_10055,fish_10064"	君子堂	6	4	10	4	1000	13	13			982	45	207		3	6		3											
+fishnpc10083	MineNpc	花泥鳅群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	150	7		fishnpc10083	"fish_10075,fish_10089"	君子堂	6	5	15	6	1000	13	13			983	45	207		3	6		3											
+fishnpc10084	MineNpc	紫薄鳅群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	180	9		fishnpc10084	"fish_10118,fish_10134"	君子堂	4	6	30	12	1000	13	13			984	45	207		2	4		2											
+fishnpc10085	MineNpc	黄菇鱼群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	60	3		fishnpc10085	"fish_10028,fish_10038"	极乐谷	6	2	5	2	1000	13	13			985	45	207		3	6		3											
+fishnpc10086	MineNpc	黄骨鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	100	4		fishnpc10086	"fish_10051,fish_10060"	极乐谷	6	3	7	2	1000	13	13			986	45	207		3	6		3											
+fishnpc10087	MineNpc	鲥鱼群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	160	7		fishnpc10087	"fish_10081,fish_10088"	极乐谷	6	5	20	8	1000	13	13			987	45	207		3	6		3											
+fishnpc10088	MineNpc	金线鱼群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	180	9		fishnpc10088	"fish_10107,fish_10127"	极乐谷	4	6	30	12	1000	13	13			988	45	207		2	4		2											
+fishnpc10089	MineNpc	卷口鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	70	3		fishnpc10089	"fish_10029,fish_10037"	锦衣卫	6	3	5	2	1000	13	13			989	45	207		3	6		3											
+fishnpc10090	MineNpc	白鳞鱼群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	90	4		fishnpc10090	"fish_10049,fish_10063"	锦衣卫	6	3	7	2	1000	13	13			990	45	207		3	6		3											
+fishnpc10091	MineNpc	白花鱼群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	130	7		fishnpc10091	"fish_10070,fish_10085"	锦衣卫	6	4	15	6	1000	13	13			991	45	207		3	6		3											
+fishnpc10092	MineNpc	银鼓鱼群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	180	9		fishnpc10092	"fish_10113,fish_10136"	锦衣卫	4	6	30	12	1000	13	13			992	45	207		2	4		2											
+fishnpc10093	MineNpc	昂丝鱼群	npc\cj_101004	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	120	5		fishnpc10093	"fish_10056,fish_10066"	梅花岭	6	4	10	4	1000	13	13			993	45	207		3	6		3											
+fishnpc10094	MineNpc	大口鲶群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	130	6		fishnpc10094	"fish_10069,fish_10078"	梅花岭	6	4	15	6	1000	13	13			994	45	207		3	6		3											
+fishnpc10095	MineNpc	叶结鱼群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	180	8		fishnpc10095	"fish_10097,fish_10099"	梅花岭	6	6	30	12	1000	13	13			995	45	207		3	6		3											
+fishnpc10096	MineNpc	唇鱼群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	180	9		fishnpc10096	"fish_10103,fish_10124"	梅花岭	4	6	30	12	1000	13	13			996	45	207		2	4		2											
+fishnpc10097	MineNpc	太湖白鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	160	7		fishnpc10097	"fish_10082,fish_10093"	苏州	6	5	20	8	1000	13	13			997	45	207		3	6		3											
+fishnpc10098	MineNpc	白肌银鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	180	9		fishnpc10098	"fish_10101,fish_10123"	苏州	6	6	30	12	1000	13	13			998	45	207		3	6		3											
+fishnpc10099	MineNpc	太湖白虾群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	220	10		fishnpc10099	"fish_10144,fish_10150"	苏州	6	7	45	18	1000	13	13			999	45	207		3	6		3											
+fishnpc10100	MineNpc	太湖银鱼群	npc\cj_101010	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	240	12		fishnpc10100	"fish_10164,fish_10182"	苏州	4	8	60	24	1000	13	13			1000	45	207		2	4		2											
+																																																		
+fishnpc10001new	MineNpc	鲜活弓鱼群	npc\cj_101004	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	5	1		fishnpc10001	"fish_10003,fish_10005"	恶人谷	6	1	1	0	1000	13	13			3901	45	207		3	6		3											
+fishnpc10002new	MineNpc	鲜活团头鲂群	npc\cj_101004	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	25	1		fishnpc10002	"fish_10011,fish_10015"	恶人谷	6	1	1	0	1000	13	13			3902	45	207		3	6		3											
+fishnpc10003new	MineNpc	鲜活黑龙鱼群	npc\cj_101005	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	55	1		fishnpc10003	"fish_10020,fish_10024"	恶人谷	6	2	5	2	1000	13	13			3903	45	207		3	6		3											
+fishnpc10004new	MineNpc	鲜活白甲鱼群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	75	2		fishnpc10004	"fish_10025,fish_10079"	恶人谷	4	3	5	2	1000	13	13			3904	45	207		2	4		2											
+fishnpc10005new	MineNpc	鲜活黄爪鱼群	npc\cj_101004	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	195	9		fishnpc10005	"fish_10106,fish_10128"	塞外草原	6	6	30	12	1000	13	13			3905	45	207		3	6		3											
+fishnpc10006new	MineNpc	淘气条鳅群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	235	10		fishnpc10006	"fish_10145,fish_10153"	塞外草原	6	7	60	24	1000	13	13			3906	45	207		3	6		3											
+fishnpc10007new	MineNpc	肥硕雅鱼群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	255	12		fishnpc10007	"fish_10167,fish_10181"	塞外草原	6	8	80	32	1000	13	13			3907	45	207		3	6		3											
+fishnpc10008new	MineNpc	肥硕高背鲫群	npc\cj_101010	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	285	15		fishnpc10008	"fish_10191,fish_10198"	塞外草原	4	9	100	40	1000	13	13			3908	45	207		2	4		2											
+fishnpc10009new	MineNpc	肥硕鳙鱼群	npc\cj_101005	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	255	12		fishnpc10009	"fish_10169,fish_10177"	塞外大漠	6	8	80	32	1000	13	13			3909	45	207		3	6		3											
+fishnpc10010new	MineNpc	肥硕白鱼群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	265	13		fishnpc10010	"fish_10170,fish_10185"	塞外大漠	6	8	80	32	1000	13	13			3910	45	207		3	6		3											
+fishnpc10011new	MineNpc	肥硕赤梢鱼群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	275	14		fishnpc10011	"fish_10187,fish_10196"	塞外大漠	6	9	80	32	1000	13	13			3911	45	207		3	6		3											
+fishnpc10012new	MineNpc	凶猛黑鲫群	npc\cj_101010	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	295	15		fishnpc10012	"fish_10192,fish_10199"	塞外大漠	4	10	100	40	1000	13	13			3912	45	207		2	4		2											
+fishnpc10013new	MineNpc	凶猛鳟鱼群	npc\cj_101004	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	5	1		fishnpc10013	"fish_10004,fish_10008"	千灯镇	6	1	1	0	1000	13	13			3913	45	207		3	6		3											
+fishnpc10014new	MineNpc	肥硕岩原鲤群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	35	1		fishnpc10014	"fish_10012,fish_10014"	千灯镇	6	2	2	0	1000	13	13			3914	45	207		3	6		3											
+fishnpc10015new	MineNpc	肥硕大肚鱼群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	45	1		fishnpc10015	"fish_10018,fish_10022"	千灯镇	6	2	2	0	1000	13	13			3915	45	207		3	6		3											
+fishnpc10016new	MineNpc	鲜活春鲤群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	75	2		fishnpc10016	"fish_10026,fish_10046"	千灯镇	4	3	5	2	1000	13	13			3916	45	207		2	4		2											
+fishnpc10017new	MineNpc	鲜活青竹鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	85	3		fishnpc10017	"fish_10033,fish_10045"	唐门	6	3	7	2	1000	13	13			3917	45	207		3	6		3											
+fishnpc10018new	MineNpc	鲜活大头鲤群	npc\cj_101005	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	105	4		fishnpc10018	"fish_10050,fish_10061"	唐门	6	4	10	4	1000	13	13			3918	45	207		3	6		3											
+fishnpc10019new	MineNpc	鲜活尖鳍鲤群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	155	7		fishnpc10019	"fish_10077,fish_10092"	唐门	6	5	20	8	1000	13	13			3919	45	207		3	6		3											
+fishnpc10020new	MineNpc	肥硕泉水鱼群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	185	9		fishnpc10020	"fish_10109,fish_10135"	唐门	4	6	30	12	1000	13	13			3920	45	207		2	4		2											
+fishnpc10021new	MineNpc	肥硕石首鱼群	npc\cj_101004	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	85	3		fishnpc10021	"fish_10034,fish_10039"	峨眉	6	3	7	2	1000	13	13			3921	45	207		3	6		3											
+fishnpc10022new	MineNpc	凶猛龙虾群	npc\cj_101005	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	115	4		fishnpc10022	"fish_10054,fish_10057"	峨眉	6	4	10	4	1000	13	13			3922	45	207		3	6		3											
+fishnpc10023new	MineNpc	凶猛刺鳑鲏群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	145	7		fishnpc10023	"fish_10072,fish_10086"	峨眉	6	5	15	6	1000	13	13			3923	45	207		3	6		3											
+fishnpc10024new	MineNpc	鲜活香榄鱼群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	185	9		fishnpc10024	"fish_10111,fish_10132"	峨眉	4	6	30	12	1000	13	13			3924	45	207		2	4		2											
+fishnpc10025new	MineNpc	鲜活胡鲶群	npc\cj_101005	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	125	5		fishnpc10025	"fish_10059,fish_10067"	念罗坝	6	4	10	4	1000	13	13			3925	45	207		3	6		3											
+fishnpc10026new	MineNpc	鲜活半边鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	135	6		fishnpc10026	"fish_10068,fish_10073"	念罗坝	6	4	15	6	1000	13	13			3926	45	207		3	6		3											
+fishnpc10027new	MineNpc	肥硕金线鲃群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	175	8		fishnpc10027	"fish_10090,fish_10100"	念罗坝	6	6	20	8	1000	13	13			3927	45	207		3	6		3											
+fishnpc10028new	MineNpc	肥硕月光鱼群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	185	9		fishnpc10028	"fish_10115,fish_10120"	念罗坝	4	6	30	12	1000	13	13			3928	45	207		2	4		2											
+fishnpc10029new	MineNpc	肥硕石鱼群	npc\cj_101005	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	165	7		fishnpc10029	"fish_10080,fish_10087"	成都	6	5	20	8	1000	13	13			3929	45	207		3	6		3											
+fishnpc10030new	MineNpc	肥硕长臀鮠群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	185	9		fishnpc10030	"fish_10102,fish_10133"	成都	6	6	30	12	1000	13	13			3930	45	207		3	6		3											
+fishnpc10031new	MineNpc	肥硕燕鳐鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	235	10		fishnpc10031	"fish_10147,fish_10154"	成都	6	7	60	24	1000	13	13			3931	45	207		3	6		3											
+fishnpc10032new	MineNpc	肥硕黄金斑群	npc\cj_101010	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	245	12		fishnpc10032	"fish_10162,fish_10173"	成都	4	8	60	24	1000	13	13			3932	45	207		2	4		2											
+fishnpc10033new	MineNpc	肥硕直口鲮群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	205	9		fishnpc10033	"fish_10116,fish_10126"	向阳坡	6	6	45	18	1000	13	13			3933	45	207		3	6		3											
+fishnpc10034new	MineNpc	鲜活月鳢群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	215	10		fishnpc10034	"fish_10139,fish_10148"	向阳坡	6	7	45	18	1000	13	13			3934	45	207		3	6		3											
+fishnpc10035new	MineNpc	鲜活长体鳜群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	245	11		fishnpc10035	"fish_10151,fish_10158"	向阳坡	6	8	60	24	1000	13	13			3935	45	207		3	6		3											
+fishnpc10036new	MineNpc	鲜活乌塘鳢群	npc\cj_101010	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	245	12		fishnpc10036	"fish_10165,fish_10171"	向阳坡	4	8	60	24	1000	13	13			3936	45	207		2	4		2											
+fishnpc10037new	MineNpc	鲜活白头鳜群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	245	12		fishnpc10037	"fish_10159,fish_10174"	凌霄城	6	8	60	24	1000	13	13			3937	45	207		3	6		3											
+fishnpc10038new	MineNpc	鲜活墨头鱼群	npc\cj_101005	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	265	13		fishnpc10038	"fish_10179,fish_10189"	凌霄城	6	8	80	32	1000	13	13			3938	45	207		3	6		3											
+fishnpc10039new	MineNpc	鲜活暗鳜群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	275	14		fishnpc10039	"fish_10184,fish_10194"	凌霄城	6	9	80	32	1000	13	13			3939	45	207		3	6		3											
+fishnpc10040new	MineNpc	鲜活抗浪鱼群	npc\cj_101010	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	295	15		fishnpc10040	"fish_10193,fish_10200"	凌霄城	4	10	100	40	1000	13	13			3940	45	207		2	4		2											
+fishnpc10041new	MineNpc	淘气对虾群	npc\cj_101004	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	65	3		fishnpc10041	"fish_10027,fish_10040"	少林	6	2	5	2	1000	13	13			3941	45	207		3	6		3											
+fishnpc10042new	MineNpc	淘气鲤鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	115	4		fishnpc10042	"fish_10053,fish_10062"	少林	6	4	10	4	1000	13	13			3942	45	207		3	6		3											
+fishnpc10043new	MineNpc	肥硕黄尾鲴群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	155	7		fishnpc10043	"fish_10076,fish_10094"	少林	6	5	20	8	1000	13	13			3943	45	207		3	6		3											
+fishnpc10044new	MineNpc	肥硕平鳍鳅群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	185	9		fishnpc10044	"fish_10108,fish_10129"	少林	4	6	30	12	1000	13	13			3944	45	207		2	4		2											
+fishnpc10045new	MineNpc	肥硕鳓鱼群	npc\cj_101004	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	75	3		fishnpc10045	"fish_10030,fish_10042"	武当	6	3	5	2	1000	13	13			3945	45	207		3	6		3											
+fishnpc10046new	MineNpc	肥硕黄颡鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	105	4		fishnpc10046	"fish_10052,fish_10065"	武当	6	4	10	4	1000	13	13			3946	45	207		3	6		3											
+fishnpc10047new	MineNpc	肥硕鲌鱼群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	175	7		fishnpc10047	"fish_10084,fish_10096"	武当	6	6	20	8	1000	13	13			3947	45	207		3	6		3											
+fishnpc10048new	MineNpc	肥硕铜鱼群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	185	9		fishnpc10048	"fish_10110,fish_10121"	武当	4	6	30	12	1000	13	13			3948	45	207		2	4		2											
+fishnpc10049new	MineNpc	肥硕黑鲈群	npc\cj_101004	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	145	7		fishnpc10049	"fish_10074,fish_10091"	洛阳	6	5	15	6	1000	13	13			3949	45	207		3	6		3											
+fishnpc10050new	MineNpc	鲜活刀鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	195	9		fishnpc10050	"fish_10104,fish_10131"	洛阳	6	6	30	12	1000	13	13			3950	45	207		3	6		3											
+fishnpc10051new	MineNpc	肥硕大眼鳜群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	225	10		fishnpc10051	"fish_10141,fish_10156"	洛阳	6	7	45	18	1000	13	13			3951	45	207		3	6		3											
+fishnpc10052new	MineNpc	鲜活火鲤群	npc\cj_101010	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	245	12		fishnpc10052	"fish_10163,fish_10178"	洛阳	4	8	60	24	1000	13	13			3952	45	207		2	4		2											
+fishnpc10053new	MineNpc	鲜活大白鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	5	1		fishnpc10053	"fish_10002,fish_10006"	漠河镇	6	1	1	0	1000	13	13			3953	45	207		3	6		3											
+fishnpc10054new	MineNpc	鲜活狗鱼群	npc\cj_101005	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	15	1		fishnpc10054	"fish_10009,fish_10013"	漠河镇	6	1	1	0	1000	13	13			3954	45	207		3	6		3											
+fishnpc10055new	MineNpc	鲜活鲱鱼群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	55	1		fishnpc10055	"fish_10019,fish_10021"	漠河镇	6	2	5	2	1000	13	13			3955	45	207		3	6		3											
+fishnpc10056new	MineNpc	肥硕马头鱼群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	75	2		fishnpc10056	"fish_10031,fish_10043"	漠河镇	4	3	5	2	1000	13	13			3956	45	207		2	4		2											
+fishnpc10057new	MineNpc	肥硕燕鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	85	3		fishnpc10057	"fish_10036,fish_10044"	丐帮	6	3	7	2	1000	13	13			3957	45	207		3	6		3											
+fishnpc10058new	MineNpc	肥硕鲅鱼群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	95	4		fishnpc10058	"fish_10048,fish_10058"	丐帮	6	3	7	2	1000	13	13			3958	45	207		3	6		3											
+fishnpc10059new	MineNpc	肥硕塘角鱼群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	175	7		fishnpc10059	"fish_10083,fish_10098"	丐帮	6	6	20	8	1000	13	13			3959	45	207		3	6		3											
+fishnpc10060new	MineNpc	鲜活香鱼群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	185	9		fishnpc10060	"fish_10112,fish_10122"	丐帮	4	6	30	12	1000	13	13			3960	45	207		2	4		2											
+fishnpc10061new	MineNpc	鲜活白鲦群	npc\cj_101005	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	145	7		fishnpc10061	"fish_10071,fish_10095"	燕京	6	5	15	6	1000	13	13			3961	45	207		3	6		3											
+fishnpc10062new	MineNpc	鲜活灯笼鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	195	9		fishnpc10062	"fish_10105,fish_10130"	燕京	6	6	30	12	1000	13	13			3962	45	207		3	6		3											
+fishnpc10063new	MineNpc	肥硕雪鱼群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	235	10		fishnpc10063	"fish_10146,fish_10155"	燕京	6	7	60	24	1000	13	13			3963	45	207		3	6		3											
+fishnpc10064new	MineNpc	肥硕花鱼群	npc\cj_101010	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	245	12		fishnpc10064	"fish_10161,fish_10183"	燕京	4	8	60	24	1000	13	13			3964	45	207		2	4		2											
+fishnpc10065new	MineNpc	鲜活竹夹鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	205	9		fishnpc10065	"fish_10117,fish_10119"	泛黄平原	6	6	45	18	1000	13	13			3965	45	207		3	6		3											
+fishnpc10066new	MineNpc	肥硕鮰鱼群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	215	10		fishnpc10066	"fish_10137,fish_10140"	泛黄平原	6	7	45	18	1000	13	13			3966	45	207		3	6		3											
+fishnpc10067new	MineNpc	肥硕鲢鱼群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	225	10		fishnpc10067	"fish_10143,fish_10152"	泛黄平原	6	7	45	18	1000	13	13			3967	45	207		3	6		3											
+fishnpc10068new	MineNpc	肥硕细鳞鱼群	npc\cj_101010	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	245	12		fishnpc10068	"fish_10166,fish_10180"	泛黄平原	4	8	60	24	1000	13	13			3968	45	207		2	4		2											
+fishnpc10069new	MineNpc	鲜活银鲫群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	205	9		fishnpc10069	"fish_10114,fish_10125"	蓬莱	6	6	45	18	1000	13	13			3969	45	207		3	6		3											
+fishnpc10070new	MineNpc	鲜活青花鱼群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	215	10		fishnpc10070	"fish_10138,fish_10142"	蓬莱	6	7	45	18	1000	13	13			3970	45	207		3	6		3											
+fishnpc10071new	MineNpc	鲜活白鲳群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	245	11		fishnpc10071	"fish_10149,fish_10157"	蓬莱	6	8	60	24	1000	13	13			3971	45	207		3	6		3											
+fishnpc10072new	MineNpc	鲜活胭脂鱼群	npc\cj_101010	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	245	12		fishnpc10072	"fish_10168,fish_10175"	蓬莱	4	8	60	24	1000	13	13			3972	45	207		2	4		2											
+fishnpc10073new	MineNpc	鲜活赤鳞鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	255	12		fishnpc10073	"fish_10160,fish_10176"	幽云十八洲	6	8	80	32	1000	13	13			3973	45	207		3	6		3											
+fishnpc10074new	MineNpc	鲜活红鲷鱼群	npc\cj_101004	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	265	13		fishnpc10074	"fish_10172,fish_10186"	幽云十八洲	6	8	80	32	1000	13	13			3974	45	207		3	6		3											
+fishnpc10075new	MineNpc	鲜活大银鱼群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	275	14		fishnpc10075	"fish_10188,fish_10195"	幽云十八洲	6	9	80	32	1000	13	13			3975	45	207		3	6		3											
+fishnpc10076new	MineNpc	凶猛白鲟群	npc\cj_101010	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	285	15		fishnpc10076	"fish_10190,fish_10197"	幽云十八洲	4	9	100	40	1000	13	13			3976	45	207		2	4		2											
+fishnpc10077new	MineNpc	肥硕鳊鱼群	npc\cj_101004	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	5	1		fishnpc10077	"fish_10001,fish_10007"	烟雨庄	6	1	1	0	1000	13	13			3977	45	207		3	6		3											
+fishnpc10078new	MineNpc	凶猛青鱼群	npc\cj_101005	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	25	1		fishnpc10078	"fish_10010,fish_10016"	烟雨庄	6	1	1	0	1000	13	13			3978	45	207		3	6		3											
+fishnpc10079new	MineNpc	肥硕鲳鱼群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	45	1		fishnpc10079	"fish_10017,fish_10023"	烟雨庄	6	2	2	0	1000	13	13			3979	45	207		3	6		3											
+fishnpc10080new	MineNpc	淘气小黄鱼群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	75	2		fishnpc10080	"fish_10035,fish_10041"	烟雨庄	4	3	5	2	1000	13	13			3980	45	207		2	4		2											
+fishnpc10081new	MineNpc	淘气螃蟹群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	75	3		fishnpc10081	"fish_10032,fish_10047"	君子堂	6	3	5	2	1000	13	13			3981	45	207		3	6		3											
+fishnpc10082new	MineNpc	淘气青蟹群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	115	4		fishnpc10082	"fish_10055,fish_10064"	君子堂	6	4	10	4	1000	13	13			3982	45	207		3	6		3											
+fishnpc10083new	MineNpc	淘气花泥鳅群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	155	7		fishnpc10083	"fish_10075,fish_10089"	君子堂	6	5	20	8	1000	13	13			3983	45	207		3	6		3											
+fishnpc10084new	MineNpc	淘气紫薄鳅群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	185	9		fishnpc10084	"fish_10118,fish_10134"	君子堂	4	6	30	12	1000	13	13			3984	45	207		2	4		2											
+fishnpc10085new	MineNpc	淘气黄菇鱼群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	65	3		fishnpc10085	"fish_10028,fish_10038"	极乐谷	6	2	5	2	1000	13	13			3985	45	207		3	6		3											
+fishnpc10086new	MineNpc	凶猛黄骨鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	105	4		fishnpc10086	"fish_10051,fish_10060"	极乐谷	6	4	10	4	1000	13	13			3986	45	207		3	6		3											
+fishnpc10087new	MineNpc	肥硕鲥鱼群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	165	7		fishnpc10087	"fish_10081,fish_10088"	极乐谷	6	5	20	8	1000	13	13			3987	45	207		3	6		3											
+fishnpc10088new	MineNpc	凶猛金线鱼群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	185	9		fishnpc10088	"fish_10107,fish_10127"	极乐谷	4	6	30	12	1000	13	13			3988	45	207		2	4		2											
+fishnpc10089new	MineNpc	凶猛卷口鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	75	3		fishnpc10089	"fish_10029,fish_10037"	锦衣卫	6	3	5	2	1000	13	13			3989	45	207		3	6		3											
+fishnpc10090new	MineNpc	凶猛白鳞鱼群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	95	4		fishnpc10090	"fish_10049,fish_10063"	锦衣卫	6	3	7	2	1000	13	13			3990	45	207		3	6		3											
+fishnpc10091new	MineNpc	凶猛白花鱼群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	135	7		fishnpc10091	"fish_10070,fish_10085"	锦衣卫	6	4	15	6	1000	13	13			3991	45	207		3	6		3											
+fishnpc10092new	MineNpc	鲜活银鼓鱼群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	185	9		fishnpc10092	"fish_10113,fish_10136"	锦衣卫	4	6	30	12	1000	13	13			3992	45	207		2	4		2											
+fishnpc10093new	MineNpc	鲜活昂丝鱼群	npc\cj_101004	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	125	5		fishnpc10093	"fish_10056,fish_10066"	梅花岭	6	4	10	4	1000	13	13			3993	45	207		3	6		3											
+fishnpc10094new	MineNpc	鲜活大口鲶群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	135	6		fishnpc10094	"fish_10069,fish_10078"	梅花岭	6	4	15	6	1000	13	13			3994	45	207		3	6		3											
+fishnpc10095new	MineNpc	鲜活叶结鱼群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	185	8		fishnpc10095	"fish_10097,fish_10099"	梅花岭	6	6	30	12	1000	13	13			3995	45	207		3	6		3											
+fishnpc10096new	MineNpc	鲜活唇鱼群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	185	9		fishnpc10096	"fish_10103,fish_10124"	梅花岭	4	6	30	12	1000	13	13			3996	45	207		2	4		2											
+fishnpc10097new	MineNpc	鲜活太湖白鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	165	7		fishnpc10097	"fish_10082,fish_10093"	苏州	6	5	20	8	1000	13	13			3997	45	207		3	6		3											
+fishnpc10098new	MineNpc	鲜活白肌银鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	185	9		fishnpc10098	"fish_10101,fish_10123"	苏州	6	6	30	12	1000	13	13			3998	45	207		3	6		3											
+fishnpc10099new	MineNpc	鲜活太湖白虾群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	225	10		fishnpc10099	"fish_10144,fish_10150"	苏州	6	7	45	18	1000	13	13			3999	45	207		3	6		3											
+fishnpc10100new	MineNpc	鲜活太湖银鱼群	npc\cj_101010	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	245	12		fishnpc10100	"fish_10164,fish_10182"	苏州	4	8	60	24	1000	13	13			4000	45	207		2	4		2											
+																																																		
+																																																		
+TaskItemClone005030	MineNpc	新鲜的鱼	npc\cj_101010	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	12		fishnpc10095	"fish_10097,fish_10099"	少林	6	1	1	0	1000	13	13			1001	45	207		3	6		3											
+szqy_001	MineNpc	鲜活鱼群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	6		fishnpc10096	"fish_10103,fish_10124"	苏州	6	1	10	4	1000	13	13			4002	45	207		3	6		3											
+szqy_002	MineNpc	鲜活鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	7		fishnpc10097	"fish_10082,fish_10093"	苏州	6	1	20	8	1000	13	13			4003	45	207		3	6		3											
+szqy_003	MineNpc	鲜活鱼群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	8		fishnpc10098	"fish_10101,fish_10123"	苏州	6	1	30	12	1000	13	13			4004	45	207		3	6		3											
+szqy_004	MineNpc	鲜活鱼群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	10		fishnpc10099	"fish_10144,fish_10150"	苏州	6	1	45	18	1000	13	13			4005	45	207		3	6		3											
+szqy_005	MineNpc	鲜活鱼群	npc\cj_101010	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	12		fishnpc10100	"fish_10164,fish_10182"	苏州	6	2	60	24	1000	13	13			4006	45	207		3	6		3											
+																																																		
+hdqy_001	MineNpc	六带石斑鱼	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	9				荒岛	99		1			13	13			7001		207		99	99		3											
+																																																		
+																																																		
+																																																		
+																																																		
+	//新版采集物																																																	
+																																																		
+kuangshi_1001npc01	MineNpc	铁矿	npc\cj_102005	icon\funcnpc\cj_020020.png	142	5	20	6	6		2.5	interact006	20000	5000	2	sh_kg							3	1	10	4	1000	13	13			5001	45	208		1	3		1		"2,npc\kuangshi_1001npc01_1;1,npc\kuangshi_1001npc01_2"									
+kuangshi_1002npc01	MineNpc	铜矿	npc\cj020040	icon\funcnpc\cj_020020.png	142	5	20	6	6		2.5	interact006	20000	5000	2	sh_kg							3	2	20	8	1000	13	13			5002	45	208		1	3		1		"2,npc\kuangshi_1002npc01_1;1,npc\kuangshi_1002npc01_2"									
+kuangshi_1003npc01	MineNpc	铅矿	npc\cj_102008	icon\funcnpc\cj_020020.png	142	5	20	6	6		2.5	interact006	20000	5000	2	sh_kg							3	4	40	16	1000	13	13			5003	45	208		1	3		1		"2,npc\kuangshi_1003npc01_1;1,npc\kuangshi_1003npc01_2"									
+kuangshi_1004npc01	MineNpc	银矿	npc\cj020120	icon\funcnpc\cj_020020.png	142	5	20	6	6		2.5	interact006	20000	5000	2	sh_kg							3	6	60	24	1000	13	13			5004	45	208		1	3		1		"2,npc\kuangshi_1004npc01_1;1,npc\kuangshi_1004npc01_2"									
+kuangshi_1006npc01	MineNpc	金矿	npc\cj_102001	icon\funcnpc\cj_020020.png	142	5	20	6	6		2.5	interact006	20000	5000	2	sh_kg							3	10	80	32	1000	13	13			5005	45	208		1	3		1		"2,npc\kuangshi_1006npc01_1;1,npc\kuangshi_1006npc01_2"									
+																																																		
+ore_1001npc01	MineNpc	松林石	npc\cj_106028a	icon\funcnpc\cj_020020.png	142	5	20	6	6		2.5	interact006	20000	5000	2	sh_kg							3	1	10	4	1000	13	13			5006	45	208		1	3		1											
+ore_1002npc01	MineNpc	黑曜石	npc\cj_106028a	icon\funcnpc\cj_020020.png	142	5	20	6	6		2.5	interact006	20000	5000	2	sh_kg							3	2	20	8	1000	13	13			5007	45	208		1	3		1											
+ore_1003npc01	MineNpc	龟纹石	npc\cj_106028a	icon\funcnpc\cj_020020.png	142	5	20	6	6		2.5	interact006	20000	5000	2	sh_kg							3	4	40	16	1000	13	13			5008	45	208		1	3		1											
+ore_1004npc01	MineNpc	幽兰石	npc\cj_106028a	icon\funcnpc\cj_020020.png	142	5	20	6	6		2.5	interact006	20000	5000	2	sh_kg							3	6	60	24	1000	13	13			5009	45	208		1	3		1											
+ore_1006npc01	MineNpc	炎晶	npc\cj_106028a	icon\funcnpc\cj_020020.png	142	5	20	6	6		2.5	interact006	20000	5000	2	sh_kg							3	10	80	32	1000	13	13			5010	45	208		1	3		1											
+																																																		
+tre_1001npc01	MineNpc	白杨树	npc\box001	icon\funcnpc\cj_030050.png	143	10	20	14	14		2.5	interact007	20000	5000	2	sh_qf							3	1	10	4	1000	13	13			5011	45	211		1	3		1											
+tre_1002npc01	MineNpc	柏树	npc\box001	icon\funcnpc\cj_030050.png	143	10	20	14	14		2.5	interact007	20000	5000	2	sh_qf							3	2	20	8	1000	13	13			5012	45	211		1	3		1											
+tre_1003npc01	MineNpc	桂花树	npc\box001	icon\funcnpc\cj_030050.png	143	10	20	14	14		2.5	interact007	20000	5000	2	sh_qf							3	4	40	16	1000	13	13			5013	45	211		1	3		1											
+tre_1004npc01	MineNpc	松树	npc\box001	icon\funcnpc\cj_030050.png	143	10	20	14	14		2.5	interact007	20000	5000	2	sh_qf							3	6	60	24	1000	13	13			5014	45	211		1	3		1											
+tre_1006npc01	MineNpc	银杉树	npc\box001	icon\funcnpc\cj_030050.png	143	10	20	14	14		2.5	interact007	20000	5000	2	sh_qf							3	10	80	32	1000	13	13			5015	45	211		1	3		1											
+																																																		
+drug_1001npc01	MineNpc	薄荷	npc\cj_160250a1	icon\funcnpc\cj_150001.png	144	7	20	7	7		2.5	interact017	20000	5000	2	sh_ys							3	1			1000	13	13			5016	0			1	3		1											
+drug_1002npc01	MineNpc	苦情花	npc\cj_106001a1	icon\funcnpc\cj_150001.png	144	7	20	7	7		2.5	interact017	20000	5000	2	sh_ys							3	2			1000	13	13			5017	0			1	3		1											
+drug_1003npc01	MineNpc	艾草	npc\cj_106001a1	icon\funcnpc\cj_150001.png	144	7	20	7	7		2.5	interact017	20000	5000	2	sh_ys							3	4			1000	13	13			5018	0			1	3		1											
+drug_1004npc01	MineNpc	白术	npc\cj_106013a1	icon\funcnpc\cj_150001.png	144	7	20	7	7		2.5	interact017	20000	5000	2	sh_ys							3	6			1000	13	13			5019	0			1	3		1											
+drug_1006npc01	MineNpc	马勃	npc\cj_160050c	icon\funcnpc\cj_150001.png	144	7	20	7	7		2.5	interact017	20000	5000	2	sh_ys							3	10			1000	13	13			5020	0			1	3		1											
+																																																		
+toxicant_1001npc01	MineNpc	红粉白株	npc\cj_106012b2	icon\funcnpc\cj_160150.png	145	8	20	7	7		2.5	interact017	20000	5000	2	sh_ds							3	1			1000	13	13			5021	0			1	3		1											
+toxicant_1002npc01	MineNpc	断肠花	npc\cj_160001b1	icon\funcnpc\cj_160150.png	145	8	20	7	7		2.5	interact017	20000	5000	2	sh_ds							3	2			1000	13	13			5022	0			1	3		1											
+toxicant_1003npc01	MineNpc	独一味	npc\cj_160200b2	icon\funcnpc\cj_160150.png	145	8	20	7	7		2.5	interact017	20000	5000	2	sh_ds							3	4			1000	13	13			5023	0			1	3		1											
+toxicant_1004npc01	MineNpc	马钱子	npc\cj_160250b1	icon\funcnpc\cj_160150.png	145	8	20	7	7		2.5	interact017	20000	5000	2	sh_ds							3	6			1000	13	13			5024	0			1	3		1											
+toxicant_1006npc01	MineNpc	夺命草	npc\cj_160250b2	icon\funcnpc\cj_160150.png	145	8	20	7	7		2.5	interact017	20000	5000	2	sh_ds							3	10			1000	13	13			5025	0			1	3		1											
+																																																		
+																																																		
+																																																		
+																																																		
+																																																		
+																																																		
+																																																		
+																																																		
+																																																		
+																																																		
+																																																		
+																																																		
+																																																		
+																																																		
+																																																		
+																																																		
+																																																		
+																																																		
+																																																		
+																																																		
+																																																		
+itemclone001001	MineNpc	天心海棠	npc\cj_160050	icon\funcnpc\cj_160150.png	255	4	10	2	2			interact017	20000	5000	2				9	itemclone001001			10					13	13							10			10											
+																																																		
+																																																		
+																																																		
+																																																		
+																																																		
+CloneGatherNpc00001	MineNpc		npc\cj020020	icon\funcnpc\cj_020020.png	152	4	20	2	2		3	interact006	-1	5000	3					CloneGatherNpc00001	CloneGatherNpc00001		30	0				13	13																					
+CloneGather007001	MineNpc	磁石	npc\cj_102005	icon\funcnpc\cj_020020.png	153	5	20	6	6	npc\clone\clone007\CloneGather007001.lua	3	offact006	-1	5000	4					CloneGather007001	CloneGather007001		5	0				13	13					126	1															
+CloneGather007002	MineNpc	锄头1	npc\npcitem031		153	4	20	2	9		3	interact041	-1	3000	4					CloneGather007002	CloneGather007002		1	0				13	13						1															
+CloneGather007003	MineNpc	锄头2	npc\npcitem126		153	4	20	2	9		3	interact041	-1	3000	4					CloneGather007003	CloneGather007003		1	0				13	13						1															
+CloneGather007004	MineNpc	铁锹	npc\npcitem365		153	4	20	2	9		3	interact041	-1	3000	4					CloneGather007004	CloneGather007004		1	0				13	13						1															
+GatherClone007006	MineNpc	乱木堆	npc\itemnpc038	icon\funcnpc\task.png	153	3	20	14	14	Adventure\general_gathernpc.lua	3	interact021	30000	5000	4					TaskItemClone_007018	TaskItemClone_007018		10	0				13	13					127	1															
+cjshow_zhangben	MineNpc	账本	npc\itemnpc053	icon\funcnpc\itemnpc053.png	153	4	20	2	9		3	interact041	30000	3000	4					key_suzhou_zhangben	key_suzhou_zhangben		1	0				13	13						1															
+qiyu_yyz_zhangb	MineNpc	账本	npc\itemnpc053	icon\funcnpc\itemnpc053.png	153	4	20	2	9		3	interact041	30000	3000	4					key_yyz_zhangb	key_yyz_zhangb		1	0				13	13						1															
+qy_yanjing_sunzibingfa	MineNpc	孙子兵法	npc\itemnpc053	icon\funcnpc\itemnpc053.png	153	4	20	2	9		3	interact041	30000	3000	4					key_yanjing_sunzibingfa	key_yanjing_sunzibingfa		1	0				13	13						1															
+qy_luoyang_yishu	MineNpc	遺書	npc\itemnpc475	icon\funcnpc\itemnpc475.png	153	4	20	2	9		3	interact041	-1	3000	4					key_luoyang_yishu	key_luoyang_yishu		1	0				13	13						1															
+qy_luoyang_shuitong	MineNpc	水桶	npc\npcitem067	icon\funcnpc\npcitem067.png	153	4	20	2	9		3	interact041	-1	3000	4					key_luoyang_shuitong	key_luoyang_shuitong		1	0				13	13						1															
+																																																		
+	// 门派战宝箱NPC																																																	
+GatherNpcSchoolWar01	MineNpc		npc\itemboxnpc002	icon\funcnpc\itemnpc005.png	153	4	20	2	2		2	interact017	-1	15000	4					SchoolWarBox01	item_swbox01		1	0				13	13						1															
+GatherNpcSchoolWar02	MineNpc		npc\itemboxnpc002	icon\funcnpc\itemnpc005.png	153	4	20	2	2		2	interact017	-1	15000	4					SchoolWarBox02	item_swbox02		1	0				13	13						1															
+GatherNpcSchoolWar03	MineNpc		npc\itemboxnpc002	icon\funcnpc\itemnpc005.png	153	4	20	2	2		2	interact017	-1	15000	4					SchoolWarBox03	item_swbox03		1	0				13	13						1															
+GatherNpcSchoolWar04	MineNpc	木板	npc\itemnpc603	icon\funcnpc\itemnpc603.png	153	4	20	2	2		2	interact017	15000	15000	4					SchoolWarBox04	item_sl01		10000	0				13	13						1															
+GatherNpcSchoolWar05	MineNpc	水桶	npc\npcitem067	icon\funcnpc\npcitem067.png	173	4	20	2	2		2	interact017	10000	15000	4					SchoolWarBox05	item_jyw01		1	0				13	13						1															
+GatherNpcSchoolWar06	MineNpc	火药	npc\itemnpc434	icon\funcnpc\itemnpc434.png	153	4	20	2	2		2	interact017	-1	15000	4					SchoolWarBox06	item_huoyao_jyw02		1	0				13	13						1															
+GatherNpcSchoolWar07	MineNpc	水缸	npc\itemnpc553	icon\funcnpc\itemnpc435.png	173	4	20	2	2	npc\clone\schoolwar5\gather_npc_schoolwar07.lua	3	interact041	-1	15000	4								10000	0				13	13						1															
+GatherNpcSchoolWar08	MineNpc		npc\itemnpc422	icon\funcnpc\itemnpc436.png	153	4	20	2	2		2	interact017	-1	15000	4					SchoolWarBox08	switem_gb_flag		10000	0				13	13						1															
+GatherNpcSchoolWar09	MineNpc		npc\itemnpc422	icon\funcnpc\itemnpc436.png	153	4	20	2	2		2	interact017	-1	15000	4					SchoolWarBox08	switem_gb_flag		10000	0				13	13						1															
+GatherNpcSchoolWar10	MineNpc		npc\itemboxnpc002	icon\funcnpc\itemnpc005.png	153	4	20	2	2		2	interact017	-1	15000	4					SchoolWarBox09	item_jz01		1	0				13	13						1															
+GatherNpcSchoolWar11	MineNpc		npc\itemboxnpc002	icon\funcnpc\itemnpc005.png	153	4	20	2	2		2	interact017	-1	15000	4					SchoolWarBox10	item_jz02		1	0				13	13						1															
+GatherNpcSchoolWar12	MineNpc		npc\itemboxnpc002	icon\funcnpc\itemnpc005.png	153	4	20	2	2		2	interact017	-1	15000	4					SchoolWarBox11	item_jz03		1	0				13	13						1															
+GatherNpcSchoolWar13	MineNpc		npc\itemboxnpc002	icon\funcnpc\itemnpc005.png	153	4	20	2	2		2	interact017	-1	15000	4					SchoolWarBox12	item_jz04		1	0				13	13						1															
+GatherNpcTask28047	MineNpc		npc\cj_160250b2	icon\funcnpc\cj_160150.png	153	4	20	2	2		2	interact017	-1	5000	4					GatherTask_28047	taskitem_287b		1	0				13	13						1					110										
+																																																		
+	// 雪球雪人																																																	
+GatherNpcXueQiu01	MineNpc	雪人	npc\npcitem814	icon\funcnpc\npcitem067.png	153	4	20	2	2		2	interact017	-1	5000	4					drop_beiyuan_xueqiu_001	item_xueqiu_001		10000	0				13	13						1															
+	// 帮派战旗帜																																																	
+GatherNpcGuildWar	MineNpc		npc\Guildwar002_01		153	4	20	2	2	War\GuildWar\guild_war_flag_npc.lua	2	interact17	-1	120000	3								1	0				13	13						1								1							
+	// 晕倒的丫鬟																																																	
+GatherNpcGuildGirl01	MineNpc		npc\Guildwargirl01	icon\funcnpc\worldnpc370.png	153	4	20	2	2	War\GuildWar\gather_girl.lua	2	interact017	-1	10000	3								1	0				13	13						1			1	1											
+GatherNpcGuildGirl02	MineNpc		npc\Guildwargirl02	icon\funcnpc\worldnpc195.png	153	4	20	2	2	War\GuildWar\gather_girl.lua	2	interact017	-1	10000	3								1	0				13	13						1			1	1											
+GatherNpcGuildGirl03	MineNpc		npc\Guildwargirl03	icon\funcnpc\worldnpc129.png	153	4	20	2	2	War\GuildWar\gather_girl.lua	2	interact017	-1	10000	3								1	0				13	13						1			1	1											
+	//帮派战放火																																																	
+GatherNpcGuildHuodui	MineNpc		npc\itemnpc552	icon\funcnpc\itemnpc038.png	153	4	20	2	2	War\GuildWar\gather_huoba.lua	5	interact017	1	10000	3					GuildWarBox001	huoba_005		999	0				13	13						1															
+GatherNpcGuildShuigang	MineNpc		npc\itemnpc553	icon\funcnpc\itemnpc060.png	153	4	20	2	2	War\GuildWar\gather_shuitong.lua	3	interact017	1	10000	3					GuildWarBox002	shuitong_005		999	0				13	13						1															
+GatherNpcGuildPillar	MineNpc		npc\guildwar010	icon\funcnpc\worldnpc370.png	153	4	20	2	2	War\GuildWar\guild_war_pillar.lua	2	interact017	1	40000	3								9999	0				13	13						1															
+																																																		
+Gather_qy_kongque_001	MineNpc	宝箱	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	153	4	20	2	9	Adventure\general_gathernpc.lua	3	interact041	60000	3000	4					qy_kongque_mixin	key_kongque_mixin		1	0				13	13					128	1															
+Gather_qy_kongque_002	MineNpc	尸体	npc\fbmac003026	icon\funcnpc\fbmac003026.png	153	4	20	2	9	Adventure\general_gathernpc.lua	3	interact041	60000	3000	4					qy_kongque_mixin2	key_kongque_mixin2		1	0				13	13					129	1															
+Gather_qy_kongque_003	MineNpc	断魂草	npc\cj_160150	icon\prop\prop187.png	153	4	20	2	9	Adventure\general_gathernpc.lua	3	interact041	60000	3000	4					qy_kongque_xiangzi1	key_kongque_xiangzi1		1	0				13	13					130	1															
+Gather_qy_kongque_004	MineNpc	蛇信花	npc\cj_160150	icon\prop\prop196.png	153	4	20	2	9	Adventure\general_gathernpc.lua	3	interact041	60000	3000	4					qy_kongque_daizi1	key_kongque_daizi1		1	0				13	13					131	1															
+																																																		
+qy_yanjing_ssd	MineNpc		npc\itemnpc649	icon\funcnpc\cj_020020.png	142	5	20	6	6		2.5	interact006	20000	5000	2	sh_kg	0				key_yanjing_dsk	水府洞天	1	8			1000	13	13							1	2													
+qy_muchai001	MineNpc		npc\guildeffect009		142	5	20	6	6		2.5	interact068	20000	2000	2	sh_jf	0				blade_huoba_001		1	5			1000	13	13							1	1													
+qy_huodui002	MineNpc		npc\itemnpc038		142	5	20	6	6		2.5	interact068			2	sh_jf	0				huozhezi001		1	5			1000	13	13							1	1													
+																																																		
+																																																		
+qyjysmjushi	MineNpc	巨石	npc\itemnpc540	icon\funcnpc\task.png	153	4	20	2	9	Adventure\jysm\qyjysmjushi.lua	2	interact017	-1	2000	4								5	0				13	13						1															
+																																																		
+	//移花宫门派讨伐																																																	
+yhgtaofa_gouhuo	MineNpc		npc\itemnpc552	icon\funcnpc\itemnpc038.png	153	4	20	2	2		2	interact017	10000	1000	3					drop_yhgtaofa_huoba			9999	0				13	13						1															
+yhgtaofa_jieducao	MineNpc		npc\cj_160150	icon\funcnpc\itemnpc038.png	153	4	20	2	2		1	interact017	10000	2000	3					drop_yhgtaofa_jieducao			1	0				13	13						1															
+	//桃花岛钓鱼日常																																																	
+thd_diaoyu_001	MineNpc	弓鱼	npc\cj_101004	icon\funcnpc\cj_010001.png	421	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	7				桃花岛	99	0				13	13			6010	0	220		99	99		3											
+thd_diaoyu_002	MineNpc	鳟鱼    	npc\cj_101004	icon\funcnpc\cj_010001.png	421	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	7				桃花岛	99	0				13	13			6011	0	220		99	99		3											
+thd_diaoyu_003	MineNpc	团头鲂	npc\cj_101005	icon\funcnpc\cj_010001.png	421	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	7				桃花岛	99	0				13	13			6012	0	220		99	99		3											
+thd_diaoyu_004	MineNpc	岩原鲤	npc\cj_101009	icon\funcnpc\cj_010001.png	421	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	7				桃花岛	99	0				13	13			6013	0	220		99	99		3											
+thd_diaoyu_005	MineNpc	青竹鱼	npc\cj_101004	icon\funcnpc\cj_010001.png	421	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	7				桃花岛	99	0				13	13			6014	0	220		99	99		3											
+thd_diaoyu_006	MineNpc	石首鱼	npc\cj_101006	icon\funcnpc\cj_010001.png	421	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	7				桃花岛	99	0				13	13			6015	0	220		99	99		3											
+thd_diaoyu_007	MineNpc	小黄鱼	npc\cj_101008	icon\funcnpc\cj_010001.png	421	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	7				桃花岛	99	0				13	13			6016	0	220		99	99		3											
+thd_diaoyu_008	MineNpc	黑鱼	npc\cj_101010	icon\funcnpc\cj_010001.png	421	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	7				桃花岛	99	0				13	13			6017	0	220		99	99		3											
+thd_diaoyu_009	MineNpc	花鲈	npc\cj_101005	icon\funcnpc\cj_010001.png	421	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	7				桃花岛	99	0				13	13			6018	0	220		99	99		3											
+thd_diaoyu_010	MineNpc	鲮鱼	npc\cj_101006	icon\funcnpc\cj_010001.png	421	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	7				桃花岛	99	0				13	13			6019	0	220		99	99		3											
+	//移花宫剧情任务																																																	
+yhgcy_001	MineNpc	紫苏	npc\itemnpc166		153	2	20	2	2		2	interact041	20000	5000	2					drop_item_yhg_taskyp_01	item_yhg_taskyp_01	移花宫	99	10	1			13	13			6020	0	221		99	99		3											
+yhgcy_002	MineNpc	天雄	npc\itemnpc452		153	2	20	2	2		2	interact041	20000	5000	2					drop_item_yhg_taskyp_02	item_yhg_taskyp_02	移花宫	99	10	1			13	13			6021	0	221		99	99		3											
+yhgcy_003	MineNpc	丁香	npc\itemnpc457		153	2	20	2	2		2	interact041	20000	5000	2					drop_item_yhg_taskyp_03	item_yhg_taskyp_03	移花宫	99	10	1			13	13			6022	0	221		99	99		3											
+yhgcy_004	MineNpc	旋复花	npc\itemnpc875		153	2	20	2	2		2	interact041	20000	5000	2					drop_item_yhg_taskyp_04	item_yhg_taskyp_04	移花宫	99	10	1			13	13			6023	0	221		99	99		3											
+yhgcy_005	MineNpc	威灵仙	npc\cj_ty0001b		153	2	20	2	2		2	interact041	20000	5000	2					drop_item_yhg_taskyp_05	item_yhg_taskyp_05	移花宫	99	10	1			13	13			6024	0	221		99	99		3											
+yhgcy_006	MineNpc	忍冬花（金银花）	npc\cj_ty0001b		153	2	20	2	2		2	interact041	20000	5000	2					drop_item_yhg_taskyp_06	item_yhg_taskyp_06	移花宫	99	10	1			13	13			6025	0	221		99	99		3											
+yhgcy_007	MineNpc	苍术	npc\itemnpc455		153	2	20	2	2		2	interact041	20000	5000	2					drop_item_yhg_taskyp_07	item_yhg_taskyp_07	移花宫	99	10	1			13	13			6026	0	221		99	99		3											
+																																																		
+																																																		
+																																																		
+																																																		
+																																																		
+	//江湖采集植物-合成材料																																																	
+	//农夫																																																	
+jh_sh_gathernpc_1001	MineNpc	蓖麻	npc\cj_040201	icon\funcnpc\cj_150001.png	201	2	20	7	7		2	interact041	20000	1000	2	sh_nf							1		0			13	13			6027	0			1	1		3											
+jh_sh_gathernpc_1002	MineNpc	灌木	npc\npcitem744	icon\funcnpc\cj_030050.png	201	2	20	7	7		2	interact041	20000	1000	2	sh_nf							1		0			13	13			6028	0			1	1		3											
+jh_sh_gathernpc_1009	MineNpc	燧石	npc\npcitem740	icon\funcnpc\cj_020020.png	201	2	20	7	7		2	interact041	20000	1000	2	sh_nf							1		0			13	13			6029	0			1	1		3											
+	//樵夫																																																	
+jh_sh_gathernpc_1011	MineNpc	白杨树	npc\itemnpc1360	icon\funcnpc\cj_030050.png	143	2	20	14	14		2	interact007	20000	1000	2	sh_qf							1		0			13	13			6030	0	211		1	1		3											
+jh_sh_gathernpc_1012	MineNpc	松树	npc\cj_040033	icon\funcnpc\cj_030050.png	143	2	20	14	14		2	interact007	20000	1000	2	sh_qf							1		0			13	13			6031	0	211		1	1		3											
+	//矿工																																																	
+jh_sh_gathernpc_1010	MineNpc	岩石矿	npc\cj_102005	icon\funcnpc\cj_020020.png	142	2	20	6	6		2	interact006a	20000	1000	2	sh_kg							1		0			13	13			6032	0	208		1	1		3											
+																																																		
+																																																		
+	//江湖采集植物-合成材料（北原）																																																	
+jh_sh_gathernpc_1003	MineNpc	野山灵芝	npc\itemnpc1400	icon\funcnpc\cj_150001.png	144	2	20	7	7		2	interact017	20000	1000	2	sh_ys							1		0			13	13			6033	0			1	1		3											
+jh_sh_gathernpc_1004	MineNpc	百年何首乌	npc\itemnpc1399	icon\funcnpc\cj_150001.png	144	2	20	7	7		2	interact017	20000	1000	2	sh_ys							1		0			13	13			6034	0			1	1		3											
+jh_sh_gathernpc_1005	MineNpc	野山人参	npc\itemnpc1451	icon\funcnpc\cj_150001.png	144	2	20	7	7		2	interact017	20000	1000	2	sh_ys							1		0			13	13			6035	0			1	1		3											
+jh_sh_gathernpc_1006	MineNpc	冰魄雪莲	npc\itemnpc1402	icon\funcnpc\cj_150001.png	145	2	20	7	7		2	interact017	20000	1000	2	sh_ds							1		0			13	13			6036	0			1	1		3											
+jh_sh_gathernpc_1007	MineNpc	七夜寒	npc\itemnpc1401	icon\funcnpc\cj_150001.png	145	2	20	7	7		2	interact017	20000	1000	2	sh_ds							1		0			13	13			6037	0			1	1		3											
+jh_sh_gathernpc_1008	MineNpc	金银花	npc\itemnpc1450	icon\funcnpc\cj_150001.png	145	2	20	7	7		2	interact017	20000	1000	2	sh_ds							1		0			13	13			6038	0			1	1		3											
+jh_sh_gathernpc_1027	MineNpc	龙胆草	npc\npcitem746	icon\funcnpc\cj_150001.png	145	2	20	7	7		2	interact017	20000	1000	2	sh_ds							1		0			13	13			6053	0			1	1		3											
+jh_sh_gathernpc_1028	MineNpc	黄芪	npc\npcitem747	icon\funcnpc\cj_150001.png	144	2	20	7	7		2	interact017	20000	1000	2	sh_ys							1		0			13	13			6054	0			1	1		3											
+																																																		
+																																																		
+	//江湖采集植物-合成材料（沙漠）																																																	
+jh_sh_gathernpc_1003_a	MineNpc	野山灵芝	npc\itemnpc1400_a	icon\funcnpc\cj_150001.png	144	2	20	7	7		2	interact017	20000	1000	2	sh_ys							1		0			13	13			6033	0			1	1		3											
+jh_sh_gathernpc_1004_a	MineNpc	百年何首乌	npc\itemnpc1399_a	icon\funcnpc\cj_150001.png	144	2	20	7	7		2	interact017	20000	1000	2	sh_ys							1		0			13	13			6034	0			1	1		3											
+jh_sh_gathernpc_1005_a	MineNpc	野山人参	npc\itemnpc1451_a	icon\funcnpc\cj_150001.png	144	2	20	7	7		2	interact017	20000	1000	2	sh_ys							1		0			13	13			6035	0			1	1		3											
+																																																		
+jh_sh_gathernpc_1007_a	MineNpc	七夜寒	npc\itemnpc1401_a	icon\funcnpc\cj_150001.png	145	2	20	7	7		2	interact017	20000	1000	2	sh_ds							1		0			13	13			6037	0			1	1		3											
+jh_sh_gathernpc_1008_a	MineNpc	金银花	npc\itemnpc1450_a	icon\funcnpc\cj_150001.png	145	2	20	7	7		2	interact017	20000	1000	2	sh_ds							1		0			13	13			6038	0			1	1		3											
+																																																		
+jh_sh_gathernpc_1015_a	MineNpc	大枣	npc\itemnpc1403_a	icon\funcnpc\cj_150001.png	201	2	20	7	7		2	interact041	20000	1000	2	sh_nf							1		0			13	13			6041	0			1	1		3											
+																																																		
+																																																		
+																																																		
+																																																		
+	//江湖采集植物-食物（农夫）																																																	
+jh_sh_gathernpc_1013	MineNpc	青稞	npc\cj_040051	icon\funcnpc\cj_150001.png	201	2	20	7	7		2	interact041	20000	1000	2	sh_nf							1		0			13	13			6039	0			1	1		3											
+jh_sh_gathernpc_1014	MineNpc	土豆	npc\cj_040007	icon\funcnpc\cj_150001.png	201	2	20	7	7		2	interact041	20000	1000	2	sh_nf							1		0			13	13			6040	0			1	1		3											
+jh_sh_gathernpc_1015	MineNpc	大枣	npc\itemnpc1403	icon\funcnpc\cj_150001.png	201	2	20	7	7		2	interact041	20000	1000	2	sh_nf							1		0			13	13			6041	0			1	1		3											
+jh_sh_gathernpc_1016	MineNpc	玉米	npc\npcitem742	icon\funcnpc\cj_150001.png	201	2	20	7	7		2	interact041	20000	1000	2	sh_nf							1		0			13	13			6042	0			1	1		3											
+jh_sh_gathernpc_1017	MineNpc	小麦	npc\cj_040051	icon\funcnpc\cj_150001.png	201	2	20	7	7		2	interact041	20000	1000	2	sh_nf							1		0			13	13			6043	0			1	1		3											
+jh_sh_gathernpc_1018	MineNpc	浆果	npc\cj_ts0002b	icon\funcnpc\cj_150001.png	201	2	20	7	7		2	interact041	20000	1000	2	sh_nf							1		0			13	13			6044	0			1	1		3											
+jh_sh_gathernpc_1019	MineNpc	蘑菇	npc\cj_ty0004b	icon\funcnpc\cj_150001.png	201	2	20	7	7		2	interact041	20000	1000	2	sh_nf							1		0			13	13			6045	0			1	1		3											
+jh_sh_gathernpc_1020	MineNpc	野莓	npc\cj_ts0002b	icon\funcnpc\cj_150001.png	201	2	20	7	7		2	interact041	20000	1000	2	sh_nf							1		0			13	13			6046	0			1	1		3											
+jh_sh_gathernpc_1021	MineNpc	水稻	npc\cj_040051	icon\funcnpc\cj_150001.png	201	2	20	7	7		2	interact041	20000	1000	2	sh_nf							1		0			13	13			6047	0			1	1		3											
+jh_sh_gathernpc_1022	MineNpc	甘薯	npc\cj_040007	icon\funcnpc\cj_150001.png	201	2	20	7	7		2	interact041	20000	1000	2	sh_nf							1		0			13	13			6048	0			1	1		3											
+jh_sh_gathernpc_1023	MineNpc	花生	npc\npcitem738	icon\funcnpc\cj_150001.png	201	2	20	7	7		2	interact041	20000	1000	2	sh_nf							1		0			13	13			6049	0			1	1		3											
+jh_sh_gathernpc_1024	MineNpc	甜菜	npc\cj_040001	icon\funcnpc\cj_150001.png	201	2	20	7	7		2	interact041	20000	1000	2	sh_nf							1		0			13	13			6050	0			1	1		3											
+																																																		
+hzdd_gmp_gj_003	MineNpc	水稻	npc\cj_040051	icon\funcnpc\cj_150001.png	201	2	20	7	7		2	interact041	20000	1000	2	sh_nf							1		0			13	13			6055	0			1	1		3											
+																																																		
+																																																		
+																																																		
+	//渔夫																																																	
+jh_sh_gathernpc_1025	MineNpc	鳊鱼群	npc\cj_101004	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	1000	2	sh_yf	1	1					1		0			13	13			6051	0	207		1	1		3											
+jh_sh_gathernpc_1026	MineNpc	青鱼群	npc\cj_101004	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	1000	2	sh_yf	1	1					1		0			13	13			6052	0	207		1	1		3											
+																																																		
+	//结拜玩法																																																	
+Gather_jiebai_1	MineNpc	矿	npc\cj020140_a	npc\cj020140_a	153	4	20	2	9		3	interact041	10000	3000	4					Gather_jiebai_1	item_jiebai_001		10	0				13	13						1															
+																																																		
+																																																		
+	//烟雨之乱																																																	
+Gather_yyzl_001	MineNpc	药材堆	npc\fbmac009005_xjh_1	icon\funcnpc\task.png	153	4	5	2	28		2	interact041	5000	3000	4					drop_yyzl_004			1														1													
+Gather_yyzl_002	MineNpc	药材堆	npc\fbmac009005_xjh_1	icon\funcnpc\task.png	153	4	5	2	28		2	interact041	5000	3000	4					drop_yyzl_005			1														1													
+Gather_yyzl_003	MineNpc	药材堆	npc\fbmac009005_xjh_1	icon\funcnpc\task.png	153	4	5	2	28		2	interact041	5000	3000	4					drop_yyzl_006			1														1													
+Gather_yyzl_004	MineNpc	货物	npc\itembeiyuan002	icon\funcnpc\task.png	153	4	5	2	28		2	interact041	5000	3000	4					drop_yyzl_003			1														1									buff_yyzl_005				
+Gather_yyzl_005	MineNpc	柴堆	npc\itemnpc206	icon\funcnpc\task.png	153	4	5	2	28		2	offact021	5000	60000	4					drop_yyzl_002			1														1													
+																																																		
+	//蓬莱岛草药																																																	
+tigenpc_01	MineNpc	洛神花	npc\itemnpc1533		468	7	20	7	7		2.5	interact017	20000	5000	4					comd_hd_tige01			1	8												1	1		1											
+tigenpc_02	MineNpc	宁静草	npc\itemnpc1529		468	7	20	7	7		2.5	interact017	20000	5000	4					comd_hd_tige02			1	8												1	1		1											
+tigenpc_07	MineNpc	龙牙草	npc\itemnpc1528		468	7	20	7	7		2.5	interact017	20000	5000	4					comd_hd_tige07			1	8												1	1		1											
+tigenpc_08	MineNpc	风流果	npc\itemnpc1531		468	7	20	7	7		2.5	interact017	20000	5000	4					comd_hd_tige08			1	8												1	1		1											
+tigenpc_03	MineNpc	双生万年蕈	npc\itemnpc1527		468	7	20	7	7		2.5	interact017	20000	5000	4					comd_hd_tige03			1	8												1	1		1											
+tigenpc_01_1	MineNpc	洛神花	npc\itemnpc1533		468	7	20	7	7		2.5	interact017	20000	5000	4					hd_tige01			1	8												1	1		1											
+tigenpc_08_1	MineNpc	风流果	npc\itemnpc1531		468	7	20	7	7		2.5	interact017	20000	5000	4					hd_tige08			1	8												1	1		1											
+																																																		
+	//蓬莱岛																																																	
+Gather_pld_001	MineNpc	锦盒	npc\itemnpc590	icon\funcnpc\itemboxnpc002.png	153	4	20	2	9		3	interact041	8000	3000	4					drop_box_88_pld01			9999999	0				13	13						1															
+Gather_pld_002	MineNpc	普通矿石	npc\cj_102003	icon\funcnpc\cj_020020.png	153	4	20	2	6		3	interact006a	8000	5000	4					drop_box_pld_002			1	0				13	13						1															
+Gather_pld_003	MineNpc	稀有矿石	npc\cj_102016	icon\funcnpc\cj_020020.png	153	4	20	2	6		3	interact006a	8000	5000	4					drop_box_pld_003			1	0				13	13						1															
+Gather_pld_004	MineNpc	银矿	npc\cj020040	icon\funcnpc\cj_020020.png	153	4	20	2	6		3	interact006a	8000	5000	4					drop_box_pld_004			1	0				13	13						1															
+Gather_pld_005	MineNpc	金矿	npc\cj020040	icon\funcnpc\cj_020020.png	153	4	20	2	6		3	interact006a	8000	5000	4					drop_box_pld_005			1	0				13	13						1															
+Gather_pld_006	MineNpc	草	npc\cj_106001a1	icon\funcnpc\cj_150001.png	153	4	20	2	7		3	interact017	8000	5000	4					drop_pld_lzy_002			1	0				13	13						1															
+Gather_pld_008	MineNpc	被啃过的莴苣	npc\cj_040001	icon\funcnpc\cj_150001.png	153	4	20	2	7		3	interact017	8000	5000	4					drop_pld_lzy_004			9999999	0				13	13						1															
+Gather_pld_009	MineNpc	竹子	npc\cj_030001	icon\funcnpc\cj_150001.png	153	4	20	2	7		3	interact007a	8000	5000	4					drop_pld_lzy_006			5	0				13	13						1															
+Gather_pld_010	MineNpc	普通木材	npc\box001	icon\funcnpc\cj_030050.png	153	4	20	14	14		2	interact007a	20000	5000	4								1	1				13	13						1															
+Gather_pld_011	MineNpc	稀有木材	npc\box001	icon\funcnpc\cj_030050.png	153	4	20	14	14		2	interact007a	20000	5000	4								1	1				13	13						1															
+Gather_pld_012	MineNpc	天山雪莲	npc\itemnpc1402	icon\funcnpc\cj_150001.png	153	4	20	7	7		2	interact017	2000	1000	4					drop_item_pld008			9999999	1				13	13						1															
+Gather_pld_013	MineNpc	百叶草	npc\itemnpc1402	icon\funcnpc\cj_150001.png	153	4	20	7	7		2	interact017	2000	1000	4					drop_item_pld010			9999999	1				13	13						1											buff_Gather_pld_013				
+																																																		
+																																																		
+	//侠客岛																																																	
+Gather_xiakedao_shuzhi	MineNpc	枯树枝	npc\itemnpc206	icon\funcnpc\task.png	153	4	5	2	9		3	interact017	8000	3000	4					drop_item_xiakedao_shuzhi			1	0				13	13						1															
+Gather_xiakedao_nisha	MineNpc	泥沙	npc\cj_040101	icon\funcnpc\task.png	153	4	5	2	9		3	interact017	8000	3000	4					drop_item_xiakedao_nisha			1	0				13	13						1															
+Gather_xiakedao_guoshu	MineNpc	果树	npc\cj_040020	icon\funcnpc\task.png	153	4	5	2	9		3	interact017	8000	3000	4					drop_item_xiakedao_guozi			1	0				13	13						1															
+gather_xiakedao_xiancha	MineNpc	仙茶	npc\cj_040051	icon\funcnpc\task.png	153	4	5	2	9		3	interact017	8000	3000	4					drop_item_xiakedao_xiancha			1	0				13	13						1															
+																																																		
+npc_xkd_cj_01	MineNpc	芨芨草	npc\cj_ty0003a	icon\funcnpc\task.png	153	4	5	2	9		3	interact017	8000	3000	4					drop_xkd_envet_03			1	0				13	13						1		1		3							buf_xkd_envet_03				
+npc_xkd_cj_02	MineNpc	残破书籍	npc\itemnpc686	icon\funcnpc\task.png	153	4	5	2	9		3	interact017	8000	3000	4					drop_xkd_envet_04			1	0				13	13						1		1		3							buf_xkd_envet_04				
+npc_xkd_cj_03	MineNpc	草药2	npc\itemnpc064	icon\funcnpc\task.png	153	4	5	2	9		3	interact017	8000	3000	4					drop_xkd_envet_05			1	0				13	13						1		1		3											
+npc_xkd_cj_04	MineNpc	鳊鱼群	npc\cj_101004	icon\funcnpc\task.png	153	4	5	2	9		3	interact017	8000	3000	4					drop_xkd_envet_06			1	0				13	13						1		1		3											
+boxnpc_xkd_02	MineNpc	宝箱1	npc\itemnpc589	icon\funcnpc\task.png	161	4	5	2	9		3	interact017	8000	3000	4					drop_xkd_envet_09			1	0				13	13						1		1		3							buf_xkd_envet_10				
+boxnpc_xkd_03	MineNpc	宝箱2	npc\itemnpc589	icon\funcnpc\task.png	161	4	5	2	9		3	interact017	8000	3000	4					drop_xkd_envet_09			1	0				13	13						1		1		3							buf_xkd_envet_11				
+																																																		
+Gather_pld_box	MineNpc	宝箱	npc\itemboxnpc001	icon\funcnpc\task.png	153	4	5	2	9		3	interact017	-1	3000	4					Drop_pld_dy_10			1	0				13	13						1			1	1							buf_pld_dy_03				
+																																																		
+	//无极岛																																																	
+Gather_wjd_xx_001	MineNpc	磨刀石	npc\npcitem740	icon\funcnpc\task.png	153	4	5	2	9		3	interact017	8000	3000	4					drop_wjd_xx_001			1	0											1															
+Gather_wjd_xx_002	MineNpc	无极岛鱼群   	npc\cj_101004	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	7					6									7000		222		5	5													
+Gather_wjd_xx_003	MineNpc	紫菜	npc\itemnpc051	icon\funcnpc\task.png	153	4	5	7	7		3	interact017	8000	3000	4					drop_wjd_xx_003			1	0											1															
+Gather_wjd_xx_004	MineNpc	火堆	npc\guildeffect009	icon\funcnpc\task.png	153	4	5	7	9		3	interact017	-1	3000	4					drop_wjd_xx_004			9999	0											1															
+Gather_wjd_xx_005	MineNpc	凝血草	npc\itemnpc054	icon\funcnpc\task.png	152	4	5	7	7		3	interact017	5000	3000	4					drop_wjd_xx_005			1	0											1															
+																																																		
+	//蓬莱岛--钓鱼																																																	
+pld_gujdiaoyu_001	MineNpc	青蟹群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	7				蓬莱岛	9999999	25	25			13	13			7002	0	223		10	10		3							buff_gujpldlfy001				
+pld_gujdiaoyu_002	MineNpc	金线鱼群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	7				蓬莱岛	9999999	25	25			13	13			7003	0	223		10	10		3							buff_gujpldlfy001				
+pld_gujdiaoyu_003	MineNpc	卷口鱼群	npc\cj_101007	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	7				蓬莱岛	9999999	25	25			13	13			7004	0	224		10	10		3							buff_gujpldlfy001				
+pld_gujdiaoyu_004	MineNpc	白鳞鱼群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	7				蓬莱岛	9999999	25	25			13	13			7005	0	224		10	10		3							buff_gujpldlfy001				
+pld_gujdiaoyu_005	MineNpc	银鼓鱼群	npc\cj_101009	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	7				蓬莱岛	9999999	25	25			13	13			7006	0	225		10	10		3							buff_gujpldlfy001				
+pld_gujdiaoyu_006	MineNpc	昂丝鱼群	npc\cj_101004	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	7				蓬莱岛	9999999	25	25			13	13			7007	0	225		10	10		3							buff_gujpldlfy001				
+pld_gujdiaoyu_007	MineNpc	大口鲶群	npc\cj_101006	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	7				蓬莱岛	9999999	25	25			13	13			7008	0	226		10	10		3							buff_gujpldlfy001				
+pld_gujdiaoyu_008	MineNpc	叶结鱼群	npc\cj_101008	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	7				蓬莱岛	9999999	25	25			13	13			7009	0	226		10	10		3							buff_gujpldlfy001				
+pld_gujdiaoyu_009	MineNpc	金银花	npc\itemnpc1450_a	icon\funcnpc\cj_150001.png	153	4	20	2	9		2	interact017	20000	5000	4					drop_item_pld_gujqybzs_01			1					13	13							1	1		3											
+pld_gujdiaoyu_010	MineNpc	铁剑	npc\bag_wnhg03		153	4	20	2	9		2	interact017	20000	5000	4					drop_item_pld_gujqybzs_03			1					13	13							1	1		3											
+pld_gujdiaoyu_011	MineNpc	草药1	npc\cj_150150	icon\funcnpc\itemnpc214.png	153	4	20	2	9		8	interact017	20000	5000	4					drop_item_pld_gujzhaitzozi_01			1					13	13							1	1		3							buff_pldguj_qinbi02				
+pld_gujdiaoyu_012	MineNpc	草药2	npc\cj_150250	icon\funcnpc\itemnpc214.png	153	4	20	2	9		8	interact017	20000	5000	4					drop_item_pld_gujzhaitzozi_02			1					13	13							1	1		3							buff_pldguj_qinbi03				
+																																																		
+		//五仙教入门任务																																																
+Gather_wuxianjiao_rumen_001	MineNpc	蝎子	npc\monster013	icon\funcnpc\task.png	153	4	5	2	9		3	interact017	8000	3000	4					drop_wuxianjiao_rumen_xiezi			1	0				13	13						1															
+Gather_wuxianjiao_rumen_002	MineNpc	蛇	npc\monster117	icon\funcnpc\task.png	153	4	5	2	9		3	interact017	8000	3000	4					drop_wuxianjiao_rumen_she			1	0				13	13						1															
+Gather_wuxianjiao_rumen_003	MineNpc	蛤蟆	npc\petm_c_0300	icon\funcnpc\task.png	153	4	5	2	9		3	interact017	8000	3000	4					drop_wuxianjiao_rumen_hama			1	0				13	13						1															
+Gather_wuxianjiao_rumen_004	MineNpc	蜘蛛	npc\monster006	icon\funcnpc\task.png	153	4	5	2	9		3	interact017	8000	3000	4					drop_wuxianjiao_rumen_zhizhu			1	0				13	13						1															
+Gather_wuxianjiao_rumen_005	MineNpc	蜈蚣	npc\fbnpc019019	icon\funcnpc\task.png	153	4	5	2	9		3	interact017	8000	3000	4					drop_wuxianjiao_rumen_wugong			1	0				13	13						1															
+Gather_wxj_jgjz002	MineNpc	竹子	npc\cj_030001	icon\funcnpc\cj_150001.png	153	4	20	2	7		3	interact007a	8000	5000	4					drop_wxjlzy_jgjz_001			9999999	0				13	13						1															
+																																																		
+Gather_sneakon_01	MineNpc	情报收集	npc\itemnpc591a	icon\funcnpc\task.png	153	4	20	2	2		2	interact017	-1	2000	4					drop_sneakon_01			1	0				13	13						1															
+																																																		
+Gather_zmjh_001	MineNpc	蒲团	npc\itemnpc063		109	4	1	2	2		2	ng_state_1	2000	60000	3								1	0				13	13						1								1			buff_zmjh_001				
+																																																		
+																																																		
+																																																		
+																																																		
+																																																		
+mrsj_mtsz_002	GardenPlant	落地秀才	npc\cj_040001	icon\funcnpc\cj_040001.png	752	4	9	2	9		3	interact017	-1	3000	4					drop_mrsj_mtsz_002			1	0				13	13						1								1							
+mrsj_mtsz_003	GardenPlant	红妆素裹	npc\cj_040021	icon\funcnpc\cj_040021.png	752	4	9	2	9		3	interact017	-1	3000	4					drop_mrsj_mtsz_003			1	0				13	13						1								1							
+mrsj_mtsz_004	GardenPlant	十八学士	npc\cj_040041	icon\funcnpc\cj_040041.png	752	4	9	2	9		3	interact017	-1	3000	4					drop_mrsj_mtsz_004			1	0				13	13						1								1							
+mrsj_mtsz_005	GardenPlant	抓破美人脸	npc\cj_040048	icon\funcnpc\cj_040048.png	752	4	9	2	9		3	interact017	-1	3000	4					drop_mrsj_mtsz_005			1	0				13	13						1								1							
+																																																		
+		//三盟争霸-争夺																																																
+Gather_smzb_yq	MineNpc	勇气之剑（迷雾谷）	npc\itemnpc1405		109	4	20	2	2		2	interact017	-1	5000	3								1	0				13	13						1								1			buff_smzb_yq				
+Gather_smzb_zh	MineNpc	正魂之剑（绝命谷）	npc\itemnpc1405		109	4	20	2	2		2	interact017	-1	5000	3								1	0				13	13						1								1			buff_smzb_zh				
+Gather_smzb_ww	MineNpc	无畏之剑（战歌盆地）	npc\itemnpc1405		109	4	20	2	2		2	interact017	-1	5000	3								1	0				13	13						1								1			buff_smzb_ww				
+Gather_smzb_xl	MineNpc	心灵之剑（试炼场）	npc\itemnpc1405		109	4	20	2	2		2	interact017	-1	5000	3								1	0				13	13						1								1			buff_smzb_xl				
+																																																		
+Gather_smzb_yq_d	MineNpc	勇气之剑(东)	npc\itemnpc1405		109	4	20	2	2		2	interact017	-1	5000	3								1	0				13	13						1								1			buff_smzb_yq				
+Gather_smzb_zh_n	MineNpc	正魂之剑(南)	npc\itemnpc1405		109	4	20	2	2		2	interact017	-1	5000	3								1	0				13	13						1								1			buff_smzb_zh				
+Gather_smzb_ww_x	MineNpc	无畏之剑(西)	npc\itemnpc1405		109	4	20	2	2		2	interact017	-1	5000	3								1	0				13	13						1								1			buff_smzb_ww				
+Gather_smzb_xl_b	MineNpc	心灵之剑（北）	npc\itemnpc1405		109	4	20	2	2		2	interact017	-1	5000	3								1	0				13	13						1								1			buff_smzb_xl				
+																																																		
+Gather_qynew_dy_06	MineNpc	宝箱	npc\itemboxnpc002	icon\funcnpc\task.png	153	4	5	2	9		3	interact017	-1	3000	4					drop_item_qynew_01			1	0				13	13						1					4967						buf_qynew_dy_06				
+																																																		
+																																																		
+		//家园种植																																																
+home_smalltree_01	VegetablePlant	枫树种子	npc\cj_040015		752	4	9	2	9		3	interact017	-1	3000	4					drop_homeplant_001			1	0				13	13						1								1							
+home_smalltree_02	VegetablePlant	柳树种子	npc\cj_040015		752	4	9	2	9		3	interact017	-1	3000	4					drop_homeplant_002			1	0				13	13						1								1							
+home_smalltree_03	VegetablePlant	桃花树种子	npc\cj_040015		752	4	9	2	9		3	interact017	-1	3000	4					drop_homeplant_003			1	0				13	13						1								1							
+home_smalltree_04	VegetablePlant	樱花树种子	npc\cj_040015		752	4	9	2	9		3	interact017	-1	3000	4					drop_homeplant_004			1	0				13	13						1								1							
+home_plant_01	VegetablePlant	盆栽1	npc\cj_040046		752	4	9	2	9		3	interact017	-1	3000	4								1	0				13	13						1								1							
+home_plant_02	VegetablePlant	盆栽2	npc\cj_040046		752	4	9	2	9		3	interact017	-1	3000	4					drop_homeplant_005			1	0				13	13						1								1							
+home_plant_03	VegetablePlant	盆栽3	npc\cj_040046		752	4	9	2	9		3	interact017	-1	3000	4					drop_homeplant_006			1	0				13	13						1								1							
+home_plant_04	VegetablePlant	盆栽4	npc\cj_040046		752	4	9	2	9		3	interact017	-1	3000	4					drop_homeplant_007			1	0				13	13						1								1							
+home_smalltree_05	VegetablePlant	杉树	npc\cj_040015		752	4	9	2	9		3	interact017	-1	3000	4					drop_homeplant_008			1	0				13	13						1								1							
+home_smalltree_06	VegetablePlant	松树	npc\cj_040015		752	4	9	2	9		3	interact017	-1	3000	4					drop_homeplant_009			1	0				13	13						1								1							
+home_smalltree_07	VegetablePlant	双生树	npc\cj_040015		752	4	9	2	9		3	interact017	-1	3000	4					drop_homeplant_010			1	0				13	13						1								1							
+home_smalltree_08	VegetablePlant	铁树银花	npc\cj_040015		752	4	9	2	9		3	interact017	-1	3000	4					drop_homeplant_011			1	0				13	13						1								1							
+home_silkworm_01	VegetablePlant	家园蚕	npc\cj_040203		752	4	9	2	9		3	life_jq_01	-1	3000	4					drop_home_can01			1	0				13	13						1								1							
+home_silkworm_02	VegetablePlant	家园蚕	npc\cj_040203		752	4	9	2	9		3	life_jq_01	-1	3000	4					drop_home_can02			1	0				13	13						1								1							
+home_silkworm_03	VegetablePlant	家园蚕	npc\cj_040203		752	4	9	2	9		3	life_jq_01	-1	3000	4					drop_home_can03			1	0				13	13						1								1							
+																																																		
+boxnpc_wbwf_sx_06_01	MineNpc	七叶一枝花	npc\itemnpc1450_a		161	4	3	7	7		3	interact017	30000	2000	4					drop_boxnpc_wbwf_sx_06_01			1	0											1								1							
+																																																		
+BOX_yyc_zyb_001	MineNpc	血手令牌	npc\itemnpc439	icon\funcnpc\task.png	153	4	5	2	28		2	interact017	5000	3000	4					drop_itemyyc_my_003			9999999																											
+																																																		
+																																																		
+		//鬼市日常炼制毒药																																																
+Gather_gsrc_001	MineNpc	地藏花	npc\itemnpc1399	icon\funcnpc\task.png	153	4	5	2	28		2	interact041	-1	2000	4	Gather_gsrc_001							9999999																							buff_gs_rc_001				
+Gather_gsrc_002	MineNpc	五石散	npc\itemnpc461	icon\funcnpc\task.png	153	4	5	2	28		2	interact041	-1	2000	4	Gather_gsrc_002							9999999																							buff_gs_rc_002				
+Gather_gsrc_003	MineNpc	腐蚀的内脏	npc\itemnpc1536	icon\funcnpc\task.png	153	4	5	2	28		2	interact041	-1	2000	4	Gather_gsrc_003							9999999																							buff_gs_rc_003				
+Gather_gsrc_004	MineNpc	无根水	npc\itemnpc1094	icon\funcnpc\task.png	153	4	5	2	28		2	interact041	-1	2000	4	Gather_gsrc_004							9999999																							buff_gs_rc_004				
+Gather_gsrc_005	MineNpc	腹蛇涎	npc\npcitem639a	icon\funcnpc\task.png	153	4	5	2	28		2	interact041	-1	2000	4	Gather_gsrc_005							9999999																							buff_gs_rc_005				
+																																																		
+Gather_zhdmj_001	MineNpc	蒲团	npc\itemnpc063		109	4	1	2	2		2	ng_state_1	2000	60000	3								1	0				13	13						1								1			buff_zhdmj_001				
+																																																		
+npc_ythc_cj_001	MineNpc	货物	npc\itembeiyuan002	icon\funcnpc\task.png	153	4	5	2	28		2	interact041	-1	15000	3								1														1	1	1	5736										
+																																																		
+Gather_202108_lzy_001	MineNpc	铅矿	npc\cj_102008	icon\funcnpc\cj_150001.png	153	4	20	6	6		3	interact006	8000	5000	4	sh_kg				drop_202108_lzy_cj001			9999999	0				13	13						1															
+Gather_202108_lzy_002	MineNpc	金矿	npc\cj_102001	icon\funcnpc\cj_150001.png	153	4	20	6	6		3	interact006	8000	5000	4	sh_kg				drop_202108_lzy_cj002			9999999	0				13	13						1															
+Gather_202108_lzy_003	MineNpc	白杨树	npc\cj_030150	icon\funcnpc\cj_030050.png	153	4	20	14	14		3	interact007	8000	5000	4	sh_qf				drop_202108_lzy_cj003			9999999	0				13	13						1															
+Gather_202108_lzy_004	MineNpc	桂花树	npc\cj_030250	icon\funcnpc\cj_030050.png	153	4	20	14	14		3	interact007	8000	5000	4	sh_qf				drop_202108_lzy_cj004			9999999	0				13	13						1															
+Gather_202108_lzy_005	MineNpc	银杉树	npc\cj_030200	icon\funcnpc\cj_030050.png	153	4	20	14	14		3	interact007	8000	5000	4	sh_qf				drop_202108_lzy_cj005			9999999	0				13	13						1															
+Gather_202108_lzy_006	MineNpc	红粉白株	npc\cj_106012b2	icon\funcnpc\cj_160150.png	153	4	20	7	7		3	interact017	8000	5000	4					drop_202108_lzy_cj006			9999999	0				13	13						1															
+Gather_202108_lzy_007	MineNpc	断肠花	npc\cj_160001b1	icon\funcnpc\cj_160150.png	153	4	20	7	7		3	interact017	8000	5000	4					drop_202108_lzy_cj007			9999999	0				13	13						1															
+Gather_202108_lzy_008	MineNpc	独一味	npc\cj_160200b2	icon\funcnpc\cj_160150.png	153	4	20	7	7		3	interact017	8000	5000	4					drop_202108_lzy_cj008			9999999	0				13	13						1															
+Gather_202108_lzy_009	MineNpc	马钱子	npc\cj_160250b1	icon\funcnpc\cj_160150.png	153	4	20	7	7		3	interact017	8000	5000	4					drop_202108_lzy_cj009			9999999	0				13	13						1															
+Gather_202108_lzy_010	MineNpc	夺命草	npc\cj_160250b2	icon\funcnpc\cj_160150.png	153	4	20	7	7		3	interact017	8000	5000	4					drop_202108_lzy_cj010			9999999	0				13	13						1															
+Gather_202108_lzy_011	MineNpc	天雄	npc\itemnpc452	icon\funcnpc\cj_150001.png	153	4	20	2	7		3	interact017	8000	5000	4					drop_202108_lzy_cj011			9999999	0				13	13						1															
+Gather_202108_lzy_012	MineNpc	丁香	npc\itemnpc457	icon\funcnpc\cj_150001.png	153	4	20	2	7		3	interact017	8000	5000	4					drop_202108_lzy_cj012			9999999	0				13	13						1															
+Gather_202108_lzy_013	MineNpc	旋复花	npc\itemnpc875	icon\funcnpc\cj_150001.png	153	4	20	2	7		3	interact017	8000	5000	4					drop_202108_lzy_cj013			9999999	0				13	13						1															
+Gather_202108_lzy_014	MineNpc	威灵仙	npc\itemnpc166	icon\funcnpc\cj_150001.png	153	4	20	2	7		3	interact017	8000	5000	4					drop_202108_lzy_cj014			9999999	0				13	13						1															
+Gather_202108_lzy_015	MineNpc	忍冬花（金银花）	npc\cj_ty0001b	icon\funcnpc\cj_150001.png	153	4	20	2	7		3	interact017	8000	5000	4					drop_202108_lzy_cj015			9999999	0				13	13						1															
+Gather_202108_lzy_016	MineNpc	苍术	npc\itemnpc455	icon\funcnpc\cj_150001.png	153	4	20	2	7		3	interact017	8000	5000	4					drop_202108_lzy_cj016			9999999	0				13	13						1															
+																																																		
+Gather_overcloud_cao	MineNpc	云顶3v3战场采草	npc\cj_106020c_light	icon\funcnpc\task.png	109	4	5	2	2		3	interact017	-1	10000	3								1	0				13	13						1								1						1	
+Gather_overcloud_bao	MineNpc	云顶3v3战场包裹	npc\fbmac009005_xjh_1	icon\funcnpc\task.png	109	4	5	2	2		3	interact017	-1	10000	3								1	0				13	13						1								1						1	
+Gather_overcloud_qizi	MineNpc	云顶3v3战场旗帜	npc\npc_xtbzyb_004a	icon\funcnpc\task.png	109	4	5	2	2		3	interact017	-1	10000	3								1	0				13	13						1								1					"0.7,0.7,0.7"	1	
+npc_lzy_slzc_sx01	SiXiangNpc	青龙	npc\itemnpc1725		1302	4	20	2	2		2	interact017		5000														13	13						1								1			buff_lzy_slzc_sx01		"1.5,1.5,1.5"		1
+npc_lzy_slzc_sx02	SiXiangNpc	朱雀	npc\itemnpc1725		1302	4	20	2	2		2	interact017		5000														13	13						1								1			buff_lzy_slzc_sx02		"1.5,1.5,1.5"		1
+npc_lzy_slzc_sx03	SiXiangNpc	白虎	npc\itemnpc1725		1302	4	20	2	2		2	interact017		5000														13	13						1								1			buff_lzy_slzc_sx03		"1.5,1.5,1.5"		1
+npc_lzy_slzc_sx04	SiXiangNpc	玄武	npc\itemnpc1725		1302	4	20	2	2		2	interact017		5000														13	13						1								1			buff_lzy_slzc_sx04		"1.5,1.5,1.5"		1
+npc_lzy_slzc_sj01	MineNpc	事件1	npc\xktxd_001		109	4	20	2	2		2	interact017	-1	10000	3								1	0				13	13						1								1			buff_lzy_slzc_sj01	120000	"1.2,1.2,1.2"	1	
+npc_lzy_slzc_sj02	MineNpc	事件2	npc\xktxd_001		109	4	20	2	2		2	interact017	-1	10000	3								1	0				13	13						1								1			buff_lzy_slzc_sj02	120000	"1.2,1.2,1.2"	1	
+npc_lzy_slzc_sj03	MineNpc	事件3	npc\xktxd_001		109	4	20	2	2		2	interact017	-1	10000	3								1	0				13	13						1								1			buff_lzy_slzc_sj03	120000	"1.2,1.2,1.2"	1	
+																																																		
+Gather_lzy202308_jdcj001	MineNpc	石灰石	npc\cj_102001	icon\funcnpc\cj_150001.png	153	4	20	6	6		3	interact006	8000	5000	4					drop_Gather_lzy202308_jdcj001			9999999	0				13	13						1															
+Gather_lzy202308_jdcj002	MineNpc	干草	npc\itemnpc064	icon\funcnpc\cj_150001.png	153	4	20	7	7		3	interact017	8000	5000	4					drop_Gather_lzy202308_jdcj002			9999999	0				13	13						1															
+Gather_lzy202308_jdcj003	MineNpc	柏树	npc\cj_030150	icon\funcnpc\cj_030050.png	153	4	20	14	14		3	interact007	8000	5000	4					drop_Gather_lzy202308_jdcj003			9999999	0				13	13						1															
+Gather_lzy202308_jdcj004	MineNpc	墨晶矿	npc\cj_102005	icon\funcnpc\cj_030050.png	153	4	20	6	6		3	interact006	8000	5000	4					drop_Gather_lzy202308_jdcj004			9999999	0				13	13						1															
+Gather_lzy202308_jdcj005	MineNpc	薄荷	npc\cj_160250a1	icon\funcnpc\cj_150001.png	153	4	20	7	7		3	interact017	8000	5000	4					drop_Gather_lzy202308_jdcj005			9999999	0				13	13						1															
+Gather_lzy202308_jdcj006	MineNpc	槐树	npc\cj_030250	icon\funcnpc\cj_150001.png	153	4	20	14	14		3	interact007	8000	5000	4					drop_Gather_lzy202308_jdcj006			9999999	0				13	13						1															
+Gather_lzy202308_jdcj007	MineNpc	赤血矿	npc\cj_102002	icon\funcnpc\cj_030050.png	153	4	20	6	6		3	interact006	8000	5000	4					drop_Gather_lzy202308_jdcj007			9999999	0				13	13						1															
+Gather_lzy202308_jdcj008	MineNpc	白术	npc\cj_106013a1	icon\funcnpc\cj_030050.png	153	4	20	7	7		3	interact017	8000	5000	4					drop_Gather_lzy202308_jdcj008			9999999	0				13	13						1															
+Gather_lzy202308_jdcj009	MineNpc	杨树	npc\cj_030200	icon\funcnpc\cj_150001.png	153	4	20	14	14		3	interact007	8000	5000	4					drop_Gather_lzy202308_jdcj009			9999999	0				13	13						1															
+Gather_lzy202308_jdcj010	MineNpc	花岗岩	npc\cj_102003	icon\funcnpc\cj_150001.png	153	4	20	6	6		3	interact006	8000	5000	4					drop_Gather_lzy202308_jdcj010			9999999	0				13	13						1															
+Gather_lzy202308_jdcj011	MineNpc	杂草	npc\itemnpc172	icon\funcnpc\cj_030050.png	153	4	20	7	7		3	interact017	8000	5000	4					drop_Gather_lzy202308_jdcj011			9999999	0				13	13						1															
+																																																		
+Gather_lzy202310_hd001	MineNpc	蟹笼	npc\itemnpc1801	icon\funcnpc\cj_150001.png	153	4	20	7	7		3	interact017	8000	10000	4					drop_Gather_lzy202310_hd001			9999999	0				13	13						1															
+Gather_lzy202310_hd002	MineNpc	茶树	npc\cj_040008	icon\funcnpc\cj_150001.png	153	4	20	7	7		3	interact017	8000	10000	4					drop_Gather_lzy202310_hd002			9999999	0				13	13						1															
+																																																		
+Gather_clone062_001	MineNpc	神秘鱼点	npc\cj_101004		141	2	40	8	8		60	interact006	-1	500	2	sh_yf	1	1					6					13	13			7010		207	1		6													
+																																																		
+Gather_sjhguj_001_03	MineNpc	鳟鱼    	npc\cj_101004	icon\funcnpc\cj_010001.png	141	2	40	8	8		20	interact006	20000	5000	2	sh_yf	1	5					9999999	0				13	13			7012				9999999	9999999		3											

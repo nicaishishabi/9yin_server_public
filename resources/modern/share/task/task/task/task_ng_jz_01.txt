@@ -1,0 +1,58 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	Plot	Title	Step	SearchID	Line	AcceptNpc	SubmitNpc	SceneID	AcceptSceneID	SubmitSceneID	AutoAcceptID	AutoSubmit	PreTaskLimit	NextTaskLimit	NotShowMenu	Relation	LuckValue	AcceptLimit	SubmitLimit	AcceptDecMoney	SubFunction	TaskItemList	RefreshMonster	TimeLimitLength	SubmitNpcEx	TaskScript	TitleId	ContextId	AcceptDialogId	CompleteDialogId	UnCompleteDialogId	TaskTargetId	TrackInfoID	LineNextInfo	CanAcceptMenu	UncompleteMenu	CompleteMenu	AcceptMovie	SubmitMovie	DramaAccept	DramaSubmit	CanGiveup	ShareType	RepeatType	RepeatPeriod	CountDayLimit	DifficultCoefficient	DifficultLevel	NeedVip
+57001				s1280101	2													1272									title_57001	context_57001	accept_57001_1;menu_57001_1	complete_57001;submit_57001		target_57001		next_57001	CanAcceptMenu_57001		CompleteMenu_57001					1	0	0					
+57002				s1280101	2													1272									title_57002	context_57002	accept_57002_1;menu_57002_1	complete_57002;submit_57002		target_57002		next_57002	CanAcceptMenu_57002		CompleteMenu_57002					1	0	0					
+57003				s1280101	2													1272									title_57003	context_57003	accept_57003_1;menu_57003_1	complete_57003;submit_57003		target_57003		next_57003	CanAcceptMenu_57003		CompleteMenu_57003					1	0	0					
+57004				s1280101	2													1272									title_57004	context_57004				target_57004		next_57004	CanAcceptMenu_57004		CompleteMenu_57004					1	0	0					
+57005				s1280101	2													1272									title_57005	context_57005				target_57005		next_57005	CanAcceptMenu_57005		CompleteMenu_57005					1	0	0					
+57006				s1280101	2													1272									title_57006	context_57006				target_57006		next_57006	CanAcceptMenu_57006		CompleteMenu_57006					1	0	0					
+57007				s1280101	2													1272									title_57007	context_57007				target_57007		next_57007	CanAcceptMenu_57007		CompleteMenu_57007					1	0	0					
+57008				s1280101	2													1272									title_57008	context_57008				target_57008		next_57008	CanAcceptMenu_57008		CompleteMenu_57008					1	0	0					
+57009				s1280101	2													1272									title_57009	context_57009				target_57009		next_57009	CanAcceptMenu_57009		CompleteMenu_57009					1	0	0					
+57010				s1280101	2													1272									title_57010	context_57010				target_57010		next_57010	CanAcceptMenu_57010		CompleteMenu_57010					1	0	0					
+57011				s1280101	2													1272									title_57011	context_57011				target_57011		next_57011	CanAcceptMenu_57011		CompleteMenu_57011					1	0	0					
+57012				s1280101	2													1272									title_57012	context_57012				target_57012		next_57012	CanAcceptMenu_57012		CompleteMenu_57012					1	0	0					
+57013				s1280101	2													1272									title_57013	context_57013				target_57013		next_57013	CanAcceptMenu_57013		CompleteMenu_57013					1	0	0					
+57014				s1280101	2													1272									title_57014	context_57014				target_57014		next_57014	CanAcceptMenu_57014		CompleteMenu_57014					1	0	0					
+57015				s1280101	2													1272									title_57015	context_57015				target_57015		next_57015	CanAcceptMenu_57015		CompleteMenu_57015					1	0	0					
+57016				s1280101	2													1272									title_57016	context_57016				target_57016		next_57016	CanAcceptMenu_57016		CompleteMenu_57016					1	0	0					
+57017				s1280101	2													1272									title_57017	context_57017				target_57017		next_57017	CanAcceptMenu_57017		CompleteMenu_57017					1	0	0					
+57018				s1280101	2													1272									title_57018	context_57018				target_57018		next_57018	CanAcceptMenu_57018		CompleteMenu_57018					1	0	0					
+57019				s1280101	2													1272									title_57019	context_57019				target_57019		next_57019	CanAcceptMenu_57019		CompleteMenu_57019					1	0	0					
+57020				s1280101	2													1272									title_57020	context_57020				target_57020		next_57020	CanAcceptMenu_57020		CompleteMenu_57020					1	0	0					
+57021	72			s1280101	2	WorldNpc03305			7	7	57022	1		57022				1272;25409									title_57021	context_57021	accept_57021_1;menu_57021_1			target_57021		next_57021	CanAcceptMenu_57021							0	0	0					
+57022	72			s1280101	2				7	7	57023	1	57021	57023				1272									title_57022	context_57022				target_57022		next_57022	CanAcceptMenu_57022		CompleteMenu_57022		5705			0	0	0					
+57023	72			s1280101	2				7	7	57024	1	57022	57024				1272									title_57023	context_57023				target_57023		next_57023	CanAcceptMenu_57023		CompleteMenu_57023					0	0	0					
+57024	72			s1280101	2				14	14	57025	1	57023	57025				1272									title_57024	context_57024				target_57024		next_57024	CanAcceptMenu_57024		CompleteMenu_57024					0	0	0					
+57025	72			s1280101	2				14	14	57026	1	57024	57026				1272									title_57025	context_57025				target_57025		next_57025	CanAcceptMenu_57025		CompleteMenu_57025					0	0	0					
+57026	72			s1280101	2				14	14	57027	1	57025	57027				1272									title_57026	context_57026				target_57026										0	0	0					
+57027	72			s1280101	2				14	14	57028	1	57026	57028				1272									title_57027	context_57027				target_57027										0	0	0					
+57028	72			s1280101	2				7	7	57029	1	57027	57029				1272									title_57028	context_57028				target_57028										0	0	0					
+57029	72			s1280101	2				14	14	57030	1	57028	57030				1272									title_57029	context_57029				target_57029										0	0	0					
+57061	74			s1280101	2	npc_4neidh_jzt			7		57062	1		57062				1272;25411							SubmitNpcEx_57061		title_57061	context_57061	accept_57061_1;menu_57061_1	complete_57061;submit_57061		target_57061		next_57061	CanAcceptMenu_57061		CompleteMenu_57061					0	0	0					
+57062	74			s1280101	2						57063	1	57061	57063				1272									title_57062	context_57062				target_57062		next_57062								0	0	0					
+57063	74			s1280101	2						57064	1	57062	57064				1272									title_57063	context_57063				target_57063		next_57063					5707			0	0	0					
+57064	74			s1280101	2						57065	1	57063	57065				1272									title_57064	context_57064	accept_57064_1;menu_57064_1	complete_57064;submit_57064		target_57064		next_57064	CanAcceptMenu_57064		CompleteMenu_57064		5706			0	0	0					
+57065	74			s1280101	2						57066	1	57064	57066				1272									title_57065	context_57065				target_57065		next_57065								0	0	0					
+57066	74			s1280101	2		npc_4neidh_jzt			7			57065	57067				1272							SubmitNpcEx_57066		title_57066	context_57066		complete_57066;submit_57066		target_57066		next_57066			CompleteMenu_57066					0	0	0					
+57041	73			s1280101	2				7	7	57042	1		57042				1272;25410				58400					title_57041	context_57041				target_57041		next_57041								0	0	0					
+57042	73			s1280101	2		WorldNpc03306		7	7	57043			57043				1272									title_57042	context_57042	accept_57042_1;menu_57042_1	complete_57042;submit_57042		target_57042		next_57042	CanAcceptMenu_57042		CompleteMenu_57042					0	0	0					
+57043	73			s1280101	2				7	7	57044	1		57044				1272				58042			SubmitNpcEx_57043		title_57043	context_57043				target_57043		next_57043								0	0	0					
+57044	73			s1280101	2		WorldNpc03305		7	7	57051		57043	57051				1272				58041					title_57044	context_57044		complete_57044;submit_57044		target_57044		next_57044			CompleteMenu_57044					0	0	0					
+57030	72			s1280101	2		WorldNpc03305		14	7			57029					1272									title_57030	context_57030		complete_57030;submit_57030		target_57030					CompleteMenu_57030					0	0	0					
+57051	73			s1280101	2				7	7	57052	1						1272									title_57051	context_57051				target_57051		next_57051								0	0	0					
+57052	73			s1280101	2				7	7	57053	1						1272									title_57052	context_57052	accept_57052_1;menu_57052_1	complete_57052;submit_57052		target_57052		next_57052	CanAcceptMenu_57052		CompleteMenu_57052					0	0	0					
+57053	73			s1280101	2				7	7	57054	1						1272									title_57053	context_57053	accept_57053_1;menu_57053_1	complete_57053;submit_57053		target_57053		next_57053	CanAcceptMenu_57053		CompleteMenu_57053					0	0	0					
+57054	73			s1280101	2		WorldNpc03686		7	7	57055							1272									title_57054	context_57054		complete_57054;submit_57054		target_57054		next_57054			CompleteMenu_57054					0	0	0					
+57055	73			s1280101	2		WorldNpc03305		7	7								1272				58451					title_57055	context_57055	accept_57055_1;menu_57055_1	complete_57055;submit_57055		target_57055		next_57055	CanAcceptMenu_57055		CompleteMenu_57055					0	0	0					
+57056				s1280101	2	WorldNpc03305	WorldNpc03305		7	7				57057				1272;25412									title_57056	context_57056	accept_57056_1;menu_57056_1	complete_57056;submit_57056		target_57056			CanAcceptMenu_57056		CompleteMenu_57056					0	0	0	0	0			
+57057				s1280101	2	WorldNpc03305	NPCxszhh_4nei_yuming		7	15			57056	57532				1272							SubmitNpcEx_57057		title_57057	context_57057	accept_57057_1;menu_57057_1|accept_58057_2;menu_58057_2	complete_57057;submit_57057		target_57057			CanAcceptMenu_57057		CompleteMenu_57057					0	0	0	0	0			
+57058				s1280101	2	WorldNpc03305	WorldNpc03305		7	7								1272;106236									title_57058	context_57058	accept_57058_1;menu_57058_1	complete_57058;submit_57058		target_57058			CanAcceptMenu_57058		CompleteMenu_57058					0	0	0	0	0			
+57031				s1280102	2	npc_5neidh_jzt	npc_5neidh_jzt		7	7	57032			57032				26755							SubmitNpcEx_57031		title_57031	context_57031	accept_57031_1;menu_57031_1	complete_57031;submit_57031		target_57031		next_57031	CanAcceptMenu_57031		CompleteMenu_57031					1	0	0	0	0			
+57032				s1280102	2		npc_5neidh_jzt		7	7	57033	1	57031	57033											SubmitNpcEx_57032		title_57032	context_57032	accept_57032_1;menu_57032_1	complete_57032;submit_57032		target_57032		next_57032	CanAcceptMenu_57032		CompleteMenu_57032					0	0	0	0	0			
+57033				s1280102	2		npc_5neidh_jzt		7	7	57034	1	57032	57034											SubmitNpcEx_57033		title_57033	context_57033	accept_57033_1;menu_57033_1	complete_57033;submit_57033		target_57033		next_57033	CanAcceptMenu_57033		CompleteMenu_57033					0	0	0	0	0			
+57034				s1280102	2		npc_5neidh_jzt		7	7	57035	1	57033	57035											SubmitNpcEx_57034		title_57034	context_57034		complete_57034;submit_57034		target_57034		next_57034			CompleteMenu_57034					0	0	0	0	0			
+57035				s1280102	2		npc_5neidh_jzt		7	7	57036	1	57034	57036											SubmitNpcEx_57035		title_57035	context_57035	accept_57035_1;menu_57035_1	complete_57035;submit_57035		target_57035		next_57035	CanAcceptMenu_57035		CompleteMenu_57035					0	0	0	0	0			
+57036				s1280102	2		npc_5neidh_jzt		7	7	57037	1	57035	57037											SubmitNpcEx_57036		title_57036	context_57036	accept_57036_1;menu_57036_1	complete_57036;submit_57036		target_57036		next_57036	CanAcceptMenu_57036		CompleteMenu_57036					0	0	0	0	0			
+57037				s1280102	2		npc_5neidh_jzt		7	7			57036												SubmitNpcEx_57037		title_57037	context_57037		complete_57037;submit_57037		target_57037		next_57037			CompleteMenu_57037					0	0	0	0	0			
+57038				s1280102	2		npc_5neidh_jzt		7	7			57037												SubmitNpcEx_57038									next_57038								0	0	0	0	0			

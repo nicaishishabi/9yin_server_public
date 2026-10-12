@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="B9A2A34B75DC43C4B14001C6C401D0A7" x="120.361" y="51.994" z="472.139" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="3129" TaskSubType="1" HateLink="1">
+            <item No="1" id="tianshan_gw_002" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="恶僧">
+                <position x="119.719" z="470.496" ay="-1" />
+                <position x="121.753" z="471.275" ay="-1" />
+                <position x="120.718" z="473.828" ay="-1" />
+            </item>
+        </creator>
+        <creator No="70DD1BCBE47E4B4C9DE582F4E2EFE355" x="143.583" y="50.076" z="461.722" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="3130" TaskSubType="1" HateLink="1">
+            <item No="1" id="tianshan_gw_003" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="恶僧">
+                <position x="145.059" z="462.257" ay="-1" />
+                <position x="142.377" z="461.385" ay="-1" />
+                <position x="142.234" z="464.156" ay="-1" />
+            </item>
+        </creator>
+        <creator No="21D45DDCFFB94F62B95D5C7DDA96B8E6" x="158.214" y="53.608" z="441.683" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="3131" TaskSubType="1" HateLink="1">
+            <item No="1" id="tianshan_gw_004" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="恶僧">
+                <position x="157.714" z="442.123" ay="-1" />
+                <position x="156.987" z="440.577" ay="-1" />
+                <position x="160.104" z="442.835" ay="-1" />
+            </item>
+        </creator>
+        <creator No="800B866C9991436496EF589185E33285" x="2.611" y="71.185" z="500.786" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="3134" TaskSubType="1" HateLink="1">
+            <item No="1" id="tianshan_gw_008" ay="3.920" amount="1" refreshtime="5" NotPositive="0" desc="火工头陀" />
+        </creator>
+        <creator No="6C8DA524D14E4C72B7BFA676B2BEEBAC" x="45.409" y="66.796" z="496.294" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="3133" TaskSubType="1" HateLink="1">
+            <item No="1" id="tianshan_gw_007" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="恶僧">
+                <position x="47.149" z="494.770" ay="-1" />
+                <position x="45.857" z="497.199" ay="-1" />
+                <position x="47.273" z="497.223" ay="-1" />
+            </item>
+        </creator>
+        <creator No="96FB9BBA90EC409182E39B3AA211CB34" x="186.256" y="52.669" z="498.383" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="3132" TaskSubType="1" HateLink="1">
+            <item No="1" id="tianshan_gw_006" ay="1.795" amount="3" refreshtime="5" NotPositive="0" desc="恶僧">
+                <position x="186.723" z="499.739" ay="1.795" />
+                <position x="187.914" z="497.965" ay="1.795" />
+                <position x="185.802" z="497.883" ay="1.795" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

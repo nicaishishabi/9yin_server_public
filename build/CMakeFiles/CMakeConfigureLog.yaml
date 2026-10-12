@@ -1,0 +1,1498 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineSystem.cmake:218 (message)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      The system is: Windows - 10.0.18363 - AMD64
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCompilerId.cmake:501 (find_file)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCompilerId.cmake:538 (CMAKE_DETERMINE_COMPILER_ID_WRITE)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "file"
+    variable: "src_in"
+    description: "Path to a file."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "CMakeCXXCompilerId.cpp.in"
+    candidate_directories:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/"
+    found: "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeCXXCompilerId.cpp.in"
+    search_context:
+      ENV{PATH}:
+        - "D:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\VC\\VCPackages"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "D:\\VisualStudioTool\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\Extensions\\Microsoft\\CodeCoverage.Console"
+        - "D:\\Windows Kits\\10\\bin\\10.0.26100.0\\\\x64"
+        - "D:\\Windows Kits\\10\\bin\\\\x64"
+        - "D:\\VisualStudioTool\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\"
+        - "D:\\VisualStudioTool\\Common7\\Tools\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Windows\\RCC-Interface"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\Go\\bin"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\admin\\.cargo\\bin"
+        - "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\"
+        - "C:\\Users\\admin\\.dotnet\\tools"
+        - "C:\\Users\\admin\\go\\bin"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "D:\\VisualStudioTool\\VC\\vcpkg"
+      ENV{INCLUDE}:
+        - "D:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\include"
+        - "D:\\VisualStudioTool\\VC\\Auxiliary\\VS\\include"
+        - "D:\\Windows Kits\\10\\include\\10.0.26100.0\\ucrt"
+        - "D:\\Windows Kits\\10\\\\include\\10.0.26100.0\\\\um"
+        - "D:\\Windows Kits\\10\\\\include\\10.0.26100.0\\\\shared"
+        - "D:\\Windows Kits\\10\\\\include\\10.0.26100.0\\\\winrt"
+        - "D:\\Windows Kits\\10\\\\include\\10.0.26100.0\\\\cppwinrt"
+        - "C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\include\\um"
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler:  
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      閫傜敤浜?.NET Framework MSBuild 鐗堟湰 18.10.1-1.26427.6+3cd27c13e
+      鐢熸垚鍚姩鏃堕棿涓?2026/9/27 0:53:24銆?
+      
+      鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\4.4.2\\CompilerIdCXX\\CompilerIdCXX.vcxproj鈥?榛樿鐩爣)銆?
+      PrepareForBuild:
+        姝ｅ湪鍒涘缓鐩綍鈥淒ebug\\鈥濄€?
+        宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
+        姝ｅ湪鍒涘缓鐩綍鈥淒ebug\\CompilerIdCXX.tlog\\鈥濄€?
+      InitializeBuildStatus:
+        姝ｅ湪鍒涘缓鈥淒ebug\\CompilerIdCXX.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+        姝ｅ湪瀵光€淒ebug\\CompilerIdCXX.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+      ClCompile:
+        D:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\\\" /Fd"Debug\\vc145.pdb" /external:W0 /Gd /TP /FC /errorReport:queue CMakeCXXCompilerId.cpp
+        CMakeCXXCompilerId.cpp
+      Link:
+        D:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdCXX.lib" /MACHINE:X64 Debug\\CMakeCXXCompilerId.obj
+        CompilerIdCXX.vcxproj -> D:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\4.4.2\\CompilerIdCXX\\CompilerIdCXX.exe
+      PostBuildEvent:
+        for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+        :VCEnd
+        CMAKE_CXX_COMPILER=D:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe
+      FinalizeBuildStatus:
+        姝ｅ湪鍒犻櫎鏂囦欢鈥淒ebug\\CompilerIdCXX.tlog\\unsuccessfulbuild鈥濄€?
+        姝ｅ湪瀵光€淒ebug\\CompilerIdCXX.tlog\\CompilerIdCXX.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
+      宸插畬鎴愮敓鎴愰」鐩€淒:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\4.4.2\\CompilerIdCXX\\CompilerIdCXX.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+      
+      宸叉垚鍔熺敓鎴愩€?
+          0 涓鍛?
+          0 涓敊璇?
+      
+      宸茬敤鏃堕棿 00:00:03.15
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+      
+      The CXX compiler identification is MSVC, found in:
+        D:/RjDir/admin_98626617-3896-47e0-b5de-cfe58b401590/Desktop/project/9yin-cpp-server/build/CMakeFiles/4.4.2/CompilerIdCXX/CompilerIdCXX.exe
+      
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeFindBinUtils.cmake:37 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeFindBinUtils.cmake:64 (__resolve_tool_path)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeFindBinUtils.cmake:102 (__resolve_linker_path)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "_CMAKE_TOOL_WITH_PATH"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "link"
+    candidate_directories:
+      - "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/"
+      - "D:/VisualStudioTool/Common7/IDE/VC/vcpackages/"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/TestWindow/"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/Roslyn/"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/"
+      - "D:/VisualStudioTool/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/"
+      - "D:/Windows Kits/10/bin/10.0.26100.0/x64/"
+      - "D:/Windows Kits/10/bin/x64/"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/amd64/"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
+      - "D:/VisualStudioTool/Common7/IDE/"
+      - "D:/VisualStudioTool/Common7/Tools/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Windows/RCC-Interface/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/Go/bin/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/admin/.cargo/bin/"
+      - "C:/Users/admin/AppData/Local/Programs/Python/Python313/Scripts/"
+      - "C:/Users/admin/AppData/Local/Programs/Python/Python313/"
+      - "C:/Users/admin/.dotnet/tools/"
+      - "C:/Users/admin/go/bin/"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
+      - "D:/VisualStudioTool/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
+      - "D:/VisualStudioTool/VC/vcpkg/"
+    searched_directories:
+      - "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/link.com"
+    found: "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/link.exe"
+    search_context:
+      ENV{PATH}:
+        - "D:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\VC\\VCPackages"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "D:\\VisualStudioTool\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\Extensions\\Microsoft\\CodeCoverage.Console"
+        - "D:\\Windows Kits\\10\\bin\\10.0.26100.0\\\\x64"
+        - "D:\\Windows Kits\\10\\bin\\\\x64"
+        - "D:\\VisualStudioTool\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\"
+        - "D:\\VisualStudioTool\\Common7\\Tools\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Windows\\RCC-Interface"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\Go\\bin"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\admin\\.cargo\\bin"
+        - "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\"
+        - "C:\\Users\\admin\\.dotnet\\tools"
+        - "C:\\Users\\admin\\go\\bin"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "D:\\VisualStudioTool\\VC\\vcpkg"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeFindBinUtils.cmake:37 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeFindBinUtils.cmake:64 (__resolve_tool_path)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeFindBinUtils.cmake:103 (__resolve_linker_path)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "_CMAKE_TOOL_WITH_PATH"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "lld-link"
+    candidate_directories:
+      - "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/"
+      - "D:/VisualStudioTool/Common7/IDE/VC/vcpackages/"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/TestWindow/"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/Roslyn/"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/"
+      - "D:/VisualStudioTool/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/"
+      - "D:/Windows Kits/10/bin/10.0.26100.0/x64/"
+      - "D:/Windows Kits/10/bin/x64/"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/amd64/"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
+      - "D:/VisualStudioTool/Common7/IDE/"
+      - "D:/VisualStudioTool/Common7/Tools/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Windows/RCC-Interface/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/Go/bin/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/admin/.cargo/bin/"
+      - "C:/Users/admin/AppData/Local/Programs/Python/Python313/Scripts/"
+      - "C:/Users/admin/AppData/Local/Programs/Python/Python313/"
+      - "C:/Users/admin/.dotnet/tools/"
+      - "C:/Users/admin/go/bin/"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
+      - "D:/VisualStudioTool/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
+      - "D:/VisualStudioTool/VC/vcpkg/"
+    searched_directories:
+      - "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/lld-link.com"
+      - "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/lld-link.exe"
+      - "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/lld-link"
+      - "D:/VisualStudioTool/Common7/IDE/VC/vcpackages/lld-link.com"
+      - "D:/VisualStudioTool/Common7/IDE/VC/vcpackages/lld-link.exe"
+      - "D:/VisualStudioTool/Common7/IDE/VC/vcpackages/lld-link"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/TestWindow/lld-link.com"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/TestWindow/lld-link.exe"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/TestWindow/lld-link"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/Roslyn/lld-link.com"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/Roslyn/lld-link.exe"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/Roslyn/lld-link"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/lld-link.com"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/lld-link.exe"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/lld-link"
+      - "D:/VisualStudioTool/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/lld-link.com"
+      - "D:/VisualStudioTool/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/lld-link.exe"
+      - "D:/VisualStudioTool/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/lld-link"
+      - "D:/Windows Kits/10/bin/10.0.26100.0/x64/lld-link.com"
+      - "D:/Windows Kits/10/bin/10.0.26100.0/x64/lld-link.exe"
+      - "D:/Windows Kits/10/bin/10.0.26100.0/x64/lld-link"
+      - "D:/Windows Kits/10/bin/x64/lld-link.com"
+      - "D:/Windows Kits/10/bin/x64/lld-link.exe"
+      - "D:/Windows Kits/10/bin/x64/lld-link"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/amd64/lld-link.com"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/amd64/lld-link.exe"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/amd64/lld-link"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/lld-link.com"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/lld-link.exe"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/lld-link"
+      - "D:/VisualStudioTool/Common7/IDE/lld-link.com"
+      - "D:/VisualStudioTool/Common7/IDE/lld-link.exe"
+      - "D:/VisualStudioTool/Common7/IDE/lld-link"
+      - "D:/VisualStudioTool/Common7/Tools/lld-link.com"
+      - "D:/VisualStudioTool/Common7/Tools/lld-link.exe"
+      - "D:/VisualStudioTool/Common7/Tools/lld-link"
+      - "C:/Windows/System32/lld-link.com"
+      - "C:/Windows/System32/lld-link.exe"
+      - "C:/Windows/System32/lld-link"
+      - "C:/Windows/lld-link.com"
+      - "C:/Windows/lld-link.exe"
+      - "C:/Windows/lld-link"
+      - "C:/Windows/System32/wbem/lld-link.com"
+      - "C:/Windows/System32/wbem/lld-link.exe"
+      - "C:/Windows/System32/wbem/lld-link"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/lld-link.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/lld-link.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/lld-link"
+      - "C:/Windows/System32/OpenSSH/lld-link.com"
+      - "C:/Windows/System32/OpenSSH/lld-link.exe"
+      - "C:/Windows/System32/OpenSSH/lld-link"
+      - "C:/Windows/RCC-Interface/lld-link.com"
+      - "C:/Windows/RCC-Interface/lld-link.exe"
+      - "C:/Windows/RCC-Interface/lld-link"
+      - "C:/Program Files/dotnet/lld-link.com"
+      - "C:/Program Files/dotnet/lld-link.exe"
+      - "C:/Program Files/dotnet/lld-link"
+      - "C:/Program Files/Go/bin/lld-link.com"
+      - "C:/Program Files/Go/bin/lld-link.exe"
+      - "C:/Program Files/Go/bin/lld-link"
+      - "C:/Program Files/CMake/bin/lld-link.com"
+      - "C:/Program Files/CMake/bin/lld-link.exe"
+      - "C:/Program Files/CMake/bin/lld-link"
+      - "C:/Users/admin/.cargo/bin/lld-link.com"
+      - "C:/Users/admin/.cargo/bin/lld-link.exe"
+      - "C:/Users/admin/.cargo/bin/lld-link"
+      - "C:/Users/admin/AppData/Local/Programs/Python/Python313/Scripts/lld-link.com"
+      - "C:/Users/admin/AppData/Local/Programs/Python/Python313/Scripts/lld-link.exe"
+      - "C:/Users/admin/AppData/Local/Programs/Python/Python313/Scripts/lld-link"
+      - "C:/Users/admin/AppData/Local/Programs/Python/Python313/lld-link.com"
+      - "C:/Users/admin/AppData/Local/Programs/Python/Python313/lld-link.exe"
+      - "C:/Users/admin/AppData/Local/Programs/Python/Python313/lld-link"
+      - "C:/Users/admin/.dotnet/tools/lld-link.com"
+      - "C:/Users/admin/.dotnet/tools/lld-link.exe"
+      - "C:/Users/admin/.dotnet/tools/lld-link"
+      - "C:/Users/admin/go/bin/lld-link.com"
+      - "C:/Users/admin/go/bin/lld-link.exe"
+      - "C:/Users/admin/go/bin/lld-link"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/lld-link.com"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/lld-link.exe"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/lld-link"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/lld-link.com"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/lld-link.exe"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/lld-link"
+      - "D:/VisualStudioTool/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/lld-link.com"
+      - "D:/VisualStudioTool/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/lld-link.exe"
+      - "D:/VisualStudioTool/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/lld-link"
+      - "D:/VisualStudioTool/VC/vcpkg/lld-link.com"
+      - "D:/VisualStudioTool/VC/vcpkg/lld-link.exe"
+      - "D:/VisualStudioTool/VC/vcpkg/lld-link"
+    found: false
+    search_context:
+      ENV{PATH}:
+        - "D:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\VC\\VCPackages"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "D:\\VisualStudioTool\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\Extensions\\Microsoft\\CodeCoverage.Console"
+        - "D:\\Windows Kits\\10\\bin\\10.0.26100.0\\\\x64"
+        - "D:\\Windows Kits\\10\\bin\\\\x64"
+        - "D:\\VisualStudioTool\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\"
+        - "D:\\VisualStudioTool\\Common7\\Tools\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Windows\\RCC-Interface"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\Go\\bin"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\admin\\.cargo\\bin"
+        - "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\"
+        - "C:\\Users\\admin\\.dotnet\\tools"
+        - "C:\\Users\\admin\\go\\bin"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "D:\\VisualStudioTool\\VC\\vcpkg"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeFindBinUtils.cmake:247 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_LINKER"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "link"
+    candidate_directories:
+      - "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/"
+      - "D:/VisualStudioTool/Common7/IDE/VC/vcpackages/"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/TestWindow/"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/Roslyn/"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/"
+      - "D:/VisualStudioTool/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/"
+      - "D:/Windows Kits/10/bin/10.0.26100.0/x64/"
+      - "D:/Windows Kits/10/bin/x64/"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/amd64/"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
+      - "D:/VisualStudioTool/Common7/IDE/"
+      - "D:/VisualStudioTool/Common7/Tools/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Windows/RCC-Interface/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/Go/bin/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/admin/.cargo/bin/"
+      - "C:/Users/admin/AppData/Local/Programs/Python/Python313/Scripts/"
+      - "C:/Users/admin/AppData/Local/Programs/Python/Python313/"
+      - "C:/Users/admin/.dotnet/tools/"
+      - "C:/Users/admin/go/bin/"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
+      - "D:/VisualStudioTool/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
+      - "D:/VisualStudioTool/VC/vcpkg/"
+    searched_directories:
+      - "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/link.com"
+    found: "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/link.exe"
+    search_context:
+      ENV{PATH}:
+        - "D:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\VC\\VCPackages"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "D:\\VisualStudioTool\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\Extensions\\Microsoft\\CodeCoverage.Console"
+        - "D:\\Windows Kits\\10\\bin\\10.0.26100.0\\\\x64"
+        - "D:\\Windows Kits\\10\\bin\\\\x64"
+        - "D:\\VisualStudioTool\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\"
+        - "D:\\VisualStudioTool\\Common7\\Tools\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Windows\\RCC-Interface"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\Go\\bin"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\admin\\.cargo\\bin"
+        - "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\"
+        - "C:\\Users\\admin\\.dotnet\\tools"
+        - "C:\\Users\\admin\\go\\bin"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "D:\\VisualStudioTool\\VC\\vcpkg"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeFindBinUtils.cmake:247 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_MT"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "mt"
+    candidate_directories:
+      - "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/"
+      - "D:/VisualStudioTool/Common7/IDE/VC/vcpackages/"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/TestWindow/"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/Roslyn/"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/"
+      - "D:/VisualStudioTool/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/"
+      - "D:/Windows Kits/10/bin/10.0.26100.0/x64/"
+      - "D:/Windows Kits/10/bin/x64/"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/amd64/"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
+      - "D:/VisualStudioTool/Common7/IDE/"
+      - "D:/VisualStudioTool/Common7/Tools/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Windows/RCC-Interface/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/Go/bin/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/admin/.cargo/bin/"
+      - "C:/Users/admin/AppData/Local/Programs/Python/Python313/Scripts/"
+      - "C:/Users/admin/AppData/Local/Programs/Python/Python313/"
+      - "C:/Users/admin/.dotnet/tools/"
+      - "C:/Users/admin/go/bin/"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
+      - "D:/VisualStudioTool/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
+      - "D:/VisualStudioTool/VC/vcpkg/"
+    searched_directories:
+      - "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/mt.com"
+      - "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/mt.exe"
+      - "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/mt"
+      - "D:/VisualStudioTool/Common7/IDE/VC/vcpackages/mt.com"
+      - "D:/VisualStudioTool/Common7/IDE/VC/vcpackages/mt.exe"
+      - "D:/VisualStudioTool/Common7/IDE/VC/vcpackages/mt"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/TestWindow/mt.com"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/TestWindow/mt.exe"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/TestWindow/mt"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/Roslyn/mt.com"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/Roslyn/mt.exe"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/Roslyn/mt"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/mt.com"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/mt.exe"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/mt"
+      - "D:/VisualStudioTool/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/mt.com"
+      - "D:/VisualStudioTool/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/mt.exe"
+      - "D:/VisualStudioTool/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/mt"
+      - "D:/Windows Kits/10/bin/10.0.26100.0/x64/mt.com"
+    found: "D:/Windows Kits/10/bin/10.0.26100.0/x64/mt.exe"
+    search_context:
+      ENV{PATH}:
+        - "D:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\VC\\VCPackages"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "D:\\VisualStudioTool\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\Extensions\\Microsoft\\CodeCoverage.Console"
+        - "D:\\Windows Kits\\10\\bin\\10.0.26100.0\\\\x64"
+        - "D:\\Windows Kits\\10\\bin\\\\x64"
+        - "D:\\VisualStudioTool\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\"
+        - "D:\\VisualStudioTool\\Common7\\Tools\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Windows\\RCC-Interface"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\Go\\bin"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\admin\\.cargo\\bin"
+        - "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\"
+        - "C:\\Users\\admin\\.dotnet\\tools"
+        - "C:\\Users\\admin\\go\\bin"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "D:\\VisualStudioTool\\VC\\vcpkg"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeFindBinUtils.cmake:247 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_AR"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "lib"
+    candidate_directories:
+      - "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/"
+      - "D:/VisualStudioTool/Common7/IDE/VC/vcpackages/"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/TestWindow/"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/Roslyn/"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/"
+      - "D:/VisualStudioTool/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/"
+      - "D:/Windows Kits/10/bin/10.0.26100.0/x64/"
+      - "D:/Windows Kits/10/bin/x64/"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/amd64/"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
+      - "D:/VisualStudioTool/Common7/IDE/"
+      - "D:/VisualStudioTool/Common7/Tools/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Windows/RCC-Interface/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/Go/bin/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/admin/.cargo/bin/"
+      - "C:/Users/admin/AppData/Local/Programs/Python/Python313/Scripts/"
+      - "C:/Users/admin/AppData/Local/Programs/Python/Python313/"
+      - "C:/Users/admin/.dotnet/tools/"
+      - "C:/Users/admin/go/bin/"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
+      - "D:/VisualStudioTool/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
+      - "D:/VisualStudioTool/VC/vcpkg/"
+    searched_directories:
+      - "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/lib.com"
+    found: "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/lib.exe"
+    search_context:
+      ENV{PATH}:
+        - "D:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\VC\\VCPackages"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "D:\\VisualStudioTool\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\Extensions\\Microsoft\\CodeCoverage.Console"
+        - "D:\\Windows Kits\\10\\bin\\10.0.26100.0\\\\x64"
+        - "D:\\Windows Kits\\10\\bin\\\\x64"
+        - "D:\\VisualStudioTool\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\"
+        - "D:\\VisualStudioTool\\Common7\\Tools\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Windows\\RCC-Interface"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\Go\\bin"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\admin\\.cargo\\bin"
+        - "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\"
+        - "C:\\Users\\admin\\.dotnet\\tools"
+        - "C:\\Users\\admin\\go\\bin"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "D:\\VisualStudioTool\\VC\\vcpkg"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineRCCompiler.cmake:40 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/Platform/Windows-MSVC.cmake:592 (enable_language)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/Platform/Windows-MSVC.cmake:565 (__windows_compiler_msvc_enable_rc)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/Platform/Windows-MSVC-CXX.cmake:6 (__windows_compiler_msvc)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeCXXInformation.cmake:48 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_RC_COMPILER"
+    description: "RC compiler"
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "rc"
+    candidate_directories:
+      - "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/"
+      - "D:/VisualStudioTool/Common7/IDE/VC/vcpackages/"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/TestWindow/"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/Roslyn/"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/"
+      - "D:/VisualStudioTool/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/"
+      - "D:/Windows Kits/10/bin/10.0.26100.0/x64/"
+      - "D:/Windows Kits/10/bin/x64/"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/amd64/"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
+      - "D:/VisualStudioTool/Common7/IDE/"
+      - "D:/VisualStudioTool/Common7/Tools/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Windows/RCC-Interface/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/Go/bin/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/admin/.cargo/bin/"
+      - "C:/Users/admin/AppData/Local/Programs/Python/Python313/Scripts/"
+      - "C:/Users/admin/AppData/Local/Programs/Python/Python313/"
+      - "C:/Users/admin/.dotnet/tools/"
+      - "C:/Users/admin/go/bin/"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
+      - "D:/VisualStudioTool/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
+      - "D:/VisualStudioTool/VC/vcpkg/"
+      - "C:/Program Files/bin/"
+      - "C:/Program Files/sbin/"
+      - "C:/Program Files/"
+      - "C:/Program Files (x86)/bin/"
+      - "C:/Program Files (x86)/sbin/"
+      - "C:/Program Files (x86)/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files/CMake/sbin/"
+      - "C:/Program Files/CMake/"
+      - "C:/Program Files/nineyin_cpp_server/bin/"
+      - "C:/Program Files/nineyin_cpp_server/sbin/"
+      - "C:/Program Files/nineyin_cpp_server/"
+    searched_directories:
+      - "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/rc.com"
+      - "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/rc.exe"
+      - "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/rc"
+      - "D:/VisualStudioTool/Common7/IDE/VC/vcpackages/rc.com"
+      - "D:/VisualStudioTool/Common7/IDE/VC/vcpackages/rc.exe"
+      - "D:/VisualStudioTool/Common7/IDE/VC/vcpackages/rc"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/TestWindow/rc.com"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/TestWindow/rc.exe"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/TestWindow/rc"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/Roslyn/rc.com"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/Roslyn/rc.exe"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/Roslyn/rc"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/rc.com"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/rc.exe"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/rc"
+      - "D:/VisualStudioTool/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/rc.com"
+      - "D:/VisualStudioTool/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/rc.exe"
+      - "D:/VisualStudioTool/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/rc"
+      - "D:/Windows Kits/10/bin/10.0.26100.0/x64/rc.com"
+    found: "D:/Windows Kits/10/bin/10.0.26100.0/x64/rc.exe"
+    search_context:
+      ENV{PATH}:
+        - "D:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\VC\\VCPackages"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "D:\\VisualStudioTool\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\Extensions\\Microsoft\\CodeCoverage.Console"
+        - "D:\\Windows Kits\\10\\bin\\10.0.26100.0\\\\x64"
+        - "D:\\Windows Kits\\10\\bin\\\\x64"
+        - "D:\\VisualStudioTool\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\"
+        - "D:\\VisualStudioTool\\Common7\\Tools\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Windows\\RCC-Interface"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\Go\\bin"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\admin\\.cargo\\bin"
+        - "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\"
+        - "C:\\Users\\admin\\.dotnet\\tools"
+        - "C:\\Users\\admin\\go\\bin"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "D:\\VisualStudioTool\\VC\\vcpkg"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files/nineyin_cpp_server"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Program Files/CMake"
+        - "C:/Program Files/nineyin_cpp_server"
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCompilerABI.cmake:123 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "D:/RjDir/admin_98626617-3896-47e0-b5de-cfe58b401590/Desktop/project/9yin-cpp-server/build/CMakeFiles/CMakeScratch/TryCompile-xhdo4v"
+      binary: "D:/RjDir/admin_98626617-3896-47e0-b5de-cfe58b401590/Desktop/project/9yin-cpp-server/build/CMakeFiles/CMakeScratch/TryCompile-xhdo4v"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
+      CMAKE_CXX_STDLIB_MODULES_JSON: ""
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: false
+      stdout: |
+        Change Dir: 'D:/RjDir/admin_98626617-3896-47e0-b5de-cfe58b401590/Desktop/project/9yin-cpp-server/build/CMakeFiles/CMakeScratch/TryCompile-xhdo4v'
+        
+        Run Build Command(s): D:/VisualStudioTool/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_56a48.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
+        閫傜敤浜?.NET Framework MSBuild 鐗堟湰 18.10.1-1.26427.6+3cd27c13e
+        鐢熸垚鍚姩鏃堕棿涓?2026/9/27 0:53:28銆?
+        
+        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-xhdo4v\\cmTC_56a48.vcxproj鈥?榛樿鐩爣)銆?
+        PrepareForBuild:
+          宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
+          姝ｅ湪鍒涘缓鐩綍鈥淒:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-xhdo4v\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_56a48.dir\\Debug\\cmTC_56a48.tlog\\鈥濄€?
+        InitializeBuildStatus:
+          姝ｅ湪鍒涘缓鈥渃mTC_56a48.dir\\Debug\\cmTC_56a48.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_56a48.dir\\Debug\\cmTC_56a48.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+        ClCompile:
+          D:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /Fo"cmTC_56a48.dir\\Debug\\\\" /Fd"cmTC_56a48.dir\\Debug\\vc145.pdb" /external:W1 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCXXCompilerABI.cpp"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.51.36257 for x64
+          鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /Fo"cmTC_56a48.dir\\Debug\\\\" /Fd"cmTC_56a48.dir\\Debug\\vc145.pdb" /external:W1 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCXXCompilerABI.cpp"
+          CMakeCXXCompilerABI.cpp
+        Link:
+          D:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe /OUT:"D:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-xhdo4v\\Debug\\cmTC_56a48.exe" /INCREMENTAL /ILK:"cmTC_56a48.dir\\Debug\\cmTC_56a48.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/RjDir/admin_98626617-3896-47e0-b5de-cfe58b401590/Desktop/project/9yin-cpp-server/build/CMakeFiles/CMakeScratch/TryCompile-xhdo4v/Debug/cmTC_56a48.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"D:/RjDir/admin_98626617-3896-47e0-b5de-cfe58b401590/Desktop/project/9yin-cpp-server/build/CMakeFiles/CMakeScratch/TryCompile-xhdo4v/Debug/cmTC_56a48.lib" /MACHINE:X64  /machine:x64 cmTC_56a48.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_56a48.vcxproj -> D:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-xhdo4v\\Debug\\cmTC_56a48.exe
+        FinalizeBuildStatus:
+          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_56a48.dir\\Debug\\cmTC_56a48.tlog\\unsuccessfulbuild鈥濄€?
+          姝ｅ湪瀵光€渃mTC_56a48.dir\\Debug\\cmTC_56a48.tlog\\cmTC_56a48.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
+        宸插畬鎴愮敓鎴愰」鐩€淒:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-xhdo4v\\cmTC_56a48.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+        
+        宸叉垚鍔熺敓鎴愩€?
+            0 涓鍛?
+            0 涓敊璇?
+        
+        宸茬敤鏃堕棿 00:00:02.94
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCompilerABI.cmake:291 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Parsed CXX implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
+        link line: [  D:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe /OUT:"D:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-xhdo4v\\Debug\\cmTC_56a48.exe" /INCREMENTAL /ILK:"cmTC_56a48.dir\\Debug\\cmTC_56a48.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/RjDir/admin_98626617-3896-47e0-b5de-cfe58b401590/Desktop/project/9yin-cpp-server/build/CMakeFiles/CMakeScratch/TryCompile-xhdo4v/Debug/cmTC_56a48.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"D:/RjDir/admin_98626617-3896-47e0-b5de-cfe58b401590/Desktop/project/9yin-cpp-server/build/CMakeFiles/CMakeScratch/TryCompile-xhdo4v/Debug/cmTC_56a48.lib" /MACHINE:X64  /machine:x64 cmTC_56a48.dir\\Debug\\CMakeCXXCompilerABI.obj] ==> linker [D:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe]
+        linker tool for 'CXX': D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/bin/HostX64/x64/link.exe 
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/Internal/CMakeDetermineLinkerId.cmake:41 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCompilerABI.cmake:337 (cmake_determine_linker_id)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Running the CXX compiler's linker: "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/bin/HostX64/x64/link.exe" "-v"
+      Microsoft (R) Incremental Linker Version 14.51.36257.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+  -
+    kind: "find-v1"
+    backtrace:
+      - "CMakeLists.txt:29 (find_path)"
+    mode: "path"
+    variable: "MYSQL_INCLUDE_DIR"
+    description: "Path to a file."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "mysql.h"
+    candidate_directories:
+      - "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/include/mysql/"
+      - "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/include/"
+      - "D:/VisualStudioTool/VC/Auxiliary/VS/include/mysql/"
+      - "D:/VisualStudioTool/VC/Auxiliary/VS/include/"
+      - "D:/Windows Kits/10/Include/10.0.26100.0/ucrt/mysql/"
+      - "D:/Windows Kits/10/Include/10.0.26100.0/ucrt/"
+      - "D:/Windows Kits/10/Include/10.0.26100.0/um/mysql/"
+      - "D:/Windows Kits/10/Include/10.0.26100.0/um/"
+      - "D:/Windows Kits/10/Include/10.0.26100.0/shared/mysql/"
+      - "D:/Windows Kits/10/Include/10.0.26100.0/shared/"
+      - "D:/Windows Kits/10/Include/10.0.26100.0/winrt/mysql/"
+      - "D:/Windows Kits/10/Include/10.0.26100.0/winrt/"
+      - "D:/Windows Kits/10/Include/10.0.26100.0/cppwinrt/mysql/"
+      - "D:/Windows Kits/10/Include/10.0.26100.0/cppwinrt/"
+      - "C:/Program Files (x86)/Windows Kits/NETFXSDK/4.8/Include/um/mysql/"
+      - "C:/Program Files (x86)/Windows Kits/NETFXSDK/4.8/Include/um/"
+      - "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/mysql/"
+      - "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/"
+      - "D:/VisualStudioTool/Common7/IDE/VC/vcpackages/mysql/"
+      - "D:/VisualStudioTool/Common7/IDE/VC/vcpackages/"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/TestWindow/mysql/"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/TestWindow/"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/Roslyn/mysql/"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/Roslyn/"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/mysql/"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/"
+      - "D:/VisualStudioTool/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/mysql/"
+      - "D:/VisualStudioTool/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/"
+      - "D:/Windows Kits/10/bin/10.0.26100.0/x64/mysql/"
+      - "D:/Windows Kits/10/bin/10.0.26100.0/x64/"
+      - "D:/Windows Kits/10/bin/x64/mysql/"
+      - "D:/Windows Kits/10/bin/x64/"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/amd64/mysql/"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/amd64/"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/mysql/"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
+      - "D:/VisualStudioTool/Common7/IDE/mysql/"
+      - "D:/VisualStudioTool/Common7/IDE/"
+      - "D:/VisualStudioTool/Common7/Tools/mysql/"
+      - "D:/VisualStudioTool/Common7/Tools/"
+      - "C:/Windows/System32/mysql/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/mysql/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/mysql/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/mysql/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/mysql/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Windows/RCC-Interface/mysql/"
+      - "C:/Windows/RCC-Interface/"
+      - "C:/Program Files/dotnet/mysql/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/Go/bin/mysql/"
+      - "C:/Program Files/Go/bin/"
+      - "C:/Program Files/CMake/bin/mysql/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/admin/.cargo/bin/mysql/"
+      - "C:/Users/admin/.cargo/bin/"
+      - "C:/Users/admin/AppData/Local/Programs/Python/Python313/Scripts/mysql/"
+      - "C:/Users/admin/AppData/Local/Programs/Python/Python313/Scripts/"
+      - "C:/Users/admin/AppData/Local/Programs/Python/Python313/mysql/"
+      - "C:/Users/admin/AppData/Local/Programs/Python/Python313/"
+      - "C:/Users/admin/.dotnet/tools/mysql/"
+      - "C:/Users/admin/.dotnet/tools/"
+      - "C:/Users/admin/go/bin/mysql/"
+      - "C:/Users/admin/go/bin/"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/mysql/"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/mysql/"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
+      - "D:/VisualStudioTool/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/mysql/"
+      - "D:/VisualStudioTool/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
+      - "D:/VisualStudioTool/VC/vcpkg/mysql/"
+      - "D:/VisualStudioTool/VC/vcpkg/"
+      - "C:/Program Files/include/mysql/"
+      - "C:/Program Files/include/"
+      - "C:/Program Files/mysql/"
+      - "C:/Program Files/"
+      - "C:/Program Files (x86)/include/mysql/"
+      - "C:/Program Files (x86)/include/"
+      - "C:/Program Files (x86)/mysql/"
+      - "C:/Program Files (x86)/"
+      - "C:/Program Files/CMake/include/mysql/"
+      - "C:/Program Files/CMake/include/"
+      - "C:/Program Files/CMake/mysql/"
+      - "C:/Program Files/CMake/"
+      - "C:/Program Files/nineyin_cpp_server/include/mysql/"
+      - "C:/Program Files/nineyin_cpp_server/include/"
+      - "C:/Program Files/nineyin_cpp_server/mysql/"
+      - "C:/Program Files/nineyin_cpp_server/"
+      - "C:/Program Files/MySQL/MySQL Server 8.0/include/mysql/"
+      - "C:/Program Files/MySQL/MySQL Server 8.0/include/"
+      - "C:/Program Files/MySQL/MySQL Server 8.4/include/mysql/"
+      - "C:/Program Files/MySQL/MySQL Server 8.4/include/"
+      - "D:/RjDir/admin_98626617-3896-47e0-b5de-cfe58b401590/Desktop/project/9yin-cpp-server/mysql-server/mysql-26.7.0-winx64/include/mysql/"
+      - "D:/RjDir/admin_98626617-3896-47e0-b5de-cfe58b401590/Desktop/project/9yin-cpp-server/mysql-server/mysql-26.7.0-winx64/include/"
+    searched_directories:
+      - "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/include/mysql/mysql.h"
+      - "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/include/mysql.h"
+      - "D:/VisualStudioTool/VC/Auxiliary/VS/include/mysql/mysql.h"
+      - "D:/VisualStudioTool/VC/Auxiliary/VS/include/mysql.h"
+      - "D:/Windows Kits/10/Include/10.0.26100.0/ucrt/mysql/mysql.h"
+      - "D:/Windows Kits/10/Include/10.0.26100.0/ucrt/mysql.h"
+      - "D:/Windows Kits/10/Include/10.0.26100.0/um/mysql/mysql.h"
+      - "D:/Windows Kits/10/Include/10.0.26100.0/um/mysql.h"
+      - "D:/Windows Kits/10/Include/10.0.26100.0/shared/mysql/mysql.h"
+      - "D:/Windows Kits/10/Include/10.0.26100.0/shared/mysql.h"
+      - "D:/Windows Kits/10/Include/10.0.26100.0/winrt/mysql/mysql.h"
+      - "D:/Windows Kits/10/Include/10.0.26100.0/winrt/mysql.h"
+      - "D:/Windows Kits/10/Include/10.0.26100.0/cppwinrt/mysql/mysql.h"
+      - "D:/Windows Kits/10/Include/10.0.26100.0/cppwinrt/mysql.h"
+      - "C:/Program Files (x86)/Windows Kits/NETFXSDK/4.8/Include/um/mysql/mysql.h"
+      - "C:/Program Files (x86)/Windows Kits/NETFXSDK/4.8/Include/um/mysql.h"
+      - "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/mysql/mysql.h"
+      - "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/mysql.h"
+      - "D:/VisualStudioTool/Common7/IDE/VC/vcpackages/mysql/mysql.h"
+      - "D:/VisualStudioTool/Common7/IDE/VC/vcpackages/mysql.h"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/TestWindow/mysql/mysql.h"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/TestWindow/mysql.h"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/Roslyn/mysql/mysql.h"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/Roslyn/mysql.h"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/mysql/mysql.h"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/mysql.h"
+      - "D:/VisualStudioTool/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/mysql/mysql.h"
+      - "D:/VisualStudioTool/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/mysql.h"
+      - "D:/Windows Kits/10/bin/10.0.26100.0/x64/mysql/mysql.h"
+      - "D:/Windows Kits/10/bin/10.0.26100.0/x64/mysql.h"
+      - "D:/Windows Kits/10/bin/x64/mysql/mysql.h"
+      - "D:/Windows Kits/10/bin/x64/mysql.h"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/amd64/mysql/mysql.h"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/amd64/mysql.h"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/mysql/mysql.h"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/mysql.h"
+      - "D:/VisualStudioTool/Common7/IDE/mysql/mysql.h"
+      - "D:/VisualStudioTool/Common7/IDE/mysql.h"
+      - "D:/VisualStudioTool/Common7/Tools/mysql/mysql.h"
+      - "D:/VisualStudioTool/Common7/Tools/mysql.h"
+      - "C:/Windows/System32/mysql/mysql.h"
+      - "C:/Windows/System32/mysql.h"
+      - "C:/Windows/mysql/mysql.h"
+      - "C:/Windows/mysql.h"
+      - "C:/Windows/System32/wbem/mysql/mysql.h"
+      - "C:/Windows/System32/wbem/mysql.h"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/mysql/mysql.h"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/mysql.h"
+      - "C:/Windows/System32/OpenSSH/mysql/mysql.h"
+      - "C:/Windows/System32/OpenSSH/mysql.h"
+      - "C:/Windows/RCC-Interface/mysql/mysql.h"
+      - "C:/Windows/RCC-Interface/mysql.h"
+      - "C:/Program Files/dotnet/mysql/mysql.h"
+      - "C:/Program Files/dotnet/mysql.h"
+      - "C:/Program Files/Go/bin/mysql/mysql.h"
+      - "C:/Program Files/Go/bin/mysql.h"
+      - "C:/Program Files/CMake/bin/mysql/mysql.h"
+      - "C:/Program Files/CMake/bin/mysql.h"
+      - "C:/Users/admin/.cargo/bin/mysql/mysql.h"
+      - "C:/Users/admin/.cargo/bin/mysql.h"
+      - "C:/Users/admin/AppData/Local/Programs/Python/Python313/Scripts/mysql/mysql.h"
+      - "C:/Users/admin/AppData/Local/Programs/Python/Python313/Scripts/mysql.h"
+      - "C:/Users/admin/AppData/Local/Programs/Python/Python313/mysql/mysql.h"
+      - "C:/Users/admin/AppData/Local/Programs/Python/Python313/mysql.h"
+      - "C:/Users/admin/.dotnet/tools/mysql/mysql.h"
+      - "C:/Users/admin/.dotnet/tools/mysql.h"
+      - "C:/Users/admin/go/bin/mysql/mysql.h"
+      - "C:/Users/admin/go/bin/mysql.h"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/mysql/mysql.h"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/mysql.h"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/mysql/mysql.h"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/mysql.h"
+      - "D:/VisualStudioTool/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/mysql/mysql.h"
+      - "D:/VisualStudioTool/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/mysql.h"
+      - "D:/VisualStudioTool/VC/vcpkg/mysql/mysql.h"
+      - "D:/VisualStudioTool/VC/vcpkg/mysql.h"
+      - "C:/Program Files/include/mysql/mysql.h"
+      - "C:/Program Files/include/mysql.h"
+      - "C:/Program Files/mysql/mysql.h"
+      - "C:/Program Files/mysql.h"
+      - "C:/Program Files (x86)/include/mysql/mysql.h"
+      - "C:/Program Files (x86)/include/mysql.h"
+      - "C:/Program Files (x86)/mysql/mysql.h"
+      - "C:/Program Files (x86)/mysql.h"
+      - "C:/Program Files/CMake/include/mysql/mysql.h"
+      - "C:/Program Files/CMake/include/mysql.h"
+      - "C:/Program Files/CMake/mysql/mysql.h"
+      - "C:/Program Files/CMake/mysql.h"
+      - "C:/Program Files/nineyin_cpp_server/include/mysql/mysql.h"
+      - "C:/Program Files/nineyin_cpp_server/include/mysql.h"
+      - "C:/Program Files/nineyin_cpp_server/mysql/mysql.h"
+      - "C:/Program Files/nineyin_cpp_server/mysql.h"
+      - "C:/Program Files/MySQL/MySQL Server 8.0/include/mysql/mysql.h"
+      - "C:/Program Files/MySQL/MySQL Server 8.0/include/mysql.h"
+      - "C:/Program Files/MySQL/MySQL Server 8.4/include/mysql/mysql.h"
+      - "C:/Program Files/MySQL/MySQL Server 8.4/include/mysql.h"
+      - "D:/RjDir/admin_98626617-3896-47e0-b5de-cfe58b401590/Desktop/project/9yin-cpp-server/mysql-server/mysql-26.7.0-winx64/include/mysql/mysql.h"
+    found: "D:/RjDir/admin_98626617-3896-47e0-b5de-cfe58b401590/Desktop/project/9yin-cpp-server/mysql-server/mysql-26.7.0-winx64/include/"
+    search_context:
+      ENV{PATH}:
+        - "D:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\VC\\VCPackages"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "D:\\VisualStudioTool\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\Extensions\\Microsoft\\CodeCoverage.Console"
+        - "D:\\Windows Kits\\10\\bin\\10.0.26100.0\\\\x64"
+        - "D:\\Windows Kits\\10\\bin\\\\x64"
+        - "D:\\VisualStudioTool\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\"
+        - "D:\\VisualStudioTool\\Common7\\Tools\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Windows\\RCC-Interface"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\Go\\bin"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\admin\\.cargo\\bin"
+        - "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\"
+        - "C:\\Users\\admin\\.dotnet\\tools"
+        - "C:\\Users\\admin\\go\\bin"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "D:\\VisualStudioTool\\VC\\vcpkg"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files/nineyin_cpp_server"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Program Files/CMake"
+        - "C:/Program Files/nineyin_cpp_server"
+      ENV{INCLUDE}:
+        - "D:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\include"
+        - "D:\\VisualStudioTool\\VC\\Auxiliary\\VS\\include"
+        - "D:\\Windows Kits\\10\\include\\10.0.26100.0\\ucrt"
+        - "D:\\Windows Kits\\10\\\\include\\10.0.26100.0\\\\um"
+        - "D:\\Windows Kits\\10\\\\include\\10.0.26100.0\\\\shared"
+        - "D:\\Windows Kits\\10\\\\include\\10.0.26100.0\\\\winrt"
+        - "D:\\Windows Kits\\10\\\\include\\10.0.26100.0\\\\cppwinrt"
+        - "C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\include\\um"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "CMakeLists.txt:37 (find_library)"
+    mode: "library"
+    variable: "MYSQL_LIBRARY"
+    description: "Path to a library."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "libmysql"
+      - "libmysqlclient"
+      - "mysqlclient"
+    candidate_directories:
+      - "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/lib/x64/"
+      - "C:/Program Files (x86)/Windows Kits/NETFXSDK/4.8/Lib/um/x64/"
+      - "D:/Windows Kits/10/Lib/10.0.26100.0/ucrt/x64/"
+      - "D:/Windows Kits/10/Lib/10.0.26100.0/um/x64/"
+      - "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/"
+      - "D:/VisualStudioTool/Common7/IDE/VC/vcpackages/"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/TestWindow/"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/Roslyn/"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/"
+      - "D:/VisualStudioTool/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/"
+      - "D:/Windows Kits/10/bin/10.0.26100.0/x64/"
+      - "D:/Windows Kits/10/bin/x64/"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/amd64/"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
+      - "D:/VisualStudioTool/Common7/IDE/"
+      - "D:/VisualStudioTool/Common7/Tools/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Windows/RCC-Interface/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/Go/bin/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/admin/.cargo/bin/"
+      - "C:/Users/admin/AppData/Local/Programs/Python/Python313/Scripts/"
+      - "C:/Users/admin/AppData/Local/Programs/Python/Python313/"
+      - "C:/Users/admin/.dotnet/tools/"
+      - "C:/Users/admin/go/bin/"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
+      - "D:/VisualStudioTool/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
+      - "D:/VisualStudioTool/VC/vcpkg/"
+      - "C:/Program Files/lib/"
+      - "C:/Program Files/"
+      - "C:/Program Files (x86)/lib/"
+      - "C:/Program Files (x86)/"
+      - "C:/Program Files/CMake/lib/"
+      - "C:/Program Files/CMake/"
+      - "C:/Program Files/nineyin_cpp_server/lib/"
+      - "C:/Program Files/nineyin_cpp_server/"
+      - "C:/Program Files/nineyin_cpp_server/bin/"
+      - "/bin/"
+      - "C:/Program Files/MySQL/MySQL Server 8.0/lib/"
+      - "C:/Program Files/MySQL/MySQL Server 8.4/lib/"
+      - "D:/RjDir/admin_98626617-3896-47e0-b5de-cfe58b401590/Desktop/project/9yin-cpp-server/mysql-server/mysql-26.7.0-winx64/lib/"
+    searched_directories:
+      - "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/lib/x64/"
+      - "C:/Program Files (x86)/Windows Kits/NETFXSDK/4.8/Lib/um/x64/"
+      - "D:/Windows Kits/10/Lib/10.0.26100.0/ucrt/x64/"
+      - "D:/Windows Kits/10/Lib/10.0.26100.0/um/x64/"
+      - "D:/VisualStudioTool/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/"
+      - "D:/VisualStudioTool/Common7/IDE/VC/vcpackages/"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/TestWindow/"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/Roslyn/"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/"
+      - "D:/VisualStudioTool/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/"
+      - "D:/Windows Kits/10/bin/10.0.26100.0/x64/"
+      - "D:/Windows Kits/10/bin/x64/"
+      - "D:/VisualStudioTool/MSBuild/Current/Bin/amd64/"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
+      - "D:/VisualStudioTool/Common7/IDE/"
+      - "D:/VisualStudioTool/Common7/Tools/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Windows/RCC-Interface/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/Go/bin/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/admin/.cargo/bin/"
+      - "C:/Users/admin/AppData/Local/Programs/Python/Python313/Scripts/"
+      - "C:/Users/admin/AppData/Local/Programs/Python/Python313/"
+      - "C:/Users/admin/.dotnet/tools/"
+      - "C:/Users/admin/go/bin/"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
+      - "D:/VisualStudioTool/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
+      - "D:/VisualStudioTool/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
+      - "D:/VisualStudioTool/VC/vcpkg/"
+      - "C:/Program Files/lib/"
+      - "C:/Program Files/"
+      - "C:/Program Files (x86)/lib/"
+      - "C:/Program Files (x86)/"
+      - "C:/Program Files/CMake/lib/"
+      - "C:/Program Files/CMake/"
+      - "C:/Program Files/nineyin_cpp_server/lib/"
+      - "C:/Program Files/nineyin_cpp_server/"
+      - "C:/Program Files/nineyin_cpp_server/bin/"
+      - "/bin/"
+      - "C:/Program Files/MySQL/MySQL Server 8.0/lib/"
+      - "C:/Program Files/MySQL/MySQL Server 8.4/lib/"
+    found: "D:/RjDir/admin_98626617-3896-47e0-b5de-cfe58b401590/Desktop/project/9yin-cpp-server/mysql-server/mysql-26.7.0-winx64/lib/libmysql.lib"
+    search_context:
+      ENV{PATH}:
+        - "D:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\VC\\VCPackages"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "D:\\VisualStudioTool\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\Extensions\\Microsoft\\CodeCoverage.Console"
+        - "D:\\Windows Kits\\10\\bin\\10.0.26100.0\\\\x64"
+        - "D:\\Windows Kits\\10\\bin\\\\x64"
+        - "D:\\VisualStudioTool\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\"
+        - "D:\\VisualStudioTool\\Common7\\Tools\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Windows\\RCC-Interface"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\Go\\bin"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\admin\\.cargo\\bin"
+        - "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\"
+        - "C:\\Users\\admin\\.dotnet\\tools"
+        - "C:\\Users\\admin\\go\\bin"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "D:\\VisualStudioTool\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "D:\\VisualStudioTool\\VC\\vcpkg"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files/nineyin_cpp_server"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Program Files/CMake"
+        - "C:/Program Files/nineyin_cpp_server"
+      CMAKE_SYSTEM_LIBRARY_PATH:
+        - "C:/Program Files/nineyin_cpp_server/bin"
+        - "C:/Program Files/CMake/bin"
+        - "/bin"
+      ENV{LIB}:
+        - "D:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\lib\\x64"
+        - "C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\lib\\um\\x64"
+        - "D:\\Windows Kits\\10\\lib\\10.0.26100.0\\ucrt\\x64"
+        - "D:\\Windows Kits\\10\\\\lib\\10.0.26100.0\\\\um\\x64"
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/Internal/CheckSourceCompiles.cmake:81 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CheckCXXSourceCompiles.cmake:103 (cmake_check_source_compiles)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/FindThreads.cmake:162 (check_cxx_source_compiles)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/FindThreads.cmake:226 (_threads_check_libc)"
+      - "CMakeLists.txt:58 (find_package)"
+    checks:
+      - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
+    directories:
+      source: "D:/RjDir/admin_98626617-3896-47e0-b5de-cfe58b401590/Desktop/project/9yin-cpp-server/build/CMakeFiles/CMakeScratch/TryCompile-cfanud"
+      binary: "D:/RjDir/admin_98626617-3896-47e0-b5de-cfe58b401590/Desktop/project/9yin-cpp-server/build/CMakeFiles/CMakeScratch/TryCompile-cfanud"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_CXX_STDLIB_MODULES_JSON: ""
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_HAVE_LIBC_PTHREAD"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/RjDir/admin_98626617-3896-47e0-b5de-cfe58b401590/Desktop/project/9yin-cpp-server/build/CMakeFiles/CMakeScratch/TryCompile-cfanud'
+        
+        Run Build Command(s): D:/VisualStudioTool/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_5ee09.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
+        閫傜敤浜?.NET Framework MSBuild 鐗堟湰 18.10.1-1.26427.6+3cd27c13e
+        鐢熸垚鍚姩鏃堕棿涓?2026/9/27 0:53:33銆?
+        
+        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cfanud\\cmTC_5ee09.vcxproj鈥?榛樿鐩爣)銆?
+        PrepareForBuild:
+          宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
+          姝ｅ湪鍒涘缓鐩綍鈥淒:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cfanud\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_5ee09.dir\\Debug\\cmTC_5ee09.tlog\\鈥濄€?
+        InitializeBuildStatus:
+          姝ｅ湪鍒涘缓鈥渃mTC_5ee09.dir\\Debug\\cmTC_5ee09.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_5ee09.dir\\Debug\\cmTC_5ee09.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+        ComputeStdModulesCompileInputs:
+          姝ｅ湪璇诲彇涓哄簱 'microsoft/STL'鎻愪緵鏁版嵁鐨勫簱娓呭崟鏂囦欢 'D:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\modules\\modules.json'銆?
+          姝ｅ湪浠庡簱鈥渕icrosoft/STL鈥濇坊鍔犳ā鍧楁簮鈥淒:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\modules\\std.ixx鈥濓紝浠ヤ娇鐢ㄦ椤圭洰鐢熸垚銆?
+          姝ｅ湪浠庡簱鈥渕icrosoft/STL鈥濇坊鍔犳ā鍧楁簮鈥淒:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\modules\\std.compat.ixx鈥濓紝浠ヤ娇鐢ㄦ椤圭洰鐢熸垚銆?
+        MakeDirsForCl:
+          姝ｅ湪鍒涘缓鐩綍鈥淒:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cfanud\\cmTC_5ee09.dir\\Debug\\microsoft\\STL鈥濄€?
+        SetModuleDependencies:
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_5ee09.dir\\Debug\\cmTC_5ee09_MD.tlog\\鈥濄€?
+        ClCompile:
+          D:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /std:c++20 /Fo"cmTC_5ee09.dir\\Debug\\\\" /Fd"cmTC_5ee09.dir\\Debug\\vc145.pdb" /external:W1 /TP /errorReport:queue "D:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cfanud\\src.cxx"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.51.36257 for x64
+          鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /std:c++20 /Fo"cmTC_5ee09.dir\\Debug\\\\" /Fd"cmTC_5ee09.dir\\Debug\\vc145.pdb" /external:W1 /TP /errorReport:queue "D:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cfanud\\src.cxx"
+          src.cxx
+        D:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cfanud\\src.cxx(1,10): error C1083: 鏃犳硶鎵撳紑鍖呮嫭鏂囦欢: 鈥減thread.h鈥? No such file or directory [D:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cfanud\\cmTC_5ee09.vcxproj]
+        宸插畬鎴愮敓鎴愰」鐩€淒:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cfanud\\cmTC_5ee09.vcxproj鈥?榛樿鐩爣)鐨勬搷浣?- 澶辫触銆?
+        
+        鐢熸垚澶辫触銆?
+        
+        鈥淒:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cfanud\\cmTC_5ee09.vcxproj鈥?榛樿鐩爣) (1) ->
+        (ClCompile 鐩爣) -> 
+          D:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cfanud\\src.cxx(1,10): error C1083: 鏃犳硶鎵撳紑鍖呮嫭鏂囦欢: 鈥減thread.h鈥? No such file or directory [D:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cfanud\\cmTC_5ee09.vcxproj]
+        
+            0 涓鍛?
+            1 涓敊璇?
+        
+        宸茬敤鏃堕棿 00:00:02.59
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CheckLibraryExists.cmake:142 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/FindThreads.cmake:175 (check_library_exists)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/FindThreads.cmake:238 (_threads_check_lib)"
+      - "CMakeLists.txt:58 (find_package)"
+    checks:
+      - "Looking for pthread_create in pthreads"
+    directories:
+      source: "D:/RjDir/admin_98626617-3896-47e0-b5de-cfe58b401590/Desktop/project/9yin-cpp-server/build/CMakeFiles/CMakeScratch/TryCompile-6il44j"
+      binary: "D:/RjDir/admin_98626617-3896-47e0-b5de-cfe58b401590/Desktop/project/9yin-cpp-server/build/CMakeFiles/CMakeScratch/TryCompile-6il44j"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_CXX_STDLIB_MODULES_JSON: ""
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_HAVE_PTHREADS_CREATE"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/RjDir/admin_98626617-3896-47e0-b5de-cfe58b401590/Desktop/project/9yin-cpp-server/build/CMakeFiles/CMakeScratch/TryCompile-6il44j'
+        
+        Run Build Command(s): D:/VisualStudioTool/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_81ea8.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
+        閫傜敤浜?.NET Framework MSBuild 鐗堟湰 18.10.1-1.26427.6+3cd27c13e
+        鐢熸垚鍚姩鏃堕棿涓?2026/9/27 0:53:36銆?
+        
+        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6il44j\\cmTC_81ea8.vcxproj鈥?榛樿鐩爣)銆?
+        PrepareForBuild:
+          宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
+          姝ｅ湪鍒涘缓鐩綍鈥淒:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6il44j\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_81ea8.dir\\Debug\\cmTC_81ea8.tlog\\鈥濄€?
+        InitializeBuildStatus:
+          姝ｅ湪鍒涘缓鈥渃mTC_81ea8.dir\\Debug\\cmTC_81ea8.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_81ea8.dir\\Debug\\cmTC_81ea8.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+        ComputeStdModulesCompileInputs:
+          姝ｅ湪璇诲彇涓哄簱 'microsoft/STL'鎻愪緵鏁版嵁鐨勫簱娓呭崟鏂囦欢 'D:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\modules\\modules.json'銆?
+          姝ｅ湪浠庡簱鈥渕icrosoft/STL鈥濇坊鍔犳ā鍧楁簮鈥淒:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\modules\\std.ixx鈥濓紝浠ヤ娇鐢ㄦ椤圭洰鐢熸垚銆?
+          姝ｅ湪浠庡簱鈥渕icrosoft/STL鈥濇坊鍔犳ā鍧楁簮鈥淒:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\modules\\std.compat.ixx鈥濓紝浠ヤ娇鐢ㄦ椤圭洰鐢熸垚銆?
+        MakeDirsForCl:
+          姝ｅ湪鍒涘缓鐩綍鈥淒:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6il44j\\cmTC_81ea8.dir\\Debug\\microsoft\\STL鈥濄€?
+        SetModuleDependencies:
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_81ea8.dir\\Debug\\cmTC_81ea8_MD.tlog\\鈥濄€?
+        ClCompile:
+          D:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /std:c++20 /Fo"cmTC_81ea8.dir\\Debug\\\\" /Fd"cmTC_81ea8.dir\\Debug\\vc145.pdb" /external:W1 /TP /errorReport:queue "D:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6il44j\\CheckFunctionExists.cxx"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.51.36257 for x64
+          鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /std:c++20 /Fo"cmTC_81ea8.dir\\Debug\\\\" /Fd"cmTC_81ea8.dir\\Debug\\vc145.pdb" /external:W1 /TP /errorReport:queue "D:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6il44j\\CheckFunctionExists.cxx"
+          CheckFunctionExists.cxx
+        Link:
+          D:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe /OUT:"D:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6il44j\\Debug\\cmTC_81ea8.exe" /INCREMENTAL /ILK:"cmTC_81ea8.dir\\Debug\\cmTC_81ea8.ilk" /NOLOGO pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/RjDir/admin_98626617-3896-47e0-b5de-cfe58b401590/Desktop/project/9yin-cpp-server/build/CMakeFiles/CMakeScratch/TryCompile-6il44j/Debug/cmTC_81ea8.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"D:/RjDir/admin_98626617-3896-47e0-b5de-cfe58b401590/Desktop/project/9yin-cpp-server/build/CMakeFiles/CMakeScratch/TryCompile-6il44j/Debug/cmTC_81ea8.lib" /MACHINE:X64  /machine:x64 cmTC_81ea8.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: 鏃犳硶鎵撳紑鏂囦欢鈥減threads.lib鈥?[D:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6il44j\\cmTC_81ea8.vcxproj]
+        宸插畬鎴愮敓鎴愰」鐩€淒:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6il44j\\cmTC_81ea8.vcxproj鈥?榛樿鐩爣)鐨勬搷浣?- 澶辫触銆?
+        
+        鐢熸垚澶辫触銆?
+        
+        鈥淒:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6il44j\\cmTC_81ea8.vcxproj鈥?榛樿鐩爣) (1) ->
+        (Link 鐩爣) -> 
+          LINK : fatal error LNK1104: 鏃犳硶鎵撳紑鏂囦欢鈥減threads.lib鈥?[D:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6il44j\\cmTC_81ea8.vcxproj]
+        
+            0 涓鍛?
+            1 涓敊璇?
+        
+        宸茬敤鏃堕棿 00:00:02.65
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CheckLibraryExists.cmake:142 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/FindThreads.cmake:175 (check_library_exists)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/FindThreads.cmake:239 (_threads_check_lib)"
+      - "CMakeLists.txt:58 (find_package)"
+    checks:
+      - "Looking for pthread_create in pthread"
+    directories:
+      source: "D:/RjDir/admin_98626617-3896-47e0-b5de-cfe58b401590/Desktop/project/9yin-cpp-server/build/CMakeFiles/CMakeScratch/TryCompile-4ziwrk"
+      binary: "D:/RjDir/admin_98626617-3896-47e0-b5de-cfe58b401590/Desktop/project/9yin-cpp-server/build/CMakeFiles/CMakeScratch/TryCompile-4ziwrk"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_CXX_STDLIB_MODULES_JSON: ""
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_HAVE_PTHREAD_CREATE"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/RjDir/admin_98626617-3896-47e0-b5de-cfe58b401590/Desktop/project/9yin-cpp-server/build/CMakeFiles/CMakeScratch/TryCompile-4ziwrk'
+        
+        Run Build Command(s): D:/VisualStudioTool/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_60cf7.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
+        閫傜敤浜?.NET Framework MSBuild 鐗堟湰 18.10.1-1.26427.6+3cd27c13e
+        鐢熸垚鍚姩鏃堕棿涓?2026/9/27 0:53:40銆?
+        
+        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4ziwrk\\cmTC_60cf7.vcxproj鈥?榛樿鐩爣)銆?
+        PrepareForBuild:
+          宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
+          姝ｅ湪鍒涘缓鐩綍鈥淒:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4ziwrk\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_60cf7.dir\\Debug\\cmTC_60cf7.tlog\\鈥濄€?
+        InitializeBuildStatus:
+          姝ｅ湪鍒涘缓鈥渃mTC_60cf7.dir\\Debug\\cmTC_60cf7.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_60cf7.dir\\Debug\\cmTC_60cf7.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+        ComputeStdModulesCompileInputs:
+          姝ｅ湪璇诲彇涓哄簱 'microsoft/STL'鎻愪緵鏁版嵁鐨勫簱娓呭崟鏂囦欢 'D:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\modules\\modules.json'銆?
+          姝ｅ湪浠庡簱鈥渕icrosoft/STL鈥濇坊鍔犳ā鍧楁簮鈥淒:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\modules\\std.ixx鈥濓紝浠ヤ娇鐢ㄦ椤圭洰鐢熸垚銆?
+          姝ｅ湪浠庡簱鈥渕icrosoft/STL鈥濇坊鍔犳ā鍧楁簮鈥淒:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\modules\\std.compat.ixx鈥濓紝浠ヤ娇鐢ㄦ椤圭洰鐢熸垚銆?
+        MakeDirsForCl:
+          姝ｅ湪鍒涘缓鐩綍鈥淒:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4ziwrk\\cmTC_60cf7.dir\\Debug\\microsoft\\STL鈥濄€?
+        SetModuleDependencies:
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_60cf7.dir\\Debug\\cmTC_60cf7_MD.tlog\\鈥濄€?
+        ClCompile:
+          D:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /std:c++20 /Fo"cmTC_60cf7.dir\\Debug\\\\" /Fd"cmTC_60cf7.dir\\Debug\\vc145.pdb" /external:W1 /TP /errorReport:queue "D:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4ziwrk\\CheckFunctionExists.cxx"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.51.36257 for x64
+          鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /std:c++20 /Fo"cmTC_60cf7.dir\\Debug\\\\" /Fd"cmTC_60cf7.dir\\Debug\\vc145.pdb" /external:W1 /TP /errorReport:queue "D:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4ziwrk\\CheckFunctionExists.cxx"
+          CheckFunctionExists.cxx
+        Link:
+          D:\\VisualStudioTool\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe /OUT:"D:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4ziwrk\\Debug\\cmTC_60cf7.exe" /INCREMENTAL /ILK:"cmTC_60cf7.dir\\Debug\\cmTC_60cf7.ilk" /NOLOGO pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/RjDir/admin_98626617-3896-47e0-b5de-cfe58b401590/Desktop/project/9yin-cpp-server/build/CMakeFiles/CMakeScratch/TryCompile-4ziwrk/Debug/cmTC_60cf7.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"D:/RjDir/admin_98626617-3896-47e0-b5de-cfe58b401590/Desktop/project/9yin-cpp-server/build/CMakeFiles/CMakeScratch/TryCompile-4ziwrk/Debug/cmTC_60cf7.lib" /MACHINE:X64  /machine:x64 cmTC_60cf7.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: 鏃犳硶鎵撳紑鏂囦欢鈥減thread.lib鈥?[D:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4ziwrk\\cmTC_60cf7.vcxproj]
+        宸插畬鎴愮敓鎴愰」鐩€淒:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4ziwrk\\cmTC_60cf7.vcxproj鈥?榛樿鐩爣)鐨勬搷浣?- 澶辫触銆?
+        
+        鐢熸垚澶辫触銆?
+        
+        鈥淒:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4ziwrk\\cmTC_60cf7.vcxproj鈥?榛樿鐩爣) (1) ->
+        (Link 鐩爣) -> 
+          LINK : fatal error LNK1104: 鏃犳硶鎵撳紑鏂囦欢鈥減thread.lib鈥?[D:\\RjDir\\admin_98626617-3896-47e0-b5de-cfe58b401590\\Desktop\\project\\9yin-cpp-server\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4ziwrk\\cmTC_60cf7.vcxproj]
+        
+            0 涓鍛?
+            1 涓敊璇?
+        
+        宸茬敤鏃堕棿 00:00:02.59
+        
+      exitCode: 1
+...

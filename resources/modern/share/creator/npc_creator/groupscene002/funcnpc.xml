@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <staticcreator>
+        <item No="9D56BAB15BF649939706C273838DCEE7" x="555.312" y="10.000" z="377.427" ay="-1.542" id="DoorNpcGroup001" RefreshTime="-1.0" PatrolMode="1" NotPositive="0" SubSceneNo="1" desc="回松鹤酒楼" ChildList="" PosList="" />
+        <item No="1608ECAD1FF142CF8922F1F6CC89EE23" x="566.372" y="10.000" z="373.520" ay="1.741" id="TriggerNpc003013" RefreshTime="-1.0" PatrolMode="1" NotPositive="0" SubSceneNo="1" desc="触发NPC" ChildList="" PosList="" />
+        <item No="492EE861C4B84AF28529F860C2D17E3D" x="555.639" y="10.000" z="376.826" ay="1.741" id="TriggerNpc003014" RefreshTime="-1.0" PatrolMode="1" NotPositive="0" SubSceneNo="1" desc="触发NPC2" ChildList="" PosList="" />
+        <item No="FBC209ACEA0C4E9B987F429DC019BD77" x="571.973" y="10.000" z="376.681" ay="2.470" id="funnpcclone003102" BornAction="weep_1" RefreshTime="-1.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" SubSceneNo="1" desc="掌柜女儿" ChildList="" PosList="" />
+        <item No="03C11D61C4E844439217E467257B0575" x="583.711" y="10.000" z="367.724" ay="1.720" id="funnpcclone003101" BornAction="h_fi_stand_1" RefreshTime="-1.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" SubSceneNo="1" desc="卖鱼的渔夫" ChildList="" PosList="" />
+        <item No="0F7FBE6F9BB5472A8FA16F5C932FEB2B" x="586.239" y="10.000" z="368.279" ay="-1.595" id="funnpcclone003013" BornAction="b_atk1_1" RefreshTime="-1.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" SubSceneNo="1" desc="城东恶霸" ChildList="" PosList="" />
+        <item No="4EC6DCF6C6C6411B805AD7588907E45B" x="582.803" y="10.000" z="366.096" ay="0.620" id="funnpcclone003014" BornAction="b_atk1_4" RandomAction="" RefreshTime="-1.0" PatrolMode="1" WakeupRange="3.0" ChaseRange="15.0" NotPositive="0" SubSceneNo="1" desc="雷天霸手下" ChildList="" PosList="" />
+        <item No="97B47F7756604671BCA630367E4AE56A" x="581.867" y="10.000" z="367.671" ay="1.485" id="funnpcclone003014" BornAction="b_atk6_4" RandomAction="" RefreshTime="-1.0" PatrolMode="1" WakeupRange="3.0" ChaseRange="15.0" NotPositive="0" SubSceneNo="1" desc="雷天霸手下" ChildList="" PosList="" />
+        <item No="918FA13F73284D0693B4A9B6E89910B3" x="582.811" y="10.000" z="369.500" ay="3.040" id="funnpcclone003014" BornAction="b_atk2_4" RandomAction="" RefreshTime="-1.0" PatrolMode="1" WakeupRange="3.0" ChaseRange="15.0" NotPositive="0" SubSceneNo="1" desc="雷天霸手下" ChildList="" PosList="" />
+    </staticcreator>
+</object>

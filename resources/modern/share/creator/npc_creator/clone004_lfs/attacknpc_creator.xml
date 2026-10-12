@@ -1,0 +1,1377 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="06C6E9BC7C6C4DF9A2BFDB588EDD35BA" x="462.917" y="-61.030" z="90.891" radius="6.3" WakeupRange="64.4" ChaseRange="68.9" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048000" ay="-1" amount="8" refreshtime="-1" NotPositive="0" desc="lfs鞑靼士兵_大营">
+                <position x="462.903" z="87.697" ay="-1" BornAction="dc_stand_2" RandomAction="dc_stand_2" />
+                <position x="457.494" z="90.680" ay="-1" BornAction="dc_stand_2" RandomAction="dc_stand_2" />
+                <position x="459.669" z="88.353" ay="-1" BornAction="dc_stand_2" RandomAction="dc_stand_2" />
+                <position x="462.283" z="85.619" ay="-1" BornAction="dc_stand_2" RandomAction="dc_stand_2" />
+                <position x="465.370" z="88.075" ay="-1" BornAction="dc_stand_2" RandomAction="dc_stand_2" />
+                <position x="460.852" z="93.363" ay="-1" BornAction="dc_stand_2" RandomAction="dc_stand_2" />
+                <position x="463.548" z="95.494" ay="-1" BornAction="dc_stand_2" RandomAction="dc_stand_2" />
+                <position x="467.972" z="90.324" ay="-1" BornAction="dc_stand_2" RandomAction="dc_stand_2" />
+            </item>
+        </creator>
+        <creator No="5AA972EB59E1404881A0C72E279E39B2" x="491.748" y="-61.175" z="91.058" radius="5.0" WakeupRange="69.8" ChaseRange="73.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048000" ay="-1" amount="8" refreshtime="-1" NotPositive="0" desc="lfs鞑靼士兵_大营">
+                <position x="487.049" z="90.808" ay="-1" BornAction="dc_stand_2" RandomAction="dc_stand_2" />
+                <position x="489.670" z="88.430" ay="-1" BornAction="dc_stand_2" RandomAction="dc_stand_2" />
+                <position x="492.283" z="86.698" ay="-1" BornAction="dc_stand_2" RandomAction="dc_stand_2" />
+                <position x="489.136" z="92.760" ay="-1" BornAction="dc_stand_2" RandomAction="dc_stand_2" />
+                <position x="492.904" z="89.705" ay="-1" BornAction="dc_stand_2" RandomAction="dc_stand_2" />
+                <position x="491.809" z="95.389" ay="-1" BornAction="dc_stand_2" RandomAction="dc_stand_2" />
+                <position x="493.679" z="93.479" ay="-1" BornAction="dc_stand_2" RandomAction="dc_stand_2" />
+                <position x="495.963" z="91.161" ay="-1" BornAction="dc_stand_2" RandomAction="dc_stand_2" />
+            </item>
+        </creator>
+        <creator No="208ECD3A97CC41769C3362DC924616F9" x="476.354" y="-61.175" z="121.228" radius="5.0" WakeupRange="37.0" ChaseRange="43.8" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048000" ay="-1" amount="6" refreshtime="-1" NotPositive="0" desc="lfs鞑靼士兵_大营">
+                <position x="478.862" z="118.064" ay="-1" BornAction="dc_stand_2" RandomAction="dc_stand_2" />
+                <position x="478.873" z="120.823" ay="-1" BornAction="dc_stand_2" RandomAction="dc_stand_2" />
+                <position x="479.093" z="123.896" ay="-1" BornAction="dc_stand_2" RandomAction="dc_stand_2" />
+                <position x="473.444" z="118.292" ay="-1" BornAction="dc_stand_2" RandomAction="dc_stand_2" />
+                <position x="473.467" z="120.824" ay="-1" BornAction="dc_stand_2" RandomAction="dc_stand_2" />
+                <position x="473.571" z="123.955" ay="-1" BornAction="dc_stand_2" RandomAction="dc_stand_2" />
+            </item>
+        </creator>
+        <creator No="92580035805F4C958C87020BB76C10DC" x="237.117" y="0.560" z="519.401" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="EventNpcClone004102" ay="1.899" amount="2" refreshtime="-1" NotPositive="0" desc="云梯">
+                <position x="230.235" z="520.522" ay="1.899" />
+                <position x="243.576" z="515.001" ay="1.899" />
+            </item>
+        </creator>
+        <creator No="0B12962B90CE42A4A6EEA8A5891E8016" x="271.633" y="-0.083" z="502.353" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="EventNpcClone004102" ay="1.899" amount="2" refreshtime="-1" NotPositive="0" desc="云梯">
+                <position x="268.952" z="504.942" ay="1.899" />
+                <position x="275.397" z="502.587" ay="1.899" />
+            </item>
+        </creator>
+        <creator No="228334D146A4483ABCC233376DF85E0A" x="260.187" y="26.916" z="531.530" radius="70.0" WakeupRange="80.0" ChaseRange="80.0" PatrolRange="0.0" SpringRange="70" HateLink="1">
+            <item No="1" id="FunnpcClone0048701" ay="3.649" amount="8" refreshtime="30000" NotPositive="0" desc="lfs雁门关守军_雁门关">
+                <position x="235.529" z="527.033" ay="3.649" />
+                <position x="244.869" z="523.111" ay="3.649" />
+                <position x="260.111" z="517.095" ay="3.649" />
+                <position x="273.845" z="511.748" ay="3.649" />
+            </item>
+            <item No="2" id="FunnpcClone0048709" ay="3.649" amount="6" refreshtime="30000" NotPositive="0" desc="lfs雁门关弓箭手_雁门关">
+                <position x="226.533" z="530.635" ay="3.649" />
+                <position x="267.575" z="514.486" ay="3.649" />
+                <position x="265.585" z="520.978" ay="3.649" />
+                <position x="251.411" z="526.426" ay="3.649" />
+                <position x="252.221" z="520.205" ay="3.649" />
+                <position x="279.650" z="509.884" ay="3.649" />
+            </item>
+        </creator>
+        <creator No="EC4970E4F60A4902943E30A6FEC72336" x="379.798" y="21.891" z="565.046" radius="100.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" SpringRange="100" HateLink="1">
+            <item No="1" id="FunnpcClone0048701" ay="3.029" amount="9" refreshtime="120000" NotPositive="0" desc="lfs雁门关守军_雁门关">
+                <position x="383.086" z="561.922" ay="3.029" />
+                <position x="362.614" z="552.390" ay="3.029" />
+                <position x="344.223" z="552.966" ay="3.029" />
+                <position x="332.456" z="525.174" ay="1.899" />
+                <position x="401.906" z="561.629" ay="3.029" />
+                <position x="422.814" z="571.501" ay="3.029" />
+                <position x="433.408" z="595.587" ay="1.419" />
+                <position x="428.336" z="618.407" ay="1.439" />
+                <position x="427.707" z="641.926" ay="1.264" />
+                <position x="419.579" z="653.965" ay="1.519" />
+            </item>
+        </creator>
+        <creator No="F3195941DFC44BC4BCD2C6CC348B9E9E" x="377.549" y="15.553" z="735.702" radius="100.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" SpringRange="100" HateLink="1">
+            <item No="1" id="FunnpcClone0048701" ay="1.450" amount="1" refreshtime="120000" NotPositive="0" desc="lfs雁门关守军_雁门关">
+                <position x="400.942" z="734.728" ay="1.450" />
+                <position x="406.599" z="708.843" ay="1.450" />
+                <position x="410.632" z="691.931" ay="1.450" />
+                <position x="419.784" z="673.944" ay="1.450" />
+                <position x="396.045" z="754.602" ay="1.450" />
+                <position x="378.074" z="760.442" ay="6.168" />
+                <position x="362.271" z="757.063" ay="5.983" />
+                <position x="333.508" z="749.798" ay="6.123" />
+                <position x="314.164" z="745.649" ay="6.123" />
+                <position x="290.625" z="740.432" ay="5.978" />
+                <position x="279.515" z="737.630" ay="6.103" />
+            </item>
+        </creator>
+        <creator No="8042969DB57E45B2BCB201703EF2AD16" x="207.982" y="28.490" z="716.472" radius="100.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" SpringRange="100" HateLink="1">
+            <item No="1" id="FunnpcClone0048701" ay="6.163" amount="1" refreshtime="120000" NotPositive="0" desc="lfs雁门关守军_雁门关">
+                <position x="258.356" z="742.007" ay="6.163" />
+                <position x="243.785" z="738.014" ay="6.058" />
+                <position x="224.757" z="733.390" ay="6.078" />
+                <position x="206.507" z="728.262" ay="6.083" />
+                <position x="194.916" z="717.066" ay="6.088" WeaponMode="lspear1_1" />
+                <position x="178.353" z="713.063" ay="6.163" />
+                <position x="164.084" z="709.575" ay="6.163" />
+                <position x="137.162" z="706.946" ay="6.163" />
+            </item>
+            <item No="2" id="Leader_clone004_073" ay="-1" amount="3" refreshtime="-1" NotPositive="0" desc="村民线鞑靼进村1">
+                <position x="192.505" z="632.776" ay="-1" />
+                <position x="193.795" z="632.588" ay="-1" />
+                <position x="194.957" z="630.832" ay="-1" />
+            </item>
+        </creator>
+        <creator No="D0BA1CEB4FAB4078B16BE766475C4861" x="427.266" y="-74.010" z="-123.733" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="carriernpc004203" ay="4.682" amount="2" refreshtime="-1" NotPositive="0" desc="马3">
+                <position x="427.032" z="-121.712" ay="4.682" />
+                <position x="426.963" z="-125.166" ay="4.707" />
+            </item>
+        </creator>
+        <creator No="92A89C0FD24B45E1A5E63A5DA0C9DBEF" x="421.233" y="-73.881" z="-130.308" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="carriernpc004203" ay="6.167" amount="2" refreshtime="-1" NotPositive="0" desc="马3">
+                <position x="423.440" z="-130.179" ay="6.167" />
+                <position x="420.776" z="-130.021" ay="6.202" />
+            </item>
+        </creator>
+        <creator No="A3F055FD31964C1085869BB3A4EEE43F" x="410.490" y="-74.010" z="-130.574" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="carriernpc004203" ay="6.167" amount="2" refreshtime="-1" NotPositive="0" desc="马4">
+                <position x="412.251" z="-129.729" ay="6.167" />
+                <position x="409.216" z="-129.647" ay="6.167" />
+            </item>
+        </creator>
+        <creator No="4384372F075E44E5ABA611C3F21B6E18" x="393.204" y="-73.843" z="-130.149" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="carriernpc004203" ay="6.167" amount="2" refreshtime="-1" NotPositive="0" desc="马4">
+                <position x="394.616" z="-129.781" ay="6.167" />
+                <position x="390.959" z="-129.459" ay="6.167" />
+            </item>
+        </creator>
+        <creator No="142C1213062346198117A6D3386F0DB3" x="402.410" y="-73.929" z="-131.003" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="carriernpc004203" ay="6.167" amount="2" refreshtime="-1" NotPositive="0" desc="马2">
+                <position x="401.162" z="-130.126" ay="6.167" />
+                <position x="404.025" z="-129.977" ay="6.167" />
+            </item>
+        </creator>
+        <creator No="7F29FAA54DE34B59A65517ACD6AD849C" x="378.055" y="-74.010" z="-128.501" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="carriernpc004203" ay="4.727" amount="4" refreshtime="-1" NotPositive="0" desc="马1">
+                <position x="382.906" z="-132.122" ay="4.727" />
+                <position x="383.197" z="-135.688" ay="4.707" />
+                <position x="372.196" z="-122.374" ay="1.439" />
+                <position x="372.370" z="-124.770" ay="1.439" />
+            </item>
+            <item No="2" id="carriernpc004203" ay="4.727" amount="2" refreshtime="-1" NotPositive="0" desc="马3">
+                <position x="383.227" z="-124.948" ay="4.727" />
+                <position x="383.317" z="-121.556" ay="4.727" />
+            </item>
+            <item No="3" id="carriernpc004203" ay="1.709" amount="2" refreshtime="-1" NotPositive="0" desc="马4">
+                <position x="372.435" z="-135.161" ay="1.709" />
+                <position x="372.218" z="-132.672" ay="1.439" />
+            </item>
+        </creator>
+        <creator No="A13A707B60034EA6855F1CEF88B57E01" x="360.215" y="-74.010" z="-129.098" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="carriernpc004203" ay="4.702" amount="4" refreshtime="-1" NotPositive="0" desc="马3">
+                <position x="361.310" z="-125.134" ay="4.702" />
+                <position x="361.591" z="-122.061" ay="4.717" />
+                <position x="361.065" z="-132.530" ay="4.717" />
+                <position x="361.197" z="-135.794" ay="4.717" />
+            </item>
+        </creator>
+        <creator No="3E03C02218714842AB4E529100FFADA6" x="362.418" y="-74.010" z="-146.881" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="carriernpc004203" ay="4.717" amount="4" refreshtime="-1" NotPositive="0" desc="马3">
+                <position x="360.696" z="-150.694" ay="4.717" />
+                <position x="361.405" z="-142.798" ay="4.717" />
+                <position x="360.868" z="-153.643" ay="4.717" />
+                <position x="361.263" z="-139.928" ay="4.717" />
+            </item>
+        </creator>
+        <creator No="6117C0DAB6E942FF86AD3329698DC6F3" x="355.224" y="-74.010" z="-159.354" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="carriernpc004203" ay="6.192" amount="2" refreshtime="-1" NotPositive="0" desc="马4">
+                <position x="352.364" z="-158.096" ay="6.192" />
+                <position x="356.345" z="-158.265" ay="0.009" />
+            </item>
+        </creator>
+        <creator No="C66F67E88F4749E7A72EA609AE55E08A" x="570.342" y="-61.177" z="61.163" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048000" ay="3.659" amount="2" refreshtime="-1" NotPositive="0" desc="lfs鞑靼士兵_大营">
+                <position x="570.616" z="59.403" ay="3.659" WeaponMode="blade1_1" />
+                <position x="570.350" z="65.516" ay="3.659" WeaponMode="blade1_1" />
+            </item>
+            <item No="2" id="FunnpcClone0048002" ay="3.659" amount="3" refreshtime="-1" NotPositive="0" desc="lfs鞑靼弓箭手_大营">
+                <position x="568.724" z="62.092" ay="3.659" />
+                <position x="568.302" z="64.336" ay="3.659" />
+                <position x="573.677" z="62.384" ay="4.784" />
+            </item>
+        </creator>
+        <creator No="AAA06DB5779A4717B326AB6901E616DB" x="557.560" y="-61.177" z="145.306" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048000" ay="1.759" amount="4" refreshtime="-1" NotPositive="0" desc="lfs鞑靼士兵_大营">
+                <position x="557.415" z="142.910" ay="1.759" BornAction="sitloop" RandomAction="sitloop" WeaponMode="blade1_1" />
+                <position x="558.766" z="142.676" ay="6.189" BornAction="sitloop" RandomAction="sitloop" WeaponMode="blade1_1" />
+                <position x="560.498" z="145.330" ay="4.324" BornAction="sitloop" RandomAction="sitloop" WeaponMode="blade1_1" />
+                <position x="556.377" z="146.681" ay="3.659" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="613DA88CD92F4705A171B8B51AAE152D" x="567.541" y="-61.847" z="13.270" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048001" ay="1.521" amount="6" refreshtime="-1" desc="lfs鞑靼枪兵_大营">
+                <position x="563.222" z="7.848" ay="1.521" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="563.625" z="12.514" ay="1.516" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="563.864" z="16.185" ay="1.511" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="571.171" z="9.218" ay="4.649" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="570.803" z="13.745" ay="4.619" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="570.513" z="17.508" ay="4.654" BornAction="h_stand_6" RandomAction="h_stand_6" />
+            </item>
+        </creator>
+        <creator No="F721CD7EFD7E4719A4A5A3F57974E2CF" x="525.649" y="-61.177" z="57.609" radius="30.0" WakeupRange="30.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048001" ay="4.824" amount="6" refreshtime="-1" desc="lfs鞑靼枪兵_大营">
+                <position x="510.981" z="73.943" ay="4.824" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="510.971" z="67.571" ay="4.679" az="6.282" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="509.834" z="46.957" ay="4.679" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="510.018" z="41.005" ay="4.679" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="543.053" z="50.664" ay="4.679" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="542.971" z="46.052" ay="4.679" BornAction="h_stand_6" RandomAction="h_stand_6" />
+            </item>
+        </creator>
+        <creator No="EF5510FDB5444717B5F4248200BC2EAD" x="528.005" y="-61.177" z="118.208" radius="20.0" WakeupRange="27.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048001" ay="4.679" amount="4" refreshtime="-1" desc="lfs鞑靼枪兵_大营">
+                <position x="511.346" z="107.167" ay="4.679" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="510.866" z="113.355" ay="4.679" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="542.024" z="124.905" ay="4.679" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="541.915" z="130.132" ay="4.679" BornAction="h_stand_6" RandomAction="h_stand_6" />
+            </item>
+        </creator>
+        <creator No="F23875AB299C45ABA24DD3F6E185C09A" x="425.204" y="-61.177" z="123.867" radius="27.0" WakeupRange="30.0" ChaseRange="100.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048001" ay="1.624" amount="10" refreshtime="-1" desc="lfs鞑靼枪兵_大营">
+                <position x="409.273" z="145.044" ay="1.624" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="409.487" z="141.390" ay="1.461" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="409.816" z="128.279" ay="1.461" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="410.027" z="124.303" ay="1.461" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="409.779" z="106.986" ay="1.496" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="409.467" z="103.028" ay="1.461" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="442.183" z="107.058" ay="1.486" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="442.310" z="112.844" ay="1.551" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="442.186" z="133.195" ay="1.546" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="442.317" z="139.685" ay="1.616" BornAction="h_stand_6" RandomAction="h_stand_6" />
+            </item>
+        </creator>
+        <creator No="C45F0F58408A4105B5C814C82063F24C" x="421.851" y="-61.177" z="55.788" radius="27.0" WakeupRange="30.0" ChaseRange="50.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048001" ay="1.536" amount="10" refreshtime="-1" desc="lfs鞑靼枪兵_大营">
+                <position x="441.004" z="69.269" ay="1.536" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="440.508" z="75.287" ay="1.506" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="441.201" z="42.960" ay="1.606" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="440.854" z="49.414" ay="1.531" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="410.439" z="53.638" ay="1.486" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="410.101" z="57.622" ay="1.556" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="410.017" z="73.225" ay="1.486" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="409.650" z="77.625" ay="1.561" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="409.968" z="33.496" ay="1.486" BornAction="h_stand_6" RandomAction="h_stand_6" />
+                <position x="409.944" z="37.042" ay="1.536" BornAction="h_stand_6" RandomAction="h_stand_6" />
+            </item>
+        </creator>
+        <creator No="90D2C9D055F8437BA3D2C114E79F1673" x="250.546" y="-56.709" z="131.198" radius="16.1" WakeupRange="25.0" ChaseRange="50.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048001" ay="0.156" amount="9" refreshtime="120000" NotPositive="0" desc="lfs鞑靼枪兵_大营">
+                <position x="254.748" z="134.325" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="lspear1_1" />
+                <position x="251.192" z="134.308" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="lspear1_1" />
+                <position x="247.523" z="134.367" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="lspear1_1" />
+                <position x="254.859" z="129.790" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="lspear1_1" />
+                <position x="251.044" z="129.587" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="lspear1_1" />
+                <position x="247.530" z="129.640" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="lspear1_1" />
+                <position x="254.631" z="138.515" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="lspear1_1" />
+                <position x="251.066" z="138.667" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="lspear1_1" />
+                <position x="247.775" z="138.728" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="lspear1_1" />
+            </item>
+            <item No="2" id="FunnpcClone0048002" ay="0.361" amount="10" refreshtime="120000" NotPositive="0" desc="lfs鞑靼弓箭手_大营">
+                <position x="247.540" z="124.995" ay="0.361" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="251.178" z="123.608" ay="0.361" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="257.732" z="126.830" ay="0.361" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="244.335" z="126.747" ay="0.361" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="242.922" z="121.839" ay="0.361" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="246.958" z="119.855" ay="0.361" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="251.046" z="118.855" ay="0.361" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="255.843" z="119.286" ay="0.361" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="259.593" z="120.536" ay="0.361" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="254.887" z="125.009" ay="0.361" BornAction="fi_stand" RandomAction="fi_stand" />
+            </item>
+        </creator>
+        <creator No="82F73DEDB6F7428CB795FBF6A9F346BD" x="268.452" y="-56.535" z="108.629" radius="15.0" WakeupRange="60.0" ChaseRange="70.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048000" ay="0.156" amount="9" refreshtime="120000" NotPositive="0" desc="lfs鞑靼士兵_大营">
+                <position x="267.528" z="108.322" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="blade1_1" />
+                <position x="272.951" z="108.105" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="blade1_1" />
+                <position x="261.958" z="108.498" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="blade1_1" />
+                <position x="261.865" z="114.462" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="blade1_1" />
+                <position x="267.858" z="114.384" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="blade1_1" />
+                <position x="272.901" z="114.128" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="blade1_1" />
+                <position x="262.088" z="102.909" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="blade1_1" />
+                <position x="267.652" z="102.648" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="blade1_1" />
+                <position x="272.569" z="102.453" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="A00AA0BC47AC46E48983A68EDE42E52B" x="232.844" y="-56.764" z="109.647" radius="15.0" WakeupRange="60.0" ChaseRange="70.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048000" ay="0.156" amount="9" refreshtime="120000" NotPositive="0" desc="lfs鞑靼士兵_大营">
+                <position x="231.921" z="109.340" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="blade1_1" />
+                <position x="237.344" z="109.122" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="blade1_1" />
+                <position x="226.351" z="109.516" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="blade1_1" />
+                <position x="226.258" z="115.480" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="blade1_1" />
+                <position x="232.251" z="115.402" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="blade1_1" />
+                <position x="237.294" z="115.146" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="blade1_1" />
+                <position x="226.481" z="103.926" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="blade1_1" />
+                <position x="232.045" z="103.666" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="blade1_1" />
+                <position x="236.962" z="103.470" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="F33772D856AD4B119B0BBAC38829AB6C" x="192.050" y="-57.204" z="86.790" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048001" ay="0.631" amount="2" refreshtime="120000" NotPositive="0" desc="lfs鞑靼枪兵_大营">
+                <position x="194.273" z="90.106" ay="0.631" WeaponMode="lspear1_1" />
+                <position x="194.279" z="83.566" ay="0.416" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="28AC439729324431835EC11693D9F4A3" x="204.805" y="-57.031" z="40.753" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048001" ay="0.631" amount="6" refreshtime="120000" NotPositive="0" desc="lfs鞑靼枪兵_大营">
+                <position x="206.138" z="43.859" ay="0.631" WeaponMode="lspear1_1" />
+                <position x="205.911" z="36.351" ay="0.416" WeaponMode="lspear1_1" />
+                <position x="210.449" z="36.352" ay="0.416" WeaponMode="lspear1_1" />
+                <position x="210.596" z="43.826" ay="0.631" WeaponMode="lspear1_1" />
+                <position x="202.084" z="36.351" ay="0.416" WeaponMode="lspear1_1" />
+                <position x="202.136" z="43.877" ay="0.631" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="CD71FA4E4E9F4483A5604C93F50653D2" x="324.377" y="-56.934" z="88.653" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048001" ay="3.844" amount="2" refreshtime="120000" NotPositive="0" desc="lfs鞑靼枪兵_大营">
+                <position x="322.405" z="85.366" ay="3.844" WeaponMode="lspear1_1" />
+                <position x="322.384" z="92.029" ay="3.629" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="43724EBA2BC74320A8FAF7AFFF824E64" x="227.258" y="-56.812" z="-30.283" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048001" ay="5.384" amount="2" refreshtime="120000" NotPositive="0" desc="lfs鞑靼枪兵_大营">
+                <position x="224.035" z="-27.927" ay="5.384" WeaponMode="lspear1_1" />
+                <position x="230.570" z="-28.188" ay="5.169" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="A5EFA90EBF374DFCBF84048C176F9423" x="287.060" y="-56.810" z="57.881" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048001" ay="4.559" amount="2" refreshtime="120000" NotPositive="0" desc="lfs鞑靼枪兵_大营">
+                <position x="283.143" z="57.113" ay="4.559" WeaponMode="lspear1_1" />
+                <position x="287.769" z="61.736" ay="4.344" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="2509D51A764D40F7A00DC01E2F416477" x="281.116" y="-56.688" z="11.363" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048001" ay="5.414" amount="2" refreshtime="120000" NotPositive="0" desc="lfs鞑靼枪兵_大营">
+                <position x="277.965" z="13.814" ay="5.414" WeaponMode="lspear1_1" />
+                <position x="284.490" z="13.358" ay="5.199" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="C81CD7551C7A465793B62EFB24FF5864" x="256.370" y="-56.762" z="11.778" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048001" ay="5.384" amount="2" refreshtime="120000" NotPositive="0" desc="lfs鞑靼枪兵_大营">
+                <position x="253.148" z="14.134" ay="5.384" WeaponMode="lspear1_1" />
+                <position x="259.682" z="13.873" ay="5.169" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="2E9A6B2277D84DCCBEF6B96A69C2E791" x="236.941" y="-39.650" z="248.875" radius="22.0" WakeupRange="50.4" ChaseRange="100.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048403" ay="2.131" amount="5" refreshtime="120000" NotPositive="0" desc="lfs雁门关精英_过雁谷">
+                <position x="231.400" z="253.868" ay="2.131" WeaponMode="lspear1_1" />
+                <position x="235.234" z="254.901" ay="2.151" WeaponMode="lspear1_1" />
+                <position x="240.676" z="253.959" ay="2.796" WeaponMode="lspear1_1" />
+                <position x="245.083" z="253.909" ay="2.576" WeaponMode="lspear1_1" />
+                <position x="238.758" z="254.001" ay="2.516" WeaponMode="lspear1_1" />
+            </item>
+            <item No="2" id="FunnpcClone0048402" ay="1.811" amount="5" refreshtime="120000" NotPositive="0" desc="lfs雁门关老兵_过雁谷">
+                <position x="224.995" z="251.875" ay="1.811" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="227.204" z="252.288" ay="2.291" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="252.914" z="255.529" ay="1.746" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="250.211" z="254.771" ay="2.121" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="223.281" z="250.271" ay="2.006" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+            </item>
+            <item No="3" id="FunnpcClone0048404" ay="3.281" amount="5" refreshtime="120000" NotPositive="0" desc="lfs雁门关弓箭手_过雁谷">
+                <position x="226.287" z="261.855" ay="3.281" />
+                <position x="234.442" z="263.919" ay="2.621" />
+                <position x="239.586" z="263.603" ay="2.501" />
+                <position x="245.681" z="263.416" ay="2.926" />
+                <position x="230.304" z="263.328" ay="2.231" />
+            </item>
+            <item No="4" id="FunnpcClone0048407" ay="0.361" amount="4" refreshtime="-1" NotPositive="0" desc="lfs鞑靼枪兵_过雁谷">
+                <position x="230.845" z="249.393" ay="0.361" WeaponMode="lspear1_1" />
+                <position x="235.219" z="250.355" ay="0.361" WeaponMode="lspear1_1" />
+                <position x="241.308" z="250.154" ay="0.361" WeaponMode="lspear1_1" />
+                <position x="245.181" z="249.916" ay="0.361" WeaponMode="lspear1_1" />
+            </item>
+            <item No="5" id="FunnpcClone0048406" ay="0.361" amount="3" refreshtime="-1" NotPositive="0" desc="lfs鞑靼士兵_过雁谷">
+                <position x="225.365" z="246.931" ay="0.361" WeaponMode="blade1_1" />
+                <position x="223.316" z="246.810" ay="0.361" WeaponMode="blade1_1" />
+                <position x="252.488" z="250.546" ay="0.361" WeaponMode="blade1_1" />
+            </item>
+            <item No="6" id="FunnpcClone0048408" ay="0.361" amount="5" refreshtime="-1" NotPositive="0" desc="lfs鞑靼弓箭手_过雁谷">
+                <position x="232.864" z="237.774" ay="0.361" />
+                <position x="243.749" z="238.179" ay="0.361" />
+                <position x="249.438" z="238.656" ay="0.361" />
+                <position x="226.634" z="236.924" ay="0.361" />
+                <position x="237.262" z="237.445" ay="0.361" />
+            </item>
+            <item No="7" id="FunnpcClone0048410" ay="2.944" amount="1" refreshtime="120000" NotPositive="0" desc="lfs雁门关守军小队长_过雁谷">
+                <position x="237.029" z="254.417" ay="2.944" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="876A374088C74A1C8560DA1B6FDE6AC7" x="245.631" y="-52.669" z="178.809" radius="13.1" WakeupRange="42.6" ChaseRange="50.1" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048406" ay="5.981" amount="9" refreshtime="-1" NotPositive="0" desc="lfs鞑靼士兵_过雁谷">
+                <position x="242.796" z="180.230" ay="5.981" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="blade1_1" />
+                <position x="250.641" z="180.646" ay="5.981" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="blade1_1" />
+                <position x="246.681" z="180.461" ay="5.981" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="blade1_1" />
+                <position x="238.832" z="180.332" ay="5.981" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="blade1_1" />
+                <position x="250.494" z="184.341" ay="5.981" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="blade1_1" />
+                <position x="247.690" z="184.390" ay="5.981" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="blade1_1" />
+                <position x="244.878" z="184.390" ay="5.981" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="blade1_1" />
+                <position x="242.000" z="184.278" ay="5.981" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="blade1_1" />
+                <position x="254.315" z="180.826" ay="5.981" BornAction="fi_stand" RandomAction="fi_stand" WeaponMode="blade1_1" />
+            </item>
+            <item No="2" id="FunnpcClone0048408" ay="0.368" amount="8" refreshtime="-1" NotPositive="0" desc="lfs鞑靼弓箭手_过雁谷">
+                <position x="247.211" z="175.503" ay="0.368" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="250.818" z="175.954" ay="0.368" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="253.934" z="175.709" ay="0.368" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="243.692" z="175.182" ay="0.368" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="240.473" z="175.014" ay="0.368" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="242.714" z="171.170" ay="0.368" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="247.204" z="171.615" ay="0.368" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="251.707" z="172.207" ay="0.368" BornAction="fi_stand" RandomAction="fi_stand" />
+            </item>
+        </creator>
+        <creator No="6509E694C3814608BEDE32B78D55F0D3" x="252.618" y="-23.898" z="339.595" radius="10.0" WakeupRange="47.9" ChaseRange="80.0" PatrolRange="0.0" SpringRange="40" HateLink="1">
+            <item No="1" id="FunnpcClone0048402" ay="3.408" amount="5" refreshtime="120000" NotPositive="0" desc="lfs雁门关老兵_过雁谷">
+                <position x="249.293" z="337.972" ay="3.408" BornAction="fi_stand" RandomAction="fi_stand" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="252.779" z="336.002" ay="3.408" BornAction="fi_stand" RandomAction="fi_stand" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="245.866" z="339.816" ay="3.408" BornAction="fi_stand" RandomAction="fi_stand" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="248.457" z="343.254" ay="3.408" BornAction="fi_stand" RandomAction="fi_stand" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="251.412" z="340.568" ay="3.408" BornAction="fi_stand" RandomAction="fi_stand" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+            </item>
+            <item No="2" id="FunnpcClone0048404" ay="3.626" amount="6" refreshtime="120000" NotPositive="0" desc="lfs雁门关弓箭手_过雁谷">
+                <position x="255.224" z="342.387" ay="3.626" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="257.067" z="340.134" ay="3.626" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="253.383" z="344.316" ay="3.626" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="256.768" z="344.034" ay="3.626" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="258.251" z="342.375" ay="3.626" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="255.127" z="345.592" ay="3.626" BornAction="fi_stand" RandomAction="fi_stand" />
+            </item>
+        </creator>
+        <creator No="7337640A2AD8422ABBC425C2F80B0D3C" x="233.916" y="-18.741" z="368.793" radius="15.0" WakeupRange="55.6" ChaseRange="64.8" PatrolRange="0.0" SpringRange="40" HateLink="1">
+            <item No="1" id="FunnpcClone0048402" ay="3.286" amount="16" refreshtime="120000" NotPositive="0" desc="lfs雁门关老兵_过雁谷">
+                <position x="237.529" z="366.209" ay="3.286" BornAction="fi_stand" RandomAction="fi_stand" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="241.086" z="366.391" ay="3.286" BornAction="fi_stand" RandomAction="fi_stand" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="234.295" z="366.001" ay="3.286" BornAction="fi_stand" RandomAction="fi_stand" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="230.613" z="366.295" ay="3.286" BornAction="fi_stand" RandomAction="fi_stand" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="240.679" z="370.674" ay="3.286" BornAction="fi_stand" RandomAction="fi_stand" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="237.098" z="370.526" ay="3.286" BornAction="fi_stand" RandomAction="fi_stand" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="233.653" z="370.662" ay="3.286" BornAction="fi_stand" RandomAction="fi_stand" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="230.569" z="370.486" ay="3.286" BornAction="fi_stand" RandomAction="fi_stand" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="243.525" z="374.243" ay="3.286" BornAction="fi_stand" RandomAction="fi_stand" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="231.619" z="374.577" ay="3.286" BornAction="fi_stand" RandomAction="fi_stand" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="239.573" z="374.631" ay="3.286" BornAction="fi_stand" RandomAction="fi_stand" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="228.799" z="374.665" ay="3.286" BornAction="fi_stand" RandomAction="fi_stand" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="243.120" z="377.857" ay="3.286" BornAction="fi_stand" RandomAction="fi_stand" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="239.447" z="377.755" ay="3.286" BornAction="fi_stand" RandomAction="fi_stand" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="231.775" z="378.405" ay="3.286" BornAction="fi_stand" RandomAction="fi_stand" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="228.662" z="378.276" ay="3.286" BornAction="fi_stand" RandomAction="fi_stand" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+            </item>
+            <item No="2" id="FunnpcClone0048410" ay="2.944" amount="1" refreshtime="120000" NotPositive="0" desc="lfs雁门关守军小队长_过雁谷">
+                <position x="235.222" z="374.757" ay="2.944" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="F85D602322014C0195B50C6BF4993CA0" x="210.804" y="-25.330" z="314.003" radius="10.0" WakeupRange="50.0" ChaseRange="40.0" PatrolRange="0.0" SpringRange="80" HateLink="1">
+            <item No="1" id="FunnpcClone0048404" ay="2.281" amount="9" refreshtime="120000" NotPositive="0" desc="lfs雁门关弓箭手_过雁谷">
+                <position x="207.386" z="311.287" ay="2.281" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="209.438" z="312.676" ay="2.281" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="212.146" z="314.470" ay="2.281" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="210.474" z="316.685" ay="2.281" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="208.164" z="315.375" ay="2.281" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="206.426" z="313.874" ay="2.281" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="209.143" z="318.689" ay="2.281" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="207.295" z="317.494" ay="2.281" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="205.434" z="316.155" ay="2.281" BornAction="fi_stand" RandomAction="fi_stand" />
+            </item>
+        </creator>
+        <creator No="DD4B9A90148A43C9A07BD159C925BAFC" x="240.616" y="-1.184" z="458.327" radius="10.0" WakeupRange="20.0" ChaseRange="27.0" PatrolRange="0.0" SpringRange="30" HateLink="1">
+            <item No="1" id="FunnpcClone0048401" ay="3.244" amount="12" refreshtime="-1" NotPositive="0" desc="lfs雁门关骑兵_过雁谷">
+                <position x="243.556" z="455.340" ay="3.244" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="240.929" z="455.795" ay="3.244" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="238.575" z="456.031" ay="3.244" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="236.187" z="456.448" ay="3.244" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="244.081" z="460.031" ay="3.244" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="241.576" z="460.631" ay="3.244" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="239.308" z="460.777" ay="3.244" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="236.786" z="460.808" ay="3.244" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="244.673" z="464.869" ay="3.244" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="242.086" z="465.481" ay="3.244" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="239.729" z="465.661" ay="3.244" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="237.231" z="465.602" ay="3.244" BornAction="fi_stand" RandomAction="fi_stand" />
+            </item>
+        </creator>
+        <creator No="6E3A209642F048ACB15C678A2860AE8A" x="475.668" y="-61.030" z="68.209" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048001" ay="5.394" amount="6" refreshtime="120000" NotPositive="0" desc="lfs鞑靼枪兵_大营">
+                <position x="470.421" z="69.742" ay="5.394" WeaponMode="lspear1_1" />
+                <position x="482.366" z="68.665" ay="5.179" WeaponMode="lspear1_1" />
+                <position x="482.595" z="73.197" ay="5.179" WeaponMode="lspear1_1" />
+                <position x="470.679" z="74.192" ay="5.394" WeaponMode="lspear1_1" />
+                <position x="482.171" z="64.843" ay="5.179" WeaponMode="lspear1_1" />
+                <position x="470.198" z="65.746" ay="5.394" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="3BF159CB8FD6485D936F337DA3513943" x="463.480" y="-75.085" z="-85.532" radius="16.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="Leader_clone004_062" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="鞑靼军巡逻1" />
+        </creator>
+        <creator No="32FAA28074AA458C9C9F8BFA2BB941B0" x="296.702" y="-6.671" z="354.776" radius="7.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048501" ay="4.007" amount="5" refreshtime="-1" NotPositive="0" desc="lfs将军岭守军_将军领">
+                <position x="295.987" z="352.025" ay="4.007" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="300.272" z="354.491" ay="4.007" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="298.491" z="357.603" ay="4.007" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="294.898" z="357.152" ay="4.007" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="298.663" z="352.398" ay="4.007" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="60E201E497F54E549E7C3B31DE50F0D2" x="358.126" y="15.273" z="369.161" radius="7.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048501" ay="4.007" amount="5" refreshtime="-1" NotPositive="0" desc="lfs将军岭守军_将军领">
+                <position x="357.412" z="366.409" ay="4.007" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="361.696" z="368.876" ay="4.007" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="359.916" z="371.988" ay="4.007" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="356.323" z="371.536" ay="4.007" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="360.088" z="366.783" ay="4.007" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="E0C81ACBBB664F688E28ABC37D200CFB" x="410.712" y="32.693" z="401.154" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048502" ay="4.007" amount="4" refreshtime="-1" NotPositive="0" desc="lfs将军岭精英守军_将军领">
+                <position x="409.384" z="395.834" ay="4.007" WeaponMode="lspear1_1" />
+                <position x="407.506" z="401.589" ay="4.007" WeaponMode="lspear1_1" />
+                <position x="406.743" z="406.880" ay="4.007" WeaponMode="lspear1_1" />
+                <position x="403.701" z="399.982" ay="4.007" WeaponMode="lspear1_1" />
+            </item>
+            <item No="2" id="FunnpcClone0048503" ay="4.007" amount="4" refreshtime="-1" NotPositive="0" desc="lfs将军领弓箭手_将军领">
+                <position x="414.675" z="405.464" ay="4.007" />
+                <position x="414.361" z="401.626" ay="4.007" />
+                <position x="417.331" z="398.300" ay="4.007" />
+                <position x="418.547" z="402.968" ay="4.007" />
+            </item>
+            <item No="3" id="FunnpcClone0048500" ay="4.834" amount="1" refreshtime="-1" NotPositive="0" desc="lfs将军岭守军队长_将军领">
+                <position x="411.259" z="402.315" ay="4.834" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="AB00FEF685914F2DA60B46FC20FFBCD9" x="424.484" y="54.906" z="337.283" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048502" ay="4.007" amount="2" refreshtime="-1" NotPositive="0" desc="lfs将军岭精英守军_将军领">
+                <position x="427.127" z="342.333" ay="4.007" WeaponMode="lspear1_1" />
+                <position x="427.217" z="338.631" ay="4.007" WeaponMode="lspear1_1" />
+            </item>
+            <item No="2" id="FunnpcClone0048501" ay="0.709" amount="2" refreshtime="-1" NotPositive="0" desc="lfs将军岭守军_将军领">
+                <position x="420.644" z="338.308" ay="0.709" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="420.239" z="342.589" ay="1.229" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+            </item>
+            <item No="3" id="FunnpcClone0048503" ay="0.479" amount="3" refreshtime="-1" NotPositive="0" desc="lfs将军领弓箭手_将军领">
+                <position x="419.277" z="330.607" ay="0.479" />
+                <position x="419.545" z="332.096" ay="1.084" />
+                <position x="420.375" z="331.161" ay="1.084" BornAction="sitloop" RandomAction="sitloop" />
+            </item>
+        </creator>
+        <creator No="429132A8BE274EA09F484617C6A57D86" x="453.872" y="81.956" z="264.526" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048500" ay="6.122" amount="1" refreshtime="-1" NotPositive="0" desc="lfs将军岭守军队长_将军领">
+                <position x="455.953" z="260.892" ay="6.122" WeaponMode="lspear1_1" />
+            </item>
+            <item No="2" id="FunnpcClone0048501" ay="5.262" amount="4" refreshtime="-1" NotPositive="0" desc="lfs将军岭守军_将军领">
+                <position x="458.246" z="271.602" ay="5.262" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="452.440" z="271.788" ay="5.302" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="450.907" z="260.726" ay="5.302" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="460.460" z="260.802" ay="5.302" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="60EA3AD66FDF436A8D8AA0F5804C2928" x="709.450" y="-112.763" z="273.801" radius="8.0" WakeupRange="32.8" ChaseRange="32.9" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048100" ay="2.374" amount="5" refreshtime="-1" NotPositive="0" desc="lfs叛军小兵_卢仲">
+                <position x="706.000" z="276.963" ay="2.374" BornAction="sitloop" RandomAction="sitloop" WeaponMode="lspear1_1" />
+                <position x="705.812" z="274.936" ay="0.866" WeaponMode="lspear1_1" />
+                <position x="708.528" z="270.918" ay="-1" WeaponMode="lspear1_1" />
+                <position x="709.878" z="272.272" ay="4.554" WeaponMode="lspear1_1" />
+                <position x="707.472" z="275.993" ay="3.917" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="2709B956AE7D4183BFE5772A06D239FC" x="722.135" y="-112.763" z="286.371" radius="7.0" WakeupRange="28.1" ChaseRange="38.1" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048101" ay="0.434" amount="1" refreshtime="-1" NotPositive="0" desc="lfs叛军小校_卢仲">
+                <position x="725.031" z="288.135" ay="0.434" BornAction="atkhit1" RandomAction="atkhit1" WeaponMode="lspear1_1" />
+            </item>
+            <item No="2" id="FunnpcClone0048100" ay="0.364" amount="2" refreshtime="-1" NotPositive="0" desc="lfs叛军小兵_卢仲">
+                <position x="721.169" z="288.158" ay="0.364" BornAction="atkhit1" RandomAction="atkhit1" WeaponMode="lspear1_1" />
+                <position x="723.636" z="284.153" ay="0.494" BornAction="atkhit1" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="EED4D095FE884B3CA494619852BB70A5" x="706.480" y="-111.284" z="254.292" radius="5.0" WakeupRange="24.3" ChaseRange="33.1" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048102" ay="2.339" amount="3" refreshtime="-1" NotPositive="0" desc="lfs叛军弓箭手_卢仲">
+                <position x="706.115" z="256.863" ay="2.339" BornAction="sitloop" RandomAction="sitloop" />
+                <position x="704.806" z="255.992" ay="1.609" BornAction="sitloop" RandomAction="sitloop" />
+                <position x="706.714" z="254.856" ay="5.137" BornAction="sitloop" RandomAction="sitloop" />
+            </item>
+        </creator>
+        <creator No="9FD95FED406C44598551E70F8156223D" x="711.299" y="-46.838" z="723.009" radius="10.0" WakeupRange="33.6" ChaseRange="36.5" PatrolRange="0.0">
+            <item No="1" id="FunnpcClone0048205" ay="3.039" amount="1" refreshtime="-1" NotPositive="1" desc="lfs武装村民_东泉村">
+                <position x="712.898" z="725.466" ay="3.039" BornAction="atkhit3" RandomAction="atkhit3" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="2" id="FunnpcClone0048206" ay="3.039" amount="1" refreshtime="-1" NotPositive="1" desc="lfs武装村民_东泉村">
+                <position x="715.345" z="725.843" ay="3.039" BornAction="atkhit3" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="3" id="FunnpcClone0048207" ay="3.039" amount="1" refreshtime="-1" NotPositive="1" desc="lfs武装村民_东泉村">
+                <position x="709.593" z="729.090" ay="3.039" BornAction="atkhit3" RandomAction="atkhit3" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="4" id="FunnpcClone0048208" ay="3.039" amount="1" refreshtime="-1" NotPositive="1" desc="lfs武装村民_东泉村">
+                <position x="711.169" z="724.441" ay="3.039" BornAction="atkhit3" RandomAction="atkhit3" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="5" id="FunnpcClone0048209" ay="3.039" amount="1" refreshtime="-1" NotPositive="1" desc="lfs武装村民_东泉村">
+                <position x="714.430" z="730.788" ay="3.039" BornAction="atkhit3" RandomAction="atkhit3" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="6" id="FunnpcClone0048210" ay="3.039" amount="1" refreshtime="-1" NotPositive="1" desc="lfs武装村民_东泉村">
+                <position x="711.705" z="729.973" ay="3.039" BornAction="atkhit3" RandomAction="atkhit3" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="7" id="FunnpcClone0048211" ay="3.039" amount="1" refreshtime="-1" NotPositive="1" desc="lfs武装村民_东泉村">
+                <position x="708.631" z="723.408" ay="3.039" BornAction="atkhit3" RandomAction="atkhit3" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="8" id="FunnpcClone0048212" ay="3.039" amount="1" refreshtime="-1" NotPositive="1" desc="lfs武装村民_东泉村">
+                <position x="706.920" z="727.766" ay="3.039" BornAction="atkhit3" RandomAction="atkhit3" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="9" id="FunnpcClone0048224" ay="3.099" amount="2" refreshtime="-1" NotPositive="0" desc="lfs明军小兵_东泉村">
+                <position x="714.493" z="720.993" ay="3.099" BornAction="atkhit3" RandomAction="atkhit3" WeaponMode="lspear1_1" />
+                <position x="710.653" z="719.444" ay="3.099" BornAction="atkhit3" RandomAction="atkhit3" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="0303B2538A1C46DCA59185A275C782D8" x="726.600" y="-45.682" z="672.008" radius="15.0" WakeupRange="31.4" ChaseRange="39.9" PatrolRange="0.0">
+            <item No="1" id="FunnpcClone0048226" ay="3.789" amount="2" refreshtime="-1" NotPositive="0" desc="lfs明军弓箭手_东泉村">
+                <position x="732.542" z="673.481" ay="3.789" BornAction="sitloop" RandomAction="sitloop" />
+                <position x="731.412" z="674.689" ay="3.039" BornAction="sitloop" RandomAction="sitloop" />
+            </item>
+            <item No="2" id="FunnpcClone0048227" ay="1.186" amount="1" refreshtime="-1" NotPositive="1" desc="lfs武装猎人_东泉村">
+                <position x="730.413" z="672.426" ay="1.186" />
+            </item>
+            <item No="3" id="FunnpcClone0048211" ay="1.186" amount="1" refreshtime="-1" NotPositive="1" desc="lfs武装村民_东泉村">
+                <position x="721.136" z="661.981" ay="1.186" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="4" id="FunnpcClone0048209" ay="3.999" amount="1" refreshtime="-1" NotPositive="1" desc="lfs武装村民_东泉村">
+                <position x="720.705" z="670.684" ay="3.999" BornAction="sitloop" RandomAction="sitloop" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="5" id="FunnpcClone0048201" ay="1.186" amount="1" refreshtime="-1" NotPositive="1" desc="lfs村民甲_东泉村">
+                <position x="718.951" z="674.593" ay="1.186" BornAction="ty_wakuangloop" RandomAction="ty_wakuangloop" />
+            </item>
+        </creator>
+        <creator No="38F5DB6D0C4F4C2ABD76B74555341490" x="674.104" y="-46.827" z="730.084" radius="7.0" WakeupRange="25.0" ChaseRange="35.0" PatrolRange="0.0">
+            <item No="1" id="FunnpcClone0048206" ay="0.904" amount="2" refreshtime="-1" NotPositive="1" desc="lfs武装村民_东泉村">
+                <position x="676.557" z="726.249" ay="0.904" WeaponMode="lstuff1_1" />
+                <position x="672.027" z="728.543" ay="0.626" BornAction="sitloop" RandomAction="sitloop" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="2" id="FunnpcClone0048208" ay="0.796" amount="1" refreshtime="-1" NotPositive="1" desc="lfs武装村民_东泉村" />
+        </creator>
+        <creator No="33D578F634664FE1B7D23F4E7D622F87" x="688.621" y="-46.656" z="757.500" radius="7.0" WakeupRange="25.0" ChaseRange="35.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048225" ay="2.789" amount="3" refreshtime="-1" NotPositive="0" desc="lfs明军小校_东泉村">
+                <position x="690.835" z="755.848" ay="2.789" WeaponMode="lspear1_1" />
+                <position x="688.328" z="755.484" ay="2.789" WeaponMode="lspear1_1" />
+                <position x="685.583" z="755.509" ay="2.789" WeaponMode="lspear1_1" />
+            </item>
+            <item No="2" id="FunnpcClone0048226" ay="0.904" amount="5" refreshtime="-1" NotPositive="0" desc="lfs明军弓箭手_东泉村">
+                <position x="686.226" z="761.240" ay="0.904" BornAction="sitloop" RandomAction="sitloop" />
+                <position x="688.167" z="761.045" ay="3.599" BornAction="sitloop" RandomAction="sitloop" />
+                <position x="687.001" z="759.554" ay="0.119" BornAction="sitloop" RandomAction="sitloop" />
+                <position x="687.573" z="762.977" ay="3.599" />
+                <position x="689.767" z="761.888" ay="3.599" />
+            </item>
+        </creator>
+        <creator No="8C8A76E81B014B80A8DD339756BD779B" x="608.348" y="-31.041" z="826.358" radius="7.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048201" ay="6.164" amount="1" refreshtime="-1" NotPositive="1" desc="lfs村民甲_东泉村">
+                <position x="606.811" z="826.121" ay="6.164" />
+            </item>
+            <item No="2" id="FunnpcClone0048202" ay="2.014" amount="1" refreshtime="-1" NotPositive="1" desc="lfs村民乙_东泉村">
+                <position x="605.936" z="828.255" ay="2.014" BornAction="sitloop" RandomAction="sitloop" />
+            </item>
+            <item No="3" id="FunnpcClone0048203" ay="3.789" amount="1" refreshtime="-1" NotPositive="1" desc="lfs村民丙_东泉村">
+                <position x="608.353" z="829.317" ay="3.789" />
+            </item>
+        </creator>
+        <creator No="213C3127C3494A19BD9E1A11487078A9" x="609.866" y="-30.936" z="774.017" radius="7.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048201" ay="6.164" amount="1" refreshtime="-1" NotPositive="1" desc="lfs村民甲_东泉村" />
+            <item No="2" id="FunnpcClone0048202" ay="2.014" amount="1" refreshtime="-1" NotPositive="1" desc="lfs村民乙_东泉村" />
+            <item No="3" id="FunnpcClone0048203" ay="3.789" amount="1" refreshtime="-1" NotPositive="1" desc="lfs村民丙_东泉村" />
+        </creator>
+        <creator No="445C9B86154541319A82CC5D14670624" x="783.036" y="-41.365" z="825.443" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0">
+            <item No="1" id="FunnpcClone0048205" ay="4.354" amount="1" refreshtime="-1" NotPositive="1" desc="lfs武装村民_东泉村">
+                <position x="778.338" z="827.153" ay="4.354" />
+            </item>
+            <item No="2" id="FunnpcClone0048207" ay="4.354" amount="1" refreshtime="-1" NotPositive="1" desc="lfs武装村民_东泉村">
+                <position x="783.505" z="824.560" ay="4.354" />
+            </item>
+            <item No="3" id="FunnpcClone0048208" ay="4.354" amount="1" refreshtime="-1" NotPositive="1" desc="lfs武装村民_东泉村">
+                <position x="784.890" z="826.192" ay="4.354" />
+            </item>
+            <item No="4" id="FunnpcClone0048210" ay="4.354" amount="1" refreshtime="-1" NotPositive="1" desc="lfs武装村民_东泉村">
+                <position x="782.006" z="823.729" ay="4.354" />
+            </item>
+            <item No="5" id="FunnpcClone0048211" ay="4.354" amount="1" refreshtime="-1" NotPositive="1" desc="lfs武装村民_东泉村">
+                <position x="784.145" z="827.123" ay="4.354" />
+            </item>
+            <item No="6" id="FunnpcClone0048212" ay="4.354" amount="1" refreshtime="-1" NotPositive="1" desc="lfs武装村民_东泉村">
+                <position x="781.997" z="828.068" ay="4.354" />
+            </item>
+            <item No="7" id="FunnpcClone0048224" ay="4.414" amount="1" refreshtime="-1" NotPositive="0" desc="lfs明军小兵_东泉村">
+                <position x="778.519" z="823.182" ay="4.414" />
+            </item>
+        </creator>
+        <creator No="D1331F28804F4FC881192FDFDE80F1D2" x="684.729" y="-45.679" z="802.341" radius="7.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048224" ay="4.414" amount="3" refreshtime="-1" NotPositive="0" desc="lfs明军小兵_东泉村">
+                <position x="686.729" z="801.076" ay="4.414" WeaponMode="lspear1_1" />
+                <position x="686.658" z="805.955" ay="0.521" WeaponMode="lspear1_1" />
+                <position x="688.008" z="805.186" ay="4.414" BornAction="shake" RandomAction="shake" WeaponMode="lspear1_1" />
+            </item>
+            <item No="2" id="FunnpcClone0048225" ay="0.206" amount="1" refreshtime="-1" NotPositive="0" desc="lfs明军小校_东泉村">
+                <position x="685.188" z="800.268" ay="0.206" BornAction="sitloop" RandomAction="sitloop" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="DE89B0881BA6433FBE48569272CD45C1" x="756.765" y="-41.412" z="838.046" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048218" ay="4.414" amount="1" refreshtime="-1" NotPositive="1" desc="lfs李眉(村民）_东泉村">
+                <position x="758.714" z="836.893" ay="4.414" BornAction="shake" RandomAction="shake" />
+            </item>
+            <item No="2" id="FunnpcClone0048217" ay="2.264" amount="1" refreshtime="-1" NotPositive="1" desc="lfs李得钱（落脚商人）_东泉村">
+                <position x="755.824" z="837.139" ay="2.264" />
+            </item>
+        </creator>
+        <creator No="764A354EE7F242BAA3DCEB1B7D2F1BD3" x="790.852" y="-46.020" z="763.740" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048214" ay="4.414" amount="1" refreshtime="-1" NotPositive="1" desc="lfs徐肖（村民）_东泉村">
+                <position x="795.552" z="767.745" ay="4.414" />
+            </item>
+            <item No="2" id="FunnpcClone0048215" ay="4.414" amount="1" refreshtime="-1" NotPositive="1" desc="lfs雷强（村民）_东泉村">
+                <position x="786.718" z="759.921" ay="4.414" />
+            </item>
+            <item No="3" id="FunnpcClone0048219" ay="4.414" amount="1" refreshtime="-1" NotPositive="1" desc="lfs梅兰（村民）_东泉村">
+                <position x="787.279" z="770.577" ay="4.414" />
+            </item>
+        </creator>
+        <creator No="A78765092165464F8493F050BAA61A61" x="752.992" y="-46.968" z="775.945" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048216" ay="4.989" amount="1" refreshtime="-1" NotPositive="1" desc="lfs王铁（混混）_东泉村">
+                <position x="753.818" z="774.273" ay="4.989" BornAction="point" RandomAction="point" />
+            </item>
+            <item No="2" id="FunnpcClone0048221" ay="2.044" amount="1" refreshtime="-1" NotPositive="1" desc="lfs李浪（村民）_东泉村">
+                <position x="751.219" z="776.099" ay="2.044" />
+            </item>
+            <item No="3" id="FunnpcClone0048204" ay="1.744" amount="1" refreshtime="-1" NotPositive="1" desc="lfs村民丁_东泉村">
+                <position x="751.996" z="777.052" ay="1.744" />
+            </item>
+        </creator>
+        <creator No="8D4A2003DCC64CE8933C5AA4C4529DA7" x="665.377" y="-46.546" z="774.342" radius="7.0" WakeupRange="25.0" ChaseRange="35.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048205" ay="4.599" amount="1" refreshtime="-1" NotPositive="1" desc="lfs武装村民_东泉村">
+                <position x="668.552" z="773.116" ay="4.599" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="2" id="FunnpcClone0048207" ay="5.639" amount="1" refreshtime="-1" NotPositive="1" desc="lfs武装村民_东泉村">
+                <position x="666.870" z="770.982" ay="5.639" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="3" id="FunnpcClone0048208" ay="4.654" amount="1" refreshtime="-1" NotPositive="1" desc="lfs武装村民_东泉村">
+                <position x="669.194" z="776.164" ay="4.654" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="4" id="FunnpcClone0048209" ay="0.141" amount="1" refreshtime="-1" NotPositive="1" desc="lfs武装村民_东泉村">
+                <position x="665.118" z="770.516" ay="0.141" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="5" id="FunnpcClone0048210" ay="3.114" amount="1" refreshtime="-1" NotPositive="1" desc="lfs武装村民_东泉村">
+                <position x="666.297" z="777.187" ay="3.114" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="6" id="FunnpcClone0048212" ay="1.744" amount="1" refreshtime="-1" NotPositive="1" desc="lfs武装村民_东泉村">
+                <position x="663.506" z="774.510" ay="1.744" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="7" id="FunnpcClone0048213" ay="1.744" amount="1" refreshtime="-1" NotPositive="1" desc="lfs武装村民_东泉村">
+                <position x="663.085" z="771.307" ay="1.744" WeaponMode="lstuff1_1" />
+            </item>
+        </creator>
+        <creator No="F91C761A40E4435EAA9253CBB19FEB95" x="-53.376" y="-22.461" z="204.370" radius="8.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048600" ay="0.796" amount="4" refreshtime="-1" NotPositive="0" desc="lfs火药库守军_暗影洞">
+                <position x="-54.775" z="201.056" ay="0.796" BornAction="sitloop" RandomAction="sitloop" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="-52.809" z="202.526" ay="2.801" BornAction="sitloop" RandomAction="sitloop" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="-50.254" z="200.206" ay="3.864" BornAction="sitloop" RandomAction="sitloop" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="-53.221" z="198.055" ay="0.796" BornAction="sitloop" RandomAction="sitloop" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="31D022F58E6F487BA010B53B8A1535E8" x="-4.665" y="-16.258" z="275.020" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048601" ay="0.796" amount="2" refreshtime="-1" NotPositive="0" desc="lfs火药库精英守军_暗影洞">
+                <position x="-7.011" z="276.511" ay="0.796" WeaponMode="lspear1_1" />
+                <position x="-1.593" z="274.561" ay="4.036" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="9BE3DA2965B74661898659B901B4B7EE" x="-2.404" y="-10.475" z="363.430" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048601" ay="0.063" amount="2" refreshtime="-1" NotPositive="0" desc="lfs火药库精英守军_暗影洞">
+                <position x="-3.173" z="362.656" ay="0.063" WeaponMode="lspear1_1" />
+                <position x="-2.776" z="365.569" ay="2.716" BornAction="sitloop" RandomAction="sitloop" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="FC32D88E5ACF40EBBE2205DA479CC8A8" x="30.530" y="-7.096" z="386.306" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048601" ay="2.663" amount="2" refreshtime="-1" NotPositive="0" desc="lfs火药库精英守军_暗影洞">
+                <position x="30.789" z="387.367" ay="2.663" WeaponMode="lspear1_1" />
+                <position x="31.952" z="384.665" ay="5.316" BornAction="sitloop" RandomAction="sitloop" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="8CAAFE09198F4EA5A17DAD2C0AD53055" x="74.298" y="-4.971" z="317.409" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048603" ay="1.248" amount="1" refreshtime="-1" NotPositive="0" desc="lfs火药库守军队长_暗影洞" />
+            <item No="2" id="FunnpcClone0048600" ay="5.186" amount="12" refreshtime="-1" NotPositive="0" desc="lfs火药库守军_暗影洞">
+                <position x="81.543" z="316.011" ay="5.186" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="79.881" z="313.999" ay="5.186" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="78.147" z="312.254" ay="5.186" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="76.299" z="310.381" ay="5.186" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="72.568" z="313.342" ay="5.186" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="74.633" z="315.316" ay="5.186" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="76.415" z="317.413" ay="5.186" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="78.310" z="319.470" ay="5.186" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="68.671" z="316.583" ay="5.186" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="70.650" z="318.805" ay="5.186" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="72.614" z="320.681" ay="5.186" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="74.474" z="322.999" ay="5.186" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="EFC4749E26CA480A84E592C5CD9ED591" x="73.904" y="-5.517" z="359.960" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048400" ay="2.848" amount="1" refreshtime="-1" NotPositive="0" desc="lfs雁门关守军大队长_过雁谷">
+                <position x="72.388" z="359.985" ay="2.848" WeaponMode="lspear1_1" />
+            </item>
+            <item No="2" id="FunnpcClone0048601" ay="2.848" amount="2" refreshtime="-1" NotPositive="0" desc="lfs火药库精英守军_暗影洞">
+                <position x="67.086" z="359.217" ay="2.848" WeaponMode="lspear1_1" />
+                <position x="72.488" z="354.249" ay="2.848" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="1E579E4FC92D4E84806DF9CCD9BE8FD4" x="36.618" y="-6.894" z="318.989" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048602" ay="4.433" amount="6" refreshtime="-1" NotPositive="0" desc="lfs火药库弓箭手_暗影洞">
+                <position x="37.886" z="318.280" ay="4.433" />
+                <position x="36.527" z="316.213" ay="5.736" BornAction="sitloop" RandomAction="sitloop" />
+                <position x="35.281" z="316.993" ay="0.698" BornAction="sitloop" RandomAction="sitloop" />
+                <position x="34.400" z="318.196" ay="1.423" BornAction="sitloop" RandomAction="sitloop" />
+                <position x="36.032" z="319.953" ay="3.608" />
+                <position x="38.577" z="321.963" ay="0.590" />
+            </item>
+        </creator>
+        <creator No="93D12AEE3E504FC09DAD3CF00A83A5AE" x="55.421" y="-6.556" z="361.615" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048600" ay="3.158" amount="4" refreshtime="-1" NotPositive="0" desc="lfs火药库守军_暗影洞">
+                <position x="54.230" z="360.545" ay="3.158" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="56.490" z="359.922" ay="2.433" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="57.703" z="363.669" ay="4.433" BornAction="sitloop" RandomAction="sitloop" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="55.871" z="363.964" ay="1.453" BornAction="sitloop" RandomAction="sitloop" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="77D6B0F18DA141729DE8AFD054116523" x="85.390" y="-6.650" z="289.273" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048602" ay="4.836" amount="3" refreshtime="-1" NotPositive="0" desc="lfs火药库弓箭手_暗影洞">
+                <position x="87.508" z="287.476" ay="4.836" BornAction="sitloop" RandomAction="sitloop" />
+                <position x="86.122" z="286.985" ay="6.081" BornAction="sitloop" RandomAction="sitloop" />
+                <position x="84.632" z="287.042" ay="0.523" BornAction="sitloop" RandomAction="sitloop" />
+            </item>
+        </creator>
+        <creator No="9DBAE5A768E2424982F4B50EE7D98225" x="116.313" y="-6.540" z="339.046" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048601" ay="1.518" amount="2" refreshtime="-1" NotPositive="0" desc="lfs火药库精英守军_暗影洞">
+                <position x="114.151" z="340.645" ay="1.518" WeaponMode="lspear1_1" />
+                <position x="118.243" z="336.877" ay="4.731" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="D6707924D2D7417DADAF1DFDE6E2BA90" x="188.297" y="-0.849" z="475.644" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048600" ay="1.518" amount="4" refreshtime="-1" NotPositive="0" desc="lfs火药库守军_暗影洞">
+                <position x="187.413" z="473.374" ay="1.518" BornAction="fi_stand" RandomAction="fi_stand" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="186.132" z="476.743" ay="1.518" BornAction="fi_stand" RandomAction="fi_stand" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="190.401" z="474.844" ay="1.518" BornAction="fi_stand" RandomAction="fi_stand" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="189.920" z="477.510" ay="1.518" BornAction="fi_stand" RandomAction="fi_stand" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="97C5ED8D325D41EEA0EDB917B2E7F301" x="68.459" y="-6.378" z="429.439" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048601" ay="6.241" amount="5" refreshtime="-1" NotPositive="0" desc="lfs火药库精英守军_暗影洞">
+                <position x="66.411" z="431.202" ay="6.241" WeaponMode="lspear1_1" />
+                <position x="67.718" z="425.779" ay="2.548" WeaponMode="lspear1_1" />
+                <position x="70.417" z="425.726" ay="1.518" WeaponMode="lspear1_1" />
+                <position x="69.233" z="431.685" ay="5.171" WeaponMode="lspear1_1" />
+                <position x="71.479" z="430.206" ay="5.896" WeaponMode="lspear1_1" />
+            </item>
+            <item No="2" id="FunnpcClone0048603" ay="0.954" amount="1" refreshtime="-1" NotPositive="0" desc="lfs火药库守军队长_暗影洞">
+                <position x="66.480" z="428.527" ay="0.954" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="E1884D1771AA492B84E8A24D47A1702C" x="99.486" y="-6.278" z="455.804" radius="5.0" WakeupRange="33.3" ChaseRange="40.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048602" ay="3.696" amount="5" refreshtime="-1" NotPositive="0" desc="lfs火药库弓箭手_暗影洞">
+                <position x="100.984" z="453.053" ay="3.696" />
+                <position x="96.642" z="454.242" ay="2.661" />
+                <position x="98.868" z="454.626" ay="0.838" />
+                <position x="101.921" z="455.696" ay="0.833" />
+                <position x="100.264" z="457.731" ay="1.218" />
+            </item>
+        </creator>
+        <creator No="A77CB0329F7B40ACAFC4262484E8C2F5" x="169.299" y="-2.438" z="464.741" radius="5.0" WakeupRange="23.4" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048602" ay="1.111" amount="5" refreshtime="-1" NotPositive="0" desc="lfs火药库弓箭手_暗影洞">
+                <position x="170.797" z="461.990" ay="1.111" />
+                <position x="166.455" z="463.180" ay="4.841" />
+                <position x="167.444" z="465.179" ay="5.343" />
+                <position x="171.734" z="464.634" ay="0.833" />
+                <position x="170.077" z="466.669" ay="1.218" />
+            </item>
+        </creator>
+        <creator No="2AB643CF72A44C3C83750F3EF1D1B140" x="250.440" y="-56.747" z="104.520" radius="10.0" WakeupRange="60.0" ChaseRange="70.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048002" ay="0.156" amount="9" refreshtime="120000" NotPositive="0" desc="lfs鞑靼弓箭手_大营">
+                <position x="245.987" z="108.343" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="250.767" z="108.637" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="255.137" z="108.229" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="246.164" z="104.800" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="250.737" z="104.602" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="246.604" z="100.416" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="250.625" z="100.259" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="254.148" z="100.170" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="254.705" z="104.577" ay="0.156" BornAction="fi_stand" RandomAction="fi_stand" />
+            </item>
+        </creator>
+        <creator No="F5236224777A49019579E7070B4AD69C" x="769.706" y="-43.436" z="695.331" radius="15.0" WakeupRange="31.4" ChaseRange="39.9" PatrolRange="0.0">
+            <item No="1" id="FunnpcClone0048226" ay="3.789" amount="2" refreshtime="-1" NotPositive="0" desc="lfs明军弓箭手_东泉村">
+                <position x="775.648" z="696.804" ay="3.789" BornAction="sitloop" RandomAction="sitloop" />
+                <position x="774.518" z="698.012" ay="3.039" BornAction="sitloop" RandomAction="sitloop" />
+            </item>
+            <item No="2" id="FunnpcClone0048211" ay="4.849" amount="1" refreshtime="-1" NotPositive="1" desc="lfs武装村民_东泉村">
+                <position x="760.899" z="689.642" ay="4.849" />
+            </item>
+            <item No="3" id="FunnpcClone0048209" ay="0.271" amount="1" refreshtime="-1" NotPositive="1" desc="lfs武装村民_东泉村">
+                <position x="757.392" z="689.692" ay="0.271" BornAction="sitloop" RandomAction="sitloop" WeaponMode="lstuff1_1" />
+            </item>
+            <item No="4" id="FunnpcClone0048201" ay="1.186" amount="1" refreshtime="-1" NotPositive="1" desc="lfs村民甲_东泉村">
+                <position x="761.821" z="701.993" ay="1.186" BornAction="ty_wakuangloop" RandomAction="ty_wakuangloop" />
+            </item>
+        </creator>
+        <creator No="3F0E8632DDF2424286DD5956B06D2820" x="648.405" y="-44.104" z="909.901" radius="10.0" WakeupRange="30.0" ChaseRange="50.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048203" ay="4.894" amount="1" refreshtime="-1" NotPositive="1" desc="lfs村民丙_东泉村">
+                <position x="651.754" z="908.690" ay="4.894" BornAction="sitloop" RandomAction="sitloop" />
+            </item>
+            <item No="2" id="FunnpcClone0048202" ay="2.044" amount="1" refreshtime="-1" NotPositive="1" desc="lfs村民乙_东泉村">
+                <position x="647.317" z="910.666" ay="2.044" />
+            </item>
+        </creator>
+        <creator No="2C7581520E69496E9B2D3D4B865706B7" x="577.263" y="-36.578" z="919.492" radius="10.0" WakeupRange="30.0" ChaseRange="50.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048203" ay="6.269" amount="1" refreshtime="-1" NotPositive="1" desc="lfs村民丙_东泉村">
+                <position x="576.783" z="916.140" ay="6.269" BornAction="sitloop" RandomAction="sitloop" />
+            </item>
+            <item No="2" id="FunnpcClone0048202" ay="2.694" amount="1" refreshtime="-1" NotPositive="1" desc="lfs村民乙_东泉村">
+                <position x="575.357" z="920.117" ay="2.694" />
+            </item>
+        </creator>
+        <creator No="0866E1ED542A475CBC92060C01668FC6" x="502.612" y="-35.817" z="918.055" radius="10.0" WakeupRange="30.0" ChaseRange="50.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048203" ay="4.894" amount="1" refreshtime="-1" NotPositive="1" desc="lfs村民丙_东泉村">
+                <position x="505.782" z="921.433" ay="4.894" BornAction="sitloop" RandomAction="sitloop" />
+            </item>
+            <item No="2" id="FunnpcClone0048202" ay="2.044" amount="1" refreshtime="-1" NotPositive="1" desc="lfs村民乙_东泉村">
+                <position x="501.346" z="920.174" ay="2.044" />
+            </item>
+            <item No="3" id="FunnpcClone0048223" ay="2.044" amount="1" refreshtime="-1" NotPositive="1" desc="lfs狗_东泉村">
+                <position x="504.626" z="923.043" ay="2.044" />
+            </item>
+            <item No="4" id="FunnpcClone0048204" ay="4.554" amount="1" refreshtime="-1" NotPositive="1" desc="lfs村民丁_东泉村">
+                <position x="506.846" z="916.122" ay="4.554" />
+            </item>
+        </creator>
+        <creator No="4A9E52E919CF4DAB8607B8D4B450EA68" x="170.199" y="0.279" z="760.177" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048711" ay="-1" amount="2" refreshtime="-1" NotPositive="1" desc="lfs东泉村村民乙_雁门关">
+                <position x="166.637" z="756.446" ay="-1" />
+                <position x="167.198" z="761.419" ay="-1" />
+            </item>
+            <item No="2" id="FunnpcClone0048712" ay="-1" amount="1" refreshtime="-1" NotPositive="1" desc="lfs东泉村村民丙_雁门关">
+                <position x="171.486" z="762.873" ay="-1" />
+            </item>
+            <item No="3" id="FunnpcClone0048713" ay="-1" amount="1" refreshtime="-1" NotPositive="1" desc="lfs东泉村村民丁_雁门关">
+                <position x="170.899" z="758.087" ay="-1" />
+            </item>
+        </creator>
+        <creator No="653B4C8E32484EB0B55F8A991317A28A" x="249.691" y="0.243" z="671.138" radius="8.0" WakeupRange="70.0" ChaseRange="80.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048701" ay="0.589" amount="2" refreshtime="120000" NotPositive="0" desc="lfs雁门关守军_雁门关">
+                <position x="243.853" z="669.403" ay="0.589" WeaponMode="lspear1_1" />
+                <position x="256.084" z="672.324" ay="3.204" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="E8A5FBA9C77245CC9FF595F08B1FA609" x="243.254" y="0.243" z="698.345" radius="8.0" WakeupRange="60.0" ChaseRange="70.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048701" ay="0.589" amount="2" refreshtime="120000" NotPositive="0" desc="lfs雁门关守军_雁门关">
+                <position x="237.417" z="696.611" ay="0.589" WeaponMode="lspear1_1" />
+                <position x="249.648" z="699.532" ay="3.204" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="ED29DDBF796543FD8107A19E8F5A76C7" x="256.690" y="0.243" z="643.380" radius="8.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048701" ay="0.589" amount="2" refreshtime="120000" NotPositive="0" desc="lfs雁门关守军_雁门关">
+                <position x="250.852" z="641.646" ay="0.589" WeaponMode="lspear1_1" />
+                <position x="263.083" z="644.567" ay="3.204" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="409FD2466A1B4E7EADB258651CFE2200" x="264.372" y="0.243" z="611.783" radius="8.0" WakeupRange="60.0" ChaseRange="70.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048701" ay="0.589" amount="2" refreshtime="120000" NotPositive="0" desc="lfs雁门关守军_雁门关">
+                <position x="258.534" z="610.049" ay="0.589" WeaponMode="lspear1_1" />
+                <position x="270.765" z="612.970" ay="3.204" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="C61A71A837F346ADB9E678D1D09CBF56" x="271.830" y="0.243" z="582.115" radius="8.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048701" ay="0.589" amount="2" refreshtime="120000" NotPositive="0" desc="lfs雁门关守军_雁门关">
+                <position x="265.992" z="580.381" ay="0.589" WeaponMode="lspear1_1" />
+                <position x="278.223" z="583.302" ay="3.204" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="50DC8555154F4E9CBF6CDD0D810AD67B" x="268.808" y="0.243" z="551.360" radius="8.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048701" ay="1.204" amount="2" refreshtime="120000" NotPositive="0" desc="lfs雁门关守军_雁门关">
+                <position x="263.040" z="553.312" ay="1.204" WeaponMode="lspear1_1" />
+                <position x="274.715" z="548.641" ay="3.819" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="89581CD4DC9142B69143141F5CB1FD4D" x="237.755" y="0.243" z="632.475" radius="8.0" WakeupRange="60.0" ChaseRange="70.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048701" ay="2.164" amount="2" refreshtime="120000" NotPositive="0" desc="lfs雁门关守军_雁门关">
+                <position x="236.046" z="638.320" ay="2.164" WeaponMode="lspear1_1" />
+                <position x="238.915" z="626.077" ay="4.779" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="3DF5837B9A6A49BBBA4E0DCD67F351C1" x="212.414" y="0.243" z="626.609" radius="8.0" WakeupRange="60.0" ChaseRange="70.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048701" ay="2.164" amount="2" refreshtime="120000" NotPositive="0" desc="lfs雁门关守军_雁门关">
+                <position x="210.704" z="632.454" ay="2.164" WeaponMode="lspear1_1" />
+                <position x="213.573" z="620.211" ay="4.779" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="7358FF0582E746E9A122406A908FD83B" x="185.837" y="0.243" z="619.879" radius="8.0" WakeupRange="70.0" ChaseRange="80.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048701" ay="2.164" amount="2" refreshtime="120000" NotPositive="0" desc="lfs雁门关守军_雁门关">
+                <position x="184.117" z="625.740" ay="2.164" WeaponMode="lspear1_1" />
+                <position x="186.986" z="613.497" ay="4.779" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="1BAE12553A1842D4B9CD9822C666F208" x="300.528" y="0.243" z="629.512" radius="8.0" WakeupRange="60.0" ChaseRange="70.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048701" ay="2.164" amount="2" refreshtime="120000" NotPositive="0" desc="lfs雁门关守军_雁门关">
+                <position x="298.633" z="636.216" ay="2.164" WeaponMode="lspear1_1" />
+                <position x="301.827" z="622.212" ay="4.779" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="6CDE6B539AEB433BB4948868B17FE842" x="277.670" y="0.243" z="623.452" radius="8.0" WakeupRange="60.0" ChaseRange="70.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048701" ay="2.164" amount="2" refreshtime="120000" NotPositive="0" desc="lfs雁门关守军_雁门关">
+                <position x="275.775" z="630.155" ay="2.164" WeaponMode="lspear1_1" />
+                <position x="278.969" z="616.151" ay="4.779" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="E6C5F54E075E49A0B916697A2B222977" x="291.642" y="0.000" z="579.723" radius="10.0" WakeupRange="60.0" ChaseRange="70.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048709" ay="4.308" amount="12" refreshtime="120000" NotPositive="0" desc="lfs雁门关弓箭手_雁门关">
+                <position x="293.175" z="582.625" ay="4.308" />
+                <position x="294.061" z="578.966" ay="-1" />
+                <position x="295.363" z="575.430" ay="3.880" />
+                <position x="292.466" z="586.209" ay="4.474" />
+                <position x="288.673" z="585.143" ay="-1" />
+                <position x="289.652" z="581.634" ay="-1" />
+                <position x="290.500" z="578.082" ay="4.535" />
+                <position x="291.723" z="574.421" ay="3.655" />
+                <position x="285.370" z="584.183" ay="4.540" />
+                <position x="286.093" z="580.599" ay="-1" />
+                <position x="286.961" z="577.021" ay="4.377" />
+                <position x="288.211" z="573.542" ay="4.007" />
+            </item>
+        </creator>
+        <creator No="705CE2BCFFEC4757BCD165096771958C" x="218.636" y="0.000" z="662.407" radius="26.8" WakeupRange="80.0" ChaseRange="110.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048700" ay="4.448" amount="20" refreshtime="120000" NotPositive="0" desc="lfs雁门关骑兵_雁门关">
+                <position x="211.790" z="647.930" ay="4.448" />
+                <position x="210.065" z="654.924" ay="4.448" />
+                <position x="208.058" z="662.066" ay="4.448" />
+                <position x="206.098" z="669.506" ay="4.448" />
+                <position x="203.975" z="676.943" ay="4.448" />
+                <position x="219.394" z="649.756" ay="4.448" />
+                <position x="217.558" z="656.879" ay="4.448" />
+                <position x="215.620" z="663.901" ay="4.448" />
+                <position x="213.610" z="671.504" ay="4.448" />
+                <position x="211.618" z="678.811" ay="4.448" />
+                <position x="218.887" z="680.603" ay="4.448" />
+                <position x="220.873" z="673.458" ay="4.448" />
+                <position x="222.875" z="665.963" ay="4.448" />
+                <position x="224.730" z="658.803" ay="4.448" />
+                <position x="226.764" z="651.753" ay="4.448" />
+                <position x="233.786" z="653.660" ay="4.448" />
+                <position x="232.028" z="660.709" ay="4.448" />
+                <position x="229.982" z="667.826" ay="4.448" />
+                <position x="227.952" z="675.297" ay="4.448" />
+                <position x="225.967" z="682.514" ay="4.448" />
+            </item>
+        </creator>
+        <creator No="58078E818C1E4C36B1CEFC225F4A90A1" x="230.999" y="0.000" z="591.405" radius="28.8" WakeupRange="48.3" ChaseRange="60.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048706" ay="6.053" amount="25" refreshtime="120000" NotPositive="0" desc="lfs雁门关老兵_雁门关">
+                <position x="235.101" z="611.231" ay="6.053" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="243.654" z="613.345" ay="6.053" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="209.960" z="604.088" ay="6.053" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="212.300" z="595.400" ay="6.053" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="220.770" z="597.886" ay="6.053" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="229.242" z="600.118" ay="6.053" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="237.549" z="602.512" ay="6.053" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="246.152" z="604.651" ay="6.053" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="217.061" z="578.731" ay="6.053" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="225.283" z="581.209" ay="6.053" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="233.850" z="583.151" ay="6.053" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="231.583" z="591.744" ay="6.053" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="222.927" z="589.664" ay="6.053" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="214.671" z="587.311" ay="6.053" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="227.592" z="572.513" ay="6.053" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="236.224" z="574.741" ay="6.053" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="244.647" z="577.435" ay="6.053" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="242.497" z="585.999" ay="6.053" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="240.258" z="594.216" ay="6.053" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="248.507" z="596.255" ay="6.053" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="250.686" z="588.154" ay="6.053" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="253.446" z="579.557" ay="6.053" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="219.192" z="570.403" ay="6.053" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="218.377" z="606.289" ay="6.053" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="226.881" z="608.905" ay="6.053" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="C59134E6A67E4CAD885A6228E8D2B4F9" x="372.969" y="1.545" z="594.400" radius="28.8" WakeupRange="63.5" ChaseRange="64.2" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048706" ay="6.103" amount="20" refreshtime="120000" NotPositive="0" desc="lfs雁门关老兵_雁门关">
+                <position x="369.819" z="610.748" ay="6.103" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="377.809" z="612.650" ay="6.103" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="385.875" z="615.187" ay="6.103" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="361.681" z="609.359" ay="6.103" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="363.284" z="602.265" ay="6.103" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="371.564" z="603.454" ay="6.103" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="379.588" z="605.469" ay="6.103" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="387.555" z="607.821" ay="6.103" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="367.180" z="587.360" ay="6.103" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="374.741" z="588.937" ay="6.103" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="383.441" z="590.728" ay="6.103" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="381.377" z="598.125" ay="6.103" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="373.337" z="595.877" ay="6.103" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="365.076" z="594.582" ay="6.103" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="384.811" z="583.526" ay="6.103" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="376.552" z="582.201" ay="6.103" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="368.637" z="580.501" ay="6.103" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="389.258" z="600.556" ay="6.103" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="391.086" z="593.034" ay="6.103" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="392.875" z="586.237" ay="6.103" BornAction="atkhit1" RandomAction="atkhit1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="6492C35F0F394CE8BB6A20D4168E9A1F" x="377.053" y="-0.048" z="644.889" radius="8.0" WakeupRange="60.0" ChaseRange="70.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048701" ay="0.579" amount="2" refreshtime="120000" NotPositive="0" desc="lfs雁门关守军_雁门关">
+                <position x="370.377" z="642.899" ay="0.579" WeaponMode="lspear1_1" />
+                <position x="384.334" z="646.291" ay="3.194" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="BD691382B31B4BD8B3539B1617DD3804" x="370.839" y="15.749" z="671.540" radius="8.0" WakeupRange="60.0" ChaseRange="70.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048701" ay="0.579" amount="2" refreshtime="120000" NotPositive="0" desc="lfs雁门关守军_雁门关">
+                <position x="365.737" z="670.150" ay="0.579" WeaponMode="lspear1_1" />
+                <position x="376.165" z="672.468" ay="3.194" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="FC3BBA848FCE412B8AC568A6BE604C1D" x="364.724" y="15.749" z="697.807" radius="8.0" WakeupRange="60.0" ChaseRange="70.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048701" ay="0.579" amount="2" refreshtime="120000" NotPositive="0" desc="lfs雁门关守军_雁门关">
+                <position x="359.621" z="696.418" ay="0.579" WeaponMode="lspear1_1" />
+                <position x="370.049" z="698.736" ay="3.194" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="B12D35EA209A4D918896850237A314BE" x="340.089" y="-0.003" z="587.961" radius="10.0" WakeupRange="80.0" ChaseRange="80.4" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048709" ay="3.194" amount="9" refreshtime="120000" NotPositive="0" desc="lfs雁门关弓箭手_雁门关">
+                <position x="346.251" z="587.720" ay="3.194" />
+                <position x="341.787" z="586.916" ay="3.194" />
+                <position x="337.662" z="585.835" ay="3.194" />
+                <position x="347.212" z="583.001" ay="3.194" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="342.799" z="582.251" ay="3.194" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="338.371" z="581.224" ay="3.194" BornAction="fi_stand" RandomAction="fi_stand" />
+                <position x="345.445" z="591.273" ay="3.194" />
+                <position x="340.889" z="590.202" ay="3.194" />
+                <position x="336.982" z="589.205" ay="3.194" />
+            </item>
+        </creator>
+        <creator No="BFFB1E4E056743D78930D84922E10BD1" x="326.188" y="-0.039" z="681.266" radius="8.0" WakeupRange="60.0" ChaseRange="70.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048701" ay="0.579" amount="2" refreshtime="120000" NotPositive="0" desc="lfs雁门关守军_雁门关">
+                <position x="325.254" z="678.970" ay="0.579" WeaponMode="lspear1_1" />
+                <position x="331.663" z="680.117" ay="3.194" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="73C48B0A35AA40A398E350761ECFA935" x="353.277" y="15.553" z="690.031" radius="8.0" WakeupRange="28.7" ChaseRange="39.6" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048707" ay="0.314" amount="6" refreshtime="120000" NotPositive="0" desc="lfs雁门关精英_雁门关">
+                <position x="349.197" z="692.609" ay="0.314" WeaponMode="lspear1_1" />
+                <position x="354.170" z="693.803" ay="0.314" WeaponMode="lspear1_1" />
+                <position x="350.138" z="688.468" ay="0.314" WeaponMode="lspear1_1" />
+                <position x="355.080" z="689.914" ay="0.314" WeaponMode="lspear1_1" />
+                <position x="350.962" z="684.614" ay="0.314" WeaponMode="lspear1_1" />
+                <position x="355.747" z="685.826" ay="0.314" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="C55F0A83AB244AAA968F045EEEF75D42" x="379.302" y="15.553" z="693.630" radius="8.0" WakeupRange="28.7" ChaseRange="39.6" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048707" ay="3.404" amount="6" refreshtime="120000" NotPositive="0" desc="lfs雁门关精英_雁门关">
+                <position x="383.509" z="691.265" ay="3.404" WeaponMode="lspear1_1" />
+                <position x="378.605" z="689.816" ay="3.404" WeaponMode="lspear1_1" />
+                <position x="382.355" z="695.352" ay="3.404" WeaponMode="lspear1_1" />
+                <position x="377.495" z="693.653" ay="3.404" WeaponMode="lspear1_1" />
+                <position x="381.334" z="699.159" ay="3.404" WeaponMode="lspear1_1" />
+                <position x="376.618" z="697.702" ay="3.404" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="9B32BFC3360B49F3944C7E722ABD5371" x="336.895" y="15.553" z="713.089" radius="10.0" WakeupRange="50.2" ChaseRange="49.9" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048709" ay="3.064" amount="9" refreshtime="120000" NotPositive="0" desc="lfs雁门关弓箭手_雁门关">
+                <position x="330.650" z="715.927" ay="3.064" />
+                <position x="335.620" z="717.316" ay="3.064" />
+                <position x="340.312" z="718.314" ay="3.064" />
+                <position x="331.685" z="710.985" ay="3.064" />
+                <position x="336.710" z="712.187" ay="3.064" />
+                <position x="341.513" z="713.182" ay="3.064" />
+                <position x="333.008" z="706.091" ay="3.064" />
+                <position x="337.990" z="707.065" ay="3.064" />
+                <position x="342.746" z="708.152" ay="3.064" />
+            </item>
+        </creator>
+        <creator No="BEF3EE8396BE438E92228948AA9F070D" x="384.007" y="15.552" z="724.124" radius="10.0" WakeupRange="50.2" ChaseRange="49.9" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048709" ay="3.064" amount="9" refreshtime="120000" NotPositive="0" desc="lfs雁门关弓箭手_雁门关">
+                <position x="377.761" z="726.962" ay="3.064" />
+                <position x="382.732" z="728.351" ay="3.064" />
+                <position x="387.424" z="729.350" ay="3.064" />
+                <position x="378.796" z="722.020" ay="3.064" />
+                <position x="383.821" z="723.222" ay="3.064" />
+                <position x="388.624" z="724.218" ay="3.064" />
+                <position x="380.119" z="717.126" ay="3.064" />
+                <position x="385.101" z="718.100" ay="3.064" />
+                <position x="389.858" z="719.188" ay="3.064" />
+            </item>
+        </creator>
+        <creator No="6F40F2C18EC74FA8AB6DE2B253CD3113" x="329.991" y="-0.042" z="636.547" radius="8.0" WakeupRange="14.6" ChaseRange="29.8" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048701" ay="5.307" amount="2" refreshtime="120000" NotPositive="0" desc="lfs雁门关守军_雁门关">
+                <position x="331.875" z="629.841" ay="5.307" WeaponMode="lspear1_1" />
+                <position x="328.704" z="643.850" ay="1.639" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="13D82EEC1999463FBDC9BC479F330561" x="295.371" y="1.012" z="660.991" radius="10.0" WakeupRange="0.0" ChaseRange="30.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048714" ay="4.156" amount="2" refreshtime="-1" NotPositive="0" desc="lfs栅栏_雁门关">
+                <position x="296.280" z="658.701" ay="4.156" />
+                <position x="295.621" z="661.228" sx="0.770" sy="0.770" sz="0.770" ay="4.668" />
+            </item>
+            <item No="2" id="FunnpcClone0048715" sx="2.420" sy="2.420" sz="2.420" ay="-1" amount="2" refreshtime="-1" NotPositive="0" desc="lfs箱子_雁门关">
+                <position x="294.902" z="659.671" sx="2.420" sy="2.420" sz="2.420" ay="-1" />
+                <position x="292.558" z="659.501" sx="1.810" sy="2.320" sz="1.810" ay="-1" />
+            </item>
+        </creator>
+        <creator No="F7851B6B3CA04DF09223ED093DE07406" x="295.433" y="5.432" z="666.486" radius="5.0" WakeupRange="60.6" ChaseRange="60.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048709" ay="2.208" amount="4" refreshtime="120000" NotPositive="0" desc="lfs雁门关弓箭手_雁门关">
+                <position x="294.258" z="669.012" ay="2.208" />
+                <position x="296.877" z="668.125" ay="2.718" />
+                <position x="292.802" z="666.050" ay="3.093" />
+                <position x="295.447" z="664.541" ay="3.043" />
+            </item>
+        </creator>
+        <creator No="2A0454BFF5DD41D190069324F6E8052D" x="157.793" y="-0.303" z="639.483" radius="15.0" WakeupRange="64.9" ChaseRange="79.2" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048706" ay="2.321" amount="7" refreshtime="120000" NotPositive="0" desc="lfs雁门关老兵_雁门关">
+                <position x="164.253" z="629.708" ay="2.321" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="167.592" z="631.541" ay="1.784" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="151.438" z="642.652" ay="2.584" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="154.894" z="642.355" ay="2.252" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="162.720" z="646.687" ay="-1" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="164.922" z="647.107" ay="3.605" BornAction="sitloop" RandomAction="sitloop" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+                <position x="163.390" z="645.216" ay="0.116" WeaponName="lsp_r_npcitem060" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="E512258EC2C34835835D03CD067416EC" x="792.821" y="-117.592" z="252.353" radius="10.0" WakeupRange="41.6" ChaseRange="60.9" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048100" ay="0.364" amount="5" refreshtime="-1" NotPositive="0" desc="lfs叛军小兵_卢仲">
+                <position x="797.805" z="246.865" ay="0.364" WeaponMode="lspear1_1" />
+                <position x="789.755" z="253.236" ay="4.847" WeaponMode="lspear1_1" />
+                <position x="789.545" z="255.185" ay="2.974" WeaponMode="lspear1_1" />
+                <position x="787.997" z="253.926" ay="0.364" WeaponMode="lspear1_1" />
+                <position x="799.366" z="247.983" ay="3.827" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="ED951F08E51A4311B3260CF714E90853" x="795.911" y="-112.595" z="301.376" radius="10.0" WakeupRange="21.6" ChaseRange="30.8" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048100" ay="1.627" amount="4" refreshtime="-1" NotPositive="0" desc="lfs叛军小兵_卢仲">
+                <position x="794.115" z="305.258" ay="1.627" WeaponMode="lspear1_1" />
+                <position x="799.868" z="297.919" ay="4.727" WeaponMode="lspear1_1" />
+                <position x="792.249" z="304.096" ay="1.667" WeaponMode="lspear1_1" />
+                <position x="798.223" z="296.609" ay="4.707" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="D2BDCD018CE64BE5B787FCFD6949B80F" x="737.165" y="-111.354" z="243.596" radius="5.0" WakeupRange="38.9" ChaseRange="40.9" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048101" ay="4.524" amount="1" refreshtime="-1" NotPositive="0" desc="lfs叛军小校_卢仲">
+                <position x="738.732" z="243.649" ay="4.524" BornAction="sitloop" RandomAction="sitloop" WeaponMode="lspear1_1" />
+            </item>
+            <item No="2" id="FunnpcClone0048102" ay="2.779" amount="4" refreshtime="-1" NotPositive="0" desc="lfs叛军弓箭手_卢仲">
+                <position x="738.227" z="245.187" ay="2.779" />
+                <position x="737.458" z="242.384" ay="0.299" BornAction="clap" RandomAction="clap" />
+                <position x="735.706" z="245.676" ay="2.374" BornAction="sitloop" RandomAction="sitloop" />
+                <position x="734.134" z="242.511" ay="0.779" BornAction="sitloop" RandomAction="sitloop" />
+            </item>
+        </creator>
+        <creator No="AD2132324CBD4C8E92CE43F75C786835" x="762.837" y="-116.184" z="279.400" radius="5.0" WakeupRange="22.4" ChaseRange="25.4" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048102" ay="3.559" amount="1" refreshtime="-1" NotPositive="0" desc="lfs叛军弓箭手_卢仲">
+                <position x="763.396" z="281.026" ay="3.559" BornAction="clap" RandomAction="clap" />
+            </item>
+            <item No="2" id="FunnpcClone0048100" ay="1.744" amount="2" refreshtime="-1" NotPositive="0" desc="lfs叛军小兵_卢仲">
+                <position x="759.401" z="278.080" ay="1.744" BornAction="buff" RandomAction="buff" WeaponMode="lspear1_1" />
+                <position x="762.199" z="275.513" ay="4.342" BornAction="atkhit2" RandomAction="atkhit2" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="5C776DCE9A6C4C8F98DC93E3F48C798E" x="521.860" y="-74.183" z="-89.434" radius="8.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048001" ay="4.757" amount="2" refreshtime="-1" NotPositive="0" desc="lfs鞑靼枪兵_大营">
+                <position x="524.815" z="-86.092" ay="4.757" WeaponMode="lspear1_1" />
+                <position x="517.585" z="-89.691" ay="4.982" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="82073F560BCA43E4A4005D3C63122AE3" x="499.265" y="-75.071" z="-80.586" radius="8.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048001" ay="2.042" amount="2" refreshtime="-1" NotPositive="0" desc="lfs鞑靼枪兵_大营">
+                <position x="495.192" z="-82.406" ay="2.042" WeaponMode="lspear1_1" />
+                <position x="501.477" z="-82.136" ay="2.267" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="428D1090F3354B4990C0C41D2865C1BC" x="446.916" y="-74.558" z="-89.417" radius="8.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048001" ay="3.622" amount="2" refreshtime="-1" NotPositive="0" desc="lfs鞑靼枪兵_大营">
+                <position x="446.674" z="-84.299" ay="3.622" WeaponMode="lspear1_1" />
+                <position x="446.531" z="-94.338" ay="3.847" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="41789B5B65F44A0387E3EA13E86CC5A3" x="512.789" y="-74.010" z="-129.999" radius="8.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048001" ay="0.509" amount="2" refreshtime="-1" NotPositive="0" desc="lfs鞑靼枪兵_大营">
+                <position x="514.098" z="-134.690" ay="0.509" WeaponMode="lspear1_1" />
+                <position x="514.111" z="-125.632" ay="0.734" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="ECE20801325149008EC501FAA7178711" x="667.979" y="-46.827" z="720.195" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048223" ay="0.734" amount="2" refreshtime="-1" NotPositive="0" desc="lfs狗_东泉村">
+                <position x="671.375" z="718.905" ay="0.734" />
+                <position x="665.717" z="723.425" ay="0.734" />
+            </item>
+        </creator>
+        <creator No="0550E629C06D498389D7945E247F9263" x="796.556" y="-46.020" z="783.758" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048222" ay="0.734" amount="5" refreshtime="-1" NotPositive="0" desc="lfs鸡_东泉村">
+                <position x="797.148" z="786.640" ay="0.734" />
+                <position x="794.812" z="786.176" ay="0.734" />
+                <position x="797.514" z="784.984" ay="0.734" />
+                <position x="793.784" z="784.304" ay="0.734" />
+                <position x="796.366" z="781.886" ay="0.734" />
+            </item>
+        </creator>
+        <creator No="F060FE12D286481E960EEF887F11B111" x="816.871" y="-31.256" z="870.555" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048228" ay="3.763" amount="1" refreshtime="-1" NotPositive="0" desc="lfs东泉村儿童_东泉村">
+                <position x="819.062" z="871.283" ay="3.763" BornAction="sitloop" RandomAction="sitloop" />
+            </item>
+            <item No="2" id="FunnpcClone0048229" ay="1.189" amount="1" refreshtime="-1" NotPositive="1" desc="lfs东泉村妇女_东泉村">
+                <position x="816.679" z="873.330" ay="1.189" BornAction="ty_stand_07" RandomAction="ty_stand_07" />
+            </item>
+        </creator>
+        <creator No="3169C0DB96764B66BB2919663538BFAA" x="801.287" y="-36.429" z="840.772" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048203" ay="4.494" amount="1" refreshtime="-1" NotPositive="1" desc="lfs村民丙_东泉村">
+                <position x="802.024" z="837.201" ay="4.494" />
+            </item>
+            <item No="2" id="FunnpcClone0048204" ay="4.494" amount="1" refreshtime="-1" NotPositive="1" desc="lfs村民丁_东泉村">
+                <position x="799.236" z="843.435" ay="4.494" />
+            </item>
+        </creator>
+        <creator No="5693652DC2CC4B0FAF22BC4501D7C433" x="799.663" y="-41.295" z="819.485" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048201" ay="3.049" amount="1" refreshtime="-1" NotPositive="1" desc="lfs村民甲_东泉村">
+                <position x="802.312" z="818.454" ay="3.049" BornAction="ty_lie_talk2" RandomAction="ty_lie_talk2" />
+            </item>
+        </creator>
+        <creator No="B0060A9F5E5D4BD5BC18EA0AB0E0B9B9" x="785.151" y="-41.295" z="863.093" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048201" ay="3.049" amount="1" refreshtime="-1" NotPositive="1" desc="lfs村民甲_东泉村">
+                <position x="787.376" z="864.250" ay="3.049" BornAction="ty_lie_talk2" RandomAction="ty_lie_talk2" />
+            </item>
+        </creator>
+        <creator No="4311CB4536B34B719621F6BBBB8BED5A" x="634.297" y="-37.863" z="738.918" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048228" ay="1.186" amount="1" refreshtime="-1" NotPositive="1" desc="lfs东泉村儿童_东泉村" />
+            <item No="2" id="FunnpcClone0048223" ay="5.044" amount="1" refreshtime="-1" NotPositive="1" desc="lfs狗_东泉村" />
+            <item No="3" id="FunnpcClone0048204" ay="1.186" amount="1" refreshtime="-1" NotPositive="1" desc="lfs村民丁_东泉村">
+                <position x="631.086" z="741.846" ay="1.186" />
+            </item>
+        </creator>
+        <creator No="E24C247817594AD2B756DFB12F33E839" x="834.406" y="-32.749" z="792.570" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048201" ay="4.774" amount="1" refreshtime="-1" NotPositive="1" desc="lfs村民甲_东泉村">
+                <position x="836.821" z="792.705" ay="4.774" BornAction="ty_lie_talk2" RandomAction="ty_lie_talk2" />
+            </item>
+            <item No="2" id="FunnpcClone0048229" ay="1.104" amount="1" refreshtime="-1" NotPositive="1" desc="lfs东泉村妇女_东泉村">
+                <position x="831.666" z="792.563" ay="1.104" BornAction="point" RandomAction="point" />
+            </item>
+        </creator>
+        <creator No="57ADAF35FE104D8F858CEEB8244A1342" x="653.383" y="-46.819" z="822.479" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048201" ay="4.489" amount="1" refreshtime="-1" NotPositive="1" desc="lfs村民甲_东泉村">
+                <position x="655.976" z="820.837" ay="4.489" BornAction="ty_wakuangloop" RandomAction="ty_wakuangloop" />
+            </item>
+        </creator>
+        <creator No="8E1E034293C64DD88A5D00E3AA375A0E" x="476.052" y="-75.918" z="-113.899" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="FunnpcClone0048001" ay="5.052" amount="2" refreshtime="-1" NotPositive="0" desc="lfs鞑靼枪兵_大营">
+                <position x="474.295" z="-112.264" ay="5.052" WeaponMode="lspear1_1" />
+                <position x="480.072" z="-112.648" ay="2.424" WeaponMode="lspear1_1" />
+            </item>
+        </creator>
+        <creator No="CF66628E664F45D6BBF5B57C26C0C13B" x="173.024" y="-73.799" z="-243.721" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="lifeanimalf09003" ay="-1" amount="3" refreshtime="3600000" desc="羚羊">
+                <position x="173.629" z="-245.635" ay="-1" />
+                <position x="176.614" z="-244.742" ay="-1" />
+                <position x="175.744" z="-242.740" ay="-1" />
+            </item>
+        </creator>
+        <creator No="DB650648C81C4A3683D098C947BC8EEF" x="167.474" y="-73.909" z="-230.648" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="lifeanimalf09003" ay="-1" amount="3" refreshtime="3600000" desc="羚羊">
+                <position x="170.500" z="-230.806" ay="-1" />
+                <position x="168.880" z="-228.709" ay="-1" />
+                <position x="167.151" z="-231.792" ay="-1" />
+            </item>
+        </creator>
+        <creator No="66D20467A45049829B435F4E96EC5084" x="162.715" y="-73.757" z="-242.201" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="lifeanimalf09003" ay="-1" amount="4" refreshtime="3600000" desc="羚羊">
+                <position x="164.226" z="-243.809" ay="-1" />
+                <position x="161.431" z="-241.515" ay="-1" />
+                <position x="165.321" z="-242.566" ay="-1" />
+                <position x="163.133" z="-239.873" ay="-1" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

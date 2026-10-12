@@ -1,0 +1,514 @@
+STRING	STRING	STRING	STRING
+ID	Type	TypeID	Order
+2003	collect	27001	
+2016	hunter	27002	
+2018	collect	27002	
+2018	collect	27003	
+2018	collect	27004	
+2018	collect	27005	
+2051	story	27007	
+2052	question	27009	1
+2052	special	0	2
+2053	interact	27004	1
+2053	collect	27042	2
+2054	useitem	27007	1
+2054	story	27009	2
+2056	special	0	
+2058	interact	27044	
+2059	special	0	1
+2059	interact	27006	2
+2061	interact	27007	1
+2061	interact	27008	
+2061	useitem	27001	2
+2061	interact	27005	3
+2062	special	0	
+2063	story	27002	
+2064	special	0	
+2067	story	27003	
+2068	useitem	27003	
+2069	interact	27060	1
+2069	hunter	27058	2
+2069	interact	27047	3
+2069	question	27002	4
+2070	interact	27062	1
+2070	collect	27044	2
+2071	special	0	
+2072	story	27004	
+2073	collect	27040	
+2073	interact	27045	
+2075	story	27005	
+2076	interact	27048	
+2076	interact	27056	
+2076	interact	27057	
+2077	special	0	
+2079	interact	27009	
+2080	interact	27010	
+2081	interact	27035	1
+2081	interact	27034	2
+2081	special	0	3
+2083	interact	27025	1
+2083	interact	27023	2
+2083	interact	27026	3
+2083	question	27005	4
+2084	hunter	27013	
+2086	special	0	
+2087	hunter	27014	
+2087	hunter	27015	
+2089	interact	27011	
+2090	hunter	27038	
+2093	special	0	1
+2093	hunter	27057	2
+2095	interact	27012	
+2096	interact	27036	1
+2096	special	0	2
+2097	interact	27043	
+2098	hunter	27040	
+2099	hunter	27041	
+2101	interact	27063	
+2102	hunter	27060	1
+2102	interact	27064	2
+2102	interact	27065	3
+2102	interact	27066	4
+2103	story	27012	1
+2103	question	27008	2
+2105	hunter	27062	
+2106	hunter	27061	1
+2106	interact	27068	2
+2106	interact	27069	3
+2107	special	0	
+2108	convoy	27004	
+2109	hunter	27063	
+2110	hunter	27064	
+2162	convoy	27007	1
+2162	interact	27088	2
+2162	interact	27089	2
+2162	interact	27090	2
+2163	interact	27083	
+2164	hunter	27075	
+2165	interact	27084	1
+2165	interact	27085	1
+2165	interact	27086	1
+2165	hunter	27076	1
+2166	hunter	27077	
+2167	hunter	27078	
+2172	convoy	27005	
+2173	story	27015	
+2174	hunter	27070	1
+2174	story	27016	2
+2175	story	27017	
+2176	collect	27054	
+2186	collect	27056	
+2188	hunter	27072	
+2189	interact	27082	
+2190	hunter	27073	
+2203	hunter	27140	1
+2203	interact	27140	2
+2231	hunter	27036	
+2234	special	0	1
+2234	interact	27022	2
+2234	interact	27030	3
+2236	hunter	27003	
+2237	special	0	
+2238	interact	27013	
+2239	interact	27014	
+2302	hunter	27101	
+2302	hunter	27102	
+2304	story	27101	
+2304	story	27101	
+2306	hunter	27103	
+2307	hunter	27104	
+2308	collect	27101	
+2308	collect	27102	
+2311	interact	27101	3
+2311	useitem	27101	1
+2311	useitem	27102	2
+2312	interact	27102	
+2313	interact	27103	
+2318	interact	27104	
+2331	special	0	
+2332	hunter	27034	1
+2332	useitem	27005	2
+2431	interact	27038	1
+2431	interact	27037	2
+2431	special	0	3
+2432	interact	27027	1
+2432	interact	27028	1
+2432	interact	27029	1
+2432	question	27006	2
+2433	interact	27015	
+2434	interact	27016	1
+2434	collect	27043	2
+2435	special	0	
+2438	hunter	27056	
+2438	collect	27041	
+2440	interact	27017	
+2442	interact	27018	
+2444	question	27003	
+2445	interact	27040	1
+2445	interact	27039	2
+2445	special	0	3
+2446	interact	27019	1
+2446	interact	27020	1
+2446	question	27007	2
+2447	useitem	27006	
+2448	hunter	27028	
+2801	interact	27049	
+2803	interact	27050	
+2804	hunter	27017	
+2804	hunter	27016	
+2805	interact	27051	1
+2805	interact	27052	2
+2806	hunter	27018	
+2807	interact	28529	
+2808	question	27001	
+2809	collect	28520	1
+2809	collect	28521	1
+2809	collect	28522	1
+2810	interact	28530	2
+2810	hunter	28528	1
+2811	interact	28531	1
+2811	interact	28534	2
+2812	interact	28532	1
+2812	interact	28535	2
+2813	interact	28533	1
+2813	interact	28536	2
+2814	hunter	27010	
+2815	collect	27012	
+2816	collect	27013	
+2817	interact	27002	
+2818	hunter	27048	1
+2818	interact	27003	2
+2819	story	27006	
+2820	hunter	27011	
+2821	useitem	27004	
+2822	convoy	27001	
+2832	hunter	27019	
+2832	hunter	27020	
+2833	hunter	27042	1
+2833	hunter	27021	2
+2836	collect	27023	
+2836	collect	27024	
+2837	hunter	27032	1
+2837	useitem	27002	2
+2838	interact	27046	
+2838	special	0	
+2839	interact	27021	1
+2839	collect	27014	2
+2839	collect	27015	2
+2839	collect	27016	2
+2840	interact	27042	1
+2840	interact	27041	2
+2840	special	0	3
+2841	interact	27031	
+2841	interact	27032	
+2841	interact	27033	
+2843	hunter	27044	
+2846	hunter	27045	
+2846	hunter	27046	
+2848	special	0	
+2901	interact	27560	
+2903	collect	27560	
+2904	story	27560	1
+2904	hunter	27561	2
+2905	story	27561	
+2906	hunter	27562	
+2920	interact	27570	
+2218	hunter	27142	1
+2401	collect	27260	1
+2402	interact	27260	1
+2402	interact	27261	2
+2402	interact	27262	3
+2201	useitem	27140	1
+2201	interact	27145	2
+2205	useitem	27141	1
+2205	useitem	27142	1
+2205	interact	27146	2
+2205	interact	27147	2
+2207	collect	27141	1
+2212	story	27140	1
+2212	story	27142	2
+2214	story	27141	1
+2229	question	27140	1
+2228	interact	27144	1
+2202	collect	27140	1
+2204	interact	27141	1
+2208	useitem	27143	1
+2209	hunter	27141	1
+2211	collect	27142	1
+2215	interact	27142	1
+2404	interact	27263	1
+2404	question	27260	2
+2404	interact	27264	3
+2406	hunter	27261	1
+2407	story	27260	1
+2409	story	27261	1
+2414	story	27262	1
+2415	collect	27261	1
+2421	interact	27270	1
+2421	interact	27271	1
+2421	interact	27272	1
+2501	interact	27320	1
+2502	collect	27320	1
+2503	collect	27321	1
+2503	interact	27321	2
+2504	story	27320	1
+2505	story	27321	1
+2505	question	27320	2
+2506	interact	27322	1
+2506	interact	27323	1
+2506	interact	27324	1
+2506	interact	27325	1
+2507	story	27322	1
+2508	interact	27326	1
+2509	interact	27327	1
+2515	hunter	27320	1
+2515	interact	27329	2
+2017	interact	27054	1
+2017	interact	27055	2
+2513	question	27321	1
+2510	special	1	1
+2511	special	1	1
+2512	special	1	1
+2514	special	1	1
+2701	interact	27440	1
+2516	interact	27330	1
+2703	story	27440	1
+2706	interact	27444	1
+2710	story	27441	1
+2710	interact	27448	2
+2711	interact	27449	1
+2712	story	27443	2
+2712	interact	27450	3
+2712	interact	27451	1
+2613	collect	27383	
+2614	story	27382	
+2614	story	27382	
+2704	story	27445	1
+2705	story	27446	1
+2707	story	27447	1
+2709	story	27448	1
+2605	convoy	27381	1
+2605	interact	27384	2
+2713	story	27455	1
+2714	convoy	27440	1
+2708	collect	27441	1
+2708	interact	27460	2
+2615	interact	27388	
+2616	interact	27389	1
+2616	hunter	27383	2
+2823	convoy	27001	1
+3001	story	27620	1
+3002	interact	27620	1
+3002	interact	27621	1
+3002	interact	27622	1
+3002	interact	27623	2
+3004	collect	27620	1
+3006	interact	27625	1
+3007	interact	27626	1
+3008	story	27621	1
+3011	hunter	27621	1
+3012	hunter	27622	1
+3009	interact	27627	1
+3009	interact	27628	2
+3013	interact	27630	1
+3014	useitem	27620	1
+3015	story	27622	1
+3016	collect	27621	1
+3017	collect	27622	1
+3018	interact	27631	1
+3018	special	1	2
+3019	story	27623	1
+3020	collect	27623	1
+3021	hunter	27624	1
+3021	story	27624	2
+3022	collect	27624	1
+3022	collect	27625	1
+3023	interact	27632	1
+3023	interact	27633	1
+3024	story	27625	1
+3024	interact	27634	2
+2715	collect	27442	1
+2716	interact	27454	1
+2002	interact	27053	1
+2002	interact	27635	2
+2719	story	27449	1
+2720	collect	27443	
+2718	collect	27444	1
+2717	interact	27456	
+2219	hunter	27145	1
+3025	question	27620	1
+3027	special	1	1
+3028	hunter	27625	1
+3030	hunter	27626	1
+3032	hunter	27627	1
+2721	hunter	27441	1
+2721	hunter	27442	1
+2721	hunter	27443	1
+3034	question	27621	1
+3043	question	27622	1
+3052	question	27623	1
+3010	special	1	1
+3005	interact	27624	2
+3005	interact	27636	1
+3037	hunter	27629	1
+3046	hunter	27630	1
+3055	hunter	27631	1
+3041	hunter	27632	1
+3036	special	1	1
+3045	special	1	1
+3054	special	1	1
+3003	hunter	27620	1
+3048	hunter	27633	1
+3039	hunter	27634	1
+3057	hunter	27635	1
+3029	convoy	27620	1
+3038	convoy	27620	1
+3047	convoy	27620	1
+3056	convoy	27620	1
+3031	hunter	27636	1
+3031	hunter	27637	1
+3040	hunter	27636	1
+3040	hunter	27637	1
+3049	hunter	27636	1
+3049	hunter	27637	1
+3058	hunter	27636	1
+3058	hunter	27637	1
+3050	hunter	27638	1
+3059	hunter	27639	1
+3026	hunter	27640	1
+3035	hunter	27641	1
+3044	hunter	27642	1
+3053	hunter	27643	1
+2902	interact	27572	1
+2902	interact	27561	2
+2601	special	27381	1
+2606	story	27380	1
+2607	story	27381	1
+2607	story	27382	2
+2608	interact	27380	1
+2608	interact	27381	2
+2609	collect	27380	1
+2610	interact	27382	1
+2610	special	1	2
+2611	story	27383	1
+2922	story	27564	
+2924	interact	27574	1
+2924	collect	27561	2
+2924	collect	27562	2
+2927	interact	27575	1
+2927	collect	27565	2
+2927	interact	27576	3
+2921	interact	27573	1
+2921	interact	27578	2
+2925	interact	27579	1
+2928	useitem	27563	1
+2928	interact	27577	2
+2930	hunter	27572	
+2923	collect	27564	2
+2923	interact	27580	1
+3033	hunter	27644	1
+3042	hunter	27645	1
+3051	hunter	27646	1
+3060	hunter	27647	1
+3061	hunter	27648	1
+3062	hunter	27649	1
+3063	hunter	27650	1
+3064	hunter	27651	1
+2722	interact	27457	1
+2723	hunter	27444	1
+2316	special	27101	
+2319	hunter	27105	1
+2319	hunter	27106	1
+2319	hunter	27107	1
+2319	hunter	27108	1
+2320	hunter	27109	
+2842	hunter	27059	1
+3065	story	27014	1
+3066	story	27020	1
+3067	interact	27702	1
+3068	interact	27703	1
+3069	interact	27704	1
+2027	interact	27274	1
+2023	interact	27273	1
+2031	interact	27275	1
+2022	collect	27273	1
+2026	collect	27274	1
+2030	collect	27275	1
+2025	collect	27276	1
+2029	hunter	27276	1
+2021	interact	27276	1
+2021	interact	27277	2
+2021	interact	27278	3
+4502	hunter	28502	1
+4503	hunter	28501	1
+4503	interact	28504	2
+4505	hunter	28503	1
+4506	interact	28524	1
+4506	hunter	28504	2
+4507	special	1	1
+4507	hunter	28505	2
+4511	interact	28508	1
+4511	interact	28509	2
+4512	hunter	28506	1
+4513	collect	28501	1
+4515	interact	28513	1
+4515	interact	28514	2
+2120	interact	27100	1
+4531	interact	28519	1
+4531	story	28502	2
+4532	hunter	28514	1
+4533	hunter	28515	1
+4534	hunter	28516	1
+4535	special	1	1
+4536	hunter	28517	1
+4537	hunter	28518	1
+4538	hunter	28519	1
+4544	hunter	28523	1
+4545	interact	28522	1
+4545	hunter	28524	2
+4539	interact	28523	1
+4539	hunter	28525	2
+2405	interact	27265	1
+2405	hunter	27260	2
+2405	interact	27279	3
+2177	interact	27080	1
+2179	hunter	27071	1
+2181	convoy	27006	1
+2182	story	27018	1
+2183	story	27019	1
+2184	collect	27055	1
+2185	interact	27081	1
+2416	story	27267	1
+4504	special	1	1
+4514	interact	28510	1
+4552	special	1	1
+4542	interact	28527	1
+4541	interact	28526	1
+4541	special	1	2
+4543	hunter	28526	1
+4546	hunter	28527	1
+4516	special	0	1
+2417	story	27263	1
+2417	story	27264	2
+2418	interact	27269	2
+2418	story	27268	1
+2419	story	27143	1
+2413	hunter	28545	1
+4517	interact	28525	1
+4517	special	0	2
+4553	special	0	1
+4554	interact	28547	1
+4554	special	0	2
+2131	story	28506	1
+2104	story	28507	1
+4521	interact	28517	1
+4522	special	0	1
+4523	hunter	28511	1
+4524	interact	28518	1
+4524	hunter	28513	2
+4524	hunter	28532	3
+4525	special	0	1
+4526	hunter	28529	1
+4527	special	0	1
+4528	special	0	1
+4551	special	0	1

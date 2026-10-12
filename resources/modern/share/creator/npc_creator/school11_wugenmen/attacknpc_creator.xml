@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="85C58689B44A4E638B87C6039D53C73D" x="-25.477" y="-3.199" z="177.200" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8245">
+            <item No="1" id="wgm_task_001" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="入侵者1" />
+            <item No="2" id="wgm_task_002" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="入侵者2" />
+            <item No="3" id="wgm_task_003" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="入侵者3" />
+        </creator>
+        <creator No="9D88E0A1BD294927906EE20CB7EBB2E6" x="-115.879" y="10.333" z="245.659" radius="40.0" WakeupRange="40.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="8810" TaskSubType="1" HateLink="1" SubSceneNo="8252">
+            <item No="1" id="npc_wgm_ccgai_001" amount="1" refreshtime="30000" desc="无根门-陈宸-叛徒罗罗">
+                <position x="-121.753" z="242.768" />
+            </item>
+        </creator>
+        <creator No="EDDBC1F2DF9C405EB2079F8B1F1FEBF9" x="-116.523" y="10.434" z="245.723" radius="5.0" WakeupRange="40.0" ChaseRange="27.0" PatrolRange="0.0" TaskSubId="8962" TaskSubType="3" HateLink="1" SubSceneNo="8253">
+            <item No="1" id="npc_wgm_cc_003" ay="2.200" amount="1" refreshtime="30000" desc="无根门-陈宸-外部据点2">
+                <position x="-121.700" z="243.871" ay="2.200" BornAction="diedownloop" />
+            </item>
+            <item No="2" id="npc_wgm_cc_002" amount="1" refreshtime="30000" desc="无根门-陈宸-外部据点1">
+                <position x="-122.372" z="248.018" BornAction="diedownloop" />
+            </item>
+            <item No="3" id="npc_wgm_cc_006" ay="-2.235" amount="1" refreshtime="30000" desc="无根门-陈宸-天井奔跑NPC2">
+                <position x="-109.520" z="247.285" ay="-2.235" />
+            </item>
+            <item No="4" id="npc_wgm_cc_005" ay="-0.875" amount="1" refreshtime="30000" desc="无根门-陈宸-天井奔跑NPC1">
+                <position x="-112.972" z="244.200" ay="-0.875" />
+            </item>
+        </creator>
+        <creator No="C339E36983D94DAB9ECCC30CB5046587" x="-123.917" y="10.354" z="249.289" radius="10.0" WakeupRange="10.0" ChaseRange="10.0" PatrolRange="10.0" TaskSubId="8809" TaskSubType="1" StaticY="1" HateLink="1">
+            <item No="1" id="wgm_task_glm_008" ay="1.855" amount="1" refreshtime="30000" NotPositive="0" desc="无根门弟子">
+                <position x="-125.293" z="249.606" ay="1.855" />
+            </item>
+        </creator>
+        <creator No="B9CCE57D43714D30B31D1EA612E12728" x="-94.021" y="1.127" z="312.873" radius="2.0" WakeupRange="30.0" ChaseRange="40.0" PatrolRange="5.0" SpringRange="48" TaskSubId="8756" TaskSubType="1" StaticY="1" HateLink="1" SubSceneNo="8232">
+            <item No="1" id="wgm_zd_005" ay="-1" amount="1" refreshtime="120" desc="比武弟子">
+                <position x="-94.666" z="311.492" ay="-1" />
+            </item>
+        </creator>
+        <creator No="A14DF69F70054D7CBB36A4AC5E6BE453" x="-93.807" y="0.945" z="309.487" radius="3.0" WakeupRange="40.0" ChaseRange="40.0" PatrolRange="2.0" SpringRange="48" TaskSubId="8999" TaskSubType="1" StaticY="1" HateLink="1" SubSceneNo="8232">
+            <item No="1" id="wgm_zd_005" ay="-1" amount="2" refreshtime="120" desc="比武弟子">
+                <position x="-95.108" y="1.230" z="309.009" ay="-1" />
+                <position x="-93.549" z="308.244" ay="-1" />
+            </item>
+        </creator>
+        <creator No="BFB00DEAE2B2413DA5A2EFDE6CF62B61" x="-93.964" y="0.945" z="305.767" radius="3.0" WakeupRange="44.0" ChaseRange="44.0" PatrolRange="2.0" SpringRange="48" TaskSubId="8997" TaskSubType="1" HateLink="1" SubSceneNo="8232">
+            <item No="1" id="wgm_zd_005" ay="-1" amount="3" refreshtime="120" desc="比武弟子">
+                <position x="-94.294" z="304.235" ay="-1" />
+                <position x="-93.530" z="304.884" ay="-1" />
+                <position x="-95.183" z="306.342" ay="-1" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

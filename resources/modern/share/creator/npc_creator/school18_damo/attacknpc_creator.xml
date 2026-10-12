@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="EBCF45459A8D4BE0A6B0F96F480C5E33" x="-615.223" y="298.095" z="-650.507" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="16253" TaskSubType="1" HateLink="1">
+            <item No="1" id="npc_dmp_mxm16" ay="-1" amount="5" refreshtime="5" NotPositive="0" desc="偷书人">
+                <position x="-618.329" z="-648.528" ay="-1" />
+                <position x="-614.188" z="-646.000" ay="-1" />
+                <position x="-612.125" z="-646.506" ay="-1" />
+                <position x="-609.566" z="-647.469" ay="-1" />
+                <position x="-616.319" z="-654.705" ay="-1" />
+            </item>
+        </creator>
+        <creator No="F190EA4183FC4C259A8C315AAE28A98C" x="-518.903" y="282.838" z="237.711" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="16365" TaskSubType="1" HateLink="1">
+            <item No="1" id="Dmpjq_zyb_002" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="江湖人">
+                <position x="-520.329" z="239.461" ay="-1" />
+                <position x="-518.666" z="240.066" ay="-1" />
+                <position x="-516.437" z="239.882" ay="-1" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

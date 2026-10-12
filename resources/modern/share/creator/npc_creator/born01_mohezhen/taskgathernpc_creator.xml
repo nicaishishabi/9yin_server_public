@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="9A0F8E6CFEA8414A9974E9C3540F5A10" x="408.924" y="25.461" z="427.629" radius="4.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather00189b" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="大树" />
+        </creator>
+        <creator No="BE5577F74B0A4A63B7630E85D28FCD5E" x="-182.064" y="173.540" z="466.927" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="34001" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_qy_jmy004_xiang2" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="神秘的雕像">
+                <position x="-181.888" z="467.983" ay="-1" />
+            </item>
+        </creator>
+        <creator No="82EDC07809F345F0A119E756271D515A" x="-181.341" y="173.717" z="467.518" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="34000" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_qy_jmy004_xiang" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="">
+                <position x="-181.351" z="467.856" ay="-1" />
+            </item>
+        </creator>
+        <creator No="D86C1FC86FED4FC5BED6236ED115857E" x="789.932" y="148.683" z="539.324" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Box_qy_jy001_guozi" ay="3.207" amount="1" refreshtime="51844" NotPositive="0" desc="神奇的果子">
+                <position x="787.037" z="541.085" ay="3.207" />
+            </item>
+        </creator>
+        <creator No="DD9D8FB13C93467595A66B4FF288AEBC" x="670.826" y="24.234" z="322.149" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="1000" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather00187b" ay="2.802" amount="1" refreshtime="5" NotPositive="0" desc="木堆" />
+        </creator>
+        <creator No="7674C78EA2144D52A3CD7F5E67939D43" x="698.010" y="24.774" z="317.135" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="1000" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather00187b" ay="2.802" amount="1" refreshtime="5" NotPositive="0" desc="木堆">
+                <position x="700.118" z="318.429" ay="2.802" />
+            </item>
+        </creator>
+        <creator No="F32A02CA48264671880F6A269D872249" x="707.344" y="24.578" z="293.811" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="1000" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather00187b" ay="2.802" amount="1" refreshtime="5" NotPositive="0" desc="木堆">
+                <position x="705.061" z="295.021" ay="2.802" />
+            </item>
+        </creator>
+        <creator No="C9597B9958554E3797379F4A036F51B1" x="718.000" y="24.003" z="337.166" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="1000" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather00187b" ay="2.802" amount="1" refreshtime="5" NotPositive="0" desc="木堆">
+                <position x="716.293" z="339.414" ay="2.802" />
+            </item>
+        </creator>
+        <creator No="8E3FE2BECCFA44BFAA677E66DEF30324" x="692.909" y="24.482" z="347.038" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="1000" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather00187b" ay="2.802" amount="2" refreshtime="5" NotPositive="0" desc="木堆">
+                <position x="692.229" z="349.039" ay="2.802" />
+                <position x="693.269" z="349.477" ay="2.802" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

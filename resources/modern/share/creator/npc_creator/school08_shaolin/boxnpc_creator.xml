@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="7CE090F783484534B9601DC2B85E0FAC" x="910.670" y="180.580" z="96.382" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" StaticY="1" HateLink="1" SubSceneNo="9071">
+            <item No="1" id="boxnpc_mzyy_001" ay="-1" amount="5" refreshtime="5" NotPositive="0" desc="法华经">
+                <position x="906.853" y="180.601" z="97.843" ay="-1" />
+                <position x="912.576" y="180.591" z="93.049" ay="-1" />
+                <position x="912.570" y="180.582" z="100.029" ay="-1" />
+                <position x="913.261" y="174.913" z="93.915" ay="-1" />
+                <position x="910.114" y="174.912" z="98.256" ay="-1" />
+            </item>
+            <item No="2" id="boxnpc_mzyy_002" ay="-1" amount="4" refreshtime="5" NotPositive="0" desc="地藏经">
+                <position x="908.583" y="176.286" z="95.526" ay="-1" />
+                <position x="912.257" y="174.910" z="94.245" ay="-1" />
+                <position x="911.590" y="174.911" z="99.688" ay="-1" />
+                <position x="914.989" y="174.905" z="98.076" ay="-1" />
+            </item>
+            <item No="3" id="boxnpc_mzyy_003" ay="-1" amount="4" refreshtime="5" NotPositive="0" desc="阿弥陀经">
+                <position x="914.649" y="180.575" z="98.391" ay="-1" />
+                <position x="908.840" y="179.879" z="92.799" ay="-1" />
+                <position x="909.276" y="174.918" z="96.142" ay="-1" />
+                <position x="908.606" y="174.226" z="92.618" ay="-1" />
+            </item>
+            <item No="4" id="boxnpc_mzyy_004" ay="-1" amount="6" refreshtime="5" NotPositive="0" desc="经书">
+                <position x="914.424" y="174.908" z="94.913" ay="-1" />
+                <position x="910.477" y="174.921" z="93.798" ay="-1" />
+                <position x="910.298" y="174.916" z="99.386" ay="-1" />
+                <position x="906.799" y="180.354" z="95.453" ay="-1" />
+                <position x="910.874" y="180.584" z="99.494" ay="-1" />
+                <position x="911.686" y="180.587" z="93.752" ay="-1" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

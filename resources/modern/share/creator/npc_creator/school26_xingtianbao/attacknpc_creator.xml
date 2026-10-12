@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="8CFBD1ED1AA144F2BFAAC7CDE9744B36" x="-243.949" y="74.475" z="310.215" radius="5.0" WakeupRange="10.0" ChaseRange="27.0" PatrolRange="5.0" TaskSubId="76563" TaskSubType="1" HateLink="1">
+            <item No="1" id="spynpcyd_xl" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="刺探NPC">
+                <position x="-246.484" z="310.294" ay="-1" />
+                <position x="-242.243" z="311.636" ay="-1" />
+                <position x="-242.932" z="307.364" ay="-1" />
+            </item>
+        </creator>
+        <creator No="416CBB7385A94B2DA14C4965665F0EA9" x="-281.363" y="74.475" z="389.411" radius="5.0" WakeupRange="10.0" ChaseRange="27.0" PatrolRange="5.0" TaskSubId="76576" TaskSubType="2" HateLink="1">
+            <item No="1" id="lootnpcyd_hs" ay="-1" amount="1" refreshtime="10" NotPositive="0" desc="夺书NPC" />
+        </creator>
+        <creator No="B840FE3B749F4A37BF56FB0D3AD75DC6" x="-322.147" y="10.396" z="1058.599" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="76802" TaskSubType="1" HateLink="1">
+            <item No="1" id="xtb_nmphurnt_001" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="马匪头领" />
+        </creator>
+        <creator No="66E8C19CCF254B8D9D647E8D985E7CA9" x="-316.379" y="10.822" z="1055.628" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="76803" TaskSubType="1" HateLink="1">
+            <item No="1" id="xtb_nmphurnt_002" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="马匪">
+                <position x="-316.626" z="1053.381" ay="-1" />
+                <position x="-313.539" z="1054.479" ay="-1" />
+                <position x="-314.998" z="1056.144" ay="-1" />
+            </item>
+        </creator>
+        <creator No="66E8C19CCF254B8D9D647E8D985E7CA9" x="-370.368" y="9.324" z="1058.181" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="76804" TaskSubType="1" HateLink="1">
+            <item No="1" id="xtb_nmphurnt_003" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="马匪">
+                <position x="-370.368" z="1058.181" ay="-1" />
+                <position x="-372.359" z="1058.768" ay="-1" />
+                <position x="-369.317" z="1059.054" ay="-1" />
+            </item>
+        </creator>
+        <creator No="6526A5973DF64CDCAB7BB20236A0250F" x="-368.395" y="10.153" z="1013.212" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="76810" TaskSubType="1" HateLink="1" SubSceneNo="9269">
+            <item No="1" id="xtb_nmphurnt_010" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="天狼勇士">
+                <position x="-370.133" z="1012.725" ay="-1" />
+                <position x="-366.666" z="1014.510" ay="-1" />
+                <position x="-368.980" z="1014.769" ay="-1" />
+            </item>
+        </creator>
+        <creator No="FFBF8B32746444F9B443A139A87D994B" x="-373.185" y="10.000" z="1004.799" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="76810" TaskSubType="1" HateLink="1" SubSceneNo="9269">
+            <item No="1" id="xtb_nmphurnt_010" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="天狼勇士">
+                <position x="-374.922" z="1004.312" ay="-1" />
+                <position x="-371.456" z="1006.097" ay="-1" />
+                <position x="-373.769" z="1006.356" ay="-1" />
+            </item>
+        </creator>
+        <creator No="4F29C8B504E64959BBF6B81F99EF4D26" x="-381.705" y="10.000" z="1001.554" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="76810" TaskSubType="1" HateLink="1" SubSceneNo="9269">
+            <item No="1" id="xtb_nmphurnt_010" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="天狼勇士">
+                <position x="-383.443" z="1001.067" ay="-1" />
+                <position x="-379.977" z="1002.852" ay="-1" />
+                <position x="-382.290" z="1003.111" ay="-1" />
+            </item>
+        </creator>
+        <creator No="3C9E2B28AB624966B3F0942A7DFEFD2E" x="-388.427" y="10.026" z="1005.499" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="76810" TaskSubType="1" HateLink="1" SubSceneNo="9269">
+            <item No="1" id="xtb_nmphurnt_010" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="天狼勇士">
+                <position x="-390.164" z="1005.012" ay="-1" />
+                <position x="-386.698" z="1006.797" ay="-1" />
+                <position x="-389.011" z="1007.056" ay="-1" />
+            </item>
+        </creator>
+        <creator No="241BDC57843D4D9CBA5706018E86A484" x="-391.370" y="9.995" z="1012.583" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="76810" TaskSubType="1" HateLink="1" SubSceneNo="9269">
+            <item No="1" id="xtb_nmphurnt_010" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="天狼勇士">
+                <position x="-393.107" z="1012.096" ay="-1" />
+                <position x="-389.641" z="1013.881" ay="-1" />
+                <position x="-391.954" z="1014.140" ay="-1" />
+            </item>
+        </creator>
+        <creator No="B1F0FAF346F24D2CBC50901C01183695" x="-380.917" y="9.575" z="1012.439" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="76812" TaskSubType="1" HateLink="1" SubSceneNo="9269">
+            <item No="1" id="xtb_nmphurnt_011" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="瓦剌元帅" />
+        </creator>
+        <creator No="1D9C95A6B5324237BA4D4E0CF583F032" x="-257.009" y="9.247" z="940.025" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="76813" TaskSubType="1" HateLink="1">
+            <item No="1" id="xtb_event_008" amount="6" refreshtime="5" NotPositive="0" desc="马匪">
+                <position x="-252.338" z="944.657" />
+                <position x="-257.891" z="947.429" />
+                <position x="-262.227" z="943.014" />
+                <position x="-251.214" z="939.343" />
+                <position x="-254.643" z="934.567" />
+                <position x="-261.633" z="935.516" />
+            </item>
+        </creator>
+        <creator No="66E8C19CCF254B8D9D647E8D985E7CA9" x="-428.106" y="10.270" z="1137.989" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="76817" TaskSubType="1" HateLink="1">
+            <item No="1" id="npc_xtb_dy_002" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="马匪">
+                <position x="-428.106" z="1137.989" ay="-1" />
+                <position x="-430.015" z="1138.641" ay="-1" />
+                <position x="-429.446" z="1140.301" ay="-1" />
+            </item>
+        </creator>
+        <creator No="498D211A1E874B19866E50D7BC5F78E2" x="-380.856" y="9.325" z="1022.180" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="76811" TaskSubType="1" HateLink="1" SubSceneNo="9269">
+            <item No="1" id="xtb_nmphurnt_012" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="瓦拉千夫长">
+                <position x="-380.630" z="1019.513" ay="-1" />
+                <position x="-377.570" z="1022.870" ay="-1" />
+                <position x="-383.401" z="1022.789" ay="-1" />
+            </item>
+        </creator>
+        <creator No="5F6CD2CA25B44F94B470639FED3F639C" x="-319.109" y="28.050" z="801.560" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="76816" TaskSubType="1" HateLink="1">
+            <item No="1" id="xtb_event_014" amount="8" refreshtime="5" NotPositive="0" desc="瓦剌间谍">
+                <position x="-316.619" z="802.509" />
+                <position x="-316.498" z="806.137" />
+                <position x="-319.404" z="798.406" />
+                <position x="-323.753" z="799.583" />
+                <position x="-321.662" z="803.876" />
+                <position x="-322.714" z="806.813" />
+                <position x="-325.007" z="804.918" />
+                <position x="-325.594" z="802.810" />
+            </item>
+        </creator>
+        <creator No="498D211A1E874B19866E50D7BC5F78E2" x="-293.683" y="9.306" z="1205.476" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="77201" TaskSubType="1" HateLink="1">
+            <item No="1" id="npc_whc_dy_001" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="瓦拉千夫长">
+                <position x="-293.010" z="1203.327" ay="-1" />
+                <position x="-294.300" z="1208.408" ay="-1" />
+                <position x="-293.683" z="1205.476" ay="-1" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

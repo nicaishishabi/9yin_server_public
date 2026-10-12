@@ -1,0 +1,28 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	RoundID	Plot	Title	Step	SearchID	Line	AcceptNpc	SubmitNpc	AcceptSceneID	SubmitSceneID	AutoAcceptID	AutoSubmit	PreTaskLimit	NextTaskLimit	AcceptLimit	SubmitLimit	SubFunction	TaskItemList	RefreshMonster	TimeLimitLength	SubmitNpcEx	TaskScript	TitleId	ContextId	AcceptDialogId	CompleteDialogId	UnCompleteDialogId	TaskTargetId	TrackInfoID	LineNextInfo	CanAcceptMenu	UncompleteMenu	CompleteMenu	AcceptMovie	SubmitMovie	DramaAccept	DramaSubmit	CanGiveup	ShareType	RepeatType	RepeatPeriod	CountDayLimit	DifficultCoefficient	DifficultLevel	ReputationLimit	AcceptReputationLimit	TiaozhanTime
+74101					s1670101	17	WorldNpc10554	npc_syzyb_001	16		74102		74007	74102	115863;117147;116283								title_74101	context_74101	accept_74101_1;menu_74101_1	complete_74101;submit_74101		target_74101		next_74101	CanAcceptMenu_74101		CompleteMenu_74101					0	0	0	0	0					
+74102					s1670101	17					74103	1	74101	74103									title_74102	context_74102				target_74102		next_74102					9943			0	0	0	0	0					
+74103					s1670101	17					74104	1	74102	74104									title_74103	context_74103				target_74103		next_74103					9944			0	0	0	0	0					
+74104					s1670101	17					74105	1	74103	74105									title_74104	context_74104				target_74104		next_74104					9945			0	0	0	0	0					
+74105					s1670101	17					74106	1	74104	74106									title_74105	context_74105				target_74105		next_74105					9946			0	0	0	0	0					
+74106					s1670101	17		WorldNpc01194		14			74105										title_74106	context_74106		complete_74106;submit_74106		target_74106		next_74106			CompleteMenu_74106					0	0	0	0	0					
+74111					s1670102	26			1084	1084	74130	1		74130									title_74111	context_74111				target_74111		next_74111					10052			0	0	0	0	0					
+74112					s1670102	26			1084	1084	74113	1	74130	74113									title_74112	context_74112				target_74112		next_74112					10051			0	0	0	0	0					
+74113					s1670102	26			1084	1084	74114	1	74112	74114									title_74113	context_74113				target_74113		next_74113					10197			0	0	0	0	0					
+74114					s1670102	26			1084	1084	74115	1	74113	74115									title_74114	context_74114				target_74114		next_74114					10200			0	0	0	0	0					
+74115					s1670102	26			1084	1085	74116	1	74114	74116									title_74115	context_74115				target_74115		next_74115					10201			0	0	0	0	0					
+74116					s1670102	26			1084	1084	74117	1	74115	74117									title_74116	context_74116				target_74116		next_74116					10202			0	0	0	0	0					
+74117					s1670102	26			1084	1084	74118	1	74116	74118									title_74117	context_74117				target_74117		next_74117					10203			0	0	0	0	0					
+74130					s1670102	26			1084	1084	74112	1	74111	74112									title_74130	context_74130				target_74130		next_74130					10224			0	0	0	0	0					
+74118					s1670103	26			1085	1085	74119	1	74117	74119									title_74118	context_74118				target_74118		next_74118					10204			0	0	0	0	0					
+74119					s1670103	26			1085	1085	74120	1	74118	74120									title_74119	context_74119				target_74119		next_74119								0	0	0	0	0					
+74120					s1670103	26			1085	1085	74121	1	74119	74121									title_74120	context_74120				target_74120		next_74120								0	0	0	0	0					
+74121					s1670103	26			1085	1085	74122	1	74120	74122									title_74121	context_74121				target_74121		next_74121								0	0	0	0	0					
+74122					s1670103	26			1085	1085	74123	1	74121	74123									title_74122	context_74122				target_74122		next_74122					10207			0	0	0	0	0					
+74123					s1670103	26			1084	1084	74124	1	74122	74124									title_74123	context_74123				target_74123		next_74123								0	0	0	0	0					
+74124					s1670103	26			1085	1085	74125	1	74123	74125									title_74124	context_74124				target_74124		next_74124								0	0	0	0	0					
+74125					s1670103	26			1084	1084	74126	1	74124	74126									title_74125	context_74125				target_74125		next_74125								0	0	0	0	0					
+74126					s1670103	26			1084	1084	74127	1	74125	74127									title_74126	context_74126				target_74126		next_74126								0	0	0	0	0					
+74127					s1670103	26			1084	1084	74128	1	74126	74128									title_74127	context_74127				target_74127		next_74127								0	0	0	0	0					
+74128					s1670103	26		npc_2304_dy_57	1084	1084	74129		74127	74129							SubmitNpcEx_74128		title_74128	context_74128		complete_74128;submit_74128		target_74128		next_74128			CompleteMenu_74128					0	0	0	0	0					
+74129					s1670103	5		qingfanggong001	1084	1084			74128;77962								SubmitNpcEx_74129		title_74129	context_74129		complete_74129;submit_74129		target_74129		next_74129			CompleteMenu_74129					1	0	0	0	0					

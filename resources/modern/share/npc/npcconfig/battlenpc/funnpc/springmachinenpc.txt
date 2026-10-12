@@ -1,0 +1,43 @@
+NPC编号	对象类型	名称	隐藏地面贴花	模型编号	头像	类型	NPC种类ID	响应范围	脚本编号	机关npc类型	1：可反复触发，不填默认只能触发1次	初始状态	机关触发后的状态	机关的触发动作	机关的恢复动作	触发后是否需要恢复原来状态0:否1:是	默认是否被打开0:可开启1：不可开启	恢复原来状态的时间(ms)	采集动作名	触发读条时间(ms)	触发机关需要物品和提示(物品/个数/扣除表示/不足提示id)	NPC阵营	籍贯	平生	门派	AI编号	巡逻模式	寻路是是否转向	走路速度	跑步速度	路径编号	是否可选中	鼠标形状	机关开启人数(不填则默认为1人）	AI编辑包	缩放比例
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	script	Name	HideDecal	Resource	Photo	NpcType	CKindID	SpringRange	LuaScript	MachineNpcType	SpringMode	NormalState	SpringState	SpringAction	ResumeAction	ResumeFlag	UsingFlag	ResumeTime	OpenAction	FlowTime	table@SpringItemList	Camp	Hometown	Story	School	AITemplate	PatrolMode	MotionNoRotate	WalkSpeed	RunSpeed	PathID	SelectState	CursorShape	OpenLessPlayer	AIEditorPackID	Scale
+	//锦衣卫-school01																																			
+SwSwitch_jyw01	SpringMachineNpc	开关	1	npc\fbmac00036		173	4	1	npc\clone\schoolwar5\schoolwar_special_jyw01_012.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	15000												2	5			
+SwSwitch_jyw02	SpringMachineNpc	开关	1	npc\fbmac00036		173	4	1	npc\clone\schoolwar5\schoolwar_special_jyw01_012.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	15000												2	5			
+SwSwitch_jyw03	SpringMachineNpc	开关	1	npc\fbmac00036		173	4	1	npc\clone\schoolwar5\schoolwar_special_jyw01_012.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	15000												2	5			
+SwSwitch_jyw04	SpringMachineNpc	开关	1	npc\fbmac00036		173	4	1	npc\clone\schoolwar5\schoolwar_special_jyw01_012.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	15000												2	5			
+SwSwitch_jyw05	SpringMachineNpc	开关	1	npc\fbmac00036		173	4	1	npc\clone\schoolwar5\schoolwar_special_jyw01_012.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	15000												2	5			
+SwSwitch_jyw06	SpringMachineNpc	开关	1	npc\fbmac00036		173	4	1	npc\clone\schoolwar5\schoolwar_special_jyw01_012.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	15000												2	5			
+SwSwitch_jyw07	SpringMachineNpc	开关	1	npc\fbmac00036		173	4	1	npc\clone\schoolwar5\schoolwar_special_jyw01_012.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	15000												2	5			
+SwSwitch_jyw08	SpringMachineNpc	开关	1	npc\fbmac00036		173	4	1	npc\clone\schoolwar5\schoolwar_special_jyw01_012.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	15000												2	5			
+SwSwitch_jyw09	SpringMachineNpc	开关	1	npc\fbmac00036		173	4	1	npc\clone\schoolwar5\schoolwar_special_jyw01_012.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	15000												2	5			
+SwSwitch_jyw10	SpringMachineNpc	开关	1	npc\fbmac00036		173	4	1	npc\clone\schoolwar5\schoolwar_special_jyw01_012.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	15000												2	5			
+SwSwitch_jyw11	SpringMachineNpc	开关	1	npc\fbmac00036		173	4	1	npc\clone\schoolwar5\schoolwar_special_jyw01_012.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	15000												2	5			
+SwSwitch_jyw12	SpringMachineNpc	开关	1	npc\fbmac00036		173	4	1	npc\clone\schoolwar5\schoolwar_special_jyw01_012.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	15000												2	5			
+SwSwitch_jyw13	SpringMachineNpc	地牢入口	1	npc\fbmac002015		173	4	3	npc\clone\schoolwar5\SwSwitch_jyw13.lua	2	1	closeloop	openloop	open	close	0		-1	interact041	15000												2	5			
+schoolwar_flog_jyw01	SpringMachineNpc	旗子	1	npc\itemnpc639		173	4	1	npc\clone\schoolwar5\schoolwar_flog_jyw01.lua	2	1					0		-1	interact041	15000												2	5			
+schoolwar_flog_jyw02	SpringMachineNpc	旗子	1	npc\itemnpc639		173	4	1	npc\clone\schoolwar5\schoolwar_flog_jyw02.lua	2	1					0		-1	interact041	15000												2	5			
+																																				
+	//丐帮-school02																																			
+switem_gb_att	SpringMachineNpc	投石机	1	npc\fbmac004007		173	4	5	npc\clone\schoolwar6\switem_gb_att.lua	2	1	closeloop	openloop	open	close	0		-1	ng_1h_boot001	10000												2	5			
+switem_gb_flag01	SpringMachineNpc	守方战旗	1	npc\itemnpc634		173	4	5	npc\clone\schoolwar6\switem_gb_flag01.lua	2	1									10000												2	2			"3.100,3.100,3.100"
+switem_gb_flag02	SpringMachineNpc	攻方战旗	1	npc\1701_bzqizhi01		173	4	5	npc\clone\schoolwar6\switem_gb_flag02.lua	2	1									10000												2	2			"3.100,3.100,3.100"
+																																				
+	//君子堂-school03																																			
+																																				
+																																				
+	//极乐谷-school04																																			
+																																				
+																																				
+	//唐门-school05																																			
+																																				
+																																				
+	//峨眉-school06																																			
+																																				
+																																				
+	//武当-school07																																			
+SwStone_wd01	SpringMachineNpc	大石头	1	npc\fbmac021033	icon\funcnpc\clonedoor.png	173	4	5	npc\clone\schoolwar11\SwStone_wd01.lua	2	1	closeloop	openloop	open	close	0		-1	ng_1h_boot001	30000												2	5			
+																																				
+																																				
+																																				
+	//少林-school08																																			

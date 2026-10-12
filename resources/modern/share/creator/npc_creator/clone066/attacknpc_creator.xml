@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="AACE2C0B322A49949F6F4CE3A0A360B1" x="207.076" y="192.321" z="-165.429" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="79501" TaskSubType="1" HateLink="1">
+            <item No="1" id="attnpc_2502_fc_01" ay="-1" amount="8" refreshtime="5" NotPositive="0" desc="蛊虫">
+                <position x="205.959" z="-163.830" ay="-1" />
+                <position x="207.525" z="-163.511" ay="-1" />
+                <position x="208.459" z="-163.827" ay="-1" />
+                <position x="209.547" z="-165.601" ay="-1" />
+                <position x="208.756" z="-166.777" ay="-1" />
+                <position x="207.214" z="-167.147" ay="-1" />
+                <position x="206.532" z="-165.994" ay="-1" />
+                <position x="206.719" z="-164.982" ay="-1" />
+            </item>
+        </creator>
+        <creator No="EFC88BEC154D41CD8B3D42A74143D0F9" x="238.200" y="201.845" z="-48.075" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="79502" TaskSubType="1" HateLink="1">
+            <item No="1" id="attnpc_2502_fc_02" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="发狂的铁匠" />
+        </creator>
+    </randomcreator>
+</object>

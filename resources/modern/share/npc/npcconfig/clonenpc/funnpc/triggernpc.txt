@@ -1,0 +1,381 @@
+NPC编号	对象类型	名称	模型编号	脚本编号	AI编号	巡逻模式	寻路是是否转向	走路速度	跑步速度	路径编号	NPC类型	NPC种类ID	响应范围	是否可见	是否可被攻击	是否需要判断高度	Y轴上多近的距离才算触发	是否需要判断矩形触发范围	矩形的边长	矩形的边宽	AI编辑包	触发回调功能	是否可见	存在时间	碰撞形状	碰撞高度	碰撞半径	如果碰撞体配置成矩形柱体 长	如果碰撞体配置成矩形柱体 宽	子弹类型:0 普通子弹只简单碰撞 1火墙类子弹 每秒检查在范围内的对象	NPC优先显示
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	script	Name	Resource	LuaScript	AITemplate	PatrolMode	MotionNoRotate	WalkSpeed	RunSpeed	PathID	NpcType	CKindID	SpringRange	Invisible	CantBeAttack	NeedYAxisTrigger	Ydistance	NeedRectRangeTrigger	RectLength	RectBoard	AIEditorPackID	RangeEventNum	Invisible	LifeTime	CollideShape	CollideHeight	CollideRadius	CollideRecWidth	CollideRecHeight	BulletType	RefreshAtonce
+																															
+TriggerNpcClone005001	TriggerNpc	少林出师副本机关用1	npc\itemnpc057								165	4	3	0	1	1	0.5	1	1	1	570										
+TriggerNpcClone005002	TriggerNpc	机关寒潭	npc\itemnpc057	npc\clone\clone005\TriggerNpcAddBuffwater.lua							165	4	8	0	1	1	7	1	5	5											
+TriggerNpcClone005003	TriggerNpc	机关炭火	npc\itemnpc057	npc\clone\clone005\TriggerNpcAddBufffire.lua							165	4	8	0	1	1	0.5	1	12	12											
+TriggerNpcClone005004	TriggerNpc	机关木刺	npc\itemnpc057	npc\clone\clone005\TriggerNpcAddBuffwood.lua							165	4	8	0	1	1	0.5	1	12	12											
+TriggerNpcClone005005	TriggerNpc	地板机关	npc\itemnpc057								165	4	12	0	1	1	0.5	1	1	1											
+TriggerNpcClone005006	TriggerNpc	钉墙	npc\itemnpc057								165	4	12	0	1	1	0.5	1	1	1											
+TriggerNpcClone005007	TriggerNpc	地刺	npc\itemnpc057								165	4	12	0	1	1	0.5	1	1	1											
+TriggerNpcClone005008	TriggerNpc	火圈	npc\fbmac00515								165	4	12	0	1	1	0.5	1	1	1											
+																															
+																															
+																															
+TriggerNpcClone001001	TriggerNpc	白虎钉墙左	npc\fbmac00027	npc\clone\clone001\TriggerNpcClone001001.lua	3	1	1	0.2	0.2	AI_clone001_019	163	4	20	0	1	1	30	1	31.5	6											
+TriggerNpcClone001002	TriggerNpc	白虎钉墙右	npc\fbmac00027	npc\clone\clone001\TriggerNpcClone001001.lua	3	1	1	0.2	0.2	AI_clone001_020	163	4	20	0	1	1	30	1	31.5	6											
+TriggerNpcClone001003	TriggerNpc	地钉	npc\worldnpc266	npc\clone\clone001\TriggerNpcClone001001.lua							165	4	5.4	1	1	1	0.5	1	8.3	6.7											
+TriggerNpcClone001004	TriggerNpc	地钉	npc\worldnpc266	npc\clone\clone001\TriggerNpcClone001001.lua							165	4	5.4	1	1	1	0.5	1	8.3	6.7											
+TriggerNpcClone001005	TriggerNpc	地钉	npc\worldnpc266	npc\clone\clone001\TriggerNpcClone001001.lua							165	4	5.4	1	1	1	0.5	1	8.3	6.7											
+TriggerNpcClone001006	TriggerNpc	地钉	npc\worldnpc266	npc\clone\clone001\TriggerNpcClone001001.lua							165	4	5.4	1	1	1	0.5	1	8.3	6.7											
+TriggerNpcClone001007	TriggerNpc	地面火焰	npc\itemnpc057a								202	4	12	0	1	1	0.5	1	10	3											
+TriggerNpcClone001008	TriggerNpc	旋风	npc\itemnpc057								202	4	12	0	1	1	0.5	1	10	10											
+TriggerNpcClone001009	TriggerNpc		npc\itemnpc057c	npc\clone\clone001\TriggerNpcClone001009.lua							165	4	10	0	1	1	5	0													
+TriggerNpcClone001010	TriggerNpc		npc\itemnpc057								165	4	5	1	1	1	30	0													
+TriggerNpcClone007001	TriggerNpc	冰窖	npc\fbmac00515	npc\clone\clone007\TriggerNpcClone007001.lua							202	4	45	0		0		1	60	60											
+TriggerNpcClone007002	TriggerNpc	三毒散	npc\worldnpc266	npc\clone\clone007\TriggerNpcClone007002.lua							202	4	5	0		1	0.5	0													
+TriggerNpcClone007003	TriggerNpc	凹槽	npc\worldnpc266	npc\clone\clone007\TriggerNpcClone007003.lua							202	4	5	0		1	0.5	1	10	0.5											
+TriggerNpcClone007004	TriggerNpc	七星阵1	npc\fbmac00515	npc\clone\clone007\TriggerNpcClone007004.lua							202	4	2	0		0		0													
+TriggerNpcClone007005	TriggerNpc	七星阵2	npc\fbmac00515								202	4	2	0		0		0													
+TriggerNpcClone007006	TriggerNpc	七星阵3	npc\itemnpc057d	npc\clone\clone007\TriggerNpcClone007006.lua							165	4	2	0		0		0													
+TriggerNpcClone007007	TriggerNpc	七星阵4	npc\itemnpc057d	npc\clone\clone007\TriggerNpcClone007007.lua							165	4	2	0		0		0													
+TriggerNpcClone007008	TriggerNpc	七星阵5	npc\itemnpc057d	npc\clone\clone007\TriggerNpcClone007008.lua							165	4	2	0		0		0													
+TriggerNpcClone007009	TriggerNpc	七星阵6	npc\itemnpc057d	npc\clone\clone007\TriggerNpcClone007009.lua							165	4	2	0		0		0													
+TriggerNpcClone007010	TriggerNpc	寒谭深水	npc\worldnpc251	npc\clone\clone007\TriggerNpcClone007010.lua							202	4	35	1		0		1	50	50											
+TriggerNpcClone007011	TriggerNpc	短凹槽	npc\worldnpc266	npc\clone\clone007\TriggerNpcClone007003.lua							202	4	5	0		1	0.5	1	5	0.5											
+TriggerNpcClone007012	TriggerNpc		npc\fbmac00515	npc\clone\clone007\lu_effect.lua							202	4	5	0		0		0													
+TriggerNpcClone007013	TriggerNpc	落石触发npc	npc\fbmac00515	npc\clone\clone007\CreatLuoshi.lua							202	4	17.5	0		0		0													
+TriggerNpcClone007014	TriggerNpc	寒谭深水	npc\fbmac00515	npc\clone\clone007\TriggerNpcClone007014.lua							202	4	71	0		0		1	99	99											
+TriggerNpcClone007015	TriggerNpc	游龙阵特效npc	npc\fbmac007006								202	4	5	0		1	0.5	0													
+TriggerNpcClone007016	TriggerNpc	伤门致死	npc\fbmac013018f	npc\clone\clone007\TriggerNpcClone007016.lua							202	4	30	0		1	1.5	0													
+TriggerNpcClone007017	TriggerNpc	伤门致死	npc\fbmac013018f	npc\clone\clone007\TriggerNpcClone007016.lua							202	4	7	0		1	1.2	0													
+																															
+macclone013018a	TriggerNpc	太一宫机关-红-火	npc\fbmac013018f	npc\clone\clone013\macclone013018.lua							202	4	4.6	0		1	0.5	1	6.7	6.7											
+macclone013018b	TriggerNpc	太一宫机关-绿-木	npc\fbmac013018f	npc\clone\clone013\macclone013018.lua							202	4	4.6	0		1	0.5	1	6.7	6.7											
+macclone013018c	TriggerNpc	太一宫机关-黄-土	npc\fbmac013018f	npc\clone\clone013\macclone013018.lua							202	4	4.6	0		1	0.5	1	6.7	6.7											
+macclone013018d	TriggerNpc	太一宫机关-白-金	npc\fbmac013018f	npc\clone\clone013\macclone013018.lua							202	4	4.6	0		1	0.5	1	6.7	6.7											
+macclone013018e	TriggerNpc	太一宫机关-黑-水	npc\fbmac013018f	npc\clone\clone013\macclone013018.lua							202	4	4.6	0		1	0.5	1	6.7	6.7											
+macclone013018g	TriggerNpc	太一宫机关-开门	npc\fbmac013018f	npc\clone\clone013\macclone013018g.lua							202	4	4.6	0		1	0.5	1	6.7	6.7											
+TriggerNpcClone013001	TriggerNpc	炼毒房火坑npc	npc\fbmac013018f	npc\clone\clone013\TriggerNpcClone013001.lua							202	4	14.2	0		1	1	1	20	20											
+TriggerNpcClone013002	TriggerNpc	毒雾	npc\fbmac007006								202	4	5	0		1	0.5	0													
+TriggerNpcClone013003	TriggerNpc	离宫地刺	npc\fbmac013018f	npc\clone\clone013\TriggerNpcClone013003.lua							202	4	34.3	0		1	1	1	54	42											
+TriggerNpcClone013006	TriggerNpc	离宫触发npc	npc\fbmac013018f	npc\clone\clone013\Trigger_Ligong.lua							202	4	4.6	0		1	6.5	1	6.4	6.4											
+TriggerNpcClone013005	TriggerNpc	九折-毒雾触发NPC	npc\fbmac013018f	npc\clone\clone013\TriggerNpcClone013020.lua							202	4	10	0		1	10	1	15	13			1								
+TriggerNpcClone013004	TriggerNpc	九折-地刺触发NPC	npc\fbmac013018f	npc\clone\clone013\TriggerNpcClone013021.lua							202	4	10	0		1	10	1	15	13			1								
+TriggerNpcClone013022	TriggerNpc	九折-毒针触发NPC	npc\fbmac013018f	npc\clone\clone013\TriggerNpcClone013022.lua							202	4	10	0		1	10	1	15	13			1								
+TriggerNpcClone013023	TriggerNpc	九折-暗器触发NPC	npc\fbmac013018f	npc\clone\clone013\TriggerNpcClone013023.lua							202	4	10	0		1	10	1	15	13			1								
+TriggerNpcClone013024	TriggerNpc	九折-毒液触发NPC	npc\fbmac013018f	npc\clone\clone013\TriggerNpcClone013024.lua							202	4	10	0		1	10	1	15	13			1								
+EventNpcClone013014	TriggerNpc	乱石道毒雾触发npc	npc\fbmac013019f	npc\clone\clone013\EventNpcClone013014.lua							202	4	8	0		1	1	0					1								
+EventNpcClone013015	TriggerNpc	乱石道毒蝎触发npc	npc\fbmac013019f	npc\clone\clone013\EventNpcClone013015.lua							202	4	8	0		1	1	0					1								
+EventNpcClone013016	TriggerNpc	乱石道毒蜂触发npc	npc\fbmac013019f	npc\clone\clone013\EventNpcClone013016.lua							202	4	8	0		1	1	0					1								
+EventNpcClone013017	TriggerNpc	离宫假出口	npc\itemnpc057k	npc\clone\clone013\EventNpcClone013017.lua							202	4	2	0		1	1	0													
+																															
+																															
+TriggerNpcClone019001	TriggerNpc	鬼使大门	npc\itemnpc057	npc\clone\clone019\TriggerNpcClone019001.lua							202	4	20	0		0		1	15	5											
+TriggerNpcClone019002	TriggerNpc	毒使大门	npc\itemnpc057	npc\clone\clone019\TriggerNpcClone019002.lua							202	4	20	0		0		1	15	5											
+TriggerNpcClone019003	TriggerNpc	佛使bufNPC	npc\itemnpc057	npc\clone\clone019\TriggerNpcClone019003.lua							202	4	80	0		0		1	38	54											
+TriggerNpcClone019004	TriggerNpc	销魂石人数检测	npc\itemnpc057	npc\clone\clone019\TriggerNpcClone019004.lua							202	4	5	0		1	0.5	0													
+TriggerNpcClone019005	TriggerNpc	销魂石人数检测	npc\itemnpc057	npc\clone\clone019\TriggerNpcClone019005.lua							202	4	5	0		1	0.5	0													
+																															
+																															
+																															
+																															
+TriggerNpcClone017001	TriggerNpc		npc\fbmac00515								202	4	5	0		1	0.5	0													
+TriggerNpcClone017002	TriggerNpc		npc\fbmac00515								202	4	5	0		1	0.5	0													
+TriggerNpcClone017003	TriggerNpc		npc\fbmac00515								202	4	5	0		1	0.5	0													
+TriggerNpcClone017004	TriggerNpc		npc\kqshiti01	npc\clone\clone017\boss_Corpse.lua							165	4	5	0		1	0.5	0													
+TriggerNpcClone017005	TriggerNpc		npc\fbmac00515	npc\clone\clone017\onlyone.lua							165	4		1		0		1	50	50											
+TriggerNpcClone017006	TriggerNpc		npc\fbmac00515	npc\clone\clone017\TriggerNpcClone017006.lua							165	4	150	1		0		0													
+TriggerNpcClone017007	TriggerNpc		npc\kqshiti02	npc\clone\clone017\boss_Corpse.lua							165	4	5	0		1	0.5	0													
+TriggerNpcClone017008	TriggerNpc		npc\kqshiti03	npc\clone\clone017\boss_Corpse.lua							165	4	5	0		1	0.5	0													
+TriggerNpcClone017009	TriggerNpc		npc\kqshiti04	npc\clone\clone017\boss_Corpse.lua							165	4	5	0		1	0.5	0													
+TriggerNpcClone017010	TriggerNpc		npc\kqshiti05	npc\clone\clone017\boss_Corpse.lua							165	4	5	0		1	0.5	0													
+TriggerNpcClone017011	TriggerNpc		npc\kqshiti06	npc\clone\clone017\boss_Corpse.lua							165	4	5	0		1	0.5	0													
+TriggerNpcClone017013	TriggerNpc		npc\fbmac00515	npc\clone\clone017\TriggerNpcClone017013.lua							165	4	42	0		0		0													
+TriggerNpcClone017014	TriggerNpc		npc\fbmac00515	npc\clone\clone017\TriggerNpcClone017014.lua							165	4	38	0		1	6.9	0													
+TriggerNpcClone017020	TriggerNpc		npc\fbmac00515								165	4	70	1		0		0													
+TriggerNpcClone017021	TriggerNpc		npc\fbmac00515	npc\clone\clone017\circle.lua							165	4	5	0		1	0.5	0													
+TriggerNpcClone017022	TriggerNpc		npc\fbmac00515	npc\clone\clone017\sin.lua							165	4	5	0		1	0.5	0													
+TriggerNpcClone017023	TriggerNpc		npc\fbmac00515	npc\clone\clone017\spire.lua							165	4	5	0		1	0.5	0													
+TriMacClone017032	TriggerNpc	机关通道踩踏地板砖1	npc\fbmac00522								202	4	180	0		1	0.5	1	5	5											
+TriMacClone017033	TriggerNpc	机关通道踩踏地板砖2	npc\fbmac00523								202	4	180	0		1	0.5	1	5	5											
+TriMacClone017034	TriggerNpc	机关通道踩踏地板砖3	npc\fbmac00524								202	4	180	0		1	0.5	1	5	5											
+TriMacClone017035	TriggerNpc	机关通道踩踏地板砖4	npc\fbmac00532								202	4	180	0		1	0.5	1	5	5											
+TriMacClone017036	TriggerNpc	机关通道踩踏地板砖5	npc\fbmac00533								202	4	180	0		1	0.5	1	5	5											
+TriMacClone017037	TriggerNpc	机关通道踩踏地板砖6	npc\fbmac00534								202	4	180	0		1	0.5	1	5	5											
+TriMacClone017038	TriggerNpc	机关通道踩踏地板砖7	npc\fbmac00538								202	4	180	0		1	0.5	1	5	5											
+TriMacClone017039	TriggerNpc	机关通道踩踏地板砖8	npc\fbmac00539								202	4	180	0		1	0.5	1	5	5											
+TriMacClone017040	TriggerNpc	机关通道踩踏地板砖9	npc\fbmac00540								202	4	180	0		1	0.5	1	5	5											
+TriMacClone017065	TriggerNpc		npc\fbmac00527	npc\clone\clone017\tongdaoshanghai.lua							202	4	5	0				1	5	5											
+TriMacClone017070	TriggerNpc		npc\fbmac00527	npc\clone\clone017\tongdaoshanghai.lua							202	4	5	0				1	5	5											
+TriMacClone017071	TriggerNpc		npc\fbmac00527	npc\clone\clone017\tongdaoshanghai.lua							202	4	5	0				1	5	5											
+TriMacClone017072	TriggerNpc		npc\fbmac00527	npc\clone\clone017\tongdaoshanghai.lua							202	4	5	0				1	5	5											
+TriMacClone017073	TriggerNpc		npc\fbmac00527	npc\clone\clone017\tongdaoshanghai.lua							202	4	5	0				1	5	5											
+TriMacClone017074	TriggerNpc		npc\fbmac00527	npc\clone\clone017\tongdaoshanghai.lua							202	4	5	0				1	5	5											
+TriMacClone017075	TriggerNpc		npc\fbmac00527	npc\clone\clone017\tongdaoshanghai.lua							202	4	5	0				1	5	5											
+TriMacClone017076	TriggerNpc		npc\fbmac00527	npc\clone\clone017\tongdaoshanghai.lua							202	4	5	0				1	5	5											
+TriMacClone017077	TriggerNpc		npc\fbmac00527	npc\clone\clone017\tongdaoshanghai.lua							202	4	5	0				1	5	5											
+TriMacClone017078	TriggerNpc		npc\fbmac00527	npc\clone\clone017\tongdaoshanghai.lua							202	4	5	0				1	5	5											
+TriMacClone017079	TriggerNpc		npc\fbmac00527	npc\clone\clone017\tongdaoshanghai.lua							202	4	5	0				1	5	5											
+TriMacClone017080	TriggerNpc		npc\fbmac00527	npc\clone\clone017\tongdaoshanghai.lua							202	4	5	0				1	5	5											
+TriMacClone017081	TriggerNpc		npc\fbmac00515								202	4	8	0				0	8	8											
+																															
+TriggerNpc003001	TriggerNpc		npc\worldnpc266								165	4	70	1				0													
+TriggerNpc003002	TriggerNpc	房子燃烧	npc\itemnpc057a								202	4	12	0	1	1	0.5	1	10	3											
+TriggerNpc003003	TriggerNpc		npc\worldnpc266								165	4	5	1				0													
+TriggerNpc003004	TriggerNpc		npc\worldnpc266	npc\clone\clone003\TriggerNpc003004.lua							165	4	5	1				0													
+TriggerNpc003005	TriggerNpc	地面火焰	npc\itemnpc057								202	4	12	0	1	1	0.5	1	10	3											
+TriggerNpc003006	TriggerNpc		npc\worldnpc266								165	4	8	1				0													
+TriggerNpc003007	TriggerNpc		npc\worldnpc266								165	4	5	1				0													
+TriggerNpc003008	TriggerNpc		npc\worldnpc266								165	4	3	1	1			0													
+TriggerNpc003009	TriggerNpc		npc\worldnpc266								165	4	3	1	1			0													
+TriggerNpc003010	TriggerNpc		npc\worldnpc266								165	4	3	1	1			0													
+TriggerNpc003011	TriggerNpc		npc\worldnpc266								165	4	7	1	1			0													
+TriggerNpc003012	TriggerNpc		npc\worldnpc266								165	4	5	1	1			0													
+TriggerNpc003013	TriggerNpc		npc\worldnpc266								165	4	5	1				0													
+TriggerNpc003014	TriggerNpc		npc\worldnpc266								165	4	10	1				0													
+TriggerNpc003015	TriggerNpc		npc\worldnpc266								165	4	3	1				0													
+																															
+TriggerNpc009001	TriggerNpc		npc\worldnpc266	npc\clone\clone003\TriggerNpc003013.lua							165	4	2	1		1	0.5	0													
+																															
+TriMacClone004001	TriggerNpc		npc\fbmac004013	npc\clone\clone004\TriMacClone004.lua							165	4	20	0				1	20	10											
+TriMacClone004002	TriggerNpc		npc\fbmac004013	npc\clone\clone004\TriMacClone004.lua							165	4	20	0				1	20	10											
+TriMacClone004003	TriggerNpc		npc\fbmac004013	npc\clone\clone004\TriMacClone004.lua							165	4	20	0				1	20	10											
+TriMacClone004004	TriggerNpc		npc\fbmac004013	npc\clone\clone004\TriMacClone004.lua							165	4	20	0				1	20	10											
+TriMacClone004005	TriggerNpc		npc\fbmac004012								165	4	20	0				1	20	10											
+TriMacClone004006	TriggerNpc		npc\itemnpc057_em02								165	4	20	0				1	20	10											
+																															
+TriMacClone015001	TriggerNpc		npc\fbmac004013	npc\clone\clone015\TriMacClone015.lua				1			165	4	30	0		50	0.5	1	50	5											
+																															
+																															
+																															
+																															
+TriggerNpcClone009001	TriggerNpc		npc\worldnpc140								165	4	60	1	1	1	50														
+TriggerNpcClone009002	TriggerNpc		npc\worldnpc140								165	4	3	1	1	1	5														
+TriggerNpcClone009003	TriggerNpc		npc\worldnpc140								165	4	5	1	1	1	5														
+TriggerNpcClone009004	TriggerNpc		npc\itemnpc057d								165	4	20	1	1	1	50														
+																															
+TriggerNpcClone021001	TriggerNpc		npc\itemnpc057e								165	4	16.8	1	1	1															
+TriggerNpcClone021002	TriggerNpc		npc\itemnpc057e								165	4	10	1	1	1															
+TriggerNpcClone021003	TriggerNpc		npc\itemnpc057e								165	4	10	1	1	1															
+TriggerNpcClone021004	TriggerNpc		npc\itemnpc057e								165	4	40	1	1	1															
+TriggerNpcClone021005	TriggerNpc		npc\itemnpc057e								165	4	10	1	1	1															
+TriggerNpcClone021006	TriggerNpc		npc\itemnpc057e								165	4	2	1	1	1															
+TriggerNpcClone021007	TriggerNpc		npc\itemnpc057e								165	4	80	1	1	1	69														
+TriggerNpcClone021008	TriggerNpc		npc\itemnpc057e								165	4	10	1	1	1															
+TriggerNpcClone021009	TriggerNpc		npc\itemnpc057e								165	4	10	1	1	1															
+TriggerNpcClone021010	TriggerNpc		npc\itemnpc057e								165	4	10	1	1	1															
+TriggerNpcClone021011	TriggerNpc		npc\itemnpc057e								165	4	10	1	1	1															
+TriggerNpcClone021012	TriggerNpc		npc\itemnpc057e								165	4	15	1	1	1															
+TriggerNpcClone021013	TriggerNpc		npc\itemnpc057e								165	4	15	1	1	1															
+TriggerNpcClone021014	TriggerNpc		npc\itemnpc057e								165	4	15	1	1	1															
+TriggerNpcClone021015	TriggerNpc		npc\itemnpc057e								165	4	15	1	1	1															
+TriggerNpcClone021016	TriggerNpc		npc\itemnpc057e								165	4	15	1	1	1															
+TriggerNpcClone021017	TriggerNpc		npc\itemnpc057e								165	4	15	1	1	1															
+TriggerNpcClone021018	TriggerNpc		npc\itemnpc057e								165	4	15	1	1	1															
+TriggerNpcClone021019	TriggerNpc		npc\itemnpc057e								165	4	15	1	1	1															
+TriggerNpcClone021020	TriggerNpc		npc\itemnpc057e								165	4	15	1	1	1															
+TriggerNpcClone021021	TriggerNpc	机关寒潭	npc\itemnpc057e								165	4	49	1	1	40	1														
+TriggerNpc_yd_001	TriggerNpc	新手引导传送门	npc\funcnpc019c	npc\yd_book_qinggong_4.lua							202	4	4	0		1	1														
+																															
+																															
+TriggerNpc_yd_001	TriggerNpc	新手引导传送门	npc\itemnpc057	npc\yd_book_qinggong_4_jump.lua							202	4	4	0		1	1														
+TriggerBox_qysz_001	TriggerNpc	苏州奇遇	npc\itemnpc057k	Adventure\TriggerBox_qysz_001.lua							202		1	1	1	1	0.5	1	0.5	0.5											
+																															
+smokebomb	TriggerNpc	烟雾弹	npc\itemnpc057								202	4	10	0	1			0													
+smokebomb_01	TriggerNpc	烟雾弹	npc\itemnpc057								202	4	10	0	1			0													
+smokebomb_02	TriggerNpc	烟雾弹	npc\itemnpc057								202	4	10	0	1			0													
+smokebomb_03	TriggerNpc	烟雾弹	npc\itemnpc057								202	4	10	0	1			0													
+smokebomb_06	TriggerNpc	烟雾弹	npc\itemnpc057								202	4	10	0	1			0													
+smokebomb_08	TriggerNpc	烟雾弹	npc\itemnpc057								202	4	10	0	1			0													
+smokebomb_jgjf	TriggerNpc	烟雾弹	npc\itemnpc057								202	4	10	0	1			0													
+TriggerNpcClone004001	TriggerNpc	火焰墙	npc\itemnpc057_huoyan	npc\clone\clone004\TriggerNpcClone004001.lua	3			5	5	Clone004_huoyanqiang_01	165	4	22	0	1	1	5	1	42.75	33.35											
+TriggerNpcClone004002	TriggerNpc	火焰墙	npc\itemnpc057_huoyan	npc\clone\clone004\TriggerNpcClone004002.lua	3			5	5	Clone004_huoyanqiang_02	165	4	22	0	1	1	5	1	42.75	33.35											
+TriggerNpcClone004003	TriggerNpc	火焰墙	npc\itemnpc057_huoyan	npc\clone\clone004\TriggerNpcClone004003.lua	3			5	5	Clone004_huoyanqiang_03	165	4	22	0	1	1	5	1	42.75	33.35											
+TriggerNpcClone004004	TriggerNpc	火焰墙	npc\itemnpc057_huoyan	npc\clone\clone004\TriggerNpcClone004004.lua	3			5	5	Clone004_huoyanqiang_04	165	4	22	0	1	1	5	1	42.75	33.35											
+smokebomb_flxmz	TriggerNpc	烟雾弹	npc\itemnpc057								202	4	10	0	1			0													
+smokebomb_fireworks1	TriggerNpc	烟雾弹	npc\itemnpc057								202	4	10	0	1			0													
+Npc_tlw07	TriggerNpc	天罗舞	npc\itemnpc057								202	4	10	0	1			0													
+NPC_mjh04	TriggerNpc	透骨刀炎	npc\itemnpc057								202	4	10	0	1			0													
+NPC_mjh05	BulletNpc	弯刀火影	npc\itemnpc057								202	4		0	1										4	2		2	2	0	
+NPC_xfsyt	BulletNpc	旋风扫叶腿	npc\itemnpc057								202	4		0	1										4	5		5	5	0	
+Npc_shl01	TriggerNpc	烟雾弹	npc\itemnpc057								202	4	10	0	1			0													
+Npc_shl02	BulletNpc	圣火令	npc\itemnpc057								202	4		0	1										4	5		5	5	0	
+NPC_gwc03	BulletNpc	鬼王刺	npc\itemnpc057								202	4		0	1										4	5		5	5	0	
+NPC_xlsbzc06	TriggerNpc	飞龙压顶	npc\itemnpc057								202	4	10	0	1			0													
+TS_icewall	TriggerNpc	天山冰墙	npc\itemnpc057_bing								202	4	10	0	1			0													
+npc_football	TriggerNpc	足球本体	npc\football001								202	4		0	1										4	2		2	2	0	1
+																															
+																															
+		//任务用																													
+TriggerNpcjl001	TriggerNpc	暗器触发NPC	npc\fbmac013018f	npc\task\task48019_feibiao.lua							202	4	10	0		1	10	1	15	13											
+TriggerNpcjl002	TriggerNpc	地刺触发NPC	npc\fbmac013018f	npc\task\task48019_dici.lua							202	4	10	0		1	10	1	15	13											
+TriggerNpcjl003	TriggerNpc	毒针触发NPC	npc\fbmac013018f	npc\task\task48019_duzhen.lua							202	4	10	0		1	10	1	15	13											
+TriggerNpcjl004	TriggerNpc	毒液触发NPC	npc\fbmac013018f	npc\task\task48019_duye.lua							202	4	10	0		1	10	1	15	13											
+TriggerNpcjl005	TriggerNpc	箭雨触发NPC	npc\fbmac013018f	npc\task\task48019_duye.lua							202	4	10	0		1	10	1	15	13											
+TriggerNpcClone001108	TriggerNpc	旋风	npc\itemnpc057								202	4	12	0	1	1	0.5	1	10	10											
+TriggerNpctsxjl01	TriggerNpc	太湖地宫地刺	npc\fbmac013018f	npc\task\tasktsxjl01_dici.lua							202	4	1.5	0	1	1	4.5	1	3	3											
+TriggerNpctsxjl02	TriggerNpc	太湖地宫喷毒	npc\fbmac013018f	npc\task\tasktsxjl02_duwu.lua							202	4	1.7	0	1	1	4.5	1	2	2											
+TriggerNpc_qy_tangmen001	TriggerNpc	地钉	npc\fbmac013018f	Adventure\tm\TriggerNpc_qy_tangmen001.lua							202	4	10	0		1	0.5	1	2	1											
+TriggerNpc_qy_tangmen002	TriggerNpc	毒气	npc\fbmac013018f	Adventure\tm\TriggerNpc_qy_tangmen002.lua							202	4	10	0		1	0.5	1	10	10											
+		//战场buff																													
+TriggerNpcBattle001	TriggerNpc	攻击增强	npc\fbmac004012e								202	4	5	0	1	1	3	1	3	3		1									
+TriggerNpcBattle002	TriggerNpc	回复	npc\fbmac004012f								202	4	5	0	1	1	3	1	3	3		2									
+TriggerNpcBattle003	TriggerNpc	防御	npc\fbmac004012g								202	4	5	0	1	1	3	1	3	3		3									
+TriggerNpcBattle004	TriggerNpc	红色剑币	npc\fbmac004012x	npc\BattleField\battle_npc_jianqi.lua							202	4	5	0	1	1	3	1	3	3											
+TriggerNpcBattle005	TriggerNpc	蓝色剑币	npc\fbmac004012y	npc\BattleField\battle_npc_jianqi.lua							202	4	5	0	1	1	3	1	3	3											
+																															
+nightwar_item_attack	TriggerNpc	攻击增强	npc\fbmac004012e								202	4	5	0	1	1	3	1	3	3		1		59000							
+nightwar_item_hp	TriggerNpc	回复	npc\fbmac004012f								202	4	5	0	1	1	3	1	3	3				59000							
+nightwar_item_protect	TriggerNpc	防御	npc\fbmac004012g								202	4	5	0	1	1	3	1	3	3		3		59000							
+nightwar_item_boom	TriggerNpc	自爆	npc\fbmac004012x								202	4	5	0	1	1	3	1	3	3				59000							
+																															
+																															
+EventNpcClone011220	TriggerNpc	添加毒buff	npc\itemnpc057e								202	4	30	1	1	1	30	1	30	30											
+EventNpcClone011215	TriggerNpc	杏子林山壁陷阱	npc\itemnpc057e								202	4	8	1	1	1	10	1	10	10											
+																															
+Triggerborn003006	TriggerNpc		npc\worldnpc266								165	4	8	1				0													
+Triggerborn003010	TriggerNpc		npc\worldnpc266								165	4	3	1	1			0													
+Triggerborn003011	TriggerNpc		npc\worldnpc266	npc\clone\clone003\TriggerNpc003011.lua							165	4	7	1	1			0													
+		//苏州事件																													
+trig_szwe01_1	TriggerNpc	百姓逃跑终点	npc\fbmac004012f								202	4	3	1	1																
+trig_szwe01_2	TriggerNpc	整体事件触发NPC	npc\fbmac004012f								202	4	3	1	1																
+trig_szwe01_3	TriggerNpc	对掌不可靠近范围	npc\fbmac004012f								202	4	3	1	1																
+trig_szwe01_4	TriggerNpc	况府余孽消失触发器	npc\fbmac004012f								202	4	3	1	1																
+trig_szwe01_5	TriggerNpc	况府	npc\fbmac004012f								202	4	30	1	1			1	50	50											
+trig_szwe01_6	TriggerNpc	苏州事件	npc\fbmac004012f								202	4	3	1	1																
+trig_szwe01_7	TriggerNpc	苏州事件	npc\fbmac004012f								202	4	3	1	1																
+trig_szwe01_8	TriggerNpc	苏州事件	npc\fbmac004012f								202	4	3	1	1																
+																															
+TriggerNpc_wgm001	TriggerNpc	无根门	npc\itemnpc057_jlg01								202	4	10	1	1		10														
+																															
+sweetemploy_mkk01	TriggerNpc	烟雾弹	npc\itemnpc057								202	4	10	0	1			0													
+																															
+		//宠物路标																													
+pet_guide_npc	TriggerNpc	剧情npc路标	npc\itemnpc057								286	4	1	1	1																
+pet_guide_gather	TriggerNpc	植物采集物标识	npc\itemnpc057								287	4	1	1	1																
+pet_guide_animal	TriggerNpc	动物采集物标识	npc\itemnpc057								288	4	1	1	1																
+pet_guide_zhangpeng	TriggerNpc	隐藏帐篷	npc\itemnpc057								202	4	1	0	1																
+																															
+pet_guide_hole	TriggerNpc	山洞路标	npc\itemnpc057								524	4	1	1	1																
+																															
+		//念罗坝花会																													
+Trigger_nlb_hh_th	TriggerNpc	投壶标记	npc\itemnpc057								202	4	10	0	1			0													
+																															
+bullet_tg01	BulletNpc	矩形子弹	npc\itemnpc057								202	4		0	1										4	5		3	3	0	
+bullet_tg02	BulletNpc	圆柱子弹	npc\itemnpc057								202	4		0	1										0	5	2			0	
+bullet_tg03	BulletNpc	矩形子弹（不可见）	npc\itemnpc057								202	4		1	1										4	5		4	4	0	
+NPC_jxc07	TriggerNpc	冰凌刺	npc\itemnpc057								202	4	5	0	1			0													
+NPC_bhjtz02	BulletNpc	碧海惊涛掌	npc\itemnpc057								202	4		0	1										4	6		5	5	0	
+NPC_single_js	TriggerNpc	剑弑剑阵	npc\itemnpc057								202	4	10	0	1			0													
+NPC_CS_single_wxd	TriggerNpc	万仙鼎	npc\itemnpc057								202	4	10	0	1			0													
+																															
+		//帮会战场																													
+Newguild_TriggerNpcBattle000	TriggerNpc	攻击增强	npc\fbmac004012e								202	4	2	0	1	1	3	1	3	3											
+Newguild_TriggerNpcBattle001	TriggerNpc	攻击增强	npc\fbmac004012e								202	4	1	0	1	1	3	1	3	3											
+Newguild_TriggerNpcBattle002	TriggerNpc	回复	npc\fbmac004012f								202	4	1	0	1	1	3	1	3	3											
+Newguild_TriggerNpcBattle003	TriggerNpc	防御	npc\fbmac004012g								202	4	1	0	1	1	3	1	3	3											
+Newguild_TriggerNpcBattle004	TriggerNpc	攻击增强	npc\fbmac004012e_1								202	4	5	0	1	1	3	1	3	3											
+																															
+qyby_zd	TriggerNpc	轰天雷	npc\itemnpc057								202	4	10	0	1			0													
+NPC_ykr08	BulletNpc	隐空刃回旋镖	npc\itemnpc057								202	4		0	1										4	3		4	4	0	
+NPC_lzxss04	BulletNpc	血爪	npc\itemnpc057								202	4		0	1										4	3		3	3	0	
+NPC_lzxss06	BulletNpc	血骷	npc\itemnpc057								202	4		0	1										4	3		3	3	0	
+NPC_fbg05	BulletNpc	风波棍	npc\itemnpc057								202	4		0	1										4	3		5	5	0	
+NPC_ykr04	TriggerNpc	鬼哭神嚎	npc\itemnpc057								202	4	5	0	1			0													
+NPC_ykr06_hide	TriggerNpc	风声鹤唳	npc\itemnpc057								202	4	5	0	1			0													
+NPC_hq_01	BulletNpc	香蕉皮	npc\itemnpc057								202	4		0	1										0	1	2			0	
+NPC_wshj	TriggerNpc	当前区域	npc\itemnpc057								202	4	10	0	1			0													
+NPC_mwcq07	TriggerNpc	群鸿戏海	npc\itemnpc057								202	4	6	0	1			0													
+NPC_mwcq08	TriggerNpc	飞龙舞凤	npc\itemnpc057								202	4	6	0	1			0													
+NPC_tmby01	BulletNpc	余音音波	npc\itemnpc057								202	4		0	1										4	3		4	4	0	
+NPC_gymmc_06	TriggerNpc	留影	npc\itemnpc057								202	4	5	0	1			0													
+		//东海引导																													
+NPC_donghai_event_skill_01	BulletNpc	碧海惊涛掌	npc\itemnpc057								202	4		0	1									2000	4	6		1	1	0	
+																															
+		//88随机蝙蝠岛																													
+npc_sjclone01_007	TriggerNpc	蝙蝠洞透明公用NPC	npc\itemnpc057								202	4	10	0	1			0													
+npc_sjclone01_015	BulletNpc	风随手里剑	npc\itemnpc057								202	4		0	1										4	3		3	3	0	
+npc_sjclone02_016	BulletNpc	箭	npc\itemnpc057								202	4		0	1										4	2		2	2	0	
+																															
+NPC_wjd	BulletNpc	无极岛炮弹	npc\fbnpc00005								202	4		0	1										4	5		5	5	0	
+																															
+clone034_mon_01	TriggerNpc	夺魂内圈	npc\itemnpc057								202	4		0	1			0													
+clone034_mon_02	TriggerNpc	夺魂中圈	npc\itemnpc057								202	4		0	1			0													
+clone034_mon_03	TriggerNpc	夺魂外圈	npc\itemnpc057								202	4		0	1			0													
+event_clone034_01	TriggerNpc	陷阱	npc\itemnpc057								202	4		0	1			0													
+event_clone034_02	TriggerNpc	机关关闭点	npc\itemnpc1380								202	4		0	1			0													
+event_clone034_03	TriggerNpc	火焰	npc\itemnpc057								202	4		0	1			0													
+event_clone034_tp	TriggerNpc	玄门铁炮	npc\itemnpc057								202	4		0	1			0													
+event_clone034_10	BulletNpc	暗器	npc\itemnpc057								202	4		0	1										4	3		4	4	0	
+event_clone034_jm	TriggerNpc	剑阵·灭	npc\itemnpc057								202	4		0	1			0													
+event_clone034_qfytx	TriggerNpc	清风崖两仪阵	npc\itemnpc057								202	4		0	1			0			4375										
+																															
+Trigger_clone034_jwz	TriggerNpc	剑网阵	npc\itemnpc057								202	4		0	1			0													
+Trigger_clone034_jwzzj	TriggerNpc	剑网阵重剑	npc\itemnpc057								202	4		0	1			0													
+Trigger_clone034_tiaoyue	TriggerNpc	挑岳标记	npc\itemnpc057								202	4		0	1			0													
+Trigger_clone034_bengshan	TriggerNpc	崩山标记	npc\itemnpc057								202	4		0	1			0													
+Trigger_clone034_yxz	TriggerNpc	月相阵	npc\itemnpc057								202	4		0	1			0													
+NPC_gsd_01	BulletNpc	官商道扇风	npc\itemnpc057								202	4		0	1										4	3		5	5	0	
+NPC_gsd_01xyz	BulletNpc	最后一行防BUG配置	npc\itemnpc057								202	4		0	1										4	3		5	5	0	
+																															
+TriggerNpc003005_a	TriggerNpc	地面标记	npc\itemnpc057								202	4	12	0	1	1	0.5	1	10	3	5125										
+TriggerNpc003016	TriggerNpc	宝藏点	npc\itemnpc057								202	4	12	0	1	1	0.5	1	10	3	5126										
+																															
+																															
+npc_clone039_01	BulletNpc	矩形暗器	npc\itemnpc057								202	4		0	1										4	2		3	2	0	
+npc_clone039_02	BulletNpc	球形暗器	npc\itemnpc057								202	4		0	1										0	2	2			0	
+event_clone039_01	TriggerNpc	暗器	npc\itemnpc057								202	4		0	1			0													
+event_clone039_MY	TriggerNpc	冰柱后方区域	npc\itemnpc057								202	4		0	1			0													
+event_clone039_hx	TriggerNpc	滑雪	npc\itemnpc057								202	4	5	0	1															0	
+event_clone039_hx02	TriggerNpc	滑雪终点	npc\itemnpc057								202	4	5	0	1															0	
+																															
+guildchaoswar_TriggerNpcBattle002	TriggerNpc	回复	npc\fbmac004012f								202	4	1	0	1	1	3	1	3	3											
+NPC_sjcyj	TriggerNpc	荒天落日箭	npc\itemnpc057								202	4	5		1			0													
+NPC_tyjf01	TriggerNpc	落雪剑	npc\itemnpc057								202	4	5		1			0													
+																															
+event_clone040_01	TriggerNpc	暗器	npc\itemnpc057								202	4		0	1			0													
+																															
+NPC_fbg05	BulletNpc	风波棍	npc\itemnpc057								202	4		0	1										4	3		5	5	0	
+smokebomb_xtxjf	TriggerNpc	烟雾弹	npc\itemnpc057								202	4	10		1			0													
+																															
+npc_jtg_event_01	BulletNpc	水墙	npc\itemnpc057								202	4		0	1										4	2		15	5	0	
+npc_jtg_event_02	BulletNpc	圆环形	npc\itemnpc057								202	4		0	1										0	2	1			0	
+																															
+event_tyhg_zf1	TriggerNpc	暗器	npc\itemnpc057								202	4		0	1			0													
+event_tyhg_zf2	TriggerNpc	暗器	npc\itemnpc057								202	4		0	1			0													
+event_tyhg_zf3	TriggerNpc	暗器	npc\itemnpc057								202	4		0	1			0													
+																															
+event_worldqjc_ky	TriggerNpc	陨石刻印	npc\itemnpc057								202	4		0	1			0													1
+event_worldqjc_01	TriggerNpc	暗器	npc\itemnpc057								202	4		0	1			0													1
+npc_worldqjc_01	BulletNpc	月轮	npc\itemnpc057								202	4		0	1										0	2	7			0	1
+npc_worldqjc_02	BulletNpc	苦无	npc\itemnpc057								202	4		0	1										0	2	2			0	1
+																															
+NPC_CS_single_qyg4	TriggerNpc	天机珠	npc\itemnpc057								1212	4	25		1			0													
+																															
+NPC_gujjf01	TriggerNpc	巨斧	npc\itemnpc057								202	4	25		1			0													
+																															
+npc_xtbzyb_004	TriggerNpc	木狼旗	npc\npc_xtbzyb_004								202	4	20		1			0													
+npc_xtbzyb_005	TriggerNpc	白虎旗	npc\npc_xtbzyb_005								202	4	20		1			0													
+npc_xtbzyb_006	TriggerNpc	刑天旗	npc\npc_xtbzyb_006								202	4	20		1			0													
+																															
+event_wyjt_aq01	TriggerNpc	暗器	npc\fbnpc00005								202	4		0	1			0													
+Npc_Wbj_fire	TriggerNpc	烈火弹	npc\itemnpc057								202	4	5		1			0													
+war_xueyu001	TriggerNpc	地火	npc\itemnpc057								202	4	20		1			0			5973			30000							
+war_xueyu002	TriggerNpc	地火	npc\itemnpc057								202	4	20		1			0			5974			30000							
+																															
+event_worldlqq_01	TriggerNpc	暗器	npc\itemnpc057c								202	4		0	1			0													
+																															
+npc_cloneqy_xr_002	BulletNpc	暗器飞镖	npc\itemnpc057								202	4		0	1										4	3		4	4	0	
+npc_cloneqy_xr_003	BulletNpc	回旋镖	npc\itemnpc057								202	4		0	1										4	3		4	4	0	
+																															
+npc_cloneqy_lgj_001	TriggerNpc	暗器	npc\itemnpc057								202	4		0	1			0													1
+npc_cloneqy_lgj_002	TriggerNpc	暗器	npc\itemnpc057								202	4		0	1			0													1
+npc_cloneqy_bmj_001	TriggerNpc	暗器	npc\itemnpc057								202	4		0	1			0													1
+npc_cloneqy_xr_001	TriggerNpc	暗器	npc\itemnpc057								202	4		0	1			0													1
+																															
+home_jyt_cw_001	TriggerNpc	暗器	npc\itemnpc057								202	4		0	1			0			6124										1
+home_jyt_cw_002	TriggerNpc	月辉	npc\itemnpc1730								202	4		0	1			0			6124										1
+																															
+Npc_zf02	TriggerNpc	醉赋	npc\itemnpc057								202	4	5		1			0													
+Npc_zf03	TriggerNpc	醉赋	npc\itemnpc057								202	4	5		1			0													
+Npc_zf07	TriggerNpc	醉赋	npc\itemnpc057								202	4	5		1			0													
+																															
+Npc_wqb_gmfs_xf	BulletNpc	傀儡	npc\itemnpc057								202	4		0	1										4	3		3	3	0	
+NPC_ftbz01	BulletNpc	碧海惊涛掌	npc\itemnpc057								202	4			1										4	6		5	5	0	
+TS_icewall_fwz	TriggerNpc	天山冰墙	npc\itemnpc057_bing_fwz								202	4	10		1			0													
+																															
+npc_sjclone069_001	BulletNpc	半径2米旋风	npc\itemnpc057								202	4		0	1										0	20	2			0	1
+																															
+smokebomb_xjmj02	TriggerNpc	烟雾弹	npc\itemnpc057								202	4	10	0	1			0													

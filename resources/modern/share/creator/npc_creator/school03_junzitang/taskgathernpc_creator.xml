@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="3ED8E236119B4529ADB2B91FDC14CA33" x="616.399" y="103.649" z="457.533" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="jztnpccyh_001" ay="4.010" amount="1" refreshtime="5" NotPositive="0" desc="天门琴">
+                <position x="617.112" z="458.821" ay="4.010" />
+            </item>
+        </creator>
+        <creator No="36504041DE76407A867F181BBE95170A" x="620.552" y="101.878" z="595.352" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="7001" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather00002W" ay="-1" amount="7" refreshtime="5" NotPositive="0" desc="虫须草">
+                <position x="618.193" z="596.183" ay="-1" />
+                <position x="620.997" z="599.156" ay="-1" />
+                <position x="624.314" z="596.186" ay="-1" />
+                <position x="619.601" z="596.662" ay="-1" />
+                <position x="620.774" z="598.239" ay="-1" />
+                <position x="621.661" z="597.947" ay="-1" />
+                <position x="622.459" z="597.183" ay="-1" />
+            </item>
+        </creator>
+        <creator No="34EFBC38A69C412798388BB8A653C6A3" x="507.525" y="80.962" z="-6.220" radius="15.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather0049yl" ay="-1" amount="17" refreshtime="5" NotPositive="0" desc="兰花">
+                <position x="508.077" z="-9.234" ay="-1" />
+                <position x="504.443" z="-11.681" ay="-1" />
+                <position x="502.917" z="-8.156" ay="-1" />
+                <position x="504.249" z="-16.750" ay="-1" />
+                <position x="499.266" z="-14.361" ay="-1" />
+                <position x="497.557" z="-10.109" ay="-1" />
+                <position x="501.528" z="-12.177" ay="-1" />
+                <position x="517.133" z="1.387" ay="-1" />
+                <position x="514.972" z="-1.613" ay="-1" />
+                <position x="506.658" z="3.962" ay="-1" />
+                <position x="499.591" z="2.855" ay="-1" />
+                <position x="499.813" z="-2.954" ay="-1" />
+                <position x="509.820" z="-2.433" ay="-1" />
+                <position x="516.439" z="-14.471" ay="-1" />
+                <position x="505.177" z="-17.859" ay="-1" />
+                <position x="510.756" z="-18.427" ay="-1" />
+                <position x="507.965" z="-6.080" ay="-1" />
+            </item>
+        </creator>
+        <creator No="E3DBC60F2DD348E9AE5C94A7A85D1F37" x="138.949" y="-0.492" z="508.216" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57001" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_jy01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="锦衣卫" />
+        </creator>
+        <creator No="DF82EA9C4EA7455B9B46EE15AD200558" x="138.949" y="-0.492" z="508.216" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57002" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_gb01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="丐帮" />
+        </creator>
+        <creator No="485777F8536049CBBDA6E39B1972B58C" x="138.949" y="-0.492" z="508.216" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57003" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_jz01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="君子堂" />
+        </creator>
+        <creator No="0B7895E4C4A44AEDB474D21F18E8E16C" x="138.949" y="-0.492" z="508.216" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57004" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_jl01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="极乐谷" />
+        </creator>
+        <creator No="414ECB0F3ED2451AB1ABE1DCA5137451" x="138.949" y="-0.492" z="508.216" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57005" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_tm01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="唐门" />
+        </creator>
+        <creator No="0B1D0B9964EA4E07BAA61B93D35262D3" x="138.949" y="-0.492" z="508.216" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57006" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_em01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="峨眉" />
+        </creator>
+        <creator No="924D287D4F2C459DA5407DEB8E2EC654" x="138.949" y="-0.492" z="508.216" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57007" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_wd01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="武当" />
+        </creator>
+        <creator No="519D5E0BC4E84461800BD136BBBC7D87" x="138.949" y="-0.492" z="508.216" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57008" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_sl01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="少林" />
+        </creator>
+        <creator No="F8BE0BA913554EBDA89ACF270864B945" x="977.076" y="11.835" z="696.442" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57001" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_jy01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="锦衣卫" />
+        </creator>
+        <creator No="2E6492F0527C4B2F84589A95BE14D329" x="977.076" y="11.835" z="696.442" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57002" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_gb01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="丐帮" />
+        </creator>
+        <creator No="98D5C63B79FF4E849C2EC163B3DC94C9" x="977.076" y="11.835" z="696.442" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57003" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_jz01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="君子堂" />
+        </creator>
+        <creator No="3601D6BF4546480E8FD4A341B5C16621" x="977.076" y="11.835" z="696.442" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57004" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_jl01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="极乐谷" />
+        </creator>
+        <creator No="71B308F0667D42A4A8E769974AE22CE4" x="977.076" y="11.835" z="696.442" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57005" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_tm01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="唐门" />
+        </creator>
+        <creator No="F33304EECF164B3DA0294D1112A81ACD" x="977.076" y="11.835" z="696.442" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57006" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_em01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="峨眉" />
+        </creator>
+        <creator No="A29C9C70487C4D8BA6D1B47771B9EF4C" x="977.076" y="11.835" z="696.442" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57007" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_wd01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="武当" />
+        </creator>
+        <creator No="C131E1B3F07248A6A7D3B76257DF7382" x="977.076" y="11.835" z="696.442" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57008" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_sl01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="少林" />
+        </creator>
+        <creator No="D64816EFB93A45AAA5D8F965459F9EE5" x="681.207" y="98.674" z="25.213" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57001" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_jy01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="锦衣卫" />
+        </creator>
+        <creator No="15536CBC980147048DF2F4F7561BF652" x="681.207" y="98.674" z="25.213" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57002" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_gb01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="丐帮" />
+        </creator>
+        <creator No="BC9C6D88DFDD48AF94D0E006028EB196" x="681.207" y="98.674" z="25.213" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57003" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_jz01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="君子堂" />
+        </creator>
+        <creator No="7E30E704769F4C4BBC6C615DA94B5F82" x="681.207" y="98.674" z="25.213" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57004" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_jl01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="极乐谷" />
+        </creator>
+        <creator No="EB73621178E54527B22A2309B4CFE81F" x="681.207" y="98.674" z="25.213" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57005" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_tm01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="唐门" />
+        </creator>
+        <creator No="D40B08064A294E4390D89B9CB780825C" x="681.207" y="98.674" z="25.213" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57006" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_em01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="峨眉" />
+        </creator>
+        <creator No="0F0F7EF8641540FCAA9FB461057982EB" x="681.207" y="98.674" z="25.213" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57007" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_wd01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="武当" />
+        </creator>
+        <creator No="EAC905DCF8BC4FD584C72473F5309ED6" x="681.207" y="98.674" z="25.213" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57008" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_sl01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="少林" />
+        </creator>
+        <creator No="6A6A8653BD99486AA46E38D8D26361AC" x="549.440" y="101.632" z="350.758" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57001" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_jy01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="锦衣卫" />
+        </creator>
+        <creator No="ADB6B60F6F544DC49912428299627FFE" x="549.440" y="101.632" z="350.758" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57002" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_gb01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="丐帮" />
+        </creator>
+        <creator No="BCF13ADD8B1D4E5399276E084950AF9C" x="549.440" y="101.632" z="350.758" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57003" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_jz01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="君子堂" />
+        </creator>
+        <creator No="A101228CF6E849B0A5C09FA405CA201F" x="549.440" y="101.632" z="350.758" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57004" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_jl01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="极乐谷" />
+        </creator>
+        <creator No="713F0994D5654E60BF4E26956947E1A4" x="549.440" y="101.632" z="350.758" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57005" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_tm01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="唐门" />
+        </creator>
+        <creator No="92070B429C96480B957E6A7FF54C31F1" x="549.440" y="101.632" z="350.758" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57006" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_em01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="峨眉" />
+        </creator>
+        <creator No="566EBC46A54940E7AAEA1F4DB107DFDC" x="549.440" y="101.632" z="350.758" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57007" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_wd01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="武当" />
+        </creator>
+        <creator No="410DF3594626442BB74D0111E850E5E1" x="549.440" y="101.632" z="350.758" radius="10.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="57008" TaskSubType="1" HateLink="1" SubSceneNo="8033">
+            <item No="1" id="ctboss_sl01" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="少林" />
+        </creator>
+        <creator No="73D9FB04DE184C44AFA83CA9D0E65683" x="491.967" y="101.632" z="537.050" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="547" TaskSubType="1" HateLink="1">
+            <item No="1" id="spynpcyd_xl" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="刺探NPC">
+                <position x="492.888" z="538.305" ay="-1" />
+                <position x="489.954" z="537.811" ay="-1" />
+                <position x="491.267" z="535.084" ay="-1" />
+            </item>
+        </creator>
+        <creator No="C0235B99C1604D8399D32288CAE452BD" x="329.848" y="78.362" z="576.996" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="139" TaskSubType="2" HateLink="1">
+            <item No="1" id="lootnpcyd_hs" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="夺书NPC" />
+        </creator>
+        <creator No="A1C8421A5A704D1E8AB494D4E235BF78" x="431.281" y="89.865" z="559.167" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="130" TaskSubType="2" HateLink="1">
+            <item No="1" id="booknpcyd_ds" ay="4.310" amount="1" refreshtime="5" NotPositive="0" desc="书架">
+                <position x="432.779" z="559.273" ay="4.310" />
+            </item>
+        </creator>
+        <creator No="FC2865CEC5B0400ABFCA285FCC3EE74D" x="833.962" y="185.723" z="636.541" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" StaticY="1" HateLink="1">
+            <item No="1" id="Npc_wxts_02" sx="0.560" sy="0.560" sz="0.560" ay="1.280" amount="1" refreshtime="30000" NotPositive="0" desc="山顶石块">
+                <position x="834.420" y="186.045" z="635.462" sx="0.560" sy="0.560" sz="0.560" ay="1.280" />
+            </item>
+        </creator>
+        <creator No="186C28913E384798B8A6A6273A61696F" x="649.037" y="103.185" z="765.375" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" StaticY="1" HateLink="1">
+            <item No="1" id="Npc_wxts_01" ay="1.660" amount="1" refreshtime="30000" NotPositive="0" desc="武学心德">
+                <position x="647.840" y="103.339" z="765.884" ay="1.660" />
+            </item>
+        </creator>
+        <creator No="B6766ABC2E914900B5DE20EB511F3569" x="599.908" y="103.650" z="317.160" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" StaticY="1" HateLink="1">
+            <item No="1" id="Npc_5neijz_57033c_01" ay="1.660" amount="1" refreshtime="30000" NotPositive="0" desc="呕吐物">
+                <position x="599.908" y="103.650" z="317.160" ay="1.660" sx="0.240" sy="0.240" sz="0.240"/>
+            </item>
+        </creator>
+        <creator No="EF805D5FC4BE4C42AF6F23FC7A074A64" x="544.094" y="36.203" z="1087.382" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="79306" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_20231109_dy_01" ay="-1" amount="1" refreshtime="5" desc="宁贵才">
+                <position x="544.094" z="1087.382" ay="-1" />
+            </item>
+        </creator>
+        <creator No="450E99E43A6F49DEB3ABD414AC65E05B" x="403.137" y="65.544" z="1089.315" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="79307" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_20231109_dy_02" ay="-1" amount="1" refreshtime="5" desc="宁贵才">
+                <position x="403.137" z="1089.315" ay="-1" />
+            </item>
+        </creator>
+        <creator No="0B5FC5CEFBAB4DCF8191A810297A5104" x="503.032" y="23.097" z="1103.267" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="79308" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_20231109_dy_03" ay="-1" amount="1" refreshtime="5" desc="宁贵才">
+                <position x="503.032" z="1103.267" ay="-1" />
+            </item>
+        </creator>
+        <creator No="91FB67B432BD43DBA39D1EC8538CEF71" x="432.334" y="46.797" z="1027.644" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="79309" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_20231109_dy_04" ay="-1" amount="1" refreshtime="5" desc="宁贵才">
+                <position x="432.334" z="1027.644" ay="-1" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

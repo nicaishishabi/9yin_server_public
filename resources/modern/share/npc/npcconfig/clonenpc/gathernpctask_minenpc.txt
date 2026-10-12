@@ -1,0 +1,558 @@
+NPC编号	对象类型	名称	模型编号	头像	NPC类型	NPC种类ID	响应范围	选择操作分类	脚本编号	采集范围	采集时特效名	采集后特效名	采集后特效持续时间（毫秒）	刷新时间（ms）	采集动作名	读条时间(ms)	采集类型	参数1	参数2	回收	掉落	采集地点	最多可采集次数	体力	工具限制（不填写表示没有限制）	多人同时采集（填1允许）	AI编辑包	鼠标形状	收录类型
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	script	Name	Resource	Photo	NpcType	CKindID	SpringRange	SelectState	LuaScript	GatherRange	GatherEffects	AfterGatherEffects	EffectsTime	RefreshTime	GatherAction	DelayTime	GatherType	GatherPara1	GatherPara2	LostItems	DropID	ShowPoint	MaxCount	NeedEne	ToolLimited	MultiUse	AIEditorPackID	CursorShape	PDType
+																	1												
+	//副本1000-1999																1												
+GatherNpc00005	MineNpc	宝箱	npc\itemnpc005a	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1				GatherNpc00005		1						
+GatherNpc00006	MineNpc	钥匙	npc\itemnpc005	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1				GatherNpc00006		1						
+GatherNpc01000	MineNpc	金蚕衣	npc\itemnpc135	icon\funcnpc\itemnpc137.png	153	3	20	2	npc\gather_npc.lua	3				0	interact041	5000	1	2018	0		TaskItemClone_001016		99			1			
+GatherNpc01001	MineNpc	破烂的衣服（女式）	npc\itemnpc136	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				0	interact041	5000	1	2018	0		TaskItemClone_001017		99			1			
+GatherNpc01002	MineNpc	畸形的盔甲	npc\itemnpc137	icon\funcnpc\itemnpc137.png	153	3	20	2	npc\gather_npc.lua	3				0	interact041	5000	1	2018	0		TaskItemClone_001018		99			1			
+GatherNpc01003	MineNpc	千毒圭	npc\itemnpc138	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				0	interact041	5000	1	2018	0		TaskItemClone_001019		99			1			
+GatherNpc01004	MineNpc	断剑	npc\itemnpc146	icon\funcnpc\ceshi_007.png	153	3	20	2	npc\gather_npc.lua	3				0	interact041	5000	1	2018	0		TaskItemClone_001020		1						
+GatherNpc01005	MineNpc	断刀	npc\itemnpc147	icon\funcnpc\ceshi_007.png	153	3	20	2	npc\gather_npc.lua	3				0	interact041	5000	1	2018	0		TaskItemClone_001021		1						
+GatherNpc01006	MineNpc	刈鹿刀	npc\itemnpc148	icon\funcnpc\itemnpc148.png	153	3	20	2	npc\gather_npc.lua	3				0	interact041	5000	1	2018	0		TaskItemClone_001022		1						
+GatherNpc01007	MineNpc	折扇	npc\itemnpc149	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				0	interact041	5000	1	2018	0		TaskItemClone_001023		1						
+GatherNpc01008	MineNpc	残肢令	npc\itemnpc150	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				0	interact041	5000	1	2018	0		TaskItemClone_001024		1						
+GatherNpc01009	MineNpc	卷宗	npc\itemnpc006a	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				0	interact041		1				taskitem_1127		1						
+GatherNpc01010	MineNpc	私放证据的盒子	npc\itemnpc007a	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				0	interact041		1				taskitem_1129		1						
+GatherNpc01011	MineNpc	谋反证据的盒子	npc\itemnpc008a	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	4				0	interact041		1				taskitem_1135		1						
+																	1												
+GatherClone001001	MineNpc	土木香	npc\itemnpc054	icon\funcnpc\task.png	153	3	3	2	npc\gather_npc.lua	3				10000	interact017		1				TaskItemClone_001003		1						
+GatherClone001002	MineNpc	荆芥	npc\itemnpc054	icon\funcnpc\task.png	153	3	3	2	npc\gather_npc.lua	3				10000	interact017		1				TaskItemClone_001004		1						
+GatherClone001003	MineNpc	无根藤	npc\itemnpc054	icon\funcnpc\task.png	153	3	3	2	npc\gather_npc.lua	3				10000	interact017		1				TaskItemClone_001005		1						
+GatherClone001004	MineNpc	麻黄	npc\itemnpc054	icon\funcnpc\task.png	153	3	3	2	npc\gather_npc.lua	3				10000	interact017		1				TaskItemClone_001006		1						
+GatherClone001005	MineNpc	当归	npc\itemnpc054	icon\funcnpc\task.png	153	3	3	2	npc\gather_npc.lua	3				10000	interact017		1				TaskItemClone_001007		1						
+GatherClone001006	MineNpc	枸杞	npc\itemnpc054	icon\funcnpc\task.png	153	3	3	2	npc\gather_npc.lua	3				10000	interact017		1				TaskItemClone_001008		1						
+GatherClone001007	MineNpc	破旧的箱子	npc\itemnpc005a	icon\funcnpc\task.png	153	3	3	2	npc\gather_npc.lua	3				10000	interact017		1				TaskItemClone_001025		1						
+																													
+GatherNpc001101	MineNpc	夜翼	npc\itemnpc649	icon\funcnpc\task.png	153	3	3	2	npc\gather_npc.lua	3				10000	interact041	5000	1	2022	0		TaskItemClone_001101		1			1			
+GatherNpc001102	MineNpc	暗翎	npc\itemnpc207	icon\funcnpc\task.png	153	3	3	2	npc\gather_npc.lua	3				10000	interact041	5000	1	2026	0		TaskItemClone_001102		1			1			
+GatherNpc001103	MineNpc	冥凰	npc\itemnpc087	icon\funcnpc\task.png	153	3	3	2	npc\gather_npc.lua	3				10000	interact041	5000	1	2030	0		TaskItemClone_001103		1			1			
+GatherClone001101	MineNpc	天狼血	npc\itemnpc054	icon\funcnpc\task.png	153	3	3	2	npc\gather_npc.lua	3				10000	interact017	2000	1	2025	0		TaskItemClone_001104		1						
+																													
+GatherClone017001	MineNpc	清心迷魂露	npc\itemnpc001	icon\funcnpc\task.png	153	4	20	2	npc\gather_npc.lua	3				-1	interact035	1000	1				hd_0501026		6						
+																													
+GatherClone002001	MineNpc	密封的盒子	npc\itemnpc006a	icon\funcnpc\task.png	153	3	5	2	npc\gather_npc.lua	3				0	interact041	5000	1		0		TaskItemClone_002007		99						
+GatherClone002002	MineNpc	金镶玉的钱箱	npc\itemnpc005a	icon\funcnpc\task.png	153	3	5	2	npc\gather_npc.lua	3				0	interact041	5000	1	2836	0		TaskItemClone_002008		99						
+GatherClone002003	MineNpc	沈义山的财宝	npc\itemnpc161	icon\funcnpc\task.png	153	3	5	2	npc\gather_npc.lua	3				0	interact041	5000	1	2836	0		TaskItemClone_002009		99						
+GatherClone002004	MineNpc	装小孩的篓子	npc\itemnpc005a	icon\funcnpc\task.png	153	3	5	2	npc\gather_npc.lua	3				0	interact041		1						99						
+GatherClone002005	MineNpc	柴火	npc\itemnpc038	icon\funcnpc\task.png	153	3	5	2	npc\gather_npc.lua	3				10000	interact021b	6000	1	2839	0		TaskItemClone_002019		99						
+GatherClone002006	MineNpc	土豆	npc\itemnpc487	icon\funcnpc\task.png	153	3	5	2	npc\gather_npc.lua	3				10000	interact017	3000	1	2839	0		TaskItemClone_002022		99						
+GatherClone002007	MineNpc	甘草	npc\itemnpc054	icon\funcnpc\task.png	153	3	5	2	npc\gather_npc.lua	3				10000	interact041	5000	1	2434	0		TaskItemClone_002021		99						
+GatherClone002008	MineNpc	肉馅	npc\itemnpc462	icon\funcnpc\task.png	153	3	5	2	npc\gather_npc.lua	3				10000	interact174	3000	1	2839	0		TaskItemClone_002024		99						
+GatherClone002009	MineNpc	狼粪	npc\itemnpc033	icon\funcnpc\task.png	153	3	5	2	npc\gather_npc.lua	3				10000	interact017	3000	1	2070	0		TaskItemClone_002027		99						
+GatherClone002010	MineNpc	长梦水	npc\itemnpc005	icon\funcnpc\itemnpc005.png	153	3	5	2	npc\gather_npc.lua	3				10000	interact017	3000	1	2053	0		TaskItemClone_002028		99						
+GatherClone002015	MineNpc	沈义山的财宝	npc\itemnpc201	icon\funcnpc\itemnpc201.png	153	3	5	2	npc\gather_npc.lua	3				10000	interact041	3000	4				BoxClone002002		99						
+GatherClone002011	MineNpc	潮湿的草料	npc\itemnpc473	icon\funcnpc\task.png	153	3	5	2	npc\gather_npc.lua	3				-1	interact017	3000	1	5112	1		useitemclone002010		1						
+GatherClone002012	MineNpc	晒干的草料	npc\itemnpc087	icon\funcnpc\task.png	153	3	5	2	npc\gather_npc.lua	3				-1	interact017	3000	1	5112	2		TaskItemClone_002030		1						
+GatherClone002013	MineNpc	柴堆	npc\itemnpc038	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				1000	interact017	3000	1						1						
+GatherClone002014	MineNpc	烤肉柴堆	npc\itemnpc081	icon\funcnpc\task.png	153	3	5	2	npc\clone\clone002\GatherClone002014.lua	5				-1	interact017	2000	4						1						
+GatherClone007001	MineNpc	药罐	npc\itemnpc001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				5000	interact041	3000	1	2308	0		TaskItemClone_007008		1						
+GatherClone007002	MineNpc	木箱	npc\itemnpc005	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				5000	interact041	3000	1	2308	0		TaskItemClone_007009		1						
+GatherClone007003	MineNpc	剑碑	npc\fbmac007001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	5				5000	interact041	10000	1	2313	0				1						
+GatherClone007004	MineNpc	井	npc\itemnpc182	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				0	interact041	5000	1		0				1						
+GatherClone007005	MineNpc	水缸	npc\itemnpc060	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				0	interact041	5000	1		0				1						
+GatherClone007601	MineNpc	碗橱	npc\fbmac003024	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				0	interact041	5000	1	5603	0				1						
+GatherClone007201	MineNpc	锦盒	npc\itemnpc201	icon\funcnpc\itemnpc005.png	153	3	0	2	npc\gather_npc.lua	3				-1	interact041	5000	3				WDchushiBoss210		99			1		9	
+																													
+																													
+GatherClone004001	MineNpc	木盒	npc\itemnpc005	icon\funcnpc\task.png	153	3	5	2	npc\gather_npc.lua	3				10000	interact041	3000	1	2184	0		TaskItemClone_004002		1						
+GatherClone004002	MineNpc	嫩桑枝	npc\itemnpc054	icon\shenghuo\cl_15010006.png	153	3	5	2	npc\gather_npc.lua	3				10000	interact041	3000	1	5354	0		TaskItemClone_004003		1						
+GatherClone004003	MineNpc	粮草	npc\itemnpc032	icon\funcnpc\itemnpc032.png	153	3	5	2	npc\gather_npc.lua	4		fire_burn_1	15000	-1	interact041	3000	1	2165	1				1						
+GatherClone004004	MineNpc	方无恨被绑	npc\itemnpc670	icon\funcnpc\itemnpc032.png	153	3	5	2	npc\gather_npc.lua	4					interact041	3000	1	4503	2				100						
+GatherClone004005	MineNpc	矿石	npc\cj020120	icon\shenghuo\cl_15010006.png	153	3	5	2		3				10000	interact006a	3000	4				TaskItemClone_004007		100			1		6	
+GatherClone004006	MineNpc	木材	npc\itemnpc447	icon\shenghuo\cl_15010006.png	153	3	5	2		3				10000	interact007b	3000	4				TaskItemClone_004008		100			1		14	
+GatherClone004007	MineNpc	武林线火把堆	npc\itemnpc552	icon\funcnpc\itemnpc038.png	153	3	5	2		5				-1	interact041	3000	4				blade_huoba_002		99			1		28	
+GatherClone004008	MineNpc	武林线风筝堆	npc\itemnpc673	icon\prop\prop480.png	153	3	5	2		3				-1	interact041	3000	4				skillitem004_fengzheng		99			1		28	
+GatherClone004009	MineNpc	方无恨箱子	npc\itemnpc586	icon\funcnpc\itemnpc005.png	153	3	5	2	npc\gather_npc.lua	3				-1	interact041	3000	1						99						
+GatherClone004010	MineNpc	武林线火架	npc\itemnpc701	icon\funcnpc\itemnpc038.png	172	3	5	2		5				-1	interact041	3000	4				blade_huoba_002		99			1		28	
+GatherClone004011	MineNpc	村民线避蛇香	npc\itemnpc586	icon\funcnpc\itemnpc005.png	153	3	5	2	npc\gather_npc.lua	0				-1	interact041	3000	1						0						
+GatherClone004012	MineNpc	村民线陷阱	npc\hw_xj001	icon\funcnpc\itemnpc005.png	153	3	5	2		5				-1	interact041	3000	4				useitemclone004007		1					28	
+GatherClone004013	MineNpc	村民线陷阱	npc\hw_xj001	icon\funcnpc\itemnpc005.png	153	3	5	2		5				-1	interact041	3000	4				useitemclone004008		1					28	
+GatherClone004014	MineNpc	村民线陷阱	npc\hw_xj001	icon\funcnpc\itemnpc005.png	153	3	5	2		5				-1	interact041	3000	4				useitemclone004009		1					28	
+GatherClone004015	MineNpc	村民线陷阱	npc\hw_xj001	icon\funcnpc\itemnpc005.png	153	3	5	2		5				-1	interact041	3000	4				useitemclone004010		1					28	
+GatherClone004016	MineNpc	村民线陷阱	npc\hw_xj001	icon\funcnpc\itemnpc005.png	153	3	5	2		5				-1	interact041	3000	4				useitemclone004011		1					28	
+GatherClone004017	MineNpc	村民线陷阱	npc\hw_xj001	icon\funcnpc\itemnpc005.png	153	3	5	2		5				-1	interact041	3000	4				useitemclone004012		1					28	
+GatherClone004018	MineNpc	村民线陷阱	npc\hw_xj001	icon\funcnpc\itemnpc005.png	153	3	5	2		5				-1	interact041	3000	4				useitemclone004013		1					28	
+GatherClone004019	MineNpc	村民线药品	npc\itemnpc687	icon\funcnpc\task.png	153	3	5	2		5				-1	interact041	3000	4				useitemclone004014		1					28	
+GatherClone004020	MineNpc	村民线药品	npc\itemnpc687	icon\funcnpc\task.png	153	3	5	2		5				-1	interact041	3000	4				useitemclone004015		1					28	
+GatherClone004021	MineNpc	村民线药品	npc\itemnpc685	icon\funcnpc\task.png	153	3	5	2		5				-1	interact041	3000	4				useitemclone004016		1					28	
+GatherClone004022	MineNpc	村民线药品	npc\itemnpc666	icon\funcnpc\task.png	153	3	5	2	npc\clone\clone004\GatherClone004027.lua	5				-1	interact041	3000	4						1					28	
+GatherClone004023	MineNpc	村民线随机陷阱	npc\hw_xj001	icon\funcnpc\itemnpc005.png	153	3	5	2		5				-1	interact041	3000	4				clone004_nm_random1		1					28	
+GatherClone004024	MineNpc	村民线随机药品	npc\fbmac003022	icon\funcnpc\task.png	153	3	5	2		5				-1	interact041	3000	4				clone004_nm_random2		1					28	
+GatherClone004025	MineNpc	村民线风筝	npc\itemnpc673	icon\prop\prop480.png	153	3	5	2		3				-1	interact041	3000	4				skillitem004_fengzheng		1					28	
+GatherClone004026	MineNpc	村民线破碎的陷阱	npc\hw_xj001	icon\funcnpc\itemnpc005.png	153	3	5	2		5				-1	interact041	3000	4				clone004_nm_random3		1					28	
+GatherClone004027	MineNpc	叛军线东泉村财宝	npc\itemnpc586	icon\funcnpc\task.png	153	3	5	2	npc\clone\clone004\GatherClone004027.lua	5				-1	interact041	5000	4				clone004_jl01		1					9	
+GatherClone004028	MineNpc	叛军线牢房刑具	npc\fbmac004014	icon\funcnpc\task.png	153	3	5	2		5				-1	interact041	2000	4				clone004_xingju		100					28	
+GatherClone004029	MineNpc	守军线武器架	npc\fbmac00040	icon\funcnpc\task.png	153	3	5	2		5				-1	interact041	2000	4				clone004_wuqijia		100					28	
+GatherClone004030	MineNpc	鱼篓	npc\fbmac003022	icon\funcnpc\fbmac003022.png	153	3	5	2	npc\clone\clone004\GatherClone004027.lua	5				-1	interact041	5000	4				clone004_jl01		1					9	
+GatherClone004031	MineNpc	水桶	npc\npcitem067	icon\prop\prop323.png	153	3	5	2	npc\clone\clone004\GatherClone004027.lua	5				-1	interact041	5000	4				clone004_jl01		1					9	
+GatherClone004032	MineNpc	被子	npc\fbmac003023	icon\funcnpc\itemnpc005.png	153	3	5	2	npc\clone\clone004\GatherClone004027.lua	5				-1	interact041	5000	4				clone004_jl01		1					9	
+GatherClone004033	MineNpc	柜子	npc\fbmac003024	icon\funcnpc\itemnpc005.png	153	3	5	2	npc\clone\clone004\GatherClone004027.lua	5				-1	interact041	5000	4				clone004_jl01		1					9	
+GatherClone004034	MineNpc	草药类宝箱	npc\cj_106015b2	icon\funcnpc\cj_160150.png	153	3	5	2	npc\clone\clone004\GatherClone004027.lua	5				-1	interact041	5000	4				clone004_jl01		1					9	
+GatherClone004035	MineNpc	木宝箱	npc\fbmac003021	icon\funcnpc\task.png	153	3	5	2	npc\clone\clone004\GatherClone004027.lua	5				-1	interact041	5000	4				clone004_jl01		1					9	
+																													
+																													
+GatherClone009001	MineNpc	药草	npc\cj_160001	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				10000	interact041	3000	1	2405	0				1						
+GatherClone009002	MineNpc	宝盒	npc\itemnpc005	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				4000	interact041	3000	1	2415	0		TaskItemClone009011		1						
+GatherClone009003	MineNpc	小木剑	npc\fbmac009001	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				20000	interact041	3000	1	2401	0		TaskItemClone009008		1						
+GatherClone009004	MineNpc	未完成的道袍	npc\fbmac009002	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				20000	interact041	3000	1	2402	1		TaskItemClone009009		1						
+GatherClone009005	MineNpc	垫子	npc\itemnpc063	icon\funcnpc\task.png	153	3	1	2	npc\gather_npc.lua	3				20000	interact294	3000	1	2421	1				100						
+																													
+GatherClone005001	MineNpc	柴火	npc\itemnpc038	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				10000	interact021b	5000	1	2202	0		TaskItemClone005005		5						
+GatherClone005002	MineNpc	青菜	npc\cj_040021	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				10000	interact041	3000	1	2207	0		TaskItemClone005010		1						
+GatherClone005003	MineNpc	跌打草	npc\itemnpc054	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				10000	interact041	5000	1	2211	0		TaskItemClone005013		1						
+																													
+GatherClone011001	MineNpc	箱子	npc\itemnpc005	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				4000	interact041	3000	1	2502	0		TaskItemClone_011002		1						
+																													
+GatherClone021001	MineNpc		npc\fbmac021066	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				4000	interact041	3000	1	3004	0		TaskItemClone_021001		1						
+GatherClone021002	MineNpc		npc\itemnpc517	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				4000	interact041	3000	1	3010	2				100						
+GatherClone021003	MineNpc	蝴蝶泪	npc\itemnpc014	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				4000	interact041	3000	1	3016	0		TaskItemClone_021004		20						
+GatherClone021004	MineNpc	破损的火器图纸	npc\fbmac021066	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				4000	interact041	3000	1	3020	0		TaskItemClone_021005		20						
+GatherClone021005	MineNpc	白色旗	npc\itemnpc516	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				4000	interact041	3000	1	7006	0		TaskItemClone_021006		20						
+GatherClone021006	MineNpc	红色旗	npc\itemnpc515	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				4000	interact041	3000	1	7006	0		TaskItemClone_021007		20						
+GatherClone015001	MineNpc	竹笋	npc\cj_040011	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				30000	interact041	3000	1	2715	0		TaskItemClone_015007		1						
+GatherClone015002	MineNpc	蝴蝶	npc\worldnpc1108	icon\funcnpc\task.png	153	1	2	2	npc\gather_npc.lua	3				4000	interact041	3000	1	2718	0		TaskItemClone_015011		1						
+GatherClone015003	MineNpc	埋着东西的土堆	npc\cj_040101	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				30000	interact041	3000	1	6402	0		TaskItemClone_015013		1						
+GatherClone015004	MineNpc	稻子	npc\cj_040051	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				30000	interact041	3000	1	6406	0		TaskItemClone_015014		1						
+GatherClone015005	MineNpc	红果	npc\cj_ts0002b	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				30000	interact041	3000	1	6406	0		TaskItemClone_015015		1						
+GatherClone015006	MineNpc	汾酒	npc\fbmac015036	icon\funcnpc\itemnpc001.png	153	3	2	2	npc\gather_npc.lua	3				30000	interact041	3000	1	6408	0		TaskItemClone_015018		1						
+	//测试用																												
+Gather10860	MineNpc	秘籍	npc\itemnpc053	icon\funcnpc\task.png	153	3	5	2	npc\gather_npc.lua	3				-1	interact041	3000	1	10860	4		ng_book_jh_501		1						
+																													
+	//销魂洞																												
+BoxClone019001	MineNpc	五毒鼎包裹	npc\fbmac009005_fb		153	3	2	2	npc\gather_npc.lua	3				-1	interact041	3000	4				XxdBox001		99					9	
+BoxClone019002	MineNpc	毒蛇杖包裹	npc\fbmac009005_fb		153	3	2	2	npc\gather_npc.lua	3				-1	interact041	3000	4				JLchushiBoss004		99					9	
+BoxClone019005	MineNpc	冰晶石	npc\fbmac009005_fb		153	3	2	2	npc\gather_npc.lua	3				-1	interact041	3000	4				JLchushiMon003		99					9	
+BoxClone019007	MineNpc	火纹石	npc\fbmac009005_fb		153	3	2	2	npc\gather_npc.lua	3				-1	interact041	3000	4				JLchushiMon002		99					9	
+BoxClone019018	MineNpc	鹰眼石	npc\cj_102021		153	3	2	2	npc\gather_npc.lua	3				-1	interact041	3000	4				XxdBox004		99					9	
+																													
+																													
+																													
+																													
+																													
+																													
+GatherClone013001	MineNpc		npc\itemnpc005	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				4000	interact041	3000	1	2609	0		TaskItemClone_013005		1						
+GatherClone013002	MineNpc		npc\itemnpc011	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				60000	interact041	3000	1	6206	0		TaskItemClone_013008		1						
+GatherClone013003	MineNpc		npc\cj_160001	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				60000	interact041	3000	1	6203	0		TaskItemClone_013009		1						
+GatherClone013004	MineNpc		npc\cj_160150	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				60000	interact041	3000	1	6203	0		TaskItemClone_013010		1						
+																													
+	//恩仇测试																												
+GatherClone022001	MineNpc	大钟	npc\fbmac005010	icon\funcnpc\itemnpc032.png	153	3	5	2	npc\gather_npc.lua	4				100	interact041	3000	1	11901	1		qiyubao0001		99						
+GatherClone022002	MineNpc	树下宝箱	npc\itemnpc005	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				4000	interact041	3000	1	11906	1		qiyubao0006		99						
+GatherClone022003	MineNpc	石马下宝箱	npc\itemnpc005	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				4000	interact041	3000	1	11907	1		qiyubao0007		99						
+GatherClone022004	MineNpc	宝箱	npc\itemnpc005	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				4000	interact041	3000	1	11908	2		qiyubao0008		99						
+GatherClone022005	MineNpc	毒池宝箱	npc\itemnpc005	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				4000	interact041	10000	1	11911	1		qiyubao0011		99						
+GatherClone022006	MineNpc	账本	npc\itemnpc460	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				4000	interact041	3000	1	11913			key_cjshow_29		1						
+																													
+																													
+GatherClone005004	MineNpc	木柴	npc\itemnpc038	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				4000	interact041	3000	1	5402	0		TaskItemClone005022		1						
+GatherClone005005	MineNpc	特殊草药	npc\itemnpc054	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				4000	interact041	3000	1	5407	0		TaskItemClone005027		1						
+GatherClone005006	MineNpc	石头	npc\itemnpc052	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				4000	interact041	3000	1	5408	0		TaskItemClone005028		1						
+																													
+GatherClone003001	MineNpc	野生草药	npc\itemnpc054	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				4000	interact041	3000	1	5206	0		TaskItemClone_003005		1						
+GatherClone003002	MineNpc	鱼群	npc\cj_101009	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				4000	offact048	3000	1	5203	0		TaskItemClone_003006		99			1			
+GatherClone003003	MineNpc	黑铁盒	npc\itemnpc591	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				4000	interact041	3000	1	5222	0		TaskItemClone_003009		1			1			
+																													
+GatherClone001011	MineNpc	破烂的衣服	npc\itemnpc135	icon\funcnpc\itemnpc059.png	153	3	2	2	npc\gather_npc.lua	3				4000	interact041	3000	1	5005	0		TaskItemClone_001036		1						
+GatherClone001012	MineNpc	金佛草	npc\cj_040004	icon\funcnpc\cj_150001.png	153	3	2	2	npc\gather_npc.lua	3				4000	interact041	3000	1	5010	0		TaskItemClone_001030		1						
+GatherClone001013	MineNpc	机关进	npc\fbmac013002	icon\funcnpc\fbmac013002.png	153	3	2	2	npc\gather_npc.lua	3				1000	interact041	2000	1	5005	0				1						
+GatherClone001014	MineNpc	机关出	npc\fbmac013002	icon\funcnpc\fbmac013002.png	153	3	2	2	npc\gather_npc.lua	3				1000	interact041	2000	1	5005	0				1						
+GatherClone001015	MineNpc	酒缸	npc\fbmac002018	icon\funcnpc\fbmac002018.png	153	3	2	2	npc\gather_npc.lua	3				1000	interact173	2000	1	5008	0				1						
+Gather_qy_qdz001	MineNpc	草药	npc\itemnpc054	icon\funcnpc\cj_150001.png	153	3	2	2	npc\gather_npc.lua	3				1000	interact173	2000	1	10210	-1		key_qy_qiandengzhen0028		1						
+Gather_qy_qdz002	MineNpc	茶叶	npc\itemnpc487	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	3				1000	interact173	2000	1	10210	-1		key_qy_qiandengzhen0034		1						
+																													
+GatherClone01101	MineNpc	酒	npc\itemnpc001	icon\funcnpc\fbmac002018.png	153	3	2	2	npc\gather_npc.lua	3				4000	interact041	3000	1	6002	1		TaskItemClone_011007		1						
+																													
+	//恩仇极乐谷																												
+Gather_qy_jilegu002	MineNpc	极乐谷武器箱	npc\fbmac00040	icon\funcnpc\fbmac00040.png	153	3	2	2	npc\gather_npc.lua	3				4000	interact041	3000	1	18001	0		key_qy_jilegu002_dao		99						
+Gather_qy_sz_01	MineNpc	带血手帕	npc\itemnpc160	icon\funcnpc\prop291.png	153	3	2	2	npc\gather_npc.lua	3				-1	interact017	2000	1	11946	0		key_qy_suzhou_daixueshoupa		1						
+qy_111030_jilegu_shenmihezi	MineNpc	盒子	npc\itemboxnpc001	icon\prop\prop625.png	153	3	2	2	npc\gather_npc.lua	2				4000	interact017	2000	1	18017	1		key_111030_jilegu_jinhe		99						
+Gather_qy_jmy004_xiang	MineNpc	神秘的雕像	npc\itemnpc656	icon\monster\monster137.png	153	3	2	2	npc\gather_npc.lua	2				60000	interact017	10000	1	10902	0		key_qy_jmy004_xiang		99						
+Gather_qy_yanjing_sfdt	MineNpc	   	npc\itemnpc649	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				60000	interact041	2000	1	18001	0		key_yanjing_dsk		99						
+qy_111205_jzt_fodingbaoxiang	MineNpc	宝箱	npc\itemboxnpc003	icon\prop\prop630.png	153	3	2	2	npc\gather_npc.lua	2				4000	interact017	2000	1	17841	1		key_111205_jzt_baoyu01		99						
+Gather_qy_jmy004_xiang2	MineNpc	神秘的雕像	npc\itemnpc656	icon\monster\monster137.png	153	3	2	2	npc\gather_npc.lua	2				60000	interact017	10000	1	10904	0		key_qy_jmy004_xiang		99						
+																													
+Gather_qy_chengdu001	MineNpc	猓莉	npc\itemnpc054		153	3	2	2	npc\gather_npc.lua	3				4000	interact041	3000	1	14001	0		key_qy_chengdu003		6						
+																													
+	//鸡鸣驿奇遇																												
+Gather_qy_jmy001	MineNpc	煤炭	npc\cj_102005	icon\shenghuo\cl_02010002.png	153	3	5	2	npc\gather_npc.lua	3				360000	interact041	3000	1	10915	0		qy_jmy002		1						
+	//丐帮、锦衣奇遇																												
+Gather_qy_gb001	MineNpc	野狗	npc\petm_c_1504b	icon\funcnpc\itemnpc032.png	153	3	12	2	npc\gather_npc.lua	3				-1	interact173	1500	1	17602	0		key_qy_gb008		1						
+Gather_qy_jy105_yishu	MineNpc	锦衣卫遗书任务	npc\itemnpc542	icon\prop\prop056.png	153	3	2	2	npc\gather_npc.lua	2				60000	interact017	10000	1	17404	0		key_qy_jy105_yishu		1						
+Gather_qy_msjmy101_xiang	MineNpc	神秘的雕像	npc\itemnpc656	icon\monster\monster137.png	153	3	2	2	npc\gather_npc.lua	2				60000	interact017	10000	1	10919	0		key_qy_msjmy104_diaoxiang		1						
+	//锦衣师门奇遇																												
+Gather_qy_gb302_an01	MineNpc	 暗哨一	npc\itemnpc031	icon\funcnpc\itemnpc031.png	153	3	2	2	npc\gather_npc.lua	2				60000	interact017	10000	1	17610	0		key_qy_gb301_an01		9999						
+Gather_qy_gb302_an02	MineNpc	暗哨二	npc\itemnpc031	icon\funcnpc\itemnpc031.png	153	3	2	2	npc\gather_npc.lua	2				60000	interact017	10000	1	17610	0		key_qy_gb301_an02		9999						
+Gather_qy_gb302_an03	MineNpc	暗哨三	npc\itemnpc031	icon\funcnpc\itemnpc031.png	153	3	2	2	npc\gather_npc.lua	2				60000	interact017	10000	1	17610	0		key_qy_gb301_an03		9999						
+Gather_qy_gb302_bang	MineNpc	打狗棒	npc\itemnpc566	icon\equip\cosh_0023.png	153	3	2	2	npc\gather_npc.lua	2				60000	interact017	10000	1	17611	0		key_qy_gb302_bang		9999						
+Gather_qy_gb401_huo	MineNpc	丐帮货物	npc\biaoche_jg02a	icon\funcnpc\itemnpc005.png	153	3	2	2	npc\gather_npc.lua	2				60000	interact017	10000	1	17636	0		key_qy_gb401_huo		9999						
+																													
+	//少林3内																												
+Gather_qy_shaolin_pandingcao	MineNpc	攀顶草	npc\cj_040003	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	3000	1	18857	0	0	key_shaolin_pandingcao		1						
+Gather_qy_shaolin_mingnanhua	MineNpc	明南花	npc\cj_040024	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	3000	1	18857	0	0	key_shaolin_mingnanhua		1						
+Gather_qy_wudang_jindancao	MineNpc	金丹草	npc\cj_040003	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	3000	1	18732	0	0	key_wudang_jindancao		1						
+Gather_qy_wudang_nanminghua	MineNpc	南明花	npc\cj_040024	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	3000	1	18732	0	0	key_wudang_nanminghua		1						
+Gather_qy_wudang_wusui	MineNpc	污秽物	npc\cj_106026a	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	3000	1	18877	0	0	key_shaolin_wuhui		1						
+Gather_qy_gb413_cao	MineNpc	金银花	npc\itemnpc066	icon\funcnpc\itemnpc066.png	153	3	2	2	npc\gather_npc.lua	2				60000	interact017	10000	1	17633	0		key_qy_gb413_cao		9999						
+Gather_qy_shaolin_mucai	MineNpc	柴堆	npc\itemnpc038	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact021b	3000	1	18875	0	0	key_shaolin_mucai		1						
+Gather_qy_wd_shoupa	MineNpc	带血手帕	npc\itemnpc160	icon\funcnpc\prop291.png	153	3	2	2	npc\gather_npc.lua	3				30000	interact017	2000	1	18739	0		key_qy_wd_daixueshoupa		1						
+																													
+Gather_qy_em_xiao	MineNpc	硝	npc\cj_102005	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	2000	1	18446	0		qy_em_xiao		1						
+Gather_qy_em_tan	MineNpc	木炭	npc\cj_102017	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	2000	1	18446	0		qy_em_tan		1						
+Gather_qy_em_liuhuang	MineNpc	硫磺	npc\cj_102013	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	2000	1	18446	0		qy_em_liuhuang		1						
+qy_em_shiti	MineNpc	土堆	npc\itemnpc075	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				10	interact017	2000	1	18503	0		key_qy_em_shiti		1						
+	//葵花宝典																												
+GatherSkill001001	MineNpc	玉器	npc\itemnpc170	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				10000	interact041	5000	1	240	0		TaskItemSkill_001001		1			1		9	
+GatherSkill001002	MineNpc	锦鸡蛋	npc\itemnpc227	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				10000	interact017	5000	1	241	0		TaskItemSkill_001004		1			1		9	
+GatherSkill001003	MineNpc	黄色灯笼椒	npc\cj_041160b	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				10000	interact017	5000	1	242	0		TaskItemSkill_001005		1			1		9	
+GatherSkill001004	MineNpc	小钳子	npc\fbmac003020	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				10000	interact017	5000	1	244	0		TaskItemSkill_001008		1			1		9	
+GatherSkill001005	MineNpc	大麦杆子	npc\cj_040051	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				10000	interact017	5000	1		0				1			1		9	
+GatherSkill001006	MineNpc	一包大麻粉	npc\itemnpc165	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				10000	interact017	5000	1	245	0		TaskItemSkill_001009		1			1		9	
+																													
+GatherNpc_wxqy_bbsx	MineNpc	宝箱	npc\itemnpc533	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				-1	interact017	3000	1	10302;10305;10310	0		Item_qywx_003		1						
+	//猴子奇遇																												
+Gather_cwqy_futiancao	MineNpc	攀顶草	npc\cj_040003	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	3000	1	12225	0	0	item_cwqy_futiancao		1						
+Gather_cwqy_bolanhua	MineNpc	明南花	npc\cj_040024	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	3000	1	12225	0	0	item_cwqy_bolanhua		1						
+Gather_cwqy_monkeyfood	MineNpc	猴饵	npc\itemnpc169	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	3000	1	12233	0	0	key_cwqy_monkeyfood02		10					28	
+Gather_cwqy_monkeyhair	MineNpc	织物	npc\itemnpc439	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	3000	1	12231	0	0	key_cwqy_monkeyhair01		1					28	
+Gather_cwqy_monkeydown	MineNpc	昏迷猴子	npc\petm_y_1003_cwqy	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	4				30000	interact017	5000	1	12234	0		key_cwqy_monkeycaught		1					9	
+GatherNpc_wxqy_jm	MineNpc	剑模	npc\fbmac004012h	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				-1	interact017	3000	1	10345	0		Item_qywx_004		1					28	
+npc_4nei_emei04	MineNpc	水盆	npc\itemnpc553		172	3	3	2	npc\gather_npc.lua	2				2000	interact017	3000	1		0				1					9	
+npc_4nei_emei05	MineNpc	掉落的信物	npc\itemnpc177		153	3	3	2	npc\gather_npc.lua	2				2000	interact017	3000	1	56013	0		item_4nei_emei02		1					9	
+npc_4nei_emei06	MineNpc	显示地点	npc\itemboxnpc001		153	3	3	2	npc\gather_npc.lua	2				2000	interact017	3000	1	56021	0		item_4nei_emei03		1					9	
+npc_4nei_emei09	MineNpc	纸条	npc\itemnpc160		153	3	3	2	npc\gather_npc.lua	2				2000	interact017	3000	1	56002	0		item_4nei_emei01		1					9	
+npc_4nei_jzt_x02	MineNpc	羊皮卷轴采集	npc\itemnpc160		153	3	3	2	npc\gather_npc.lua	2				2000	interact017	3000	1	57043	0		item_4nei_jzt_x02		1					9	
+WorldNpc01712_task	MineNpc	紫砂壶	npc\itemnpc161	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	3000	1	10301	0	0	qy_taskitem_001		1						
+	//四内																												
+Gather_4nei_jdc	MineNpc	金顶草	npc\cj_040003	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	3000	1	55507	0	0	item_4nei_jdc		1						
+Gather_4nei_nwh	MineNpc	泥丸花	npc\cj_040024	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	3000	1	55507	0	0	item_4nei_nwh		1						
+Gather_4nei_st	MineNpc	尸体	npc\kqshiti01	icon\monster\fbnpc00001.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	3000	1	55509	0	0	item_4nei_st		1				1870		
+Gather_4nei_yc	MineNpc	尸体	npc\itemnpc005	icon\funcnpc\itemnpc005.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	3000	1	55509	0	0	item_4nei_yc		1						
+Gather_4nei_gb001	MineNpc	金银花	npc\itemnpc066	icon\funcnpc\itemnpc066.png	153	3	2	2	npc\gather_npc.lua	2				60000	interact017	10000	1	56512	0		Item_4nei_gb001		9999						
+Gather_4nei_gb003	MineNpc	金银花	npc\itemnpc075	icon\funcnpc\	153	3	2	2	npc\gather_npc.lua	2				60000	interact017	10000	1	56508	0		Item_4nei_gb003		9999						
+Gather_4nei_gb004	MineNpc	金银花	npc\itemnpc075	icon\funcnpc\	153	3	2	2	npc\gather_npc.lua	2				60000	interact017	10000	1	56531	0		Item_4nei_gb004		9999						
+Gather_4nei_gb005	MineNpc	金银花	npc\itemnpc410	icon\funcnpc\	153	3	2	2	npc\gather_npc.lua	2				60000	interact017	10000	1	56536	0		Item_4nei_gb005		9999						
+Gather_4nei_hxc	MineNpc	活血草	npc\cj_040003	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	3000	1	55510	0	0	item_4nei_hxc		1						
+Gather_4nei_hsh	MineNpc	红腮花	npc\cj_040024	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	3000	1	55510	0	0	item_4nei_hsh		1						
+Gather_4nei_wdyp	MineNpc	武当腰牌	npc\itemnpc129	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	3000	1	55512	0	0	item_4nei_wdyp		1						
+Gather_4nei_tjt	MineNpc	太极图碎片	npc\itemnpc005	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	3000	1	55512	0	0	item_4nei_tjt		1						
+Gather_4nei_sdst	MineNpc	师弟尸体	npc\worldnpc224b	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	3000	1	55512	0	0	item_4nei_xj		1						
+Gather_4nei_fenmu	MineNpc	坟墓	npc\itemnpc134	icon\funcnpc\worldnpc224.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact006a	3000	1	55521	0	0	useitem_4nei_gh		1						
+Gather_4nei_tjtxl	MineNpc	信件	npc\itemnpc005	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	3000	1	55523	0	0	item_4nei_tjtxl		1						
+Gather_4nei_zsms	MineNpc	酒坛子	npc\itemnpc001	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	3000	1	55501	0	0	item_4nei_zsms		1						
+																													
+Gather_4nei_gb001	MineNpc	金银花	npc\itemnpc066	icon\funcnpc\itemnpc066.png	153	3	2	2	npc\gather_npc.lua	2				60000	interact017	5000	1	56512	0		Item_4nei_gb001		9999						
+Gather_4nei_gb003	MineNpc	金银花	npc\itemnpc075	icon\funcnpc\	153	3	2	2	npc\gather_npc.lua	2				60000	interact017	5000	1	56508	0		Item_4nei_gb003		9999						
+Gather_4nei_gb004	MineNpc	金银花	npc\itemnpc075	icon\funcnpc\	153	3	2	2	npc\gather_npc.lua	2				60000	interact017	5000	1	56531	0		Item_4nei_gb004		9999						
+Gather_4nei_gb005	MineNpc	金银花	npc\itemnpc410	icon\funcnpc\	153	3	2	2	npc\gather_npc.lua	2				60000	interact017	2000	1	56536	0		Item_4nei_gb005		9999						
+		//四内唐门																											
+Gather_npc_4nei_tmtmjdd	MineNpc	唐美娇毒鼎	npc\itemnpc604	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	3000	1	57502	0	0	Item_4nei_tmjduding01		1					28	
+Gather_npc_4nei_tmlchj	MineNpc	唐门毒瓶	npc\itemnpc666	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	3000	1	57511	0	0	Item_4nei_tmlchj		1					28	
+Gather_npc_4nei_tmbylhz	MineNpc	暴雨梨花针部件	npc\npcitem622	icon\funcnpc\task.png	153	3	4	2	npc\gather_npc.lua	4				3000	interact017	3000	1	57516	0	0	Item_4nei_tmbylhz01		9999					28	
+Gather_npc_4nei_tmhearttear	MineNpc	眼泪	npc\itemnpc057m_tear	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				-1	interact017	3000	1	57527	0	0	Item_4nei_tmtear		1					28	
+Gather_npc_4nei_tmaerolite	MineNpc	陨石	npc\box001	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				-1	interact006a	13000	1	57522	0	0	Item_4nei_tmaerolite		1					28	
+	//测试																												
+Gather_szwe_001	MineNpc	百姓仰着尸体	npc\itemnpc410	icon\funcnpc\	109	3	2	2	npc\gather_npc.lua	2				60000															
+Gather_szwe_002	MineNpc	高手尸体	npc\monster247a	icon\monsternpc\monster246.png	109	3	2	2	npc\gather_npc.lua	2				60000															
+Gather_szwe_003	MineNpc	高手尸体	npc\monster247a	icon\monsternpc\monster247a.png	109	3	2	2	npc\gather_npc.lua	2				60000															
+Gather_szwe_004	MineNpc	高手尸体	npc\monster258a	icon\monsternpc\monster258a.png	109	3	2	2	npc\gather_npc.lua	2				60000															
+Gather_szwe_005	MineNpc	高手尸体	npc\monster258a	icon\monsternpc\monster246.png	109	3	2	2	npc\gather_npc.lua	2				60000															
+Gather_szwe_006	MineNpc	小怪尸体	npc\Kqshiti06	icon\funcnpc\Kqshiti06.png	109	3	2	2	npc\gather_npc.lua	2				60000															
+Gather_szwe_007	MineNpc	一滩血迹	npc\itemnpc162	icon\funcnpc\itemnpc162.png	109	3	2	2	npc\gather_npc.lua	2				60000															
+Gather_szwe_008	MineNpc	碎尸块	npc\itemnpc416	icon\funcnpc\itemnpc416.png	109	3	2	2	npc\gather_npc.lua	2				60000															
+Gather_szwe_009	MineNpc	官差尸体	npc\kqshiti01	icon\funcnpc\Kqshiti06.png	109	3	2	2	npc\gather_npc.lua	2				60000															
+Gather_szwe_010	MineNpc	百姓侧躺尸体	npc\itemnpc409	icon\funcnpc\itemnpc409.png	109	3	2	2	npc\gather_npc.lua	2				60000															
+Gather_szwe_011	MineNpc	女式破衣服	npc\itemnpc136	icon\funcnpc\itemnpc136.png	109	3	2	2	npc\gather_npc.lua	2				60000															
+Gather_szwe_012	MineNpc	破车	npc\biaoche_jg02a	icon\funcnpc\biaoche_jg02a.png	109	3	2	2	npc\gather_npc.lua	2				60000															
+Gather_szwe_013	MineNpc	残剑	npc\itemnpc146	icon\funcnpc\itemnpc146.png	109	3	2	2	npc\gather_npc.lua	2				60000															
+Gather_szwe_014	MineNpc	断刀	npc\itemnpc148	icon\funcnpc\itemnpc148.png	109	3	2	2	npc\gather_npc.lua	2				60000															
+Gather_szwe_015	MineNpc	煎药炉	npc\npcitem196	icon\funcnpc\npcitem196.png	109	3	2	2	npc\gather_npc.lua	2				60000															
+Gather_szwe_016	MineNpc	碎石头	npc\npcitem649	icon\funcnpc\	109	3	2	2	npc\gather_npc.lua	2				60000															
+Gather_szwe_017	MineNpc	药罐测试	npc\itemnpc419	icon\funcnpc\	109	3	2	2	npc\gather_npc.lua	2				60000															
+Gather_szwe_018	MineNpc	药罐	npc\itemnpc050	icon\funcnpc\	109	3	2	2	npc\gather_npc.lua	2				60000															
+Gather_szwe_019	MineNpc	药罐测试	npc\itemnpc171	icon\funcnpc\	109	3	2	2	npc\gather_npc.lua	2				60000															
+GatherNpc_nmp_sj001	MineNpc	金针沈家草药1	npc\cj_040003	icon\funcnpc\task.png	153	3	2	28	npc\gather_npc.lua	2				30000	interact041	4000	1	41636	0		Item_nmp_sj001		99999						
+GatherNpc_nmp_sj002	MineNpc	金针沈家草药2	npc\itemnpc066	icon\funcnpc\itemnpc066.png	153	3	2	28	npc\gather_npc.lua	2				60000	interact041	4000	1	41636	0		Item_nmp_sj002		99999						
+GatherNpc_nmp_sj003	MineNpc	金针沈家草药3	npc\itemnpc066	icon\funcnpc\itemnpc066.png	153	3	2	28	npc\gather_npc.lua	2				60000	interact041	4000	1		0				99999						
+GatherNpc_nmp_sjdw002	MineNpc	昏迷兔子	npc\monster118_01	icon\funcnpc\task.png	153	3	2	28	npc\gather_npc.lua	2				30000	interact041	2000	1	41650	0		Item_nmp_sjdw002		1						
+GatherNpc_nmp_sjdw003	MineNpc	昏迷梅花鹿	npc\monster008_01	icon\funcnpc\task.png	153	3	2	28	npc\gather_npc.lua	2				30000	interact041	2000	1	41644	0		Item_nmp_sjdw003		1						
+GatherNpc_nmp_sjdw004	MineNpc	昏迷貂	npc\monster001_01	icon\funcnpc\task.png	153	3	2	28	npc\gather_npc.lua	2				30000	interact041	2000	1	41644	0		Item_nmp_sjdw004		1						
+GatherNpc_nmp_sj004	MineNpc	金针沈家草药1	npc\itemnpc211	icon\funcnpc\task.png	153	3	2	28	npc\gather_npc.lua	2				10000	interact041	2000	4	41646	0		Item_nmp_sj004		1						
+GatherNpc_nmp_sj005	MineNpc	金针沈家草药2	npc\itemnpc204	icon\funcnpc\itemnpc066.png	153	3	2	28	npc\gather_npc.lua	2				10000	interact041	2000	4	41646	0		Item_nmp_sj005		1						
+GatherNpc_nmp_sj006	MineNpc	金针沈家草药2	npc\itemnpc168	icon\funcnpc\itemnpc066.png	153	3	2	28	npc\gather_npc.lua	2				10000	interact041	2000	4	41646	0		Item_nmp_sj006		1						
+Gather_jzsj_hu_001	MineNpc	火焰草	npc\cj_160300	icon\funcnpc\itemnpc066.png	153	3	2	28	npc\gather_npc.lua	2				-1	interact017	10000	1	41539	0		item_jzsj_41539		5						
+Gather_jzsj_hu_002	MineNpc	寒霜草	npc\cj_160250	icon\funcnpc\	153	3	2	28	npc\gather_npc.lua	2				-1	interact017	10000	1	41540	0		item_jzsj_41540		5						
+Gather_jzsj_hou_001	MineNpc	黄金枝	npc\cj_ty0001d	icon\funcnpc\	153	3	2	28	npc\gather_npc.lua	2				-1	interact017	10000	1	41541	0		item_jzsj_41541		5						
+Gather_jzsj_ying_001	MineNpc	银色妖姬草	npc\cj_150001	icon\funcnpc\	153	3	2	28	npc\gather_npc.lua	2				-1	interact017	10000	1	41543	0		item_jzsj_41543		5						
+																													
+																													
+	//万兽山庄																												
+Gather_wssz_001	MineNpc	火把堆	npc\itemnpc552	icon\funcnpc\itemnpc038.png	153	3	5	2		5				-1	interact041	3000	4				blade_huoba_004		9999999			1		28	
+Gather_lxc_fz01	MineNpc	凌霄城风筝堆	npc\itemnpc673	icon\prop\prop480.png	153	3	5	2		3				-1	interact041	3000	4				skillitem_lx_fengzheng		99			1		28	
+																													
+																													
+Gather_khdnpc_ck0001	MineNpc	快活岛锦盒	npc\itemnpc201	icon\funcnpc\task.png	153	3	5	2		5				10	interact041	3000	4				drop_khd_ck0001		999999			1		28	
+Gather_khdnpc_ck0002	MineNpc	快活岛锦盒	npc\itemnpc201	icon\funcnpc\task.png	153	3	5	2		5				10	interact041	3000	4				drop_khd_ck0001		999999			1		28	
+																													
+GatherNpc_5nei_gbmhl001	MineNpc	昏迷梅花鹿	npc\monster008_01	icon\funcnpc\task.png	153	3	2	7	npc\gather_npc.lua	2				30000	interact041	2000	1	56557	0		Item_5nei_gbmhl001		1						
+GatherNpc_5nei_gbhyz001	MineNpc	胡杨草	npc\cj_160250	icon\funcnpc\	153	3	2	7	npc\gather_npc.lua	2				30000	interact017	10000	1	56557	0		Item_5nei_gbhyz001		999999						
+																													
+Gather_tm5nei_note	MineNpc	信件	npc\itemnpc542	icon\funcnpc\task.png	153	3	3	2	npc\gather_npc.lua	2				30000	interact017	3000	1	57556	0	0	Item_tm5nei_note		1					28	
+Gather_0tm5nei_flower	MineNpc	相思成血	npc\itemnpc200	icon\funcnpc\task.png	153	3	3	2	npc\gather_npc.lua	2				30000	interact017	3000	1	57566	0	0	Item_0tm5nei_flower		1					28	
+																													
+Gather_clone033_ck_001	MineNpc	御林军尸体	npc\monster105_ck_1	icon\funcnpc\task.png	153	3	5	2		5				-1	interact041	500	4				drop_clone033_ck_1		1					9	
+Gather_clone033_ck_002	MineNpc	百姓尸体	npc\worldnpc060_ck_1	icon\funcnpc\task.png	153	3	5	2		5				-1	interact041	500	4				drop_clone033_ck_1		1					9	
+Gather_clone033_ck_003	MineNpc	叛军尸体	npc\fbnpc00033y_ck_1	icon\funcnpc\task.png	153	3	5	2		5				-1	interact041	500	4				drop_clone033_ck_1		1					9	
+npc_5neijy_58538npc01	MineNpc	尸体	npc\fbboss00124a	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	3000	1	58538	0	0	item_5neijy_58537jhs		999999					28	
+Npc_5neijz_57033c_01	MineNpc	呕吐物	npc\itemnpc226	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	3000	1	57033	0	0	Item_5neijz_57033a		999999					28	
+																													
+	//五内-武当																												
+Gather_5nei_wd_yao	MineNpc	药	npc\cj_040003	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	3000	1	55556	0	0	item_5nei_wd_yao		1						
+Gather_5nei_wd_diao	MineNpc	药	npc\petm_010102	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	3000	1	55561	0	0	item_5nei_wd_diao		1						
+Gather_5nei_z2_lqc	MineNpc	连青城	npc\Boss080	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				30000	interact017	3000	1	55569	0	0	item_5nei_z2_ss		1						
+Gather_5nei_z2_ywt	MineNpc	连青城	npc\itemnpc167	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				5000	interact017	3000	1	55569	0	0	useitem_5nei_z2_ywt		999999						
+Gather_5nei_nx_hua	MineNpc	无名花	npc\cj_040003	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	3000	1	55540	0	0	item_5nei_nx_hua		10						
+Gather_5nei_nx_hua1	MineNpc	无名花	npc\cj_040003	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	3000	1	55541	0	0	item_5nei_nx_hua1		10						
+																													
+	//血刀门日常——g																												
+xdm_xueshizi_gdj	MineNpc	血石子	npc\itemnpc480	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	3000	1	20892	0	0	xdm_item_xueshizi_gdj		1			1		28	
+Gather_xdm_st_gdj	MineNpc	水桶	npc\itemnpc014	icon\prop\prop069.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	2000	1	20898	0	0	xdm_xst_gdj003		1			1		28	
+Gather_xdm_hs_gdj	MineNpc	黑石	npc\itemnpc207	icon\prop\prop433.png	153	3	2	2	npc\gather_npc.lua	2				10000	interact017	2000	1	20899	0	0	xdm_hs_gdj004		1			1		28	
+Gather_xdm_dy_xhd	MineNpc	信号弹	npc\itemnpc005	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	3000	1	20843	0	0	useitem_xdm_dy_xhd		1			1			
+Gather_xdm_dy_zc	MineNpc	大漠奇草	npc\cj_040003	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	3000	1	20922	0	0	item_xdm_dy_qihua		1			1			
+Gather_xdm_dy_zc1	MineNpc	大漠奇草	npc\cj_040003	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	3000	1	20923	0	0	item_xdm_dy_qihua1		1			1			
+Gather_xdm_dy_zc2	MineNpc	大漠奇草	npc\cj_040003	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	3000	1	20924	0	0	item_xdm_dy_qihua2		1			1			
+Gather_xdm_dy_zc3	MineNpc	大漠奇草	npc\cj_040003	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	3000	1	20925	0	0	item_xdm_dy_qihua3		1			1			
+Gather_xdm_dy_zc4	MineNpc	大漠奇草	npc\cj_040003	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	3000	1	20926	0	0	item_xdm_dy_qihua4		1			1			
+Gather_xdm_dy_zc5	MineNpc	大漠奇草	npc\cj_040003	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	3000	1	20927	0	0	item_xdm_dy_qihua5		1			1			
+Gather_xdm_dy_zc6	MineNpc	大漠奇草	npc\cj_040003	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	3000	1	20928	0	0	item_xdm_dy_qihua6		1			1			
+Gather_xdm_dy_zc7	MineNpc	大漠奇草	npc\cj_040003	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	3000	1	20929	0	0	item_xdm_dy_qihua7		1			1			
+Gather_xdm_dy_xg	MineNpc	血棺	npc\itemnpc1457	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	3000	1	20838	0	0	item_xdm_dy_xg		1			1			
+Gather_xdm_dy_xg1	MineNpc	血棺	npc\itemnpc1457	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	3000	1	20949	0	0	item_xdm_dy_xg1		1			1			
+Gather_xdm_dy_zcxg	MineNpc	大漠奇草	npc\cj_040003	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	3000	1	20970	0	0	item_xdm_dy_qihuaxg		1			1			
+Gather_xdm_dy_zcxg1	MineNpc	大漠奇草	npc\cj_040003	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	3000	1	20971	0	0	item_xdm_dy_qihuaxg1		1			1			
+Gather_xdm_dy_zcxg2	MineNpc	大漠奇草	npc\cj_040003	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	3000	1	20972	0	0	item_xdm_dy_qihuaxg2		1			1			
+Gather_xdm_dy_zcxg3	MineNpc	大漠奇草	npc\cj_040003	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	3000	1	20973	0	0	item_xdm_dy_qihuaxg3		1			1			
+Gather_xdm_dy_zcxg4	MineNpc	大漠奇草	npc\cj_040003	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	3000	1	20974	0	0	item_xdm_dy_qihuaxg4		1			1			
+Gather_xdm_dy_zcxg5	MineNpc	大漠奇草	npc\cj_040003	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	3000	1	20976	0	0	item_xdm_dy_qihuaxg5		1			1			
+Gather_xdm_dy_zcxg6	MineNpc	大漠奇草	npc\cj_040003	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	3000	1	20977	0	0	item_xdm_dy_qihuaxg6		1			1			
+Gather_xdm_dy_zcxg7	MineNpc	大漠奇草	npc\cj_040003	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	3000	1	20978	0	0	item_xdm_dy_qihuaxg7		1			1			
+Gather_xdm_dy_zczf1	MineNpc	骨血草	npc\cj_106013b1	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	3000	1	20991	0	0	item_xdm_dy_qihuazf1		1			1			
+Gather_xdm_dy_zczf2	MineNpc	仙笼草	npc\cj_106012a2	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	3000	1	20992	0	0	item_xdm_dy_qihuazf2		1			1			
+Gather_xdm_dy_zczf3	MineNpc	龙颜草	npc\cj_150150	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	3000	1	20993	0	0	item_xdm_dy_qihuazf3		1			1			
+Gather_xdm_dy_zczf4	MineNpc	空凌草	npc\cj_040003	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	3000	1	20994	0	0	item_xdm_dy_qihuazf4		1			1			
+																													
+	长风镖局-水上行镖																												
+Gather_cfbj_shxb_002	MineNpc	水缸	npc\itemnpc553	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				-1	interact041	2000	4				drop_cfbj_shxb_002		99999999			1		28	
+																													
+Gather_nlb_dy_xh	MineNpc	鲜花	npc\itemnpc066	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	3000	1	21352	0	0	useitem_nlb_dy_xh		1			1			
+Gather_nlb_dy_hhcj	MineNpc	鲜花	npc\cj_040048	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	3000	1	21354	0	0	item_nlb_dy_xh		1			1			
+																													
+Gathernpc_lxxz_xu_001	MineNpc	采集	npc\itemnpc1400_a		153	3	2	2	npc\gather_npc.lua	2				3000	interact017	2000	1	27563	0	0	item_lxxz_xu_005		1					28	
+Gathernpc_lxxz_xu_002	MineNpc	采集	npc\itemnpc1400_a		153	3	2	2	npc\gather_npc.lua	2				3000	interact017	2000	1	27563	0	0	item_lxxz_xu_006		1					28	
+Gathernpc_lxxz_xu_003	MineNpc	采集	npc\itemnpc1400_a		153	3	2	2	npc\gather_npc.lua	2				3000	interact017	2000	1	27563	0	0	item_lxxz_xu_007		1					28	
+Gathernpc_lxxz_xu_004	MineNpc	采集	npc\itemnpc1400_a		153	3	2	2	npc\gather_npc.lua	2				3000	interact017	2000	1	27563	0	0	item_lxxz_xu_008		1					28	
+Gathernpc_lxxz_xu_005	MineNpc	采集	npc\itemnpc1400_a		153	3	2	2	npc\gather_npc.lua	2				3000	interact017	2000	1	27563	0	0	item_lxxz_xu_009		1					28	
+Gathernpc_lxxz_xu_006	MineNpc	采集	npc\itemnpc066_01		153	3	2	2	npc\gather_npc.lua	2				3000	interact017	2000	1	27560	0	0	item_lxxz_xu_002		1					28	
+Gathernpc_lxxz_xu_007	MineNpc	采集	npc\itemnpc1401_a		153	3	2	2	npc\gather_npc.lua	2				3000	interact017	2000	1	27560	0	0	item_lxxz_xu_003		1					28	
+Gathernpc_lxxz_xu_008	MineNpc	采集	npc\itemnpc1451_a		153	3	2	2	npc\gather_npc.lua	2				3000	interact017	2000	1	27560	0	0	item_lxxz_xu_004		1					28	
+																													
+gathernpc_yxtsz_001	MineNpc	装着书贼的麻袋	npc\itemnpc560	icon\funcnpc\task.png	109	3	2	2		2				-1	interact041	2000	4						1					28	
+																													
+Gather_mm_dy_dj	MineNpc	少林典籍	npc\bag_wnhg01	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				10000	interact017	3000	1	71900	0	0	item_mm_dy_01		1						
+																													
+Gather_qynew_dy_01	MineNpc	线索	npc\itemboxnpc001	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				10000	interact017	3000	1	71080	0	0	useitem_qynew_dy_02		1						
+Gather_qynew_dy_02	MineNpc	牌位	npc\itemnpc542	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				10000	interact017	3000	1	71082	0	0	item_qynew_dy_08		1						
+																													
+Gather_qynew_dy_03	MineNpc	天香草	npc\cj_106013b1	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				10000	interact017	3000	1	71084	0	0	item_qynew_dy_03		1						
+Gather_qynew_dy_04	MineNpc	蛇蝎草	npc\cj_106012a2	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				10000	interact017	3000	1	71084	0	0	item_qynew_dy_04		1						
+Gather_qynew_dy_05	MineNpc	丁香兰	npc\cj_150150	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				10000	interact017	3000	1	71084	0	0	item_qynew_dy_05		1						
+																													
+com_fivesky_01	MineNpc	奇花异草	npc\itemnpc1450	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				10000	interact017	1000	1	75025	0	0	item_com_fivesky_01		9999999						
+com_fivesky_02	MineNpc	特殊机关	npc\itemnpc216	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				10000	interact017	1000	1	75037	0	0	item_com_fivesky_02		9999999						
+com_fivesky_001	MineNpc	奇花异草	npc\itemnpc1450	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				10000	interact017	1000	1	75055	0	0	item_com_fivesky_001		9999999						
+com_fivesky_002	MineNpc	奇花异草	npc\itemnpc216	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				10000	interact017	1000	1	75067	0	0	item_com_fivesky_002		9999999						
+																													
+Gather_2108dy_001	MineNpc	木材1	npc\itemnpc038	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	1	76342	0		taskitem_2108dy_001		9999999			1			
+Gather_2108dy_002	MineNpc	木材2	npc\itemnpc179	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	1	76342	0		taskitem_2108dy_002		9999999			1			
+Gather_2108dy_003	MineNpc	木材3	npc\itemnpc169	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	1	76342	0		taskitem_2108dy_003		9999999			1			
+Gather_2108dy_004	MineNpc	矿石1	npc\itemnpc207	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	1	76343	0		taskitem_2108dy_004		9999999			1			
+Gather_2108dy_005	MineNpc	矿石2	npc\itemnpc208	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	1	76343	0		taskitem_2108dy_005		9999999			1			
+Gather_2108dy_006	MineNpc	矿石3	npc\cj_102006	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	1	76343	0		taskitem_2108dy_006		9999999			1			
+Gather_2108dy_007	MineNpc	旧装备1	npc\itemnpc1377	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	1	76344	0		taskitem_2108dy_007		9999999			1			
+Gather_2108dy_008	MineNpc	旧装备2	npc\itemnpc137	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	1	76344	0		taskitem_2108dy_008		9999999			1			
+Gather_2108dy_009	MineNpc	旧装备3	npc\itemnpc1450	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	1	76344	0		taskitem_2108dy_009		9999999			1			
+Gather_2108dy_010	MineNpc	旧武器1	npc\itemnpc216	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	1	76344	0		taskitem_2108dy_010		9999999			1			
+Gather_2108dy_011	MineNpc	旧武器2	npc\itemnpc1450	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	1	76344	0		taskitem_2108dy_011		9999999			1			
+Gather_2108dy_012	MineNpc	旧武器3	npc\itemnpc216	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	1	76344	0		taskitem_2108dy_012		9999999			1			
+Gather_2108dy_013	MineNpc	旧武器3	npc\itemboxnpc001	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	1	76351	0		taskitem_2108dy_015		9999999			1			
+																													
+																													
+GatherNpc_xccgf_dlwz	MineNpc	宝箱	npc\itemnpc005a	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				-1	interact017	3000	4				item_xcc_fg_001		4			1			
+																													
+npc_2108_dy_01	MineNpc	榆木	npc\itemnpc038	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	4				drop_item_2108_dy_01		9999999			1			
+npc_2108_dy_02	MineNpc	草药	npc\itemnpc1450	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	4				drop_item_2108_dy_02		9999999			1			
+npc_2108_dy_03	MineNpc	橡木	npc\itemnpc169	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	4				drop_item_2108_dy_03		9999999			1			
+npc_2108_dy_04	MineNpc	铁矿	npc\itemnpc207	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	4				drop_item_2108_dy_04		9999999			1			
+npc_2108_dy_05	MineNpc	铜矿	npc\itemnpc208	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	4				drop_item_2108_dy_05		9999999			1			
+npc_2108_dy_06	MineNpc	银矿	npc\cj_102006	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	4				drop_item_2108_dy_06		9999999			1			
+npc_2108_dy_07	MineNpc	破损刀剑	npc\itemnpc146	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	4				drop_item_2108_dy_07		9999999			1			
+npc_2108_dy_08	MineNpc	破损盔甲	npc\itemnpc137	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	4				drop_item_2108_dy_08		9999999			1			
+npc_2108_dy_09	MineNpc	食物	npc\itemnpc461	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	4				drop_item_2108_dy_09		9999999			1			
+npc_2108_dy_10	MineNpc	水	npc\itemnpc060	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	4				drop_item_2108_dy_10		9999999			1			
+npc_2108_dy_11	MineNpc	散落的书籍	npc\itemnpc048	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	4				drop_item_2108_dy_11		9999999			1			
+npc_2108_dy_12	MineNpc	药酒	npc\itemnpc001	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	4				drop_item_2108_dy_12		9999999			1			
+npc_2108_dy_13	MineNpc	物资	npc\fbmac003021	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	4				drop_item_2108_dy_13		9999999			1			
+npc_2108_dy_14	MineNpc	止血草	npc\cj_040021	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	4				drop_item_2108_dy_14		9999999			1			
+npc_2108_dy_15	MineNpc	受伤的兔子	npc\monster118_01	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	4				drop_item_2108_dy_15		9999999			1			
+npc_2108_dy_16	MineNpc	修复工具	npc\itemnpc005	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	4				drop_item_2108_dy_16		9999999			1			
+npc_2108_dy_17	MineNpc	拆除陷阱	npc\hw_xj001	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	4				drop_item_2108_dy_17		9999999			1			
+npc_2108_dy_18	MineNpc	古玩瓷器	npc\itemnpc685	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	4				drop_item_2108_dy_18		9999999			1			
+npc_2108_dy_19	MineNpc	篝火烤肉	npc\itemnpc081	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	4				drop_item_2108_dy_19		9999999			1			
+npc_2108_dy_20	MineNpc	干柴草	npc\itemnpc087	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	4				drop_item_2108_dy_20		9999999			1			
+npc_2108_dy_21	MineNpc	破损镖车物资	npc\biaoche_jg02a	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	4				drop_item_2108_dy_21		9999999			1			
+npc_2108_dy_22	MineNpc	情报	npc\itemnpc005	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	4				drop_item_2108_dy_22		9999999			1			
+npc_2108_dy_23	MineNpc	粮食	npc\itemnpc560	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	4				drop_item_2108_dy_23		9999999			1			
+npc_2108_dy_24	MineNpc	尸体上的线索	npc\Kqshiti06	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	4				drop_item_2108_dy_24		9999999			1			
+npc_2108_dy_25	MineNpc	鸟蛋	npc\itemnpc227	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	4				drop_item_2108_dy_25		9999999			1			
+npc_2108_dy_26	MineNpc	甜果	npc\cj_ts0002b	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	4				drop_item_2108_dy_26		9999999			1			
+npc_2108_dy_27	MineNpc	尸体上的令牌	npc\Kqshiti06	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	4				drop_item_2108_dy_27		9999999			1			
+npc_2108_dy_28	MineNpc	绳索	npc\itemnpc402	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	4				drop_item_2108_dy_28		9999999			1			
+npc_2108_dy_29	MineNpc	机关齿轮	npc\itemnpc216	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	4				drop_item_2108_dy_29		9999999			1			
+npc_2108_dy_30	MineNpc	砖块	npc\cj_102006	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				3000	interact017	1000	4				drop_item_2108_dy_30		9999999			1			
+																													
+Gather_qyg_dy_01	MineNpc	信	npc\itemnpc542	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				10000	interact017	3000	1	76657	0	0	item_qyg_dy_03		1						
+																													
+Gather_xtb_dy_01	MineNpc	龙根草	npc\itemnpc1450	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				10000	interact017	3000	1	76571	0	0	item_qyg_dy_03		1						
+Gather_xtb_dy_02	MineNpc	凤凰石	npc\itemnpc1450	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				10000	interact017	3000	1	76571	0	0	item_qyg_dy_03		1						
+Gather_xtb_dy_03	MineNpc	凤凰石	npc\itemnpc005	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				10000	interact017	3000	1	76868	0	0	item_xtb_dy_07		1						
+																													
+Gather_whz_dy_01	MineNpc	武器	npc\itemnpc146	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				10000	interact017	3000	1	77228	0		item_whz_dy_03		1						
+Gather_whz_dy_02	MineNpc	装备	npc\itemnpc137	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				10000	interact017	3000	1	77228	0		item_whz_dy_04		1						
+Gather_whz_dy_03	MineNpc	疗伤药	npc\itemnpc428	icon\funcnpc\task.png	153	3	2	2	npc\gather_npc.lua	2				10000	interact017	3000	4		0		drop_whz_dy_01		9999999						
+																													
+	//精绝古城																												
+npc_jjc_rw	PaintingDepotNpc	人文	npc\itemnpc005a	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_jjc_sw	PaintingDepotNpc	生物	npc\itemnpc005a	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						2
+npc_jjc_cw	PaintingDepotNpc	产物	npc\itemnpc005a	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						3
+npc_jjc_jz	PaintingDepotNpc	建筑	npc\itemnpc005a	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						4
+																													
+npc_jjc_rw_1_001	PaintingDepotNpc	人文碧落	npc\itemnpc005a	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_jjc_rw_2_001	PaintingDepotNpc	人文、、	npc\itemnpc462	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_jjc_rw_3_001	PaintingDepotNpc	人文	npc\itemnpc462	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_jjc_rw_4_001	PaintingDepotNpc	人文	npc\itemnpc005a	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_jjc_rw_5_001	PaintingDepotNpc	人文	npc\itemnpc005a	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_jjc_rw_5_002	PaintingDepotNpc	人文	npc\itemnpc005a	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+																													
+	//红尘-产物+建筑15																												
+npc_hc_cw_001	PaintingDepotNpc	枯木	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						3
+npc_hc_cw_002	PaintingDepotNpc	编织篮	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						3
+npc_hc_cw_003	PaintingDepotNpc	腊肉	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						3
+npc_hc_cw_004	PaintingDepotNpc	龟背竹	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						3
+npc_hc_cw_005	PaintingDepotNpc	桦树	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						3
+npc_hc_cw_006	PaintingDepotNpc	木箱	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						3
+npc_hc_cw_007	PaintingDepotNpc	瓜果摊	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						3
+npc_hc_cw_008	PaintingDepotNpc	陶罐	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						3
+npc_hc_cw_009	PaintingDepotNpc	松树	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						3
+npc_hc_jz_001	PaintingDepotNpc	碧剑	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						4
+npc_hc_jz_002	PaintingDepotNpc	瞭望塔	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						4
+npc_hc_jz_003	PaintingDepotNpc	洋楼	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						4
+npc_hc_jz_004	PaintingDepotNpc	剑钯	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						4
+	//碧落-产物+建筑16																												
+npc_bl_cw_001	PaintingDepotNpc	奇石	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						3
+npc_bl_cw_002	PaintingDepotNpc	高脚花架	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						3
+npc_bl_cw_003	PaintingDepotNpc	青瓷瓶	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						3
+npc_bl_cw_004	PaintingDepotNpc	宝座	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						3
+npc_bl_cw_005	PaintingDepotNpc	琴架	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						3
+npc_bl_cw_006	PaintingDepotNpc	香炉	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						3
+npc_bl_cw_007	PaintingDepotNpc	莲花瓷缸	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						3
+npc_bl_cw_008	PaintingDepotNpc	檀木落地灯	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						3
+npc_bl_cw_009	PaintingDepotNpc	耐用花盆	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						3
+npc_bl_jz_001	PaintingDepotNpc	花坛	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						4
+npc_bl_jz_002	PaintingDepotNpc	六角塔柱	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						4
+npc_bl_jz_003	PaintingDepotNpc	风塔柱	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						4
+npc_bl_jz_004	PaintingDepotNpc	花鼓	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						4
+npc_bl_jz_005	PaintingDepotNpc	骆驼石像	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						4
+	//黄泉-产物+建筑7				153																								
+npc_hq_cw_001	PaintingDepotNpc	绿厥	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						3
+npc_hq_cw_002	PaintingDepotNpc	百岁绿厥	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						3
+npc_hq_cw_003	PaintingDepotNpc	龙骨	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						3
+npc_hq_cw_004	PaintingDepotNpc	投石车	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						3
+npc_hq_jz_001	PaintingDepotNpc	天平	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						4
+npc_hq_jz_002	PaintingDepotNpc	罗盘	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						4
+npc_hq_jz_003	PaintingDepotNpc	天平地砖	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						4
+																													
+	//精绝-产物+建筑13																												
+npc_jj_cw_001	PaintingDepotNpc	陶壶	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						3
+npc_jj_cw_002	PaintingDepotNpc	桃树	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						3
+npc_jj_cw_003	PaintingDepotNpc	奢金地毯	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						3
+npc_jj_cw_004	PaintingDepotNpc	锦缎	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						3
+npc_jj_cw_005	PaintingDepotNpc	铁箱	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						3
+npc_jj_cw_006	PaintingDepotNpc	夕颜藤蔓	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						3
+npc_jj_cw_007	PaintingDepotNpc	绣球	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						3
+npc_jj_jz_001	PaintingDepotNpc	狮身像	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						4
+npc_jj_jz_002	PaintingDepotNpc	三象泉	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						4
+npc_jj_jz_003	PaintingDepotNpc	方尖碑	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						4
+npc_jj_jz_004	PaintingDepotNpc	石象	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						4
+npc_jj_jz_005	PaintingDepotNpc	竞技场	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						4
+npc_jj_jz_006	PaintingDepotNpc	断碑	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						4
+																													
+	//红尘-人文+生物																												
+npc_hc_rw_001	PaintingDepotNpc	红尘东主	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_hc_rw_002	PaintingDepotNpc	洗漱店小贩	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_hc_rw_003	PaintingDepotNpc	果蔬店小贩	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_hc_rw_004	PaintingDepotNpc	布店小贩	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_hc_rw_005	PaintingDepotNpc	香料小贩	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_hc_rw_006	PaintingDepotNpc	纪念品小贩	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_hc_sw_001	PaintingDepotNpc	肥羊	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						2
+npc_hc_sw_002	PaintingDepotNpc	狗	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						2
+npc_hc_sw_003	PaintingDepotNpc	骡子	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						2
+npc_hc_sw_004	PaintingDepotNpc	鸽子	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						2
+	//碧落人文+生物																												
+npc_bl_rw_001	PaintingDepotNpc	滢亭	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_bl_rw_002	PaintingDepotNpc	浮岚君	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_bl_rw_003	PaintingDepotNpc	寒霭君	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_bl_rw_004	PaintingDepotNpc	探险队员一号	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_bl_rw_005	PaintingDepotNpc	看守	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_bl_rw_006	PaintingDepotNpc	余老	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_bl_sw_001	PaintingDepotNpc	指引骆驼	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						2
+npc_bl_sw_002	PaintingDepotNpc	白鼬	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						2
+npc_bl_sw_003	PaintingDepotNpc	白蝶	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						2
+npc_bl_sw_004	PaintingDepotNpc	白鹫	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						2
+	//黄泉人文+生物																												
+npc_hq_rw_001	PaintingDepotNpc	游留	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_hq_rw_002	PaintingDepotNpc	左使涂寻	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_hq_rw_003	PaintingDepotNpc	接线人	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_hq_rw_004	PaintingDepotNpc	右使荼央	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_hq_rw_005	PaintingDepotNpc	服饰摊主	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_hq_rw_006	PaintingDepotNpc	匕首摊主	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_hq_rw_007	PaintingDepotNpc	药材摊主	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_hq_sw_001	PaintingDepotNpc	红腹蛛	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						2
+npc_hq_sw_002	PaintingDepotNpc	白腹蛛	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						2
+npc_hq_sw_003	PaintingDepotNpc	老鹰	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						2
+npc_hq_sw_004	PaintingDepotNpc	蟾蜍	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						2
+npc_hq_sw_005	PaintingDepotNpc	貂	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						2
+	//精绝人文+生物																												
+npc_jj_rw_001	PaintingDepotNpc	狄翎	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_jj_rw_002	PaintingDepotNpc	阿布力	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_jj_rw_003	PaintingDepotNpc	古丽	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_jj_rw_004	PaintingDepotNpc	曼拉	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_jj_rw_005	PaintingDepotNpc	云妩妩	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_jj_rw_006	PaintingDepotNpc	艾伊努丝	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_jj_rw_007	PaintingDepotNpc	亚森	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_jj_rw_008	PaintingDepotNpc	精绝女王	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_jj_rw_009	PaintingDepotNpc	沙匪首领	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_jj_rw_010	PaintingDepotNpc	哈山蒙	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_jj_rw_011	PaintingDepotNpc	鲁米苏	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_jj_rw_012	PaintingDepotNpc	塔汉	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_jj_rw_013	PaintingDepotNpc	富商	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_jj_rw_014	PaintingDepotNpc	管事	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						1
+npc_jj_sw_001	PaintingDepotNpc	肉苁蓉	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						2
+npc_jj_sw_002	PaintingDepotNpc	甘草	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						2
+npc_jj_sw_003	PaintingDepotNpc	沙鼠	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						2
+npc_jj_sw_004	PaintingDepotNpc	异兽	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						2
+npc_jj_sw_005	PaintingDepotNpc	白野猪	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						2
+npc_jj_sw_006	PaintingDepotNpc	鬃毛猪	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						2
+npc_jj_sw_007	PaintingDepotNpc	白骆驼	npc\itemnpc057_wangzhen001	icon\funcnpc\task.png	153	3	20	2	npc\gather_npc.lua	3				3600000	interact041		1						1						2

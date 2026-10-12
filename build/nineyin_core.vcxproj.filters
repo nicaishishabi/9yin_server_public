@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\RjDir\admin_98626617-3896-47e0-b5de-cfe58b401590\Desktop\project\9yin-cpp-server\src\transport\key.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\RjDir\admin_98626617-3896-47e0-b5de-cfe58b401590\Desktop\project\9yin-cpp-server\src\transport\frame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\RjDir\admin_98626617-3896-47e0-b5de-cfe58b401590\Desktop\project\9yin-cpp-server\src\transport\connection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\RjDir\admin_98626617-3896-47e0-b5de-cfe58b401590\Desktop\project\9yin-cpp-server\src\config\paths.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\RjDir\admin_98626617-3896-47e0-b5de-cfe58b401590\Desktop\project\9yin-cpp-server\src\util\log.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\RjDir\admin_98626617-3896-47e0-b5de-cfe58b401590\Desktop\project\9yin-cpp-server\src\gm\hub.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\RjDir\admin_98626617-3896-47e0-b5de-cfe58b401590\Desktop\project\9yin-cpp-server\src\gm\http_server.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\RjDir\admin_98626617-3896-47e0-b5de-cfe58b401590\Desktop\project\9yin-cpp-server\src\db\role_store.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\RjDir\admin_98626617-3896-47e0-b5de-cfe58b401590\Desktop\project\9yin-cpp-server\src\scene\path_file.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\RjDir\admin_98626617-3896-47e0-b5de-cfe58b401590\Desktop\project\9yin-cpp-server\src\scene\npc_scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\RjDir\admin_98626617-3896-47e0-b5de-cfe58b401590\Desktop\project\9yin-cpp-server\src\scene\npc_template.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\RjDir\admin_98626617-3896-47e0-b5de-cfe58b401590\Desktop\project\9yin-cpp-server\src\game\systems.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\RjDir\admin_98626617-3896-47e0-b5de-cfe58b401590\Desktop\project\9yin-cpp-server\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D1203B5E-1A09-3988-90F4-924D01BD2861}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

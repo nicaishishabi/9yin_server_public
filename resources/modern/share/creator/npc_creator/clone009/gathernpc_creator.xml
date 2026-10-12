@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="09CD748F2B764A089979D2375ED985C9" x="-331.692" y="105.265" z="313.652" radius="50.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="1">
+            <item No="1" id="BoxClone009001" sx="2.050" sy="2.050" sz="2.050" ax="1.001" ay="1.553" amount="2" refreshtime="-1" desc="钱袋子">
+                <position x="-339.907" z="313.137" sx="2.050" sy="2.050" sz="2.050" ax="1.001" ay="1.553" />
+                <position x="-310.183" z="281.042" sx="2.020" sy="2.000" sz="2.020" ax="0.963" ay="1.553" />
+                <position x="-364.862" z="309.761" sx="2.000" sy="2.000" sz="2.000" ax="1.166" ay="1.553" az="6.283" />
+                <position x="-309.302" z="336.325" sx="2.000" sy="2.000" sz="2.000" ax="1.329" ay="1.553" az="6.283" />
+                <position x="-331.747" z="286.813" sx="2.000" sy="2.000" sz="2.000" ax="1.286" ay="1.553" />
+            </item>
+        </creator>
+        <creator No="D13DC44C3713439EBD45DF8591F87F6C" x="-111.405" y="138.876" z="276.247" radius="40.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="1">
+            <item No="1" id="BoxClone009006" sx="0.570" sy="0.570" sz="0.570" ay="1.553" amount="2" refreshtime="-1" desc="石块">
+                <position x="-100.224" z="271.135" sx="0.570" sy="0.570" sz="0.570" ay="1.553" />
+                <position x="-76.549" z="264.397" sx="0.460" sy="0.460" sz="0.460" ay="1.553" />
+                <position x="-116.923" z="262.122" sx="0.520" sy="0.520" sz="0.520" ay="1.553" />
+                <position x="-142.231" z="275.019" sx="0.740" sy="0.740" sz="0.740" ay="1.553" />
+            </item>
+        </creator>
+        <creator No="DC2E13927D114DD79D33A46BBD7040CB" x="138.308" y="153.008" z="326.605" radius="60.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="1">
+            <item No="1" id="BoxClone009003" sx="0.690" sy="0.690" sz="0.690" ay="1.553" amount="2" refreshtime="-1" desc="蒲团">
+                <position x="110.442" z="323.850" sx="0.690" sy="0.690" sz="0.690" ay="1.553" />
+                <position x="110.474" z="327.246" sx="0.760" sy="0.760" sz="0.760" ay="1.553" />
+                <position x="136.234" z="294.819" sx="0.650" sy="0.650" sz="0.650" ay="1.553" />
+                <position x="160.536" z="324.799" ay="1.553" />
+                <position x="160.565" z="327.298" ay="1.553" />
+                <position x="135.953" z="353.404" ay="1.553" />
+                <position x="135.994" z="352.616" ay="1.553" />
+            </item>
+        </creator>
+        <creator No="436AA491518346F698AE53043E7C85C1" x="86.953" y="132.183" z="68.745" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="1">
+            <item No="1" id="BoxClone009008" ay="0.190" amount="2" refreshtime="-1" desc="铁盒子">
+                <position x="95.602" z="58.954" ay="0.190" />
+                <position x="89.771" z="53.231" ay="0.190" />
+                <position x="83.374" z="60.737" sx="0.510" sy="0.510" sz="0.510" ay="0.190" />
+                <position x="99.082" z="53.317" ay="0.190" />
+                <position x="87.758" z="61.311" sy="1.210" ax="5.784" ay="0.190" />
+            </item>
+            <item No="2" id="BoxClone009009" ay="1.553" amount="1" refreshtime="-1" desc="白骨头颅">
+                <position x="64.449" z="63.912" ay="1.553" />
+                <position x="74.255" z="63.049" ay="1.553" />
+                <position x="96.754" z="69.516" ay="1.553" />
+            </item>
+        </creator>
+        <creator No="D6CF48AF5E5140A3BF91EBEC2DC55CE9" x="88.626" y="132.477" z="75.126" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="1">
+            <item No="1" id="BoxClone009009" ax="0.009" ay="1.553" amount="1" refreshtime="-1" desc="白骨头颅">
+                <position x="86.240" z="92.083" ax="0.009" ay="1.553" />
+                <position x="81.175" z="90.750" ax="6.067" ay="1.553" />
+                <position x="98.083" z="83.574" ay="1.553" />
+                <position x="107.285" z="72.664" ay="1.553" />
+            </item>
+        </creator>
+        <creator No="2F0BBE8078B44DB58EFCB307A193FC24" x="174.236" y="127.386" z="72.550" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="1">
+            <item No="1" id="BoxClone009009" ay="1.553" amount="4" refreshtime="-1" desc="白骨头颅">
+                <position x="200.767" z="66.950" ay="1.553" />
+                <position x="197.331" z="57.995" ay="1.553" />
+                <position x="195.859" z="75.080" ay="1.553" />
+                <position x="182.548" z="80.231" ay="1.553" />
+                <position x="175.403" z="83.410" ay="1.553" />
+                <position x="154.328" z="68.899" ay="1.553" />
+                <position x="150.904" z="69.823" ay="1.553" />
+                <position x="160.433" z="83.732" ay="1.553" />
+            </item>
+        </creator>
+        <creator No="F992E0E7508D4E0985AA6E51F4400336" x="175.530" y="122.380" z="150.899" radius="50.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="1">
+            <item No="1" id="BoxClone009009" ay="1.553" amount="4" refreshtime="-1" desc="白骨头颅">
+                <position x="187.292" z="167.966" ay="1.553" />
+                <position x="163.183" z="167.128" ay="1.553" />
+                <position x="156.287" z="156.083" ay="1.553" />
+                <position x="177.868" z="141.279" ay="1.553" />
+                <position x="209.457" z="168.250" ay="1.553" />
+                <position x="184.277" z="168.313" ay="1.553" />
+                <position x="147.777" z="133.281" ay="1.553" />
+                <position x="154.094" z="131.537" ay="1.553" />
+                <position x="206.858" z="144.130" ay="1.553" />
+            </item>
+        </creator>
+        <creator No="58D1B94B8D0144D1879E1D27C0F73CFB" x="267.666" y="155.663" z="242.380" radius="60.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="1">
+            <item No="1" id="BoxClone009004" ay="1.553" amount="3" refreshtime="-1" desc="宝箱">
+                <position x="238.895" z="280.103" ay="1.553" />
+                <position x="241.421" z="282.874" ay="1.553" />
+                <position x="262.380" z="283.407" ay="1.553" />
+                <position x="275.270" z="284.400" ay="1.553" />
+                <position x="249.302" z="262.206" ay="1.553" />
+                <position x="248.854" z="255.451" sy="0.950" ay="1.553" />
+                <position x="264.832" z="255.414" ay="1.553" />
+                <position x="264.645" z="262.800" ay="1.553" />
+            </item>
+        </creator>
+        <creator No="FB055A2E44924AB3AD41756150C99F0E" x="-180.706" y="224.778" z="-442.191" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="1">
+            <item No="1" id="BoxClone009011" ay="0.528" amount="3" refreshtime="-1" desc="蜂箱">
+                <position x="-182.264" z="-440.666" ay="0.528" />
+                <position x="-177.983" z="-447.435" ay="0.528" />
+                <position x="-183.310" z="-437.744" ay="0.528" />
+                <position x="-180.619" z="-440.090" ay="0.528" />
+                <position x="-176.476" z="-445.992" ay="0.528" />
+                <position x="-177.062" z="-449.359" ay="0.528" />
+                <position x="-180.554" z="-446.168" ay="1.308" />
+                <position x="-181.835" z="-444.625" ay="1.308" />
+                <position x="-177.450" z="-439.761" ay="1.308" />
+                <position x="-175.066" z="-444.774" ay="1.308" />
+            </item>
+        </creator>
+        <creator No="7E81DC2C66C94AEEA545B22852D020A4" x="-306.818" y="144.952" z="-203.254" radius="80.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="BoxClone009005" ay="0.528" amount="2" refreshtime="-1" desc="酒坛子">
+                <position x="-298.114" z="-225.798" ay="0.528" />
+                <position x="-300.335" z="-189.743" ay="0.528" />
+                <position x="-301.306" z="-223.360" ay="0.528" />
+                <position x="-299.966" z="-191.510" ay="0.528" />
+                <position x="-317.503" z="-187.824" ay="0.528" />
+                <position x="-322.130" z="-209.409" ay="0.528" />
+                <position x="-309.458" z="-237.789" ay="0.528" />
+                <position x="-316.150" z="-236.694" ay="0.528" />
+                <position x="-291.756" z="-166.679" ay="0.528" />
+                <position x="-309.375" z="-168.972" ay="0.528" />
+            </item>
+            <item No="2" id="BoxClone009007" sx="0.870" sy="0.870" sz="0.870" ay="0.528" amount="3" refreshtime="-1" desc="木箱">
+                <position x="-322.501" z="-211.103" sx="0.870" sy="0.870" sz="0.870" ay="0.528" />
+                <position x="-324.158" z="-210.443" ay="0.528" />
+                <position x="-299.058" z="-226.166" ay="0.528" />
+                <position x="-299.366" z="-192.883" ay="0.528" />
+                <position x="-298.143" z="-190.724" ay="0.528" />
+                <position x="-336.325" z="-197.892" ay="0.528" />
+                <position x="-335.806" z="-196.353" ay="0.528" />
+                <position x="-300.812" z="-163.272" ay="0.528" />
+                <position x="-301.955" z="-168.095" ay="1.378" />
+                <position x="-318.286" z="-186.822" sx="0.830" sy="0.830" sz="0.830" ay="1.378" />
+                <position x="-317.401" z="-186.531" sx="0.850" sy="0.850" sz="0.850" ay="1.378" />
+                <position x="-273.914" z="-196.426" ay="1.793" />
+                <position x="-274.304" z="-197.307" sy="1.020" ay="1.753" />
+            </item>
+            <item No="3" id="NpcClone009054" ay="2.909" amount="2" refreshtime="5" desc="投石山贼">
+                <position x="-236.054" z="-196.998" ay="2.909" BornAction="stand;hurt_b_1_l" />
+                <position x="-234.864" z="-197.036" ay="3.564" BornAction="hurt_b_1_s" />
+            </item>
+        </creator>
+        <creator No="4E0343051DA24DD6944A09929A784999" x="-177.083" y="75.924" z="26.379" radius="60.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="1">
+            <item No="1" id="BoxClone009008" ay="0.528" amount="4" refreshtime="-1" desc="铁盒子">
+                <position x="-217.507" z="-6.011" ay="0.528" />
+                <position x="-203.099" z="1.892" ay="0.528" />
+                <position x="-191.488" z="21.804" ay="0.528" />
+                <position x="-180.436" z="33.538" ay="0.528" />
+                <position x="-172.582" z="50.952" ay="0.528" />
+                <position x="-134.794" z="25.931" ay="0.528" />
+                <position x="-140.752" z="30.667" ay="0.528" />
+                <position x="-142.710" z="51.136" ay="0.528" />
+                <position x="-150.766" z="54.626" ay="0.528" />
+                <position x="-158.714" z="51.099" ay="0.528" />
+                <position x="-168.612" z="27.784" ay="0.528" />
+                <position x="-181.494" z="20.221" ay="0.528" />
+                <position x="-195.031" z="-16.193" ay="0.528" />
+                <position x="-175.848" z="-7.625" ay="0.528" />
+                <position x="-160.696" z="-18.916" ax="5.832" ay="0.493" />
+                <position x="-148.926" z="-11.635" ay="0.528" />
+            </item>
+            <item No="2" id="BoxClone009006" sx="0.110" sy="0.110" sz="0.110" ay="0.528" amount="3" refreshtime="-1" desc="石块">
+                <position x="-162.608" z="-1.157" sx="0.110" sy="0.110" sz="0.110" ay="0.528" />
+                <position x="-150.590" z="-0.747" sx="0.160" sy="0.160" sz="0.160" ay="0.528" />
+                <position x="-129.916" z="12.224" sx="0.280" sy="0.280" sz="0.280" ay="0.528" />
+                <position x="-126.370" z="27.630" sx="0.350" sy="0.350" sz="0.350" ay="0.528" />
+                <position x="-131.706" z="40.123" sx="0.320" sy="0.320" sz="0.320" ay="0.528" />
+                <position x="-174.863" z="53.118" sx="0.120" sy="0.120" sz="0.120" ay="0.528" />
+                <position x="-205.908" z="65.893" ay="0.528" />
+                <position x="-175.351" z="34.766" sx="0.190" sy="0.190" sz="0.190" ay="0.528" />
+            </item>
+        </creator>
+        <creator No="FC5A3328CB17445592B25EAD2B84AFD1" x="142.977" y="173.621" z="-291.568" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="1">
+            <item No="1" id="BoxClone009012" sx="0.970" sy="0.970" sz="0.970" ay="0.528" amount="1" refreshtime="-1" desc="台灯">
+                <position x="142.962" z="-290.660" sx="0.970" sy="0.970" sz="0.970" ay="0.528" />
+                <position x="144.988" z="-292.272" sx="0.800" sy="0.800" sz="0.800" ay="0.528" />
+            </item>
+            <item No="2" id="BoxClone009024" ay="6.076" amount="1" refreshtime="-1" NotPositive="0" desc="单本书册">
+                <position x="144.487" z="-291.959" ay="6.076" />
+                <position x="144.314" z="-292.038" ay="6.076" />
+                <position x="146.403" z="-292.012" ay="6.076" />
+                <position x="140.141" z="-289.403" ay="6.076" />
+            </item>
+        </creator>
+        <creator No="4556BAD54393478C9D109C5DC452F72B" x="-162.140" y="225.817" z="-460.715" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="1">
+            <item No="1" id="BoxClone009010" sx="1.640" sy="1.640" sz="1.640" ay="1.138" amount="2" refreshtime="-1" desc="破布包">
+                <position x="-172.566" z="-454.225" sx="1.640" sy="1.640" sz="1.640" ay="1.138" />
+                <position x="-162.680" z="-472.968" sx="1.740" sy="1.740" sz="1.740" ay="1.138" />
+                <position x="-163.764" z="-447.142" ay="1.138" />
+                <position x="-163.451" z="-447.486" sx="2.010" sy="2.010" sz="2.010" ay="1.138" />
+            </item>
+        </creator>
+        <creator No="6ECCF68723AE45A79782061B1E3F402C" x="654.032" y="217.062" z="7.654" radius="20.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="BoxClone009007" ay="1.138" amount="1" refreshtime="-1" desc="木箱">
+                <position x="663.957" z="1.771" ay="1.138" />
+                <position x="664.819" z="2.593" ay="1.138" />
+                <position x="671.328" z="7.807" ay="1.138" />
+                <position x="650.426" z="-4.121" ay="1.138" />
+                <position x="648.664" z="-1.683" ay="1.138" />
+                <position x="646.103" z="0.183" ay="1.138" />
+                <position x="664.730" z="0.141" ay="1.138" />
+                <position x="663.431" z="-0.544" ay="1.138" />
+            </item>
+        </creator>
+        <creator No="6FC09A2BEE7540E4BFDD1263819B183E" x="585.842" y="278.707" z="-37.181" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="1">
+            <item No="1" id="GatherClone009005" sx="1.630" sy="2.180" sz="1.630" ay="-1" amount="1" refreshtime="5" desc="垫子">
+                <position x="585.612" z="-36.512" sx="1.630" sy="2.180" sz="1.630" ay="-1" />
+            </item>
+            <item No="2" id="BoxClone009024" ay="0.528" amount="1" refreshtime="-1" NotPositive="0" desc="单本书册">
+                <position x="590.558" z="-37.059" ay="0.528" />
+                <position x="591.218" z="-37.556" ay="0.528" />
+                <position x="586.490" z="-30.422" ay="0.528" />
+            </item>
+            <item No="3" id="BoxClone009022" ay="0.528" amount="1" refreshtime="-1" NotPositive="0" desc="书卷">
+                <position x="588.299" z="-32.180" ay="0.528" />
+                <position x="589.938" z="-35.387" ay="0.528" />
+            </item>
+        </creator>
+        <creator No="85E7564651A8482A999EAEB8C31E817D" x="-192.436" y="140.256" z="293.419" radius="40.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="1">
+            <item No="1" id="BoxClone009021" ay="2.591" amount="3" refreshtime="-1" NotPositive="0" desc="兵器架">
+                <position x="-174.793" z="269.800" ay="2.591" />
+                <position x="-170.939" z="314.700" ay="0.781" />
+                <position x="-204.002" z="319.675" ay="5.794" />
+                <position x="-218.348" z="302.492" ay="5.014" />
+                <position x="-217.232" z="281.969" ay="4.254" />
+                <position x="-209.736" z="272.676" ay="3.824" />
+            </item>
+        </creator>
+        <creator No="E1D836ABAEA24C3CBC8D15917EFFC1AD" x="-93.795" y="148.634" z="-302.434" radius="50.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="1">
+            <item No="1" id="BoxClone009022" ay="5.716" amount="6" refreshtime="-1" NotPositive="0" desc="书卷">
+                <position x="-75.446" z="-292.024" ay="5.716" />
+                <position x="-73.273" z="-296.661" ay="5.716" />
+                <position x="-70.057" z="-307.055" ay="5.716" />
+                <position x="-73.464" z="-311.271" ay="5.716" />
+                <position x="-77.925" z="-322.124" ay="5.716" />
+                <position x="-79.558" z="-320.406" ay="5.716" />
+                <position x="-82.547" z="-326.211" ay="5.716" />
+                <position x="-95.144" z="-325.803" ay="5.716" />
+                <position x="-105.415" z="-322.070" ay="5.716" />
+                <position x="-116.808" z="-310.457" ay="6.076" />
+                <position x="-104.672" z="-281.238" ay="6.076" />
+                <position x="-106.590" z="-286.254" ay="6.076" />
+                <position x="-112.686" z="-288.029" ay="6.076" />
+                <position x="-111.239" z="-289.110" ay="6.076" />
+                <position x="-118.847" z="-304.298" ay="6.076" />
+                <position x="-112.447" z="-313.587" ay="6.076" />
+            </item>
+            <item No="2" id="BoxClone009024" ay="6.076" amount="8" refreshtime="-1" NotPositive="0" desc="单本书册">
+                <position x="-115.461" z="-310.183" ay="6.076" />
+                <position x="-115.870" z="-310.283" ay="6.076" />
+                <position x="-115.618" z="-304.521" ay="6.076" />
+                <position x="-115.613" z="-304.595" ay="6.076" />
+                <position x="-116.413" z="-304.518" ay="6.076" />
+                <position x="-116.058" z="-299.030" ay="6.076" />
+                <position x="-117.785" z="-298.618" ay="6.076" />
+                <position x="-115.072" z="-293.520" ay="6.076" />
+                <position x="-115.019" z="-293.601" ay="6.076" />
+                <position x="-104.303" z="-282.741" ay="6.076" />
+                <position x="-110.480" z="-289.683" ay="6.076" />
+                <position x="-110.302" z="-289.887" ay="6.076" />
+                <position x="-112.689" z="-287.902" ay="6.076" />
+                <position x="-114.574" z="-299.128" ay="6.076" />
+                <position x="-114.836" z="-299.148" ay="6.076" />
+                <position x="-114.583" z="-299.136" ay="6.076" />
+                <position x="-100.556" z="-322.578" ay="6.076" />
+                <position x="-100.631" z="-322.563" ay="6.076" />
+                <position x="-95.828" z="-324.152" ay="6.076" />
+                <position x="-95.815" z="-324.513" ay="6.076" />
+                <position x="-95.968" z="-325.147" ay="6.076" />
+            </item>
+        </creator>
+        <creator No="4487967AE9214726BECFE413A703E670" x="-218.443" y="226.039" z="-444.411" radius="50.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="BoxClone009020" ay="6.076" amount="3" refreshtime="-1" NotPositive="0" desc="蚕架">
+                <position x="-229.623" z="-449.028" ay="6.076" />
+                <position x="-230.927" z="-448.267" ay="6.076" />
+                <position x="-228.970" z="-450.011" ay="6.076" />
+                <position x="-197.775" z="-430.189" ay="6.076" />
+                <position x="-196.895" z="-431.799" ay="6.076" />
+                <position x="-218.660" z="-462.495" ay="6.076" />
+                <position x="-219.706" z="-461.383" ay="6.076" />
+                <position x="-189.678" z="-436.556" ay="6.076" />
+                <position x="-190.513" z="-437.046" ay="6.076" />
+            </item>
+        </creator>
+        <creator No="0A266DD335C64AAE9E39906D7489F791" x="-202.951" y="225.758" z="-464.410" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="BoxClone009023" ay="6.076" amount="1" refreshtime="-1" NotPositive="0" desc="药瓶">
+                <position x="-219.323" z="-473.498" ay="6.076" />
+                <position x="-218.706" z="-472.937" ay="6.076" />
+                <position x="-220.827" z="-481.731" ay="6.076" />
+            </item>
+            <item No="2" id="BoxClone009024" ay="6.076" amount="2" refreshtime="-1" NotPositive="0" desc="单本书册">
+                <position x="-218.369" z="-473.349" ay="6.076" />
+                <position x="-218.054" z="-472.873" ay="6.076" />
+                <position x="-219.405" z="-473.943" ay="6.076" />
+                <position x="-217.812" z="-485.766" ay="6.076" />
+                <position x="-217.479" z="-473.792" ay="6.076" />
+            </item>
+        </creator>
+       <creator No="09CD748F2B764A089979D2375ED985C9" x="-331.692" y="105.265" z="313.652" radius="50.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="2">
+            <item No="1" id="BoxClone009001" sx="2.050" sy="2.050" sz="2.050" ax="1.001" ay="1.553" amount="2" refreshtime="-1" desc="钱袋子">
+                <position x="-339.907" z="313.137" sx="2.050" sy="2.050" sz="2.050" ax="1.001" ay="1.553" />
+                <position x="-310.183" z="281.042" sx="2.020" sy="2.000" sz="2.020" ax="0.963" ay="1.553" />
+                <position x="-364.862" z="309.761" sx="2.000" sy="2.000" sz="2.000" ax="1.166" ay="1.553" az="6.283" />
+                <position x="-309.302" z="336.325" sx="2.000" sy="2.000" sz="2.000" ax="1.329" ay="1.553" az="6.283" />
+                <position x="-331.747" z="286.813" sx="2.000" sy="2.000" sz="2.000" ax="1.286" ay="1.553" />
+            </item>
+        </creator>
+        <creator No="D13DC44C3713439EBD45DF8591F87F6C" x="-111.405" y="138.876" z="276.247" radius="40.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="2">
+            <item No="1" id="BoxClone009006" sx="0.570" sy="0.570" sz="0.570" ay="1.553" amount="2" refreshtime="-1" desc="石块">
+                <position x="-100.224" z="271.135" sx="0.570" sy="0.570" sz="0.570" ay="1.553" />
+                <position x="-76.549" z="264.397" sx="0.460" sy="0.460" sz="0.460" ay="1.553" />
+                <position x="-116.923" z="262.122" sx="0.520" sy="0.520" sz="0.520" ay="1.553" />
+                <position x="-142.231" z="275.019" sx="0.740" sy="0.740" sz="0.740" ay="1.553" />
+            </item>
+        </creator>
+        <creator No="DC2E13927D114DD79D33A46BBD7040CB" x="138.308" y="153.008" z="326.605" radius="60.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="2">
+            <item No="1" id="BoxClone009003" sx="0.690" sy="0.690" sz="0.690" ay="1.553" amount="2" refreshtime="-1" desc="蒲团">
+                <position x="110.442" z="323.850" sx="0.690" sy="0.690" sz="0.690" ay="1.553" />
+                <position x="110.474" z="327.246" sx="0.760" sy="0.760" sz="0.760" ay="1.553" />
+                <position x="136.234" z="294.819" sx="0.650" sy="0.650" sz="0.650" ay="1.553" />
+                <position x="160.536" z="324.799" ay="1.553" />
+                <position x="160.565" z="327.298" ay="1.553" />
+                <position x="135.953" z="353.404" ay="1.553" />
+                <position x="135.994" z="352.616" ay="1.553" />
+            </item>
+        </creator>
+        <creator No="436AA491518346F698AE53043E7C85C1" x="86.953" y="132.183" z="68.745" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="2">
+            <item No="1" id="BoxClone009008" ay="0.190" amount="2" refreshtime="-1" desc="铁盒子">
+                <position x="95.602" z="58.954" ay="0.190" />
+                <position x="89.771" z="53.231" ay="0.190" />
+                <position x="83.374" z="60.737" sx="0.510" sy="0.510" sz="0.510" ay="0.190" />
+                <position x="99.082" z="53.317" ay="0.190" />
+                <position x="87.758" z="61.311" sy="1.210" ax="5.784" ay="0.190" />
+            </item>
+            <item No="2" id="BoxClone009009" ay="1.553" amount="1" refreshtime="-1" desc="白骨头颅">
+                <position x="64.449" z="63.912" ay="1.553" />
+                <position x="74.255" z="63.049" ay="1.553" />
+                <position x="96.754" z="69.516" ay="1.553" />
+            </item>
+        </creator>
+        <creator No="D6CF48AF5E5140A3BF91EBEC2DC55CE9" x="88.626" y="132.477" z="75.126" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="2">
+            <item No="1" id="BoxClone009009" ax="0.009" ay="1.553" amount="1" refreshtime="-1" desc="白骨头颅">
+                <position x="86.240" z="92.083" ax="0.009" ay="1.553" />
+                <position x="81.175" z="90.750" ax="6.067" ay="1.553" />
+                <position x="98.083" z="83.574" ay="1.553" />
+                <position x="107.285" z="72.664" ay="1.553" />
+            </item>
+        </creator>
+        <creator No="2F0BBE8078B44DB58EFCB307A193FC24" x="174.236" y="127.386" z="72.550" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="2">
+            <item No="1" id="BoxClone009009" ay="1.553" amount="4" refreshtime="-1" desc="白骨头颅">
+                <position x="200.767" z="66.950" ay="1.553" />
+                <position x="197.331" z="57.995" ay="1.553" />
+                <position x="195.859" z="75.080" ay="1.553" />
+                <position x="182.548" z="80.231" ay="1.553" />
+                <position x="175.403" z="83.410" ay="1.553" />
+                <position x="154.328" z="68.899" ay="1.553" />
+                <position x="150.904" z="69.823" ay="1.553" />
+                <position x="160.433" z="83.732" ay="1.553" />
+            </item>
+        </creator>
+        <creator No="F992E0E7508D4E0985AA6E51F4400336" x="175.530" y="122.380" z="150.899" radius="50.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="2">
+            <item No="1" id="BoxClone009009" ay="1.553" amount="4" refreshtime="-1" desc="白骨头颅">
+                <position x="187.292" z="167.966" ay="1.553" />
+                <position x="163.183" z="167.128" ay="1.553" />
+                <position x="156.287" z="156.083" ay="1.553" />
+                <position x="177.868" z="141.279" ay="1.553" />
+                <position x="209.457" z="168.250" ay="1.553" />
+                <position x="184.277" z="168.313" ay="1.553" />
+                <position x="147.777" z="133.281" ay="1.553" />
+                <position x="154.094" z="131.537" ay="1.553" />
+                <position x="206.858" z="144.130" ay="1.553" />
+            </item>
+        </creator>
+        <creator No="58D1B94B8D0144D1879E1D27C0F73CFB" x="267.666" y="155.663" z="242.380" radius="60.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="2">
+            <item No="1" id="BoxClone009004" ay="1.553" amount="3" refreshtime="-1" desc="宝箱">
+                <position x="238.895" z="280.103" ay="1.553" />
+                <position x="241.421" z="282.874" ay="1.553" />
+                <position x="262.380" z="283.407" ay="1.553" />
+                <position x="275.270" z="284.400" ay="1.553" />
+                <position x="249.302" z="262.206" ay="1.553" />
+                <position x="248.854" z="255.451" sy="0.950" ay="1.553" />
+                <position x="264.832" z="255.414" ay="1.553" />
+                <position x="264.645" z="262.800" ay="1.553" />
+            </item>
+        </creator>
+        <creator No="FB055A2E44924AB3AD41756150C99F0E" x="-180.706" y="224.778" z="-442.191" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="2">
+            <item No="1" id="BoxClone009011" ay="0.528" amount="3" refreshtime="-1" desc="蜂箱">
+                <position x="-182.264" z="-440.666" ay="0.528" />
+                <position x="-177.983" z="-447.435" ay="0.528" />
+                <position x="-183.310" z="-437.744" ay="0.528" />
+                <position x="-180.619" z="-440.090" ay="0.528" />
+                <position x="-176.476" z="-445.992" ay="0.528" />
+                <position x="-177.062" z="-449.359" ay="0.528" />
+                <position x="-180.554" z="-446.168" ay="1.308" />
+                <position x="-181.835" z="-444.625" ay="1.308" />
+                <position x="-177.450" z="-439.761" ay="1.308" />
+                <position x="-175.066" z="-444.774" ay="1.308" />
+            </item>
+        </creator>
+<creator No="4E0343051DA24DD6944A09929A784999" x="-177.083" y="75.924" z="26.379" radius="60.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="2">
+            <item No="1" id="BoxClone009008" ay="0.528" amount="4" refreshtime="-1" desc="铁盒子">
+                <position x="-217.507" z="-6.011" ay="0.528" />
+                <position x="-203.099" z="1.892" ay="0.528" />
+                <position x="-191.488" z="21.804" ay="0.528" />
+                <position x="-180.436" z="33.538" ay="0.528" />
+                <position x="-172.582" z="50.952" ay="0.528" />
+                <position x="-134.794" z="25.931" ay="0.528" />
+                <position x="-140.752" z="30.667" ay="0.528" />
+                <position x="-142.710" z="51.136" ay="0.528" />
+                <position x="-150.766" z="54.626" ay="0.528" />
+                <position x="-158.714" z="51.099" ay="0.528" />
+                <position x="-168.612" z="27.784" ay="0.528" />
+                <position x="-181.494" z="20.221" ay="0.528" />
+                <position x="-195.031" z="-16.193" ay="0.528" />
+                <position x="-175.848" z="-7.625" ay="0.528" />
+                <position x="-160.696" z="-18.916" ax="5.832" ay="0.493" />
+                <position x="-148.926" z="-11.635" ay="0.528" />
+            </item>
+            <item No="2" id="BoxClone009006" sx="0.110" sy="0.110" sz="0.110" ay="0.528" amount="3" refreshtime="-1" desc="石块">
+                <position x="-162.608" z="-1.157" sx="0.110" sy="0.110" sz="0.110" ay="0.528" />
+                <position x="-150.590" z="-0.747" sx="0.160" sy="0.160" sz="0.160" ay="0.528" />
+                <position x="-129.916" z="12.224" sx="0.280" sy="0.280" sz="0.280" ay="0.528" />
+                <position x="-126.370" z="27.630" sx="0.350" sy="0.350" sz="0.350" ay="0.528" />
+                <position x="-131.706" z="40.123" sx="0.320" sy="0.320" sz="0.320" ay="0.528" />
+                <position x="-174.863" z="53.118" sx="0.120" sy="0.120" sz="0.120" ay="0.528" />
+                <position x="-205.908" z="65.893" ay="0.528" />
+                <position x="-175.351" z="34.766" sx="0.190" sy="0.190" sz="0.190" ay="0.528" />
+            </item>
+        </creator>
+        <creator No="FC5A3328CB17445592B25EAD2B84AFD1" x="142.977" y="173.621" z="-291.568" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="2">
+            <item No="1" id="BoxClone009012" sx="0.970" sy="0.970" sz="0.970" ay="0.528" amount="1" refreshtime="-1" desc="台灯">
+                <position x="142.962" z="-290.660" sx="0.970" sy="0.970" sz="0.970" ay="0.528" />
+                <position x="144.988" z="-292.272" sx="0.800" sy="0.800" sz="0.800" ay="0.528" />
+            </item>
+            <item No="2" id="BoxClone009024" ay="6.076" amount="1" refreshtime="-1" NotPositive="0" desc="单本书册">
+                <position x="144.487" z="-291.959" ay="6.076" />
+                <position x="144.314" z="-292.038" ay="6.076" />
+                <position x="146.403" z="-292.012" ay="6.076" />
+                <position x="140.141" z="-289.403" ay="6.076" />
+            </item>
+        </creator>
+        <creator No="4556BAD54393478C9D109C5DC452F72B" x="-162.140" y="225.817" z="-460.715" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="2">
+            <item No="1" id="BoxClone009010" sx="1.640" sy="1.640" sz="1.640" ay="1.138" amount="2" refreshtime="-1" desc="破布包">
+                <position x="-172.566" z="-454.225" sx="1.640" sy="1.640" sz="1.640" ay="1.138" />
+                <position x="-162.680" z="-472.968" sx="1.740" sy="1.740" sz="1.740" ay="1.138" />
+                <position x="-163.764" z="-447.142" ay="1.138" />
+                <position x="-163.451" z="-447.486" sx="2.010" sy="2.010" sz="2.010" ay="1.138" />
+            </item>
+        </creator>
+ <creator No="6FC09A2BEE7540E4BFDD1263819B183E" x="585.842" y="278.707" z="-37.181" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="2">
+            <item No="1" id="GatherClone009005" sx="1.630" sy="2.180" sz="1.630" ay="-1" amount="1" refreshtime="5" desc="垫子">
+                <position x="585.612" z="-36.512" sx="1.630" sy="2.180" sz="1.630" ay="-1" />
+            </item>
+            <item No="2" id="BoxClone009024" ay="0.528" amount="1" refreshtime="-1" NotPositive="0" desc="单本书册">
+                <position x="590.558" z="-37.059" ay="0.528" />
+                <position x="591.218" z="-37.556" ay="0.528" />
+                <position x="586.490" z="-30.422" ay="0.528" />
+            </item>
+            <item No="3" id="BoxClone009022" ay="0.528" amount="1" refreshtime="-1" NotPositive="0" desc="书卷">
+                <position x="588.299" z="-32.180" ay="0.528" />
+                <position x="589.938" z="-35.387" ay="0.528" />
+            </item>
+        </creator>
+        <creator No="85E7564651A8482A999EAEB8C31E817D" x="-192.436" y="140.256" z="293.419" radius="40.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="2">
+            <item No="1" id="BoxClone009021" ay="2.591" amount="3" refreshtime="-1" NotPositive="0" desc="兵器架">
+                <position x="-174.793" z="269.800" ay="2.591" />
+                <position x="-170.939" z="314.700" ay="0.781" />
+                <position x="-204.002" z="319.675" ay="5.794" />
+                <position x="-218.348" z="302.492" ay="5.014" />
+                <position x="-217.232" z="281.969" ay="4.254" />
+                <position x="-209.736" z="272.676" ay="3.824" />
+            </item>
+        </creator>
+        <creator No="E1D836ABAEA24C3CBC8D15917EFFC1AD" x="-93.795" y="148.634" z="-302.434" radius="50.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="2">
+            <item No="1" id="BoxClone009022" ay="5.716" amount="6" refreshtime="-1" NotPositive="0" desc="书卷">
+                <position x="-75.446" z="-292.024" ay="5.716" />
+                <position x="-73.273" z="-296.661" ay="5.716" />
+                <position x="-70.057" z="-307.055" ay="5.716" />
+                <position x="-73.464" z="-311.271" ay="5.716" />
+                <position x="-77.925" z="-322.124" ay="5.716" />
+                <position x="-79.558" z="-320.406" ay="5.716" />
+                <position x="-82.547" z="-326.211" ay="5.716" />
+                <position x="-95.144" z="-325.803" ay="5.716" />
+                <position x="-105.415" z="-322.070" ay="5.716" />
+                <position x="-116.808" z="-310.457" ay="6.076" />
+                <position x="-104.672" z="-281.238" ay="6.076" />
+                <position x="-106.590" z="-286.254" ay="6.076" />
+                <position x="-112.686" z="-288.029" ay="6.076" />
+                <position x="-111.239" z="-289.110" ay="6.076" />
+                <position x="-118.847" z="-304.298" ay="6.076" />
+                <position x="-112.447" z="-313.587" ay="6.076" />
+            </item>
+            <item No="2" id="BoxClone009024" ay="6.076" amount="8" refreshtime="-1" NotPositive="0" desc="单本书册">
+                <position x="-115.461" z="-310.183" ay="6.076" />
+                <position x="-115.870" z="-310.283" ay="6.076" />
+                <position x="-115.618" z="-304.521" ay="6.076" />
+                <position x="-115.613" z="-304.595" ay="6.076" />
+                <position x="-116.413" z="-304.518" ay="6.076" />
+                <position x="-116.058" z="-299.030" ay="6.076" />
+                <position x="-117.785" z="-298.618" ay="6.076" />
+                <position x="-115.072" z="-293.520" ay="6.076" />
+                <position x="-115.019" z="-293.601" ay="6.076" />
+                <position x="-104.303" z="-282.741" ay="6.076" />
+                <position x="-110.480" z="-289.683" ay="6.076" />
+                <position x="-110.302" z="-289.887" ay="6.076" />
+                <position x="-112.689" z="-287.902" ay="6.076" />
+                <position x="-114.574" z="-299.128" ay="6.076" />
+                <position x="-114.836" z="-299.148" ay="6.076" />
+                <position x="-114.583" z="-299.136" ay="6.076" />
+                <position x="-100.556" z="-322.578" ay="6.076" />
+                <position x="-100.631" z="-322.563" ay="6.076" />
+                <position x="-95.828" z="-324.152" ay="6.076" />
+                <position x="-95.815" z="-324.513" ay="6.076" />
+                <position x="-95.968" z="-325.147" ay="6.076" />
+            </item>
+        </creator>		
+    </randomcreator>
+</object>

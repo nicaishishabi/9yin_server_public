@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="02BFE59F7E2E4C1291E3A609C7B647E0" x="135.703" y="128.095" z="31.477" radius="10.0" WakeupRange="30.0" ChaseRange="27.0" PatrolRange="10.0" SpringRange="20" HateLink="1">
+            <item No="1" id="newschoolwar3_swmon_jlg09" ay="1.205" amount="6" refreshtime="120" NotPositive="0" desc="极乐谷鬼使弟子">
+                <position x="138.630" z="33.062" ay="1.205" />
+                <position x="140.645" z="28.971" ay="1.205" />
+                <position x="134.424" z="26.585" ay="1.205" />
+                <position x="132.598" z="30.550" ay="1.365" />
+                <position x="131.161" z="34.195" ay="1.240" />
+                <position x="136.675" z="36.548" ay="1.205" />
+            </item>
+        </creator>
+        <creator No="BBE8EEC316514AC89C89FC9D57942B1D" x="159.490" y="128.095" z="-23.918" radius="10.0" WakeupRange="30.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="newschoolwar3_swmon_jlg09" ay="1.205" amount="6" refreshtime="120" NotPositive="0" desc="极乐谷鬼使弟子">
+                <position x="163.896" z="-25.353" ay="1.205" />
+                <position x="162.373" z="-22.108" ay="1.205" />
+                <position x="160.629" z="-18.514" ay="1.205" />
+                <position x="155.184" z="-21.383" ay="1.205" />
+                <position x="156.682" z="-24.779" ay="1.205" />
+                <position x="158.217" z="-28.184" ay="1.205" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

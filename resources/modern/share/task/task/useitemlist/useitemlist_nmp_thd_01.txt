@@ -1,0 +1,13 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	ItemID	ProCount	AddPro	TrackInfoID	DeleteSelf	LockTarget	Radius	SceneID	Water	AddItems	DeleteItems	TargetConfig	TaskID
+12807	item_thd_shachongji	3	1	useiteminfo_12807		1	4	286				thd_023	39709
+12800	useitem_thd_cc001	1	1	useiteminfo_12800	1	1	5	286	0			thd_005	39616
+12803	useitem_thd_cc004	1	1	useiteminfo_12803	0	0	5	286	0	item_thd_cc005	item_thd_cc003	EventNpc39625	39625
+12804	useitem_thd_cc005	1	1	useiteminfo_12804	1	0	5	286	1	item_thd_cc007		EventNpc39629	39629
+12805	useitem_thd_cc006	1	1	useiteminfo_12805		0	5	286	0			EventNpc39632	39632
+12808	item_thd_feiliao	3	1	useiteminfo_12808		1	4	286				thd_024	39709
+12809	item_thd_shuihu	3	1	useiteminfo_12809		1	4	286				thd_022	39709
+12810		1				1	10	286		task_thd_010	task_thd_010	task_thd_011	39912
+12802	useitem_thd_cc002	1	1	useiteminfo_12802		0	5	286	0			thd_022	39622
+12801	useitem_thd_cc003	1	1	useiteminfo_12801		0	5	286	0			thd_022	39621
+12806	item_thd_dan	1	1	useiteminfo_12806	1	1	5	286	0			thd_040	39741

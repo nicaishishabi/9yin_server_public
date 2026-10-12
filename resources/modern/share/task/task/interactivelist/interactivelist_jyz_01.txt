@@ -1,0 +1,15 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	NpcId	SceneID	DialogID	GetItems	LostItems	TrackInfo	OkMenu	TaskID	BufferID
+7501	world_jyz_sinei_03	15	DialogID_7501	taskitem_jyz_sinei_06-1	taskitem_jyz_sinei_01-1	interactinfo_7501	okmenu_7501	47010	
+7502	world_jyz_sinei_03	15	DialogID_7502	taskitem_jyz_sinei_07-1	taskitem_jyz_sinei_01-1	interactinfo_7502	okmenu_7502	47011	
+7503	world_jyz_sinei_03	15	DialogID_7503	taskitem_jyz_sinei_08-1	taskitem_jyz_sinei_01-1	interactinfo_7503	okmenu_7503	47012	
+7505	world_jyz_sinei_13	17	DialogID_7505			interactinfo_7505	okmenu_7505	47014,47016,47015	
+7506	world_jyz_sinei_14	14	DialogID_7506			interactinfo_7506	okmenu_7506	47014,47015,47017	
+7507	world_jyz_sinei_12	15	DialogID_7507			interactinfo_7507	okmenu_7507	47016,47015,47017	
+7504	world_jyz_sinei_15	13	DialogID_7504			interactinfo_7504	okmenu_7504	47014,47016,47017	
+7500	world_jyz_sinei_03	15	DialogID_7500	taskitem_jyz_sinei_05-1	taskitem_jyz_sinei_01-1	interactinfo_7500	okmenu_7500	47023	
+7508	Npc_sweetemploy_001	14	DialogID_7508		item_sweetemploy_117	interactinfo_7508	okmenu_7508		
+7509						interactinfo_7509		47044	
+7512	world_jyz_6n_05	15	DialogID_7512	useitem_jyz_6n_01-1		interactinfo_7512	okmenu_7512	47046	
+7511	Event_jyz_6n_47046	15				interactinfo_7511		47046	buf_jyz_dy_02
+7513	Event_jyz_6n_47046a	15				interactinfo_7513			buf_jyz_dy_03

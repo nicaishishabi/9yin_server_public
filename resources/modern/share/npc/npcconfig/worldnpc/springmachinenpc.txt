@@ -1,0 +1,6 @@
+NPC编号	对象类型	名称	隐藏地面贴花	模型编号	头像	类型	NPC种类ID	响应范围	脚本编号	机关npc类型	1：可反复触发，不填默认只能触发1次	初始状态	机关触发后的状态	机关的触发动作	机关的恢复动作	触发后是否需要恢复原来状态0:否    1:是	"默认是否被打开,0:可开启，1：不可开启"	恢复原来状态的时间(ms)	采集动作名	触发读条时间(ms)	触发机关需要物品和提示(物品/个数/扣除表示/不足提示id)	NPC阵营	籍贯	平生	门派	AI编号	巡逻模式	寻路是是否转向	走路速度	跑步速度	路径编号	是否可选中	鼠标形状	机关开启人数（仅SpringMachineNpc可用）（不填则默认为1人）	AI编辑包	是否预载入模型
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	script	Name	HideDecal	Resource	Photo	NpcType	CKindID	SpringRange	LuaScript	MachineNpcType	SpringMode	NormalState	SpringState	SpringAction	ResumeAction	ResumeFlag	UsingFlag	ResumeTime	OpenAction	FlowTime	table@SpringItemList	Camp	Hometown	Story	School	AITemplate	PatrolMode	MotionNoRotate	WalkSpeed	RunSpeed	PathID	SelectState	CursorShape	OpenLessPlayer	AIEditorPackID	PreLoad
+																																				
+																																				
+worldwarlxjg01	SpringMachineNpc	凌霄城城墙据点	1	npc\itemnpc057		173	4	10	npc\clone\worldwar02\worldwarstrongpoint.lua	1	1	closeloop	openloop	open	close	1		10000	interact041													2	5			

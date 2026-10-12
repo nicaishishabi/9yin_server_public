@@ -1,0 +1,128 @@
+NPC编号	对象类型	名称	模型编号	头像	类型	NPC种类ID	响应范围	选择操作分类	脚本编号	缩放比例	AI编辑包	是否预载入
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	script	Name	Resource	Photo	NpcType	CKindID	SpringRange	SelectState	LuaScript	Scale	AIEditorPackID	Preload
+												
+BlockWd0001	BlockNpc	武当门派战空气墙	scenenpc\airwall_square		172	4	0.1	0				1
+BlockGb0001	BlockNpc	丐帮门派战空气墙1	scenenpc\airwall_square		172	4	0.1	0				1
+BlockGb0002	BlockNpc	丐帮门派战空气墙2	npc\fbmac004013		172		0.1	0				1
+BlockSl0001	BlockNpc	少林门派战空气墙	scenenpc\airwall_square		172	4	0.1	0				1
+BlockEm0001	BlockNpc	峨眉门派战空气墙	scenenpc\airwall_square		172	4	0.1	0				1
+BlockJzt0001	BlockNpc	君子堂门派战空气墙	scenenpc\airwall_square		172	4	0.1	0				1
+BlockTm0001	BlockNpc	唐门门派战空气墙	scenenpc\airwall_square		172	4	0.1	0				1
+BlockJlg0001	BlockNpc	极乐谷门派战空气墙	scenenpc\airwall_square		172	4	0.1	0				1
+BlockJyw0001	BlockNpc	锦衣卫门派战空气墙	scenenpc\airwall_square		172	4	0.1	0				1
+BlockJyw0002	BlockNpc	锦衣卫栅栏空气墙	npc\fbmac004013		172	4	0.1	0				1
+												
+												
+BlockWd0011	BlockNpc	帮会建筑透明墙	npc\guilddomainblock		172	4	10	0				1
+guildwar_kuafu_block_01	BlockNpc	帮会擂台空气墙	scenenpc\airwall_square		172	4	0.1	0				
+guildwar_kuafu_block_02	BlockNpc	帮会擂台空气墙	scenenpc\airwall_square		172	4	0.1	0				
+												
+Block_qy_jzt01	BlockNpc	君子堂奇遇空气墙	npc\fbmac004013		172	4	0.1	0				1
+Block_qy_jzt02	BlockNpc	君子堂奇遇空气墙	npc\fbmac004013		172	4	0.1	0				1
+												
+leitai_npc_square_block	BlockNpc	擂台空气墙	scenenpc\airwall_square		172	4	0.1	0				
+												
+BlockSf_wd01	BlockNpc	师门阶位战（武当）	scenenpc\airwall_square		172	4	0.1	0		"1.459,15.0,1.360"		1
+BlockSf_wd02	BlockNpc	师门阶位战（武当）	scenenpc\airwall_square		172	4	0.1	0		"0.993,15.0,0.925"		1
+BlockSf_wd03	BlockNpc	师门阶位战（武当）	scenenpc\airwall_square		172	4	0.1	0		"1.509,15.0,1.410"		1
+BlockSf_sl01	BlockNpc	师门阶位战（少林）	scenenpc\airwall_square		172	4	0.1	0		"1.720,15.0,1.590"		1
+BlockSf_sl02	BlockNpc	师门阶位战（少林）	scenenpc\airwall_square		172	4	0.1	0		"1.06,15.0,1.00"		1
+BlockSf_sl03	BlockNpc	师门阶位战（少林）	scenenpc\airwall_square		172	4	0.1	0		"1.770,15.0,1.640"		1
+BlockSf_em01	BlockNpc	师门阶位战（峨眉）	scenenpc\airwall_square		172	4	0.1	0		"1.323,16.0,1.227"		1
+BlockSf_em02	BlockNpc	师门阶位战（峨眉）	scenenpc\airwall_square		172	4	0.1	0		"1,16.0,1"		1
+BlockSf_em03	BlockNpc	师门阶位战（峨眉）	scenenpc\airwall_square		172	4	0.1	0		"1.373,16.0,1.277"		1
+BlockSf_gb01	BlockNpc	师门阶位战（丐帮）	scenenpc\airwall_square		172	4	0.1	0		"1.310,15.0,1.310"		1
+BlockSf_gb02	BlockNpc	师门阶位战（丐帮）	scenenpc\airwall_square		172	4	0.1	0		"0.672,15.0,0.705"		1
+BlockSf_gb03	BlockNpc	师门阶位战（丐帮）	scenenpc\airwall_square		172	4	0.1	0		"1.360,15.0,1.360"		1
+BlockSf_tm01	BlockNpc	师门阶位战（唐门）	scenenpc\airwall_square		172	4	0.1	0		"1.782,15.0,1.658"		1
+BlockSf_tm02	BlockNpc	师门阶位战（唐门）	scenenpc\airwall_square		172	4	0.1	0		"1.063,15.0,0.994"		1
+BlockSf_tm03	BlockNpc	师门阶位战（唐门）	scenenpc\airwall_square		172	4	0.1	0		"1.832,15.0,1.708"		1
+BlockSf_jzt01	BlockNpc	师门阶位战（君子堂）	scenenpc\airwall_square		172	4	0.1	0		"1.600,15.0,1.600"		1
+BlockSf_jzt02	BlockNpc	师门阶位战（君子堂）	scenenpc\airwall_square		172	4	0.1	0		"1.069,15.0,0.992"		1
+BlockSf_jzt03	BlockNpc	师门阶位战（君子堂）	scenenpc\airwall_square		172	4	0.1	0		"1.650,15.0,1.650"		1
+BlockSf_jlg01	BlockNpc	师门阶位战（极乐谷）	scenenpc\airwall_square		172	4	0.1	0		"1.450,15.0,1.450"		1
+BlockSf_jlg02	BlockNpc	师门阶位战（极乐谷）	scenenpc\airwall_square		172	4	0.1	0		"0.920,15.0,0.859"		1
+BlockSf_jlg03	BlockNpc	师门阶位战（极乐谷）	scenenpc\airwall_square		172	4	0.1	0		"1.500,15.0,1.500"		1
+BlockSf_jyw01	BlockNpc	师门阶位战（锦衣卫）	scenenpc\airwall_square		172	4	0.1	0		"1.360,15.0,1.321"		1
+BlockSf_jyw02	BlockNpc	师门阶位战（锦衣卫）	scenenpc\airwall_square		172	4	0.1	0		"1.052,15.0,1.052"		1
+BlockSf_jyw03	BlockNpc	师门阶位战（锦衣卫）	scenenpc\airwall_square		172	4	0.1	0		"1.410,15.0,1.371"		1
+BlockSf_mj01	BlockNpc	师门阶位战（明教）	scenenpc\airwall_square		172	4	0.1	0		"1.459,15.0,1.360"		1
+BlockSf_mj02	BlockNpc	师门阶位战（明教）	scenenpc\airwall_square		172	4	0.1	0		"0.993,15.0,0.925"		1
+BlockSf_mj03	BlockNpc	师门阶位战（明教）	scenenpc\airwall_square		172	4	0.1	0		"1.509,15.0,1.410"		1
+BlockSf_tsp01	BlockNpc	师门阶位战（天山派）	scenenpc\airwall_square		172	4	0.1	0		"1.428,15.0,1.262"		1
+BlockSf_tsp02	BlockNpc	师门阶位战（天山派）	scenenpc\airwall_square		172	4	0.1	0		"0.993,15.0,0.925"		1
+BlockSf_tsp03	BlockNpc	师门阶位战（天山派）	scenenpc\airwall_square		172	4	0.1	0		"1.550,15.0,1.350"		1
+BlockSf_guj01	BlockNpc	星渺阁（活动）	scenenpc\airwall_square		172	4	0.1	0		"4.823,146.310,3.440"		1
+BlockSf_kl01	BlockNpc	师门阶位战（昆仑）	scenenpc\airwall_square		172	4	0.1	0		"1.428,15.0,1.262"		1
+BlockSf_kl02	BlockNpc	师门阶位战（昆仑）	scenenpc\airwall_square		172	4	0.1	0		"0.993,15.0,0.925"		1
+BlockSf_kl03	BlockNpc	师门阶位战（昆仑）	scenenpc\airwall_square		172	4	0.1	0		"1.550,15.0,1.350"		1
+												
+	//新手引导											
+Block_yd_qd01	BlockNpc	吐息草	npc\cj_160250b1		167	4	0.1	0				
+Block_yd_yyz01	BlockNpc	水莲株	npc\cj_150300c		167	4	0.1	0				
+Block_yd_jmy01	BlockNpc	沙袋	npc\itemnpc165		167	4	0.1	0				
+Block_yd_ly01	BlockNpc	沙袋	npc\itemnpc165		167	4	0.1	0				
+												
+	//擂台盖子											
+Block_leitai01	BlockNpc	擂台盖子	npc\block_competition		172	4	0.1	0	npc\block_npc.lua			1
+												
+	//徐家庄应战玩法											
+tiguan_dr1	BlockNpc	特效	npc\itemnpc057_tg1		52	4	0.1	0				
+tiguan_dr1_1	BlockNpc	特效	npc\itemnpc057_tg1		52	4	0.1	0				
+tiguan_dr1_2	BlockNpc	特效	npc\itemnpc057_tg1		52	4	0.1	0				
+tiguan_dr2	BlockNpc	特效	npc\itemnpc057_tg2		52	4	0.1	0				
+tiguan_dr2_1	BlockNpc	特效	npc\itemnpc057_tg2		52	4	0.1	0				
+tiguan_dr2_2	BlockNpc	特效	npc\itemnpc057_tg2		52	4	0.1	0				
+												
+Block_jzsj_01	BlockNpc	金针沈家空气墙	scenenpc\airwall_square		172	4	0.1	0				
+Block_jzsj_02	BlockNpc	金针沈家门	npc\itemnpc573		172	4	0.1	0				
+Block_gmpwb_001	BlockNpc	古墓派迷宫探宝	scenenpc\airwall_square		172	4	0.1	0				1
+												
+Block_jiebai_001	BlockNpc	结拜封门	npc\fbmac004013		172	4	0.1	0		"3.112,1.0,1.0"		1
+Block_outland	BlockNpc	恶人谷封门	scenenpc\airwall_square		172	4	0.1	0		"1.7,1.0,1.0"		
+	//三盟争霸-空气墙											
+Block_tianwei	BlockNpc	天威盟空气墙	scenenpc\airwall_square		172	4	0.1	0		"0.4,1.0,0.4"		1
+Block_tianwu	BlockNpc	天武盟空气墙	scenenpc\airwall_square		172	4	0.1	0		"0.4,1.0,0.4"		1
+Block_tianqi	BlockNpc	天启盟空气墙	scenenpc\airwall_square		172	4	0.1	0		"0.4,1.0,0.4"		1
+												
+												
+	//武道大会-空气墙											
+Block_wudaodahui_team1	BlockNpc	天威盟空气墙	scenenpc\airwall_square		172	4	0.1	0		"0.4,1.0,0.4"		1
+Block_wudaodahui_team2	BlockNpc	天武盟空气墙	scenenpc\airwall_square		172	4	0.1	0		"0.4,1.0,0.4"		1
+												
+	//江湖乱斗空气墙											
+Block_choswar_01	BlockNpc	江湖乱斗空气墙	scenenpc\airwall_square		172	4	0.1	0		"3.458,9.860,1.713"		1
+Block_choswar_02	BlockNpc	江湖乱斗空气墙	scenenpc\airwall_square		172	4	0.1	0		"3.458,9.860,1.713"		1
+												
+	//明教门派战-空气墙											
+BlockMj0001	BlockNpc	明教门派战空气墙	scenenpc\airwall_square		172	4	0.1	0				1
+												
+	//天山门派战-空气墙											
+BlockTsp0001	BlockNpc	天山派门派战空气墙	scenenpc\airwall_square		172	4	0.1	0				1
+												
+	//帮会竞技空气墙											
+Block_guildbattle_1	BlockNpc	帮会竞技空气墙	scenenpc\airwall_square		172	4	0.1	0		"0.8,2,0.8"		1
+												
+Block_gujxmg_001	BlockNpc	封门	npc\fbmac004013		172	4	0.1	0		"11.82,39.68,1.0"		1
+Block_gujxmg_002	BlockNpc	封门	npc\fbmac004013		172	4	0.1	0		"8.855,40.16,1.0"		1
+Block_gujxmg_003	BlockNpc	封门	npc\fbmac004013		172	4	0.1	0		"8.855,39.39,1.0"		1
+Block_gujxmg_004	BlockNpc	封门	npc\fbmac004013		172	4	0.1	0		"11.745,39.36,1.0"		1
+												
+	//门派战-空气墙											
+Block_gongji	BlockNpc	攻击方空气墙	scenenpc\airwall_square		172	4	0.1	0		"0.4,1.0,0.4"		1
+Block_fangshou	BlockNpc	防守方空气墙	scenenpc\airwall_square		172	4	0.1	0		"0.4,1.0,0.4"		1
+Block_gongji_01	BlockNpc	攻击方空气墙	scenenpc\airwall_square		172	4	0.1	0		"0.4,1.0,0.4"		1
+Block_fangshou_01	BlockNpc	防守方空气墙	scenenpc\airwall_square		172	4	0.1	0		"0.4,1.0,0.4"		1
+												
+	//隐麟棋局-空气墙											
+Block_lzy_ylqj001	BlockNpc	准备阶段空气墙	scenenpc\airwall_square		172	4	0.1	0		"0.633,9,0.969"		1
+Block_lzy_ylqj002	BlockNpc	房间空气墙	scenenpc\airwall_square		172	4	0.1	0		"1,15,0.931"		1
+Block_lzy_ylqj003	BlockNpc	房间空气墙	scenenpc\airwall_square		172	4	0.1	0		"2.03,9,2.03"		1
+												
+Block_gujbhhd_001	BlockNpc	封门	npc\fbmac004013		172	4	0.1	0		"1.93,1.93,0.263"		1
+												
+	//帮会对决空气墙											
+Block_guildbattle_2021122	BlockNpc	帮会竞技空气墙	scenenpc\airwall_square		172	4	0.1	0		"0.8,2,0.8"	5882	1
+												
+Block_gujjjgc_001	BlockNpc	封门	scenenpc\airwall_square		172	4	0.1	0		"6.8,30.8,6.8"		1

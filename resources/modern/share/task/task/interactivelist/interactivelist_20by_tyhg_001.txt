@@ -1,0 +1,62 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	NpcId	SceneID	DialogID	GetItems	LostItems	TrackInfo	OkMenu	TaskID	HideNpcID	BufferID
+76201	Gather_tyhgtsjw_guj001	456	DialogID_76201			interactinfo_76201	okmenu_76201	76201		
+76202	newmp_tyhg_007	456	DialogID_76202	useItem_tyhgzyb_001-1		interactinfo_76202	okmenu_76202	76203		
+76203	newmp_tyhg_007	456	DialogID_76203	useItem_tyhgzyb_003-1		interactinfo_76203	okmenu_76203	76204		
+76204	newmp_tyhg_007	456	DialogID_76204		item_tyhgzyb_001-1	interactinfo_76204	okmenu_76204	76204		
+76205	eventnpc_tyhgzyb_002	456				interactinfo_76205		76205		
+76211										
+76206	eventnpc_tyhgzyb_003	456				interactinfo_76206		76208		
+76214	Eventnpc_ty_dy_01	448				interactinfo_76214		76233		buff_ty_dy_02
+76215	Eventnpc_ty_dy_02	448				interactinfo_76215		76234		buff_ty_dy_03
+76217	npc_ty_dy_03	448	DialogID_76217	useitem_ty_dy_01-1		interactinfo_76217	okmenu_76217	76234		
+76218	npc_ty_dy_05	448	DialogID_76218		item_ty_dy_01-1	interactinfo_76218	okmenu_76218	76236		
+76219	Eventnpc_ty_dy_04	448				interactinfo_76219		76236		buff_ty_dy_06
+76235	npc_ty_dy_12	448	DialogID_76235		item_ty_dy_02-1|item_ty_dy_03-1|item_ty_dy_04-1|item_ty_dy_05-1	interactinfo_76235	okmenu_76235	76239		
+76236	npc_ty_dy_13	219	DialogID_76236			interactinfo_76236	okmenu_76236	76240		
+76237	Eventnpc_ty_dy_07	219				interactinfo_76237		76240		buff_ty_dy_15
+76238	npc_ty_dy_21	15		item_ty_dy_06-1		interactinfo_76238				
+76240	Eventnpc_ty_dy_05	456				interactinfo_76240		76245		
+76207	tyhgzyb_new_013	456	DialogID_76207			interactinfo_76207	okmenu_76207	76213		
+76208	eventnpc_tyhgzyb_005	456				interactinfo_76208		76215		
+76209	tyhgzyb_new_022	456	DialogID_76209			interactinfo_76209	okmenu_76209	76218		
+76210	tyhgzyb_new_024	456	DialogID_76210		item_tyhgzyb_004-1;item_tyhgzyb_005-1	interactinfo_76210	okmenu_76210	76219		
+76241	eventnpc_tyhgzyb_004	456				interactinfo_76241		76209		
+76239	npc_ty_dy_21	15	DialogID_76239	useitem_ty_dy_04-1		interactinfo_76239	okmenu_76239	76245		
+76212	npc_ty_dy_01	448	DialogID_76212			interactinfo_76212	okmenu_76212	76233		buff_ty_dy_01
+76216	npc_ty_dy_02	448	DialogID_76216			interactinfo_76216	okmenu_76216	76234		
+76234	npc_ty_dy_06	448	DialogID_76234			interactinfo_76234	okmenu_76234	76237		
+76213	PlotDoor_ty_dy_01	448				interactinfo_76213				
+76242	Eventnpc_ty_dy_06					interactinfo_76242		76247		buff_ty_dy_13
+76220	npc_ty_dy_07	219	DialogID_76220	item_ty_dy_02-1		interactinfo_76220	okmenu_76220	76238		
+76221	npc_ty_dy_08	219	DialogID_76221	item_ty_dy_03-1		interactinfo_76221	okmenu_76221	76238		
+76222	npc_ty_dy_09	219	DialogID_76222	item_ty_dy_04-1		interactinfo_76222	okmenu_76222	76238		
+76223	npc_ty_dy_10	219	DialogID_76223	item_ty_dy_05-1		interactinfo_76223	okmenu_76223	76238		
+76243			DialogID_76243			interactinfo_76243	okmenu_76243	76299		
+76244			DialogID_76244			interactinfo_76244	okmenu_76244	76300		
+76245	tyhgzyb_new_003	456	DialogID_76245			interactinfo_76245	okmenu_76245			
+76246	tyhgzyb_new_004	456	DialogID_76246			interactinfo_76246	okmenu_76246			
+76247	tyhgzyb_new_005	456	DialogID_76247			interactinfo_76247	okmenu_76247			
+76248	tyhgzyb_new_006	456	DialogID_76248			interactinfo_76248	okmenu_76248			
+76251	newmp_gujtls_004	471	DialogID_76251		item_tl_fc_001-50	interactinfo_76251	okmenu_76251			
+76252	newmp_gujtls_004	471	DialogID_76252		item_tl_fc_001-30	interactinfo_76252	okmenu_76252			
+76253	newmp_gujtls_004	471	DialogID_76253		item_tl_fc_001-10	interactinfo_76253	okmenu_76253			
+76256	newmp_gujtls_004	471	DialogID_76256		item_tl_fc_001-80	interactinfo_76256	okmenu_76256			
+76257	newmp_gujtls_004	471	DialogID_76257		item_tl_fc_001-50	interactinfo_76257	okmenu_76257			
+76258	newmp_gujtls_004	471	DialogID_76258		item_tl_fc_001-20	interactinfo_76258	okmenu_76258			
+76260	newmp_gujtls_004	471	DialogID_76260		item_tl_fc_001-100	interactinfo_76260	okmenu_76260			
+76261	newmp_gujtls_004	471	DialogID_76261		item_tl_fc_001-70	interactinfo_76261	okmenu_76261			
+76262	newmp_gujtls_004	471	DialogID_76262		item_tl_fc_001-30	interactinfo_76262	okmenu_76262			
+76263	newmp_gujtls_004	471	DialogID_76263		item_tl_fc_001-10	interactinfo_76263	okmenu_76263			
+76264	newmp_gujtls_004	471	DialogID_76264		item_tl_fc_001-10	interactinfo_76264	okmenu_76264			
+76270	newmp_gujqyg_004	486	DialogID_76270		item_qy_fc_001-50	interactinfo_76270	okmenu_76270			
+76271	newmp_gujqyg_004	486	DialogID_76271		item_qy_fc_001-30	interactinfo_76271	okmenu_76271			
+76272	newmp_gujqyg_004	486	DialogID_76272		item_qy_fc_001-10	interactinfo_76272	okmenu_76272			
+76274	newmp_gujqyg_004	486	DialogID_76274		item_qy_fc_001-80	interactinfo_76274	okmenu_76274			
+76275	newmp_gujqyg_004	486	DialogID_76275		item_qy_fc_001-50	interactinfo_76275	okmenu_76275			
+76276	newmp_gujqyg_004	486	DialogID_76276		item_qy_fc_001-20	interactinfo_76276	okmenu_76276			
+76278	newmp_gujqyg_004	486	DialogID_76278		item_qy_fc_001-100	interactinfo_76278	okmenu_76278			
+76279	newmp_gujqyg_004	486	DialogID_76279		item_qy_fc_001-70	interactinfo_76279	okmenu_76279			
+76280	newmp_gujqyg_004	486	DialogID_76280		item_qy_fc_001-30	interactinfo_76280	okmenu_76280			
+76281	newmp_gujqyg_004	286	DialogID_76281		item_qy_fc_001-10	interactinfo_76281	okmenu_76281			
+76282	newmp_gujqyg_004	486	DialogID_76282		item_qy_fc_001-10	interactinfo_76282	okmenu_76282			

@@ -1,0 +1,2556 @@
+{
+  "format_version": 2,
+  "client_module": "bin64/fxnet2.dll",
+  "client_module_size": 6496528,
+  "receive_dispatch": "0x1061BC90",
+  "entries": [
+    {
+      "opcode": 1,
+      "opcode_hex": "0x01",
+      "direction": "server_to_client",
+      "handler": "sub_106155D0",
+      "name": null,
+      "callbacks": [
+        "on_set_verify"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 13
+      },
+      "layout": null,
+      "observed_fixed_reads": [
+        {
+          "offset": 1,
+          "types": [
+            "u32le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 5,
+          "types": [
+            "u32_or_f32_le",
+            "u32le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 9,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 13,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 17,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 21,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_106155D0"
+      },
+      "status": "proven_dispatch"
+    },
+    {
+      "opcode": 2,
+      "opcode_hex": "0x02",
+      "direction": "server_to_client",
+      "handler": "sub_106158E0",
+      "name": null,
+      "callbacks": [
+        "on_set_encode"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 62
+      },
+      "layout": null,
+      "observed_fixed_reads": [],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_106158E0"
+      },
+      "status": "proven_dispatch"
+    },
+    {
+      "opcode": 3,
+      "opcode_hex": "0x03",
+      "direction": "server_to_client",
+      "handler": "sub_106159F0",
+      "name": null,
+      "callbacks": [
+        "on_error_code"
+      ],
+      "length": {
+        "kind": "exact",
+        "value": 5
+      },
+      "layout": [
+        {
+          "offset": 0,
+          "type": "u8",
+          "name": "opcode"
+        },
+        {
+          "offset": 1,
+          "type": "u32le",
+          "name": "error_code"
+        }
+      ],
+      "observed_fixed_reads": [
+        {
+          "offset": 1,
+          "types": [
+            "u32le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_106159F0"
+      },
+      "status": "layout_proven"
+    },
+    {
+      "opcode": 4,
+      "opcode_hex": "0x04",
+      "direction": "server_to_client",
+      "handler": "sub_10615B40",
+      "name": null,
+      "callbacks": [
+        "on_login_succeed"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 41
+      },
+      "layout": null,
+      "observed_fixed_reads": [
+        {
+          "offset": 1,
+          "types": [
+            "u32le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 5,
+          "types": [
+            "u32le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 9,
+          "types": [
+            "u32le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 13,
+          "types": [
+            "u32_or_f32_le",
+            "u32le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 17,
+          "types": [
+            "u32_or_f32_le",
+            "u32le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 21,
+          "types": [
+            "u32_or_f32_le",
+            "u32le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 25,
+          "types": [
+            "u32_or_f32_le",
+            "u32le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 29,
+          "types": [
+            "u32_or_f32_le",
+            "u32le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 37,
+          "types": [
+            "u32_or_f32_le",
+            "u32le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_10615B40"
+      },
+      "status": "proven_dispatch"
+    },
+    {
+      "opcode": 5,
+      "opcode_hex": "0x05",
+      "direction": "server_to_client",
+      "handler": "sub_106167B0",
+      "name": null,
+      "callbacks": [
+        "on_world_info"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 5
+      },
+      "layout": null,
+      "observed_fixed_reads": [
+        {
+          "offset": 1,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_106167B0"
+      },
+      "status": "proven_dispatch"
+    },
+    {
+      "opcode": 6,
+      "opcode_hex": "0x06",
+      "direction": "server_to_client",
+      "handler": "sub_10618160",
+      "name": null,
+      "callbacks": [
+        "on_idle"
+      ],
+      "length": {
+        "kind": "exact",
+        "value": 1
+      },
+      "layout": [
+        {
+          "offset": 0,
+          "type": "u8",
+          "name": "opcode"
+        }
+      ],
+      "observed_fixed_reads": [],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_10618160"
+      },
+      "status": "layout_proven"
+    },
+    {
+      "opcode": 7,
+      "opcode_hex": "0x07",
+      "direction": "server_to_client",
+      "handler": "sub_10618570",
+      "name": null,
+      "callbacks": [
+        "on_queue"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 13
+      },
+      "layout": null,
+      "observed_fixed_reads": [
+        {
+          "offset": 1,
+          "types": [
+            "u32le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 5,
+          "types": [
+            "u32le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 9,
+          "types": [
+            "u32le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_10618570"
+      },
+      "status": "proven_dispatch"
+    },
+    {
+      "opcode": 8,
+      "opcode_hex": "0x08",
+      "direction": "server_to_client",
+      "handler": "sub_10616920",
+      "name": null,
+      "callbacks": [
+        "on_terminate"
+      ],
+      "length": {
+        "kind": "exact",
+        "value": 5
+      },
+      "layout": [
+        {
+          "offset": 0,
+          "type": "u8",
+          "name": "opcode"
+        },
+        {
+          "offset": 1,
+          "type": "u32le",
+          "name": "reason"
+        }
+      ],
+      "observed_fixed_reads": [
+        {
+          "offset": 1,
+          "types": [
+            "u32le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_10616920"
+      },
+      "status": "layout_proven"
+    },
+    {
+      "opcode": 9,
+      "opcode_hex": "0x09",
+      "direction": "server_to_client",
+      "handler": "sub_10616A70",
+      "name": null,
+      "callbacks": [
+        "on_property_table"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 3
+      },
+      "layout": [
+        {
+          "offset": 0,
+          "type": "u8",
+          "name": "opcode"
+        },
+        {
+          "offset": 1,
+          "type": "u16le",
+          "name": "property_count"
+        },
+        {
+          "offset": 3,
+          "type": "repeated",
+          "name": "entries",
+          "item": "nul_terminated_name_then_u8_type"
+        }
+      ],
+      "observed_fixed_reads": [
+        {
+          "offset": 1,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_10616A70",
+        "layout": "fxnet2 sub_10616A70: u16 count@1; repeated (nul-name, u8 type)"
+      },
+      "status": "layout_proven"
+    },
+    {
+      "opcode": 10,
+      "opcode_hex": "0x0A",
+      "direction": "server_to_client",
+      "handler": "sub_10616D60",
+      "name": null,
+      "callbacks": [
+        "on_record_table"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 3
+      },
+      "layout": [
+        {
+          "offset": 0,
+          "type": "u8",
+          "name": "opcode"
+        },
+        {
+          "offset": 1,
+          "type": "u16le",
+          "name": "record_count"
+        },
+        {
+          "offset": 3,
+          "type": "repeated",
+          "name": "record_schema",
+          "item": "record_schema_entry"
+        }
+      ],
+      "observed_fixed_reads": [
+        {
+          "offset": 1,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_10616D60",
+        "layout": "fxnet2 sub_10616D60: u16 count@1; repeated record schema"
+      },
+      "status": "layout_proven"
+    },
+    {
+      "opcode": 11,
+      "opcode_hex": "0x0B",
+      "direction": "server_to_client",
+      "handler": "sub_1060D810",
+      "name": "ServerEntryScene",
+      "callbacks": [
+        "on_entry_scene"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 15
+      },
+      "layout": [
+        {
+          "offset": 0,
+          "type": "u8",
+          "name": "opcode"
+        },
+        {
+          "offset": 1,
+          "type": "u32le",
+          "name": "player_ident_low"
+        },
+        {
+          "offset": 5,
+          "type": "u32le",
+          "name": "player_ident_high"
+        },
+        {
+          "offset": 9,
+          "type": "u32le",
+          "name": "scene_serial"
+        },
+        {
+          "offset": 13,
+          "type": "u16le",
+          "name": "property_count"
+        },
+        {
+          "offset": 15,
+          "type": "property_archive",
+          "name": "properties"
+        }
+      ],
+      "observed_fixed_reads": [
+        {
+          "offset": 13,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_1060D810"
+      },
+      "status": "layout_proven"
+    },
+    {
+      "opcode": 12,
+      "opcode_hex": "0x0C",
+      "direction": "server_to_client",
+      "handler": "sub_1060DA60",
+      "name": "ServerExitScene",
+      "callbacks": [
+        "on_exit_scene"
+      ],
+      "length": {
+        "kind": "exact",
+        "value": 1
+      },
+      "layout": [
+        {
+          "offset": 0,
+          "type": "u8",
+          "name": "opcode"
+        }
+      ],
+      "observed_fixed_reads": [],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_1060DA60"
+      },
+      "status": "layout_proven"
+    },
+    {
+      "opcode": 13,
+      "opcode_hex": "0x0D",
+      "direction": "server_to_client",
+      "handler": "sub_1060DBC0",
+      "name": "ServerAddObject",
+      "callbacks": [
+        "on_add_object"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 63
+      },
+      "layout": [
+        {
+          "offset": 0,
+          "type": "u8",
+          "name": "opcode"
+        },
+        {
+          "offset": 1,
+          "type": "u32le",
+          "name": "ident_low"
+        },
+        {
+          "offset": 5,
+          "type": "u32le",
+          "name": "ident_high"
+        },
+        {
+          "offset": 9,
+          "type": "f32le",
+          "name": "x"
+        },
+        {
+          "offset": 13,
+          "type": "f32le",
+          "name": "y"
+        },
+        {
+          "offset": 17,
+          "type": "f32le",
+          "name": "z"
+        },
+        {
+          "offset": 21,
+          "type": "f32le",
+          "name": "orient"
+        },
+        {
+          "offset": 25,
+          "type": "f32le[9]",
+          "name": "motion_block"
+        },
+        {
+          "offset": 61,
+          "type": "u16le",
+          "name": "property_count"
+        },
+        {
+          "offset": 63,
+          "type": "property_archive",
+          "name": "properties"
+        }
+      ],
+      "observed_fixed_reads": [
+        {
+          "offset": 9,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 13,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 17,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 21,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 25,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 29,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 33,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 37,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 41,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 45,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 49,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 53,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 57,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 61,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_1060DBC0",
+        "layout": "fxnet2 sub_1060DBC0: min 0x3F; transform at +9..; prop count u16@61 archive@63"
+      },
+      "status": "layout_proven"
+    },
+    {
+      "opcode": 14,
+      "opcode_hex": "0x0E",
+      "direction": "server_to_client",
+      "handler": "sub_1060DEE0",
+      "name": "ServerRemoveObject",
+      "callbacks": [
+        "on_before_remove_object",
+        "on_remove_object"
+      ],
+      "length": {
+        "kind": "exact",
+        "value": 9
+      },
+      "layout": [
+        {
+          "offset": 0,
+          "type": "u8",
+          "name": "opcode"
+        },
+        {
+          "offset": 1,
+          "type": "u32le",
+          "name": "ident_low"
+        },
+        {
+          "offset": 5,
+          "type": "u32le",
+          "name": "ident_high"
+        }
+      ],
+      "observed_fixed_reads": [],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_1060DEE0"
+      },
+      "status": "layout_proven"
+    },
+    {
+      "opcode": 15,
+      "opcode_hex": "0x0F",
+      "direction": "server_to_client",
+      "handler": "sub_1060E1D0",
+      "name": "ServerSceneProperty",
+      "callbacks": [
+        "on_scene_property"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 3
+      },
+      "layout": [
+        {
+          "offset": 0,
+          "type": "u8",
+          "name": "opcode"
+        },
+        {
+          "offset": 1,
+          "type": "u16le",
+          "name": "property_count"
+        },
+        {
+          "offset": 3,
+          "type": "property_archive",
+          "name": "properties"
+        }
+      ],
+      "observed_fixed_reads": [
+        {
+          "offset": 1,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_1060E1D0"
+      },
+      "status": "layout_proven"
+    },
+    {
+      "opcode": 16,
+      "opcode_hex": "0x10",
+      "direction": "server_to_client",
+      "handler": "sub_1060E3B0",
+      "name": "ServerObjectProperty",
+      "callbacks": [
+        "on_object_property",
+        "on_viewobj_property"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 12
+      },
+      "layout": [
+        {
+          "offset": 0,
+          "type": "u8",
+          "name": "opcode"
+        },
+        {
+          "offset": 1,
+          "type": "u8",
+          "name": "is_view_object"
+        },
+        {
+          "offset": 2,
+          "type": "u32le",
+          "name": "ident_low_or_view_id"
+        },
+        {
+          "offset": 6,
+          "type": "u32le",
+          "name": "ident_high_or_object_id"
+        },
+        {
+          "offset": 10,
+          "type": "u16le",
+          "name": "property_count"
+        },
+        {
+          "offset": 12,
+          "type": "property_archive",
+          "name": "properties"
+        }
+      ],
+      "observed_fixed_reads": [
+        {
+          "offset": 1,
+          "types": [
+            "u8"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 10,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_1060E3B0"
+      },
+      "status": "layout_proven"
+    },
+    {
+      "opcode": 17,
+      "opcode_hex": "0x11",
+      "direction": "server_to_client",
+      "handler": "sub_1060F980",
+      "name": "ServerRecordAddRow",
+      "callbacks": [
+        "on_record_add_row",
+        "on_scene_record_add_row",
+        "on_view_record_add_row",
+        "on_viewobj_record_add_row"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 16
+      },
+      "layout": [
+        {
+          "offset": 0,
+          "type": "u8",
+          "name": "opcode"
+        },
+        {
+          "offset": 1,
+          "type": "u32le",
+          "name": "ident_low"
+        },
+        {
+          "offset": 5,
+          "type": "u32le",
+          "name": "ident_high"
+        },
+        {
+          "offset": 9,
+          "type": "u16le",
+          "name": "record_index"
+        },
+        {
+          "offset": 11,
+          "type": "u16le",
+          "name": "row"
+        },
+        {
+          "offset": 13,
+          "type": "u8",
+          "name": "flags"
+        },
+        {
+          "offset": 14,
+          "type": "record_row_cells",
+          "name": "cells"
+        }
+      ],
+      "observed_fixed_reads": [
+        {
+          "offset": 1,
+          "types": [
+            "u8"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 10,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 12,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 14,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_1060F980"
+      },
+      "status": "layout_proven"
+    },
+    {
+      "opcode": 18,
+      "opcode_hex": "0x12",
+      "direction": "server_to_client",
+      "handler": "sub_10610660",
+      "name": "ServerRecordDelRow",
+      "callbacks": [
+        "on_record_before_remove_row",
+        "on_record_remove_row",
+        "on_scene_record_before_remove_row",
+        "on_scene_record_remove_row",
+        "on_view_record_before_remove_row",
+        "on_view_record_remove_row",
+        "on_viewobj_record_before_remove_row",
+        "on_viewobj_record_remove_row"
+      ],
+      "length": {
+        "kind": "exact",
+        "value": 14
+      },
+      "layout": [
+        {
+          "offset": 0,
+          "type": "u8",
+          "name": "opcode"
+        },
+        {
+          "offset": 1,
+          "type": "u32le",
+          "name": "ident_low"
+        },
+        {
+          "offset": 5,
+          "type": "u32le",
+          "name": "ident_high"
+        },
+        {
+          "offset": 9,
+          "type": "u16le",
+          "name": "record_index"
+        },
+        {
+          "offset": 11,
+          "type": "u16le",
+          "name": "row"
+        }
+      ],
+      "observed_fixed_reads": [
+        {
+          "offset": 1,
+          "types": [
+            "u8"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 6,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 10,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 12,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_10610660"
+      },
+      "status": "layout_proven"
+    },
+    {
+      "opcode": 19,
+      "opcode_hex": "0x13",
+      "direction": "server_to_client",
+      "handler": "sub_106116B0",
+      "name": "ServerRecordGrid",
+      "callbacks": [
+        "on_record_grid",
+        "on_scene_record_grid",
+        "on_view_record_grid",
+        "on_viewobj_record_grid"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 14
+      },
+      "layout": null,
+      "observed_fixed_reads": [
+        {
+          "offset": 1,
+          "types": [
+            "u8"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 2,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 6,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 10,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 12,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_106116B0"
+      },
+      "status": "proven_dispatch"
+    },
+    {
+      "opcode": 20,
+      "opcode_hex": "0x14",
+      "direction": "server_to_client",
+      "handler": "sub_106122C0",
+      "name": "ServerRecordClear",
+      "callbacks": [
+        "on_record_clear",
+        "on_scene_record_clear",
+        "on_view_record_clear",
+        "on_viewobj_record_clear"
+      ],
+      "length": {
+        "kind": "exact",
+        "value": 12
+      },
+      "layout": [
+        {
+          "offset": 0,
+          "type": "u8",
+          "name": "opcode"
+        },
+        {
+          "offset": 1,
+          "type": "u32le",
+          "name": "ident_low"
+        },
+        {
+          "offset": 5,
+          "type": "u32le",
+          "name": "ident_high"
+        },
+        {
+          "offset": 9,
+          "type": "u16le",
+          "name": "record_index"
+        }
+      ],
+      "observed_fixed_reads": [
+        {
+          "offset": 1,
+          "types": [
+            "u8"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 10,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_106122C0"
+      },
+      "status": "layout_proven"
+    },
+    {
+      "opcode": 21,
+      "opcode_hex": "0x15",
+      "direction": "server_to_client",
+      "handler": "sub_1060E8A0",
+      "name": "ServerCreateView",
+      "callbacks": [
+        "on_create_view"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 7
+      },
+      "layout": [
+        {
+          "offset": 0,
+          "type": "u8",
+          "name": "opcode"
+        },
+        {
+          "offset": 1,
+          "type": "u16le",
+          "name": "view_id"
+        },
+        {
+          "offset": 3,
+          "type": "u16le",
+          "name": "view_type"
+        },
+        {
+          "offset": 5,
+          "type": "u16le",
+          "name": "property_count"
+        },
+        {
+          "offset": 7,
+          "type": "property_archive",
+          "name": "properties"
+        }
+      ],
+      "observed_fixed_reads": [
+        {
+          "offset": 3,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 5,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_1060E8A0"
+      },
+      "status": "layout_proven"
+    },
+    {
+      "opcode": 22,
+      "opcode_hex": "0x16",
+      "direction": "server_to_client",
+      "handler": "sub_1060EB00",
+      "name": "ServerDeleteView",
+      "callbacks": [
+        "on_delete_view"
+      ],
+      "length": {
+        "kind": "exact",
+        "value": 3
+      },
+      "layout": [
+        {
+          "offset": 0,
+          "type": "u8",
+          "name": "opcode"
+        },
+        {
+          "offset": 1,
+          "type": "u16le",
+          "name": "view_id"
+        }
+      ],
+      "observed_fixed_reads": [],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_1060EB00"
+      },
+      "status": "layout_proven"
+    },
+    {
+      "opcode": 23,
+      "opcode_hex": "0x17",
+      "direction": "server_to_client",
+      "handler": "sub_1060EDA0",
+      "name": "ServerViewProperty",
+      "callbacks": [
+        "on_view_property"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 5
+      },
+      "layout": null,
+      "observed_fixed_reads": [
+        {
+          "offset": 3,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_1060EDA0"
+      },
+      "status": "proven_dispatch"
+    },
+    {
+      "opcode": 24,
+      "opcode_hex": "0x18",
+      "direction": "server_to_client",
+      "handler": "sub_1060F070",
+      "name": "ServerViewAdd",
+      "callbacks": [
+        "on_view_add"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 7
+      },
+      "layout": [
+        {
+          "offset": 0,
+          "type": "u8",
+          "name": "opcode"
+        },
+        {
+          "offset": 1,
+          "type": "u16le",
+          "name": "view_id"
+        },
+        {
+          "offset": 3,
+          "type": "u16le",
+          "name": "view_object_id"
+        },
+        {
+          "offset": 5,
+          "type": "u16le",
+          "name": "property_count"
+        },
+        {
+          "offset": 7,
+          "type": "property_archive",
+          "name": "properties"
+        }
+      ],
+      "observed_fixed_reads": [
+        {
+          "offset": 5,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_1060F070"
+      },
+      "status": "layout_proven"
+    },
+    {
+      "opcode": 25,
+      "opcode_hex": "0x19",
+      "direction": "server_to_client",
+      "handler": "sub_1060F390",
+      "name": "ServerViewRemove",
+      "callbacks": [
+        "on_view_remove"
+      ],
+      "length": {
+        "kind": "exact",
+        "value": 5
+      },
+      "layout": [
+        {
+          "offset": 0,
+          "type": "u8",
+          "name": "opcode"
+        },
+        {
+          "offset": 1,
+          "type": "u16le",
+          "name": "view_id"
+        },
+        {
+          "offset": 3,
+          "type": "u16le",
+          "name": "view_object_id"
+        }
+      ],
+      "observed_fixed_reads": [],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_1060F390"
+      },
+      "status": "layout_proven"
+    },
+    {
+      "opcode": 26,
+      "opcode_hex": "0x1A",
+      "direction": "server_to_client",
+      "handler": "sub_10617170",
+      "name": null,
+      "callbacks": [
+        "on_speech"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 11
+      },
+      "layout": null,
+      "observed_fixed_reads": [
+        {
+          "offset": 1,
+          "types": [
+            "u32le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 5,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_10617170"
+      },
+      "status": "proven_dispatch"
+    },
+    {
+      "opcode": 27,
+      "opcode_hex": "0x1B",
+      "direction": "server_to_client",
+      "handler": "sub_10617320",
+      "name": null,
+      "callbacks": [
+        "on_system_info"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 5
+      },
+      "layout": null,
+      "observed_fixed_reads": [
+        {
+          "offset": 1,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_10617320"
+      },
+      "status": "proven_dispatch"
+    },
+    {
+      "opcode": 28,
+      "opcode_hex": "0x1C",
+      "direction": "server_to_client",
+      "handler": "sub_10617490",
+      "name": null,
+      "callbacks": [
+        "on_menu"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 11
+      },
+      "layout": null,
+      "observed_fixed_reads": [
+        {
+          "offset": 1,
+          "types": [
+            "u32le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 5,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 9,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_10617490"
+      },
+      "status": "proven_dispatch"
+    },
+    {
+      "opcode": 29,
+      "opcode_hex": "0x1D",
+      "direction": "server_to_client",
+      "handler": "sub_106178F0",
+      "name": null,
+      "callbacks": [
+        "on_clear_menu"
+      ],
+      "length": {
+        "kind": "exact",
+        "value": 1
+      },
+      "layout": [
+        {
+          "offset": 0,
+          "type": "u8",
+          "name": "opcode"
+        }
+      ],
+      "observed_fixed_reads": [],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_106178F0"
+      },
+      "status": "layout_proven"
+    },
+    {
+      "opcode": 30,
+      "opcode_hex": "0x1E",
+      "direction": "server_to_client",
+      "handler": "sub_10617A90",
+      "name": null,
+      "callbacks": [
+        "on_custom"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 3
+      },
+      "layout": null,
+      "observed_fixed_reads": [
+        {
+          "offset": 1,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_10617A90"
+      },
+      "status": "proven_dispatch"
+    },
+    {
+      "opcode": 31,
+      "opcode_hex": "0x1F",
+      "direction": "server_to_client",
+      "handler": "sub_10612CE0",
+      "name": "ServerLocation",
+      "callbacks": [
+        "on_location"
+      ],
+      "length": {
+        "kind": "exact",
+        "value": 25
+      },
+      "layout": [
+        {
+          "offset": 0,
+          "type": "u8",
+          "name": "opcode"
+        },
+        {
+          "offset": 1,
+          "type": "u32le",
+          "name": "object_id"
+        },
+        {
+          "offset": 5,
+          "type": "u32le",
+          "name": "owner_id"
+        },
+        {
+          "offset": 9,
+          "type": "f32le",
+          "name": "x"
+        },
+        {
+          "offset": 13,
+          "type": "f32le",
+          "name": "y"
+        },
+        {
+          "offset": 17,
+          "type": "f32le",
+          "name": "z"
+        },
+        {
+          "offset": 21,
+          "type": "f32le",
+          "name": "orient"
+        }
+      ],
+      "observed_fixed_reads": [
+        {
+          "offset": 9,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 13,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 17,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 21,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_10612CE0",
+        "layout": "fxnet2 sub_10612CE0: a3==25; writes a2+9/13/17/21 as f32 to object motion slots; user+hexrays layout object_id@1 owner_id@5"
+      },
+      "status": "layout_proven"
+    },
+    {
+      "opcode": 32,
+      "opcode_hex": "0x20",
+      "direction": "server_to_client",
+      "handler": "sub_10612FE0",
+      "name": "ServerMoving",
+      "callbacks": [
+        "on_moving"
+      ],
+      "length": {
+        "kind": "exact",
+        "value": 45
+      },
+      "layout": [
+        {
+          "offset": 0,
+          "type": "u8",
+          "name": "opcode"
+        },
+        {
+          "offset": 1,
+          "type": "u32le",
+          "name": "object_id"
+        },
+        {
+          "offset": 5,
+          "type": "u32le",
+          "name": "owner_id"
+        },
+        {
+          "offset": 9,
+          "type": "f32le",
+          "name": "x"
+        },
+        {
+          "offset": 13,
+          "type": "f32le",
+          "name": "y"
+        },
+        {
+          "offset": 17,
+          "type": "f32le",
+          "name": "z"
+        },
+        {
+          "offset": 21,
+          "type": "f32le",
+          "name": "orient"
+        },
+        {
+          "offset": 25,
+          "type": "f32le[5]",
+          "name": "motion_extra"
+        }
+      ],
+      "observed_fixed_reads": [
+        {
+          "offset": 9,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 13,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 17,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 21,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 25,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 29,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 33,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 37,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 41,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_10612FE0",
+        "layout": "fxnet2 sub_10612FE0: a3==45; same id header then extended floats"
+      },
+      "status": "layout_proven"
+    },
+    {
+      "opcode": 33,
+      "opcode_hex": "0x21",
+      "direction": "server_to_client",
+      "handler": "sub_106132F0",
+      "name": "ServerAllDest",
+      "callbacks": [
+        "on_all_dest",
+        "on_moving"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 47
+      },
+      "layout": null,
+      "observed_fixed_reads": [
+        {
+          "offset": 1,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_106132F0"
+      },
+      "status": "proven_dispatch"
+    },
+    {
+      "opcode": 34,
+      "opcode_hex": "0x22",
+      "direction": "server_to_client",
+      "handler": "sub_10618280",
+      "name": null,
+      "callbacks": [
+        "on_warning"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 5
+      },
+      "layout": null,
+      "observed_fixed_reads": [
+        {
+          "offset": 1,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_10618280"
+      },
+      "status": "proven_dispatch"
+    },
+    {
+      "opcode": 35,
+      "opcode_hex": "0x23",
+      "direction": "server_to_client",
+      "handler": "sub_106183F0",
+      "name": null,
+      "callbacks": [
+        "on_from_gmcc"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 73
+      },
+      "layout": null,
+      "observed_fixed_reads": [
+        {
+          "offset": 1,
+          "types": [
+            "u32le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_106183F0"
+      },
+      "status": "proven_dispatch"
+    },
+    {
+      "opcode": 36,
+      "opcode_hex": "0x24",
+      "direction": "server_to_client",
+      "handler": "sub_10613730",
+      "name": "ServerLinkTo",
+      "callbacks": [
+        "on_link_to"
+      ],
+      "length": {
+        "kind": "exact",
+        "value": 33
+      },
+      "layout": [
+        {
+          "offset": 0,
+          "type": "u8",
+          "name": "opcode"
+        },
+        {
+          "offset": 1,
+          "type": "u32le",
+          "name": "ident_low"
+        },
+        {
+          "offset": 5,
+          "type": "u32le",
+          "name": "ident_high"
+        },
+        {
+          "offset": 9,
+          "type": "u32le",
+          "name": "link_ident_low"
+        },
+        {
+          "offset": 13,
+          "type": "u32le",
+          "name": "link_ident_high"
+        },
+        {
+          "offset": 17,
+          "type": "bytes",
+          "name": "link_payload",
+          "size": 16
+        }
+      ],
+      "observed_fixed_reads": [
+        {
+          "offset": 17,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 21,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 25,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 29,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_10613730"
+      },
+      "status": "layout_proven"
+    },
+    {
+      "opcode": 37,
+      "opcode_hex": "0x25",
+      "direction": "server_to_client",
+      "handler": "sub_10613E50",
+      "name": "ServerUnlink",
+      "callbacks": [
+        "on_unlink"
+      ],
+      "length": {
+        "kind": "exact",
+        "value": 9
+      },
+      "layout": [
+        {
+          "offset": 0,
+          "type": "u8",
+          "name": "opcode"
+        },
+        {
+          "offset": 1,
+          "type": "u32le",
+          "name": "ident_low"
+        },
+        {
+          "offset": 5,
+          "type": "u32le",
+          "name": "ident_high"
+        }
+      ],
+      "observed_fixed_reads": [],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_10613E50"
+      },
+      "status": "layout_proven"
+    },
+    {
+      "opcode": 38,
+      "opcode_hex": "0x26",
+      "direction": "server_to_client",
+      "handler": "sub_10613AC0",
+      "name": "ServerLinkMove",
+      "callbacks": [
+        "on_link_move"
+      ],
+      "length": {
+        "kind": "exact",
+        "value": 33
+      },
+      "layout": null,
+      "observed_fixed_reads": [
+        {
+          "offset": 17,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 21,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 25,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 29,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_10613AC0"
+      },
+      "status": "proven_dispatch"
+    },
+    {
+      "opcode": 39,
+      "opcode_hex": "0x27",
+      "direction": "server_to_client",
+      "handler": "sub_10617A90",
+      "name": null,
+      "callbacks": [
+        "on_custom"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 3
+      },
+      "layout": null,
+      "observed_fixed_reads": [
+        {
+          "offset": 1,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_10617A90"
+      },
+      "status": "proven_dispatch"
+    },
+    {
+      "opcode": 40,
+      "opcode_hex": "0x28",
+      "direction": "server_to_client",
+      "handler": "sub_1060DBC0",
+      "name": "ServerAddObject",
+      "callbacks": [
+        "on_add_object"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 63
+      },
+      "layout": null,
+      "observed_fixed_reads": [
+        {
+          "offset": 9,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 13,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 17,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 21,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 25,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 29,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 33,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 37,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 41,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 45,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 49,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 53,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 57,
+          "types": [
+            "u32_or_f32_le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 61,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_1060DBC0"
+      },
+      "status": "proven_dispatch"
+    },
+    {
+      "opcode": 41,
+      "opcode_hex": "0x29",
+      "direction": "server_to_client",
+      "handler": "sub_1060F980",
+      "name": "ServerRecordAddRow",
+      "callbacks": [
+        "on_record_add_row",
+        "on_scene_record_add_row",
+        "on_view_record_add_row",
+        "on_viewobj_record_add_row"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 16
+      },
+      "layout": null,
+      "observed_fixed_reads": [
+        {
+          "offset": 1,
+          "types": [
+            "u8"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 10,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 12,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        },
+        {
+          "offset": 14,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_1060F980"
+      },
+      "status": "proven_dispatch"
+    },
+    {
+      "opcode": 42,
+      "opcode_hex": "0x2A",
+      "direction": "server_to_client",
+      "handler": "sub_1060F070",
+      "name": "ServerViewAdd",
+      "callbacks": [
+        "on_view_add"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 7
+      },
+      "layout": null,
+      "observed_fixed_reads": [
+        {
+          "offset": 5,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_1060F070"
+      },
+      "status": "proven_dispatch"
+    },
+    {
+      "opcode": 43,
+      "opcode_hex": "0x2B",
+      "direction": "server_to_client",
+      "handler": "sub_1060F660",
+      "name": "ServerViewChange",
+      "callbacks": [
+        "on_view_change"
+      ],
+      "length": {
+        "kind": "exact",
+        "value": 7
+      },
+      "layout": null,
+      "observed_fixed_reads": [],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_1060F660"
+      },
+      "status": "proven_dispatch"
+    },
+    {
+      "opcode": 44,
+      "opcode_hex": "0x2C",
+      "direction": "server_to_client",
+      "handler": "sub_106132F0",
+      "name": "ServerAllDest",
+      "callbacks": [
+        "on_all_dest",
+        "on_moving"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 47
+      },
+      "layout": null,
+      "observed_fixed_reads": [
+        {
+          "offset": 1,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_106132F0"
+      },
+      "status": "proven_dispatch"
+    },
+    {
+      "opcode": 45,
+      "opcode_hex": "0x2D",
+      "direction": "server_to_client",
+      "handler": "sub_106140E0",
+      "name": "ServerAllProp",
+      "callbacks": [
+        "on_all_prop",
+        "on_object_property"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 3
+      },
+      "layout": null,
+      "observed_fixed_reads": [
+        {
+          "offset": 1,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_106140E0"
+      },
+      "status": "proven_dispatch"
+    },
+    {
+      "opcode": 46,
+      "opcode_hex": "0x2E",
+      "direction": "server_to_client",
+      "handler": "sub_106140E0",
+      "name": "ServerAllProp",
+      "callbacks": [
+        "on_all_prop",
+        "on_object_property"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 3
+      },
+      "layout": null,
+      "observed_fixed_reads": [
+        {
+          "offset": 1,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_106140E0"
+      },
+      "status": "proven_dispatch"
+    },
+    {
+      "opcode": 47,
+      "opcode_hex": "0x2F",
+      "direction": "server_to_client",
+      "handler": "sub_10614610",
+      "name": "ServerAddMoreObject",
+      "callbacks": [
+        "on_add_more_object",
+        "on_add_object"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 3
+      },
+      "layout": null,
+      "observed_fixed_reads": [
+        {
+          "offset": 1,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_10614610"
+      },
+      "status": "proven_dispatch"
+    },
+    {
+      "opcode": 48,
+      "opcode_hex": "0x30",
+      "direction": "server_to_client",
+      "handler": "sub_10614610",
+      "name": "ServerAddMoreObject",
+      "callbacks": [
+        "on_add_more_object",
+        "on_add_object"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 3
+      },
+      "layout": null,
+      "observed_fixed_reads": [
+        {
+          "offset": 1,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_10614610"
+      },
+      "status": "proven_dispatch"
+    },
+    {
+      "opcode": 49,
+      "opcode_hex": "0x31",
+      "direction": "server_to_client",
+      "handler": "sub_10614B60",
+      "name": "ServerRemoveMoreObject",
+      "callbacks": [
+        "on_before_remove_object",
+        "on_remove_more_object",
+        "on_remove_object"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 3
+      },
+      "layout": null,
+      "observed_fixed_reads": [
+        {
+          "offset": 1,
+          "types": [
+            "u16le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_10614B60"
+      },
+      "status": "proven_dispatch"
+    },
+    {
+      "opcode": 50,
+      "opcode_hex": "0x32",
+      "direction": "server_to_client",
+      "handler": "sub_10615050",
+      "name": "ServerChargeValidstring",
+      "callbacks": [
+        "on_charge_validstring"
+      ],
+      "length": {
+        "kind": "minimum",
+        "value": 1026
+      },
+      "layout": null,
+      "observed_fixed_reads": [],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_10615050"
+      },
+      "status": "proven_dispatch"
+    },
+    {
+      "opcode": 55,
+      "opcode_hex": "0x37",
+      "direction": "server_to_client",
+      "handler": "sub_106153E0",
+      "name": null,
+      "callbacks": [
+        "on_set_qr"
+      ],
+      "length": null,
+      "layout": null,
+      "observed_fixed_reads": [
+        {
+          "offset": 1,
+          "types": [
+            "u32le"
+          ],
+          "source": "hexrays_fixed_read"
+        }
+      ],
+      "evidence": {
+        "dispatch": "fxnet2.dll:sub_1061BC90",
+        "handler_decompile": "sub_106153E0"
+      },
+      "status": "proven_dispatch"
+    }
+  ],
+  "client_to_server": {
+    "status": "partial",
+    "source": "fxnet2 GameSender RTTI/strings + login sender dump",
+    "note": "Opcode numbers for C2S are not yet proven from a complete sender dispatch table; methods listed by name only.",
+    "methods": [
+      {
+        "name": "GetVerify",
+        "opcode_hint": null,
+        "status": "named_sender_only"
+      },
+      {
+        "name": "Login",
+        "opcode_hint": null,
+        "status": "named_sender_only"
+      },
+      {
+        "name": "LoginByString",
+        "opcode_hint": null,
+        "status": "named_sender_only"
+      },
+      {
+        "name": "LoginByShield",
+        "opcode_hint": null,
+        "status": "named_sender_only"
+      },
+      {
+        "name": "CreateRole",
+        "opcode_hint": null,
+        "status": "named_sender_only"
+      },
+      {
+        "name": "SelectRole",
+        "opcode_hint": null,
+        "status": "named_sender_only"
+      },
+      {
+        "name": "Ready",
+        "opcode_hint": null,
+        "status": "named_sender_only"
+      },
+      {
+        "name": "ClientReady",
+        "opcode_hint": null,
+        "status": "named_sender_only"
+      },
+      {
+        "name": "MoveTo",
+        "opcode_hint": null,
+        "status": "named_sender_only"
+      },
+      {
+        "name": "Custom",
+        "opcode_hint": null,
+        "status": "named_sender_only"
+      }
+    ],
+    "evidence_files": [
+      "artifacts/local/fxnet2-x64-gamesender-vtable.txt",
+      "artifacts/local/fxnet2-x64-login-sender.txt"
+    ]
+  },
+  "knowledge_base": {
+    "properties": "spec/properties.json",
+    "records": "spec/records.json",
+    "opcodes": "spec/opcodes.json"
+  }
+}

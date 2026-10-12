@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+      <creator No="A75C12EC2EC8405DA4970AB570150E74" x="438.109" y="59.854" z="140.769" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="0.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015012" ay="5.888" amount="5" refreshtime="-1" desc="海贼喽啰">
+                <position x="435.248" z="141.198" ay="5.888" WeaponName="b_r_3" WeaponMode="blade3_1" />
+                <position x="435.373" z="137.807" ay="5.829" WeaponName="b_r_3" WeaponMode="blade3_1" />
+                <position x="440.945" z="141.024" ay="5.479" WeaponName="b_r_3" WeaponMode="blade3_1" />
+                <position x="440.791" z="137.673" ay="5.559" WeaponName="b_r_3" WeaponMode="blade3_1" />
+                <position x="438.193" z="139.744" ay="0.045" BornAction="ty_crouch_loop" RandomAction="" WeaponMode="blade1_1" />
+            </item>
+            <item No="2" id="BossClone015211" ax="0.396" ay="3.107" amount="1" refreshtime="-1" NotPositive="0" desc="海盗">
+                <position x="438.286" z="144.317" ax="0.396" ay="3.107" BornAction="ty_sitground_drink" RandomAction="ty_sitground_drink" />
+            </item>
+        </creator>
+        <creator No="211178623B814D5D99459369789641BD" x="112.496" y="35.073" z="-379.626" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015203" ay="0.182" amount="2" refreshtime="-1" NotPositive="0" desc="大酒童">
+                <position x="110.578" z="-378.900" ay="0.182" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="114.496" z="-379.752" ay="0.182" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="4FDE048C6578466A995DEDD925C6EFB2" x="84.472" y="38.231" z="-387.146" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015203" ay="2.182" amount="2" refreshtime="-1" NotPositive="0" desc="大酒童">
+                <position x="85.707" z="-385.509" ay="2.182" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="83.790" z="-389.031" ay="2.037" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="BFFFBA1660524CB09F5093FEC33D42BE" x="269.667" y="8.446" z="-102.481" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015206" ay="0.034" amount="2" refreshtime="-1" NotPositive="0" desc="书童">
+                <position x="267.537" z="-103.064" ay="0.034" RandomAction="h_stand_2" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="271.683" z="-102.975" ay="6.257" RandomAction="h_stand_2" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="EF9247E11B44490AABFB1B5B8C7A176E" x="269.501" y="8.439" z="-121.308" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015206" ay="6.282" amount="2" refreshtime="-1" NotPositive="0" desc="书童">
+                <position x="267.479" z="-121.667" ay="6.282" RandomAction="h_stand_2" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="271.827" z="-121.765" ay="6.267" RandomAction="h_stand_2" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="D87F61CBCF7441FE8C1B396B1F141DA6" x="305.925" y="8.437" z="-117.679" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015206" ay="4.707" amount="2" refreshtime="-1" NotPositive="0" desc="书童">
+                <position x="306.292" z="-119.699" ay="4.707" RandomAction="h_stand_2" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="306.372" z="-115.351" ay="4.692" RandomAction="h_stand_2" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="523C3637474A48DE84C7447CCF629478" x="331.722" y="11.435" z="-117.428" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015205" ay="4.712" amount="2" refreshtime="-1" NotPositive="0" desc="画童">
+                <position x="331.437" z="-118.863" ay="4.712" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="331.588" z="-115.921" ay="4.652" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="B989F4F1388F42EEA2B7BEB55A1D478A" x="353.982" y="8.385" z="-116.671" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015206" ay="4.722" amount="2" refreshtime="-1" NotPositive="0" desc="书童">
+                <position x="354.247" z="-118.074" ay="4.722" RandomAction="h_stand_2" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="354.365" z="-115.241" ay="4.707" RandomAction="h_stand_2" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="323F815A708043B181EF01B0BFFDC15C" x="311.002" y="8.442" z="-140.292" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015206" ay="0.019" amount="2" refreshtime="-1" NotPositive="0" desc="书童">
+                <position x="309.597" z="-140.545" ay="0.019" RandomAction="h_stand_2" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="312.429" z="-140.689" ay="0.004" RandomAction="h_stand_2" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="29682106280B4607938645D3EB64EC91" x="311.719" y="11.315" z="-164.059" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015205" ay="6.277" amount="2" refreshtime="-1" NotPositive="0" desc="画童">
+                <position x="310.301" z="-163.697" ay="6.277" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="313.025" z="-164.214" ay="6.277" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="DF6DADC89BC84E039B071EAB5DB35F7C" x="335.029" y="11.342" z="-157.343" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015205" ay="6.247" amount="2" refreshtime="-1" NotPositive="0" desc="画童">
+                <position x="333.584" z="-157.109" ay="6.247" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="336.530" z="-157.155" ay="6.187" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="6E567F507F69484491B8728E0BDBF720" x="334.732" y="11.315" z="-191.137" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015205" ay="6.247" amount="2" refreshtime="-1" NotPositive="0" desc="画童">
+                <position x="333.287" z="-190.904" ay="6.247" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="336.233" z="-190.949" ay="6.187" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="8E8AA4B3CDD4465589C24C6E11F0C2D9" x="317.686" y="11.316" z="-208.015" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015205" ay="6.247" amount="2" refreshtime="-1" NotPositive="0" desc="画童">
+                <position x="316.242" z="-207.782" ay="6.247" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="319.188" z="-207.827" ay="6.187" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="BA06314CECF5451AB4579053EE582115" x="299.459" y="11.316" z="-228.977" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015205" ay="6.247" amount="2" refreshtime="-1" NotPositive="0" desc="画童">
+                <position x="298.015" z="-228.744" ay="6.247" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="300.960" z="-228.789" ay="6.187" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="A3EE7191AE624810B958A44F07AAD9B8" x="270.515" y="12.193" z="-212.243" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015205" ay="6.247" amount="2" refreshtime="-1" NotPositive="0" desc="画童">
+                <position x="269.070" z="-212.010" ay="6.247" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="272.016" z="-212.055" ay="6.187" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="07CF4E4612354A31B12C996685D80627" x="269.519" y="13.138" z="-186.512" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015205" ay="3.102" amount="2" refreshtime="-1" NotPositive="0" desc="画童">
+                <position x="270.964" z="-186.741" ay="3.102" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="268.018" z="-186.706" ay="3.042" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="FC33C4FDFE61454A8B6DD3FEFDB17C84" x="286.310" y="12.965" z="-176.635" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015205" ay="0.059" amount="2" refreshtime="-1" NotPositive="0" desc="画童">
+                <position x="284.582" z="-176.244" ay="0.059" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="288.053" z="-176.065" ay="6.187" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="F9BDC569C3494A359E657F2F3F3049B5" x="286.384" y="12.965" z="-176.860" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015205" ay="0.059" amount="2" refreshtime="-1" NotPositive="0" desc="画童">
+                <position x="284.656" z="-176.469" ay="0.059" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="288.127" z="-176.290" ay="6.187" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="9442985285E1487B980AFEE4BCE4EE54" x="286.501" y="13.248" z="-162.761" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015205" ay="0.059" amount="2" refreshtime="-1" NotPositive="0" desc="画童">
+                <position x="284.773" z="-162.370" ay="0.059" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="288.244" z="-162.191" ay="6.187" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="C4631152D7F142C9BAEC98A6BE07365F" x="253.332" y="12.965" z="-175.496" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015205" ay="0.059" amount="2" refreshtime="-1" NotPositive="0" desc="画童">
+                <position x="251.604" z="-175.105" ay="0.059" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="255.074" z="-174.926" ay="6.187" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="428C604DD50C487CA9E1E68AFB214E4C" x="253.510" y="13.135" z="-162.536" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015205" ay="0.059" amount="2" refreshtime="-1" NotPositive="0" desc="画童">
+                <position x="251.782" z="-162.145" ay="0.059" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="255.252" z="-161.966" ay="6.187" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="E27A6173B69649BE872D41F65566FF45" x="232.344" y="8.447" z="-117.393" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015206" ay="1.579" amount="2" refreshtime="-1" NotPositive="0" desc="书童">
+                <position x="232.077" z="-115.990" ay="1.579" RandomAction="h_stand_2" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="231.963" z="-118.824" ay="1.564" RandomAction="h_stand_2" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="4DE2AAA5086B468187695BD9BEBB7305" x="227.571" y="8.458" z="-141.536" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015206" ay="0.019" amount="2" refreshtime="-1" NotPositive="0" desc="书童">
+                <position x="226.166" z="-141.788" ay="0.019" RandomAction="h_stand_2" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="228.998" z="-141.933" ay="0.004" RandomAction="h_stand_2" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="F81BA517A0824812B92EAE623CBF9225" x="208.023" y="11.335" z="-117.445" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015205" ay="1.599" amount="2" refreshtime="-1" NotPositive="0" desc="画童">
+                <position x="207.111" z="-115.597" ay="1.599" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="207.140" z="-119.150" ay="1.444" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="BD8F703F7CFC46F2BD8224472B1C1337" x="185.086" y="8.414" z="-117.559" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015206" ay="1.579" amount="2" refreshtime="-1" NotPositive="0" desc="书童">
+                <position x="184.819" z="-116.157" ay="1.579" RandomAction="h_stand_2" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="184.705" z="-118.990" ay="1.564" RandomAction="h_stand_2" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="D7D60EEC8BDD4D8AA734912521EC729D" x="204.581" y="11.335" z="-152.097" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015205" ay="0.024" amount="2" refreshtime="-1" NotPositive="0" desc="画童">
+                <position x="202.737" z="-153.017" ay="0.024" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="206.289" z="-152.973" ay="6.152" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="C6C78F38AA5F428E99E36C0BB40D60F4" x="228.096" y="12.238" z="-163.864" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015205" ay="0.059" amount="2" refreshtime="-1" NotPositive="0" desc="画童">
+                <position x="226.221" z="-164.719" ay="0.059" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="229.773" z="-164.799" ay="6.187" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="F174C12021754B3687E5A92B19C90FA0" x="206.151" y="11.443" z="-189.350" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015205" ay="0.169" amount="2" refreshtime="-1" NotPositive="0" desc="画童">
+                <position x="204.194" z="-189.993" ay="0.169" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="207.715" z="-190.463" ay="0.014" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="921D0F9211824B2A8BA19D18B1DD25D4" x="219.676" y="11.334" z="-202.705" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015205" ay="0.074" amount="2" refreshtime="-1" NotPositive="0" desc="画童">
+                <position x="217.788" z="-203.531" ay="0.074" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="221.338" z="-203.665" ay="6.202" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="302D71105BBD4917BC49D73C7A4C4D20" x="232.358" y="11.334" z="-215.887" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015205" ay="0.009" amount="2" refreshtime="-1" NotPositive="0" desc="画童">
+                <position x="230.528" z="-216.834" ay="0.009" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="234.079" z="-216.737" ay="6.137" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="955471A6779042C8A9B80DFEBECEED64" x="245.481" y="11.703" z="-229.069" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015205" ay="0.044" amount="2" refreshtime="-1" NotPositive="0" desc="画童">
+                <position x="243.619" z="-229.952" ay="0.044" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="247.171" z="-229.979" ay="6.172" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="CE841277070B4634AE6DC4E721C451A1" x="270.099" y="11.300" z="-272.870" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015205" ay="0.044" amount="2" refreshtime="-1" NotPositive="0" desc="画童">
+                <position x="268.237" z="-273.752" ay="0.044" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="271.790" z="-273.780" ay="6.172" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="2CFB09A0A0594DD3B1A09B6AA1B85937" x="291.643" y="11.300" z="-290.549" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015205" ay="4.787" amount="2" refreshtime="-1" NotPositive="0" desc="画童">
+                <position x="292.468" z="-292.437" ay="4.787" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="292.605" z="-288.887" ay="4.632" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="AFDEA1D1A6EF402996F572B4208C8C4B" x="334.306" y="13.077" z="-251.551" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015205" ay="3.162" amount="2" refreshtime="-1" NotPositive="0" desc="画童">
+                <position x="336.147" z="-250.625" ay="3.162" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="332.595" z="-250.681" ay="3.007" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="AD4AF980543949F0B499D336EFA2B8DF" x="364.805" y="11.300" z="-227.056" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015203" ay="6.172" amount="2" refreshtime="-1" NotPositive="0" desc="大酒童">
+                <position x="366.816" z="-226.118" ay="6.172" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="362.816" z="-226.175" ay="6.172" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="4CDAC7C19F274145B1428C4533A2DED0" x="378.982" y="11.300" z="-271.119" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015205" ay="4.747" amount="2" refreshtime="-1" NotPositive="0" desc="画童">
+                <position x="379.881" z="-272.973" ay="4.747" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="379.876" z="-269.421" ay="4.592" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="27B9107FC3954ABABB4C0E04488AEB73" x="364.085" y="11.300" z="-278.125" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015203" ay="6.172" amount="2" refreshtime="-1" NotPositive="0" desc="大酒童">
+                <position x="366.096" z="-277.187" ay="6.172" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="362.096" z="-277.244" ay="6.172" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="F83A406992E3456496FE56E385523DB7" x="368.879" y="14.780" z="-320.454" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015203" ay="6.172" amount="2" refreshtime="-1" NotPositive="0" desc="大酒童">
+                <position x="370.890" z="-319.516" ay="6.172" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="366.890" z="-319.572" ay="6.172" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="2DD8C1A7B5B241009F64007BF3D5F22E" x="270.958" y="11.300" z="-322.009" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015203" ay="6.172" amount="2" refreshtime="-1" NotPositive="0" desc="大酒童">
+                <position x="272.969" z="-321.071" ay="6.172" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="268.969" z="-321.127" ay="6.172" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="49C7659E22A342E8AB673EBC18E4B762" x="229.106" y="11.300" z="-311.176" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015203" ay="0.544" amount="2" refreshtime="-1" NotPositive="0" desc="大酒童">
+                <position x="231.273" z="-311.658" ay="0.544" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="228.066" z="-309.266" ay="0.544" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="F2F458AC72774874BA57F775E0CF0585" x="206.018" y="11.300" z="-278.520" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015205" ay="1.594" amount="2" refreshtime="-1" NotPositive="0" desc="画童">
+                <position x="205.097" z="-276.677" ay="1.594" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="205.143" z="-280.229" ay="1.439" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="6D2606A8A6FE409886BDD57344DEF817" x="179.278" y="11.300" z="-256.680" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015203" ay="3.067" amount="2" refreshtime="-1" NotPositive="0" desc="大酒童">
+                <position x="177.234" z="-257.544" ay="3.067" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="181.233" z="-257.634" ay="3.067" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="687EDA8E0BA74EB3A8D5AE331CE3CA2D" x="111.980" y="11.710" z="-262.964" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015203" ay="3.042" amount="2" refreshtime="-1" NotPositive="0" desc="大酒童">
+                <position x="109.958" z="-263.879" ay="3.042" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="113.958" z="-263.868" ay="3.042" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="DF504A0011BA4CA4B2ECA469AA6F79EB" x="112.455" y="13.253" z="-217.805" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015203" ay="3.042" amount="2" refreshtime="-1" NotPositive="0" desc="大酒童">
+                <position x="110.433" z="-218.720" ay="3.042" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="114.434" z="-218.710" ay="3.042" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="98D9815CFB624A949CA97C55EE7BFEB5" x="150.255" y="11.300" z="-289.946" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015205" ay="5.867" amount="2" refreshtime="-1" NotPositive="0" desc="画童">
+                <position x="148.978" z="-291.563" ay="5.867" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="152.173" z="-290.011" ay="5.712" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="2D332E0C8B0E4EBB82B139A493152CD2" x="149.822" y="30.864" z="-340.711" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015205" ay="0.454" amount="2" refreshtime="-1" NotPositive="0" desc="画童">
+                <position x="152.082" z="-340.857" ay="0.454" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="149.097" z="-338.931" ay="0.609" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="1DD0D2B1216641E2AD2E9EB7695B74D3" x="40.325" y="49.524" z="-359.722" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015203" ay="2.717" amount="2" refreshtime="-1" NotPositive="0" desc="大酒童">
+                <position x="42.223" z="-358.943" ay="2.717" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="38.778" z="-360.996" ay="2.572" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="0F99738937EA4D8AAEC3C773C6DCB8C0" x="44.124" y="63.013" z="-307.011" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015203" ay="3.622" amount="2" refreshtime="-1" NotPositive="0" desc="大酒童">
+                <position x="45.430" z="-309.000" ay="3.622" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="42.166" z="-306.580" ay="3.582" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="D5C4E3C5C9624422BB201A9F26C73FD6" x="28.021" y="81.312" z="-255.976" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015203" ay="2.922" amount="2" refreshtime="-1" NotPositive="0" desc="大酒童">
+                <position x="29.966" z="-257.044" ay="2.922" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="26.247" z="-256.908" ay="3.052" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="A37B1CC9F01A4DC5B513FDDD09529969" x="8.181" y="81.635" z="-227.563" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015203" ay="1.537" amount="2" refreshtime="-1" NotPositive="0" desc="大酒童">
+                <position x="8.616" z="-225.714" ay="1.537" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="7.589" z="-229.168" ay="1.882" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="8A54D9CDCF4F4E75BC4D40A5F4DAE40C" x="-38.407" y="100.044" z="-223.831" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015203" ay="1.227" amount="2" refreshtime="-1" NotPositive="0" desc="大酒童">
+                <position x="-38.195" z="-225.913" ay="1.227" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="-39.958" z="-222.395" ay="0.822" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="A59E4AD65E964B7B9EB87089299614F3" x="-57.751" y="111.145" z="-245.071" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015203" ay="0.822" amount="2" refreshtime="-1" NotPositive="0" desc="大酒童">
+                <position x="-59.056" z="-243.963" ay="0.822" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="-55.573" z="-246.260" ay="0.247" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="E447837558DB46A0A8990B3C3D61BF34" x="-37.371" y="112.852" z="-270.269" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015203" ay="0.242" amount="2" refreshtime="-1" NotPositive="0" desc="大酒童">
+                <position x="-39.070" z="-270.057" ay="0.242" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="-34.898" z="-270.070" ay="5.950" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="55255AF1117C420A9D24849B8D0838D3" x="-37.115" y="112.584" z="-330.263" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015203" ay="0.242" amount="2" refreshtime="-1" NotPositive="0" desc="大酒童">
+                <position x="-38.814" z="-330.051" ay="0.242" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="-34.642" z="-330.064" ay="5.950" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="DE661C0A893548779C75D59346BE1C4B" x="-89.669" y="112.550" z="-337.346" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015208" ay="0.012" amount="2" refreshtime="-1" NotPositive="0" desc="庄丁">
+                <position x="-88.153" z="-337.337" ay="0.012" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="-91.186" z="-337.944" ay="0.012" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="4C1E2D539A1D4E19A4264B36F8B10FAF" x="-86.491" y="112.558" z="-374.869" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015208" ay="0.052" amount="2" refreshtime="-1" NotPositive="0" desc="庄丁">
+                <position x="-84.976" z="-374.921" ay="0.052" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="-88.031" z="-375.406" ay="0.052" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="D05C60D0FBEE4E63B5829941DCDE8F51" x="-86.817" y="112.526" z="-400.686" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015208" ay="0.012" amount="2" refreshtime="-1" NotPositive="0" desc="庄丁">
+                <position x="-85.301" z="-400.677" ay="0.012" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="-88.334" z="-401.284" ay="0.012" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="7EE3AC4EF46343158BC91DBFAC7E0C7E" x="-84.504" y="112.651" z="-423.747" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015208" ay="0.072" amount="2" refreshtime="-1" NotPositive="0" desc="庄丁">
+                <position x="-82.991" z="-423.829" ay="0.072" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="-86.055" z="-424.253" ay="0.072" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="639F56FCC5804619B91B745E0A23C159" x="-50.655" y="100.045" z="-484.930" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015208" ay="5.470" amount="2" refreshtime="-1" NotPositive="0" desc="庄丁">
+                <position x="-49.633" z="-483.811" ay="5.470" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="-51.245" z="-486.451" ay="5.470" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="F9259C47AF584F9288B67A53E80EBBC0" x="-28.343" y="100.045" z="-489.307" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015208" ay="4.910" amount="2" refreshtime="-1" NotPositive="0" desc="庄丁">
+                <position x="-28.072" z="-487.816" ay="4.910" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="-28.036" z="-490.909" ay="4.910" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="BF688018A0BD4D5B9610342F52A1D416" x="22.986" y="95.164" z="-464.605" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015208" ay="4.910" amount="2" refreshtime="-1" NotPositive="0" desc="庄丁">
+                <position x="23.257" z="-463.113" ay="4.910" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="23.294" z="-466.206" ay="4.910" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="5ED059C5AE234A3D8E5C8F870ACECA28" x="74.395" y="88.656" z="-485.479" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015208" ay="4.910" amount="2" refreshtime="-1" NotPositive="0" desc="庄丁">
+                <position x="74.667" z="-483.988" ay="4.910" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="74.703" z="-487.081" ay="4.910" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="01F704670B0249A6B215EF9D054A3026" x="105.417" y="83.687" z="-468.535" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015208" ay="4.345" amount="2" refreshtime="-1" NotPositive="0" desc="庄丁">
+                <position x="104.848" z="-467.131" ay="4.345" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="106.535" z="-469.724" ay="4.345" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="81A53322476C488B8E7F12F10DEE8CA7" x="110.286" y="83.687" z="-478.237" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015208" ay="4.805" amount="2" refreshtime="-1" NotPositive="0" desc="庄丁">
+                <position x="110.399" z="-476.725" ay="4.805" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="110.760" z="-479.797" ay="4.805" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="F13A04876D6247ADB04B997E632F8ED5" x="174.102" y="74.789" z="-451.712" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015207" ay="4.135" amount="2" refreshtime="-1" NotPositive="0" desc="丫鬟">
+                <position x="173.692" z="-449.235" ay="4.135" WeaponName="s_r_208" WeaponMode="sword1_2" />
+                <position x="173.636" z="-453.489" ay="4.745" WeaponName="s_r_208" WeaponMode="sword1_2" />
+            </item>
+        </creator>
+        <creator No="A0140663048040659B97D81972005717" x="217.776" y="77.692" z="-471.739" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015207" ay="4.135" amount="2" refreshtime="-1" NotPositive="0" desc="丫鬟">
+                <position x="216.633" z="-469.770" ay="4.135" WeaponName="s_r_208" WeaponMode="sword1_2" />
+                <position x="217.310" z="-473.516" ay="4.745" WeaponName="s_r_208" WeaponMode="sword1_2" />
+            </item>
+        </creator>
+        <creator No="2905A8F54B8D4935A7B9342359F5D055" x="265.040" y="78.058" z="-447.577" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015207" ay="4.285" amount="2" refreshtime="-1" NotPositive="0" desc="丫鬟">
+                <position x="264.756" z="-446.074" ay="4.285" WeaponName="s_r_208" WeaponMode="sword1_2" />
+                <position x="264.343" z="-448.698" ay="4.895" WeaponName="s_r_208" WeaponMode="sword1_2" />
+            </item>
+        </creator>
+        <creator No="04AFD3900D9B455AAFF54F7927D03B1F" x="266.777" y="77.890" z="-479.591" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015207" ay="4.340" amount="2" refreshtime="-1" NotPositive="0" desc="丫鬟">
+                <position x="266.576" z="-478.074" ay="4.340" WeaponName="s_r_208" WeaponMode="sword1_2" />
+                <position x="266.020" z="-480.671" ay="4.950" WeaponName="s_r_208" WeaponMode="sword1_2" />
+            </item>
+        </creator>
+        <creator No="02A0995AFE034DFF87F54943F095CB22" x="314.453" y="78.407" z="-444.589" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015207" ay="4.515" amount="2" refreshtime="-1" NotPositive="0" desc="丫鬟">
+                <position x="314.519" z="-443.061" ay="4.515" WeaponName="s_r_208" WeaponMode="sword1_2" />
+                <position x="314.270" z="-446.432" ay="5.125" WeaponName="s_r_208" WeaponMode="sword1_2" />
+            </item>
+        </creator>
+        <creator No="6F42BFC7A4BE401B9A331BDB52191FD3" x="313.557" y="77.890" z="-500.107" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015207" ay="4.140" amount="2" refreshtime="-1" NotPositive="0" desc="丫鬟">
+                <position x="313.059" z="-498.661" ay="4.140" WeaponName="s_r_208" WeaponMode="sword1_2" />
+                <position x="313.030" z="-501.316" ay="4.750" WeaponName="s_r_208" WeaponMode="sword1_2" />
+            </item>
+        </creator>
+        <creator No="BDEBFF3DC73245B3859B9EA8286EE225" x="327.233" y="80.454" z="-519.922" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015207" ay="5.715" amount="2" refreshtime="-1" NotPositive="0" desc="丫鬟">
+                <position x="328.681" z="-519.430" ay="5.715" WeaponName="s_r_208" WeaponMode="sword1_2" />
+                <position x="326.026" z="-519.390" ay="0.042" WeaponName="s_r_208" WeaponMode="sword1_2" />
+            </item>
+        </creator>
+        <creator No="3ADAE48236F64667AE031AFC99C2B91A" x="332.228" y="77.890" z="-488.194" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015207" ay="3.030" amount="2" refreshtime="-1" NotPositive="0" desc="丫鬟">
+                <position x="330.711" z="-487.997" ay="3.030" WeaponName="s_r_208" WeaponMode="sword1_2" />
+                <position x="334.048" z="-488.535" ay="3.640" WeaponName="s_r_208" WeaponMode="sword1_2" />
+            </item>
+        </creator>
+        <creator No="9DCDD32201F9468397528C0A8DB9BB05" x="359.643" y="78.261" z="-497.418" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015207" ay="4.285" amount="2" refreshtime="-1" NotPositive="0" desc="丫鬟">
+                <position x="359.359" z="-495.915" ay="4.285" WeaponName="s_r_208" WeaponMode="sword1_2" />
+                <position x="359.884" z="-499.254" ay="4.895" WeaponName="s_r_208" WeaponMode="sword1_2" />
+            </item>
+        </creator>
+        <creator No="6B508C7B883E4D0BAB8E8787FC24369B" x="314.359" y="78.364" z="-445.484" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015207" ay="4.285" amount="2" refreshtime="-1" NotPositive="0" desc="丫鬟">
+                <position x="314.075" z="-443.981" ay="4.285" WeaponName="s_r_208" WeaponMode="sword1_2" />
+                <position x="314.601" z="-447.320" ay="4.895" WeaponName="s_r_208" WeaponMode="sword1_2" />
+            </item>
+        </creator>
+        <creator No="A38F9D9DCC9B4FC8941F497B802EDEF3" x="390.279" y="74.735" z="-419.775" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015212" ay="4.095" amount="2" refreshtime="-1" NotPositive="0" desc="书童">
+                <position x="390.650" z="-421.121" ay="4.095" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="389.488" z="-418.480" ay="4.150" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="F016B5E51746477B81B2EF2C233EEDA7" x="420.007" y="80.488" z="-386.173" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015212" ay="4.127" amount="2" refreshtime="-1" NotPositive="0" desc="书童">
+                <position x="420.870" z="-388.348" ay="4.127" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="418.211" z="-384.480" ay="3.887" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="7089584BC5D44DAF8319F8D7165D6D1C" x="446.998" y="80.070" z="-436.238" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015212" ay="4.127" amount="2" refreshtime="-1" NotPositive="0" desc="书童">
+                <position x="447.862" z="-438.412" ay="4.127" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="445.202" z="-434.544" ay="3.887" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="CE6DA4AC5CE646C3863F605111CFD3E3" x="437.352" y="79.807" z="-346.708" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015212" ay="3.622" amount="2" refreshtime="-1" NotPositive="0" desc="书童">
+                <position x="439.160" z="-348.193" ay="3.622" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="434.961" z="-346.095" ay="3.382" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="AD36C9CAAA344FC795A273648868F706" x="528.444" y="77.546" z="-338.669" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015212" ay="0.209" amount="2" refreshtime="-1" NotPositive="0" desc="书童">
+                <position x="526.305" z="-337.723" ay="0.209" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="530.912" z="-338.618" ay="6.252" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="BAA0B1A1D75B4FE6A6CE31ECDB4840A5" x="476.675" y="76.617" z="-280.112" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015212" ay="5.032" amount="2" refreshtime="-1" NotPositive="0" desc="书童">
+                <position x="476.160" z="-281.390" ay="5.032" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="476.596" z="-279.052" ay="4.727" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="DD45A9A3D6824FF584016AC2863E503B" x="465.183" y="50.940" z="-205.914" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015212" ay="6.277" amount="2" refreshtime="-1" NotPositive="0" desc="书童">
+                <position x="463.808" z="-205.835" ay="6.277" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="467.163" z="-205.636" ay="5.972" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="4195FC906DA7417383153EDFA0B07717" x="433.340" y="50.940" z="-166.146" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015212" ay="1.754" amount="2" refreshtime="-1" NotPositive="0" desc="书童">
+                <position x="433.676" z="-164.810" ay="1.754" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="433.240" z="-168.142" ay="1.449" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="68B16F7DEA684B17BE6CA3374ECEA300" x="405.843" y="50.940" z="-169.092" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015212" ay="4.322" amount="2" refreshtime="-1" NotPositive="0" desc="书童">
+                <position x="406.285" z="-170.396" ay="4.322" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="404.844" z="-167.361" ay="4.017" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="521556733C624C08B8645A0F03DE4F9D" x="670.676" y="36.871" z="-212.653" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015210" ay="3.516" amount="2" refreshtime="-1" NotPositive="0" desc="小寒">
+                <position x="672.699" z="-214.092" ay="3.516" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="669.548" z="-210.711" ay="3.516" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="CB197B70308F40E39E72F311614EF9AC" x="720.992" y="36.871" z="-214.942" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015210" ay="2.081" amount="2" refreshtime="-1" NotPositive="0" desc="小寒">
+                <position x="722.692" z="-213.132" ay="2.081" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="718.915" z="-215.797" ay="2.081" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="E662018D99B3445BA5000CD055F25629" x="721.641" y="36.872" z="-165.506" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015210" ay="0.578" amount="2" refreshtime="-1" NotPositive="0" desc="小寒">
+                <position x="719.951" z="-163.688" ay="0.578" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="722.354" z="-167.636" ay="0.578" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="A72DAB7296FE451EAA097B94E0944727" x="677.999" y="36.872" z="-161.877" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015210" ay="4.966" amount="2" refreshtime="-1" NotPositive="0" desc="小寒">
+                <position x="677.421" z="-164.425" ay="4.966" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="679.492" z="-159.605" ay="4.966" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="C328F920C8A14EE88DF621BAAEEC2B71" x="671.460" y="36.872" z="-168.443" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015210" ay="5.921" amount="2" refreshtime="-1" NotPositive="0" desc="小寒">
+                <position x="668.945" z="-169.050" ay="5.921" WeaponName="s_r_204" WeaponMode="sword1_1" />
+                <position x="673.300" z="-167.553" ay="5.616" WeaponName="s_r_204" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="1EB7D109E17341EF86A476A6E123604E" x="269.678" y="8.462" z="-73.211" radius="4.0" WakeupRange="10.0" ChaseRange="30.0" PatrolRange="0.0" SpringRange="60" HateLink="1" CloneMode="3">
+            <item No="1" id="NpcClone015209" ay="0.054" amount="1" refreshtime="-1" desc="大寒" />
+            <item No="2" id="NpcClone015211" ay="6.082" amount="2" refreshtime="-1" desc="书童">
+                <position x="272.092" z="-73.667" ay="6.082" WeaponName="s_r_204" WeaponMode="sword3_1" />
+                <position x="267.293" z="-73.616" ay="0.054" WeaponName="s_r_204" WeaponMode="sword3_1" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

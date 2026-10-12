@@ -1,0 +1,451 @@
+NPC±àºÅ	¶ÔÏóÀàÐÍ	Ãû³Æ	Ä£ÐÍ±àºÅ	NPCÀàÐÍ	ÏìÓ¦·¶Î§	Ñ¡Ôñ²Ù×÷·ÖÀà	ÐÔ±ð(0:ÄÐ 1:Å®)	½Å±¾±àºÅ	NPCËù¹Ò°óµãÊôÐÔ	Óã¸×NPC¹ÒµãÊôÐÔ	¼ÒÔ°Ö÷½¨Öþ¹Òµã	Ö°ÒµID	AI±à¼­°ü	µÀ¾ßid	Ôö¼Ó»ªÀö¶È	·çË®Öµ	¼ìË÷·¶Î§	×î¶àÓÐÐ§·çË®¼Ò¾ßÊýÁ¿	¼Ò¾ßÀàÐÍ	¼Ò¾ßµµ´Î	¼Ò¾ßÂÌÈ¦Òþ²Ø	ÐÔ±ð	ÌåÐÍ	Ëõ·Å
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	script	Name	Resource	NpcType	SpringRange	SelectState	Sex	LuaScript	table@SaveFurnRec	table@FishTankRec	table@SubNpcRec	Job	AIEditorPackID	HomePetItem	pretty	fengshui	relationrange	maxcheckcount	furnituretype	FurnLevel	HideDecal	SexHomeMannequin	BodyTypeHomeMannequin	Scale
+home_wuqi_001	WeaponRackNpc	ÎäÆ÷¼Ü-1	npc\itemnpc897	333	5	2									5	1	4	3	1		1			
+home_wuqi_002	WeaponRackNpc	ÎäÆ÷¼Ü-2	npc\itemnpc898	333	5	2									20	2	4	3	1		1			
+home_wuqi_003	WeaponRackNpc	ÎäÆ÷¼Ü-3	npc\itemnpc899	333	5	2									40	3	4	3	1		1			
+home_wuqi_004	WeaponRackNpc	ÎäÆ÷¼Ü-4	npc\itemnpc900	333	5	2									70	4	4	3	1		1			
+home_wuqi_005	WeaponRackNpc	ÎäÆ÷¼Ü-5	npc\itemnpc901	333	5	2									120	5	4	3	1		1			
+home_wuqi_006	WeaponRackNpc	ÎäÆ÷¼Ü-6	npc\itemnpc902	333	5	2									200	6	4	3	1		1			
+																								
+																								
+home_fuzhuang_001	ClothesHangerNpc	·þ×°¼Ü-ÄÐ	npc\b_homefzj	333	5	2	0								200	6	2	6	2		1			
+home_fuzhuang_002	ClothesHangerNpc	·þ×°¼Ü-Å®	npc\g_homefzj	333	5	2	1								200	6	2	6	2		1			
+																								
+																								
+home_yijia_001	ClothesRackNpc	ÒÂ¼Ü	npc\itemnpc1407	333	5	2									200	6	2	6	2		1			
+																								
+																								
+home_xiulian_muren_001	FurnitureNpc	Ä¾ÈË×®-1	npc\itemnpc915	333	5	2									5	1	2	6	14		1			
+home_xiulian_muren_002	FurnitureNpc	Ä¾ÈË×®-2	npc\itemnpc916	333	5	2									20	2	2	6	14		1			
+home_xiulian_muren_003	FurnitureNpc	Ä¾ÈË×®-3	npc\itemnpc917	333	5	2									40	3	2	6	14		1			
+home_xiulian_muren_004	FurnitureNpc	Ä¾ÈË×®-4	npc\itemnpc918	333	5	2									70	4	2	6	14		1			
+home_xiulian_muren_005	FurnitureNpc	Ä¾ÈË×®-5	npc\itemnpc919	333	5	2									120	5	2	6	14		1			
+home_xiulian_muren_006	FurnitureNpc	Ä¾ÈË×®-6	npc\itemnpc920	333	5	2									200	6	2	6	14		1			
+																								
+																								
+home_zhuang_mu_001	FurnitureNpc	Êá×±Ì¨Ä¾-1	npc\itemnpc946	333	5	2									5	1	3	4	15		1			
+home_zhuang_mu_002	FurnitureNpc	Êá×±Ì¨Ä¾-2	npc\itemnpc947	333	5	2									20	2	3	4	15		1			
+home_zhuang_mu_003	FurnitureNpc	Êá×±Ì¨Ä¾-3	npc\itemnpc948	333	5	2									40	3	3	4	15		1			
+home_zhuang_mu_004	FurnitureNpc	Êá×±Ì¨Ä¾-4	npc\itemnpc949	333	5	2									70	4	3	4	15		1			
+home_zhuang_mu_005	FurnitureNpc	Êá×±Ì¨Ä¾-5	npc\itemnpc950	333	5	2									120	5	3	4	15		1			
+home_zhuang_mu_006	FurnitureNpc	Êá×±Ì¨Ä¾-6	npc\itemnpc951	333	5	2									200	6	3	4	15		1			
+																								
+home_zhuang_zhu_001	FurnitureNpc	Êá×±Ì¨Öñ-1	npc\itemnpc955	333	5	2									5	1	3	4	15		1			
+home_zhuang_zhu_002	FurnitureNpc	Êá×±Ì¨Öñ-2	npc\itemnpc956	333	5	2									20	2	3	4	15		1			
+home_zhuang_zhu_003	FurnitureNpc	Êá×±Ì¨Öñ-3	npc\itemnpc957	333	5	2									40	3	3	4	15		1			
+																								
+home_zhuang_shi_001	FurnitureNpc	Êá×±Ì¨Ê¯-1	npc\itemnpc952	333	5	2									5	1	3	4	15		1			
+home_zhuang_shi_002	FurnitureNpc	Êá×±Ì¨Ê¯-2	npc\itemnpc953	333	5	2									20	2	3	4	15		1			
+home_zhuang_shi_003	FurnitureNpc	Êá×±Ì¨Ê¯-3	npc\itemnpc954	333	5	2									40	3	3	4	15		1			
+																								
+																								
+home_pingfeng_mu_001	FurnitureNpc	ÆÁ·çÄ¾-1	npc\itemnpc984	333	5	2									5	1	4	5	17		1			
+home_pingfeng_mu_002	FurnitureNpc	ÆÁ·çÄ¾-2	npc\itemnpc985	333	5	2									20	2	4	5	17		1			
+home_pingfeng_mu_003	FurnitureNpc	ÆÁ·çÄ¾-3	npc\itemnpc986	333	5	2									40	3	4	5	17		1			
+home_pingfeng_mu_004	FurnitureNpc	ÆÁ·çÄ¾-4	npc\itemnpc987	333	5	2									70	4	4	5	17		1			
+home_pingfeng_mu_005	FurnitureNpc	ÆÁ·çÄ¾-5	npc\itemnpc988	333	5	2									120	5	4	5	17		1			
+home_pingfeng_mu_006	FurnitureNpc	ÆÁ·çÄ¾-6	npc\itemnpc989	333	5	2									200	6	4	5	17		1			
+																								
+home_pingfeng_zhu_001	FurnitureNpc	ÆÁ·çÖñ-1	npc\itemnpc998	333	5	2									5	1	4	5	17		1			
+home_pingfeng_zhu_002	FurnitureNpc	ÆÁ·çÖñ-2	npc\itemnpc999	333	5	2									20	2	4	5	17		1			
+home_pingfeng_zhu_003	FurnitureNpc	ÆÁ·çÖñ-3	npc\itemnpc1000	333	5	2									40	3	4	5	17		1			
+home_pingfeng_zhu_004	FurnitureNpc	ÆÁ·çÖñ-4	npc\itemnpc1001	333	5	2									70	4	4	5	17		1			
+home_pingfeng_zhu_005	FurnitureNpc	ÆÁ·çÖñ-5	npc\itemnpc1002	333	5	2									120	5	4	5	17		1			
+home_pingfeng_zhu_006	FurnitureNpc	ÆÁ·çÖñ-6	npc\itemnpc1003	333	5	2									200	6	4	5	17		1			
+																								
+home_pingfeng_shi_001	FurnitureNpc	ÆÁ·çÊ¯-1	npc\itemnpc992	333	5	2									5	1	4	5	17		1			
+home_pingfeng_shi_002	FurnitureNpc	ÆÁ·çÊ¯-2	npc\itemnpc993	333	5	2									20	2	4	5	17		1			
+home_pingfeng_shi_003	FurnitureNpc	ÆÁ·çÊ¯-3	npc\itemnpc994	333	5	2									40	3	4	5	17		1			
+home_pingfeng_shi_004	FurnitureNpc	ÆÁ·çÊ¯-4	npc\itemnpc995	333	5	2									70	4	4	5	17		1			
+home_pingfeng_shi_005	FurnitureNpc	ÆÁ·çÊ¯-5	npc\itemnpc996	333	5	2									120	5	4	5	17		1			
+home_pingfeng_shi_006	FurnitureNpc	ÆÁ·çÊ¯-6	npc\itemnpc997	333	5	2									200	6	4	5	17		1			
+																								
+																								
+home_ditan_001	FurnitureNpc	µØÌº-1-1	npc\itemnpc1005	333	5	2													18		1			
+home_ditan_002	FurnitureNpc	µØÌº-1-1	npc\itemnpc1006	333	5	2													18		1			
+home_ditan_003	FurnitureNpc	µØÌº-2-1	npc\itemnpc1016	333	5	2													18		1			
+home_ditan_004	FurnitureNpc	µØÌº-2-1	npc\itemnpc1004	333	5	2													18		1			
+home_ditan_005	FurnitureNpc	µØÌº-3-1	npc\itemnpc1008	333	5	2													18		1			
+home_ditan_006	FurnitureNpc	µØÌº-3-1	npc\itemnpc1009	333	5	2													18		1			
+home_ditan_007	FurnitureNpc	µØÌº-4-1	npc\itemnpc1010	333	5	2													18		1			
+home_ditan_008	FurnitureNpc	µØÌº-4-1	npc\itemnpc1014	333	5	2													18		1			
+home_ditan_009	FurnitureNpc	µØÌº-5-1	npc\itemnpc1015	333	5	2													18		1			
+home_ditan_010	FurnitureNpc	µØÌº-6-1	npc\itemnpc1011	333	5	2													18		1			
+																								
+																								
+home_zihua_001	FurnitureNpc	×Ö»­	npc\itemnpc1017	333	5	2									5	1			19		1			
+home_zihua_002	FurnitureNpc	×Ö»­	npc\itemnpc1018	333	5	2									5	1			19		1			
+home_zihua_003	FurnitureNpc	×Ö»­	npc\itemnpc1019	333	5	2									5	1			19		1			
+home_zihua_004	FurnitureNpc	×Ö»­	npc\itemnpc1020	333	5	2									5	1			19		1			
+home_zihua_005	FurnitureNpc	×Ö»­	npc\itemnpc1021	333	5	2									5	1			19		1			
+home_zihua_006	FurnitureNpc	×Ö»­	npc\itemnpc1022	333	5	2									5	1			19		1			
+home_zihua_007	FurnitureNpc	×Ö»­	npc\itemnpc1023	333	5	2									5	1			19		1			
+home_zihua_008	FurnitureNpc	×Ö»­	npc\itemnpc1024	333	5	2									5	1			19		1			
+home_zihua_009	FurnitureNpc	×Ö»­	npc\itemnpc1025	333	5	2									5	1			19		1			
+home_zihua_010	FurnitureNpc	×Ö»­	npc\itemnpc1026	333	5	2									5	1			19		1			
+home_zihua_011	FurnitureNpc	×Ö»­	npc\itemnpc1027	333	5	2									5	1			19		1			
+home_zihua_012	FurnitureNpc	×Ö»­	npc\itemnpc1028	333	5	2									5	1			19		1			
+home_zihua_013	FurnitureNpc	×Ö»­	npc\itemnpc1029	333	5	2									5	1			19		1			
+home_zihua_014	FurnitureNpc	×Ö»­	npc\itemnpc1030	333	5	2									5	1			19		1			
+home_zihua_015	FurnitureNpc	×Ö»­	npc\itemnpc1031	333	5	2									5	1			19		1			
+home_zihua_016	FurnitureNpc	×Ö»­	npc\itemnpc1032	333	5	2									5	1			19		1			
+home_zihua_017	FurnitureNpc	×Ö»­	npc\itemnpc1033	333	5	2									5	1			19		1			
+home_zihua_018	FurnitureNpc	×Ö»­	npc\itemnpc1034	333	5	2									5	1			19		1			
+home_zihua_019	FurnitureNpc	×Ö»­	npc\itemnpc1035	333	5	2									5	1			19		1			
+home_zihua_020	FurnitureNpc	×Ö»­	npc\itemnpc1036	333	5	2									5	1			19		1			
+home_zihua_021	FurnitureNpc	×Ö»­	npc\itemnpc1037	333	5	2									5	1			19		1			
+home_zihua_022	FurnitureNpc	×Ö»­	npc\itemnpc1038	333	5	2									5	1			19		1			
+																								
+																								
+home_chuanlian_001	FurnitureNpc	´°Á±-1	npc\itemnpc1063	333	5	2																		
+home_chuanlian_002	FurnitureNpc	´°Á±-2	npc\itemnpc1064	333	5	2																		
+home_chuanlian_003	FurnitureNpc	´°Á±-3	npc\itemnpc1065	333	5	2																		
+home_chuanlian_004	FurnitureNpc	´°Á±-4	npc\itemnpc1066	333	5	2																		
+home_chuanlian_005	FurnitureNpc	´°Á±-5	npc\itemnpc1067	333	5	2																		
+home_chuanlian_006	FurnitureNpc	´°Á±-6	npc\itemnpc1068	333	5	2																		
+																								
+																								
+home_penzai_001	FurnitureNpc	ÅèÔÔ-1	npc\itemnpc1069	333	5	2													16		1			
+home_penzai_002	FurnitureNpc	ÅèÔÔ-1	npc\itemnpc1070	333	5	2													16		1			
+home_penzai_003	FurnitureNpc	ÅèÔÔ-2	npc\itemnpc1071	333	5	2									20				16		1			
+home_penzai_004	FurnitureNpc	ÅèÔÔ-2	npc\itemnpc1072	333	5	2													16		1			
+home_penzai_005	FurnitureNpc	ÅèÔÔ-3	npc\itemnpc1073	333	5	2													16		1			
+home_penzai_006	FurnitureNpc	ÅèÔÔ-3	npc\itemnpc1074	333	5	2													16		1			
+home_penzai_007	FurnitureNpc	ÅèÔÔ-4	npc\itemnpc1075	333	5	2													16		1			
+home_penzai_008	FurnitureNpc	ÅèÔÔ-4	npc\itemnpc1076	333	5	2													16		1			
+home_penzai_009	FurnitureNpc	ÅèÔÔ-5	npc\itemnpc1077	333	5	2													16		1			
+home_penzai_010	FurnitureNpc	ÅèÔÔ-6	npc\itemnpc1078	333	5	2													16		1			
+																								
+																								
+home_chugui_mu_001	FurnitureNpc	³÷¹ñÄ¾-1	npc\itemnpc1175	333	5	2									5	1	3	4	11		1			
+home_chugui_mu_002	FurnitureNpc	³÷¹ñÄ¾-2	npc\itemnpc1176	333	5	2									20	2	3	4	11		1			
+home_chugui_mu_003	FurnitureNpc	³÷¹ñÄ¾-3	npc\itemnpc1177	333	5	2									40	3	3	4	11		1			
+																								
+home_chugui_zhu_001	FurnitureNpc	³÷¹ñÖñ-1	npc\itemnpc1179	333	5	2									5	1	3	4	11		1			
+home_chugui_zhu_002	FurnitureNpc	³÷¹ñÖñ-2	npc\itemnpc1180	333	5	2									20	2	3	4	11		1			
+home_chugui_zhu_003	FurnitureNpc	³÷¹ñÖñ-3	npc\itemnpc1181	333	5	2									40	3	3	4	11		1			
+																								
+																								
+home_xiangzi_001	FurnitureNpc	Ïä×ÓÄ¾	npc\itemnpc1174	333	5	2									5	1	2	6	10		1			
+home_xiangzi_002	FurnitureNpc	Ïä×ÓÖñ	npc\itemnpc1178	333	5	2									20	2	2	6	10		1			
+home_xiangzi_003	FurnitureNpc	Ïä×Ó-1	npc\itemnpc1182	333	5	2									40	3	2	6	10		1			
+home_xiangzi_004	FurnitureNpc	Ïä×Ó-2	npc\itemnpc1183	333	5	2									70	4	2	6	10		1			
+																								
+																								
+home_zhuo_mu_001	SaveFurnNpc	Ä¾×À-1	npc\itemnpc1199	333	5	2			"2,Home_Point_1,,;1,Home_Point_2,,;1,Home_Point_3,,;1,Home_Point_4,,;1,Home_Point_5,,;"						5	1	4	4	12		1			
+home_zhuo_mu_002	SaveFurnNpc	Ä¾×À-2	npc\itemnpc1200	333	5	2			"2,Home_Point_1,,;1,Home_Point_2,,;1,Home_Point_3,,;1,Home_Point_4,,;1,Home_Point_5,,;"						20	2	4	4	12		1			
+home_zhuo_mu_003	SaveFurnNpc	Ä¾×À-3	npc\itemnpc1201	333	5	2			"2,Home_Point_1,,;1,Home_Point_2,,;1,Home_Point_3,,;1,Home_Point_4,,;1,Home_Point_5,,;"						40	3	4	4	12		1			
+home_zhuo_mu_004	SaveFurnNpc	Ä¾×À-4	npc\itemnpc1202	333	5	2			"2,Home_Point_1,,;1,Home_Point_2,,;1,Home_Point_3,,;1,Home_Point_4,,;1,Home_Point_5,,;"						70	4	4	4	12		1			
+home_zhuo_mu_005	SaveFurnNpc	Ä¾×À-5	npc\itemnpc1203	333	5	2			"2,Home_Point_1,,;1,Home_Point_2,,;1,Home_Point_3,,;1,Home_Point_4,,;1,Home_Point_5,,;"						120	5	4	4	12		1			
+																								
+home_zhuo_mt_001	FurnitureNpc	Ä¾Ìõ×À-1	npc\itemnpc1204	333	5	2									5	1	4	4	12		1			
+home_zhuo_mt_002	FurnitureNpc	Ä¾Ìõ×À-2	npc\itemnpc1207	333	5	2									20	2	4	4	12		1			
+home_zhuo_mt_003	FurnitureNpc	Ä¾Ìõ×À-3	npc\itemnpc1206	333	5	2									40	3	4	4	12		1			
+home_zhuo_mt_004	FurnitureNpc	Ä¾Ìõ×À-4	npc\itemnpc1205	333	5	2									70	4	4	4	12		1			
+																								
+home_zhuo_zhu_001	SaveFurnNpc	Öñ×À-1	npc\itemnpc1208	333	5	2			"2,Home_Point_1,,;1,Home_Point_2,,;1,Home_Point_3,,;1,Home_Point_4,,;1,Home_Point_5,,;"						5	1	4	4	12		1			
+home_zhuo_zhu_002	SaveFurnNpc	Öñ×À-2	npc\itemnpc1209	333	5	2			"2,Home_Point_1,,;1,Home_Point_2,,;1,Home_Point_3,,;1,Home_Point_4,,;1,Home_Point_5,,;"						20	2	4	4	12		1			
+home_zhuo_zhu_003	SaveFurnNpc	Öñ×À-3	npc\itemnpc1210	333	5	2			"2,Home_Point_1,,;1,Home_Point_2,,;1,Home_Point_3,,;1,Home_Point_4,,;1,Home_Point_5,,;"						40	3	4	4	12		1			
+																								
+home_zhuo_shi_001	SaveFurnNpc	Ê¯×À-1	npc\itemnpc1213	333	5	2			"2,Home_Point_1,,;1,Home_Point_2,,;1,Home_Point_3,,;1,Home_Point_4,,;1,Home_Point_5,,;"						5	1	4	4	12		1			
+home_zhuo_shi_002	SaveFurnNpc	Ê¯×À-2	npc\itemnpc1214	333	5	2			"2,Home_Point_1,,;1,Home_Point_2,,;1,Home_Point_3,,;1,Home_Point_4,,;1,Home_Point_5,,;"						20	2	4	4	12		1			
+home_zhuo_shi_003	SaveFurnNpc	Ê¯×À-3	npc\itemnpc1215	333	5	2			"2,Home_Point_1,,;1,Home_Point_2,,;1,Home_Point_3,,;1,Home_Point_4,,;1,Home_Point_5,,;"						40	3	4	4	12		1			
+																								
+home_huajia_mu_001	SaveFurnNpc	»¨¼ÜÄ¾-1	npc\itemnpc1079	333	5	2			"6,Home_Point_1,,;"						5	1	2	6	20		1			
+home_huajia_mu_002	SaveFurnNpc	»¨¼ÜÄ¾-3	npc\itemnpc1080	333	5	2			"6,Home_Point_1,,;"						20	2	2	6	20		1			
+home_huajia_mu_003	SaveFurnNpc	»¨¼ÜÄ¾-6	npc\itemnpc1081	333	5	2			"6,Home_Point_1,,;"						40	3	2	6	20		1			
+																								
+home_huajia_zhu_001	SaveFurnNpc	»¨¼ÜÖñ-1	npc\itemnpc1085	333	5	2			"6,Home_Point_1,,;"						5	1	2	6	20		1			
+home_huajia_zhu_002	SaveFurnNpc	»¨¼ÜÖñ-3	npc\itemnpc1086	333	5	2			"6,Home_Point_1,,;"						20	2	2	6	20		1			
+home_huajia_zhu_003	SaveFurnNpc	»¨¼ÜÖñ-6	npc\itemnpc1087	333	5	2			"6,Home_Point_1,,;"						40	3	2	6	20		1			
+																								
+home_huajia_shi_001	SaveFurnNpc	»¨¼ÜÊ¯-1	npc\itemnpc1082	333	5	2			"6,Home_Point_1,,;"						5	1	2	6	20		1			
+home_huajia_shi_002	SaveFurnNpc	»¨¼ÜÊ¯-3	npc\itemnpc1083	333	5	2			"6,Home_Point_1,,;"						20	2	2	6	20		1			
+home_huajia_shi_003	SaveFurnNpc	»¨¼ÜÊ¯-6	npc\itemnpc1084	333	5	2			"6,Home_Point_1,,;"						40	3	2	6	20		1			
+																								
+																								
+home_guizi_mu_001	SaveFurnNpc	¹ñ×ÓÄ¾-1	npc\itemnpc1045	333	5	2			"1,Home_Point_1,,;1,Home_Point_2,,;1,Home_Point_3,,;1,Home_Point_4,,;1,Home_Point_5,,;1,Home_Point_6,,;1,Home_Point_7,,;1,Home_Point_8,,;"						5	1	4	6	9		1			
+home_guizi_mu_002	SaveFurnNpc	¹ñ×ÓÄ¾-2	npc\itemnpc1046	333	5	2			"2,Home_Point_1,,;2,Home_Point_2,,;2,Home_Point_3,,;1,Home_Point_4,,;1,Home_Point_5,,;1,Home_Point_6,,;1,Home_Point_7,,;2,Home_Point_8,,;2,Home_Point_9,,;2,Home_Point_10,,;"						20	2	4	6	9		1			
+home_guizi_mu_003	SaveFurnNpc	¹ñ×ÓÄ¾-3	npc\itemnpc1047	333	5	2			"3,Home_Point_1,,;2,Home_Point_2,,;2,Home_Point_3,,;2,Home_Point_4,,;2,Home_Point_5,,;2,Home_Point_6,,;2,Home_Point_7,,;1,Home_Point_8,,;1,Home_Point_9,,;"						40	3	4	6	9		1			
+home_guizi_mu_004	SaveFurnNpc	¹ñ×ÓÄ¾-4	npc\itemnpc1048	333	5	2			"2,Home_Point_1,,;3,Home_Point_2,,;2,Home_Point_3,,;2,Home_Point_4,,;2,Home_Point_5,,;3,Home_Point_6,,;2,Home_Point_7,,;4,Home_Point_8,,;1,Home_Point_9,,;1,Home_Point_10,,;"						70	4	4	6	9		1			
+home_guizi_mu_005	SaveFurnNpc	¹ñ×ÓÄ¾-5	npc\itemnpc1049	333	5	2			"2,Home_Point_1,,;1,Home_Point_2,,;3,Home_Point_3,,;1,Home_Point_4,,;5,Home_Point_5,,;4,Home_Point_6,,;"						120	5	4	6	9		1			
+home_guizi_mu_006	SaveFurnNpc	¹ñ×ÓÄ¾-6	npc\itemnpc1050	333	5	2			"2,Home_Point_1,,;2,Home_Point_2,,;2,Home_Point_3,,;2,Home_Point_4,,;3,Home_Point_5,,;2,Home_Point_6,,;2,Home_Point_7,,;6,Home_Point_8,,;"						200	6	4	6	9		1			
+																								
+home_guizi_shi_001	SaveFurnNpc	¹ñ×ÓÊ¯-1	npc\itemnpc1051	333	5	2			"1,Home_Point_1,,;1,Home_Point_2,,;1,Home_Point_3,,;1,Home_Point_4,,;1,Home_Point_5,,;1,Home_Point_6,,;1,Home_Point_7,,;1,Home_Point_8,,;1,Home_Point_9,,;1,Home_Point_10,,;"						5	1	4	6	9		1			
+home_guizi_shi_002	SaveFurnNpc	¹ñ×ÓÊ¯-2	npc\itemnpc1052	333	5	2			"1,Home_Point_1,,;1,Home_Point_2,,;1,Home_Point_3,,;1,Home_Point_4,,;1,Home_Point_5,,;1,Home_Point_6,,;2,Home_Point_7,,;2,Home_Point_8,,;"						20	2	4	6	9		1			
+home_guizi_shi_003	SaveFurnNpc	¹ñ×ÓÊ¯-3	npc\itemnpc1053	333	5	2			"1,Home_Point_1,,;3,Home_Point_2,,;2,Home_Point_3,,;1,Home_Point_4,,;1,Home_Point_5,,;1,Home_Point_6,,;"						40	3	4	6	9		1			
+home_guizi_shi_004	SaveFurnNpc	¹ñ×ÓÊ¯-4	npc\itemnpc1054	333	5	2			"2,Home_Point_1,,;4,Home_Point_2,,;2,Home_Point_3,,;2,Home_Point_4,,;2,Home_Point_5,,;2,Home_Point_6,,;2,Home_Point_7,,;"						70	4	4	6	9		1			
+home_guizi_shi_005	SaveFurnNpc	¹ñ×ÓÊ¯-5	npc\itemnpc1055	333	5	2			"1,Home_Point_1,,;3,Home_Point_2,,;1,Home_Point_3,,;5,Home_Point_4,,;2,Home_Point_5,,;2,Home_Point_6,,;5,Home_Point_7,,;"						120	5	4	6	9		1			
+home_guizi_shi_006	SaveFurnNpc	¹ñ×ÓÊ¯-6	npc\itemnpc1056	333	5	2			"3,Home_Point_1,,;4,Home_Point_2,,;3,Home_Point_3,,;2,Home_Point_4,,;1,Home_Point_5,,;1,Home_Point_6,,;6,Home_Point_7,,;"						200	6	4	6	9		1			
+																								
+home_guizi_zhu_001	SaveFurnNpc	¹ñ×ÓÖñ-1	npc\itemnpc1057	333	5	2			"1,Home_Point_1,,;1,Home_Point_2,,;1,Home_Point_3,,;1,Home_Point_4,,;1,Home_Point_5,,;1,Home_Point_6,,;1,Home_Point_7,,;1,Home_Point_8,,;1,Home_Point_9,,;1,Home_Point_10,,;"						5	1	4	6	9		1			
+home_guizi_zhu_002	SaveFurnNpc	¹ñ×ÓÖñ-2	npc\itemnpc1058	333	5	2			"2,Home_Point_1,,;2,Home_Point_2,,;1,Home_Point_3,,;1,Home_Point_4,,;1,Home_Point_5,,;2,Home_Point_6,,;2,Home_Point_7,,;1,Home_Point_8,,;1,Home_Point_9,,;1,Home_Point_10,,;"						20	2	4	6	9		1			
+home_guizi_zhu_003	SaveFurnNpc	¹ñ×ÓÖñ-3	npc\itemnpc1059	333	5	2			"1,Home_Point_1,,;3,Home_Point_2,,;1,Home_Point_3,,;3,Home_Point_4,,;2,Home_Point_5,,;3,Home_Point_6,,;2,Home_Point_7,,;"						40	3	4	6	9		1			
+home_guizi_zhu_004	SaveFurnNpc	¹ñ×ÓÖñ-4	npc\itemnpc1060	333	5	2			"1,Home_Point_1,,;1,Home_Point_2,,;2,Home_Point_3,,;2,Home_Point_4,,;2,Home_Point_5,,;1,Home_Point_6,,;3,Home_Point_7,,;4,Home_Point_8,,;"						70	4	4	6	9		1			
+home_guizi_zhu_005	SaveFurnNpc	¹ñ×ÓÖñ-5	npc\itemnpc1061	333	5	2			"1,Home_Point_1,,;1,Home_Point_2,,;4,Home_Point_3,,;1,Home_Point_4,,;1,Home_Point_5,,;1,Home_Point_6,,;5,Home_Point_7,,;1,Home_Point_8,,;"						120	5	4	6	9		1			
+home_guizi_zhu_006	SaveFurnNpc	¹ñ×ÓÖñ-6	npc\itemnpc1062	333	5	2			"1,Home_Point_1,,;1,Home_Point_2,,;2,Home_Point_3,,;2,Home_Point_4,,;5,Home_Point_5,,;3,Home_Point_6,,;"						200	6	4	6	9		1			
+																								
+home_chongwu_gou1_npc	HomePetNpc	ÖÐ»ªÌïÔ°È®	npc\petm_110301	333	5	2								pet_new_gou1_line							1			
+home_chongwu_gou2_npc	HomePetNpc	ºÚ±³	npc\petm_110302	333	5	2								pet_new_gou2_line							1			
+home_chongwu_gou3_npc	HomePetNpc	²Øéá	npc\petm_110303	333	5	2								pet_new_gou3_line							1			
+home_chongwu_ying1_npc	HomePetNpc	°×µñ	npc\petm_100301	333	5	2								pet_new_ying1_line							1			
+home_chongwu_ying2_npc	HomePetNpc	Ã¨Í·Ó¥	npc\petm_100302	333	5	2								pet_new_ying2_line							1			
+home_chongwu_ying3_npc	HomePetNpc	½ðµñ	npc\petm_100303	333	5	2								pet_new_ying3_line							1			
+home_chongwu_hou1_npc	HomePetNpc	â¨ºï	npc\petm_090301	333	5	2								pet_new_hou1_line							1			
+home_chongwu_hou2_npc	HomePetNpc	Ô³ºï	npc\petm_090302	333	5	2								pet_new_hou2_line							1			
+home_chongwu_hou3_npc	HomePetNpc	½ðË¿ºï	npc\petm_090303	333	5	2								pet_new_hou3_line							1			
+home_chongwu_diao1_npc	HomePetNpc	ÖÓÁéõõ	npc\petm_120301	333	5	2								pet_new_diao1_line							1			
+home_chongwu_diao2_npc	HomePetNpc	ÉÁµçõõ	npc\petm_120302	333	5	2								pet_new_diao2_line							1			
+home_chongwu_diao3_npc	HomePetNpc	ÐÜÃ¨õõ	npc\petm_120303	333	5	2								pet_new_diao3_line							1			
+home_chongwu_huli_npc	HomePetNpc	°¢Àê	npc\petm_130302	333	5	2								pet_new_huli_line							1			
+																								
+home_xn	HomeToolBoxNpc	ÐÐÄÒ¼Ü	npc\itemnpc1352	333	5	2						home_toolbox	2894								1			
+home_wuxuexl_001_npc	HomeWuXueNpc	ÎäÑ§Êé¼Ü	npc\npcitem776	333	5	2															1			
+home_wuxuexl_002_npc	HomeWuXueNpc	ÎäÑ§Êé¼Ü	npc\npcitem776	333	5	2															1			
+																								
+home_aizhuo_mu_001	FurnitureNpc	°«×À-1	npc\itemnpc1461	333	5	2									5						1			
+home_aizhuo_mu_002	FurnitureNpc	°«×À-2	npc\itemnpc1462	333	5	2									20						1			
+home_aizhuo_mu_003	FurnitureNpc	°«×À-3	npc\itemnpc1463	333	5	2									40						1			
+																								
+home_xilianjia_mu_001	FurnitureNpc	Ï´Á³¼Ü-1	npc\itemnpc1467	333	5	2									5						1			
+home_xilianjia_mu_002	FurnitureNpc	Ï´Á³¼Ü-2	npc\itemnpc1468	333	5	2									20						1			
+home_xilianjia_mu_003	FurnitureNpc	Ï´Á³¼Ü-3	npc\itemnpc1469	333	5	2									40						1			
+																								
+home_yichu_001	ClothespressNpc	ÒÂ³÷-1	npc\itemnpc1177	333	5	2									40	1	3	4	11	6	1			
+home_yichu_002	ClothespressNpc	ÒÂ³÷-2	npc\itemnpc1176	333	5	2									70	2	3	4	11	12	1			
+home_yichu_003	ClothespressNpc	ÒÂ³÷-3	npc\itemnpc1177	333	5	2									120	3	3	4	11	18	1			
+																								
+//Ê¥µ®¼Ò¾ß																								
+home_ditan_sd_001	FurnitureNpc	Å¯¶¬µØÌº	npc\npcitem910	333	5	2													18		1			
+home_zhuangshi_sd_001	FurnitureNpc	Ñ©ÈËÏÀÊ¿	npc\npcitem912	333	5	2									70				19		1			
+home_zhuangshi_sd_002	FurnitureNpc	»ðÊ÷Òø»¨	npc\npcitem913	333	5	2									70				19		1			
+home_zhuo_sd_001	SaveFurnNpc	ÓÎÁúÏ·ÖéÔ²×À	npc\npcitem916	333	5	2			"2,Home_Point_1,,;1,Home_Point_2,,;1,Home_Point_3,,;1,Home_Point_4,,;1,Home_Point_5,,;"						200	6	4	5	12		1			
+home_pingfeng_sd_001	FurnitureNpc	ÆÁ·ç	npc\npcitem914	333	5	2									200	6	4	6	17		1			
+home_zhuang_sd_001	FurnitureNpc	Êá×±Ì¨	npc\npcitem918	333	5	2									200	6	3	5	15		1			
+home_xiangzi_sd_001	FurnitureNpc	±¦Ïä	npc\npcitem917	333	5	2									70	4	2	7	10		1			
+																								
+//15ÄêÊ¥µ®																								
+home_wuqi_007	WeaponRackNpc	éªÄ¾µÛ×ðÎäÆ÷¼Ü	npc\home_wuqi_07	333	5	2									200	6	4	3	1		1			
+home_yichu_sd_001	ClothespressNpc	½ðË¿ÁÕÀÅÒÂ³÷	npc\home_yichu_02	333	5	2									200	2	3	4	11	18	1			
+																								
+//Í¥Ôº¼Ò¾ß																								
+//µñÏñ																								
+home_diaoxiang_001	FurnitureNpc	Ê¯Ê¨×ó	npc\npcitem1045	333	5	2									20	1	5	6	19		1			
+home_diaoxiang_002	FurnitureNpc	Ê¯Ê¨ÓÒ	npc\npcitem1045a	333	5	2									20	1	5	6	19		1			
+home_diaoxiang_003	FurnitureNpc	õùõ÷	npc\npcitem1046	333	5	2									40	1	5	6	19		1			
+																								
+//ÅèÔÔ																								
+home_penzai_new_001	FurnitureNpc	ÅèÔÔ-1	npc\npcitem1047	333	5	2									20	1	2	6	16		1			
+home_penzai_new_002	FurnitureNpc	ÅèÔÔ-1	npc\npcitem1048	333	5	2									30	1	2	6	16		1			
+home_penzai_new_003	FurnitureNpc	ÅèÔÔ-2	npc\npcitem1049	333	5	2									30	1	2	6	16		1			
+home_penzai_new_004	FurnitureNpc	ÅèÔÔ-2	npc\npcitem1050	333	5	2									40	1	2	6	16		1			
+																								
+//Ê÷Ä¾																								
+home_tree_001	FurnitureNpc	Ó£Ê÷	npc\npcitem1055	333	5	2									80	1	5	6	16		1			
+home_tree_002	FurnitureNpc	ºìÒ¶	npc\npcitem1056	333	5	2									80	1	5	6	16		1			
+home_tree_003	FurnitureNpc	ÁøÊ÷	npc\npcitem1057	333	5	2									80	1	5	6	16		1			
+home_tree_004	FurnitureNpc	ÌÒÊ÷	npc\npcitem1058	333	5	2									80	1	5	6	16		1			
+																								
+//ÌíË®																								
+home_tianshui_001	FurnitureNpc	ÌíË®-1	npc\npcitem1060	333	5	2									50	1	5	6	16		1			
+home_tianshui_002	FurnitureNpc	ÌíË®-2	npc\npcitem1061	333	5	2									100	1	5	6	16		1			
+home_tianshui_003	FurnitureNpc	ÌíË®-3	npc\npcitem1062	333	5	2									150	1	5	6	16		1			
+																								
+//ÌÙ¼Ü																								
+home_tengjia_001	FurnitureNpc	ÌÙ¼Ü-1	npc\npcitem1063	333	5	2									50	1	5	6	20		1			
+home_tengjia_002	FurnitureNpc	ÌÙ¼Ü-2	npc\npcitem1064	333	5	2									100	1	5	6	20		1			
+																								
+//Ë®¾®																								
+home_jing_001	FurnitureNpc	Ë®¾®-1	npc\npcitem1065	333	5	2									50	1	5	6	21		1			
+home_jing_002	FurnitureNpc	Ë®¾®-2	npc\npcitem1066	333	5	2									100	1	5	6	21		1			
+home_jing_003	FurnitureNpc	Ë®¾®-3	npc\npcitem1067	333	5	2									150	1	5	6	21		1			
+																								
+//2016Ê¥µ®																								
+home_sd_new_006	FurnitureNpc	×í»¨Òñ	npc\npcitem1072	333	5	2									200	6	6	6	20		1			
+home_sd_new_001	FurnitureNpc	±ù¾§»ð·ï	npc\npcitem1071	333	5	2									200	6	6	6	19		1			
+home_sd_new_002	FurnitureNpc	ÕÐ²ÆÑ©ß÷	npc\npcitem1068	333	5	2									200	6	10	6	19		1			
+home_sd_new_007	FurnitureNpc	ÒöÔµÄ¾	npc\npcitem1076	333	5	2									200	6	10	6	16		1			
+																								
+home_qrj_dh_001	FurnitureNpc	Ãµ¹å»¨¹°ÃÅ	npc\npcitem1083	333	5	2									100	1	10	6	16		1			
+home_qrj_dh_002	FurnitureNpc	Ãµ¹å»¨»¨´Ô	npc\npcitem1084	333	5	2									100	1	10	6	16		1			
+																								
+home_sbj_dh_001	FurnitureNpc	Äµµ¤»¨Æ¿	npc\npcitem1118	333	5	2									100	1	10	6	19		1			
+home_sbj_dh_002	FurnitureNpc	Äµµ¤ÆÁ·ç	npc\npcitem1119	333	5	2									100	1	10	6	17		1			
+																								
+//ÐÂ°æ°ÚÉè																								
+home_jy_jt_001	FurnitureNpc	Å®¶ùºì	npc\npcitem1094	333	5	2									30	3	10	6	19		1			
+home_jy_jt_002	FurnitureNpc	Äð¾ÆÌ³	npc\npcitem1095	333	5	2									20	2	10	6	19		1			
+home_jy_wg_001	FurnitureNpc	Íß¹Þ	npc\npcitem1096	333	5	2									20	2	10	6	19		1			
+home_jy_wg_002	FurnitureNpc	Íß¹Þ¶Ñ	npc\npcitem1097	333	5	2									30	3	10	6	19		1			
+home_jy_sb_001	FurnitureNpc	Ë«²ãÉ¹±â	npc\npcitem1098	333	5	2									20	2	10	6	19		1			
+home_jy_sb_002	FurnitureNpc	Èý²ãÉ¹±â	npc\npcitem1099	333	5	2									30	3	10	6	19		1			
+home_jy_sj_001	FurnitureNpc	´ÖÉþÉ¹¼Ü	npc\npcitem1100	333	5	2									20	2	10	6	19		1			
+home_jy_zt_001	FurnitureNpc	ÔîÌ¨	npc\npcitem1101	333	5	2									100	4	10	6	19		1			
+home_jy_jj_001	FurnitureNpc	¾Æ¼Ü	npc\npcitem1102	333	5	2									30	3	10	6	19		1			
+home_jy_tdm_001	FurnitureNpc	ÍÁµØÃí	npc\npcitem1103	333	5	2									100	4	10	6	19		1			
+home_jy_qs_001	FurnitureNpc	ÆæÊ¯	npc\npcitem1104	333	5	2									30	3	10	6	19		1			
+home_jy_qs_002	FurnitureNpc	ÆæÊ¯	npc\npcitem1105	333	5	2									20	2	10	6	19		1			
+home_jy_qs_003	FurnitureNpc	ÆæÊ¯	npc\npcitem1106	333	5	2									20	2	10	6	19		1			
+home_jy_qs_004	FurnitureNpc	ÆæÊ¯	npc\npcitem1107	333	5	2									20	2	10	6	19		1			
+home_jy_sg_001	FurnitureNpc	Ë®¸×	npc\npcitem1091_1	333	5	2									5	1	10	6	19		1			
+home_jy_sg_002	FurnitureNpc	Ë®¸×	npc\npcitem1091_2	333	5	2									30	3	10	6	19		1			
+home_jy_ymwqj_001	FurnitureNpc	ÑÃÃÅÎäÆ÷¼Ü	npc\npcitem1092_2	333	5	2									20	2	10	6	19		1			
+home_jy_ymwqj_002	FurnitureNpc	ÑÃÃÅÎäÆ÷¼Ü	npc\npcitem1092_1	333	5	2									30	3	10	6	16		1			
+home_jy_tree_001	FurnitureNpc	Ê÷	npc\npcitem1108	333	5	2									30	3	10	6	16		1			
+home_jy_tree_002	FurnitureNpc	Ê÷	npc\npcitem1109	333	5	2									30	3	10	6	16		1			
+home_jy_tree_003	FurnitureNpc	Ê÷	npc\npcitem1110	333	5	2									30	3	10	6	16		1			
+home_jy_tree_004	FurnitureNpc	Ê÷	npc\npcitem1111	333	5	2									30	3	10	6	16		1			
+home_jy_penzai_001	FurnitureNpc	ÅèÔÔ	npc\npcitem1112	333	5	2									5	1	10	6	16		1			
+home_jy_tree_005	FurnitureNpc	Ê÷	npc\npcitem1113	333	5	2									5	1	10	6	16		1			
+home_jy_penzai_002	FurnitureNpc	ÅèÔÔ	npc\npcitem1114	333	5	2									100	4	10	6	16		1			
+home_jy_penzai_003	FurnitureNpc	ÅèÔÔ	npc\npcitem1115	333	5	2									5	1	10	6	16		1			
+home_jy_penzai_004	FurnitureNpc	ÅèÔÔ	npc\npcitem1116	333	5	2									5	1	10	6	16		1			
+home_jy_tree_006	FurnitureNpc	Ê÷	npc\npcitem1117	333	5	2									5	1	10	6	16		1			
+																								
+//17Ê¥µ®¼Ò¾ß																								
+home_sd_17new_004	FurnitureNpc	ÎèÊ¨µñÏñ	npc\npcitem1140	333	5	2									200	6	10	6	19		1			
+home_sd_17new_006	FurnitureNpc	¶¬ÈÕÆÁ·ç	npc\npcitem1143	333	5	2									200	6	10	4	17		1			
+home_sd_17new_007	FurnitureNpc	¶¬ÈÕÊá×±Ì¨	npc\npcitem1145	333	5	2									200	6	10	4	15		1			
+home_sd_17new_008	FurnitureNpc	¶¬ÈÕÂäµØ»¨Æ¿	npc\npcitem1144	333	5	2									200	6	10	4	19		1			
+																								
+//18ÄêÊ®ÔÂ¼Ò¾ß																								
+home_10_new_001	FurnitureNpc	Ó©»ðµãµã	npc\npcitem1155	333	5	2							5511		200	6	10	6	19		1			
+home_10_new_002	FurnitureNpc	ÆÁ·ç	npc\npcitem1153	333	5	2									200	6	10	6	17		1			
+																								
+//19ÄêÊ®¶þÔÂ¼Ò¾ß																								
+home_19_new_015	FurnitureNpc	ÖíµñÏñ	npc\npcitem1174	333	5	2									200	6	10	6	17		1			
+home_19_new_016	FurnitureNpc	ÖíµñÏñ	npc\npcitem1175	333	5	2									200	6	10	6	17		1			
+																								
+//20Äê´º½Ú»î¶¯																								
+home_20_hd_001	FurnitureNpc	¹Ø¹«Ïñ	npc\npcitem1166	333	5	2									200	6	10	6	17		1			
+																								
+//2020Ë«µ©																								
+home_20_new_001	FurnitureNpc	·¼ÁÖ»¨Ð¦£¨ÆÁ·ç£©	npc\npcitem1167	333	5	2									200	6	10	6	17		1			
+home_20_new_002	FurnitureNpc	¸»ÏÉÆæ±¦¼Ü	npc\npcitem1168	333	5	2									200	6	10	6	19		1			
+																								
+//2021òÔÖéµº																								
+home_21_dao_001	FurnitureNpc	òÔÖéº£¸ó	npc\itemnpc1711	333	5	2									200	4	10	6	19		1			
+home_21_dao_002	FurnitureNpc	¹Ûº£Í¤	npc\itemnpc1704_1	333	5	2									200	4	10	6	19		1			
+home_21_dao_003	SaveFurnNpc	Íûº£Ì¨	npc\itemnpc1704_2	333	5	2			"12,Home_Point_1,,;12,Home_Point_2,,;12,Home_Point_3,,;12,Home_Point_4,,;12,Home_Point_5,,;"	"1,0.5,1,0,;1,0.5,1.6,0,;0,0.5,0,0,;-1,0.5,1,0,;-1,0.5,1,0,;"			5887		200	4	10	6	19		1			
+home_21_dao_004	FurnitureNpc	Ìýº£Â¥	npc\itemnpc1704_3	333	5	2									200	4	10	6	19		1			
+home_21_dao_007	FurnitureNpc	Éºº÷Î§À¸-Ö±Ïß	npc\itemnpc1702_1	333	5	2									200	4	10	6	19		1			
+home_21_dao_008	FurnitureNpc	Éºº÷Î§À¸-Ê®×Ö	npc\itemnpc1702_2	333	5	2									200	4	10	6	19		1			
+home_21_dao_009	FurnitureNpc	Éºº÷Î§À¸-×ª½Ç	npc\itemnpc1702_3	333	5	2									200	4	10	6	19		1			
+home_21_dao_010	FurnitureNpc	Éºº÷Î§À¸-ÓÎÀÈ	npc\itemnpc1702_4	333	5	2									200	4	10	6	19		1			
+home_21_dao_011	FurnitureNpc	Éºº÷Î§À¸-ÃÅÂ¥	npc\itemnpc1702_5	333	5	2									200	4	10	6	19		1			
+home_21_dao_012	FurnitureNpc	Éºº÷Î§À¸-¾°Ç½	npc\itemnpc1702_6	333	5	2									200	4	10	6	19		1			
+home_21_dao_013	SaveFurnNpc	Ð¡Óã¸×-1	npc\itemnpc1705_1	333	5	2			"11,Home_Point_1,,;11,Home_Point_2,,;11,Home_Point_3,,;11,Home_Point_4,,;11,Home_Point_5,,;13,Home_Point_6,,;13,Home_Point_7,,;13,Home_Point_8,,;14,Home_Point_9,,;"	"0.8,0.8,0.5,0,;-0.8,0.6,0.5,0,;0,0.8,0,0,;0.75,0.8,-0.5,0,;-0.7,0.8,-0.6,0,;1,0.6,0.5,0,;-0.6,0.6,1,0,;0.4,0.6,1,0,;1,1,1,-1.54,;"			5883		100	4	10	6	19		1			
+home_21_dao_014	SaveFurnNpc	Ð¡Óã¸×-2	npc\itemnpc1705_2	333	5	2			"11,Home_Point_1,,;11,Home_Point_2,,;11,Home_Point_3,,;11,Home_Point_4,,;11,Home_Point_5,,;13,Home_Point_6,,;13,Home_Point_7,,;13,Home_Point_8,,;14,Home_Point_9,,;"	"0.8,0.8,0.5,0,;-0.8,0.6,0.5,0,;0,0.8,0,0,;0.75,0.8,-0.5,0,;-0.7,0.8,-0.6,0,;1,0.6,0.5,0,;-0.6,0.6,1,0,;0.4,0.6,1,0,;1,1,1,-1.54,;"			5883		100	4	10	6	19		1			
+home_21_dao_015	SaveFurnNpc	Ð¡Óã¸×-3	npc\itemnpc1705_1	333	5	2									100	4	10	6	19		1			
+home_21_dao_016	SaveFurnNpc	Óã¸×-1	npc\itemnpc1706_1	333	5	2			"10,Home_Point_1,,;10,Home_Point_2,,;10,Home_Point_3,,;13,Home_Point_4,,;13,Home_Point_5,,;13,Home_Point_6,,;"	"0.5,1.2,0,0,;-0.4,1,0,0,;0,0.8,0,0,;0.75,0.5,0.2,0,;0,0.5,0,0,;-0.75,0.5,0,0,;"			5884		100	4	10	6	19		1			
+home_21_dao_017	SaveFurnNpc	Óã¸×-2	npc\itemnpc1706_2	333	5	2			"10,Home_Point_1,,;10,Home_Point_2,,;10,Home_Point_3,,;13,Home_Point_4,,;13,Home_Point_5,,;13,Home_Point_6,,;"	"0.5,1.2,0,0,;-0.4,1,0,0,;0,0.8,0,0,;0.75,0.5,0.2,0,;0,0.55,0,0,;-0.75,0.5,0,0,;"			5884		100	4	10	6	19		1			
+home_21_dao_018	SaveFurnNpc	Óã¸×-3	npc\itemnpc1705_1	333	5	2									100	4	10	6	19		1			
+home_21_dao_019	FurnitureNpc	Ö²Îï-Éºº÷´Ø1	npc\itemnpc1707_1	333	5	2									100	4	10	6	19		1			
+home_21_dao_020	FurnitureNpc	Ö²Îï-Éºº÷´Ø2	npc\itemnpc1707_2	333	5	2									100	4	10	6	19		1			
+home_21_dao_021	FurnitureNpc	Ö²Îï-Éºº÷´Ø3	npc\itemnpc1707_3	333	5	2									100	4	10	6	19		1			
+home_21_dao_022	FurnitureNpc	Ö²Îï-Éºº÷´Ø4	npc\itemnpc1707_4	333	5	2									100	4	10	6	19		1			
+home_21_dao_023	FurnitureNpc	Ö²Îï-Ò¬Ê÷1	npc\itemnpc1708_1	333	5	2									100	4	10	6	19		1			
+home_21_dao_024	FurnitureNpc	Ö²Îï-Ò¬Ê÷2	npc\itemnpc1708_2	333	5	2									100	4	10	6	19		1			
+home_21_dao_025	FurnitureNpc	Ö²Îï-Ò¬Ê÷3	npc\itemnpc1708_3	333	5	2									100	4	10	6	19		1			
+home_21_dao_026	FurnitureNpc	Ö²Îï-Ò¬Ê÷4	npc\itemnpc1708_4	333	5	2									100	4	10	6	19		1			
+home_21_dao_027	FurnitureNpc	Ö²Îï-À«Ò¶°Å½¶Ê÷1	npc\itemnpc1709_1	333	5	2									100	4	10	6	19		1			
+home_21_dao_028	FurnitureNpc	Ö²Îï-À«Ò¶°Å½¶Ê÷2	npc\itemnpc1709_2	333	5	2									100	4	10	6	19		1			
+home_21_dao_029	FurnitureNpc	Ö²Îï-À«Ò¶°Å½¶Ê÷3	npc\itemnpc1709_3	333	5	2									100	4	10	6	19		1			
+home_21_dao_030	FurnitureNpc	Ö²Îï-À«Ò¶°Å½¶Ê÷4	npc\itemnpc1709_4	333	5	2									100	4	10	6	19		1			
+home_21_dao_031	FurnitureNpc	Ö²Îï-°«Ê÷´Ô1	npc\itemnpc1710a	333	5	2									100	4	10	6	19		1			
+home_21_dao_032	FurnitureNpc	Ö²Îï-°«Ê÷´Ô2	npc\itemnpc1710b	333	5	2									100	4	10	6	19		1			
+home_21_dao_033	FurnitureNpc	Ö²Îï-°«Ê÷´Ô3	npc\itemnpc1710c	333	5	2									100	4	10	6	19		1			
+home_21_dao_034	FurnitureNpc	Ö²Îï-°«Ê÷´Ô4	npc\itemnpc1710d	333	5	2									100	4	10	6	19		1			
+home_21_daojian_001	FurnitureNpc	òÔÖéº£¸óÖ÷ÎÝ	npc\itemnpc1703	333	30	2					"home_daoyu_main_001,-2.091767,-0.100002,12.127483,-0.200000,"				200	4	10	6	19		1			
+home_21_daojian_002	FurnitureNpc	Å©³¡	npc\npcitem1183	333	5	2									200	4	10	6	19		1			
+																								
+home_21_dao_007b	FurnitureNpc	Î§Ç½-Ö±Ïß£¨Îé£©	npc\itemnpc1702_1b	333	5	2									200	4	10	6	19		1			
+home_21_dao_007c	FurnitureNpc	Î§Ç½-Ö±Ïß£¨¾Á£©	npc\itemnpc1702_1c	333	5	2									200	4	10	6	19		1			
+																								
+/21ÄêÐÂÄê¼Ò¾ß																								
+home_21_new_001	SaveFurnNpc	Óã¸×	npc\itemnpc1713	333	5	2			"11,Home_Point_1,,;11,Home_Point_2,,;11,Home_Point_3,,;11,Home_Point_4,,;11,Home_Point_5,,;13,Home_Point_6,,;13,Home_Point_7,,;13,Home_Point_8,,;14,Home_Point_9,,;"	"0.8,0.8,0.5,0,;-0.8,0.6,0.5,0,;0,0.8,0,0,;0.75,0.8,-0.5,0,;-0.7,0.8,-0.6,0,;1,0.6,0.5,0,;-0.6,0.6,1,0,;0.4,0.6,1,0,;1,1,1,-1.54,;"			5883		200	4	10	6	19		1			
+home_21_new_007	FurnitureNpc	°Ú¼þ1	npc\npcitem1170a	333	5	2									200	4	10	6	19		1			
+home_21_new_008	FurnitureNpc	°Ú¼þ2	npc\npcitem1170b	333	5	2									200	4	10	6	19		1			
+home_21_new_009	FurnitureNpc	Ê÷1	npc\npcitem1171a	333	5	2									200	4	10	6	16		1			
+home_21_new_010	FurnitureNpc	°Ú¼þ3	npc\npcitem1173	333	5	2							5889		200	4	10	6	19		1			
+home_21_new_011	FurnitureNpc	Ê÷2	npc\npcitem1171b	333	5	2									200	4	10	6	16		1			
+																								
+/22Äê4ÔÂ°æ±¾¼Ò¾ß																								
+home_2204_new_001	FurnitureNpc	ÓÎÀÈ1	npc\itemnpc1716_1	333	5	2									200	4	10	6	19		1			
+home_2204_new_002	FurnitureNpc	ÓÎÀÈ2´øÂ¥ÌÝ	npc\itemnpc1716_2	333	5	2									200	4	10	6	19		1			
+home_2204_new_003	FurnitureNpc	ÓÎÀÈ3ÍäµÀ	npc\itemnpc1716_3	333	5	2									200	4	10	6	19		1			
+home_2204_new_004	FurnitureNpc	ÓÎÀÈ4ÍäµÀ	npc\itemnpc1716_4	333	5	2									200	4	10	6	19		1			
+home_2204_new_005	FurnitureNpc	Öñ×Ó	npc\itemnpc1717	333	5	2									100	4	10	6	16		1			
+home_2204_new_006	FurnitureNpc	¼ÙÊ¯	npc\itemnpc1718	333	5	2									100	4	10	6	19		1			
+home_2204_new_007	FurnitureNpc	Í¤×Ó	npc\itemnpc1719	333	5	2									200	4	10	6	19		1			
+home_2204_new_008	SaveFurnNpc	Óã³Ø	npc\itemnpc1715	333	5	2			"12,Home_Point_1,,;12,Home_Point_2,,;12,Home_Point_3,,;12,Home_Point_4,,;12,Home_Point_5,,;"	"1,0.8,1,0,;1,0.8,1.2,0,;0,0.8,0,0,;-1,0.8,1,0,;-1,0.8,0,0,;"			5887		200	4	10	6	19		1			
+home_2204_new_009	FurnitureNpc	ÓÎÀÈ2´øÂ¥ÌÝ	npc\itemnpc1716_5	333	5	2									200	4	10	6	19		1			
+home_2204_new_010	FurnitureNpc	ÓÎÀÈ1-3	npc\itemnpc1716_6	333	5	2									200	4	10	6	19		1			
+home_2204_new_011	FurnitureNpc	ÓÎÀÈ1-5	npc\itemnpc1716_7	333	5	2									200	4	10	6	19		1			
+																								
+																								
+/22Äê6ÔÂ°æ±¾¼Ò¾ß																								
+home_2206_new_001	HomeMannequinNpc	ÄÐÄ£ÌØ	npc\kyfjianghu000b	333	5	2									200	4	10	6	2		1	0	0	
+home_2206_new_002	HomeMannequinNpc	Å®Ä£ÌØ	npc\kyfjianghu000g	333	5	2									200	4	10	6	2		1	1	0	
+home_2206_new_003	HomeMannequinNpc	ÄÐÄ£ÌØÐ¡	npc\kyfjianghu000b_s	333	5	2									200	4	10	6	2		1	0	4	"0.75,0.75,0.75"
+home_2206_new_004	HomeMannequinNpc	Å®Ä£ÌØÐ¡	npc\kyfjianghu000g_s	333	5	2									200	4	10	6	2		1	1	3	"0.75,0.75,0.75"
+																								
+/22Äê¹ýÄê¼Ò¾ß																								
+home_22_new_001	FurnitureNpc	ÁµÆÁ	npc\npcitem1414	333	5	2									200	4	10	6	19		1			
+home_22_new_002	FurnitureNpc	½ðÉùÓñÕñ	npc\npcitem1415	333	5	2									200	4	10	6	19		1			
+home_22_new_005	FurnitureNpc	ÑþÌ¨ÔÂÏÂ·ê	npc\npcitem1412	333	5	2							6129		200	4	10	6	19		1			
+																								
+//23Äê12ÔÂ×¯Ô°¼Ò¾ß																								
+home_23_zy_004	FurnitureNpc	½õÀðµÆ	npc\homeitem004	333	5	2									50	4	10	6	19		1			
+home_23_zy_006	FurnitureNpc	¹Ò»­	npc\homeitem006	333	5	2									50	4	10	6	19		1			
+home_23_zy_006a	FurnitureNpc	¹Ò»­	npc\homeitem006a	333	5	2									50	4	10	6	19		1			
+home_23_zy_006b	FurnitureNpc	¹Ò»­	npc\homeitem006b	333	5	2									50	4	10	6	19		1			
+home_23_zy_006c	FurnitureNpc	¹Ò»­	npc\homeitem006c	333	5	2									50	4	10	6	19		1			
+home_23_zy_007	FurnitureNpc	Ñ©ÈË°Ú¼þ	npc\homeitem007	333	5	2									50	4	10	6	19		1			
+home_23_zy_008a	FurnitureNpc	Ó©»ð³æ£¨»Æ£©	npc\homeitem008a	333	5	2									50	4	10	6	19		1			
+home_23_zy_008b	FurnitureNpc	Ó©»ð³æ£¨ÂÌ£©	npc\homeitem008b	333	5	2									50	4	10	6	19		1			
+home_23_zy_009	FurnitureNpc	ÖñÓ°Åè¾°	npc\homeitem009	333	5	2									50	4	10	6	19		1			
+home_23_zy_010	FurnitureNpc	É´á£ÖñÁ±	npc\homeitem010	333	5	2									50	4	10	6	19		1			
+home_23_zy_011	FurnitureNpc	ÄîºÉµÆ	npc\homeitem011	333	5	2									50	4	10	6	19		1			
+																								
+//24ÄêÐÂ´º¼Ò¾ß																								
+home_24_new_001	FurnitureNpc	ÁúÍæÅ¼	npc\homeitem012	333	5	2									200	4	10	6	19		1			
+home_24_new_003	FurnitureNpc	ÎÂÈª	npc\homeitem014	333	5	2									200	4	10	6	19		1			
+home_24_new_007	FurnitureNpc	¸£	npc\homeitem017b	333	5	2									100	4	10	6	19		1			
+home_24_new_008	FurnitureNpc	ÖÐ¹ú½á	npc\homeitem017c	333	5	2									200	4	10	6	19		1			
+home_24_new_009	FurnitureNpc	»¨Åè	npc\homeitem018	333	5	2									100	4	10	6	19		1			
+home_24_new_010	FurnitureNpc	»¨Åè	npc\homeitem019	333	5	2									100	4	10	6	19		1			
+home_24_new_011	FurnitureNpc	¹Ä³µ	npc\homeitem020	333	5	2									200	4	10	6	19		1			
+																								
+//25ÄêÐÂ´º¼Ò¾ß																								
+home_25_new_001	FurnitureNpc	ÉßÍæÅ¼1	npc\homeitem021	333	5	2									200	4	10	6	19		1			
+home_25_new_002	FurnitureNpc	ÉßÍæÅ¼2	npc\homeitem022	333	5	2									200	4	10	6	19		1			
+home_25_new_003	FurnitureNpc	ÆÁ·ç	npc\homeitem026	333	5	2									200	4	10	6	19		1			
+																								
+home_25_school29_001	FurnitureNpc	ÐÇÏóÒÇ	npc\huntianyi	333	5	2									200	4	10	6	19		1			
+																								
+//25ÄêÇàÉ½Òþ2.0																								
+home_25_zy_001	FurnitureNpc		npc\homeitem040	333	5	2									50	4	10	6	19		1			
+home_25_zy_002	FurnitureNpc		npc\homeitem041	333	5	2									50	4	10	6	19		1			
+home_25_zy_003	FurnitureNpc		npc\homeitem042	333	5	2									50	4	10	6	19		1			
+home_25_zy_005	FurnitureNpc		npc\homeitem044	333	5	2									50	4	10	6	19		1			
+home_25_zy_008	FurnitureNpc		npc\homeitem047	333	5	2									50	4	10	6	19		1			
+home_25_zy_009	FurnitureNpc		npc\homeitem048	333	5	2									50	4	10	6	19		1			
+home_25_zy_010	FurnitureNpc		npc\homeitem049	333	5	2									50	4	10	6	19		1			
+home_25_zy_011	FurnitureNpc		npc\homeitem050	333	5	2									50	4	10	6	19		1			
+home_25_zy_012	FurnitureNpc		npc\homeitem051	333	5	2									50	4	10	6	19		1			
+home_25_zy_013	FurnitureNpc		npc\homeitem056	333	5	2									50	4	10	6	19		1			
+home_25_zy_014	FurnitureNpc		npc\homeitem053	333	5	2									50	4	10	6	19		1			
+home_25_zy_015	FurnitureNpc		npc\homeitem054	333	5	2									50	4	10	6	19		1			
+																								
+//26ÄêÐÂ´º¼Ò¾ß																								
+home_26_new_001	FurnitureNpc	ç³ÑÌÆíËê	npc\homeitem057	333	5	2									200	4	10	6	19		1			
+home_26_new_002	FurnitureNpc	º®Ô·ÏãÑ©	npc\homeitem061	333	5	2									200	4	10	6	19		1			
+home_26_new_003	FurnitureNpc	ÌìæáÑ²Ïö	npc\homeitem062	333	5	2									200	4	10	6	19		1			
+home_26_new_004	FurnitureNpc	ºìæòæò	npc\homeitem064a	333	5	2									200	4	10	6	19		1			
+home_26_new_005	FurnitureNpc	»Ææôæô	npc\homeitem064b	333	5	2									200	4	10	6	19		1			
+home_26_new_006	FurnitureNpc	ÖñÆï»¶Ëê	npc\homeitem065	333	5	2									200	4	10	6	19		1			
+home_26_new_007	FurnitureNpc	¼×³½Ó­¿¥	npc\homeitem058	333	5	2									200	4	10	6	19		1			
+home_26_new_008	FurnitureNpc	ÆÁÉ½Èë¾³	npc\homeitem059	333	5	2									200	4	10	6	19		1			
+home_26_new_009	FurnitureNpc	ÔÆÆï³ÒÓ°	npc\homeitem060	333	5	2									200	4	10	6	19		1			

@@ -1,0 +1,56 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	Plot	Title	Step	SearchID	Line	AcceptNpc	SubmitNpc	SceneID	AcceptSceneID	SubmitSceneID	AutoAcceptID	AutoSubmit	PreTaskLimit	NextTaskLimit	NotShowMenu	Relation	LuckValue	AcceptLimit	SubmitLimit	AcceptDecMoney	SubFunction	TaskItemList	RefreshMonster	TimeLimitLength	SubmitNpcEx	TaskScript	TitleId	ContextId	AcceptDialogId	CompleteDialogId	UnCompleteDialogId	TaskTargetId	TrackInfoID	LineNextInfo	CanAcceptMenu	UncompleteMenu	CompleteMenu	AcceptMovie	SubmitMovie	DramaAccept	DramaSubmit	CanGiveup	ShareType	RepeatType	RepeatPeriod	CountDayLimit	DifficultCoefficient	DifficultLevel	NeedVip
+56501				s1270101																																													
+56502	62			s1270101	2	gb161			6	6	56503	1		56503				25293									title_56502	context_56502	accept_56502_1;menu_56502_1	complete_56502;submit_56502		target_56502			CanAcceptMenu_56502		CompleteMenu_56502					0	0	0					
+56503	62			s1270101	2				6	6	56504	1	56502	56504				1271									title_56503	context_56503				target_56503										0	0	0					
+56504	62			s1270101	2				6	6	56505	1	56503	56505				1271									title_56504	context_56504				target_56504										0	0	0					
+56505	62			s1270101	2				6	6	56506	1	56504	56506				1271									title_56505	context_56505				target_56505										0	0	0					
+56506	62			s1270101	2				6	6	56507	1	56505	56507				1271									title_56506	context_56506				target_56506										0	0	0					
+56507	62			s1270101	2				6	6	56508	1	56506	56508				1271									title_56507	context_56507				target_56507										0	0	0					
+56508	62			s1270101	2				6	6	56509	1	56507	56509				1271									title_56508	context_56508				target_56508										0	0	0					
+56509	62			s1270101	2				6	6	56510	1	56508	56510				1271									title_56509	context_56509				target_56509										0	0	0					
+56510	62			s1270101	2		gb161		6	6			56509					1271									title_56510	context_56510		complete_56510;submit_56510		target_56510					CompleteMenu_56510					0	0	0					
+56511	64			s1270101	2	gb161			6	6	56512	1		56512				25295									title_56511	context_56511	accept_56511_1;menu_56511_1			target_56511			CanAcceptMenu_56511							0	0	0					
+56512	64			s1270101	2				4	4	56513	1	56511	56513				1271									title_56512	context_56512				target_56512										0	0	0					
+56513	64			s1270101	2				4	4	56514	1	56512	56514				1271									title_56513	context_56513				target_56513										0							
+56514	64			s1270101	2				4	4	56515	1	56513	56515				1271									title_56514	context_56514				target_56514										0	0	0					
+56515	64			s1270101	2				4	4	56516	1	56514	56516				1271									title_56515	context_56515				target_56515										0	0	0					
+56516	64			s1270101	2				4	4	56517	1	56515	56517				1271									title_56516	context_56516				target_56516							5656			0	0	0					
+56517	64			s1270101	2				6	6	56518	1	56516	56518				1271									title_56517	context_56517				target_56517										0	0	0					
+56518	64			s1270101	2				219	219	56519	1	56517	56519				1271									title_56518	context_56518				target_56518										0	0	0					
+56530	65			s1270101	2	WorldNpc03003			6	6	56531	1		56531				25392;1271									title_56530	context_56530	accept_56530_1;menu_56530_1			target_56530			CanAcceptMenu_56530							0	0	0					
+56531	65			s1270101	2				6	6		1	56530	56532				1271									title_56531	context_56531		complete_56531;submit_56531		target_56531					CompleteMenu_56531					0	0	0					
+56532	65			s1270101	2	WorldNpc03003	npc_4neidh_gb		6	6			56531	56534				1271				57500			SubmitNpcEx_56532		title_56532	context_56532	accept_56532_1;menu_56532_1	complete_56532;submit_56532		target_56532			CanAcceptMenu_56532		CompleteMenu_56532					0	0	0					
+56534	65			s1270101	2	npc_4neidh_gb			6	6	56535	1	56532	56535				1271				57501					title_56534	context_56534	accept_56534_1;menu_56534_1			target_56534			CanAcceptMenu_56534							0	0	0					
+56535	65			s1270101	2				6	6	56536	1	56534	56536				1271									title_56535	context_56535				target_56535							5655			0	0	0					
+56536	65			s1270101	2		WorldNpc03003		6	6	56537		56535	56537				1271									title_56536	context_56536		complete_56536;submit_56536		target_56536					CompleteMenu_56536					0	0	0					
+56537	65			s1270101	2		WorldNpc03003		6	6			56536					1271							SubmitNpcEx_56537		title_56537	context_56537		complete_56537;submit_56537		target_56537					CompleteMenu_56537					0	0	0					
+56519	64			s1270101	2		gb161		6	6			56518					1271									title_56519	context_56519		complete_56519;submit_56519		target_56519					CompleteMenu_56519					0	0	0					
+56541				s1270101	2				6	6								1271									title_56541	context_56541				target_56541										1	0	1	1	9999			
+56542				s1270101	2	WorldNpc03003	WorldNpc03003		6	6				56543				25294									title_56542	context_56542	accept_56542_1;menu_56542_1	complete_56542;submit_56542		target_56542			CanAcceptMenu_56542		CompleteMenu_56542					0	0	0	0	0			
+56543				s1270101	2	WorldNpc03003	NPCxszhh_4nei_yuming		6	15			56542	57532				1271									title_56543	context_56543	accept_56543_1;menu_56543_1	complete_56543;submit_56543		target_56543			CanAcceptMenu_56543		CompleteMenu_56543					0	0	0	0	0			
+56544				s1270101	2	WorldNpc03003	WorldNpc03003		6	6								1271;106236							SubmitNpcEx_56544		title_56544	context_56544	accept_56544_1;menu_56544_1	complete_56544;submit_56544		target_56544			CanAcceptMenu_56544		CompleteMenu_56544					0	0	0	0	0			
+56550				s1270201	5	5nei_gbmdt001	5nei_gbmdt001		14	14	56551	1						26827;107655									title_56550	context_56550	accept_56550_1;menu_56550_1			target_56550			CanAcceptMenu_56550							0	0	0					
+56551				s1270201	5	NPC_4nei_gbj012	NPC_4nei_gbj012		14	14	56552	1	56550	56552													title_56551	context_56551				target_56551							5657			0	0	0					
+56552				s1270201	5		NPC_5nei_gblqc001		14	14	56553	1	56551	56553											SubmitNpcEx_56552		title_56552	context_56552				target_56552										0	0	0					
+56553				s1270201	5	NPC_4nei_gbj012	NPC_4nei_gbj012		14	14	56554	1															title_56553	context_56553				target_56553										0	0	0					
+56554				s1270201	5				3	3	56555	1															title_56554	context_56554				target_56554										0	0	0					
+56555				s1270201	5				3	3	56556	1	56554	56556													title_56555	context_56555				target_56555										0	0	0					
+56556				s1270201	5				3	3	56557	1	56555	56557													title_56556	context_56556				target_56556										0	0	0					
+56557				s1270201	5				3	3	56558	1	56556	56558													title_56557	context_56557				target_56557										0	0	0					
+56558				s1270201	5				3	3	56559	1	56557	56559													title_56558	context_56558				target_56558							3539			0	0	0					
+56559				s1270201	5				332	332	56560	1	56558	56560													title_56559	context_56559				target_56559							3540			0	0	0					
+56560				s1270201	5				332	332	56561	1	56559	56561													title_56560	context_56560				target_56560							3541			0	0	0					
+56561				s1270201	5				14	14	56562	1	56560	56562													title_56561	context_56561				target_56561							3542			0	0	0					
+56562				s1270201	5		NPC_4nei_gbj012		14	14			56561														title_56562	context_56562				target_56562										0	0	0					
+56570				s1270102	2	npc_5neidh_gb	npc_5neidh_gb		6	6	56571	1		56571				26754									title_56570	context_56570				target_56570										1	0	0					
+56571				s1270102	2				6	6	56572	1															title_56571	context_56571				target_56571										0	0	0					
+56572				s1270102	2				6	6	56573	1															title_56572	context_56572				target_56572										0	0	0	4				
+56573				s1270102	2				6	6	56574	1															title_56573	context_56573				target_56573										0	0	0					
+56574				s1270102	2				6	6	56575	1															title_56574	context_56574				target_56574										0	0	0					
+56575				s1270102	2				6	6	56576	1															title_56575	context_56575				target_56575										0	0	0					
+56576				s1270102	2				6	6	56577	1															title_56576	context_56576				target_56576										0	0	0					
+56577				s1270102	2				9	9	56578	1															title_56577	context_56577				target_56577										0	0	0					
+56578				s1270102	2		NPC_5nei_gbsy001		9	6	56579	1															title_56578	context_56578		complete_56578;submit_56578		target_56578					CompleteMenu_56578					0	0	0					
+56579				s1270102	2				6	6	56580	1															title_56579	context_56579				target_56579										0	0	0					
+56580				s1270102	2		WorldNpc03003		6	6																	title_56580	context_56580		complete_56580;submit_56580		target_56580					CompleteMenu_56580					0	0	0					

@@ -1,0 +1,65 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	NpcId	SceneID	DialogID	GetItems	LostItems	TrackInfo	OkMenu	TaskID	HideNpcID	BufferID
+73801	npc_xjqdez_001	827	DialogID_73801			interactinfo_73801	okmenu_73801	73801		
+73803	npc_xjqdez_003	827	DialogID_73803			interactinfo_73803	okmenu_73803	73801		
+73804	npc_xjqdez_004	827	DialogID_73804			interactinfo_73804	okmenu_73804	73801		
+73805	EventNpc_xjqdez_001	827	DialogID_73805			interactinfo_73805	okmenu_73805	73801		
+73810	EventNpc_xjqdez_004	828	DialogID_73810			interactinfo_73810	okmenu_73810	73805		
+73811	EventNpc_xjqdez_005	828	DialogID_73811			interactinfo_73811		73805		
+73809			DialogID_73809			interactinfo_73809	okmenu_73809			
+73808	WorldNpc01194	14	DialogID_73808			interactinfo_73808	okmenu_73808	73804		
+73802	npc_xjqdez_002	827	DialogID_73802			interactinfo_73802	okmenu_73802	73801		
+73807	EventNpc_xjqdez_002	14	DialogID_73807			interactinfo_73807	okmenu_73807	73803		
+73813	EventNpc_xjqdez_006	828	DialogID_73813			interactinfo_73813	okmenu_73813	73807		
+73816	EventNpc_xjqdez_008	14	DialogID_73816			interactinfo_73816	okmenu_73816	73808		
+73817	npc_xjqdez_006	14	DialogID_73817		item_xjqdez_003-1	interactinfo_73817	okmenu_73817	73808		
+73819	npc_xjqdez_007	14	DialogID_73819			interactinfo_73819	okmenu_73819	73809		
+73821	EventNpc_xjqdez_003	828	DialogID_73821			interactinfo_73821	okmenu_73821	73804		
+73818	npc_xjqdez_008	14	DialogID_73818			interactinfo_73818				
+73822	npc_xjqdez_005	827	DialogID_73822	item_xjqdez_005-1		interactinfo_73822	okmenu_73822	73802		
+73812	Npc_sneakon_syxjq_003	828	DialogID_73812			interactinfo_73812	okmenu_73812	73806		
+73814	WorldNpc01194	14	DialogID_73814			interactinfo_73814	okmenu_73814	73807		
+73815	WorldNpc01194	14	DialogID_73815	item_xjqdez_003-1		interactinfo_73815	okmenu_73815	73808		
+73820	WorldNpc01194	14	DialogID_73820		item_xjqdez_002-1	interactinfo_73820	okmenu_73820	73809		
+73806	WorldNpc01194	14	DialogID_73806			interactinfo_73806	okmenu_73806	73802		
+73823	npc_xjqdez_009	14	DialogID_73823	item_xjqdez_001-1		interactinfo_73823	okmenu_73823	73804		
+73824	syjqmp_guj_001	899	DialogID_73824			interactinfo_73824	okmenu_73824	73810		
+73825	syjqmp_guj_002	899	DialogID_73825	useitem_syjq_guj_001-1		interactinfo_73825	okmenu_73825	73811		
+73830	syjqmp_guj_009	899	DialogID_73830			interactinfo_73830	okmenu_73830	73812		
+73831	syjqmp_guj_009	899	DialogID_73831			interactinfo_73831	okmenu_73831	73812		
+73827	EventNpc_guj_04yuejq_002	899	DialogID_73827			interactinfo_73827		73813		
+73828	syjqmp_guj_008	899	DialogID_73828			interactinfo_73828	okmenu_73828	73813		
+73829	syjqmp_guj_008	899	DialogID_73829			interactinfo_73829	okmenu_73829	73813		
+73833	syjqmp_guj_010	899				interactinfo_73833		73814		
+73832	syjqmp_guj_008	899	DialogID_73832			interactinfo_73832	okmenu_73832	73814		
+73834	syjqmp_guj_009	899	DialogID_73834			interactinfo_73834	okmenu_73834	73814		
+73836	EventNpc_guj_04yuejq_003	899				interactinfo_73836		73815		
+73840	GatherNpc_syjq_guj001	899				interactinfo_73840		73815		
+73835	syjqmp_guj_009	899	DialogID_73835			interactinfo_73835	okmenu_73835	73815		
+73837	syjqmp_guj_011	899	DialogID_73837			interactinfo_73837	okmenu_73837	73815		
+73839	syjqmp_guj_012	899	DialogID_73839			interactinfo_73839	okmenu_73839	73815		
+73844	syjqmp_guj_012	899	DialogID_73844			interactinfo_73844	okmenu_73844	73817		
+73845	syjqmp_guj_014	899	DialogID_73845			interactinfo_73845	okmenu_73845	73817		
+73846	syjqmp_guj_012	899	DialogID_73846			interactinfo_73846	okmenu_73846	73817		
+73847	syjqmp_guj_014	899	DialogID_73847			interactinfo_73847	okmenu_73847	73818		
+73848	EventNpc_guj_04yuejq_005	899				interactinfo_73848		73818		
+73838	EventNpc_guj_04yuejq_004	899				interactinfo_73838		73815		
+73826	syjqmp_guj_007	899				interactinfo_73826				
+73843	EventNpc_guj_04yuejq_005	899								
+73849	syjqmp_guj_015	899	DialogID_73849			interactinfo_73849	okmenu_73849			
+73850	syjqmp_guj_009	899	DialogID_73850			interactinfo_73850	okmenu_73850	73811		
+73851	syjqmp_guj_009	899	DialogID_73851			interactinfo_73851	okmenu_73851	73812		
+73842	syjqmp_guj_012	899	DialogID_73842			interactinfo_73842	okmenu_73842	73816		
+73841	syjqmp_guj_013	899	DialogID_73841			interactinfo_73841	okmenu_73841	73816		
+73853	syjqmp_guj_009	899	DialogID_73853			interactinfo_73853	okmenu_73853	73811		
+73854	syjqmp_guj_009	899	DialogID_73854			interactinfo_73854	okmenu_73854	73812		
+73855	syjqmp_guj_009	899	DialogID_73855			interactinfo_73855	okmenu_73855	73814		
+73857	syjqmp_guj_012	899	DialogID_73857			interactinfo_73857	okmenu_73857	73817		
+73852	EventNpc_guj_04yuejq_011	899				interactinfo_73852		73816		
+73856	syjqmp_guj_012	899	DialogID_73856			interactinfo_73856	okmenu_73856	73820		
+73858	syjqmp_guj_027	899	DialogID_73858			interactinfo_73858	okmenu_73858	73820		
+73859	syjqmp_guj_012	899	DialogID_73859			interactinfo_73859	okmenu_73859	73821		
+73860	syjqmp_guj_012	899	DialogID_73860			interactinfo_73860	okmenu_73860	73821		
+73861	syjqmp_guj_014	899	DialogID_73861			interactinfo_73861	okmenu_73861	73817		
+73862	syjqmp_guj_026	899	DialogID_73862			interactinfo_73862	okmenu_73862	73812		
+73863	syjqmp_guj_009	899	DialogID_73863			interactinfo_73863	okmenu_73863	73812		

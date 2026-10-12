@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="9B1CEC9EE8DA47EF843F07735630D35E" x="364.772" y="-8.014" z="1104.423" radius="4.5" WakeupRange="20.7" ChaseRange="-1.0" PatrolRange="7.5" HateLink="1">
+            <item No="1" id="mon_clone039_fxmy_04" ay="-1" amount="3" refreshtime="-1" NotPositive="0" desc="冥岳护卫-女">
+                <position x="364.920" z="1107.250" ay="-1" WeaponName="s_r_npcitem388" WeaponMode="sword1_2" />
+                <position x="362.124" z="1105.711" ay="-1" WeaponName="s_r_npcitem388" WeaponMode="sword1_2" />
+                <position x="364.272" z="1104.245" ay="-1" WeaponName="s_r_npcitem388" WeaponMode="sword1_2" />
+            </item>
+            <item No="2" id="mon_clone039_fxmy_05" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="冥岳护卫" />
+        </creator>
+        <creator No="0660A9875E954768969CAFDB780CE94A" x="375.856" y="-6.808" z="1090.404" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="mon_clone039_fxmy_05" ay="-1" amount="2" refreshtime="-1" NotPositive="0" desc="冥岳护卫">
+                <position x="379.896" z="1088.886" ay="-1" WeaponName="s_r_npcitem388" WeaponMode="sword1_1" />
+                <position x="378.381" z="1092.146" ay="-1" WeaponName="s_r_npcitem388" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="mon_clone039_fxmy_04" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="冥岳护卫-女" />
+        </creator>
+        <creator No="A67E8DA3647C4AD6BFB3E401B39F5363" x="463.546" y="-7.745" z="1006.068" radius="2.5" WakeupRange="18.3" ChaseRange="-1.0" PatrolRange="3.6" HateLink="1">
+            <item No="1" id="mon_clone039_fxmy_04" ay="3.280" amount="1" refreshtime="-1" NotPositive="0" desc="冥岳护卫-女">
+                <position x="462.964" z="1005.817" ay="3.280" BornAction="ty_kneel_danxi_loop" RandomAction="ty_kneel_danxi_loop" WeaponName="s_r_npcitem388" WeaponMode="sword1_2" />
+            </item>
+            <item No="2" id="mon_clone039_fxmy_03" ay="-1" amount="2" refreshtime="-1" NotPositive="0" desc="风雪狼">
+                <position x="464.098" z="1004.940" ay="-1" />
+                <position x="463.514" z="1004.596" ay="5.764" />
+            </item>
+        </creator>
+        <creator No="7E33633C7B5A4DD9B7D7489E03BE8E46" x="510.612" y="-8.771" z="982.701" radius="5.0" WakeupRange="28.9" ChaseRange="-1.0" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="mon_clone039_fxmy_05" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="冥岳护卫">
+                <position x="509.885" z="985.937" ay="-1" WeaponName="s_r_npcitem388" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="mon_clone039_fxmy_04" ay="-1" amount="2" refreshtime="-1" NotPositive="0" desc="冥岳护卫-女">
+                <position x="509.289" z="981.754" ay="-1" WeaponName="s_r_npcitem388" WeaponMode="sword1_2" />
+                <position x="511.004" z="980.965" ay="-1" WeaponName="s_r_npcitem388" WeaponMode="sword1_2" />
+            </item>
+        </creator>
+        <creator No="3F273E6220EB4E68B9BCE57839744402" x="487.883" y="-8.771" z="996.764" radius="5.0" WakeupRange="29.2" ChaseRange="-1.0" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="mon_clone039_fxmy_05" ay="5.793" amount="3" refreshtime="-1" NotPositive="0" desc="冥岳护卫">
+                <position x="488.904" z="994.482" ay="5.793" WeaponName="s_r_npcitem388" WeaponMode="sword1_1" />
+                <position x="492.006" z="996.030" ay="5.118" WeaponName="s_r_npcitem388" WeaponMode="sword1_1" />
+                <position x="486.465" z="994.907" ay="-1" BornAction="sitloop" RandomAction="sitloop" WeaponName="s_r_npcitem388" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="mon_clone039_fxmy_04" ay="2.161" amount="1" refreshtime="-1" NotPositive="0" desc="冥岳护卫-女">
+                <position x="491.194" z="996.938" ay="2.161" WeaponName="s_r_npcitem388" WeaponMode="sword1_2" />
+            </item>
+        </creator>
+        <creator No="33626E57119C490894781A0496F235D3" x="531.630" y="-7.917" z="942.228" radius="5.0" WakeupRange="32.0" ChaseRange="-1.0" PatrolRange="6.0" HateLink="1">
+            <item No="1" id="mon_clone039_fxmy_04" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="冥岳护卫-女" />
+            <item No="2" id="mon_clone039_fxmy_05" ay="-1" amount="2" refreshtime="-1" NotPositive="0" desc="冥岳护卫">
+                <position x="532.339" z="944.385" ay="-1" WeaponName="s_r_npcitem388" WeaponMode="sword1_1" />
+                <position x="529.679" z="942.994" ay="-1" WeaponName="s_r_npcitem388" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="2F02F5153DB7449BBC1887A4418D9685" x="657.347" y="-8.246" z="951.583" radius="5.0" WakeupRange="33.8" ChaseRange="-1.0" PatrolRange="11.4" HateLink="1">
+            <item No="1" id="mon_clone039_fxmy_05" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="冥岳护卫" />
+            <item No="2" id="mon_clone039_fxmy_03" ay="-1" amount="2" refreshtime="-1" NotPositive="0" desc="风雪狼">
+                <position x="655.444" z="952.861" ay="-1" />
+                <position x="660.324" z="950.373" ay="-1" />
+            </item>
+        </creator>
+        <creator No="CB10FD3205214F578A9849FED90E04FA" x="744.023" y="-7.054" z="898.342" radius="5.0" WakeupRange="29.2" ChaseRange="-1.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="mon_clone039_fxmy_05" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="冥岳护卫" />
+            <item No="2" id="mon_clone039_fxmy_04" ay="-1" amount="3" refreshtime="-1" NotPositive="0" desc="冥岳护卫-女">
+                <position x="743.670" z="901.276" ay="-1" WeaponName="s_r_npcitem388" WeaponMode="sword1_2" />
+                <position x="744.528" z="895.717" ay="-1" WeaponName="s_r_npcitem388" WeaponMode="sword1_2" />
+                <position x="746.700" z="897.858" ay="-1" WeaponName="s_r_npcitem388" WeaponMode="sword1_2" />
+            </item>
+        </creator>
+        <creator No="FC12D6AFA0D84F538910CC2B09AF1A47" x="748.462" y="-6.422" z="791.918" radius="3.2" WakeupRange="28.5" ChaseRange="-1.0" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="mon_clone039_fxmy_03" ay="-1" amount="2" refreshtime="-1" NotPositive="0" desc="风雪狼">
+                <position x="749.163" z="792.819" ay="-1" />
+                <position x="749.965" z="792.605" ay="-1" />
+            </item>
+        </creator>
+        <creator No="11EB08FE2C8745E58CDA48EDD6B775DB" x="768.739" y="-6.141" z="867.922" radius="5.0" WakeupRange="30.5" ChaseRange="-1.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="mon_clone039_fxmy_04" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="冥岳护卫-女" />
+            <item No="2" id="mon_clone039_fxmy_05" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="冥岳护卫" />
+        </creator>
+        <creator No="2B6DB416119C41D1B8BD332904332708" x="1032.096" y="67.548" z="572.413" radius="5.0" WakeupRange="27.0" ChaseRange="-1.0" PatrolRange="13.7" HateLink="1">
+            <item No="1" id="mon_clone039_fxmy_07" ay="-1" amount="2" refreshtime="-1" NotPositive="0" desc="冥岳冥卫">
+                <position x="1034.423" z="571.547" ay="-1" WeaponName="s_r_npcitem388" WeaponMode="sword1_1" />
+                <position x="1030.095" z="574.293" ay="-1" WeaponName="s_r_npcitem388" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="mon_clone039_fxmy_03" ay="-1" amount="2" refreshtime="-1" NotPositive="0" desc="风雪狼">
+                <position x="1032.403" z="574.475" ay="-1" />
+                <position x="1034.397" z="573.981" ay="-1" />
+            </item>
+        </creator>
+        <creator No="7415614DAB3949D081835DE202922066" x="1076.071" y="73.535" z="578.727" radius="5.0" WakeupRange="20.8" ChaseRange="-1.0" PatrolRange="7.1" HateLink="1">
+            <item No="1" id="mon_clone039_fxmy_02" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="风雪猿" />
+            <item No="2" id="mon_clone039_fxmy_03" ay="-1" amount="2" refreshtime="-1" NotPositive="0" desc="风雪狼">
+                <position x="1072.699" z="578.915" ay="-1" />
+                <position x="1076.098" z="576.737" ay="-1" />
+            </item>
+        </creator>
+        <creator No="E270BF1AA101418B926E72BBA8D40C0A" x="1109.800" y="75.010" z="541.450" radius="5.0" WakeupRange="24.5" ChaseRange="-1.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="mon_clone039_fxmy_03" ay="-1" amount="3" refreshtime="-1" NotPositive="0" desc="风雪狼">
+                <position x="1107.685" z="544.237" ay="-1" />
+                <position x="1108.486" z="539.047" ay="-1" />
+                <position x="1111.998" z="543.556" ay="-1" />
+            </item>
+        </creator>
+        <creator No="EFC1821701524C6295606946266F7AB8" x="1176.741" y="84.639" z="503.051" radius="5.0" WakeupRange="24.2" ChaseRange="-1.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="mon_clone039_fxmy_02" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="风雪猿" />
+            <item No="2" id="mon_clone039_fxmy_03" ay="-1" amount="2" refreshtime="-1" NotPositive="0" desc="风雪狼">
+                <position x="1175.121" z="505.872" ay="-1" />
+                <position x="1174.454" z="501.488" ay="-1" />
+            </item>
+        </creator>
+        <creator No="E971ED7A2B58437293216044637155CD" x="1175.110" y="85.918" z="451.868" radius="5.0" WakeupRange="22.1" ChaseRange="-1.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="mon_clone039_fxmy_03" ay="-1" amount="3" refreshtime="-1" NotPositive="0" desc="风雪狼">
+                <position x="1177.042" z="452.085" ay="-1" />
+                <position x="1173.905" z="453.632" ay="-1" />
+                <position x="1173.127" z="450.623" ay="-1" />
+            </item>
+            <item No="2" id="mon_clone039_fxmy_06" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="冥岳冥卫-女" />
+        </creator>
+        <creator No="EA7A23A356C8499A945FD2DB66256D3B" x="1144.603" y="97.912" z="429.244" radius="5.0" WakeupRange="20.3" ChaseRange="-1.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="mon_clone039_fxmy_03" ay="-1" amount="2" refreshtime="-1" NotPositive="0" desc="风雪狼">
+                <position x="1145.847" z="430.030" ay="-1" />
+                <position x="1141.585" z="430.663" ay="-1" />
+            </item>
+            <item No="2" id="mon_clone039_fxmy_02" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="风雪猿" />
+        </creator>
+        <creator No="6C01D13F7DE642838EB556F41DB8D990" x="1201.425" y="91.920" z="389.272" radius="5.0" WakeupRange="19.8" ChaseRange="-1.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="mon_clone039_fxmy_06" ay="-1" amount="2" refreshtime="-1" NotPositive="0" desc="冥岳冥卫-女">
+                <position x="1201.163" z="391.264" ay="-1" WeaponName="s_r_npcitem388" WeaponMode="sword1_2" />
+                <position x="1203.852" z="389.205" ay="-1" WeaponName="s_r_npcitem388" WeaponMode="sword1_2" />
+            </item>
+            <item No="2" id="mon_clone039_fxmy_07" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="冥岳冥卫" />
+        </creator>
+        <creator No="BF70697A32F94203A29CF58DFF2C3A64" x="1150.317" y="134.039" z="319.176" radius="5.0" WakeupRange="32.9" ChaseRange="-1.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="mon_clone039_fxmy_02" ay="-1" amount="2" refreshtime="-1" NotPositive="0" desc="风雪猿">
+                <position x="1152.486" z="322.516" ay="-1" />
+                <position x="1147.151" z="318.419" ay="-1" />
+            </item>
+        </creator>
+        <creator No="2215A58281F247E7874E0B66F7E914DC" x="1203.370" y="113.509" z="297.522" radius="5.0" WakeupRange="19.0" ChaseRange="-1.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="mon_clone039_fxmy_03" ay="-1" amount="4" refreshtime="-1" NotPositive="0" desc="风雪狼">
+                <position x="1206.505" z="298.753" ay="-1" />
+                <position x="1202.865" z="299.601" ay="-1" />
+                <position x="1200.494" z="298.175" ay="-1" />
+                <position x="1204.338" z="294.214" ay="-1" />
+            </item>
+        </creator>
+        <creator No="BDCAF0474118441B91E4ABF9C17DE374" x="1248.741" y="120.851" z="256.983" radius="5.0" WakeupRange="21.8" ChaseRange="-1.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="mon_clone039_fxmy_02" ay="-1" amount="2" refreshtime="-1" NotPositive="0" desc="风雪猿">
+                <position x="1248.256" z="261.746" ay="-1" />
+                <position x="1247.288" z="254.019" ay="-1" />
+            </item>
+        </creator>
+        <creator No="F9AEB5F84C1C4489A5F8E9856F9393F4" x="1250.637" y="142.034" z="182.197" radius="5.0" WakeupRange="21.0" ChaseRange="-1.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="mon_clone039_fxmy_02" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="风雪猿" />
+            <item No="2" id="mon_clone039_fxmy_03" ay="-1" amount="3" refreshtime="-1" NotPositive="0" desc="风雪狼">
+                <position x="1251.437" z="185.676" ay="-1" />
+                <position x="1247.471" z="184.051" ay="-1" />
+                <position x="1247.482" z="179.645" ay="-1" />
+            </item>
+        </creator>
+        <creator No="06E8FB462E1E4334A08F2F4CE43C3956" x="1278.869" y="142.897" z="166.188" radius="5.0" WakeupRange="16.9" ChaseRange="-1.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="mon_clone039_fxmy_02" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="风雪猿" />
+            <item No="2" id="mon_clone039_fxmy_03" ay="-1" amount="4" refreshtime="-1" NotPositive="0" desc="风雪狼">
+                <position x="1277.927" z="169.206" ay="-1" />
+                <position x="1275.829" z="165.819" ay="-1" />
+                <position x="1277.468" z="161.959" ay="-1" />
+                <position x="1283.027" z="167.869" ay="-1" />
+            </item>
+        </creator>
+        <creator No="636F9B9185474407B04C53D4FCC3EBD1" x="852.517" y="75.647" z="49.145" radius="5.0" WakeupRange="20.0" ChaseRange="-1.0" PatrolRange="9.4" HateLink="1">
+            <item No="1" id="mon_clone039_fxmy_07" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="冥岳冥卫" />
+            <item No="2" id="mon_clone039_fxmy_03" ay="-1" amount="4" refreshtime="-1" NotPositive="0" desc="风雪狼">
+                <position x="855.894" z="47.264" ay="-1" />
+                <position x="855.557" z="50.236" ay="-1" />
+                <position x="851.648" z="51.715" ay="-1" />
+                <position x="851.008" z="45.270" ay="-1" />
+            </item>
+        </creator>
+        <creator No="016A81E81A3841C0BE6BE9F6E5D648E3" x="887.312" y="73.104" z="54.761" radius="5.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="mon_clone039_fxmy_06" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="冥岳冥卫-女" />
+            <item No="2" id="mon_clone039_fxmy_03" ay="-1" amount="3" refreshtime="-1" NotPositive="0" desc="风雪狼">
+                <position x="885.854" z="56.019" ay="-1" />
+                <position x="885.489" z="51.900" ay="-1" />
+                <position x="887.972" z="52.093" ay="-1" />
+            </item>
+        </creator>
+        <creator No="A04FE31C7B48406D95DD32681B48418C" x="921.418" y="72.681" z="11.039" radius="5.0" WakeupRange="24.1" ChaseRange="-1.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="mon_clone039_fxmy_06" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="冥岳冥卫-女" />
+            <item No="2" id="mon_clone039_fxmy_03" ay="-1" amount="3" refreshtime="-1" NotPositive="0" desc="风雪狼">
+                <position x="921.979" z="12.403" ay="-1" />
+                <position x="921.433" z="12.944" ay="-1" />
+                <position x="918.728" z="12.227" ay="-1" />
+            </item>
+        </creator>
+        <creator No="EE7334ADF56844BAA7951F3C32F5635F" x="926.353" y="74.313" z="45.270" radius="5.0" WakeupRange="25.8" ChaseRange="-1.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="mon_clone039_fxmy_07" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="冥岳冥卫" />
+            <item No="2" id="mon_clone039_fxmy_03" ay="-1" amount="3" refreshtime="-1" NotPositive="0" desc="风雪狼">
+                <position x="922.902" z="43.305" ay="-1" />
+                <position x="926.487" z="46.637" ay="-1" />
+                <position x="927.853" z="48.744" ay="-1" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

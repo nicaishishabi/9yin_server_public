@@ -1,0 +1,425 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="E127613ADC7245A3876306E4DAD96D18" x="-1291.105" y="78.344" z="-630.766" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4001" ay="-1" amount="3" refreshtime="5" desc="兔子" create_amount="120" />
+        </creator>
+        <creator No="52131AFF0D234D1B8D8CAD57AE75F4FA" x="-1481.059" y="93.577" z="-686.718" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4001" ay="-1" amount="3" refreshtime="5" desc="兔子" create_amount="120" />
+        </creator>
+        <creator No="7DD75AFADD284BB6B9D9E480684D264C" x="-1560.706" y="89.368" z="-729.735" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4001" ay="-1" amount="3" refreshtime="5" desc="兔子" create_amount="120" />
+        </creator>
+        <creator No="98587E5D0F114A17998CE770E8C94ACF" x="-1454.028" y="96.667" z="-754.542" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4001" ay="-1" amount="3" refreshtime="5" desc="兔子" create_amount="120" />
+        </creator>
+        <creator No="C7B43BCDD5C149B1AE63D7CB6DB6429F" x="-1152.069" y="77.658" z="-625.160" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4001" ay="-1" amount="3" refreshtime="5" desc="兔子" create_amount="120" />
+        </creator>
+        <creator No="4FF1E4E5C8444610ACC20FE2ED86872E" x="-1170.106" y="137.041" z="884.021" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" create_amount="120" />
+        </creator>
+        <creator No="ABA003328F6C4FBC9A36FF31E9E5B9FA" x="-685.049" y="143.221" z="1229.664" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" create_amount="120" />
+        </creator>
+        <creator No="87F2F87F65134568B65F40B613667A4C" x="71.752" y="103.681" z="382.883" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" create_amount="120" />
+        </creator>
+        <creator No="1360D6E32861488AB222545376806A06" x="156.894" y="74.950" z="1136.133" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" create_amount="120" />
+        </creator>
+        <creator No="F8EF8E0587514726A3A480C32415EA65" x="1340.130" y="127.014" z="1177.442" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" create_amount="120" />
+        </creator>
+        <creator No="20D3E1672BD74504AEA5034B666E278E" x="1458.990" y="113.196" z="596.047" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4003" ay="-1" amount="3" refreshtime="300000" NotPositive="0" desc="狼" create_amount="120" />
+        </creator>
+        <creator No="96F22ECAB0CB47B5B67F57A425376EF5" x="773.097" y="145.541" z="838.817" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4003" ay="-1" amount="3" refreshtime="300000" NotPositive="0" desc="狼" create_amount="120" />
+        </creator>
+        <creator No="ED2F40F888ED46B3AAFF48F6AFF750BF" x="808.615" y="105.241" z="-183.342" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4003" ay="-1" amount="3" refreshtime="300000" NotPositive="0" desc="狼" create_amount="120" />
+        </creator>
+        <creator No="B27C280639574B8FA2DCA9318A071903" x="1212.177" y="127.633" z="-1069.927" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4003" ay="-1" amount="3" refreshtime="300000" NotPositive="0" desc="狼" create_amount="120" />
+        </creator>
+        <creator No="1EB041339B2148798410D18CF9F6C5E2" x="831.908" y="106.622" z="-832.845" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4003" ay="-1" amount="3" refreshtime="300000" NotPositive="0" desc="狼" create_amount="120" />
+        </creator>
+        <creator No="5174ED0EF3714DEBA1F4BC35263A9E55" x="-283.689" y="142.604" z="1463.475" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" create_amount="120" />
+        </creator>
+        <creator No="1336EA7C3CF34BC08079A2985D964022" x="794.075" y="120.193" z="1434.417" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" create_amount="120" />
+        </creator>
+        <creator No="2957474DF5DD43C9A7394F968B35A047" x="217.289" y="90.592" z="790.783" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" create_amount="120" />
+        </creator>
+        <creator No="433F7631D2E6473AA211BDACD60217A5" x="751.093" y="131.007" z="471.402" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" create_amount="120" />
+        </creator>
+        <creator No="BAAD1680166B4B1A9EEF5C27ACF0A8A9" x="-508.210" y="146.135" z="363.459" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" create_amount="120" />
+        </creator>
+        <creator No="6C950B12597644F291CDCE79D4CA8A0C" x="-422.531" y="137.792" z="1605.674" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="EB07886E621441A0BBA9B0DC0F2D76D1" x="-246.122" y="142.043" z="1702.415" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="AFF34E30D1C446A88631E725014D557D" x="1.059" y="142.985" z="1721.960" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="0E0EB988E53D4DEB94E7DCA2EF9A2F4A" x="307.606" y="136.544" z="1670.031" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="914B9FCF425B4D6099337EEE3E632173" x="-1375.392" y="83.503" z="-682.147" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4001" ay="-1" amount="3" refreshtime="5" desc="兔子" />
+        </creator>
+        <creator No="BDC4B6BB9E3B44149B29B4B31857313E" x="-1242.358" y="67.077" z="-779.092" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4001" ay="-1" amount="3" refreshtime="5" desc="兔子" />
+        </creator>
+        <creator No="FBD74B6744834CFB9F586A99FA19DA68" x="-1389.819" y="82.429" z="-842.465" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4001" ay="-1" amount="3" refreshtime="5" desc="兔子" />
+        </creator>
+        <creator No="C61112EB0D574670996AD5B22923BAB8" x="-1533.482" y="103.865" z="-870.552" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4001" ay="-1" amount="3" refreshtime="5" desc="兔子" />
+        </creator>
+        <creator No="1DC8E6B77B994B3DA869843EE4B5C7BA" x="-1447.883" y="99.988" z="-996.987" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4001" ay="-1" amount="3" refreshtime="5" desc="兔子" />
+        </creator>
+        <creator No="D5917A9669234AF98D0FD4EF2F060AC4" x="-1222.820" y="71.260" z="-864.275" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4001" ay="-1" amount="3" refreshtime="5" desc="兔子" />
+        </creator>
+        <creator No="D79996B386EC461AA16995998D1EE77C" x="-1010.719" y="75.547" z="-782.466" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4001" ay="-1" amount="3" refreshtime="5" desc="兔子" />
+        </creator>
+        <creator No="AB70441022BA4F90AD0387629679076C" x="-1151.932" y="66.326" z="-843.946" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4001" ay="-1" amount="3" refreshtime="5" desc="兔子" />
+        </creator>
+        <creator No="74298944F6B441718D533824EFC8A841" x="-1218.907" y="85.794" z="-1204.615" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4001" ay="-1" amount="3" refreshtime="5" desc="兔子" />
+        </creator>
+        <creator No="07829485DC73430EBB8868EA6DE5A89F" x="-1303.886" y="81.603" z="-1166.437" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4001" ay="-1" amount="3" refreshtime="5" desc="兔子" />
+        </creator>
+        <creator No="CFE0BA5E7530487E85CC9140DEFC9F4D" x="-1325.650" y="79.609" z="-1090.503" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4001" ay="-1" amount="3" refreshtime="5" desc="兔子" />
+        </creator>
+        <creator No="8F68BAEC0F4C4BFFA8EA3DEFF9A0530B" x="-1304.600" y="78.353" z="-1032.839" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4001" ay="-1" amount="3" refreshtime="5" desc="兔子" />
+        </creator>
+        <creator No="1EFB364E89B9462E92509C982F9CA49E" x="-1422.836" y="84.886" z="-1382.001" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4001" ay="-1" amount="3" refreshtime="5" desc="兔子" />
+        </creator>
+        <creator No="C6C86A580E2A4EB88E37C95C1956EC71" x="-1333.007" y="82.056" z="-1327.869" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4001" ay="-1" amount="3" refreshtime="5" desc="兔子" />
+        </creator>
+        <creator No="C26C6295BE50454085D02D0C2B7E56A3" x="-1375.084" y="89.019" z="-1240.497" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4001" ay="-1" amount="3" refreshtime="5" desc="兔子" />
+        </creator>
+        <creator No="13CA7FA9AFF94587BBDE3EDD6913EEE3" x="-1435.225" y="103.017" z="-1281.077" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4001" ay="-1" amount="3" refreshtime="5" desc="兔子" />
+        </creator>
+        <creator No="21E4DF49EC5F4282AE4B8EBE4F3446DA" x="-797.939" y="78.209" z="-1112.095" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4001" ay="-1" amount="3" refreshtime="5" desc="兔子" />
+        </creator>
+        <creator No="3FF00E80164D46BDBEA5BBB029268DBC" x="-961.006" y="81.327" z="-1108.666" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4001" ay="-1" amount="3" refreshtime="5" desc="兔子" />
+        </creator>
+        <creator No="E5928A7A563140EFAFA5AFC4D44702FE" x="-1100.078" y="84.628" z="-1158.191" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4001" ay="-1" amount="3" refreshtime="5" desc="兔子" />
+        </creator>
+        <creator No="06B52D5AFCF14B039A6B8605795537C7" x="-1244.021" y="91.191" z="-1312.399" radius="15.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4001" ay="-1" amount="3" refreshtime="5" desc="兔子" />
+        </creator>
+        <creator No="4A2EACBE0EA14FBCBF27C631499F94C2" x="-1087.780" y="135.653" z="754.069" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="EDA289EAD0C64238A0A3A87FDAECB20D" x="-885.572" y="115.759" z="615.496" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="59CC22923A724237AEF58FEEC8E2DADF" x="-733.484" y="150.819" z="568.504" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="CD10338102B549F3911552F23761704D" x="-643.646" y="112.657" z="234.608" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="C59B69D5983B43D1916454075C0C8A56" x="-473.097" y="143.592" z="1407.633" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="70F59472D025492EA0A2910BCD717152" x="-197.697" y="135.050" z="1573.675" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="66FE8DC7F6F849BA9C4C0C9C851FC15E" x="-101.824" y="150.376" z="1779.849" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="825C76F474BE4A8D9826B847D4B39098" x="-295.684" y="187.974" z="2007.089" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="502FF28F8C2C432A810CB77696F5AEEA" x="195.922" y="124.716" z="403.846" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="2141634468FD40878BB87852E62B7890" x="569.976" y="120.503" z="383.673" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="219009E8861F4C3F9C7314E86D0E44EE" x="834.169" y="110.873" z="407.959" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="0D4B2D610B194537848C9D3372D1F94D" x="920.662" y="133.651" z="549.354" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="6571BE9F48DA48D8AF71D4BE29A883DD" x="385.015" y="132.348" z="1275.104" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="798DD433B3AF4B8289F33AEBF98A745B" x="683.967" y="134.809" z="1392.604" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="A56A6600A7C640D7890F2CC2B52CC02C" x="764.915" y="118.599" z="1581.765" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="4CC1696DA4A042928F74DBD5D1529B7F" x="1036.250" y="82.902" z="1676.942" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="6203BE4F073A48D6B204F3F1ADBE9C39" x="1560.477" y="137.171" z="1175.487" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="C170EF938DB649C28A910EB220A2E547" x="1712.168" y="95.076" z="979.505" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="8F307A43EFC54C8F86B6569CDBF6F0E7" x="1801.639" y="95.090" z="612.990" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="17469F3EF00948A5B2AD3C9E24F94E35" x="1805.119" y="118.691" z="374.733" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="9E56B29849F04BAD9FE6A31A81C79EE9" x="1573.256" y="116.715" z="536.325" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4003" ay="-1" amount="3" refreshtime="300000" NotPositive="0" desc="狼" />
+        </creator>
+        <creator No="FB208CBBFCB74C33A046C27E77F7B297" x="1695.484" y="125.177" z="412.276" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4003" ay="-1" amount="3" refreshtime="300000" NotPositive="0" desc="狼" />
+        </creator>
+        <creator No="B83C40FD4D7D4C7F93ED5694A156BE20" x="1666.940" y="133.078" z="250.359" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4003" ay="-1" amount="3" refreshtime="300000" NotPositive="0" desc="狼" />
+        </creator>
+        <creator No="DEC10417E20F48338580A6A967961E0B" x="1871.135" y="133.016" z="184.569" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4003" ay="-1" amount="3" refreshtime="300000" NotPositive="0" desc="狼" />
+        </creator>
+        <creator No="801EB52682EA464DA77FD4C9FF68B75C" x="790.848" y="153.213" z="1017.202" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4003" ay="-1" amount="3" refreshtime="300000" NotPositive="0" desc="狼" />
+        </creator>
+        <creator No="7F30405AE0E94093817A8437F9186CC8" x="850.537" y="127.458" z="1239.905" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4003" ay="-1" amount="3" refreshtime="300000" NotPositive="0" desc="狼" />
+        </creator>
+        <creator No="4D13CA4F101E47BE87E5C32A8C966269" x="818.023" y="118.538" z="1555.169" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4003" ay="-1" amount="3" refreshtime="300000" NotPositive="0" desc="狼" />
+        </creator>
+        <creator No="56C142401CE544D78DF1B497BB4B1D55" x="982.444" y="96.268" z="1772.390" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4003" ay="-1" amount="3" refreshtime="300000" NotPositive="0" desc="狼" />
+        </creator>
+        <creator No="38F5F112041340D7AFE4378ED2A9839E" x="832.739" y="89.884" z="-381.525" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4003" ay="-1" amount="3" refreshtime="300000" NotPositive="0" desc="狼" />
+        </creator>
+        <creator No="775980308F7A4178ABF07A3DA98F1084" x="828.315" y="99.315" z="-541.423" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4003" ay="-1" amount="3" refreshtime="300000" NotPositive="0" desc="狼" />
+        </creator>
+        <creator No="2670910F367A4F04950D9C003A08776B" x="843.008" y="103.098" z="-764.603" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4003" ay="-1" amount="3" refreshtime="300000" NotPositive="0" desc="狼" />
+        </creator>
+        <creator No="C45F9D99B9764028A8A5F5E8E3F0F0A3" x="1020.708" y="113.082" z="-839.597" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4003" ay="-1" amount="3" refreshtime="300000" NotPositive="0" desc="狼" />
+        </creator>
+        <creator No="2E05FC9490DB4F35AA8BEE1CCD5B315D" x="1384.193" y="139.766" z="-1059.927" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4003" ay="-1" amount="3" refreshtime="300000" NotPositive="0" desc="狼" />
+        </creator>
+        <creator No="271A9A5A62C64189B182F4858D3485CC" x="1556.807" y="117.340" z="-1026.754" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4003" ay="-1" amount="3" refreshtime="300000" NotPositive="0" desc="狼" />
+        </creator>
+        <creator No="B1569B6370A7463F83BB4D6CDCC25764" x="1704.342" y="115.429" z="-987.932" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4003" ay="-1" amount="3" refreshtime="300000" NotPositive="0" desc="狼" />
+        </creator>
+        <creator No="93B5EAD5905C428DA1435E55B08338DA" x="1844.922" y="107.557" z="-867.601" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4003" ay="-1" amount="3" refreshtime="300000" NotPositive="0" desc="狼" />
+        </creator>
+        <creator No="D49FA55EFD6C4658A505830A38922DD1" x="983.371" y="65.184" z="-380.541" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4003" ay="-1" amount="3" refreshtime="300000" NotPositive="0" desc="狼" />
+        </creator>
+        <creator No="BEE36D24D9A141BBB002AC9EF720820E" x="1077.633" y="97.712" z="-249.582" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4003" ay="-1" amount="3" refreshtime="300000" NotPositive="0" desc="狼" />
+        </creator>
+        <creator No="31762D1E65344FE39D5432CE77FAF8F7" x="1245.406" y="124.592" z="-192.833" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4003" ay="-1" amount="3" refreshtime="300000" NotPositive="0" desc="狼" />
+        </creator>
+        <creator No="FACBD050E9DD41A79CC993C1F89EDE97" x="1264.083" y="126.309" z="-90.428" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4003" ay="-1" amount="3" refreshtime="300000" NotPositive="0" desc="狼" />
+        </creator>
+        <creator No="159CB216915C42E1AAD1DEE8BD6292A6" x="-298.702" y="134.554" z="1681.009" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="50F2CBE352C14400AA20054757780780" x="-189.495" y="148.856" z="1814.738" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="E958C3248D2B45B188D4C9ADA19555D2" x="-173.251" y="151.340" z="1919.613" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="C45FF18DB2E049C9AD52154F0984DA83" x="-36.266" y="142.511" z="1995.024" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="71A05A71650C4C16A893063DF29FA9FB" x="387.431" y="102.071" z="832.677" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="1C9183F60665469FBD94B026DB266A60" x="433.973" y="123.612" z="909.082" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="6E31DE65AB284FCC8E4528245ECA4FAD" x="629.721" y="136.020" z="952.981" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="D447F45987D54AF39070C124C368D180" x="590.886" y="150.053" z="1116.895" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="4D4029DA043145EB93F32B67782FC9BC" x="907.770" y="113.554" z="491.388" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="3CED3F868E414B7D8650AF80E43F4E80" x="1026.348" y="109.830" z="314.615" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="28FE2BA317D04AD38846D616AC3769F5" x="1264.696" y="107.466" z="322.674" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="2660CF19E52F451388001FBEB191EDF8" x="1372.300" y="120.214" z="344.494" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="65680F44CEE647C1ACEBE9995C77A944" x="-1118.292" y="92.194" z="420.652" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="89B65796837B4586864D6A93D1408041" x="-1252.997" y="128.414" z="599.320" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="73B68C9B1A1D432595CFEE6EBB2D5DBF" x="-1419.250" y="139.044" z="881.276" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="B8EB445DA1C340F8A5ADCC3DF2BD80AB" x="-1851.564" y="122.925" z="861.149" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="2DE7D5AA4D554E1CA4A420BC9B1A82EB" x="-1190.369" y="133.942" z="989.597" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="6A32BECD7E0E48888315B03B5668F3E2" x="-1191.666" y="123.598" z="1094.161" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="CD45149A8D1F40B89A5C14EC4EF99465" x="-1295.932" y="128.762" z="1039.341" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="601921CCCBAC40AE8ACDADDFBC7763F0" x="-1281.021" y="138.882" z="1226.856" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="39723CE46FEC4F13BAE1B8AFF3B0C392" x="-1419.718" y="141.498" z="1178.704" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="C6A5C08CAFB04C23A0457186F14715CF" x="-1361.631" y="135.904" z="1334.812" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="F86AC15636C04A888383DF171B10992C" x="-1530.452" y="128.461" z="1333.965" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="D595341C46D04146A358944328A77ED2" x="-1349.524" y="146.888" z="1486.335" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="43E98C1165D4491581D984621DE6889F" x="-1607.876" y="139.742" z="1528.468" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="B170DDAFDD3F42418D1CB2C0F5D9C221" x="-1607.876" y="139.742" z="1528.468" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="41FF7D1B32C344109F31C8C1A301A7E4" x="-1333.442" y="148.481" z="1559.748" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="FDC1B4C8C162472FAAF3CAEB918317C2" x="-1292.253" y="129.429" z="1675.430" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="5371AB3FC5C44D8A9FCAA93A5C45225A" x="-1165.270" y="102.067" z="1789.433" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="FA4307467064476AB3B8691E80D8D73C" x="-985.310" y="110.645" z="1893.213" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="6C51E4F7D2BD4800A26F39B152FFE9B3" x="-1111.535" y="168.578" z="1977.160" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="DD55644582CE4E85BA11B3B1DB68D8D4" x="-1300.842" y="146.402" z="1785.389" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="D7A45038E5A5434DA472B66FBE148121" x="-1381.330" y="144.016" z="1616.096" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="9DC09592E7B54B35AF25E58A5BA2FB6B" x="-1654.717" y="252.100" z="2072.804" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="DABCCF8645C940F891FA19830CE8950D" x="-1555.629" y="189.336" z="1857.238" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="E7DDE24F25D3495E97FBF751F3BBF3AF" x="-1314.070" y="162.705" z="1827.823" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4005" ay="-1" amount="3" refreshtime="300000" desc="蛇" />
+        </creator>
+        <creator No="E2FFDD022E98487C892DEC840A9CA956" x="-223.191" y="135.927" z="1378.779" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="25FEB174FC744DB38AFFEB9EE44F7628" x="-52.115" y="102.617" z="1355.949" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="79D7F0C04342414FAC43A9EBE03E869F" x="119.894" y="86.554" z="1433.415" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="322EB5C39210499AB994487AD8D576FC" x="233.981" y="94.503" z="1519.858" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="BEF1AB1B8ED444D68AF67F4748D23287" x="309.206" y="104.792" z="1305.510" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="5480D215E23747C9BFFBC99F2B9935AA" x="378.551" y="138.958" z="1627.045" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="014FD73ED99C464D88D711DF4A1D439E" x="611.675" y="145.277" z="1827.338" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="BCFA55C8B9C24BEA9B0E844DF4EF9452" x="1253.961" y="97.088" z="1744.411" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="AC12084F70214A53956CAE16260849A5" x="1561.717" y="115.634" z="1626.121" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="0693E259118349199BD7C6F32247ED1C" x="1702.626" y="93.533" z="1489.853" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="E71C27A203144F61AC767643E3FCF24C" x="1681.177" y="109.980" z="1352.629" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="1952D13B26094295AF4B55A580D5B945" x="1881.546" y="84.252" z="1404.979" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="582287053A53429D9239E2464EB5CA0C" x="1464.030" y="121.126" z="1398.481" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="C451B2AEF75A402D9AB5DE82D016F72B" x="1350.392" y="125.378" z="1492.662" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="8FE8C3D1A3C34097A5956EC5A1E4E8E0" x="1120.698" y="119.244" z="1549.969" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="060162234C1E40909E15C4F50D83A220" x="1096.306" y="126.870" z="1241.501" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="F40EFD2441E043A9844D2B5C59E7AB2D" x="1211.775" y="103.284" z="983.744" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="1E9A73EECF6B47A59E6B3D6EE73AA298" x="1238.208" y="92.399" z="702.598" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="4665A4023D814F79A14E3CF073369C3E" x="1095.213" y="119.644" z="766.634" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+        <creator No="D831CEEE97ED42ECBA791E90BDDA27B9" x="916.332" y="135.808" z="676.928" radius="25.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8354">
+            <item No="1" id="jianghuanima4002" ay="-1" amount="3" refreshtime="300000" desc="骆驼" />
+        </creator>
+    </randomcreator>
+</object>

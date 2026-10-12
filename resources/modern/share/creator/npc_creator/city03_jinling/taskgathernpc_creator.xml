@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="302C84AD3AA349CFA3A0B607D1416378" x="1311.322" y="-0.568" z="471.867" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather_wmp3n_yp" sx="2.280" sy="2.390" sz="2.967" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="诡异的药瓶">
+                <position x="1311.389" z="472.051" sx="2.280" sy="2.390" sz="2.967" ay="-1" />
+            </item>
+        </creator>
+        <creator No="FF5F24410EB24C0A9F03ECE63F11C6DA" x="746.775" y="65.884" z="2406.397" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="15633" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_xdm_dy_zc2" ay="-1" amount="1" refreshtime="10000" NotPositive="0" desc="大漠奇草" />
+        </creator>
+    </randomcreator>
+</object>

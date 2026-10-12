@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="0D91978E878E4C6B8753E07322E20E58" x="1770.893" y="97.697" z="902.253" radius="40.0" WakeupRange="16.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="16808" TaskSubType="1" HateLink="1">
+            <item No="1" id="npc_hsp_cc_028" ay="2.897" amount="1" refreshtime="30000" NotPositive="0" desc="蔡峰" create_amount="1">
+                <position x="1778.563" z="900.944" ay="2.897" RandomAction="" />
+            </item>
+        </creator>
+        <creator No="5CA4C6F5BD6B41708CCFCF5DC230F483" x="1760.959" y="101.699" z="847.865" radius="15.0" WakeupRange="16.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="16809" TaskSubType="1" HateLink="1">
+            <item No="1" id="npc_hsp_cc_027" ay="2.629" amount="1" refreshtime="30000" NotPositive="0" desc="林逸权" create_amount="1">
+                <position x="1758.974" z="856.602" ay="2.629" />
+            </item>
+        </creator>
+        <creator No="66EF9594FB26404F846E0618E218DAC4" x="1848.590" y="109.172" z="852.253" radius="15.0" WakeupRange="16.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="16811" TaskSubType="1" HateLink="1">
+            <item No="1" id="npc_hsp_cc_025" ay="6.272" amount="1" refreshtime="30000" NotPositive="0" desc="文萃茗" create_amount="1">
+                <position x="1845.929" z="848.819" ay="6.272" />
+            </item>
+        </creator>
+        <creator No="DF4A205BE6B9426D895ABB599137AD1C" x="1819.646" y="117.649" z="813.956" radius="15.0" WakeupRange="16.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="16814" TaskSubType="1" HateLink="1">
+            <item No="1" id="npc_hsp_cc_022" ay="4.612" amount="1" refreshtime="30000" NotPositive="0" desc="郑云影" create_amount="1">
+                <position x="1819.724" z="813.152" ay="4.612" />
+            </item>
+        </creator>
+        <creator No="50738577F7D441E9B5225C0BB8A16750" x="1286.016" y="244.695" z="564.858" radius="5.0" WakeupRange="16.0" ChaseRange="15.0" PatrolRange="10.0" TaskSubId="16815" TaskSubType="1" HateLink="1">
+            <item No="1" id="npc_hsp_attack_yxy002" ay="-1" amount="3" refreshtime="3000" NotPositive="0" desc="魔教众">
+                <position x="1283.319" z="564.690" ay="-1" />
+                <position x="1284.723" z="566.672" ay="-1" />
+                <position x="1287.139" z="566.899" ay="-1" />
+            </item>
+        </creator>
+        <creator No="3D430D49739442A58E2CD658FBDA9B7F" x="1813.112" y="103.263" z="872.002" radius="15.0" WakeupRange="16.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="16814" TaskSubType="6" HateLink="1">
+            <item No="1" id="npc_hsp_cc_026" ay="2.314" amount="1" refreshtime="5" NotPositive="0" desc="谢乐超" create_amount="1">
+                <position x="1809.585" z="880.331" ay="2.314" />
+            </item>
+        </creator>
+        <creator No="56FE9AF024004771B6AE3E168A22A169" x="1867.799" y="113.523" z="804.449" radius="15.0" WakeupRange="16.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="16974" TaskSubType="3" HateLink="1">
+            <item No="1" id="npc_hsp_cc_024" ay="6.272" amount="1" refreshtime="5" NotPositive="0" desc="田元息" create_amount="1">
+                <position x="1867.331" z="811.228" ay="6.272" />
+            </item>
+        </creator>
+        <creator No="50F0B720E08E48CEAA74F074CDBCC1D8" x="1832.662" y="115.593" z="759.078" radius="15.0" WakeupRange="16.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="16750" TaskSubType="5" HateLink="1">
+            <item No="1" id="npc_hsp_cc_023" ay="6.272" amount="1" refreshtime="5" NotPositive="0" desc="单华黎" create_amount="1">
+                <position x="1829.646" z="755.593" ay="6.272" />
+            </item>
+        </creator>
+        <creator No="F5B27890A554479D8AC3E3D481295E50" x="1653.540" y="58.913" z="1075.984" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="16802" TaskSubType="1" HateLink="1">
+            <item No="1" id="npc_hsp_attack_yxy001" amount="5" refreshtime="30000" NotPositive="0" desc="江湖宵小">
+                <position x="1650.484" z="1075.245" />
+                <position x="1652.630" z="1077.989" />
+                <position x="1655.088" z="1078.097" />
+                <position x="1656.757" z="1073.768" />
+                <position x="1654.110" z="1071.809" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

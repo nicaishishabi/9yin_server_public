@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="EA84B2937DCC4CFAAC8692AB95A2A861" x="-496.265" y="77.839" z="-262.008" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox001" sx="0.510" sy="0.510" sz="0.510" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="桃花枝">
+                <position x="-496.228" z="-262.095" sx="0.510" sy="0.510" sz="0.510" ay="-1" />
+            </item>
+        </creator>
+        <creator No="3DD60775A5B44F3DBC09E0B9755A6BD8" x="-488.416" y="77.801" z="-268.069" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox002" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="竹枝">
+                <position x="-488.448" z="-268.127" ay="-1" />
+            </item>
+        </creator>
+        <creator No="E9A04C1C43504CE0B17B18799DA839A1" x="-490.429" y="78.145" z="-247.042" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox003" sx="0.390" sy="0.280" sz="0.390" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="食盒">
+                <position x="-490.529" z="-246.968" sx="0.390" sy="0.280" sz="0.390" ay="-1" />
+            </item>
+        </creator>
+        <creator No="F0DD43B65CD5464793858FA288C78CA7" x="-481.298" y="77.938" z="-261.639" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox004" sx="0.330" sy="0.480" sz="0.330" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="正在锅上的蒸笼（米缸）">
+                <position x="-481.218" z="-261.629" sx="0.330" sy="0.480" sz="0.330" ay="-1" />
+            </item>
+        </creator>
+        <creator No="F8F4C88C9C19430A950B276A40F29988" x="-480.466" y="79.161" z="-264.320" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox005" sx="0.220" sy="0.220" sz="0.220" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="桌上的菜肴">
+                <position x="-480.337" z="-264.205" sx="0.220" sy="0.220" sz="0.220" ay="-1" />
+            </item>
+        </creator>
+        <creator No="070473C93199433CA289E2A7AB299E76" x="-481.777" y="77.842" z="-259.471" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox006" sx="0.140" sy="0.250" sz="0.140" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="梳妆盒">
+                <position x="-481.826" z="-259.490" sx="0.140" sy="0.250" sz="0.140" ay="-1" />
+            </item>
+        </creator>
+        <creator No="DAF4D929C3A84976AB2BC40477748B79" x="-791.066" y="55.383" z="-235.936" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox007" sx="0.210" sy="0.300" sz="0.210" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="案上的大白菜">
+                <position x="-791.066" z="-235.936" sx="0.210" sy="0.300" sz="0.210" ay="-1" />
+            </item>
+        </creator>
+        <creator No="0252389B30AB45E38F26EC6E7DF6A75A" x="-790.690" y="54.600" z="-239.929" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox008" sx="0.260" sy="0.420" sz="0.260" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="屋内的木箱（罐子）">
+                <position x="-790.623" z="-240.033" sx="0.260" sy="0.420" sz="0.260" ay="-1" />
+            </item>
+        </creator>
+        <creator No="8E70556F44124E3F803C25B0CA0115A9" x="-796.466" y="53.707" z="-216.139" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox009" sx="0.720" sy="0.680" sz="0.720" ay="3.755" amount="1" refreshtime="5" NotPositive="0" desc="屋外的柴堆（破车）">
+                <position x="-796.647" z="-216.104" sx="0.720" sy="0.680" sz="0.720" ay="3.755" />
+            </item>
+        </creator>
+        <creator No="9B1D9B66A6444E3A8D35B905CC780A11" x="-795.756" y="54.092" z="-228.028" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox010" sx="0.380" sy="0.310" sz="0.380" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="案上的菜肴（碗）">
+                <position x="-795.639" z="-228.015" sx="0.380" sy="0.310" sz="0.380" ay="-1" />
+            </item>
+        </creator>
+        <creator No="6F53C9ADB1914FA88AC3B0E9008EAB70" x="-791.889" y="54.600" z="-239.994" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox011" sx="0.310" sy="0.320" sz="0.310" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="桌下的鱼篓">
+                <position x="-791.853" z="-240.061" sx="0.310" sy="0.320" sz="0.310" ay="-1" />
+            </item>
+        </creator>
+        <creator No="7CBE11FF18D3424AB498C3903158870F" x="-794.874" y="54.600" z="-239.395" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox012" sx="0.760" sy="0.420" sz="0.760" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="屋内的木盒（袋子）">
+                <position x="-794.972" z="-239.170" sx="0.760" sy="0.420" sz="0.760" ay="-1" />
+            </item>
+        </creator>
+        <creator No="B24F5D798B3444EEBBE3584F37707B30" x="-798.488" y="53.832" z="-224.721" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox013" sx="0.350" sy="0.450" sz="0.350" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="屋内的陶罐（簸箕）">
+                <position x="-798.434" z="-224.672" sx="0.350" sy="0.450" sz="0.350" ay="-1" />
+            </item>
+        </creator>
+        <creator No="09A95BE55D09440EB001A98DC4DAE75C" x="-615.534" y="95.780" z="-279.099" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox014" sx="0.240" sy="0.790" sz="0.240" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="玉石桃花（灯台）">
+                <position x="-615.553" z="-279.111" sx="0.240" sy="0.790" sz="0.240" ay="-1" />
+            </item>
+        </creator>
+        <creator No="E066C7E374AB4E6AB024FBC677BA20B2" x="-601.440" y="96.694" z="-271.946" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox016" ay="2.407" amount="1" refreshtime="5" NotPositive="0" desc="《周易》">
+                <position x="-601.359" z="-271.923" ay="2.407" />
+            </item>
+        </creator>
+        <creator No="B69CDF1F01424659B49B85619205E95F" x="-621.420" y="102.550" z="-274.278" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox017" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="龙纹玉箫">
+                <position x="-621.417" z="-274.367" ay="-1" />
+            </item>
+        </creator>
+        <creator No="64B8312C4D2349A3AC7FD596A50D2955" x="-628.509" y="102.499" z="-261.793" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox018" ay="2.983" amount="1" refreshtime="5" NotPositive="0" desc="金丝花纹锦盒">
+                <position x="-628.512" z="-261.917" ay="2.983" />
+            </item>
+        </creator>
+        <creator No="0B46C10FDDBA4AA79A3E43F0D85B5946" x="-611.455" y="102.622" z="-278.561" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox015" sx="0.220" sy="0.220" sz="0.220" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="玉石竹节（茶壶）">
+                <position x="-611.538" z="-278.553" sx="0.220" sy="0.220" sz="0.220" ay="-1" />
+            </item>
+        </creator>
+        <creator No="E81A6C18B2EC4C568B7C130C54EEB0E5" x="-601.246" y="102.501" z="-274.036" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox019" sx="0.291" sy="0.100" sz="0.650" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="古旧木箱">
+                <position x="-601.180" z="-273.967" sx="0.291" sy="0.100" sz="0.650" ay="-1" />
+            </item>
+        </creator>
+        <creator No="F3607253B5124ABEAC842864D75A34ED" x="-648.807" y="40.921" z="-29.694" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox020" sx="0.460" sy="0.460" sz="0.460" ay="1.720" amount="1" refreshtime="5" NotPositive="0" desc="鎏金葫芦">
+                <position x="-648.800" z="-29.746" sx="0.460" sy="0.460" sz="0.460" ay="1.720" />
+            </item>
+        </creator>
+        <creator No="392E6DA31C0B4BE3AC7A9B25DDF60060" x="-644.461" y="40.498" z="-17.133" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox021" ay="1.720" amount="1" refreshtime="5" NotPositive="0" desc="绿瓷方酒坛（酒坛）">
+                <position x="-644.547" z="-17.217" ay="1.720" />
+            </item>
+        </creator>
+        <creator No="C5AD1ECE275D4C8DA088E342F0D57459" x="-620.085" y="42.052" z="-42.964" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox022" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="桃木剑">
+                <position x="-620.266" z="-43.072" ay="-1" />
+            </item>
+        </creator>
+        <creator No="6771DD90C6494FDC8DC1557A186338D3" x="-625.463" y="44.182" z="-43.753" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox023" sx="0.630" sy="0.630" sz="0.630" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="特大酒坛（酒缸）">
+                <position x="-625.530" z="-43.932" sx="0.630" sy="0.630" sz="0.630" ay="-1" />
+            </item>
+        </creator>
+        <creator No="C2EF541B7B694C45A3D68D6163C6CF66" x="-434.036" y="47.073" z="-155.776" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox024" sx="0.340" sy="0.840" sz="0.340" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="紫金罗盘">
+                <position x="-434.209" z="-155.732" sx="0.340" sy="0.840" sz="0.340" ay="-1" />
+            </item>
+        </creator>
+        <creator No="613BA75D011E45EEA84A52DE67E2EEEA" x="-454.863" y="47.128" z="-152.265" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox025" sx="0.450" sy="0.890" sz="0.450" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="针灸铜人">
+                <position x="-454.805" z="-152.219" sx="0.450" sy="0.890" sz="0.450" ay="-1" />
+            </item>
+        </creator>
+        <creator No="D76D3E569A5B424E9F0827B579DE5D95" x="-416.801" y="48.843" z="-188.217" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox027" ay="2.102" amount="1" refreshtime="5" NotPositive="0" desc="《神农本草经》">
+                <position x="-416.725" z="-188.365" ay="2.102" />
+            </item>
+        </creator>
+        <creator No="338A53FC00304B2082A2120D4CD21FED" x="-429.373" y="48.778" z="-180.401" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox026" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="小药瓶">
+                <position x="-429.485" z="-180.447" ay="-1" />
+            </item>
+        </creator>
+        <creator No="F7B1C8EA453248368C9F97F5CCE05146" x="-430.102" y="49.370" z="-180.892" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox028" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="《金匮要略》">
+                <position x="-430.130" z="-180.843" ay="-1" />
+            </item>
+        </creator>
+        <creator No="39E273F047A64B119E2E36247E3C12F2" x="-524.147" y="58.671" z="-83.993" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox030" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="嵩阳铁剑">
+                <position x="-524.175" z="-83.978" ay="-1" />
+            </item>
+        </creator>
+        <creator No="64E2D46C2DAB451283B2A9966990930B" x="-524.855" y="58.872" z="-77.213" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox031" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="陨铁短匕（蛇形剑）">
+                <position x="-525.146" z="-77.391" ay="-1" />
+            </item>
+        </creator>
+        <creator No="28EA7754AC1B41E2857B2AE43CC99B8E" x="-520.937" y="58.884" z="-82.978" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox032" ax="6.126" ay="1.097" amount="1" refreshtime="5" NotPositive="0" desc="鬼头大刀">
+                <position x="-520.869" z="-82.945" ax="6.126" ay="1.097" />
+            </item>
+        </creator>
+        <creator No="FB2B1F8D61A544BB838F7054DAF756F5" x="-693.029" y="73.034" z="-159.549" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox033" ay="1.097" az="0.162" amount="1" refreshtime="5" NotPositive="0" desc="玉女剑">
+                <position x="-693.111" z="-159.693" ay="1.097" az="0.162" />
+            </item>
+        </creator>
+        <creator No="64AE0DD00A674BA0A7B983B5A534E603" x="-686.230" y="73.757" z="-180.373" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox035" ay="1.097" amount="1" refreshtime="5" NotPositive="0" desc="剑谱">
+                <position x="-686.206" z="-180.414" ay="1.097" />
+            </item>
+        </creator>
+        <creator No="0F4E0455F3D44199805627EF9862CEBD" x="-685.315" y="74.212" z="-177.849" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox036" ay="1.097" amount="1" refreshtime="5" NotPositive="0" desc="《名花图鉴》">
+                <position x="-685.309" z="-177.937" ay="1.097" />
+            </item>
+        </creator>
+        <creator No="FBD3A90FF35E458185048850B788FA8F" x="-237.630" y="81.580" z="-79.184" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox041" sx="0.710" sy="0.710" sz="0.710" ax="0.021" ay="1.157" az="0.155" amount="1" refreshtime="5" NotPositive="0" desc="黑色金属">
+                <position x="-237.630" z="-79.184" sx="0.710" sy="0.710" sz="0.710" ax="0.021" ay="1.157" az="0.155" />
+            </item>
+        </creator>
+        <creator No="746BAC7EDDD24AAFBE9B6D4579E3DF84" x="-275.089" y="85.279" z="-120.058" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox042" sx="0.650" sy="0.650" sz="0.650" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="铜色金属">
+                <position x="-275.082" z="-119.984" sx="0.650" sy="0.650" sz="0.650" ay="-1" />
+            </item>
+        </creator>
+        <creator No="DB6542DE856D4F17A748AB673803EB38" x="-696.347" y="73.249" z="-175.198" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox034" sx="0.290" sy="0.290" sz="0.290" ay="1.097" amount="1" refreshtime="5" NotPositive="0" desc="白玉挂坠（香包）">
+                <position x="-696.590" z="-175.105" sx="0.290" sy="0.290" sz="0.290" ay="1.097" />
+            </item>
+        </creator>
+        <creator No="8C2FFC337CBA416FA968B30B7452FBED" x="-535.561" y="44.017" z="-599.670" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox044" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="精致木盒">
+                <position x="-535.502" z="-599.782" ay="-1" />
+            </item>
+        </creator>
+        <creator No="8635E5B017334338A3236A1D5EFD2AF2" x="-492.045" y="43.271" z="-613.026" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox045" ax="4.735" ay="0.587" az="0.856" amount="1" refreshtime="5" NotPositive="0" desc="锦囊">
+                <position x="-491.857" z="-613.090" ax="4.735" ay="0.587" az="0.856" />
+            </item>
+        </creator>
+        <creator No="E1D35867AA28404CB4E12D0ACB6C5835" x="-464.157" y="39.196" z="-670.012" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox046" sx="0.470" sy="0.470" sz="0.470" ay="0.587" amount="1" refreshtime="5" NotPositive="0" desc="花纹石板（石块）">
+                <position x="-463.890" z="-670.109" sx="0.470" sy="0.470" sz="0.470" ay="0.587" />
+            </item>
+        </creator>
+        <creator No="AC4B832CB9CC45AF874976B2CC07E91A" x="-499.533" y="36.227" z="-1197.441" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox047" ay="6.275" amount="1" refreshtime="5" NotPositive="0" desc="大宝箱">
+                <position x="-499.576" z="-1197.474" ay="6.275" />
+            </item>
+        </creator>
+        <creator No="F37495EEF560478383E43F82877E98A7" x="-597.534" y="42.167" z="-1266.224" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox048" ay="0.587" amount="1" refreshtime="5" NotPositive="0" desc="中宝箱">
+                <position x="-597.579" z="-1266.229" ay="0.587" />
+            </item>
+        </creator>
+        <creator No="221B57A4CD424F9E97385F5D200F67D2" x="-524.096" y="40.505" z="-1396.373" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox049" ay="5.965" amount="1" refreshtime="5" NotPositive="0" desc="小宝箱">
+                <position x="-524.024" z="-1396.425" ay="5.965" />
+            </item>
+        </creator>
+        <creator No="056A07F1417A40528477AABAF2EA7635" x="-532.807" y="47.108" z="-1214.559" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox050" sx="0.551" sy="0.750" sz="0.500" ay="5.965" amount="1" refreshtime="5" NotPositive="0" desc="陶罐">
+                <position x="-532.782" z="-1214.526" sx="0.551" sy="0.750" sz="0.500" ay="5.965" />
+            </item>
+        </creator>
+        <creator No="9D21CA7773CF4E9B95B0A71F67D239DE" x="-520.628" y="48.285" z="-1213.917" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox051" ay="5.965" amount="1" refreshtime="5" NotPositive="0" desc="瓷罐（钱币）">
+                <position x="-520.688" z="-1213.821" ay="5.965" />
+            </item>
+        </creator>
+        <creator No="3CFFCACBFE784845900E8CF20B8CF17C" x="-516.990" y="49.279" z="-1208.618" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox052" sx="0.430" sy="0.430" sz="0.430" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="瓷花瓶">
+                <position x="-517.115" z="-1208.661" sx="0.430" sy="0.430" sz="0.430" ay="-1" />
+            </item>
+        </creator>
+        <creator No="A54F25E500EC4A0DAE716F2EF3A69834" x="-371.890" y="19.627" z="-1309.116" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox053" sx="0.760" sy="0.760" sz="0.760" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="刀剑">
+                <position x="-372.056" z="-1309.052" sx="0.760" sy="0.760" sz="0.760" ay="-1" />
+            </item>
+        </creator>
+        <creator No="9869A76F00C246319B0252752B5C93C2" x="-360.787" y="10.161" z="-1262.982" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox054" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="石像">
+                <position x="-360.878" z="-1263.194" ay="-1" />
+            </item>
+        </creator>
+        <creator No="6F4296FFCB384997AC66A99945F766CC" x="-527.038" y="91.913" z="-1345.555" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox029" ay="0.930" amount="1" refreshtime="5" NotPositive="0" desc="《八阵图遗篇》">
+                <position x="-527.037" z="-1345.611" ay="0.930" />
+            </item>
+        </creator>
+        <creator No="0E443F7FF11A40D3B2D69C33F71C21D4" x="-492.943" y="76.250" z="-307.573" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox038" sx="0.420" sy="0.290" sz="0.561" ay="5.965" amount="1" refreshtime="5" NotPositive="0" desc="古琴">
+                <position x="-492.906" z="-307.467" sx="0.420" sy="0.290" sz="0.561" ay="5.965" />
+            </item>
+        </creator>
+        <creator No="36EE725B31194CE099410424D27BF061" x="-500.487" y="76.730" z="-313.904" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox037" ay="5.965" amount="1" refreshtime="5" NotPositive="0" desc="《广陵散残篇》">
+                <position x="-500.571" z="-313.944" ay="5.965" />
+            </item>
+        </creator>
+        <creator No="A6645B9618E54C5391F4A3495F16B0D4" x="-504.564" y="76.481" z="-307.398" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox039" ay="0.227" amount="1" refreshtime="5" NotPositive="0" desc="首饰若干">
+                <position x="-504.631" z="-307.388" ay="0.227" />
+            </item>
+        </creator>
+        <creator No="29D184580B2C49F7A86C8185BDDBD22C" x="-506.035" y="75.804" z="-309.467" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox040" ay="1.067" amount="1" refreshtime="5" NotPositive="0" desc="锦盒">
+                <position x="-506.056" z="-309.373" ay="1.067" />
+            </item>
+        </creator>
+        <creator No="F83EE44E00394DE0AEE4FC6027B48EB3" x="-248.430" y="78.844" z="-72.562" radius="-1.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="thd_seekbox043" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="灰色金属">
+                <position x="-248.318" z="-72.174" ay="-1" />
+            </item>
+        </creator>
+        <creator No="92A8047B9B4349F1AFAC263082419736" x="-395.555" y="33.135" z="-1283.376" radius="15.0" WakeupRange="20.0" ChaseRange="15.0" PatrolRange="15.0" HateLink="1">
+            <item No="1" id="Gather_thd_czz_01" ay="-1" amount="3" refreshtime="10000" NotPositive="0" desc="珍珠贝">
+                <position x="-401.026" z="-1279.110" ay="-1" />
+                <position x="-402.404" z="-1283.411" ay="-1" />
+                <position x="-402.222" z="-1288.332" ay="-1" />
+            </item>
+            <item No="2" id="Gather_thd_czz_02" ay="-1" amount="3" refreshtime="10000" NotPositive="0" desc="粉色珍珠贝">
+                <position x="-399.940" z="-1291.180" ay="-1" />
+                <position x="-397.766" z="-1284.475" ay="-1" />
+                <position x="-403.154" z="-1290.955" ay="-1" />
+            </item>
+            <item No="3" id="Gather_thd_czz_03" ay="-1" amount="3" refreshtime="10000" NotPositive="0" desc="蓝色珍珠贝">
+                <position x="-395.656" z="-1274.327" ay="-1" />
+                <position x="-401.202" z="-1292.773" ay="-1" />
+                <position x="-403.323" z="-1284.109" ay="-1" />
+            </item>
+            <item No="4" id="Gather_thd_czz_04" ay="-1" amount="3" refreshtime="10000" NotPositive="0" desc="银色珍珠贝">
+                <position x="-397.073" z="-1293.326" ay="-1" />
+                <position x="-401.871" z="-1280.966" ay="-1" />
+                <position x="-401.846" z="-1285.729" ay="-1" />
+            </item>
+            <item No="5" id="Gather_thd_czz_05" ay="-1" amount="3" refreshtime="10000" NotPositive="0" desc="金色珍珠贝">
+                <position x="-400.365" z="-1286.618" ay="-1" />
+                <position x="-399.245" z="-1282.491" ay="-1" />
+                <position x="-397.718" z="-1274.330" ay="-1" />
+            </item>
+        </creator>
+        <creator No="3AA1A7FF2495401D9AA054632391CEE8" x="-413.590" y="36.487" z="-1365.908" radius="15.0" WakeupRange="15.0" ChaseRange="15.0" PatrolRange="15.0" HateLink="1">
+            <item No="1" id="Gather_thd_czz_01" ay="-1" amount="3" refreshtime="10000" NotPositive="0" desc="珍珠贝">
+                <position x="-417.659" z="-1366.825" ay="-1" />
+                <position x="-416.921" z="-1365.343" ay="-1" />
+                <position x="-420.330" z="-1365.592" ay="-1" />
+            </item>
+            <item No="2" id="Gather_thd_czz_02" ay="-1" amount="3" refreshtime="10000" NotPositive="0" desc="粉色珍珠贝">
+                <position x="-418.360" z="-1369.475" ay="-1" />
+                <position x="-420.144" z="-1369.259" ay="-1" />
+                <position x="-418.957" z="-1370.759" ay="-1" />
+            </item>
+            <item No="3" id="Gather_thd_czz_03" ay="-1" amount="3" refreshtime="10000" NotPositive="0" desc="蓝色珍珠贝">
+                <position x="-420.434" z="-1358.137" ay="-1" />
+                <position x="-423.004" z="-1367.683" ay="-1" />
+                <position x="-423.117" z="-1369.140" ay="-1" />
+            </item>
+            <item No="4" id="Gather_thd_czz_05" ay="-1" amount="3" refreshtime="10000" NotPositive="0" desc="金色珍珠贝">
+                <position x="-417.223" z="-1360.512" ay="-1" />
+                <position x="-420.959" z="-1362.132" ay="-1" />
+                <position x="-417.591" z="-1373.011" ay="-1" />
+            </item>
+            <item No="5" id="Gather_thd_czz_04" ay="-1" amount="3" refreshtime="10000" NotPositive="0" desc="银色珍珠贝">
+                <position x="-423.477" z="-1362.652" ay="-1" />
+                <position x="-420.380" z="-1360.445" ay="-1" />
+                <position x="-420.322" z="-1363.412" ay="-1" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

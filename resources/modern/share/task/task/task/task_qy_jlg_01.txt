@@ -1,0 +1,91 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	Plot	Title	Step	SearchID	Line	AcceptNpc	SubmitNpc	SceneID	AcceptSceneID	SubmitSceneID	AutoAcceptID	AutoSubmit	PreTaskLimit	NextTaskLimit	NotShowMenu	Relation	LuckValue	AcceptLimit	SubmitLimit	AcceptDecMoney	SubFunction	TaskItemList	RefreshMonster	TimeLimitLength	SubmitNpcEx	TaskScript	TitleId	ContextId	AcceptDialogId	CompleteDialogId	UnCompleteDialogId	TaskTargetId	TrackInfoID	LineNextInfo	CanAcceptMenu	UncompleteMenu	CompleteMenu	AcceptMovie	SubmitMovie	DramaAccept	DramaSubmit	CanGiveup	ShareType	RepeatType	RepeatPeriod	CountDayLimit	DifficultCoefficient	DifficultLevel
+18002				s640101	8		WorldNpc04007			8																	title_18002	context_18002	accept_18002_1;menu_18002_1	complete_18002;submit_18002		target_18002	task_TrackInfo_18002	next_18002	CanAcceptMenu_18002		CompleteMenu_18002					1	0	2	1	999		
+18003				s640101	8		WorldNpc04010			8																	title_18003	context_18003	accept_18003_1;menu_18003_1	complete_18003;submit_18003		target_18003	task_TrackInfo_18003	next_18003	CanAcceptMenu_18003		CompleteMenu_18003					1	0	2	1	999		
+18010				s640101	8		qy_111030_jilegu_baimuyun			8	18011														SubmitNpcEx_18010		title_18010	context_18010	accept_18010_1;menu_18010_1	complete_18010;submit_18010		target_18010		next_18010	CanAcceptMenu_18010		CompleteMenu_18010					1	0	2	1	999		
+18011				s640101	8							1															title_18011	context_18011	accept_18011_1;menu_18011_1	complete_18011;submit_18011		target_18011		next_18011	CanAcceptMenu_18011		CompleteMenu_18011					1	0	2	1	999		
+18012				s640101	8		Transschool04A			8	18013	1															title_18012	context_18012				target_18012										1	0	2	1	999		
+18013				s640101	8					8	18014	1															title_18013	context_18013				target_18013										1	0	2	1	999		
+18014				s640101	8					8	18015	1															title_18014	context_18014				target_18014										1	0	2	1	999		
+18015				s640101	8					8	18016	1															title_18015	context_18015				target_18015										1	0	2	1	999		
+18016				s640101	8					8	18017	1															title_18016	context_18016				target_18016										1	0	2	1	999		
+18017				s640101	8					8	18018	1															title_18017	context_18017				target_18017										1	0	2	1	999		
+18018				s640101	8					8	18019	1															title_18018	context_18018				target_18018										1	0	2	1	999		
+18019				s640101	8					7	18020	1															title_18019	context_18019				target_18019										1	0	2	1	999		
+18020				s640101	8					7	18021	1														Adventure\junzitang\qy_111030_jzttask18020.lua	title_18020	context_18020				target_18020										1	0	2	1	999		
+18021				s640101	8						18022	1															title_18021	context_18021				target_18021		next_18021								1	0	2	1	999		
+18022				s640101	8						18023	1															title_18022	context_18022				target_18022										1	0	2	1	999		
+18023				s640101	8							1															title_18023	context_18023				target_18023										1	0	2	1	999		
+18024				s640101	8							1															title_18024	context_18024				target_18024										1	0	2	1	999		
+18025				s640101	2						18069	1						1274				31001			SubmitNpcEx_18025		title_18025	context_18025	accept_18025_1;menu_18025_1	complete_18025;submit_18025		target_18025		next_18025	CanAcceptMenu_18025		CompleteMenu_18025					0	0	1	1	999		
+18026				s640101	8							1													SubmitNpcEx_18026		title_18026	context_18026				target_18026		next_18026								1	0	1	1	999		
+18027				s640101	8							1													SubmitNpcEx_18027		title_18027	context_18027				target_18027		next_18027								1	0	1	1	999		
+18028				s640101	8		WorldNpc01667																		SubmitNpcEx_Qy3NSan		title_Qy3NSan	context_Qy3NSan		complete_18028;submit_18028		target_Qy3NSan		next_Qy3NSan			CompleteMenu_18028					1	0	1	1	999		
+18029				s640101	8		sz326																		SubmitNpcEx_Qy3NSan	Adventure\jilegu\task_18034_add_step.lua	title_Qy3NSan	context_Qy3NSan		complete_Qy3NSan;submit_Qy3NSan		target_Qy3NSan		next_Qy3NSan			CompleteMenu_Qy3NSan					1	0	1	1	999		
+18030				s640101	8		WorldNpc01673																		SubmitNpcEx_Qy3NSan	Adventure\jilegu\task_18034_add_step.lua	title_Qy3NSan	context_Qy3NSan		complete_Qy3NSan;submit_Qy3NSan		target_Qy3NSan		next_Qy3NSan			CompleteMenu_Qy3NSan					1	0	1	1	999		
+18031				s640101	8		sz354																		SubmitNpcEx_Qy3NSan	Adventure\jilegu\task_18034_add_step.lua	title_Qy3NSan	context_Qy3NSan		complete_Qy3NSan;submit_Qy3NSan		target_Qy3NSan		next_Qy3NSan			CompleteMenu_Qy3NSan					1	0	1	1	999		
+18032				s640101	8		sz350																		SubmitNpcEx_Qy3NSan	Adventure\jilegu\task_18034_add_step.lua	title_Qy3NSan	context_Qy3NSan		complete_Qy3NSan;submit_Qy3NSan		target_Qy3NSan		next_Qy3NSan			CompleteMenu_Qy3NSan					1	0	1	1	999		
+18033				s640101	8		WorldNpc01508																		SubmitNpcEx_Qy3NSan	Adventure\jilegu\task_18034_add_step.lua	title_Qy3NSan	context_Qy3NSan		complete_Qy3NSan;submit_Qy3NSan		target_Qy3NSan		next_Qy3NSan			CompleteMenu_Qy3NSan					1	0	1	1	999		
+18034				s640101	8		WorldNpc03816			8															SubmitNpcEx_Qy3NSan	Adventure\jilegu\task_giveup_Qy3Nsan.lua	title_Qy3NSan	context_Qy3NSan		complete_18034;submit_18034		target_Qy3NSan		next_Qy3NSan			CompleteMenu_Qy3NSan					1	0	1	1	999		
+18035				s640101	2		WorldNpc03816			8								1274							SubmitNpcEx_18035		title_18035	context_18035		complete_18035;submit_18035		target_18036		next_18035			CompleteMenu_18035					1	0	1	1	999		
+18036				s640101	2		WorldNpc03816			8								1274							SubmitNpcEx_18035		title_18035	context_18036		complete_18035;submit_18035		target_18044		next_18035			CompleteMenu_18035					1	0	1	1	999		
+18037				s640101	2		WorldNpc03816			8								1274							SubmitNpcEx_18035		title_18037	context_18037	accept_18037_1;menu_18037_1	complete_18037;submit_18037		target_18037		next_18037	CanAcceptMenu_18037		CompleteMenu_18037					1	0	1	1	999		
+18038				s640101	2		WorldNpc03816			8								1274							SubmitNpcEx_18035		title_18038	context_18038	accept_18038_1;menu_18038_1	complete_18038;submit_18038		target_18038		next_18038	CanAcceptMenu_18038		CompleteMenu_18038					1	0	1	1	999		
+18039				s640101	2		WorldNpc03816			8								1274							SubmitNpcEx_18035		title_18035	context_18039		complete_18035;submit_18035		target_18035		next_18035			CompleteMenu_18035					1	0	1	1	999		
+18040				s640101	2		WorldNpc03816			8								1274							SubmitNpcEx_18035	Adventure\jilegu\task_accept.lua	title_18035	context_18040		complete_18035;submit_18035		target_18035		next_18035			CompleteMenu_18035					1	0	1	1	999		
+18041				s640101	2		WorldNpc03816			8								1274				31014			SubmitNpcEx_18035	Adventure\jilegu\task_accept.lua	title_18035	context_18041		complete_18035;submit_18035		target_18035		next_18035			CompleteMenu_18035					1	0	1	1	999		
+18042				s640101	2		WorldNpc03816			8								1274				31010;31011;31012;31013			SubmitNpcEx_18035	Adventure\jilegu\task_accept.lua	title_18035	context_18042		complete_18035;submit_18035		target_18035		next_18035			CompleteMenu_18035					1	0	1	1	999		
+18043				s640101	2		WorldNpc03816			8								1274				31010;31011;31012;31013			SubmitNpcEx_18035	Adventure\jilegu\task_accept.lua	title_18035	context_18043		complete_18035;submit_18035		target_18035		next_18035			CompleteMenu_18035					1	0	1	1	999		
+18044				s640101	2		WorldNpc03816			8								1274				31010;31011;31012;31013			SubmitNpcEx_18035	Adventure\jilegu\task_accept.lua	title_18035	context_18044		complete_18035;submit_18035		target_18035		next_18035			CompleteMenu_18035					1	0	1	1	999		
+18045				s640101	2		WorldNpc03816			8								1274				31018			SubmitNpcEx_18035	Adventure\jilegu\task_accept.lua	title_18035	context_18045		complete_18035;submit_18035		target_18035		next_18035			CompleteMenu_18035					1	0	1	1	999		
+18046				s640101	2		WorldNpc03816			8								1274				31000			SubmitNpcEx_18035	Adventure\jilegu\task_accept.lua	title_18035	context_18046		complete_18035;submit_18035		target_18035		next_18035			CompleteMenu_18035					1	0	1	1	999		
+18047				s640101	2		WorldNpc03816			8								1274				31000			SubmitNpcEx_18035	Adventure\jilegu\task_accept.lua	title_18035	context_18047		complete_18035;submit_18035		target_18035		next_18035			CompleteMenu_18035					1	0	1	1	999		
+18048				s640101	2		WorldNpc03816			8								1274				31010;31011;31012;31013			SubmitNpcEx_18035	Adventure\jilegu\task_accept.lua	title_18035	context_18048		complete_18035;submit_18035		target_18035		next_18035			CompleteMenu_18035					1	0	1	1	999		
+18049				s640101	2		WorldNpc03816			8								1274							SubmitNpcEx_18035	Adventure\jilegu\task_accept.lua	title_18035	context_18049		complete_18035;submit_18035		target_18035		next_18035			CompleteMenu_18035					1	0	1	1	999		
+18050				s640101	2		WorldNpc03816			8								1274				31000;31022			SubmitNpcEx_18035	Adventure\jilegu\task_accept.lua	title_18035	context_18050		complete_18035;submit_18035		target_18035		next_18035			CompleteMenu_18035					1	0	1	1	999		
+18051				s640101	2		WorldNpc03816			8								1274				31000;31022			SubmitNpcEx_18035	Adventure\jilegu\task_accept.lua	title_18035	context_18051		complete_18035;submit_18035		target_18035		next_18035			CompleteMenu_18035					1	0	1	1	999		
+18052				s640101	2		WorldNpc03816			8								1274				31000;31022			SubmitNpcEx_18035	Adventure\jilegu\task_accept.lua	title_18035	context_18052		complete_18035;submit_18035		target_18035		next_18035			CompleteMenu_18035					1	0	1	1	999		
+18053				s640101	2							1						1274							SubmitNpcEx_18053	Adventure\jilegu\task_commit.lua	title_18053	context_18053				target_18053		next_18053								0	0	1	1	999		
+18054				s640101	2							1						1274							SubmitNpcEx_18053	Adventure\jilegu\task_commit.lua	title_18054	context_18054				target_18054		next_18053								0	0	1	1	999		
+18055				s640101	2							1						1274							SubmitNpcEx_18035	Adventure\jilegu\task_commit.lua	title_18055	context_18055				target_18055		next_18055								0	0	1	1	999		
+18056				s640101	2							1						1274							SubmitNpcEx_18035	Adventure\jilegu\task_commit.lua	title_18056	context_18056	accept_18056_1;menu_18056_1	complete_18056;submit_18056		target_18056		next_18056	CanAcceptMenu_18056		CompleteMenu_18056					0	0	1	1	999		
+18057				s640101	2						18058	1		18058				1274							SubmitNpcEx_18035		title_18057	context_18057				target_18057		next_18035								0	0	1	1	999		
+18058				s640101	2							1	18057					1274							SubmitNpcEx_18035	Adventure\jilegu\task_commit.lua	title_18058	context_18058				target_18058		next_18035								0	0	1	1	999		
+18059				s640101	2							1		18079				1274							SubmitNpcEx_18035	Adventure\jilegu\task_commit.lua	title_18059	context_18059				target_18059		next_18035								0	0	1	1	999		
+18060				s640101	2							1						1274							SubmitNpcEx_18035	Adventure\jilegu\task_commit.lua	title_18060	context_18060				target_18060		next_18035								0	0	1	1	999		
+18061				s640101	2							1						1274							SubmitNpcEx_18035	Adventure\jilegu\task_commit.lua	title_18061	context_18061				target_18061		next_18035								0	0	1	1	999		
+18062				s640101	2							1						1274							SubmitNpcEx_18035	Adventure\jilegu\task_commit.lua	title_18062	context_18062				target_18062		next_18035								0	0	1	1	999		
+18063				s640101	2							1						1274							SubmitNpcEx_18035	Adventure\jilegu\task_commit.lua	title_18063	context_18063				target_18063		next_18035								0	0	1	1	999		
+18064				s640101	2							1						1274							SubmitNpcEx_18035	Adventure\jilegu\task_commit.lua	title_18064	context_18064				target_18064		next_18035								0	0	1	1	999		
+18065				s640101	2							1						1274				31001			SubmitNpcEx_18035	Adventure\jilegu\task_commit.lua	title_18065	context_18065				target_18065		next_18035								0	0	1	1	999		
+18066				s640101	2							1						1274				31001			SubmitNpcEx_18035	Adventure\jilegu\task_commit.lua	title_18066	context_18066				target_18066		next_18035								0	0	1	1	999		
+18067				s640101	2							1						1274																								0	0	1	1	999		
+18068				s640101	2							1						1274							SubmitNpcEx_18068	Adventure\jilegu\task_commit.lua	title_18068	context_18068				target_18068		next_18035								0	0	1	1	999		
+18069				s640101	2						18070	1						1274				31017			SubmitNpcEx_18035		title_18069	context_18069				target_18069		next_18035								0	0	0				
+18070				s640101	2						18071	1						1274							SubmitNpcEx_18035		title_18070	context_18070				target_18070		next_18035								0	0	0				
+18071				s640101	2						18072	1						1274							SubmitNpcEx_18035		title_18071	context_18071				target_18071		next_18035								0	0	0				
+18072				s640101	2						18073	1						1274							SubmitNpcEx_18035		title_18070	context_18070				target_18070		next_18035								0	0	0				
+18073				s640101	2						18074	1						1274							SubmitNpcEx_18035		title_18071	context_18071				target_18071		next_18035								0	0	0				
+18074				s640101	2						18075	1						1274							SubmitNpcEx_18035		title_18070	context_18070				target_18070		next_18035								0	0	0				
+18075				s640101	2						18076	1						1274							SubmitNpcEx_18035		title_18071	context_18071		complete_18035;submit_18035		target_18071		next_18070								0	0	0				
+18076				s640101	2		WorldNpc03816			8								1274				31021			SubmitNpcEx_18035	Adventure\jilegu\task_commit.lua	title_18076	context_18076		complete_18035;submit_18035		target_18076		next_18035			CompleteMenu_18035					0	0	0				
+18077				s640101	2							1	18055					1274								Adventure\jilegu\task_commit.lua																0	0	1	1	999		
+18078				s640101	2							1	18056					1274								Adventure\jilegu\task_commit.lua																0	0	1	1	999		
+18079				s640101	2							1	18059					1274								Adventure\jilegu\task_commit.lua																0	0	1	1	999		
+18080				s640101	2							1						1274							SubmitNpcEx_18035	Adventure\jilegu\task_commit.lua	title_18080	context_18080				target_18080		next_18035								0	0	1	1	999		
+18081				s640101	2						18082	1						1274				31001			SubmitNpcEx_18025		title_18025	context_18025	accept_18025_1;menu_18025_1	complete_18025;submit_18025		target_18025		next_18025	CanAcceptMenu_18025		CompleteMenu_18025					0	0	1	1	999		
+18082				s640101	2						18083	1						1274				31017			SubmitNpcEx_18035		title_18069	context_18069				target_18069		next_18035								0	0	1	1	999		
+18083				s640101	2						18084	1						1274							SubmitNpcEx_18035		title_18070	context_18070				target_18070		next_18035								0	0	1	1	999		
+18084				s640101	2						18085	1						1274							SubmitNpcEx_18035		title_18071	context_18071				target_18071		next_18035								0	0	1	1	999		
+18085				s640101	2						18086	1						1274							SubmitNpcEx_18035		title_18070	context_18070				target_18070		next_18035								0	0	1	1	999		
+18086				s640101	2						18087	1						1274							SubmitNpcEx_18035		title_18071	context_18071				target_18071		next_18035								0	0	1	1	999		
+18087				s640101	2						18088	1						1274							SubmitNpcEx_18035		title_18070	context_18070				target_18070		next_18035								0	0	1	1	999		
+18088				s640101	2							1						1274							SubmitNpcEx_18035	Adventure\jilegu\task_commit.lua	title_18071	context_18071				target_18071		next_18070								0	0	1	1	999		
+18089				s640101	2						18090	1						1274				31001			SubmitNpcEx_18025		title_18025	context_18025	accept_18025_1;menu_18025_1	complete_18025;submit_18025		target_18025		next_18025	CanAcceptMenu_18025		CompleteMenu_18025					0	0	1	1	999		
+18090				s640101	2						18091	1						1274				31017			SubmitNpcEx_18035		title_18069	context_18069				target_18069		next_18035								0	0	1	1	999		
+18091				s640101	2						18092	1						1274							SubmitNpcEx_18035		title_18070	context_18070				target_18070		next_18035								0	0	1	1	999		
+18092				s640101	2						18093	1						1274							SubmitNpcEx_18035		title_18071	context_18071				target_18071		next_18035								0	0	1	1	999		
+18093				s640101	2						18094	1						1274							SubmitNpcEx_18035		title_18070	context_18070				target_18070		next_18035								0	0	1	1	999		
+18094				s640101	2						18095	1						1274							SubmitNpcEx_18035		title_18071	context_18071				target_18071		next_18035								0	0	1	1	999		
+18095				s640101	2						18096	1						1274							SubmitNpcEx_18035		title_18070	context_18070				target_18070		next_18035								0	0	1	1	999		
+18096				s640101	2							1						1274							SubmitNpcEx_18035	Adventure\jilegu\task_commit.lua	title_18071	context_18071				target_18071		next_18070								0	0	1	1	999		

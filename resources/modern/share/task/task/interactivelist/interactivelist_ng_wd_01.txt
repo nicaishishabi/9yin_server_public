@@ -1,0 +1,57 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	NpcId	SceneID	DialogID	GetItems	LostItems	TrackInfo	OkMenu	TaskID	BufferID
+80501	WorldNpc04813	11	DialogID_80501			interactinfo_80501	okmenu_80501		
+80503	WorldNpc04402	11	DialogID_80503		item_4nei_fb-1	interactinfo_80503	okmenu_80503	55507	
+80504	WorldNpc04402	11	DialogID_80504			interactinfo_80504	okmenu_80504	55508	
+80505	wd005	11	DialogID_80505			interactinfo_80505	okmenu_80505	55508	
+80506	npc_4nei_lxy	11	DialogID_80506			interactinfo_80506	okmenu_80506	55508	
+80508	npc_4nei_xsd	11	DialogID_80508			interactinfo_80508	okmenu_80508	55510	
+80509	npc_4nei_xsd	11	DialogID_80509			interactinfo_80509	okmenu_80509	55510	
+80507	npc_4nei_lxy	11	DialogID_80507			interactinfo_80507	okmenu_80507	55509	
+80511	WorldNpc04401	11	DialogID_80511			interactinfo_80511	okmenu_80511	55512	
+80510	npc_4nei_sdb	11	DialogID_80510	useitem_4nei_mx-1		interactinfo_80510	okmenu_80510	55511	
+80512	npc_4nei_sdst	11	DialogID_80512	item_4nei_xj-1		interactinfo_80512	okmenu_80512	55512	
+80513	WorldNpc04814	11	DialogID_80513	useitem_4nei_xiangzi-1		interactinfo_80513	okmenu_80513	55505	
+80514	npc_4neidh_wd	11	DialogID_80514			interactinfo_80514	okmenu_80514	55514	
+80515	WorldNpc04426	11	DialogID_80515			interactinfo_80515	okmenu_80515	55514	
+80516	WorldNpc04897	11	DialogID_80516	item_4nei_tanghulu-1		interactinfo_80516	okmenu_80516	55515	
+80517	npc_4nei_wz1	11	DialogID_80517			interactinfo_80517	okmenu_80517	55516	
+80519	WorldNpc04795	11	DialogID_80519			interactinfo_80519	okmenu_80519	55517	
+80518	Event_4nei_wd_55516	11	DialogID_80518			interactinfo_80518	okmenu_80518	55516	buff_4nei_wudang_cjsqy
+80520						interactinfo_80520			
+80521	npc_4nei_sqy3	11	DialogID_80521			interactinfo_80521	okmenu_80521		
+80522	Event_4nei_wd_55522	11	DialogID_80522			interactinfo_80522	okmenu_80522	55525	
+80502	wd121	11	DialogID_80502		item_4nei_zsms-1	interactinfo_80502	okmenu_80502	55502	
+80523	Event_4nei_wd_55505	11				interactinfo_80523		55528	buff_4nei_wudang_55505
+80524	Event_5nei_wd_lh	11				interactinfo_80524		55552	
+80527	Event_5nei_wd_55559	11				interactinfo_80527		55559	
+80528	Event_5nei_wd_55554	11				interactinfo_80528		55554	
+80530	Event_5nei_wd_55560	11				interactinfo_80530		55560	buf_5nei_wd_diao
+80531	Event_5nei_wd_55560a	11				interactinfo_80531		55560	buf_5nei_wd_diao1
+80529	Event_5nei_wd_55555	11				interactinfo_80529			
+80532	npc_5nei_wd_hetao	11	DialogID_80532		item_5nei_wd_diao-1	interactinfo_80532	okmenu_80532	55561	buf_5nei_wd_xsd
+80533	Gather_5nei_wd_diao	11				interactinfo_80533		55561	
+80534	Event_5nei_z2_55563	15				interactinfo_80534		55563	buf_5nei_z2_sy
+80535	Event_5nei_z2_55563a	15				interactinfo_80535		55563	buf_5nei_z2_sy1
+80538	Event_5nei_z2_55566	17				interactinfo_80538		55566	buf_5nei_z2_55566
+80539	5nei_z2_hc	17				interactinfo_80539		55566	
+80540	Event_5nei_z2_55568	17				interactinfo_80540		55568	
+80541	Event_5nei_z2_55569	17				interactinfo_80541		55569	buf_5nei_z2_yp
+80543	Gather_5nei_z2_ywt	17				interactinfo_80543		55569	
+80544	Event_5nei_z2_55570	14				interactinfo_80544		55570	buf_5nei_z2_ysq
+80545	Event_5nei_z2_55571	14				interactinfo_80545		55571	buf_5nei_z2_yjcx
+80546	NPC_5nei_z2_sq1	14	DialogID_80546	useitem_5nei_z2_ct-1		interactinfo_80546	okmenu_80546	55572	
+80547	NPC_5nei_z2_sq1	14	DialogID_80547		item_5nei_z2_yq-1	interactinfo_80547	okmenu_80547	55573	
+80548	Event_5nei_z2_55575	7				interactinfo_80548		55575	buf_5nei_z2_sxj
+80542	NPC_5nei_z2_lqcbb	17	DialogID_80542			interactinfo_80542	okmenu_80542	55569	buf_5nei_z2_lqc
+80550	Event_5nei_z2_55577	352				interactinfo_80550		55577	
+80551	NPC_5nei_z2_wg	14							
+80526	WorldNpc04582	11	DialogID_80526		item_5nei_wd_yl-1	interactinfo_80526	okmenu_80526	55558	
+80525	Event_5nei_wd_55556	11				interactinfo_80525			
+80549	NPC_5nei_z2_th	7	DialogID_80549		item_5nei_z2_xin-1	interactinfo_80549	okmenu_80549		
+80536	NPC_5nei_z2_ll	15	DialogID_80536	useitem_5nei_z2_hx-1		interactinfo_80536	okmenu_80536	55565	
+80537	NPC_5nei_z2_ll	15	DialogID_80537			interactinfo_80537	okmenu_80537	55565	
+80552	yxhd_dy_xbt1	14	DialogID_80552			interactinfo_80552	okmenu_80552		buf_yxhd_dy_qbuf
+80553	Event_qygp_dy_55580	63				interactinfo_80553		55580	buf_yxhd_dy_sh
+80554						interactinfo_80554			
+80555						interactinfo_80555			

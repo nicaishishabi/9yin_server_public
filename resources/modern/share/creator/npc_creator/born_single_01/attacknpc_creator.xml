@@ -1,0 +1,1853 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="AB32C985999C40A8AA9A0C68A9C02D79" x="110.907" y="11.966" z="-116.044" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="519" TaskSubType="1" StaticY="1" HateLink="1" SubSceneNo="8000">
+            <item No="1" id="Npcborn003005" ay="0.630" amount="3" refreshtime="30000" desc="护院">
+                <position x="113.020" y="11.980" z="-121.584" ay="0.630" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="117.748" y="11.962" z="-116.880" ay="5.928" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="105.895" y="12.432" z="-122.280" ay="1.440" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="2D8D68BCC1554B7E81F39E720977CEB9" x="102.868" y="16.068" z="-128.795" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="523" TaskSubType="1" SubSceneNo="8000">
+            <item No="1" id="Npcborn003101" sx="0.750" sy="0.750" sz="0.750" ay="1.840" amount="1" refreshtime="300000" desc="燃烧的房子">
+                <position x="103.999" z="-126.524" sx="0.750" sy="0.750" sz="0.750" ay="1.840" />
+            </item>
+            <item No="2" id="museborn_ydtx_8a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;157.363,4.252,-87.647,-3.088河边&#x0A;119.733,11.963,-109.410,2.223火&#x0A;116.555,11.963,-116.905,2.649火&#x0A;103.217,12.388,-120.906,3.120火&quot;'>
+                <position x="103.211" z="-121.870" />
+            </item>
+        </creator>
+        <creator No="39F9D8118AA04697A32F25039BA15839" x="-72.059" y="29.723" z="-135.208" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" SubSceneNo="8000">
+            <item No="1" id="Npcborn003024" ay="1.840" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-72.059" z="-135.208" ay="1.840" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.059" z="-133.208" ay="0.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.059" z="-133.208" ay="1.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-76.059" z="-141.208" ay="2.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="BBAA34418BF84A2CA1E2DEC67CA9DF62" x="-73.957" y="29.723" z="-119.237" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8000">
+            <item No="1" id="Npcborn003024" ay="-2.813" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-73.957" z="-119.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.957" z="-120.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-77.957" z="-123.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.957" z="-114.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="3ADEE2EC5E394A9584013399606F8473" x="-79.593" y="29.723" z="-123.164" radius="10.0" WakeupRange="22.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8000">
+            <item No="1" id="bossborn003003" ay="1.521" amount="1" refreshtime="10000" desc="崔仁兴">
+                <position x="-79.593" z="-123.164" ay="1.521" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9E33" x="76.405" y="13.599" z="-94.348" radius="10.0" WakeupRange="20.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="520" TaskSubType="1" SubSceneNo="8000">
+            <item No="1" id="bossborn003002" ay="1.646" amount="1" refreshtime="10000" desc="韩枫">
+                <position x="76.405" z="-94.348" ay="1.646" WeaponName="s_r_npcitem411" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_9" sx="2.300" sy="2.300" sz="2.300" ay="1.875" amount="1" refreshtime="30000" NotPositive="0" desc="1343-猎杀-520">
+                <position x="105.559" z="-103.065" sx="2.300" sy="2.300" sz="2.300" ay="1.875" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="155.131" y="5.749" z="-100.876" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="518" TaskSubType="1" SubSceneNo="8000">
+            <item No="1" id="bossborn003001" ay="2.147" amount="1" refreshtime="10000" desc="迟谷">
+                <position x="155.131" z="-100.876" ay="2.147" WeaponName="dk_rl_npcitem479" WeaponMode="dknife1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_3" sx="1.910" sy="1.910" sz="1.910" ay="2.200" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-518">
+                <position x="171.578" z="-114.392" sx="1.910" sy="1.910" sz="1.910" ay="2.200" />
+            </item>
+        </creator>
+        <creator No="DBDC40355A284BA9883C3A49FC55E093" x="23.641" y="24.837" z="-113.943" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="576" TaskSubType="3" StaticY="1" SubSceneNo="8000">
+            <item No="1" id="museborn_ydtx_12a" ay="-1" amount="3" refreshtime="30000" desc="护院">
+                <position x="23.707" y="24.576" z="-114.015" ay="-1" />
+                <position x="21.894" y="27.606" z="-117.382" ay="-1" />
+                <position x="20.070" y="27.840" z="-114.327" ay="-1" />
+            </item>
+        </creator>
+        <creator No="2ABF084DA64243748294F6C849ED88FB" x="176.395" y="6.093" z="-118.681" radius="5.0" WakeupRange="50.0" ChaseRange="27.0" PatrolRange="0.0" TaskSubId="522" TaskSubType="1" StaticY="1" SubSceneNo="8000">
+            <item No="1" id="museborn_ydtx_2a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;172.270,6.234,-124.060,-2.093&quot;'>
+                <position x="172.000" y="6.200" z="-124.000" />
+            </item>
+            <item No="2" id="museborn_ydtx_2" sx="2.200" sy="2.200" sz="2.200" ay="1.075" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-522">
+                <position x="185.952" y="5.458" z="-113.892" sx="2.200" sy="2.200" sz="2.200" ay="1.075" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="534" TaskSubType="1" HateLink="1" SubSceneNo="8000">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="535" TaskSubType="1" HateLink="1" SubSceneNo="8000">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="AB32C985999C40A8AA9A0C68A9C02D79" x="110.907" y="11.966" z="-116.044" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="519" TaskSubType="1" StaticY="1" HateLink="1" SubSceneNo="8001">
+            <item No="1" id="Npcborn003005" ay="0.630" amount="3" refreshtime="30000" desc="护院">
+                <position x="113.020" y="11.980" z="-121.584" ay="0.630" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="117.748" y="11.962" z="-116.880" ay="5.928" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="105.895" y="12.432" z="-122.280" ay="1.440" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="2D8D68BCC1554B7E81F39E720977CEB9" x="102.868" y="16.068" z="-128.795" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="523" TaskSubType="1" SubSceneNo="8001">
+            <item No="1" id="Npcborn003101" sx="0.750" sy="0.750" sz="0.750" ay="1.840" amount="1" refreshtime="300000" desc="燃烧的房子">
+                <position x="103.999" z="-126.524" sx="0.750" sy="0.750" sz="0.750" ay="1.840" />
+            </item>
+            <item No="2" id="museborn_ydtx_8a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;157.363,4.252,-87.647,-3.088河边&#x0A;119.733,11.963,-109.410,2.223火&#x0A;116.555,11.963,-116.905,2.649火&#x0A;103.217,12.388,-120.906,3.120火&quot;'>
+                <position x="103.211" z="-121.870" />
+            </item>
+        </creator>
+        <creator No="39F9D8118AA04697A32F25039BA15839" x="-72.059" y="29.723" z="-135.208" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" SubSceneNo="8001">
+            <item No="1" id="Npcborn003024" ay="1.840" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-72.059" z="-135.208" ay="1.840" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.059" z="-133.208" ay="0.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.059" z="-133.208" ay="1.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-76.059" z="-141.208" ay="2.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="BBAA34418BF84A2CA1E2DEC67CA9DF62" x="-73.957" y="29.723" z="-119.237" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8001">
+            <item No="1" id="Npcborn003024" ay="-2.813" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-73.957" z="-119.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.957" z="-120.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-77.957" z="-123.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.957" z="-114.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="3ADEE2EC5E394A9584013399606F8473" x="-79.593" y="29.723" z="-123.164" radius="10.0" WakeupRange="22.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8001">
+            <item No="1" id="bossborn003003" ay="1.521" amount="1" refreshtime="10000" desc="崔仁兴">
+                <position x="-79.593" z="-123.164" ay="1.521" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9E33" x="76.405" y="13.599" z="-94.348" radius="10.0" WakeupRange="20.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="520" TaskSubType="1" SubSceneNo="8001">
+            <item No="1" id="bossborn003002" ay="1.646" amount="1" refreshtime="10000" desc="韩枫">
+                <position x="76.405" z="-94.348" ay="1.646" WeaponName="s_r_npcitem411" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_9" sx="2.300" sy="2.300" sz="2.300" ay="1.875" amount="1" refreshtime="30000" NotPositive="0" desc="1343-猎杀-520">
+                <position x="105.559" z="-103.065" sx="2.300" sy="2.300" sz="2.300" ay="1.875" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="155.131" y="5.749" z="-100.876" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="518" TaskSubType="1" SubSceneNo="8001">
+            <item No="1" id="bossborn003001" ay="2.147" amount="1" refreshtime="10000" desc="迟谷">
+                <position x="155.131" z="-100.876" ay="2.147" WeaponName="dk_rl_npcitem479" WeaponMode="dknife1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_3" sx="1.910" sy="1.910" sz="1.910" ay="2.200" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-518">
+                <position x="171.578" z="-114.392" sx="1.910" sy="1.910" sz="1.910" ay="2.200" />
+            </item>
+        </creator>
+        <creator No="DBDC40355A284BA9883C3A49FC55E093" x="23.641" y="24.837" z="-113.943" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="576" TaskSubType="3" StaticY="1" SubSceneNo="8001">
+            <item No="1" id="museborn_ydtx_12a" ay="-1" amount="3" refreshtime="30000" desc="护院">
+                <position x="23.707" y="24.576" z="-114.015" ay="-1" />
+                <position x="21.894" y="27.606" z="-117.382" ay="-1" />
+                <position x="20.070" y="27.840" z="-114.327" ay="-1" />
+            </item>
+        </creator>
+        <creator No="2ABF084DA64243748294F6C849ED88FB" x="176.395" y="6.093" z="-118.681" radius="5.0" WakeupRange="50.0" ChaseRange="27.0" PatrolRange="0.0" TaskSubId="522" TaskSubType="1" StaticY="1" SubSceneNo="8001">
+            <item No="1" id="museborn_ydtx_2a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;172.270,6.234,-124.060,-2.093&quot;'>
+                <position x="172.000" y="6.200" z="-124.000" />
+            </item>
+            <item No="2" id="museborn_ydtx_2" sx="2.200" sy="2.200" sz="2.200" ay="1.075" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-522">
+                <position x="185.952" y="5.458" z="-113.892" sx="2.200" sy="2.200" sz="2.200" ay="1.075" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="534" TaskSubType="1" HateLink="1" SubSceneNo="8001">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="535" TaskSubType="1" HateLink="1" SubSceneNo="8001">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="AB32C985999C40A8AA9A0C68A9C02D79" x="110.907" y="11.966" z="-116.044" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="519" TaskSubType="1" StaticY="1" HateLink="1" SubSceneNo="8002">
+            <item No="1" id="Npcborn003005" ay="0.630" amount="3" refreshtime="30000" desc="护院">
+                <position x="113.020" y="11.980" z="-121.584" ay="0.630" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="117.748" y="11.962" z="-116.880" ay="5.928" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="105.895" y="12.432" z="-122.280" ay="1.440" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="2D8D68BCC1554B7E81F39E720977CEB9" x="102.868" y="16.068" z="-128.795" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="523" TaskSubType="1" SubSceneNo="8002">
+            <item No="1" id="Npcborn003101" sx="0.750" sy="0.750" sz="0.750" ay="1.840" amount="1" refreshtime="300000" desc="燃烧的房子">
+                <position x="103.999" z="-126.524" sx="0.750" sy="0.750" sz="0.750" ay="1.840" />
+            </item>
+            <item No="2" id="museborn_ydtx_8a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;157.363,4.252,-87.647,-3.088河边&#x0A;119.733,11.963,-109.410,2.223火&#x0A;116.555,11.963,-116.905,2.649火&#x0A;103.217,12.388,-120.906,3.120火&quot;'>
+                <position x="103.211" z="-121.870" />
+            </item>
+        </creator>
+        <creator No="39F9D8118AA04697A32F25039BA15839" x="-72.059" y="29.723" z="-135.208" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" SubSceneNo="8002">
+            <item No="1" id="Npcborn003024" ay="1.840" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-72.059" z="-135.208" ay="1.840" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.059" z="-133.208" ay="0.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.059" z="-133.208" ay="1.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-76.059" z="-141.208" ay="2.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="BBAA34418BF84A2CA1E2DEC67CA9DF62" x="-73.957" y="29.723" z="-119.237" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8002">
+            <item No="1" id="Npcborn003024" ay="-2.813" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-73.957" z="-119.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.957" z="-120.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-77.957" z="-123.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.957" z="-114.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="3ADEE2EC5E394A9584013399606F8473" x="-79.593" y="29.723" z="-123.164" radius="10.0" WakeupRange="22.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8002">
+            <item No="1" id="bossborn003003" ay="1.521" amount="1" refreshtime="10000" desc="崔仁兴">
+                <position x="-79.593" z="-123.164" ay="1.521" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9E33" x="76.405" y="13.599" z="-94.348" radius="10.0" WakeupRange="20.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="520" TaskSubType="1" SubSceneNo="8002">
+            <item No="1" id="bossborn003002" ay="1.646" amount="1" refreshtime="10000" desc="韩枫">
+                <position x="76.405" z="-94.348" ay="1.646" WeaponName="s_r_npcitem411" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_9" sx="2.300" sy="2.300" sz="2.300" ay="1.875" amount="1" refreshtime="30000" NotPositive="0" desc="1343-猎杀-520">
+                <position x="105.559" z="-103.065" sx="2.300" sy="2.300" sz="2.300" ay="1.875" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="155.131" y="5.749" z="-100.876" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="518" TaskSubType="1" SubSceneNo="8002">
+            <item No="1" id="bossborn003001" ay="2.147" amount="1" refreshtime="10000" desc="迟谷">
+                <position x="155.131" z="-100.876" ay="2.147" WeaponName="dk_rl_npcitem479" WeaponMode="dknife1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_3" sx="1.910" sy="1.910" sz="1.910" ay="2.200" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-518">
+                <position x="171.578" z="-114.392" sx="1.910" sy="1.910" sz="1.910" ay="2.200" />
+            </item>
+        </creator>
+        <creator No="DBDC40355A284BA9883C3A49FC55E093" x="23.641" y="24.837" z="-113.943" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="576" TaskSubType="3" StaticY="1" SubSceneNo="8002">
+            <item No="1" id="museborn_ydtx_12a" ay="-1" amount="3" refreshtime="30000" desc="护院">
+                <position x="23.707" y="24.576" z="-114.015" ay="-1" />
+                <position x="21.894" y="27.606" z="-117.382" ay="-1" />
+                <position x="20.070" y="27.840" z="-114.327" ay="-1" />
+            </item>
+        </creator>
+        <creator No="2ABF084DA64243748294F6C849ED88FB" x="176.395" y="6.093" z="-118.681" radius="5.0" WakeupRange="50.0" ChaseRange="27.0" PatrolRange="0.0" TaskSubId="522" TaskSubType="1" StaticY="1" SubSceneNo="8002">
+            <item No="1" id="museborn_ydtx_2a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;172.270,6.234,-124.060,-2.093&quot;'>
+                <position x="172.000" y="6.200" z="-124.000" />
+            </item>
+            <item No="2" id="museborn_ydtx_2" sx="2.200" sy="2.200" sz="2.200" ay="1.075" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-522">
+                <position x="185.952" y="5.458" z="-113.892" sx="2.200" sy="2.200" sz="2.200" ay="1.075" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="534" TaskSubType="1" HateLink="1" SubSceneNo="8002">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="535" TaskSubType="1" HateLink="1" SubSceneNo="8002">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="AB32C985999C40A8AA9A0C68A9C02D79" x="110.907" y="11.966" z="-116.044" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="519" TaskSubType="1" StaticY="1" HateLink="1" SubSceneNo="8003">
+            <item No="1" id="Npcborn003005" ay="0.630" amount="3" refreshtime="30000" desc="护院">
+                <position x="113.020" y="11.980" z="-121.584" ay="0.630" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="117.748" y="11.962" z="-116.880" ay="5.928" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="105.895" y="12.432" z="-122.280" ay="1.440" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="2D8D68BCC1554B7E81F39E720977CEB9" x="102.868" y="16.068" z="-128.795" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="523" TaskSubType="1" SubSceneNo="8003">
+            <item No="1" id="Npcborn003101" sx="0.750" sy="0.750" sz="0.750" ay="1.840" amount="1" refreshtime="300000" desc="燃烧的房子">
+                <position x="103.999" z="-126.524" sx="0.750" sy="0.750" sz="0.750" ay="1.840" />
+            </item>
+            <item No="2" id="museborn_ydtx_8a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;157.363,4.252,-87.647,-3.088河边&#x0A;119.733,11.963,-109.410,2.223火&#x0A;116.555,11.963,-116.905,2.649火&#x0A;103.217,12.388,-120.906,3.120火&quot;'>
+                <position x="103.211" z="-121.870" />
+            </item>
+        </creator>
+        <creator No="39F9D8118AA04697A32F25039BA15839" x="-72.059" y="29.723" z="-135.208" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" SubSceneNo="8003">
+            <item No="1" id="Npcborn003024" ay="1.840" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-72.059" z="-135.208" ay="1.840" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.059" z="-133.208" ay="0.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.059" z="-133.208" ay="1.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-76.059" z="-141.208" ay="2.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="BBAA34418BF84A2CA1E2DEC67CA9DF62" x="-73.957" y="29.723" z="-119.237" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8003">
+            <item No="1" id="Npcborn003024" ay="-2.813" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-73.957" z="-119.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.957" z="-120.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-77.957" z="-123.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.957" z="-114.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="3ADEE2EC5E394A9584013399606F8473" x="-79.593" y="29.723" z="-123.164" radius="10.0" WakeupRange="22.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8003">
+            <item No="1" id="bossborn003003" ay="1.521" amount="1" refreshtime="10000" desc="崔仁兴">
+                <position x="-79.593" z="-123.164" ay="1.521" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9E33" x="76.405" y="13.599" z="-94.348" radius="10.0" WakeupRange="20.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="520" TaskSubType="1" SubSceneNo="8003">
+            <item No="1" id="bossborn003002" ay="1.646" amount="1" refreshtime="10000" desc="韩枫">
+                <position x="76.405" z="-94.348" ay="1.646" WeaponName="s_r_npcitem411" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_9" sx="2.300" sy="2.300" sz="2.300" ay="1.875" amount="1" refreshtime="30000" NotPositive="0" desc="1343-猎杀-520">
+                <position x="105.559" z="-103.065" sx="2.300" sy="2.300" sz="2.300" ay="1.875" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="155.131" y="5.749" z="-100.876" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="518" TaskSubType="1" SubSceneNo="8003">
+            <item No="1" id="bossborn003001" ay="2.147" amount="1" refreshtime="10000" desc="迟谷">
+                <position x="155.131" z="-100.876" ay="2.147" WeaponName="dk_rl_npcitem479" WeaponMode="dknife1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_3" sx="1.910" sy="1.910" sz="1.910" ay="2.200" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-518">
+                <position x="171.578" z="-114.392" sx="1.910" sy="1.910" sz="1.910" ay="2.200" />
+            </item>
+        </creator>
+        <creator No="DBDC40355A284BA9883C3A49FC55E093" x="23.641" y="24.837" z="-113.943" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="576" TaskSubType="3" StaticY="1" SubSceneNo="8003">
+            <item No="1" id="museborn_ydtx_12a" ay="-1" amount="3" refreshtime="30000" desc="护院">
+                <position x="23.707" y="24.576" z="-114.015" ay="-1" />
+                <position x="21.894" y="27.606" z="-117.382" ay="-1" />
+                <position x="20.070" y="27.840" z="-114.327" ay="-1" />
+            </item>
+        </creator>
+        <creator No="2ABF084DA64243748294F6C849ED88FB" x="176.395" y="6.093" z="-118.681" radius="5.0" WakeupRange="50.0" ChaseRange="27.0" PatrolRange="0.0" TaskSubId="522" TaskSubType="1" StaticY="1" SubSceneNo="8003">
+            <item No="1" id="museborn_ydtx_2a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;172.270,6.234,-124.060,-2.093&quot;'>
+                <position x="172.000" y="6.200" z="-124.000" />
+            </item>
+            <item No="2" id="museborn_ydtx_2" sx="2.200" sy="2.200" sz="2.200" ay="1.075" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-522">
+                <position x="185.952" y="5.458" z="-113.892" sx="2.200" sy="2.200" sz="2.200" ay="1.075" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="534" TaskSubType="1" HateLink="1" SubSceneNo="8003">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="535" TaskSubType="1" HateLink="1" SubSceneNo="8003">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="AB32C985999C40A8AA9A0C68A9C02D79" x="110.907" y="11.966" z="-116.044" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="519" TaskSubType="1" StaticY="1" HateLink="1" SubSceneNo="8004">
+            <item No="1" id="Npcborn003005" ay="0.630" amount="3" refreshtime="30000" desc="护院">
+                <position x="113.020" y="11.980" z="-121.584" ay="0.630" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="117.748" y="11.962" z="-116.880" ay="5.928" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="105.895" y="12.432" z="-122.280" ay="1.440" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="2D8D68BCC1554B7E81F39E720977CEB9" x="102.868" y="16.068" z="-128.795" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="523" TaskSubType="1" SubSceneNo="8004">
+            <item No="1" id="Npcborn003101" sx="0.750" sy="0.750" sz="0.750" ay="1.840" amount="1" refreshtime="300000" desc="燃烧的房子">
+                <position x="103.999" z="-126.524" sx="0.750" sy="0.750" sz="0.750" ay="1.840" />
+            </item>
+            <item No="2" id="museborn_ydtx_8a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;157.363,4.252,-87.647,-3.088河边&#x0A;119.733,11.963,-109.410,2.223火&#x0A;116.555,11.963,-116.905,2.649火&#x0A;103.217,12.388,-120.906,3.120火&quot;'>
+                <position x="103.211" z="-121.870" />
+            </item>
+        </creator>
+        <creator No="39F9D8118AA04697A32F25039BA15839" x="-72.059" y="29.723" z="-135.208" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" SubSceneNo="8004">
+            <item No="1" id="Npcborn003024" ay="1.840" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-72.059" z="-135.208" ay="1.840" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.059" z="-133.208" ay="0.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.059" z="-133.208" ay="1.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-76.059" z="-141.208" ay="2.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="BBAA34418BF84A2CA1E2DEC67CA9DF62" x="-73.957" y="29.723" z="-119.237" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8004">
+            <item No="1" id="Npcborn003024" ay="-2.813" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-73.957" z="-119.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.957" z="-120.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-77.957" z="-123.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.957" z="-114.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="3ADEE2EC5E394A9584013399606F8473" x="-79.593" y="29.723" z="-123.164" radius="10.0" WakeupRange="22.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8004">
+            <item No="1" id="bossborn003003" ay="1.521" amount="1" refreshtime="10000" desc="崔仁兴">
+                <position x="-79.593" z="-123.164" ay="1.521" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9E33" x="76.405" y="13.599" z="-94.348" radius="10.0" WakeupRange="20.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="520" TaskSubType="1" SubSceneNo="8004">
+            <item No="1" id="bossborn003002" ay="1.646" amount="1" refreshtime="10000" desc="韩枫">
+                <position x="76.405" z="-94.348" ay="1.646" WeaponName="s_r_npcitem411" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_9" sx="2.300" sy="2.300" sz="2.300" ay="1.875" amount="1" refreshtime="30000" NotPositive="0" desc="1343-猎杀-520">
+                <position x="105.559" z="-103.065" sx="2.300" sy="2.300" sz="2.300" ay="1.875" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="155.131" y="5.749" z="-100.876" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="518" TaskSubType="1" SubSceneNo="8004">
+            <item No="1" id="bossborn003001" ay="2.147" amount="1" refreshtime="10000" desc="迟谷">
+                <position x="155.131" z="-100.876" ay="2.147" WeaponName="dk_rl_npcitem479" WeaponMode="dknife1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_3" sx="1.910" sy="1.910" sz="1.910" ay="2.200" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-518">
+                <position x="171.578" z="-114.392" sx="1.910" sy="1.910" sz="1.910" ay="2.200" />
+            </item>
+        </creator>
+        <creator No="DBDC40355A284BA9883C3A49FC55E093" x="23.641" y="24.837" z="-113.943" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="576" TaskSubType="3" StaticY="1" SubSceneNo="8004">
+            <item No="1" id="museborn_ydtx_12a" ay="-1" amount="3" refreshtime="30000" desc="护院">
+                <position x="23.707" y="24.576" z="-114.015" ay="-1" />
+                <position x="21.894" y="27.606" z="-117.382" ay="-1" />
+                <position x="20.070" y="27.840" z="-114.327" ay="-1" />
+            </item>
+        </creator>
+        <creator No="2ABF084DA64243748294F6C849ED88FB" x="176.395" y="6.093" z="-118.681" radius="5.0" WakeupRange="50.0" ChaseRange="27.0" PatrolRange="0.0" TaskSubId="522" TaskSubType="1" StaticY="1" SubSceneNo="8004">
+            <item No="1" id="museborn_ydtx_2a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;172.270,6.234,-124.060,-2.093&quot;'>
+                <position x="172.000" y="6.200" z="-124.000" />
+            </item>
+            <item No="2" id="museborn_ydtx_2" sx="2.200" sy="2.200" sz="2.200" ay="1.075" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-522">
+                <position x="185.952" y="5.458" z="-113.892" sx="2.200" sy="2.200" sz="2.200" ay="1.075" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="534" TaskSubType="1" HateLink="1" SubSceneNo="8004">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="535" TaskSubType="1" HateLink="1" SubSceneNo="8004">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="AB32C985999C40A8AA9A0C68A9C02D79" x="110.907" y="11.966" z="-116.044" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="519" TaskSubType="1" StaticY="1" HateLink="1" SubSceneNo="8005">
+            <item No="1" id="Npcborn003005" ay="0.630" amount="3" refreshtime="30000" desc="护院">
+                <position x="113.020" y="11.980" z="-121.584" ay="0.630" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="117.748" y="11.962" z="-116.880" ay="5.928" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="105.895" y="12.432" z="-122.280" ay="1.440" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="2D8D68BCC1554B7E81F39E720977CEB9" x="102.868" y="16.068" z="-128.795" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="523" TaskSubType="1" SubSceneNo="8005">
+            <item No="1" id="Npcborn003101" sx="0.750" sy="0.750" sz="0.750" ay="1.840" amount="1" refreshtime="300000" desc="燃烧的房子">
+                <position x="103.999" z="-126.524" sx="0.750" sy="0.750" sz="0.750" ay="1.840" />
+            </item>
+            <item No="2" id="museborn_ydtx_8a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;157.363,4.252,-87.647,-3.088河边&#x0A;119.733,11.963,-109.410,2.223火&#x0A;116.555,11.963,-116.905,2.649火&#x0A;103.217,12.388,-120.906,3.120火&quot;'>
+                <position x="103.211" z="-121.870" />
+            </item>
+        </creator>
+        <creator No="39F9D8118AA04697A32F25039BA15839" x="-72.059" y="29.723" z="-135.208" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" SubSceneNo="8005">
+            <item No="1" id="Npcborn003024" ay="1.840" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-72.059" z="-135.208" ay="1.840" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.059" z="-133.208" ay="0.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.059" z="-133.208" ay="1.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-76.059" z="-141.208" ay="2.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="BBAA34418BF84A2CA1E2DEC67CA9DF62" x="-73.957" y="29.723" z="-119.237" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8005">
+            <item No="1" id="Npcborn003024" ay="-2.813" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-73.957" z="-119.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.957" z="-120.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-77.957" z="-123.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.957" z="-114.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="3ADEE2EC5E394A9584013399606F8473" x="-79.593" y="29.723" z="-123.164" radius="10.0" WakeupRange="22.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8005">
+            <item No="1" id="bossborn003003" ay="1.521" amount="1" refreshtime="10000" desc="崔仁兴">
+                <position x="-79.593" z="-123.164" ay="1.521" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9E33" x="76.405" y="13.599" z="-94.348" radius="10.0" WakeupRange="20.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="520" TaskSubType="1" SubSceneNo="8005">
+            <item No="1" id="bossborn003002" ay="1.646" amount="1" refreshtime="10000" desc="韩枫">
+                <position x="76.405" z="-94.348" ay="1.646" WeaponName="s_r_npcitem411" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_9" sx="2.300" sy="2.300" sz="2.300" ay="1.875" amount="1" refreshtime="30000" NotPositive="0" desc="1343-猎杀-520">
+                <position x="105.559" z="-103.065" sx="2.300" sy="2.300" sz="2.300" ay="1.875" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="155.131" y="5.749" z="-100.876" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="518" TaskSubType="1" SubSceneNo="8005">
+            <item No="1" id="bossborn003001" ay="2.147" amount="1" refreshtime="10000" desc="迟谷">
+                <position x="155.131" z="-100.876" ay="2.147" WeaponName="dk_rl_npcitem479" WeaponMode="dknife1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_3" sx="1.910" sy="1.910" sz="1.910" ay="2.200" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-518">
+                <position x="171.578" z="-114.392" sx="1.910" sy="1.910" sz="1.910" ay="2.200" />
+            </item>
+        </creator>
+        <creator No="DBDC40355A284BA9883C3A49FC55E093" x="23.641" y="24.837" z="-113.943" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="576" TaskSubType="3" StaticY="1" SubSceneNo="8005">
+            <item No="1" id="museborn_ydtx_12a" ay="-1" amount="3" refreshtime="30000" desc="护院">
+                <position x="23.707" y="24.576" z="-114.015" ay="-1" />
+                <position x="21.894" y="27.606" z="-117.382" ay="-1" />
+                <position x="20.070" y="27.840" z="-114.327" ay="-1" />
+            </item>
+        </creator>
+        <creator No="2ABF084DA64243748294F6C849ED88FB" x="176.395" y="6.093" z="-118.681" radius="5.0" WakeupRange="50.0" ChaseRange="27.0" PatrolRange="0.0" TaskSubId="522" TaskSubType="1" StaticY="1" SubSceneNo="8005">
+            <item No="1" id="museborn_ydtx_2a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;172.270,6.234,-124.060,-2.093&quot;'>
+                <position x="172.000" y="6.200" z="-124.000" />
+            </item>
+            <item No="2" id="museborn_ydtx_2" sx="2.200" sy="2.200" sz="2.200" ay="1.075" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-522">
+                <position x="185.952" y="5.458" z="-113.892" sx="2.200" sy="2.200" sz="2.200" ay="1.075" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="534" TaskSubType="1" HateLink="1" SubSceneNo="8005">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="535" TaskSubType="1" HateLink="1" SubSceneNo="8005">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="AB32C985999C40A8AA9A0C68A9C02D79" x="110.907" y="11.966" z="-116.044" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="519" TaskSubType="1" StaticY="1" HateLink="1" SubSceneNo="8006">
+            <item No="1" id="Npcborn003005" ay="0.630" amount="3" refreshtime="30000" desc="护院">
+                <position x="113.020" y="11.980" z="-121.584" ay="0.630" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="117.748" y="11.962" z="-116.880" ay="5.928" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="105.895" y="12.432" z="-122.280" ay="1.440" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="2D8D68BCC1554B7E81F39E720977CEB9" x="102.868" y="16.068" z="-128.795" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="523" TaskSubType="1" SubSceneNo="8006">
+            <item No="1" id="Npcborn003101" sx="0.750" sy="0.750" sz="0.750" ay="1.840" amount="1" refreshtime="300000" desc="燃烧的房子">
+                <position x="103.999" z="-126.524" sx="0.750" sy="0.750" sz="0.750" ay="1.840" />
+            </item>
+            <item No="2" id="museborn_ydtx_8a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;157.363,4.252,-87.647,-3.088河边&#x0A;119.733,11.963,-109.410,2.223火&#x0A;116.555,11.963,-116.905,2.649火&#x0A;103.217,12.388,-120.906,3.120火&quot;'>
+                <position x="103.211" z="-121.870" />
+            </item>
+        </creator>
+        <creator No="39F9D8118AA04697A32F25039BA15839" x="-72.059" y="29.723" z="-135.208" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" SubSceneNo="8006">
+            <item No="1" id="Npcborn003024" ay="1.840" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-72.059" z="-135.208" ay="1.840" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.059" z="-133.208" ay="0.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.059" z="-133.208" ay="1.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-76.059" z="-141.208" ay="2.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="BBAA34418BF84A2CA1E2DEC67CA9DF62" x="-73.957" y="29.723" z="-119.237" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8006">
+            <item No="1" id="Npcborn003024" ay="-2.813" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-73.957" z="-119.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.957" z="-120.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-77.957" z="-123.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.957" z="-114.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="3ADEE2EC5E394A9584013399606F8473" x="-79.593" y="29.723" z="-123.164" radius="10.0" WakeupRange="22.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8006">
+            <item No="1" id="bossborn003003" ay="1.521" amount="1" refreshtime="10000" desc="崔仁兴">
+                <position x="-79.593" z="-123.164" ay="1.521" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9E33" x="76.405" y="13.599" z="-94.348" radius="10.0" WakeupRange="20.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="520" TaskSubType="1" SubSceneNo="8006">
+            <item No="1" id="bossborn003002" ay="1.646" amount="1" refreshtime="10000" desc="韩枫">
+                <position x="76.405" z="-94.348" ay="1.646" WeaponName="s_r_npcitem411" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_9" sx="2.300" sy="2.300" sz="2.300" ay="1.875" amount="1" refreshtime="30000" NotPositive="0" desc="1343-猎杀-520">
+                <position x="105.559" z="-103.065" sx="2.300" sy="2.300" sz="2.300" ay="1.875" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="155.131" y="5.749" z="-100.876" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="518" TaskSubType="1" SubSceneNo="8006">
+            <item No="1" id="bossborn003001" ay="2.147" amount="1" refreshtime="10000" desc="迟谷">
+                <position x="155.131" z="-100.876" ay="2.147" WeaponName="dk_rl_npcitem479" WeaponMode="dknife1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_3" sx="1.910" sy="1.910" sz="1.910" ay="2.200" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-518">
+                <position x="171.578" z="-114.392" sx="1.910" sy="1.910" sz="1.910" ay="2.200" />
+            </item>
+        </creator>
+        <creator No="DBDC40355A284BA9883C3A49FC55E093" x="23.641" y="24.837" z="-113.943" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="576" TaskSubType="3" StaticY="1" SubSceneNo="8006">
+            <item No="1" id="museborn_ydtx_12a" ay="-1" amount="3" refreshtime="30000" desc="护院">
+                <position x="23.707" y="24.576" z="-114.015" ay="-1" />
+                <position x="21.894" y="27.606" z="-117.382" ay="-1" />
+                <position x="20.070" y="27.840" z="-114.327" ay="-1" />
+            </item>
+        </creator>
+        <creator No="2ABF084DA64243748294F6C849ED88FB" x="176.395" y="6.093" z="-118.681" radius="5.0" WakeupRange="50.0" ChaseRange="27.0" PatrolRange="0.0" TaskSubId="522" TaskSubType="1" StaticY="1" SubSceneNo="8006">
+            <item No="1" id="museborn_ydtx_2a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;172.270,6.234,-124.060,-2.093&quot;'>
+                <position x="172.000" y="6.200" z="-124.000" />
+            </item>
+            <item No="2" id="museborn_ydtx_2" sx="2.200" sy="2.200" sz="2.200" ay="1.075" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-522">
+                <position x="185.952" y="5.458" z="-113.892" sx="2.200" sy="2.200" sz="2.200" ay="1.075" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="534" TaskSubType="1" HateLink="1" SubSceneNo="8006">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="535" TaskSubType="1" HateLink="1" SubSceneNo="8006">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="AB32C985999C40A8AA9A0C68A9C02D79" x="110.907" y="11.966" z="-116.044" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="519" TaskSubType="1" StaticY="1" HateLink="1" SubSceneNo="8007">
+            <item No="1" id="Npcborn003005" ay="0.630" amount="3" refreshtime="30000" desc="护院">
+                <position x="113.020" y="11.980" z="-121.584" ay="0.630" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="117.748" y="11.962" z="-116.880" ay="5.928" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="105.895" y="12.432" z="-122.280" ay="1.440" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="2D8D68BCC1554B7E81F39E720977CEB9" x="102.868" y="16.068" z="-128.795" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="523" TaskSubType="1" SubSceneNo="8007">
+            <item No="1" id="Npcborn003101" sx="0.750" sy="0.750" sz="0.750" ay="1.840" amount="1" refreshtime="300000" desc="燃烧的房子">
+                <position x="103.999" z="-126.524" sx="0.750" sy="0.750" sz="0.750" ay="1.840" />
+            </item>
+            <item No="2" id="museborn_ydtx_8a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;157.363,4.252,-87.647,-3.088河边&#x0A;119.733,11.963,-109.410,2.223火&#x0A;116.555,11.963,-116.905,2.649火&#x0A;103.217,12.388,-120.906,3.120火&quot;'>
+                <position x="103.211" z="-121.870" />
+            </item>
+        </creator>
+        <creator No="39F9D8118AA04697A32F25039BA15839" x="-72.059" y="29.723" z="-135.208" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" SubSceneNo="8007">
+            <item No="1" id="Npcborn003024" ay="1.840" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-72.059" z="-135.208" ay="1.840" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.059" z="-133.208" ay="0.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.059" z="-133.208" ay="1.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-76.059" z="-141.208" ay="2.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="BBAA34418BF84A2CA1E2DEC67CA9DF62" x="-73.957" y="29.723" z="-119.237" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8007">
+            <item No="1" id="Npcborn003024" ay="-2.813" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-73.957" z="-119.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.957" z="-120.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-77.957" z="-123.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.957" z="-114.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="3ADEE2EC5E394A9584013399606F8473" x="-79.593" y="29.723" z="-123.164" radius="10.0" WakeupRange="22.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8007">
+            <item No="1" id="bossborn003003" ay="1.521" amount="1" refreshtime="10000" desc="崔仁兴">
+                <position x="-79.593" z="-123.164" ay="1.521" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9E33" x="76.405" y="13.599" z="-94.348" radius="10.0" WakeupRange="20.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="520" TaskSubType="1" SubSceneNo="8007">
+            <item No="1" id="bossborn003002" ay="1.646" amount="1" refreshtime="10000" desc="韩枫">
+                <position x="76.405" z="-94.348" ay="1.646" WeaponName="s_r_npcitem411" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_9" sx="2.300" sy="2.300" sz="2.300" ay="1.875" amount="1" refreshtime="30000" NotPositive="0" desc="1343-猎杀-520">
+                <position x="105.559" z="-103.065" sx="2.300" sy="2.300" sz="2.300" ay="1.875" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="155.131" y="5.749" z="-100.876" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="518" TaskSubType="1" SubSceneNo="8007">
+            <item No="1" id="bossborn003001" ay="2.147" amount="1" refreshtime="10000" desc="迟谷">
+                <position x="155.131" z="-100.876" ay="2.147" WeaponName="dk_rl_npcitem479" WeaponMode="dknife1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_3" sx="1.910" sy="1.910" sz="1.910" ay="2.200" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-518">
+                <position x="171.578" z="-114.392" sx="1.910" sy="1.910" sz="1.910" ay="2.200" />
+            </item>
+        </creator>
+        <creator No="DBDC40355A284BA9883C3A49FC55E093" x="23.641" y="24.837" z="-113.943" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="576" TaskSubType="3" StaticY="1" SubSceneNo="8007">
+            <item No="1" id="museborn_ydtx_12a" ay="-1" amount="3" refreshtime="30000" desc="护院">
+                <position x="23.707" y="24.576" z="-114.015" ay="-1" />
+                <position x="21.894" y="27.606" z="-117.382" ay="-1" />
+                <position x="20.070" y="27.840" z="-114.327" ay="-1" />
+            </item>
+        </creator>
+        <creator No="2ABF084DA64243748294F6C849ED88FB" x="176.395" y="6.093" z="-118.681" radius="5.0" WakeupRange="50.0" ChaseRange="27.0" PatrolRange="0.0" TaskSubId="522" TaskSubType="1" StaticY="1" SubSceneNo="8007">
+            <item No="1" id="museborn_ydtx_2a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;172.270,6.234,-124.060,-2.093&quot;'>
+                <position x="172.000" y="6.200" z="-124.000" />
+            </item>
+            <item No="2" id="museborn_ydtx_2" sx="2.200" sy="2.200" sz="2.200" ay="1.075" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-522">
+                <position x="185.952" y="5.458" z="-113.892" sx="2.200" sy="2.200" sz="2.200" ay="1.075" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="534" TaskSubType="1" HateLink="1" SubSceneNo="8007">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="535" TaskSubType="1" HateLink="1" SubSceneNo="8007">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="AB32C985999C40A8AA9A0C68A9C02D79" x="110.907" y="11.966" z="-116.044" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="519" TaskSubType="1" StaticY="1" HateLink="1" SubSceneNo="8008">
+            <item No="1" id="Npcborn003005" ay="0.630" amount="3" refreshtime="30000" desc="护院">
+                <position x="113.020" y="11.980" z="-121.584" ay="0.630" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="117.748" y="11.962" z="-116.880" ay="5.928" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="105.895" y="12.432" z="-122.280" ay="1.440" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="2D8D68BCC1554B7E81F39E720977CEB9" x="102.868" y="16.068" z="-128.795" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="523" TaskSubType="1" SubSceneNo="8008">
+            <item No="1" id="Npcborn003101" sx="0.750" sy="0.750" sz="0.750" ay="1.840" amount="1" refreshtime="300000" desc="燃烧的房子">
+                <position x="103.999" z="-126.524" sx="0.750" sy="0.750" sz="0.750" ay="1.840" />
+            </item>
+            <item No="2" id="museborn_ydtx_8a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;157.363,4.252,-87.647,-3.088河边&#x0A;119.733,11.963,-109.410,2.223火&#x0A;116.555,11.963,-116.905,2.649火&#x0A;103.217,12.388,-120.906,3.120火&quot;'>
+                <position x="103.211" z="-121.870" />
+            </item>
+        </creator>
+        <creator No="39F9D8118AA04697A32F25039BA15839" x="-72.059" y="29.723" z="-135.208" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" SubSceneNo="8008">
+            <item No="1" id="Npcborn003024" ay="1.840" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-72.059" z="-135.208" ay="1.840" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.059" z="-133.208" ay="0.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.059" z="-133.208" ay="1.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-76.059" z="-141.208" ay="2.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="BBAA34418BF84A2CA1E2DEC67CA9DF62" x="-73.957" y="29.723" z="-119.237" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8008">
+            <item No="1" id="Npcborn003024" ay="-2.813" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-73.957" z="-119.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.957" z="-120.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-77.957" z="-123.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.957" z="-114.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="3ADEE2EC5E394A9584013399606F8473" x="-79.593" y="29.723" z="-123.164" radius="10.0" WakeupRange="22.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8008">
+            <item No="1" id="bossborn003003" ay="1.521" amount="1" refreshtime="10000" desc="崔仁兴">
+                <position x="-79.593" z="-123.164" ay="1.521" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9E33" x="76.405" y="13.599" z="-94.348" radius="10.0" WakeupRange="20.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="520" TaskSubType="1" SubSceneNo="8008">
+            <item No="1" id="bossborn003002" ay="1.646" amount="1" refreshtime="10000" desc="韩枫">
+                <position x="76.405" z="-94.348" ay="1.646" WeaponName="s_r_npcitem411" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_9" sx="2.300" sy="2.300" sz="2.300" ay="1.875" amount="1" refreshtime="30000" NotPositive="0" desc="1343-猎杀-520">
+                <position x="105.559" z="-103.065" sx="2.300" sy="2.300" sz="2.300" ay="1.875" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="155.131" y="5.749" z="-100.876" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="518" TaskSubType="1" SubSceneNo="8008">
+            <item No="1" id="bossborn003001" ay="2.147" amount="1" refreshtime="10000" desc="迟谷">
+                <position x="155.131" z="-100.876" ay="2.147" WeaponName="dk_rl_npcitem479" WeaponMode="dknife1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_3" sx="1.910" sy="1.910" sz="1.910" ay="2.200" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-518">
+                <position x="171.578" z="-114.392" sx="1.910" sy="1.910" sz="1.910" ay="2.200" />
+            </item>
+        </creator>
+        <creator No="DBDC40355A284BA9883C3A49FC55E093" x="23.641" y="24.837" z="-113.943" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="576" TaskSubType="3" StaticY="1" SubSceneNo="8008">
+            <item No="1" id="museborn_ydtx_12a" ay="-1" amount="3" refreshtime="30000" desc="护院">
+                <position x="23.707" y="24.576" z="-114.015" ay="-1" />
+                <position x="21.894" y="27.606" z="-117.382" ay="-1" />
+                <position x="20.070" y="27.840" z="-114.327" ay="-1" />
+            </item>
+        </creator>
+        <creator No="2ABF084DA64243748294F6C849ED88FB" x="176.395" y="6.093" z="-118.681" radius="5.0" WakeupRange="50.0" ChaseRange="27.0" PatrolRange="0.0" TaskSubId="522" TaskSubType="1" StaticY="1" SubSceneNo="8008">
+            <item No="1" id="museborn_ydtx_2a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;172.270,6.234,-124.060,-2.093&quot;'>
+                <position x="172.000" y="6.200" z="-124.000" />
+            </item>
+            <item No="2" id="museborn_ydtx_2" sx="2.200" sy="2.200" sz="2.200" ay="1.075" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-522">
+                <position x="185.952" y="5.458" z="-113.892" sx="2.200" sy="2.200" sz="2.200" ay="1.075" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="534" TaskSubType="1" HateLink="1" SubSceneNo="8008">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="535" TaskSubType="1" HateLink="1" SubSceneNo="8008">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="AB32C985999C40A8AA9A0C68A9C02D79" x="110.907" y="11.966" z="-116.044" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="519" TaskSubType="1" StaticY="1" HateLink="1" SubSceneNo="8009">
+            <item No="1" id="Npcborn003005" ay="0.630" amount="3" refreshtime="30000" desc="护院">
+                <position x="113.020" y="11.980" z="-121.584" ay="0.630" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="117.748" y="11.962" z="-116.880" ay="5.928" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="105.895" y="12.432" z="-122.280" ay="1.440" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="2D8D68BCC1554B7E81F39E720977CEB9" x="102.868" y="16.068" z="-128.795" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="523" TaskSubType="1" SubSceneNo="8009">
+            <item No="1" id="Npcborn003101" sx="0.750" sy="0.750" sz="0.750" ay="1.840" amount="1" refreshtime="300000" desc="燃烧的房子">
+                <position x="103.999" z="-126.524" sx="0.750" sy="0.750" sz="0.750" ay="1.840" />
+            </item>
+            <item No="2" id="museborn_ydtx_8a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;157.363,4.252,-87.647,-3.088河边&#x0A;119.733,11.963,-109.410,2.223火&#x0A;116.555,11.963,-116.905,2.649火&#x0A;103.217,12.388,-120.906,3.120火&quot;'>
+                <position x="103.211" z="-121.870" />
+            </item>
+        </creator>
+        <creator No="39F9D8118AA04697A32F25039BA15839" x="-72.059" y="29.723" z="-135.208" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" SubSceneNo="8009">
+            <item No="1" id="Npcborn003024" ay="1.840" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-72.059" z="-135.208" ay="1.840" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.059" z="-133.208" ay="0.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.059" z="-133.208" ay="1.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-76.059" z="-141.208" ay="2.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="BBAA34418BF84A2CA1E2DEC67CA9DF62" x="-73.957" y="29.723" z="-119.237" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8009">
+            <item No="1" id="Npcborn003024" ay="-2.813" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-73.957" z="-119.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.957" z="-120.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-77.957" z="-123.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.957" z="-114.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="3ADEE2EC5E394A9584013399606F8473" x="-79.593" y="29.723" z="-123.164" radius="10.0" WakeupRange="22.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8009">
+            <item No="1" id="bossborn003003" ay="1.521" amount="1" refreshtime="10000" desc="崔仁兴">
+                <position x="-79.593" z="-123.164" ay="1.521" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9E33" x="76.405" y="13.599" z="-94.348" radius="10.0" WakeupRange="20.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="520" TaskSubType="1" SubSceneNo="8009">
+            <item No="1" id="bossborn003002" ay="1.646" amount="1" refreshtime="10000" desc="韩枫">
+                <position x="76.405" z="-94.348" ay="1.646" WeaponName="s_r_npcitem411" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_9" sx="2.300" sy="2.300" sz="2.300" ay="1.875" amount="1" refreshtime="30000" NotPositive="0" desc="1343-猎杀-520">
+                <position x="105.559" z="-103.065" sx="2.300" sy="2.300" sz="2.300" ay="1.875" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="155.131" y="5.749" z="-100.876" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="518" TaskSubType="1" SubSceneNo="8009">
+            <item No="1" id="bossborn003001" ay="2.147" amount="1" refreshtime="10000" desc="迟谷">
+                <position x="155.131" z="-100.876" ay="2.147" WeaponName="dk_rl_npcitem479" WeaponMode="dknife1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_3" sx="1.910" sy="1.910" sz="1.910" ay="2.200" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-518">
+                <position x="171.578" z="-114.392" sx="1.910" sy="1.910" sz="1.910" ay="2.200" />
+            </item>
+        </creator>
+        <creator No="DBDC40355A284BA9883C3A49FC55E093" x="23.641" y="24.837" z="-113.943" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="576" TaskSubType="3" StaticY="1" SubSceneNo="8009">
+            <item No="1" id="museborn_ydtx_12a" ay="-1" amount="3" refreshtime="30000" desc="护院">
+                <position x="23.707" y="24.576" z="-114.015" ay="-1" />
+                <position x="21.894" y="27.606" z="-117.382" ay="-1" />
+                <position x="20.070" y="27.840" z="-114.327" ay="-1" />
+            </item>
+        </creator>
+        <creator No="2ABF084DA64243748294F6C849ED88FB" x="176.395" y="6.093" z="-118.681" radius="5.0" WakeupRange="50.0" ChaseRange="27.0" PatrolRange="0.0" TaskSubId="522" TaskSubType="1" StaticY="1" SubSceneNo="8009">
+            <item No="1" id="museborn_ydtx_2a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;172.270,6.234,-124.060,-2.093&quot;'>
+                <position x="172.000" y="6.200" z="-124.000" />
+            </item>
+            <item No="2" id="museborn_ydtx_2" sx="2.200" sy="2.200" sz="2.200" ay="1.075" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-522">
+                <position x="185.952" y="5.458" z="-113.892" sx="2.200" sy="2.200" sz="2.200" ay="1.075" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="534" TaskSubType="1" HateLink="1" SubSceneNo="8009">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="535" TaskSubType="1" HateLink="1" SubSceneNo="8009">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="AB32C985999C40A8AA9A0C68A9C02D79" x="110.907" y="11.966" z="-116.044" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="519" TaskSubType="1" StaticY="1" HateLink="1" SubSceneNo="8010">
+            <item No="1" id="Npcborn003005" ay="0.630" amount="3" refreshtime="30000" desc="护院">
+                <position x="113.020" y="11.980" z="-121.584" ay="0.630" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="117.748" y="11.962" z="-116.880" ay="5.928" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="105.895" y="12.432" z="-122.280" ay="1.440" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="2D8D68BCC1554B7E81F39E720977CEB9" x="102.868" y="16.068" z="-128.795" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="523" TaskSubType="1" SubSceneNo="8010">
+            <item No="1" id="Npcborn003101" sx="0.750" sy="0.750" sz="0.750" ay="1.840" amount="1" refreshtime="300000" desc="燃烧的房子">
+                <position x="103.999" z="-126.524" sx="0.750" sy="0.750" sz="0.750" ay="1.840" />
+            </item>
+            <item No="2" id="museborn_ydtx_8a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;157.363,4.252,-87.647,-3.088河边&#x0A;119.733,11.963,-109.410,2.223火&#x0A;116.555,11.963,-116.905,2.649火&#x0A;103.217,12.388,-120.906,3.120火&quot;'>
+                <position x="103.211" z="-121.870" />
+            </item>
+        </creator>
+        <creator No="39F9D8118AA04697A32F25039BA15839" x="-72.059" y="29.723" z="-135.208" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" SubSceneNo="8010">
+            <item No="1" id="Npcborn003024" ay="1.840" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-72.059" z="-135.208" ay="1.840" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.059" z="-133.208" ay="0.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.059" z="-133.208" ay="1.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-76.059" z="-141.208" ay="2.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="BBAA34418BF84A2CA1E2DEC67CA9DF62" x="-73.957" y="29.723" z="-119.237" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8010">
+            <item No="1" id="Npcborn003024" ay="-2.813" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-73.957" z="-119.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.957" z="-120.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-77.957" z="-123.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.957" z="-114.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="3ADEE2EC5E394A9584013399606F8473" x="-79.593" y="29.723" z="-123.164" radius="10.0" WakeupRange="22.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8010">
+            <item No="1" id="bossborn003003" ay="1.521" amount="1" refreshtime="10000" desc="崔仁兴">
+                <position x="-79.593" z="-123.164" ay="1.521" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9E33" x="76.405" y="13.599" z="-94.348" radius="10.0" WakeupRange="20.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="520" TaskSubType="1" SubSceneNo="8010">
+            <item No="1" id="bossborn003002" ay="1.646" amount="1" refreshtime="10000" desc="韩枫">
+                <position x="76.405" z="-94.348" ay="1.646" WeaponName="s_r_npcitem411" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_9" sx="2.300" sy="2.300" sz="2.300" ay="1.875" amount="1" refreshtime="30000" NotPositive="0" desc="1343-猎杀-520">
+                <position x="105.559" z="-103.065" sx="2.300" sy="2.300" sz="2.300" ay="1.875" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="155.131" y="5.749" z="-100.876" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="518" TaskSubType="1" SubSceneNo="8010">
+            <item No="1" id="bossborn003001" ay="2.147" amount="1" refreshtime="10000" desc="迟谷">
+                <position x="155.131" z="-100.876" ay="2.147" WeaponName="dk_rl_npcitem479" WeaponMode="dknife1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_3" sx="1.910" sy="1.910" sz="1.910" ay="2.200" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-518">
+                <position x="171.578" z="-114.392" sx="1.910" sy="1.910" sz="1.910" ay="2.200" />
+            </item>
+        </creator>
+        <creator No="DBDC40355A284BA9883C3A49FC55E093" x="23.641" y="24.837" z="-113.943" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="576" TaskSubType="3" StaticY="1" SubSceneNo="8010">
+            <item No="1" id="museborn_ydtx_12a" ay="-1" amount="3" refreshtime="30000" desc="护院">
+                <position x="23.707" y="24.576" z="-114.015" ay="-1" />
+                <position x="21.894" y="27.606" z="-117.382" ay="-1" />
+                <position x="20.070" y="27.840" z="-114.327" ay="-1" />
+            </item>
+        </creator>
+        <creator No="2ABF084DA64243748294F6C849ED88FB" x="176.395" y="6.093" z="-118.681" radius="5.0" WakeupRange="50.0" ChaseRange="27.0" PatrolRange="0.0" TaskSubId="522" TaskSubType="1" StaticY="1" SubSceneNo="8010">
+            <item No="1" id="museborn_ydtx_2a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;172.270,6.234,-124.060,-2.093&quot;'>
+                <position x="172.000" y="6.200" z="-124.000" />
+            </item>
+            <item No="2" id="museborn_ydtx_2" sx="2.200" sy="2.200" sz="2.200" ay="1.075" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-522">
+                <position x="185.952" y="5.458" z="-113.892" sx="2.200" sy="2.200" sz="2.200" ay="1.075" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="534" TaskSubType="1" HateLink="1" SubSceneNo="8010">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="535" TaskSubType="1" HateLink="1" SubSceneNo="8010">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="AB32C985999C40A8AA9A0C68A9C02D79" x="110.907" y="11.966" z="-116.044" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="519" TaskSubType="1" StaticY="1" HateLink="1" SubSceneNo="8011">
+            <item No="1" id="Npcborn003005" ay="0.630" amount="3" refreshtime="30000" desc="护院">
+                <position x="113.020" y="11.980" z="-121.584" ay="0.630" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="117.748" y="11.962" z="-116.880" ay="5.928" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="105.895" y="12.432" z="-122.280" ay="1.440" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="2D8D68BCC1554B7E81F39E720977CEB9" x="102.868" y="16.068" z="-128.795" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="523" TaskSubType="1" SubSceneNo="8011">
+            <item No="1" id="Npcborn003101" sx="0.750" sy="0.750" sz="0.750" ay="1.840" amount="1" refreshtime="300000" desc="燃烧的房子">
+                <position x="103.999" z="-126.524" sx="0.750" sy="0.750" sz="0.750" ay="1.840" />
+            </item>
+            <item No="2" id="museborn_ydtx_8a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;157.363,4.252,-87.647,-3.088河边&#x0A;119.733,11.963,-109.410,2.223火&#x0A;116.555,11.963,-116.905,2.649火&#x0A;103.217,12.388,-120.906,3.120火&quot;'>
+                <position x="103.211" z="-121.870" />
+            </item>
+        </creator>
+        <creator No="39F9D8118AA04697A32F25039BA15839" x="-72.059" y="29.723" z="-135.208" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" SubSceneNo="8011">
+            <item No="1" id="Npcborn003024" ay="1.840" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-72.059" z="-135.208" ay="1.840" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.059" z="-133.208" ay="0.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.059" z="-133.208" ay="1.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-76.059" z="-141.208" ay="2.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="BBAA34418BF84A2CA1E2DEC67CA9DF62" x="-73.957" y="29.723" z="-119.237" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8011">
+            <item No="1" id="Npcborn003024" ay="-2.813" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-73.957" z="-119.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.957" z="-120.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-77.957" z="-123.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.957" z="-114.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="3ADEE2EC5E394A9584013399606F8473" x="-79.593" y="29.723" z="-123.164" radius="10.0" WakeupRange="22.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8011">
+            <item No="1" id="bossborn003003" ay="1.521" amount="1" refreshtime="10000" desc="崔仁兴">
+                <position x="-79.593" z="-123.164" ay="1.521" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9E33" x="76.405" y="13.599" z="-94.348" radius="10.0" WakeupRange="20.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="520" TaskSubType="1" SubSceneNo="8011">
+            <item No="1" id="bossborn003002" ay="1.646" amount="1" refreshtime="10000" desc="韩枫">
+                <position x="76.405" z="-94.348" ay="1.646" WeaponName="s_r_npcitem411" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_9" sx="2.300" sy="2.300" sz="2.300" ay="1.875" amount="1" refreshtime="30000" NotPositive="0" desc="1343-猎杀-520">
+                <position x="105.559" z="-103.065" sx="2.300" sy="2.300" sz="2.300" ay="1.875" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="155.131" y="5.749" z="-100.876" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="518" TaskSubType="1" SubSceneNo="8011">
+            <item No="1" id="bossborn003001" ay="2.147" amount="1" refreshtime="10000" desc="迟谷">
+                <position x="155.131" z="-100.876" ay="2.147" WeaponName="dk_rl_npcitem479" WeaponMode="dknife1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_3" sx="1.910" sy="1.910" sz="1.910" ay="2.200" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-518">
+                <position x="171.578" z="-114.392" sx="1.910" sy="1.910" sz="1.910" ay="2.200" />
+            </item>
+        </creator>
+        <creator No="DBDC40355A284BA9883C3A49FC55E093" x="23.641" y="24.837" z="-113.943" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="576" TaskSubType="3" StaticY="1" SubSceneNo="8011">
+            <item No="1" id="museborn_ydtx_12a" ay="-1" amount="3" refreshtime="30000" desc="护院">
+                <position x="23.707" y="24.576" z="-114.015" ay="-1" />
+                <position x="21.894" y="27.606" z="-117.382" ay="-1" />
+                <position x="20.070" y="27.840" z="-114.327" ay="-1" />
+            </item>
+        </creator>
+        <creator No="2ABF084DA64243748294F6C849ED88FB" x="176.395" y="6.093" z="-118.681" radius="5.0" WakeupRange="50.0" ChaseRange="27.0" PatrolRange="0.0" TaskSubId="522" TaskSubType="1" StaticY="1" SubSceneNo="8011">
+            <item No="1" id="museborn_ydtx_2a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;172.270,6.234,-124.060,-2.093&quot;'>
+                <position x="172.000" y="6.200" z="-124.000" />
+            </item>
+            <item No="2" id="museborn_ydtx_2" sx="2.200" sy="2.200" sz="2.200" ay="1.075" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-522">
+                <position x="185.952" y="5.458" z="-113.892" sx="2.200" sy="2.200" sz="2.200" ay="1.075" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="534" TaskSubType="1" HateLink="1" SubSceneNo="8011">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="535" TaskSubType="1" HateLink="1" SubSceneNo="8011">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="AB32C985999C40A8AA9A0C68A9C02D79" x="110.907" y="11.966" z="-116.044" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="519" TaskSubType="1" StaticY="1" HateLink="1" SubSceneNo="8012">
+            <item No="1" id="Npcborn003005" ay="0.630" amount="3" refreshtime="30000" desc="护院">
+                <position x="113.020" y="11.980" z="-121.584" ay="0.630" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="117.748" y="11.962" z="-116.880" ay="5.928" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="105.895" y="12.432" z="-122.280" ay="1.440" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="2D8D68BCC1554B7E81F39E720977CEB9" x="102.868" y="16.068" z="-128.795" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="523" TaskSubType="1" SubSceneNo="8012">
+            <item No="1" id="Npcborn003101" sx="0.750" sy="0.750" sz="0.750" ay="1.840" amount="1" refreshtime="300000" desc="燃烧的房子">
+                <position x="103.999" z="-126.524" sx="0.750" sy="0.750" sz="0.750" ay="1.840" />
+            </item>
+            <item No="2" id="museborn_ydtx_8a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;157.363,4.252,-87.647,-3.088河边&#x0A;119.733,11.963,-109.410,2.223火&#x0A;116.555,11.963,-116.905,2.649火&#x0A;103.217,12.388,-120.906,3.120火&quot;'>
+                <position x="103.211" z="-121.870" />
+            </item>
+        </creator>
+        <creator No="39F9D8118AA04697A32F25039BA15839" x="-72.059" y="29.723" z="-135.208" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" SubSceneNo="8012">
+            <item No="1" id="Npcborn003024" ay="1.840" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-72.059" z="-135.208" ay="1.840" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.059" z="-133.208" ay="0.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.059" z="-133.208" ay="1.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-76.059" z="-141.208" ay="2.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="BBAA34418BF84A2CA1E2DEC67CA9DF62" x="-73.957" y="29.723" z="-119.237" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8012">
+            <item No="1" id="Npcborn003024" ay="-2.813" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-73.957" z="-119.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.957" z="-120.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-77.957" z="-123.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.957" z="-114.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="3ADEE2EC5E394A9584013399606F8473" x="-79.593" y="29.723" z="-123.164" radius="10.0" WakeupRange="22.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8012">
+            <item No="1" id="bossborn003003" ay="1.521" amount="1" refreshtime="10000" desc="崔仁兴">
+                <position x="-79.593" z="-123.164" ay="1.521" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9E33" x="76.405" y="13.599" z="-94.348" radius="10.0" WakeupRange="20.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="520" TaskSubType="1" SubSceneNo="8012">
+            <item No="1" id="bossborn003002" ay="1.646" amount="1" refreshtime="10000" desc="韩枫">
+                <position x="76.405" z="-94.348" ay="1.646" WeaponName="s_r_npcitem411" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_9" sx="2.300" sy="2.300" sz="2.300" ay="1.875" amount="1" refreshtime="30000" NotPositive="0" desc="1343-猎杀-520">
+                <position x="105.559" z="-103.065" sx="2.300" sy="2.300" sz="2.300" ay="1.875" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="155.131" y="5.749" z="-100.876" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="518" TaskSubType="1" SubSceneNo="8012">
+            <item No="1" id="bossborn003001" ay="2.147" amount="1" refreshtime="10000" desc="迟谷">
+                <position x="155.131" z="-100.876" ay="2.147" WeaponName="dk_rl_npcitem479" WeaponMode="dknife1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_3" sx="1.910" sy="1.910" sz="1.910" ay="2.200" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-518">
+                <position x="171.578" z="-114.392" sx="1.910" sy="1.910" sz="1.910" ay="2.200" />
+            </item>
+        </creator>
+        <creator No="DBDC40355A284BA9883C3A49FC55E093" x="23.641" y="24.837" z="-113.943" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="576" TaskSubType="3" StaticY="1" SubSceneNo="8012">
+            <item No="1" id="museborn_ydtx_12a" ay="-1" amount="3" refreshtime="30000" desc="护院">
+                <position x="23.707" y="24.576" z="-114.015" ay="-1" />
+                <position x="21.894" y="27.606" z="-117.382" ay="-1" />
+                <position x="20.070" y="27.840" z="-114.327" ay="-1" />
+            </item>
+        </creator>
+        <creator No="2ABF084DA64243748294F6C849ED88FB" x="176.395" y="6.093" z="-118.681" radius="5.0" WakeupRange="50.0" ChaseRange="27.0" PatrolRange="0.0" TaskSubId="522" TaskSubType="1" StaticY="1" SubSceneNo="8012">
+            <item No="1" id="museborn_ydtx_2a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;172.270,6.234,-124.060,-2.093&quot;'>
+                <position x="172.000" y="6.200" z="-124.000" />
+            </item>
+            <item No="2" id="museborn_ydtx_2" sx="2.200" sy="2.200" sz="2.200" ay="1.075" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-522">
+                <position x="185.952" y="5.458" z="-113.892" sx="2.200" sy="2.200" sz="2.200" ay="1.075" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="534" TaskSubType="1" HateLink="1" SubSceneNo="8012">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="535" TaskSubType="1" HateLink="1" SubSceneNo="8012">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="AB32C985999C40A8AA9A0C68A9C02D79" x="110.907" y="11.966" z="-116.044" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="519" TaskSubType="1" StaticY="1" HateLink="1" SubSceneNo="8013">
+            <item No="1" id="Npcborn003005" ay="0.630" amount="3" refreshtime="30000" desc="护院">
+                <position x="113.020" y="11.980" z="-121.584" ay="0.630" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="117.748" y="11.962" z="-116.880" ay="5.928" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="105.895" y="12.432" z="-122.280" ay="1.440" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="2D8D68BCC1554B7E81F39E720977CEB9" x="102.868" y="16.068" z="-128.795" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="523" TaskSubType="1" SubSceneNo="8013">
+            <item No="1" id="Npcborn003101" sx="0.750" sy="0.750" sz="0.750" ay="1.840" amount="1" refreshtime="300000" desc="燃烧的房子">
+                <position x="103.999" z="-126.524" sx="0.750" sy="0.750" sz="0.750" ay="1.840" />
+            </item>
+            <item No="2" id="museborn_ydtx_8a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;157.363,4.252,-87.647,-3.088河边&#x0A;119.733,11.963,-109.410,2.223火&#x0A;116.555,11.963,-116.905,2.649火&#x0A;103.217,12.388,-120.906,3.120火&quot;'>
+                <position x="103.211" z="-121.870" />
+            </item>
+        </creator>
+        <creator No="39F9D8118AA04697A32F25039BA15839" x="-72.059" y="29.723" z="-135.208" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" SubSceneNo="8013">
+            <item No="1" id="Npcborn003024" ay="1.840" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-72.059" z="-135.208" ay="1.840" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.059" z="-133.208" ay="0.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.059" z="-133.208" ay="1.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-76.059" z="-141.208" ay="2.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="BBAA34418BF84A2CA1E2DEC67CA9DF62" x="-73.957" y="29.723" z="-119.237" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8013">
+            <item No="1" id="Npcborn003024" ay="-2.813" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-73.957" z="-119.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.957" z="-120.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-77.957" z="-123.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.957" z="-114.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="3ADEE2EC5E394A9584013399606F8473" x="-79.593" y="29.723" z="-123.164" radius="10.0" WakeupRange="22.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8013">
+            <item No="1" id="bossborn003003" ay="1.521" amount="1" refreshtime="10000" desc="崔仁兴">
+                <position x="-79.593" z="-123.164" ay="1.521" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9E33" x="76.405" y="13.599" z="-94.348" radius="10.0" WakeupRange="20.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="520" TaskSubType="1" SubSceneNo="8013">
+            <item No="1" id="bossborn003002" ay="1.646" amount="1" refreshtime="10000" desc="韩枫">
+                <position x="76.405" z="-94.348" ay="1.646" WeaponName="s_r_npcitem411" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_9" sx="2.300" sy="2.300" sz="2.300" ay="1.875" amount="1" refreshtime="30000" NotPositive="0" desc="1343-猎杀-520">
+                <position x="105.559" z="-103.065" sx="2.300" sy="2.300" sz="2.300" ay="1.875" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="155.131" y="5.749" z="-100.876" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="518" TaskSubType="1" SubSceneNo="8013">
+            <item No="1" id="bossborn003001" ay="2.147" amount="1" refreshtime="10000" desc="迟谷">
+                <position x="155.131" z="-100.876" ay="2.147" WeaponName="dk_rl_npcitem479" WeaponMode="dknife1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_3" sx="1.910" sy="1.910" sz="1.910" ay="2.200" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-518">
+                <position x="171.578" z="-114.392" sx="1.910" sy="1.910" sz="1.910" ay="2.200" />
+            </item>
+        </creator>
+        <creator No="DBDC40355A284BA9883C3A49FC55E093" x="23.641" y="24.837" z="-113.943" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="576" TaskSubType="3" StaticY="1" SubSceneNo="8013">
+            <item No="1" id="museborn_ydtx_12a" ay="-1" amount="3" refreshtime="30000" desc="护院">
+                <position x="23.707" y="24.576" z="-114.015" ay="-1" />
+                <position x="21.894" y="27.606" z="-117.382" ay="-1" />
+                <position x="20.070" y="27.840" z="-114.327" ay="-1" />
+            </item>
+        </creator>
+        <creator No="2ABF084DA64243748294F6C849ED88FB" x="176.395" y="6.093" z="-118.681" radius="5.0" WakeupRange="50.0" ChaseRange="27.0" PatrolRange="0.0" TaskSubId="522" TaskSubType="1" StaticY="1" SubSceneNo="8013">
+            <item No="1" id="museborn_ydtx_2a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;172.270,6.234,-124.060,-2.093&quot;'>
+                <position x="172.000" y="6.200" z="-124.000" />
+            </item>
+            <item No="2" id="museborn_ydtx_2" sx="2.200" sy="2.200" sz="2.200" ay="1.075" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-522">
+                <position x="185.952" y="5.458" z="-113.892" sx="2.200" sy="2.200" sz="2.200" ay="1.075" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="534" TaskSubType="1" HateLink="1" SubSceneNo="8013">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="535" TaskSubType="1" HateLink="1" SubSceneNo="8013">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="AB32C985999C40A8AA9A0C68A9C02D79" x="110.907" y="11.966" z="-116.044" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="519" TaskSubType="1" StaticY="1" HateLink="1" SubSceneNo="8014">
+            <item No="1" id="Npcborn003005" ay="0.630" amount="3" refreshtime="30000" desc="护院">
+                <position x="113.020" y="11.980" z="-121.584" ay="0.630" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="117.748" y="11.962" z="-116.880" ay="5.928" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="105.895" y="12.432" z="-122.280" ay="1.440" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="2D8D68BCC1554B7E81F39E720977CEB9" x="102.868" y="16.068" z="-128.795" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="523" TaskSubType="1" SubSceneNo="8014">
+            <item No="1" id="Npcborn003101" sx="0.750" sy="0.750" sz="0.750" ay="1.840" amount="1" refreshtime="300000" desc="燃烧的房子">
+                <position x="103.999" z="-126.524" sx="0.750" sy="0.750" sz="0.750" ay="1.840" />
+            </item>
+            <item No="2" id="museborn_ydtx_8a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;157.363,4.252,-87.647,-3.088河边&#x0A;119.733,11.963,-109.410,2.223火&#x0A;116.555,11.963,-116.905,2.649火&#x0A;103.217,12.388,-120.906,3.120火&quot;'>
+                <position x="103.211" z="-121.870" />
+            </item>
+        </creator>
+        <creator No="39F9D8118AA04697A32F25039BA15839" x="-72.059" y="29.723" z="-135.208" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" SubSceneNo="8014">
+            <item No="1" id="Npcborn003024" ay="1.840" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-72.059" z="-135.208" ay="1.840" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.059" z="-133.208" ay="0.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.059" z="-133.208" ay="1.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-76.059" z="-141.208" ay="2.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="BBAA34418BF84A2CA1E2DEC67CA9DF62" x="-73.957" y="29.723" z="-119.237" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8014">
+            <item No="1" id="Npcborn003024" ay="-2.813" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-73.957" z="-119.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.957" z="-120.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-77.957" z="-123.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.957" z="-114.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="3ADEE2EC5E394A9584013399606F8473" x="-79.593" y="29.723" z="-123.164" radius="10.0" WakeupRange="22.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8014">
+            <item No="1" id="bossborn003003" ay="1.521" amount="1" refreshtime="10000" desc="崔仁兴">
+                <position x="-79.593" z="-123.164" ay="1.521" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9E33" x="76.405" y="13.599" z="-94.348" radius="10.0" WakeupRange="20.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="520" TaskSubType="1" SubSceneNo="8014">
+            <item No="1" id="bossborn003002" ay="1.646" amount="1" refreshtime="10000" desc="韩枫">
+                <position x="76.405" z="-94.348" ay="1.646" WeaponName="s_r_npcitem411" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_9" sx="2.300" sy="2.300" sz="2.300" ay="1.875" amount="1" refreshtime="30000" NotPositive="0" desc="1343-猎杀-520">
+                <position x="105.559" z="-103.065" sx="2.300" sy="2.300" sz="2.300" ay="1.875" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="155.131" y="5.749" z="-100.876" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="518" TaskSubType="1" SubSceneNo="8014">
+            <item No="1" id="bossborn003001" ay="2.147" amount="1" refreshtime="10000" desc="迟谷">
+                <position x="155.131" z="-100.876" ay="2.147" WeaponName="dk_rl_npcitem479" WeaponMode="dknife1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_3" sx="1.910" sy="1.910" sz="1.910" ay="2.200" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-518">
+                <position x="171.578" z="-114.392" sx="1.910" sy="1.910" sz="1.910" ay="2.200" />
+            </item>
+        </creator>
+        <creator No="DBDC40355A284BA9883C3A49FC55E093" x="23.641" y="24.837" z="-113.943" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="576" TaskSubType="3" StaticY="1" SubSceneNo="8014">
+            <item No="1" id="museborn_ydtx_12a" ay="-1" amount="3" refreshtime="30000" desc="护院">
+                <position x="23.707" y="24.576" z="-114.015" ay="-1" />
+                <position x="21.894" y="27.606" z="-117.382" ay="-1" />
+                <position x="20.070" y="27.840" z="-114.327" ay="-1" />
+            </item>
+        </creator>
+        <creator No="2ABF084DA64243748294F6C849ED88FB" x="176.395" y="6.093" z="-118.681" radius="5.0" WakeupRange="50.0" ChaseRange="27.0" PatrolRange="0.0" TaskSubId="522" TaskSubType="1" StaticY="1" SubSceneNo="8014">
+            <item No="1" id="museborn_ydtx_2a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;172.270,6.234,-124.060,-2.093&quot;'>
+                <position x="172.000" y="6.200" z="-124.000" />
+            </item>
+            <item No="2" id="museborn_ydtx_2" sx="2.200" sy="2.200" sz="2.200" ay="1.075" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-522">
+                <position x="185.952" y="5.458" z="-113.892" sx="2.200" sy="2.200" sz="2.200" ay="1.075" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="534" TaskSubType="1" HateLink="1" SubSceneNo="8014">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="535" TaskSubType="1" HateLink="1" SubSceneNo="8014">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="AB32C985999C40A8AA9A0C68A9C02D79" x="110.907" y="11.966" z="-116.044" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="519" TaskSubType="1" StaticY="1" HateLink="1" SubSceneNo="8015">
+            <item No="1" id="Npcborn003005" ay="0.630" amount="3" refreshtime="30000" desc="护院">
+                <position x="113.020" y="11.980" z="-121.584" ay="0.630" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="117.748" y="11.962" z="-116.880" ay="5.928" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="105.895" y="12.432" z="-122.280" ay="1.440" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="2D8D68BCC1554B7E81F39E720977CEB9" x="102.868" y="16.068" z="-128.795" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="523" TaskSubType="1" SubSceneNo="8015">
+            <item No="1" id="Npcborn003101" sx="0.750" sy="0.750" sz="0.750" ay="1.840" amount="1" refreshtime="300000" desc="燃烧的房子">
+                <position x="103.999" z="-126.524" sx="0.750" sy="0.750" sz="0.750" ay="1.840" />
+            </item>
+            <item No="2" id="museborn_ydtx_8a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;157.363,4.252,-87.647,-3.088河边&#x0A;119.733,11.963,-109.410,2.223火&#x0A;116.555,11.963,-116.905,2.649火&#x0A;103.217,12.388,-120.906,3.120火&quot;'>
+                <position x="103.211" z="-121.870" />
+            </item>
+        </creator>
+        <creator No="39F9D8118AA04697A32F25039BA15839" x="-72.059" y="29.723" z="-135.208" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" SubSceneNo="8015">
+            <item No="1" id="Npcborn003024" ay="1.840" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-72.059" z="-135.208" ay="1.840" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.059" z="-133.208" ay="0.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.059" z="-133.208" ay="1.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-76.059" z="-141.208" ay="2.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="BBAA34418BF84A2CA1E2DEC67CA9DF62" x="-73.957" y="29.723" z="-119.237" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8015">
+            <item No="1" id="Npcborn003024" ay="-2.813" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-73.957" z="-119.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.957" z="-120.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-77.957" z="-123.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.957" z="-114.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="3ADEE2EC5E394A9584013399606F8473" x="-79.593" y="29.723" z="-123.164" radius="10.0" WakeupRange="22.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8015">
+            <item No="1" id="bossborn003003" ay="1.521" amount="1" refreshtime="10000" desc="崔仁兴">
+                <position x="-79.593" z="-123.164" ay="1.521" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9E33" x="76.405" y="13.599" z="-94.348" radius="10.0" WakeupRange="20.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="520" TaskSubType="1" SubSceneNo="8015">
+            <item No="1" id="bossborn003002" ay="1.646" amount="1" refreshtime="10000" desc="韩枫">
+                <position x="76.405" z="-94.348" ay="1.646" WeaponName="s_r_npcitem411" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_9" sx="2.300" sy="2.300" sz="2.300" ay="1.875" amount="1" refreshtime="30000" NotPositive="0" desc="1343-猎杀-520">
+                <position x="105.559" z="-103.065" sx="2.300" sy="2.300" sz="2.300" ay="1.875" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="155.131" y="5.749" z="-100.876" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="518" TaskSubType="1" SubSceneNo="8015">
+            <item No="1" id="bossborn003001" ay="2.147" amount="1" refreshtime="10000" desc="迟谷">
+                <position x="155.131" z="-100.876" ay="2.147" WeaponName="dk_rl_npcitem479" WeaponMode="dknife1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_3" sx="1.910" sy="1.910" sz="1.910" ay="2.200" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-518">
+                <position x="171.578" z="-114.392" sx="1.910" sy="1.910" sz="1.910" ay="2.200" />
+            </item>
+        </creator>
+        <creator No="DBDC40355A284BA9883C3A49FC55E093" x="23.641" y="24.837" z="-113.943" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="576" TaskSubType="3" StaticY="1" SubSceneNo="8015">
+            <item No="1" id="museborn_ydtx_12a" ay="-1" amount="3" refreshtime="30000" desc="护院">
+                <position x="23.707" y="24.576" z="-114.015" ay="-1" />
+                <position x="21.894" y="27.606" z="-117.382" ay="-1" />
+                <position x="20.070" y="27.840" z="-114.327" ay="-1" />
+            </item>
+        </creator>
+        <creator No="2ABF084DA64243748294F6C849ED88FB" x="176.395" y="6.093" z="-118.681" radius="5.0" WakeupRange="50.0" ChaseRange="27.0" PatrolRange="0.0" TaskSubId="522" TaskSubType="1" StaticY="1" SubSceneNo="8015">
+            <item No="1" id="museborn_ydtx_2a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;172.270,6.234,-124.060,-2.093&quot;'>
+                <position x="172.000" y="6.200" z="-124.000" />
+            </item>
+            <item No="2" id="museborn_ydtx_2" sx="2.200" sy="2.200" sz="2.200" ay="1.075" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-522">
+                <position x="185.952" y="5.458" z="-113.892" sx="2.200" sy="2.200" sz="2.200" ay="1.075" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="534" TaskSubType="1" HateLink="1" SubSceneNo="8015">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="535" TaskSubType="1" HateLink="1" SubSceneNo="8015">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="AB32C985999C40A8AA9A0C68A9C02D79" x="110.907" y="11.966" z="-116.044" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="519" TaskSubType="1" StaticY="1" HateLink="1" SubSceneNo="8016">
+            <item No="1" id="Npcborn003005" ay="0.630" amount="3" refreshtime="30000" desc="护院">
+                <position x="113.020" y="11.980" z="-121.584" ay="0.630" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="117.748" y="11.962" z="-116.880" ay="5.928" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="105.895" y="12.432" z="-122.280" ay="1.440" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="2D8D68BCC1554B7E81F39E720977CEB9" x="102.868" y="16.068" z="-128.795" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="523" TaskSubType="1" SubSceneNo="8016">
+            <item No="1" id="Npcborn003101" sx="0.750" sy="0.750" sz="0.750" ay="1.840" amount="1" refreshtime="300000" desc="燃烧的房子">
+                <position x="103.999" z="-126.524" sx="0.750" sy="0.750" sz="0.750" ay="1.840" />
+            </item>
+            <item No="2" id="museborn_ydtx_8a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;157.363,4.252,-87.647,-3.088河边&#x0A;119.733,11.963,-109.410,2.223火&#x0A;116.555,11.963,-116.905,2.649火&#x0A;103.217,12.388,-120.906,3.120火&quot;'>
+                <position x="103.211" z="-121.870" />
+            </item>
+        </creator>
+        <creator No="39F9D8118AA04697A32F25039BA15839" x="-72.059" y="29.723" z="-135.208" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" SubSceneNo="8016">
+            <item No="1" id="Npcborn003024" ay="1.840" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-72.059" z="-135.208" ay="1.840" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.059" z="-133.208" ay="0.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.059" z="-133.208" ay="1.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-76.059" z="-141.208" ay="2.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="BBAA34418BF84A2CA1E2DEC67CA9DF62" x="-73.957" y="29.723" z="-119.237" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8016">
+            <item No="1" id="Npcborn003024" ay="-2.813" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-73.957" z="-119.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.957" z="-120.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-77.957" z="-123.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.957" z="-114.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="3ADEE2EC5E394A9584013399606F8473" x="-79.593" y="29.723" z="-123.164" radius="10.0" WakeupRange="22.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8016">
+            <item No="1" id="bossborn003003" ay="1.521" amount="1" refreshtime="10000" desc="崔仁兴">
+                <position x="-79.593" z="-123.164" ay="1.521" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9E33" x="76.405" y="13.599" z="-94.348" radius="10.0" WakeupRange="20.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="520" TaskSubType="1" SubSceneNo="8016">
+            <item No="1" id="bossborn003002" ay="1.646" amount="1" refreshtime="10000" desc="韩枫">
+                <position x="76.405" z="-94.348" ay="1.646" WeaponName="s_r_npcitem411" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_9" sx="2.300" sy="2.300" sz="2.300" ay="1.875" amount="1" refreshtime="30000" NotPositive="0" desc="1343-猎杀-520">
+                <position x="105.559" z="-103.065" sx="2.300" sy="2.300" sz="2.300" ay="1.875" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="155.131" y="5.749" z="-100.876" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="518" TaskSubType="1" SubSceneNo="8016">
+            <item No="1" id="bossborn003001" ay="2.147" amount="1" refreshtime="10000" desc="迟谷">
+                <position x="155.131" z="-100.876" ay="2.147" WeaponName="dk_rl_npcitem479" WeaponMode="dknife1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_3" sx="1.910" sy="1.910" sz="1.910" ay="2.200" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-518">
+                <position x="171.578" z="-114.392" sx="1.910" sy="1.910" sz="1.910" ay="2.200" />
+            </item>
+        </creator>
+        <creator No="DBDC40355A284BA9883C3A49FC55E093" x="23.641" y="24.837" z="-113.943" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="576" TaskSubType="3" StaticY="1" SubSceneNo="8016">
+            <item No="1" id="museborn_ydtx_12a" ay="-1" amount="3" refreshtime="30000" desc="护院">
+                <position x="23.707" y="24.576" z="-114.015" ay="-1" />
+                <position x="21.894" y="27.606" z="-117.382" ay="-1" />
+                <position x="20.070" y="27.840" z="-114.327" ay="-1" />
+            </item>
+        </creator>
+        <creator No="2ABF084DA64243748294F6C849ED88FB" x="176.395" y="6.093" z="-118.681" radius="5.0" WakeupRange="50.0" ChaseRange="27.0" PatrolRange="0.0" TaskSubId="522" TaskSubType="1" StaticY="1" SubSceneNo="8016">
+            <item No="1" id="museborn_ydtx_2a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;172.270,6.234,-124.060,-2.093&quot;'>
+                <position x="172.000" y="6.200" z="-124.000" />
+            </item>
+            <item No="2" id="museborn_ydtx_2" sx="2.200" sy="2.200" sz="2.200" ay="1.075" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-522">
+                <position x="185.952" y="5.458" z="-113.892" sx="2.200" sy="2.200" sz="2.200" ay="1.075" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="534" TaskSubType="1" HateLink="1" SubSceneNo="8016">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="535" TaskSubType="1" HateLink="1" SubSceneNo="8016">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="AB32C985999C40A8AA9A0C68A9C02D79" x="110.907" y="11.966" z="-116.044" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="519" TaskSubType="1" StaticY="1" HateLink="1" SubSceneNo="8017">
+            <item No="1" id="Npcborn003005" ay="0.630" amount="3" refreshtime="30000" desc="护院">
+                <position x="113.020" y="11.980" z="-121.584" ay="0.630" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="117.748" y="11.962" z="-116.880" ay="5.928" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="105.895" y="12.432" z="-122.280" ay="1.440" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="2D8D68BCC1554B7E81F39E720977CEB9" x="102.868" y="16.068" z="-128.795" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="523" TaskSubType="1" SubSceneNo="8017">
+            <item No="1" id="Npcborn003101" sx="0.750" sy="0.750" sz="0.750" ay="1.840" amount="1" refreshtime="300000" desc="燃烧的房子">
+                <position x="103.999" z="-126.524" sx="0.750" sy="0.750" sz="0.750" ay="1.840" />
+            </item>
+            <item No="2" id="museborn_ydtx_8a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;157.363,4.252,-87.647,-3.088河边&#x0A;119.733,11.963,-109.410,2.223火&#x0A;116.555,11.963,-116.905,2.649火&#x0A;103.217,12.388,-120.906,3.120火&quot;'>
+                <position x="103.211" z="-121.870" />
+            </item>
+        </creator>
+        <creator No="39F9D8118AA04697A32F25039BA15839" x="-72.059" y="29.723" z="-135.208" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" SubSceneNo="8017">
+            <item No="1" id="Npcborn003024" ay="1.840" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-72.059" z="-135.208" ay="1.840" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.059" z="-133.208" ay="0.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.059" z="-133.208" ay="1.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-76.059" z="-141.208" ay="2.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="BBAA34418BF84A2CA1E2DEC67CA9DF62" x="-73.957" y="29.723" z="-119.237" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8017">
+            <item No="1" id="Npcborn003024" ay="-2.813" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-73.957" z="-119.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.957" z="-120.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-77.957" z="-123.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.957" z="-114.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="3ADEE2EC5E394A9584013399606F8473" x="-79.593" y="29.723" z="-123.164" radius="10.0" WakeupRange="22.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8017">
+            <item No="1" id="bossborn003003" ay="1.521" amount="1" refreshtime="10000" desc="崔仁兴">
+                <position x="-79.593" z="-123.164" ay="1.521" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9E33" x="76.405" y="13.599" z="-94.348" radius="10.0" WakeupRange="20.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="520" TaskSubType="1" SubSceneNo="8017">
+            <item No="1" id="bossborn003002" ay="1.646" amount="1" refreshtime="10000" desc="韩枫">
+                <position x="76.405" z="-94.348" ay="1.646" WeaponName="s_r_npcitem411" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_9" sx="2.300" sy="2.300" sz="2.300" ay="1.875" amount="1" refreshtime="30000" NotPositive="0" desc="1343-猎杀-520">
+                <position x="105.559" z="-103.065" sx="2.300" sy="2.300" sz="2.300" ay="1.875" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="155.131" y="5.749" z="-100.876" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="518" TaskSubType="1" SubSceneNo="8017">
+            <item No="1" id="bossborn003001" ay="2.147" amount="1" refreshtime="10000" desc="迟谷">
+                <position x="155.131" z="-100.876" ay="2.147" WeaponName="dk_rl_npcitem479" WeaponMode="dknife1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_3" sx="1.910" sy="1.910" sz="1.910" ay="2.200" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-518">
+                <position x="171.578" z="-114.392" sx="1.910" sy="1.910" sz="1.910" ay="2.200" />
+            </item>
+        </creator>
+        <creator No="DBDC40355A284BA9883C3A49FC55E093" x="23.641" y="24.837" z="-113.943" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="576" TaskSubType="3" StaticY="1" SubSceneNo="8017">
+            <item No="1" id="museborn_ydtx_12a" ay="-1" amount="3" refreshtime="30000" desc="护院">
+                <position x="23.707" y="24.576" z="-114.015" ay="-1" />
+                <position x="21.894" y="27.606" z="-117.382" ay="-1" />
+                <position x="20.070" y="27.840" z="-114.327" ay="-1" />
+            </item>
+        </creator>
+        <creator No="2ABF084DA64243748294F6C849ED88FB" x="176.395" y="6.093" z="-118.681" radius="5.0" WakeupRange="50.0" ChaseRange="27.0" PatrolRange="0.0" TaskSubId="522" TaskSubType="1" StaticY="1" SubSceneNo="8017">
+            <item No="1" id="museborn_ydtx_2a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;172.270,6.234,-124.060,-2.093&quot;'>
+                <position x="172.000" y="6.200" z="-124.000" />
+            </item>
+            <item No="2" id="museborn_ydtx_2" sx="2.200" sy="2.200" sz="2.200" ay="1.075" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-522">
+                <position x="185.952" y="5.458" z="-113.892" sx="2.200" sy="2.200" sz="2.200" ay="1.075" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="534" TaskSubType="1" HateLink="1" SubSceneNo="8017">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="535" TaskSubType="1" HateLink="1" SubSceneNo="8017">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="AB32C985999C40A8AA9A0C68A9C02D79" x="110.907" y="11.966" z="-116.044" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="519" TaskSubType="1" StaticY="1" HateLink="1" SubSceneNo="8018">
+            <item No="1" id="Npcborn003005" ay="0.630" amount="3" refreshtime="30000" desc="护院">
+                <position x="113.020" y="11.980" z="-121.584" ay="0.630" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="117.748" y="11.962" z="-116.880" ay="5.928" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="105.895" y="12.432" z="-122.280" ay="1.440" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="2D8D68BCC1554B7E81F39E720977CEB9" x="102.868" y="16.068" z="-128.795" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="523" TaskSubType="1" SubSceneNo="8018">
+            <item No="1" id="Npcborn003101" sx="0.750" sy="0.750" sz="0.750" ay="1.840" amount="1" refreshtime="300000" desc="燃烧的房子">
+                <position x="103.999" z="-126.524" sx="0.750" sy="0.750" sz="0.750" ay="1.840" />
+            </item>
+            <item No="2" id="museborn_ydtx_8a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;157.363,4.252,-87.647,-3.088河边&#x0A;119.733,11.963,-109.410,2.223火&#x0A;116.555,11.963,-116.905,2.649火&#x0A;103.217,12.388,-120.906,3.120火&quot;'>
+                <position x="103.211" z="-121.870" />
+            </item>
+        </creator>
+        <creator No="39F9D8118AA04697A32F25039BA15839" x="-72.059" y="29.723" z="-135.208" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" SubSceneNo="8018">
+            <item No="1" id="Npcborn003024" ay="1.840" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-72.059" z="-135.208" ay="1.840" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.059" z="-133.208" ay="0.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.059" z="-133.208" ay="1.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-76.059" z="-141.208" ay="2.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="BBAA34418BF84A2CA1E2DEC67CA9DF62" x="-73.957" y="29.723" z="-119.237" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8018">
+            <item No="1" id="Npcborn003024" ay="-2.813" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-73.957" z="-119.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.957" z="-120.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-77.957" z="-123.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.957" z="-114.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="3ADEE2EC5E394A9584013399606F8473" x="-79.593" y="29.723" z="-123.164" radius="10.0" WakeupRange="22.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8018">
+            <item No="1" id="bossborn003003" ay="1.521" amount="1" refreshtime="10000" desc="崔仁兴">
+                <position x="-79.593" z="-123.164" ay="1.521" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9E33" x="76.405" y="13.599" z="-94.348" radius="10.0" WakeupRange="20.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="520" TaskSubType="1" SubSceneNo="8018">
+            <item No="1" id="bossborn003002" ay="1.646" amount="1" refreshtime="10000" desc="韩枫">
+                <position x="76.405" z="-94.348" ay="1.646" WeaponName="s_r_npcitem411" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_9" sx="2.300" sy="2.300" sz="2.300" ay="1.875" amount="1" refreshtime="30000" NotPositive="0" desc="1343-猎杀-520">
+                <position x="105.559" z="-103.065" sx="2.300" sy="2.300" sz="2.300" ay="1.875" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="155.131" y="5.749" z="-100.876" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="518" TaskSubType="1" SubSceneNo="8018">
+            <item No="1" id="bossborn003001" ay="2.147" amount="1" refreshtime="10000" desc="迟谷">
+                <position x="155.131" z="-100.876" ay="2.147" WeaponName="dk_rl_npcitem479" WeaponMode="dknife1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_3" sx="1.910" sy="1.910" sz="1.910" ay="2.200" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-518">
+                <position x="171.578" z="-114.392" sx="1.910" sy="1.910" sz="1.910" ay="2.200" />
+            </item>
+        </creator>
+        <creator No="DBDC40355A284BA9883C3A49FC55E093" x="23.641" y="24.837" z="-113.943" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="576" TaskSubType="3" StaticY="1" SubSceneNo="8018">
+            <item No="1" id="museborn_ydtx_12a" ay="-1" amount="3" refreshtime="30000" desc="护院">
+                <position x="23.707" y="24.576" z="-114.015" ay="-1" />
+                <position x="21.894" y="27.606" z="-117.382" ay="-1" />
+                <position x="20.070" y="27.840" z="-114.327" ay="-1" />
+            </item>
+        </creator>
+        <creator No="2ABF084DA64243748294F6C849ED88FB" x="176.395" y="6.093" z="-118.681" radius="5.0" WakeupRange="50.0" ChaseRange="27.0" PatrolRange="0.0" TaskSubId="522" TaskSubType="1" StaticY="1" SubSceneNo="8018">
+            <item No="1" id="museborn_ydtx_2a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;172.270,6.234,-124.060,-2.093&quot;'>
+                <position x="172.000" y="6.200" z="-124.000" />
+            </item>
+            <item No="2" id="museborn_ydtx_2" sx="2.200" sy="2.200" sz="2.200" ay="1.075" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-522">
+                <position x="185.952" y="5.458" z="-113.892" sx="2.200" sy="2.200" sz="2.200" ay="1.075" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="534" TaskSubType="1" HateLink="1" SubSceneNo="8018">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="535" TaskSubType="1" HateLink="1" SubSceneNo="8018">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="AB32C985999C40A8AA9A0C68A9C02D79" x="110.907" y="11.966" z="-116.044" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="519" TaskSubType="1" StaticY="1" HateLink="1" SubSceneNo="8019">
+            <item No="1" id="Npcborn003005" ay="0.630" amount="3" refreshtime="30000" desc="护院">
+                <position x="113.020" y="11.980" z="-121.584" ay="0.630" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="117.748" y="11.962" z="-116.880" ay="5.928" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="105.895" y="12.432" z="-122.280" ay="1.440" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="2D8D68BCC1554B7E81F39E720977CEB9" x="102.868" y="16.068" z="-128.795" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="523" TaskSubType="1" SubSceneNo="8019">
+            <item No="1" id="Npcborn003101" sx="0.750" sy="0.750" sz="0.750" ay="1.840" amount="1" refreshtime="300000" desc="燃烧的房子">
+                <position x="103.999" z="-126.524" sx="0.750" sy="0.750" sz="0.750" ay="1.840" />
+            </item>
+            <item No="2" id="museborn_ydtx_8a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;157.363,4.252,-87.647,-3.088河边&#x0A;119.733,11.963,-109.410,2.223火&#x0A;116.555,11.963,-116.905,2.649火&#x0A;103.217,12.388,-120.906,3.120火&quot;'>
+                <position x="103.211" z="-121.870" />
+            </item>
+        </creator>
+        <creator No="39F9D8118AA04697A32F25039BA15839" x="-72.059" y="29.723" z="-135.208" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" SubSceneNo="8019">
+            <item No="1" id="Npcborn003024" ay="1.840" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-72.059" z="-135.208" ay="1.840" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.059" z="-133.208" ay="0.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.059" z="-133.208" ay="1.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-76.059" z="-141.208" ay="2.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="BBAA34418BF84A2CA1E2DEC67CA9DF62" x="-73.957" y="29.723" z="-119.237" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8019">
+            <item No="1" id="Npcborn003024" ay="-2.813" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-73.957" z="-119.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.957" z="-120.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-77.957" z="-123.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.957" z="-114.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="3ADEE2EC5E394A9584013399606F8473" x="-79.593" y="29.723" z="-123.164" radius="10.0" WakeupRange="22.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8019">
+            <item No="1" id="bossborn003003" ay="1.521" amount="1" refreshtime="10000" desc="崔仁兴">
+                <position x="-79.593" z="-123.164" ay="1.521" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9E33" x="76.405" y="13.599" z="-94.348" radius="10.0" WakeupRange="20.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="520" TaskSubType="1" SubSceneNo="8019">
+            <item No="1" id="bossborn003002" ay="1.646" amount="1" refreshtime="10000" desc="韩枫">
+                <position x="76.405" z="-94.348" ay="1.646" WeaponName="s_r_npcitem411" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_9" sx="2.300" sy="2.300" sz="2.300" ay="1.875" amount="1" refreshtime="30000" NotPositive="0" desc="1343-猎杀-520">
+                <position x="105.559" z="-103.065" sx="2.300" sy="2.300" sz="2.300" ay="1.875" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="155.131" y="5.749" z="-100.876" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="518" TaskSubType="1" SubSceneNo="8019">
+            <item No="1" id="bossborn003001" ay="2.147" amount="1" refreshtime="10000" desc="迟谷">
+                <position x="155.131" z="-100.876" ay="2.147" WeaponName="dk_rl_npcitem479" WeaponMode="dknife1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_3" sx="1.910" sy="1.910" sz="1.910" ay="2.200" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-518">
+                <position x="171.578" z="-114.392" sx="1.910" sy="1.910" sz="1.910" ay="2.200" />
+            </item>
+        </creator>
+        <creator No="DBDC40355A284BA9883C3A49FC55E093" x="23.641" y="24.837" z="-113.943" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="576" TaskSubType="3" StaticY="1" SubSceneNo="8019">
+            <item No="1" id="museborn_ydtx_12a" ay="-1" amount="3" refreshtime="30000" desc="护院">
+                <position x="23.707" y="24.576" z="-114.015" ay="-1" />
+                <position x="21.894" y="27.606" z="-117.382" ay="-1" />
+                <position x="20.070" y="27.840" z="-114.327" ay="-1" />
+            </item>
+        </creator>
+        <creator No="2ABF084DA64243748294F6C849ED88FB" x="176.395" y="6.093" z="-118.681" radius="5.0" WakeupRange="50.0" ChaseRange="27.0" PatrolRange="0.0" TaskSubId="522" TaskSubType="1" StaticY="1" SubSceneNo="8019">
+            <item No="1" id="museborn_ydtx_2a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;172.270,6.234,-124.060,-2.093&quot;'>
+                <position x="172.000" y="6.200" z="-124.000" />
+            </item>
+            <item No="2" id="museborn_ydtx_2" sx="2.200" sy="2.200" sz="2.200" ay="1.075" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-522">
+                <position x="185.952" y="5.458" z="-113.892" sx="2.200" sy="2.200" sz="2.200" ay="1.075" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="534" TaskSubType="1" HateLink="1" SubSceneNo="8019">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="535" TaskSubType="1" HateLink="1" SubSceneNo="8019">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="AB32C985999C40A8AA9A0C68A9C02D79" x="110.907" y="11.966" z="-116.044" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="519" TaskSubType="1" StaticY="1" HateLink="1" SubSceneNo="8020">
+            <item No="1" id="Npcborn003005" ay="0.630" amount="3" refreshtime="30000" desc="护院">
+                <position x="113.020" y="11.980" z="-121.584" ay="0.630" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="117.748" y="11.962" z="-116.880" ay="5.928" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="105.895" y="12.432" z="-122.280" ay="1.440" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="2D8D68BCC1554B7E81F39E720977CEB9" x="102.868" y="16.068" z="-128.795" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="523" TaskSubType="1" SubSceneNo="8020">
+            <item No="1" id="Npcborn003101" sx="0.750" sy="0.750" sz="0.750" ay="1.840" amount="1" refreshtime="300000" desc="燃烧的房子">
+                <position x="103.999" z="-126.524" sx="0.750" sy="0.750" sz="0.750" ay="1.840" />
+            </item>
+            <item No="2" id="museborn_ydtx_8a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;157.363,4.252,-87.647,-3.088河边&#x0A;119.733,11.963,-109.410,2.223火&#x0A;116.555,11.963,-116.905,2.649火&#x0A;103.217,12.388,-120.906,3.120火&quot;'>
+                <position x="103.211" z="-121.870" />
+            </item>
+        </creator>
+        <creator No="39F9D8118AA04697A32F25039BA15839" x="-72.059" y="29.723" z="-135.208" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" SubSceneNo="8020">
+            <item No="1" id="Npcborn003024" ay="1.840" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-72.059" z="-135.208" ay="1.840" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.059" z="-133.208" ay="0.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.059" z="-133.208" ay="1.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-76.059" z="-141.208" ay="2.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="BBAA34418BF84A2CA1E2DEC67CA9DF62" x="-73.957" y="29.723" z="-119.237" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8020">
+            <item No="1" id="Npcborn003024" ay="-2.813" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-73.957" z="-119.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.957" z="-120.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-77.957" z="-123.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.957" z="-114.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="3ADEE2EC5E394A9584013399606F8473" x="-79.593" y="29.723" z="-123.164" radius="10.0" WakeupRange="22.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8020">
+            <item No="1" id="bossborn003003" ay="1.521" amount="1" refreshtime="10000" desc="崔仁兴">
+                <position x="-79.593" z="-123.164" ay="1.521" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9E33" x="76.405" y="13.599" z="-94.348" radius="10.0" WakeupRange="20.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="520" TaskSubType="1" SubSceneNo="8020">
+            <item No="1" id="bossborn003002" ay="1.646" amount="1" refreshtime="10000" desc="韩枫">
+                <position x="76.405" z="-94.348" ay="1.646" WeaponName="s_r_npcitem411" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_9" sx="2.300" sy="2.300" sz="2.300" ay="1.875" amount="1" refreshtime="30000" NotPositive="0" desc="1343-猎杀-520">
+                <position x="105.559" z="-103.065" sx="2.300" sy="2.300" sz="2.300" ay="1.875" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="155.131" y="5.749" z="-100.876" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="518" TaskSubType="1" SubSceneNo="8020">
+            <item No="1" id="bossborn003001" ay="2.147" amount="1" refreshtime="10000" desc="迟谷">
+                <position x="155.131" z="-100.876" ay="2.147" WeaponName="dk_rl_npcitem479" WeaponMode="dknife1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_3" sx="1.910" sy="1.910" sz="1.910" ay="2.200" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-518">
+                <position x="171.578" z="-114.392" sx="1.910" sy="1.910" sz="1.910" ay="2.200" />
+            </item>
+        </creator>
+        <creator No="DBDC40355A284BA9883C3A49FC55E093" x="23.641" y="24.837" z="-113.943" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="576" TaskSubType="3" StaticY="1" SubSceneNo="8020">
+            <item No="1" id="museborn_ydtx_12a" ay="-1" amount="3" refreshtime="30000" desc="护院">
+                <position x="23.707" y="24.576" z="-114.015" ay="-1" />
+                <position x="21.894" y="27.606" z="-117.382" ay="-1" />
+                <position x="20.070" y="27.840" z="-114.327" ay="-1" />
+            </item>
+        </creator>
+        <creator No="2ABF084DA64243748294F6C849ED88FB" x="176.395" y="6.093" z="-118.681" radius="5.0" WakeupRange="50.0" ChaseRange="27.0" PatrolRange="0.0" TaskSubId="522" TaskSubType="1" StaticY="1" SubSceneNo="8020">
+            <item No="1" id="museborn_ydtx_2a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;172.270,6.234,-124.060,-2.093&quot;'>
+                <position x="172.000" y="6.200" z="-124.000" />
+            </item>
+            <item No="2" id="museborn_ydtx_2" sx="2.200" sy="2.200" sz="2.200" ay="1.075" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-522">
+                <position x="185.952" y="5.458" z="-113.892" sx="2.200" sy="2.200" sz="2.200" ay="1.075" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="534" TaskSubType="1" HateLink="1" SubSceneNo="8020">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="535" TaskSubType="1" HateLink="1" SubSceneNo="8020">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="AB32C985999C40A8AA9A0C68A9C02D79" x="110.907" y="11.966" z="-116.044" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="519" TaskSubType="1" StaticY="1" HateLink="1" SubSceneNo="8021">
+            <item No="1" id="Npcborn003005" ay="0.630" amount="3" refreshtime="30000" desc="护院">
+                <position x="113.020" y="11.980" z="-121.584" ay="0.630" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="117.748" y="11.962" z="-116.880" ay="5.928" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="105.895" y="12.432" z="-122.280" ay="1.440" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="2D8D68BCC1554B7E81F39E720977CEB9" x="102.868" y="16.068" z="-128.795" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="523" TaskSubType="1" SubSceneNo="8021">
+            <item No="1" id="Npcborn003101" sx="0.750" sy="0.750" sz="0.750" ay="1.840" amount="1" refreshtime="300000" desc="燃烧的房子">
+                <position x="103.999" z="-126.524" sx="0.750" sy="0.750" sz="0.750" ay="1.840" />
+            </item>
+            <item No="2" id="museborn_ydtx_8a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;157.363,4.252,-87.647,-3.088河边&#x0A;119.733,11.963,-109.410,2.223火&#x0A;116.555,11.963,-116.905,2.649火&#x0A;103.217,12.388,-120.906,3.120火&quot;'>
+                <position x="103.211" z="-121.870" />
+            </item>
+        </creator>
+        <creator No="39F9D8118AA04697A32F25039BA15839" x="-72.059" y="29.723" z="-135.208" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" SubSceneNo="8021">
+            <item No="1" id="Npcborn003024" ay="1.840" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-72.059" z="-135.208" ay="1.840" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.059" z="-133.208" ay="0.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.059" z="-133.208" ay="1.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-76.059" z="-141.208" ay="2.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="BBAA34418BF84A2CA1E2DEC67CA9DF62" x="-73.957" y="29.723" z="-119.237" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8021">
+            <item No="1" id="Npcborn003024" ay="-2.813" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-73.957" z="-119.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.957" z="-120.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-77.957" z="-123.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.957" z="-114.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="3ADEE2EC5E394A9584013399606F8473" x="-79.593" y="29.723" z="-123.164" radius="10.0" WakeupRange="22.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8021">
+            <item No="1" id="bossborn003003" ay="1.521" amount="1" refreshtime="10000" desc="崔仁兴">
+                <position x="-79.593" z="-123.164" ay="1.521" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9E33" x="76.405" y="13.599" z="-94.348" radius="10.0" WakeupRange="20.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="520" TaskSubType="1" SubSceneNo="8021">
+            <item No="1" id="bossborn003002" ay="1.646" amount="1" refreshtime="10000" desc="韩枫">
+                <position x="76.405" z="-94.348" ay="1.646" WeaponName="s_r_npcitem411" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_9" sx="2.300" sy="2.300" sz="2.300" ay="1.875" amount="1" refreshtime="30000" NotPositive="0" desc="1343-猎杀-520">
+                <position x="105.559" z="-103.065" sx="2.300" sy="2.300" sz="2.300" ay="1.875" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="155.131" y="5.749" z="-100.876" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="518" TaskSubType="1" SubSceneNo="8021">
+            <item No="1" id="bossborn003001" ay="2.147" amount="1" refreshtime="10000" desc="迟谷">
+                <position x="155.131" z="-100.876" ay="2.147" WeaponName="dk_rl_npcitem479" WeaponMode="dknife1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_3" sx="1.910" sy="1.910" sz="1.910" ay="2.200" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-518">
+                <position x="171.578" z="-114.392" sx="1.910" sy="1.910" sz="1.910" ay="2.200" />
+            </item>
+        </creator>
+        <creator No="DBDC40355A284BA9883C3A49FC55E093" x="23.641" y="24.837" z="-113.943" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="576" TaskSubType="3" StaticY="1" SubSceneNo="8021">
+            <item No="1" id="museborn_ydtx_12a" ay="-1" amount="3" refreshtime="30000" desc="护院">
+                <position x="23.707" y="24.576" z="-114.015" ay="-1" />
+                <position x="21.894" y="27.606" z="-117.382" ay="-1" />
+                <position x="20.070" y="27.840" z="-114.327" ay="-1" />
+            </item>
+        </creator>
+        <creator No="2ABF084DA64243748294F6C849ED88FB" x="176.395" y="6.093" z="-118.681" radius="5.0" WakeupRange="50.0" ChaseRange="27.0" PatrolRange="0.0" TaskSubId="522" TaskSubType="1" StaticY="1" SubSceneNo="8021">
+            <item No="1" id="museborn_ydtx_2a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;172.270,6.234,-124.060,-2.093&quot;'>
+                <position x="172.000" y="6.200" z="-124.000" />
+            </item>
+            <item No="2" id="museborn_ydtx_2" sx="2.200" sy="2.200" sz="2.200" ay="1.075" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-522">
+                <position x="185.952" y="5.458" z="-113.892" sx="2.200" sy="2.200" sz="2.200" ay="1.075" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="534" TaskSubType="1" HateLink="1" SubSceneNo="8021">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="535" TaskSubType="1" HateLink="1" SubSceneNo="8021">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="AB32C985999C40A8AA9A0C68A9C02D79" x="110.907" y="11.966" z="-116.044" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="519" TaskSubType="1" StaticY="1" HateLink="1" SubSceneNo="8022">
+            <item No="1" id="Npcborn003005" ay="0.630" amount="3" refreshtime="30000" desc="护院">
+                <position x="113.020" y="11.980" z="-121.584" ay="0.630" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="117.748" y="11.962" z="-116.880" ay="5.928" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="105.895" y="12.432" z="-122.280" ay="1.440" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="2D8D68BCC1554B7E81F39E720977CEB9" x="102.868" y="16.068" z="-128.795" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="523" TaskSubType="1" SubSceneNo="8022">
+            <item No="1" id="Npcborn003101" sx="0.750" sy="0.750" sz="0.750" ay="1.840" amount="1" refreshtime="300000" desc="燃烧的房子">
+                <position x="103.999" z="-126.524" sx="0.750" sy="0.750" sz="0.750" ay="1.840" />
+            </item>
+            <item No="2" id="museborn_ydtx_8a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;157.363,4.252,-87.647,-3.088河边&#x0A;119.733,11.963,-109.410,2.223火&#x0A;116.555,11.963,-116.905,2.649火&#x0A;103.217,12.388,-120.906,3.120火&quot;'>
+                <position x="103.211" z="-121.870" />
+            </item>
+        </creator>
+        <creator No="39F9D8118AA04697A32F25039BA15839" x="-72.059" y="29.723" z="-135.208" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" SubSceneNo="8022">
+            <item No="1" id="Npcborn003024" ay="1.840" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-72.059" z="-135.208" ay="1.840" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.059" z="-133.208" ay="0.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.059" z="-133.208" ay="1.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-76.059" z="-141.208" ay="2.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="BBAA34418BF84A2CA1E2DEC67CA9DF62" x="-73.957" y="29.723" z="-119.237" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8022">
+            <item No="1" id="Npcborn003024" ay="-2.813" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-73.957" z="-119.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.957" z="-120.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-77.957" z="-123.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.957" z="-114.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="3ADEE2EC5E394A9584013399606F8473" x="-79.593" y="29.723" z="-123.164" radius="10.0" WakeupRange="22.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8022">
+            <item No="1" id="bossborn003003" ay="1.521" amount="1" refreshtime="10000" desc="崔仁兴">
+                <position x="-79.593" z="-123.164" ay="1.521" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9E33" x="76.405" y="13.599" z="-94.348" radius="10.0" WakeupRange="20.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="520" TaskSubType="1" SubSceneNo="8022">
+            <item No="1" id="bossborn003002" ay="1.646" amount="1" refreshtime="10000" desc="韩枫">
+                <position x="76.405" z="-94.348" ay="1.646" WeaponName="s_r_npcitem411" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_9" sx="2.300" sy="2.300" sz="2.300" ay="1.875" amount="1" refreshtime="30000" NotPositive="0" desc="1343-猎杀-520">
+                <position x="105.559" z="-103.065" sx="2.300" sy="2.300" sz="2.300" ay="1.875" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="155.131" y="5.749" z="-100.876" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="518" TaskSubType="1" SubSceneNo="8022">
+            <item No="1" id="bossborn003001" ay="2.147" amount="1" refreshtime="10000" desc="迟谷">
+                <position x="155.131" z="-100.876" ay="2.147" WeaponName="dk_rl_npcitem479" WeaponMode="dknife1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_3" sx="1.910" sy="1.910" sz="1.910" ay="2.200" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-518">
+                <position x="171.578" z="-114.392" sx="1.910" sy="1.910" sz="1.910" ay="2.200" />
+            </item>
+        </creator>
+        <creator No="DBDC40355A284BA9883C3A49FC55E093" x="23.641" y="24.837" z="-113.943" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="576" TaskSubType="3" StaticY="1" SubSceneNo="8022">
+            <item No="1" id="museborn_ydtx_12a" ay="-1" amount="3" refreshtime="30000" desc="护院">
+                <position x="23.707" y="24.576" z="-114.015" ay="-1" />
+                <position x="21.894" y="27.606" z="-117.382" ay="-1" />
+                <position x="20.070" y="27.840" z="-114.327" ay="-1" />
+            </item>
+        </creator>
+        <creator No="2ABF084DA64243748294F6C849ED88FB" x="176.395" y="6.093" z="-118.681" radius="5.0" WakeupRange="50.0" ChaseRange="27.0" PatrolRange="0.0" TaskSubId="522" TaskSubType="1" StaticY="1" SubSceneNo="8022">
+            <item No="1" id="museborn_ydtx_2a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;172.270,6.234,-124.060,-2.093&quot;'>
+                <position x="172.000" y="6.200" z="-124.000" />
+            </item>
+            <item No="2" id="museborn_ydtx_2" sx="2.200" sy="2.200" sz="2.200" ay="1.075" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-522">
+                <position x="185.952" y="5.458" z="-113.892" sx="2.200" sy="2.200" sz="2.200" ay="1.075" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="534" TaskSubType="1" HateLink="1" SubSceneNo="8022">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="535" TaskSubType="1" HateLink="1" SubSceneNo="8022">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="AB32C985999C40A8AA9A0C68A9C02D79" x="110.907" y="11.966" z="-116.044" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="519" TaskSubType="1" StaticY="1" HateLink="1" SubSceneNo="8023">
+            <item No="1" id="Npcborn003005" ay="0.630" amount="3" refreshtime="30000" desc="护院">
+                <position x="113.020" y="11.980" z="-121.584" ay="0.630" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="117.748" y="11.962" z="-116.880" ay="5.928" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+                <position x="105.895" y="12.432" z="-122.280" ay="1.440" WeaponName="b_r_npcitem167" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="2D8D68BCC1554B7E81F39E720977CEB9" x="102.868" y="16.068" z="-128.795" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="523" TaskSubType="1" SubSceneNo="8023">
+            <item No="1" id="Npcborn003101" sx="0.750" sy="0.750" sz="0.750" ay="1.840" amount="1" refreshtime="300000" desc="燃烧的房子">
+                <position x="103.999" z="-126.524" sx="0.750" sy="0.750" sz="0.750" ay="1.840" />
+            </item>
+            <item No="2" id="museborn_ydtx_8a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;157.363,4.252,-87.647,-3.088河边&#x0A;119.733,11.963,-109.410,2.223火&#x0A;116.555,11.963,-116.905,2.649火&#x0A;103.217,12.388,-120.906,3.120火&quot;'>
+                <position x="103.211" z="-121.870" />
+            </item>
+        </creator>
+        <creator No="39F9D8118AA04697A32F25039BA15839" x="-72.059" y="29.723" z="-135.208" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" SubSceneNo="8023">
+            <item No="1" id="Npcborn003024" ay="1.840" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-72.059" z="-135.208" ay="1.840" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.059" z="-133.208" ay="0.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.059" z="-133.208" ay="1.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-76.059" z="-141.208" ay="2.209" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="BBAA34418BF84A2CA1E2DEC67CA9DF62" x="-73.957" y="29.723" z="-119.237" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8023">
+            <item No="1" id="Npcborn003024" ay="-2.813" amount="2" refreshtime="10000" desc="杀手">
+                <position x="-73.957" z="-119.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-75.957" z="-120.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-77.957" z="-123.237" ay="-2.813" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+                <position x="-74.957" z="-114.237" ay="1.355" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+        </creator>
+        <creator No="3ADEE2EC5E394A9584013399606F8473" x="-79.593" y="29.723" z="-123.164" radius="10.0" WakeupRange="22.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="521" TaskSubType="1" HateLink="1" SubSceneNo="8023">
+            <item No="1" id="bossborn003003" ay="1.521" amount="1" refreshtime="10000" desc="崔仁兴">
+                <position x="-79.593" z="-123.164" ay="1.521" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9E33" x="76.405" y="13.599" z="-94.348" radius="10.0" WakeupRange="20.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="520" TaskSubType="1" SubSceneNo="8023">
+            <item No="1" id="bossborn003002" ay="1.646" amount="1" refreshtime="10000" desc="韩枫">
+                <position x="76.405" z="-94.348" ay="1.646" WeaponName="s_r_npcitem411" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_9" sx="2.300" sy="2.300" sz="2.300" ay="1.875" amount="1" refreshtime="30000" NotPositive="0" desc="1343-猎杀-520">
+                <position x="105.559" z="-103.065" sx="2.300" sy="2.300" sz="2.300" ay="1.875" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="155.131" y="5.749" z="-100.876" radius="10.0" WakeupRange="40.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="518" TaskSubType="1" SubSceneNo="8023">
+            <item No="1" id="bossborn003001" ay="2.147" amount="1" refreshtime="10000" desc="迟谷">
+                <position x="155.131" z="-100.876" ay="2.147" WeaponName="dk_rl_npcitem479" WeaponMode="dknife1_1" />
+            </item>
+            <item No="2" id="museborn_ydtx_3" sx="1.910" sy="1.910" sz="1.910" ay="2.200" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-518">
+                <position x="171.578" z="-114.392" sx="1.910" sy="1.910" sz="1.910" ay="2.200" />
+            </item>
+        </creator>
+        <creator No="DBDC40355A284BA9883C3A49FC55E093" x="23.641" y="24.837" z="-113.943" radius="10.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="0.0" TaskSubId="576" TaskSubType="3" StaticY="1" SubSceneNo="8023">
+            <item No="1" id="museborn_ydtx_12a" ay="-1" amount="3" refreshtime="30000" desc="护院">
+                <position x="23.707" y="24.576" z="-114.015" ay="-1" />
+                <position x="21.894" y="27.606" z="-117.382" ay="-1" />
+                <position x="20.070" y="27.840" z="-114.327" ay="-1" />
+            </item>
+        </creator>
+        <creator No="2ABF084DA64243748294F6C849ED88FB" x="176.395" y="6.093" z="-118.681" radius="5.0" WakeupRange="50.0" ChaseRange="27.0" PatrolRange="0.0" TaskSubId="522" TaskSubType="1" StaticY="1" SubSceneNo="8023">
+            <item No="1" id="museborn_ydtx_2a" amount="1" refreshtime="30000" NotPositive="0" desc='&quot;172.270,6.234,-124.060,-2.093&quot;'>
+                <position x="172.000" y="6.200" z="-124.000" />
+            </item>
+            <item No="2" id="museborn_ydtx_2" sx="2.200" sy="2.200" sz="2.200" ay="1.075" amount="1" refreshtime="30000" NotPositive="0" desc="1341-猎杀-522">
+                <position x="185.952" y="5.458" z="-113.892" sx="2.200" sy="2.200" sz="2.200" ay="1.075" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="534" TaskSubType="1" HateLink="1" SubSceneNo="8023">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>
+        <creator No="69C8F7D4B4D242D396FFC5A9B64B9EAC" x="35.953" y="21.645" z="-108.541" radius="10.0" WakeupRange="50.0" ChaseRange="50.0" PatrolRange="0.0" TaskSubId="535" TaskSubType="1" HateLink="1" SubSceneNo="8023">
+            <item No="1" id="funnpcborn003043" ay="4.444" amount="1" refreshtime="30000" desc="木桩">
+                <position x="35.953" z="-108.541" ay="4.444" />
+            </item>
+        </creator>		
+    </randomcreator>
+</object>

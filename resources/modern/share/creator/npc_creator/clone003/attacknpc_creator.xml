@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="44D84F59BD4F4459BFDC55868D4C1FEE" x="84.127" y="14.889" z="-114.714" radius="2.0" NpcProgress="2" WakeupRange="10.0" ChaseRange="0.0" PatrolRange="4.0">
+            <item No="1" id="NpcClone003005" ay="4.269" amount="1" refreshtime="-1" desc="纵火者">
+                <position x="84.127" z="-114.714" ay="4.269" />
+            </item>
+            <item No="2" id="NpcClone003015" ay="4.299" amount="1" refreshtime="-1" desc="纵火帮凶">
+                <position x="84.829" z="-114.113" ay="4.299" />
+            </item>
+        </creator>
+        <creator No="A0B64C084B7F45238C670BAF4F80C36C" x="35.306" y="20.094" z="-99.652" radius="3.0" NpcProgress="3" WakeupRange="10.0" ChaseRange="1000.0" PatrolRange="4.0">
+            <item No="1" id="NpcClone003023" ay="1.447" amount="1" refreshtime="-1" desc="官差 钱昔之手下">
+                <position x="36.152" z="-99.395" ay="1.447" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+            <item No="2" id="NpcClone003024" ay="0.962" amount="1" refreshtime="-1" desc="小官差 钱昔之手下">
+                <position x="35.408" z="-100.300" ay="0.962" WeaponName="b_r_npcitem320" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="F5F759E3E36D43C984832D06BF95963D" x="28.372" y="21.647" z="-117.184" radius="3.0" NpcProgress="3" WakeupRange="10.0" ChaseRange="0.0" PatrolRange="5.0">
+            <item No="1" id="NpcClone003023" ay="0.612" amount="1" refreshtime="-1" desc="官差 钱昔之手下">
+                <position x="27.981" z="-116.263" ay="0.612" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+            <item No="2" id="NpcClone003024" ay="0.377" amount="1" refreshtime="-1" desc="小官差 钱昔之手下">
+                <position x="28.372" z="-117.184" ay="0.377" WeaponName="b_r_npcitem320" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="BAA9D3481B8D440EA613ED173699833E" x="23.158" y="21.646" z="-133.267" radius="3.0" NpcProgress="3" WakeupRange="12.0" ChaseRange="0.0" PatrolRange="4.0">
+            <item No="1" id="NpcClone003023" ay="5.885" amount="1" refreshtime="-1" desc="官差 钱昔之手下">
+                <position x="24.000" z="-134.940" ay="5.885" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+            <item No="2" id="NpcClone003024" ay="1.912" amount="2" refreshtime="-1" desc="小官差 钱昔之手下">
+                <position x="21.495" z="-134.888" ay="1.912" WeaponName="b_r_npcitem320" WeaponMode="blade1_1" />
+                <position x="25.393" z="-132.261" ay="5.075" WeaponName="b_r_npcitem320" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="484849D6B0B147E79AFA46F45C091FCB" x="-0.228" y="22.499" z="-127.233" radius="3.0" NpcProgress="3" WakeupRange="15.0" ChaseRange="0.0" PatrolRange="4.0">
+            <item No="1" id="NpcClone003023" ay="4.100" amount="1" refreshtime="-1" desc="官差 钱昔之手下">
+                <position x="-1.085" z="-129.694" ay="4.100" WeaponName="b_r_npcitem321" WeaponMode="blade2_1" />
+            </item>
+            <item No="2" id="NpcClone003024" ay="4.585" amount="2" refreshtime="-1" desc="小官差 钱昔之手下">
+                <position x="-2.164" z="-126.483" ay="4.585" WeaponName="b_r_npcitem320" WeaponMode="blade1_1" />
+                <position x="2.345" z="-128.444" ay="4.805" WeaponName="b_r_npcitem320" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="D6FED33A93F947A1953840ABAE0EDA56" x="-9.137" y="23.087" z="-113.264" radius="5.0" NpcProgress="3" WakeupRange="10.0" ChaseRange="1000.0" PatrolRange="6.0">
+            <item No="1" id="NpcClone003023" ay="0.628" amount="1" refreshtime="-1" desc="官差 钱昔之手下">
+                <position x="-11.533" z="-115.069" ay="0.628" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+            <item No="2" id="NpcClone003024" ay="0.877" amount="1" refreshtime="-1" desc="小官差 钱昔之手下">
+                <position x="-9.137" z="-113.264" ay="0.877" WeaponName="b_r_npcitem320" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="B410BB45803C433298533E25533023C3" x="-8.147" y="22.785" z="-87.890" radius="4.0" NpcProgress="3" WakeupRange="10.0" ChaseRange="0.0" PatrolRange="5.0">
+            <item No="1" id="NpcClone003023" ay="1.872" amount="1" refreshtime="-1" desc="官差 钱昔之手下">
+                <position x="-7.244" z="-87.686" ay="1.872" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+            <item No="2" id="NpcClone003024" ay="1.752" amount="1" refreshtime="-1" desc="小官差 钱昔之手下">
+                <position x="-8.416" z="-88.152" ay="1.752" WeaponName="b_r_npcitem320" WeaponMode="blade1_1" />
+                <position x="-7.991" z="-86.902" ay="2.292" WeaponName="b_r_npcitem320" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="260301FF6B6B4772AFBAE00B469735D2" x="1.412" y="22.526" z="-99.985" radius="3.0" NpcProgress="3" WakeupRange="10.0" ChaseRange="0.0" PatrolRange="4.0">
+            <item No="1" id="NpcClone003023" ay="0.817" amount="1" refreshtime="-1" desc="官差 钱昔之手下">
+                <position x="1.683" z="-99.870" ay="0.817" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+            <item No="2" id="NpcClone003024" ay="1.729" amount="1" refreshtime="-1" desc="小官差 钱昔之手下">
+                <position x="1.472" z="-100.819" ay="1.729" WeaponName="b_r_npcitem320" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="9F1B00CDFDA64521927EEDDBBA2DA897" x="0.116" y="26.115" z="-56.933" radius="3.0" NpcProgress="4" WakeupRange="10.0" ChaseRange="0.0" PatrolRange="5.0">
+            <item No="1" id="NpcClone003009" ay="3.012" amount="1" refreshtime="-1" desc="剑客高手">
+                <position x="-0.193" z="-55.982" ay="3.012" WeaponName="s_r_npcitem087" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="NpcClone003013" ay="3.082" amount="1" refreshtime="5" NotPositive="0" desc="信徒 叶楼凯手下" />
+        </creator>
+        <creator No="CBE7D4B1412947938F90BBEECEC47F99" x="-6.265" y="28.382" z="-35.956" radius="2.0" NpcProgress="4" WakeupRange="10.0" ChaseRange="1000.0" PatrolRange="6.0">
+            <item No="1" id="NpcClone003009" ay="1.557" amount="1" refreshtime="-1" desc="剑客高手">
+                <position x="-6.265" z="-35.956" ay="1.557" WeaponName="s_r_npcitem087" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="NpcClone003013" ay="3.082" amount="1" refreshtime="-1" NotPositive="0" desc="信徒 叶楼凯手下" />
+        </creator>
+        <creator No="A85314DF9FD64D6FA4C31CE3B2201A39" x="-39.284" y="33.823" z="-21.519" radius="2.0" NpcProgress="4" WakeupRange="12.0" ChaseRange="0.0" PatrolRange="4.0">
+            <item No="1" id="NpcClone003009" ay="4.387" amount="1" refreshtime="-1" desc="剑客高手">
+                <position x="-37.708" z="-22.750" ay="4.387" WeaponName="s_r_npcitem087" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="NpcClone003013" ay="4.387" amount="1" refreshtime="-1" desc="信徒 叶楼凯手下">
+                <position x="-39.593" z="-20.568" ay="4.387" />
+            </item>
+        </creator>
+        <creator No="E2BA6618125C414BA63746574E8ABD12" x="5.744" y="24.729" z="18.344" radius="5.0" NpcProgress="5" WakeupRange="16.0" ChaseRange="1000.0" PatrolRange="10.0">
+            <item No="1" id="NpcClone003003" ay="4.387" amount="1" refreshtime="-1" desc="韩似锦手下">
+                <position x="7.434" z="14.719" ay="4.387" WeaponName="s_r_npcitem313" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="NpcClone003012" ay="4.387" amount="1" refreshtime="-1" desc="小喽啰">
+                <position x="6.576" z="22.257" ay="4.387" WeaponName="k_r_npcitem307" WeaponMode="knife1_1" />
+            </item>
+            <item No="3" id="NpcClone003025" ay="4.387" amount="1" refreshtime="-1" desc="叶楼凯手下">
+                <position x="6.804" z="16.648" ay="4.387" />
+            </item>
+        </creator>
+        <creator No="83679ACF738145658255E905291636EE" x="15.559" y="23.585" z="41.440" radius="5.0" NpcProgress="5" WakeupRange="16.0" ChaseRange="1000.0" PatrolRange="10.0">
+            <item No="1" id="NpcClone003003" ay="4.387" amount="1" refreshtime="-1" desc="韩似锦手下">
+                <position x="12.323" z="43.791" ay="4.387" WeaponName="s_r_npcitem313" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="NpcClone003025" ay="4.387" amount="1" refreshtime="-1" desc="侩子手">
+                <position x="17.522" z="41.822" ay="4.387" />
+            </item>
+        </creator>
+        <creator No="3D08A36B30324683A0E76CE24A4B74C9" x="110.923" y="29.016" z="55.815" radius="5.0" NpcProgress="5" WakeupRange="16.0" ChaseRange="1000.0" PatrolRange="10.0">
+            <item No="1" id="NpcClone003003" ay="-1" amount="1" refreshtime="-1" desc="韩似锦手下">
+                <position x="110.923" z="55.815" ay="-1" WeaponName="s_r_npcitem313" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="NpcClone003004" ay="-1" amount="1" refreshtime="-1" desc="韩似锦手下">
+                <position x="110.923" z="55.815" ay="-1" WeaponName="b_r_npcitem323" WeaponMode="blade1_1" />
+            </item>
+            <item No="3" id="NpcClone003006" ay="-1" amount="1" refreshtime="-1" desc="韩似锦手下">
+                <position x="111.097" z="53.823" ay="-1" WeaponName="dc_rl_npcitem212" WeaponMode="dcrutch1_1" />
+            </item>
+            <item No="4" id="NpcClone003025" ay="0.300" amount="1" refreshtime="-1" desc="叶楼凯手下">
+                <position x="109.994" z="54.660" ay="0.300" WeaponName="b_r_npcitem024" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="7499822DB6CA4FDEB0C8983F61234D29" x="69.355" y="28.981" z="60.073" radius="3.0" NpcProgress="5" WakeupRange="16.0" ChaseRange="1000.0" PatrolRange="5.0">
+            <item No="1" id="NpcClone003003" ay="1.502" amount="1" refreshtime="-1" desc="韩似锦手下">
+                <position x="67.897" z="59.281" ay="1.502" WeaponName="s_r_npcitem313" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="NpcClone003004" ay="2.717" amount="1" refreshtime="-1" desc="韩似锦手下">
+                <position x="68.862" z="61.238" ay="2.717" WeaponName="b_r_npcitem323" WeaponMode="blade1_1" />
+            </item>
+            <item No="3" id="NpcClone003006" ay="5.252" amount="1" refreshtime="-1" desc="韩似锦手下">
+                <position x="69.514" z="59.104" ay="5.252" WeaponName="dc_rl_npcitem212" WeaponMode="dcrutch1_1" />
+            </item>
+            <item No="4" id="NpcClone003007" ay="4.247" amount="1" refreshtime="-1" desc="暗器高手">
+                <position x="70.479" z="60.321" ay="4.247" WeaponMode="hand2_1" />
+            </item>
+        </creator>
+        <creator No="589F7B9901AD4670A56A1F3643B15132" x="87.950" y="28.521" z="88.320" radius="5.0" NpcProgress="5" WakeupRange="20.0" ChaseRange="0.0" PatrolRange="0.0">
+            <item No="1" id="NpcClone003003" ay="3.082" amount="1" refreshtime="-1" desc="韩似锦手下">
+                <position x="88.759" z="88.053" ay="3.082" WeaponName="s_r_npcitem313" WeaponMode="sword1_1" />
+            </item>
+            <item No="2" id="NpcClone003004" ay="3.582" amount="1" refreshtime="-1" desc="韩似锦手下">
+                <position x="87.999" z="87.892" ay="3.582" WeaponName="b_r_npcitem323" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="6AB7B5427BF046358AF3BDE33592C46D" x="43.276" y="18.190" z="-65.325" radius="5.0" NpcProgress="5" WakeupRange="16.0" ChaseRange="1000.0" PatrolRange="8.0">
+            <item No="1" id="NpcClone003007" ay="1.712" amount="1" refreshtime="-1" desc="暗器高手">
+                <position x="39.820" z="-62.869" ay="1.712" />
+            </item>
+            <item No="2" id="NpcClone003012" ay="1.872" amount="1" refreshtime="-1" desc="小喽啰">
+                <position x="41.649" z="-68.773" ay="1.872" WeaponName="k_r_npcitem307" WeaponMode="knife1_1" />
+            </item>
+            <item No="3" id="NpcClone003025" ay="4.247" amount="1" refreshtime="-1" desc="侩子手">
+                <position x="41.320" z="-65.741" ay="4.247" />
+            </item>
+        </creator>
+        <creator No="2B88F9090BE54DF4802E0991B1A371D2" x="54.786" y="17.737" z="-46.153" radius="2.0" NpcProgress="5" WakeupRange="12.0" ChaseRange="1000.0" PatrolRange="6.0">
+            <item No="1" id="NpcClone003006" ay="0.957" amount="1" refreshtime="-1" desc="韩似锦手下">
+                <position x="54.984" z="-46.689" ay="0.957" WeaponName="dc_rl_npcitem212" WeaponMode="dcrutch1_1" />
+            </item>
+            <item No="2" id="NpcClone003007" ay="2.797" amount="1" refreshtime="-1" desc="暗器高手">
+                <position x="55.225" z="-45.824" ay="2.797" />
+            </item>
+        </creator>
+        <creator No="6F42863C88704B1D8C78B80C5C128592" x="61.425" y="17.823" z="-20.545" radius="2.0" NpcProgress="5" WakeupRange="10.0" ChaseRange="0.0" PatrolRange="6.0">
+            <item No="1" id="NpcClone003006" ay="1.617" amount="1" refreshtime="-1" desc="韩似锦手下">
+                <position x="60.950" z="-19.927" ay="1.617" WeaponName="dc_rl_npcitem212" WeaponMode="dcrutch1_1" />
+            </item>
+            <item No="2" id="NpcClone003012" ay="4.257" amount="1" refreshtime="-1" desc="小喽啰">
+                <position x="62.331" z="-20.122" ay="4.257" WeaponName="k_r_npcitem307" WeaponMode="knife1_1" />
+            </item>
+        </creator>
+        <creator No="1FCA5111A7A44243BB4E435C0980B9F5" x="120.214" y="19.023" z="11.981" radius="5.0" NpcProgress="5" WakeupRange="16.0" ChaseRange="1000.0" PatrolRange="10.0">
+            <item No="1" id="NpcClone003006" ay="4.257" amount="1" refreshtime="-1" desc="韩似锦手下">
+                <position x="119.679" z="13.053" ay="4.257" WeaponName="dc_rl_npcitem212" WeaponMode="dcrutch1_1" />
+            </item>
+            <item No="2" id="NpcClone003004" ay="1.672" amount="1" refreshtime="-1" desc="韩似锦手下">
+                <position x="121.191" z="14.818" ay="1.672" WeaponName="b_r_npcitem323" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="9200FF577A3D4ED4AC34FA1DAE94AF80" x="14.413" y="21.983" z="-103.243" radius="3.0" NpcProgress="3" WakeupRange="10.0" ChaseRange="0.0" PatrolRange="5.0">
+            <item No="1" id="NpcClone003023" ay="6.225" amount="1" refreshtime="-1" desc="官差 钱昔之手下">
+                <position x="14.289" z="-101.188" ay="6.225" WeaponName="b_r_npcitem320" WeaponMode="blade2_1" />
+            </item>
+            <item No="2" id="NpcClone003024" ay="5.750" amount="2" refreshtime="-1" desc="小官差 钱昔之手下">
+                <position x="16.462" z="-102.913" ay="5.750" WeaponName="b_r_npcitem320" WeaponMode="blade1_1" />
+                <position x="12.094" z="-103.958" ay="0.722" WeaponName="b_r_npcitem320" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="F05570453AB2421DAD9CD1CCD81B5FD4" x="81.961" y="28.574" z="56.234" radius="5.0" NpcProgress="5" WakeupRange="16.0" ChaseRange="0.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="NpcClone003004" ay="1.577" amount="3" refreshtime="-1" desc="刀奴 韩似锦手下">
+                <position x="81.986" z="59.997" ay="1.577" WeaponName="b_r_npcitem323" WeaponMode="blade1_1" />
+                <position x="81.989" z="58.002" ay="1.577" WeaponName="b_r_npcitem323" WeaponMode="blade1_1" />
+                <position x="81.992" z="56.001" ay="1.552" WeaponName="b_r_npcitem323" WeaponMode="blade1_1" />
+            </item>
+            <item No="2" id="NpcClone003003" ay="1.557" amount="3" refreshtime="-1" desc="剑奴 韩似锦手下">
+                <position x="82.002" z="58.999" ay="1.557" WeaponName="s_r_npcitem313" WeaponMode="sword1_1" />
+                <position x="81.987" z="57.005" ay="1.577" WeaponName="s_r_npcitem313" WeaponMode="sword1_1" />
+                <position x="82.008" z="54.993" ay="1.567" WeaponName="s_r_npcitem313" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="BF7FD7D63EE44988AF7F683ADF3D4438" x="87.216" y="28.520" z="55.981" radius="5.0" NpcProgress="5" WakeupRange="16.0" ChaseRange="0.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="NpcClone003004" ay="4.697" amount="3" refreshtime="-1" desc="刀奴 韩似锦手下">
+                <position x="88.001" z="55.015" ay="4.697" WeaponName="b_r_npcitem323" WeaponMode="blade1_1" />
+                <position x="88.000" z="57.008" ay="4.727" WeaponName="b_r_npcitem323" WeaponMode="blade1_1" />
+                <position x="87.989" z="58.991" ay="4.727" WeaponName="b_r_npcitem323" WeaponMode="blade1_1" />
+            </item>
+            <item No="2" id="NpcClone003003" ay="4.732" amount="3" refreshtime="-1" desc="剑奴 韩似锦手下">
+                <position x="87.997" z="59.992" ay="4.732" WeaponName="s_r_npcitem313" WeaponMode="sword1_1" />
+                <position x="88.004" z="58.007" ay="4.717" WeaponName="s_r_npcitem313" WeaponMode="sword1_1" />
+                <position x="87.987" z="55.996" ay="4.712" WeaponName="s_r_npcitem313" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="DE3A3797451A4C3D9FE7C95C509BE63A" x="-78.916" y="35.954" z="-36.134" radius="1.0" WakeupRange="16.0" ChaseRange="-1.0" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="BoxClone003002" sx="0.840" sy="0.840" sz="0.840" ay="4.703" amount="1" refreshtime="10" NotPositive="0" desc="火药箱">
+                <position x="-78.866" z="-36.048" sx="0.840" sy="0.840" sz="0.840" ay="4.703" />
+            </item>
+        </creator>
+        <creator No="D3929EE6DD8948F98A8971BAE0EF6654" x="208.669" y="6.353" z="-181.419" radius="3.7" WakeupRange="4.8" ChaseRange="12.0" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="NpcClone003011_01" ay="1.518" amount="1" refreshtime="-1" NotPositive="0" desc="屠杀者 周厉风手下">
+                <position x="208.197" z="-183.046" ay="1.518" />
+            </item>
+            <item No="2" id="NpcClone003014_01" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="追杀者 周厉风手下">
+                <position x="208.344" z="-180.775" ay="-1" />
+            </item>
+        </creator>
+        <creator No="A7BA3AC9FE08469F97D7703B041C6C32" x="224.289" y="5.936" z="-148.243" radius="5.0" WakeupRange="6.0" ChaseRange="12.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="NpcClone003014_02" ay="3.921" amount="1" refreshtime="-1" NotPositive="0" desc="追杀者 周厉风手下">
+                <position x="222.452" z="-148.706" ay="3.921" />
+            </item>
+            <item No="2" id="NpcClone003011_02" ay="4.282" amount="1" refreshtime="-1" NotPositive="0" desc="屠杀者 周厉风手下">
+                <position x="223.995" z="-149.972" ay="4.282" />
+            </item>
+        </creator>
+        <creator No="CE9FB44077934DA281FD1822281327CC" x="198.688" y="6.821" z="-156.836" radius="5.0" WakeupRange="5.3" ChaseRange="11.0" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="NpcClone003011_03" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="屠杀者 周厉风手下">
+                <position x="197.730" z="-156.113" ay="-1" />
+            </item>
+            <item No="2" id="NpcClone003014_03" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="追杀者 周厉风手下">
+                <position x="199.152" z="-157.711" ay="-1" />
+            </item>
+        </creator>
+        <creator No="7AE31079FDEC437BA982EE0784A3E423" x="199.233" y="5.710" z="-127.269" radius="5.0" WakeupRange="5.5" ChaseRange="11.6" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="NpcClone003014_04" ay="3.594" amount="1" refreshtime="-1" NotPositive="0" desc="追杀者 周厉风手下">
+                <position x="197.656" z="-126.005" ay="3.594" />
+            </item>
+            <item No="2" id="NpcClone003011_04" ay="2.793" amount="1" refreshtime="-1" NotPositive="0" desc="屠杀者 周厉风手下">
+                <position x="199.052" z="-127.619" ay="2.793" />
+            </item>
+        </creator>
+        <creator No="D301397C5AC14C64A3A68A6629107968" x="160.058" y="7.161" z="-130.587" radius="5.0" WakeupRange="5.5" ChaseRange="13.4" PatrolRange="-1.0" HateLink="1">
+            <item No="1" id="NpcClone003014_05" ay="0.822" amount="1" refreshtime="-1" NotPositive="0" desc="追杀者 周厉风手下">
+                <position x="160.890" z="-131.357" ay="0.822" />
+            </item>
+            <item No="2" id="NpcClone003011_05" ay="0.240" amount="1" refreshtime="-1" NotPositive="0" desc="屠杀者 周厉风手下">
+                <position x="159.044" z="-129.859" ay="0.240" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

@@ -1,0 +1,49 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	Plot	Title	Step	SearchID	Line	AcceptNpc	SubmitNpc	SceneID	AcceptSceneID	SubmitSceneID	AutoAcceptID	AutoSubmit	PreTaskLimit	NextTaskLimit	NotShowMenu	Relation	LuckValue	AcceptLimit	SubmitLimit	AcceptDecMoney	SubFunction	TaskItemList	RefreshMonster	TimeLimitLength	SubmitNpcEx	TaskScript	TitleId	ContextId	AcceptDialogId	CompleteDialogId	UnCompleteDialogId	TaskTargetId	TrackInfoID	LineNextInfo	CanAcceptMenu	UncompleteMenu	CompleteMenu	AcceptMovie	SubmitMovie	DramaAccept	DramaSubmit	CanGiveup	ShareType	RepeatType	RepeatPeriod	CountDayLimit	NeedVip	TimeLimitLenghtEx	ReputationLimit	AcceptReputationLimit	TiaozhanTime	ConditionPrize
+75501				s1760101	25	NPC_2020jq_001			16		75502	1		75502				120165									title_75501	context_75501	accept_75501_1;menu_75501_1	complete_75501;submit_75501		target_75501		next_75501	CanAcceptMenu_75501		CompleteMenu_75501		10067			0	0	0								
+75502				s1760101	25						75503	1	75501	75503													title_75502	context_75502				target_75502		next_75502					10061			0	0	0	0	0						
+75503				s1760101	25						75504	1	75502	75504													title_75503	context_75503				target_75503		next_75503								0	0	0	0	0						
+75504				s1760101	25		NPC_2020jq_002		16	16	75505		75503	75505													title_75504	context_75504		complete_75504;submit_75504		target_75504		next_75504			CompleteMenu_75504		10062			0	0	0	0	0						
+75505				s1760101	25		NPC_2020jq_002			16	75506		75504	75506													title_75505	context_75505		complete_75505;submit_75505		target_75505		next_75505			CompleteMenu_75505					0	0	0	0	0						
+75506				s1760201	25						75507	1	75505	75507													title_75506	context_75506				target_75506		next_75506								0	0	0	0	0						
+75507				s1760201	25						75508	1	75506	75508													title_75507	context_75507				target_75507		next_75507								0	0	0	0	0						
+75508				s1760201	25					14	75509	1	75507	75509													title_75508	context_75508				target_75508		next_75508								0	0	0	0	0						
+75509				s1760201	25						75510	1	75508	75510													title_75509	context_75509				target_75509		next_75509								0	0	0	0	0						
+75510				s1760201	25						75511	1	75509	75511													title_75510	context_75510				target_75510		next_75510								0	0	0								
+75511				s1760201	25						75512	1	75510	75512													title_75511	context_75511				target_75511		next_75511								0	0	0	0	0						
+75512				s1760201	25						75513	1	75511	75513													title_75512	context_75512				target_75512		next_75512								0	0	0								
+75513				s1760201	25	NPC_2020jq_012	NPC_2020jq_007		14	14	75514		75512	75514								75503;75504;75505					title_75513	context_75513	accept_75513_1;menu_75513_1	complete_75513;submit_75513		target_75513		next_75513	CanAcceptMenu_75513		CompleteMenu_75513					0	0	0	0	0						
+75514				s1760201	25		NPC_2020jq_014			14	75515		75513	75515													title_75514	context_75514		complete_75514;submit_75514		target_75514		next_75514			CompleteMenu_75514					0	0	0								
+75515				s1760301	25		NPC_2020jq_006			16	75516	1	75514	75516								75501;75502					title_75515	context_75515				target_75515		next_75515								0	0	0								
+75516				s1760301	25					16	75517	1	75515	75517													title_75516	context_75516				target_75516		next_75516								0	0	0								
+75517				s1760301	25						75518	1	75516	75518													title_75517	context_75517				target_75517		next_75517								0	0	0								
+75518				s1760301	25						75519	1	75517	75519													title_75518	context_75518				target_75518		next_75518								0	0	0								
+75519				s1760301	25						75520	1	75518	75520													title_75519	context_75519				target_75519		next_75519					10066			0	0	0	0	0						
+75520				s1760301	25						75521	1	75519	75521													title_75520	context_75520				target_75520		next_75520					10073			0	0	0								
+75521				s1760301	25		WorldNpc01194			14			75520	75522													title_75521	context_75521		complete_75521;submit_75521		target_75521		next_75521			CompleteMenu_75521					0	0	0								120650|74461|0|0|0
+75522				s1760401	25	WorldNpc01194			14		75523	1	75521	75523				119131									title_75522	context_75522	accept_75522_1;menu_75522_1			target_75522		next_75522	CanAcceptMenu_75522							0	0	0	0	0						
+75523				s1760401	25	WorldNpc01194					75524	1	75522	75524													title_75523	context_75523	accept_75523_1;menu_75523_1			target_75523		next_75523	CanAcceptMenu_75523							0	0	0	0	0						
+75524				s1760401	25		WorldNpc09081			13	75525		75523	75525													title_75524	context_75524		complete_75524;submit_75524		target_75524		next_75524			CompleteMenu_75524					0	0	0	0	0						
+75525				s1760402	25						75526	1	75524	75526													title_75525	context_75525				target_75525		next_75525								0	0	0	0	0						
+75526				s1760402	25	worldnpczybsy_jq_006			13		75527	1	75525	75527													title_75526	context_75526	accept_75526_1;menu_75526_1			target_75526		next_75526	CanAcceptMenu_75526				10086			0	0	0								
+75527				s1760402	25						75528	1	75526	75528													title_75527	context_75527				target_75527		next_75527								0	0	0								
+75528				s1760402	25						75529	1	75527	75529													title_75528	context_75528				target_75528		next_75528					10088			0	0	0								
+75529				s1760403	25						75530	1	75528	75530													title_75529	context_75529				target_75529		next_75529								0	0	0								
+75530				s1760403	25	worldnpczybsy_jq_012			13		75531	1	75529	75531													title_75530	context_75530	accept_75530_1;menu_75530_1			target_75530		next_75530	CanAcceptMenu_75530							0	0	0	0	0						
+75531				s1760403	25		worldnpczybsy_jq_013			13	75532		75530	75532											SubmitNpcEx_75531		title_75531	context_75531		complete_75531;submit_75531		target_75531		next_75531			CompleteMenu_75531		10090			0	0	0								
+75532				s1760403	25						75533	1	75531	75533													title_75532	context_75532				target_75532		next_75532					10089			0	0	0	0	0						
+75533				s1760404	25						75534	1	75532	75534													title_75533	context_75533				target_75533		next_75533								0	0	0	0	0						
+75534				s1760404	25		worldnpczybsy_jq_006			13			75533														title_75534	context_75534		complete_75534;submit_75534		target_75534		next_75534			CompleteMenu_75534					0	0	0	0	0						
+75535				s1760501	10	WorldNpc00212	WorldNpc00212		12	12								120312;119002									title_75535	context_75535	accept_75535_1;menu_75535_1	complete_75535;submit_75535		target_75535		next_75535	CanAcceptMenu_75535		CompleteMenu_75535					0	0	0								
+75536				s1760501	10	WorldNpc04401	WorldNpc04401		11	11								120313;119002									title_75536	context_75536	accept_75536_1;menu_75536_1	complete_75536;submit_75536		target_75536		next_75536	CanAcceptMenu_75536		CompleteMenu_75536					0	0	0	0	0						
+75537				s1760501	10	WorldNpc02604	WorldNpc02604		10	10								120314;119002									title_75537	context_75537	accept_75537_1;menu_75537_1	complete_75537;submit_75537		target_75537		next_75537	CanAcceptMenu_75537		CompleteMenu_75537					0	0	0	0	0						
+75538				s1760501	10	WorldNpc03003	WorldNpc03003		6	6								120316;119002									title_75538	context_75538	accept_75538_1;menu_75538_1	complete_75538;submit_75538		target_75538		next_75538	CanAcceptMenu_75538		CompleteMenu_75538					0	0	0	0	0						
+75539				s1760501	10	worldnpc04101	worldnpc04101		5	5								120317;119002									title_75539	context_75539	accept_75539_1;menu_75539_1	complete_75539;submit_75539		target_75539		next_75539	CanAcceptMenu_75539		CompleteMenu_75539					0	0	0	0	0						
+75540				s1760501	10	WorldNpc03305	WorldNpc03305		7	7								120315;119002									title_75540	context_75540	accept_75540_1;menu_75540_1	complete_75540;submit_75540		target_75540		next_75540	CanAcceptMenu_75540		CompleteMenu_75540					0	0	0	0	0						
+75541				s1760501	10	WorldNpc03816	WorldNpc03816		8	8								120318;119002									title_75541	context_75541	accept_75541_1;menu_75541_1	complete_75541;submit_75541		target_75541		next_75541	CanAcceptMenu_75541		CompleteMenu_75541					0	0	0	0	0						
+75542				s1760501	10	WorldNpc02201	WorldNpc02201		9	9								120319;119002									title_75542	context_75542	accept_75542_1;menu_75542_1	complete_75542;submit_75542		target_75542		next_75542	CanAcceptMenu_75542		CompleteMenu_75542					0	0	0	0	0						
+75543				s1760501	10	newmp_mj_001	newmp_mj_001		769	769								120320;119002									title_75543	context_75543	accept_75543_1;menu_75543_1	complete_75543;submit_75543		target_75543		next_75543	CanAcceptMenu_75543		CompleteMenu_75543					0	0	0	0	0						
+75544				s1760501	10	newmp_tsp_001	newmp_tsp_001		832	832								120321;119002									title_75544	context_75544	accept_75544_1;menu_75544_1	complete_75544;submit_75544		target_75544		next_75544	CanAcceptMenu_75544		CompleteMenu_75544					0	0	0								
+75545				s1760501	10	newmp_kl_001	newmp_kl_001		448	448								120322;119002									title_75545	context_75545	accept_75545_1;menu_75545_1	complete_75545;submit_75545		target_75545		next_75545	CanAcceptMenu_75545		CompleteMenu_75545					0	0	0								
+75546				s1760501	10	newmp_xingtb_001	newmp_xingtb_001		1036	1036								120959;119002							SubmitNpcEx_75546		title_75546	context_75546	accept_75546_1;menu_75546_1	complete_75546;submit_75546		target_75546			CanAcceptMenu_75546		CompleteMenu_75546					0	0	0	0	0						
+75547				s1760501	10	newmp_wx_001	newmp_wx_001		1189	1189								122098;119002							SubmitNpcEx_75547		title_75547	context_75547	accept_75547_1;menu_75547_1	complete_75547;submit_75547		target_75547			CanAcceptMenu_75547		CompleteMenu_75547					0	0	0	0	0						

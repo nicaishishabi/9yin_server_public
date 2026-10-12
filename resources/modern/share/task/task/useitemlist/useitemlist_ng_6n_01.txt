@@ -1,0 +1,6 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	ItemID	ProCount	AddPro	TrackInfoID	DeleteSelf	LockTarget	Radius	SceneID	Water	AddItems	DeleteItems	TargetConfig	TaskID	BufferID
+61001	item_yxy_6n_001	1	1	useiteminfo_61001	0		5	16	0			eventnpc_6n_yxy_005	61036	buf_6n_yxy_hz_1
+61002	useitem_qynew_dy_02	1	1	useiteminfo_61002				1					71080	buf_qynew_dy_02
+61004	useitem_qynew_dy_05	1	1	useiteminfo_61004	1			14						
+61003	useitem_qynew_dy_04	1	1	useiteminfo_61003				1	0	item_qynew_dy_02			71082	

@@ -1,0 +1,217 @@
+NPC编号	对象类型	名称	模型编号	头像	类型	响应范围	选择操作分类	脚本编号	交互家具类型	交互动作	交互家具最大使用次数	持续时间(min)	开始buffer	开始buffer_正太萝莉	奖励buffer1	奖励buffer2	NPC种类ID	玩家角度偏移	玩家坐标偏移	回复房屋耐久	家具使用条件	光源Buff	增加华丽度	玩家使用cd buffer	最大同时使用人数	存在时间(毫秒)	风水值	检索范围	最多有效风水家具数量	家具关系	AI编辑包	家具CD	共用绑定点	共用类型	NPC优先显示	NPC交互一	NPC交互二	NPC多重交互	灯的状态	家具绿圈隐藏	出生状态	家具新冷却
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	string	STRING
+ID	script	Name	Resource	Photo	NpcType	SpringRange	SelectState	LuaScript	InterFurnType	InterAction	MaxUseCount	InUsingTime	StartBufferID	StartBufferID_New	FirAwardBufferID	SecAwardBufferID	CKindID	OffsetO	Offset	RepairNum	UseCondition	EffectBuffer	pretty	PlayerCDBufferID	MaxPlayerCount	LifeTime	fengshui	relationrange	maxcheckcount	furnituretype	AIEditorPackID	CoolDownTime	table@ShareFurnBindRec	ShareType	RefreshAtonce	FirstSelect	SecondSelect	MoreInter	LightState	HideDecal	table@BornActionRec	UseCoolDownBigID
+interfurn1	InterFurnNpc	交互家具	npc\fbnpc00009	icon\funcnpc\cj_040001.png	333	5	2		4	life_ys_01		1	buf_CS_jh_tlq03		buf_CS_jh_tlq03	buf_CS_jh_tlq03																								1		
+																																										
+																																										
+home_xiulian_putuan_001	InterFurnNpc	蒲团-1	npc\itemnpc909	icon\funcnpc\cj_040001.png	333	5	2		0	ng_state_1		1	buf_jj_tongyong	buf_jj_tongyong	buf_jj_pt_001_bf	buf_jj_pt_001_1_bf					27148		5	buf_jj_not_pt	1		1	2	6	4		6								1		624
+home_xiulian_putuan_002	InterFurnNpc	蒲团-2	npc\itemnpc910	icon\funcnpc\cj_040001.png	333	5	2		0	ng_state_1		1	buf_jj_tongyong	buf_jj_tongyong	buf_jj_pt_002_bf	buf_jj_pt_002_1_bf					27148		20	buf_jj_not_pt	1		2	2	6	4		6								1		624
+home_xiulian_putuan_003	InterFurnNpc	蒲团-3	npc\itemnpc911	icon\funcnpc\cj_040001.png	333	5	2		0	ng_state_1		1	buf_jj_tongyong	buf_jj_tongyong	buf_jj_pt_003_bf	buf_jj_pt_003_1_bf					27148		40	buf_jj_not_pt	1		3	2	6	4		6								1		624
+home_xiulian_putuan_004	InterFurnNpc	蒲团-4	npc\itemnpc912	icon\funcnpc\cj_040001.png	333	5	2		0	ng_state_1		1	buf_jj_tongyong	buf_jj_tongyong	buf_jj_pt_004_bf	buf_jj_pt_004_1_bf					27148		70	buf_jj_not_pt	1		4	2	6	4		6								1		624
+home_xiulian_putuan_005	InterFurnNpc	蒲团-5	npc\itemnpc913	icon\funcnpc\cj_040001.png	333	5	2		0	ng_state_1		1	buf_jj_tongyong	buf_jj_tongyong	buf_jj_pt_005_bf	buf_jj_pt_005_1_bf					27148		120	buf_jj_not_pt	1		5	2	6	4		6								1		624
+home_xiulian_putuan_006	InterFurnNpc	蒲团-6	npc\itemnpc914	icon\funcnpc\cj_040001.png	333	5	2		0	ng_state_1		1	buf_jj_tongyong	buf_jj_tongyong	buf_jj_pt_006_bf	buf_jj_pt_006_1_bf					27148		200	buf_jj_not_pt	1		6	2	6	4		6								1		624
+																																										
+																																										
+home_xiulian_yuchi_mu_001	InterFurnNpc	浴桶-1	npc\itemnpc921	icon\funcnpc\cj_040001.png	333	5	2		1	interact471		1	buf_jj_using_yt	buf_jj_using_yt_new				1.5			27148		5	buf_jj_not_yt	1		1	3	3	5	3149									1		
+home_xiulian_yuchi_mu_002	InterFurnNpc	浴桶-2	npc\itemnpc922	icon\funcnpc\cj_040001.png	333	5	2		1	interact471		1	buf_jj_using_yt	buf_jj_using_yt_new				-1.6			27148		20	buf_jj_not_yt	1		2	3	3	5	3149									1		
+home_xiulian_yuchi_mu_003	InterFurnNpc	浴桶-3	npc\itemnpc923	icon\funcnpc\cj_040001.png	333	5	2		1	interact471		1	buf_jj_using_yt	buf_jj_using_yt_new				-1.6			27148		40	buf_jj_not_yt	1		3	3	3	5	3149									1		
+home_xiulian_yuchi_shi_001	InterFurnNpc	浴桶-1	npc\itemnpc924	icon\funcnpc\cj_040001.png	333	5	2		1	interact471		1	buf_jj_using_yt_c	buf_jj_using_yt_new_1				1.5			27148		5	buf_jj_not_yt	1		1	3	3	5	3149									1		
+home_xiulian_yuchi_shi_002	InterFurnNpc	浴桶-2	npc\itemnpc925	icon\funcnpc\cj_040001.png	333	5	2		1	interact471		1	buf_jj_using_yt_c	buf_jj_using_yt_new_1				1.5			27148		20	buf_jj_not_yt	1		2	3	3	5	3149									1		
+home_xiulian_yuchi_shi_003	InterFurnNpc	浴桶-3	npc\itemnpc926	icon\funcnpc\cj_040001.png	333	5	2		1	interact471		1	buf_jj_using_yt_c	buf_jj_using_yt_new_1				1.5			27148		40	buf_jj_not_yt	1		3	3	3	5	3149									1		
+home_xiulian_yuchi_mu_gg	CommonNpc	浴桶-客栈	npc\npcitem911	icon\funcnpc\cj_040001.png	333	5	2		1	interact471		1	buf_jj_using_yt	buf_jj_using_yt_new				-1.6			27148			buf_jj_not_yt_gg	9999						3149									1		
+																																										
+home_xiulian_yanxi_001	InterFurnNpc	宴席-1	npc\itemnpc710		333	5	2		6	life_chi_01	8	1	buf_jj_ty_chair	buf_jj_ty_chair_new	buf_yanxi_01	buf_yanxi_01		0	1.1		27148			buf_jj_not_yx	4															1		625
+home_xiulian_yanxi_002	InterFurnNpc	宴席-2	npc\itemnpc713		333	5	2		6	life_chi_01	8	1	buf_jj_ty_chair	buf_jj_ty_chair_new	buf_yanxi_02	buf_yanxi_02		0	1.1		27148			buf_jj_not_yx	4															1		625
+home_xiulian_yanxi_003	InterFurnNpc	宴席-3	npc\itemnpc716		333	5	2		6	life_chi_01	8	1	buf_jj_ty_chair	buf_jj_ty_chair_new	buf_yanxi_03	buf_yanxi_03		0	1.1		27148			buf_jj_not_yx	4															1		625
+home_xiulian_yanxi_yt	InterFurnNpc	团圆宴	npc\itemnpc716		333	5	2		6	life_chi_01	9999	1	buf_jj_ty_chair	buf_jj_ty_chair_new	buf_jj_tyy	buf_jj_tyy		0	1.1		28426				4	1800000									1					1		
+																																										
+home_chuang_mu_001	InterFurnNpc	木床-1	npc\itemnpc927	icon\funcnpc\cj_040001.png	333	5	2		2	interact472		1	buf_jj_using_bed	buf_jj_using_bed	buf_jj_yt_001_bf	buf_jj_yt_001_1_bf		1.57			27148		5	buf_jj_not_bed	1		1	4	3	6		6								1		626
+home_chuang_mu_002	InterFurnNpc	木床-2	npc\itemnpc928	icon\funcnpc\cj_040001.png	333	5	2		2	interact472		1	buf_jj_using_bed	buf_jj_using_bed	buf_jj_yt_002_bf	buf_jj_yt_002_1_bf		1.57			27148		20	buf_jj_not_bed	1		2	4	3	6		6								1		626
+home_chuang_mu_003	InterFurnNpc	木床-3	npc\itemnpc929	icon\funcnpc\cj_040001.png	333	5	2		2	interact472		1	buf_jj_using_bed	buf_jj_using_bed	buf_jj_yt_003_bf	buf_jj_yt_003_1_bf		1.57			27148		40	buf_jj_not_bed	1		3	4	3	6		6								1		626
+home_chuang_mu_004	InterFurnNpc	木床-4	npc\itemnpc930	icon\funcnpc\cj_040001.png	333	5	2		2	interact472		1	buf_jj_using_bed	buf_jj_using_bed	buf_jj_yt_004_bf	buf_jj_yt_004_1_bf		1.57			27148		70	buf_jj_not_bed	1		4	4	3	6		6								1		626
+home_chuang_mu_005	InterFurnNpc	木床-5	npc\itemnpc932	icon\funcnpc\cj_040001.png	333	5	2		2	interact472		1	buf_jj_using_bed	buf_jj_using_bed	buf_jj_yt_005_bf	buf_jj_yt_005_1_bf		1.57			27148		120	buf_jj_not_bed	1		5	4	3	6		6								1		626
+home_chuang_mu_006	InterFurnNpc	木床-6	npc\itemnpc933	icon\funcnpc\cj_040001.png	333	5	2		2	interact472		1	buf_jj_using_bed	buf_jj_using_bed	buf_jj_yt_006_bf	buf_jj_yt_006_1_bf		1.57			27148		200	buf_jj_not_bed	1		6	4	3	6		6								1		626
+																																										
+																																										
+home_chuang_zhu_001	InterFurnNpc	竹床-1	npc\itemnpc934	icon\funcnpc\cj_040001.png	333	5	2		2	interact472		1	buf_jj_using_bed	buf_jj_using_bed	buf_jj_yt_001_bf	buf_jj_yt_001_1_bf		1.57			27148		5	buf_jj_not_bed	1		1	4	3	6		6								1		626
+home_chuang_zhu_002	InterFurnNpc	竹床-2	npc\itemnpc935	icon\funcnpc\cj_040001.png	333	5	2		2	interact472		1	buf_jj_using_bed	buf_jj_using_bed	buf_jj_yt_002_bf	buf_jj_yt_002_1_bf		-1.57			27148		20	buf_jj_not_bed	1		2	4	3	6		6								1		626
+home_chuang_zhu_003	InterFurnNpc	竹床-3	npc\itemnpc936	icon\funcnpc\cj_040001.png	333	5	2		2	interact472		1	buf_jj_using_bed	buf_jj_using_bed	buf_jj_yt_003_bf	buf_jj_yt_003_1_bf		-1.57			27148		40	buf_jj_not_bed	1		3	4	3	6		6								1		626
+home_chuang_zhu_004	InterFurnNpc	竹床-4	npc\itemnpc937	icon\funcnpc\cj_040001.png	333	5	2		2	interact472		1	buf_jj_using_bed	buf_jj_using_bed	buf_jj_yt_004_bf	buf_jj_yt_004_1_bf		-1.57			27148		70	buf_jj_not_bed	1		4	4	3	6		6								1		626
+home_chuang_zhu_005	InterFurnNpc	竹床-5	npc\itemnpc938	icon\funcnpc\cj_040001.png	333	5	2		2	interact472		1	buf_jj_using_bed	buf_jj_using_bed	buf_jj_yt_005_bf	buf_jj_yt_005_1_bf		-1.57			27148		120	buf_jj_not_bed	1		5	4	3	6		6								1		626
+home_chuang_zhu_006	InterFurnNpc	竹床-6	npc\itemnpc939	icon\funcnpc\cj_040001.png	333	5	2		2	interact472		1	buf_jj_using_bed	buf_jj_using_bed	buf_jj_yt_006_bf	buf_jj_yt_006_1_bf		-1.57			27148		200	buf_jj_not_bed	1		6	4	3	6		6								1		626
+																																										
+																																										
+home_chuang_shi_001	InterFurnNpc	石床-1	npc\itemnpc940	icon\funcnpc\cj_040001.png	333	5	2		2	interact472		1	buf_jj_using_bed	buf_jj_using_bed	buf_jj_yt_001_bf	buf_jj_yt_001_1_bf					27148		5	buf_jj_not_bed	1		1	4	3	6		6								1		626
+home_chuang_shi_002	InterFurnNpc	石床-2	npc\itemnpc941	icon\funcnpc\cj_040001.png	333	5	2		2	interact472		1	buf_jj_using_bed	buf_jj_using_bed	buf_jj_yt_002_bf	buf_jj_yt_002_1_bf					27148		20	buf_jj_not_bed	1		2	4	3	6		6								1		626
+home_chuang_shi_003	InterFurnNpc	石床-3	npc\itemnpc942	icon\funcnpc\cj_040001.png	333	5	2		2	interact472		1	buf_jj_using_bed	buf_jj_using_bed	buf_jj_yt_003_bf	buf_jj_yt_003_1_bf					27148		40	buf_jj_not_bed	1		3	4	3	6		6								1		626
+home_chuang_shi_004	InterFurnNpc	石床-4	npc\itemnpc943	icon\funcnpc\cj_040001.png	333	5	2		2	interact472		1	buf_jj_using_bed	buf_jj_using_bed	buf_jj_yt_004_bf	buf_jj_yt_004_1_bf					27148		70	buf_jj_not_bed	1		4	4	3	6		6								1		626
+home_chuang_shi_005	InterFurnNpc	石床-5	npc\itemnpc944	icon\funcnpc\cj_040001.png	333	5	2		2	interact472		1	buf_jj_using_bed	buf_jj_using_bed	buf_jj_yt_005_bf	buf_jj_yt_005_1_bf					27148		120	buf_jj_not_bed	1		5	4	3	6		6								1		626
+home_chuang_shi_006	InterFurnNpc	石床-6	npc\itemnpc945	icon\funcnpc\cj_040001.png	333	5	2		2	interact472		1	buf_jj_using_bed	buf_jj_using_bed	buf_jj_yt_006_bf	buf_jj_yt_006_1_bf					27148		200	buf_jj_not_bed	1		6	4	3	6		6								1		626
+																																										
+																																										
+home_light_mu_001	InterFurnNpc	照明木-1	npc\itemnpc960	icon\funcnpc\cj_040001.png	333	10	2		3			1									27148	buf_jj_light_mu_1	5		1		1	2	6	7										1		
+home_light_mu_002	InterFurnNpc	照明木-2	npc\itemnpc961	icon\funcnpc\cj_040001.png	333	10	2		3			1									27148	buf_jj_light_mu_2	20		1		2	2	6	7										1		
+home_light_mu_003	InterFurnNpc	照明木-3	npc\itemnpc962	icon\funcnpc\cj_040001.png	333	10	2		3			1									27148	buf_jj_light_mu_3	40		1		3	2	6	7										1		
+home_light_mu_004	InterFurnNpc	照明木-4	npc\itemnpc963	icon\funcnpc\cj_040001.png	333	10	2		3			1									27148	buf_jj_light_mu_4	70		1		4	2	6	7										1		
+home_light_mu_005	InterFurnNpc	照明木-5	npc\itemnpc964	icon\funcnpc\cj_040001.png	333	10	2		3			1									27148	buf_jj_light_mu_5	120		1		5	2	6	7										1		
+																																										
+																																										
+home_light_zhu_001	InterFurnNpc	照明竹-1	npc\itemnpc972	icon\funcnpc\cj_040001.png	333	10	2		3			1									27148	buf_jj_light_zhu_1	5		1		1	2	6	7										1		
+home_light_zhu_002	InterFurnNpc	照明竹-2	npc\itemnpc973	icon\funcnpc\cj_040001.png	333	10	2		3			1									27148	buf_jj_light_zhu_2	20		1		2	2	6	7										1		
+home_light_zhu_003	InterFurnNpc	照明竹-3	npc\itemnpc974	icon\funcnpc\cj_040001.png	333	10	2		3			1									27148	buf_jj_light_zhu_3	40		1		3	2	6	7										1		
+home_light_zhu_004	InterFurnNpc	照明竹-4	npc\itemnpc975	icon\funcnpc\cj_040001.png	333	10	2		3			1									27148	buf_jj_light_zhu_4	70		1		4	2	6	7										1		
+home_light_zhu_005	InterFurnNpc	照明竹-5	npc\itemnpc976	icon\funcnpc\cj_040001.png	333	10	2		3			1									27148	buf_jj_light_zhu_5	120		1		5	2	6	7										1		
+home_light_zhu_006	InterFurnNpc	照明竹-6	npc\itemnpc977	icon\funcnpc\cj_040001.png	333	10	2		3			1									27148	buf_jj_light_zhu_6	200		1		6	2	6	7										1		
+																																										
+																																										
+home_light_shi_001	InterFurnNpc	照明石-1	npc\itemnpc967	icon\funcnpc\cj_040001.png	333	10	2		3			1									27148	buf_jj_light_shi_2	5		1		2	2	6	7										1		
+home_light_shi_002	InterFurnNpc	照明石-2	npc\itemnpc968	icon\funcnpc\cj_040001.png	333	10	2		3			1									27148	buf_jj_light_shi_3	20		1		3	2	6	7										1		
+home_light_shi_003	InterFurnNpc	照明石-3	npc\itemnpc969	icon\funcnpc\cj_040001.png	333	10	2		3			1									27148	buf_jj_light_shi_4	40		1		4	2	6	7										1		
+home_light_shi_004	InterFurnNpc	照明石-4	npc\itemnpc970	icon\funcnpc\cj_040001.png	333	10	2		3			1									27148	buf_jj_light_shi_5	70		1		5	2	6	7										1		
+home_light_shi_005	InterFurnNpc	照明石-5	npc\itemnpc971	icon\funcnpc\cj_040001.png	333	10	2		3			1									27148	buf_jj_light_shi_6	120		1		6	2	6	7										1		
+																																										
+																																										
+home_clean_saoba_001	InterFurnNpc	扫把-1	npc\itemnpc978	icon\funcnpc\cj_040001.png	333	5	2		4	life_ys_01		1	buf_jj_tongyong	buf_jj_tongyong						1	27148				1															1		
+home_clean_saoba_002	InterFurnNpc	扫把-2	npc\itemnpc979	icon\funcnpc\cj_040001.png	333	5	2		4	life_ys_01		1	buf_jj_tongyong	buf_jj_tongyong						1	27148				1															1		
+home_clean_saoba_003	InterFurnNpc	扫把-3	npc\itemnpc980	icon\funcnpc\cj_040001.png	333	5	2		4	life_ys_01		1	buf_jj_tongyong	buf_jj_tongyong						1	27148				1															1		
+home_clean_saoba_004	InterFurnNpc	扫把-4	npc\itemnpc981	icon\funcnpc\cj_040001.png	333	5	2		4	life_ys_01		1	buf_jj_tongyong	buf_jj_tongyong						1	27148				1															1		
+home_clean_saoba_005	InterFurnNpc	扫把-5	npc\itemnpc982	icon\funcnpc\cj_040001.png	333	5	2		4	life_ys_01		1	buf_jj_tongyong	buf_jj_tongyong						1	27148				1															1		
+home_clean_saoba_006	InterFurnNpc	扫把-6	npc\itemnpc983	icon\funcnpc\cj_040001.png	333	5	2		4	life_ys_01		1	buf_jj_tongyong	buf_jj_tongyong						1	27148				1															1		
+																																										
+																																										
+home_yi_mu_001	InterFurnNpc	椅木-1	npc\itemnpc1184	icon\funcnpc\cj_040001.png	333	5	2		5	sitdownchairloop		1	buf_jj_ty_chair	buf_jj_ty_chair_new	buf_jj_chair_001	buf_jj_chair_001_1			0		27148		5	buf_jj_not_chair	1		1	2	6	13		6								1		627
+home_yi_mu_002	InterFurnNpc	椅木-2	npc\itemnpc1186	icon\funcnpc\cj_040001.png	333	5	2		5	sitdownchairloop		1	buf_jj_ty_chair	buf_jj_ty_chair_new	buf_jj_chair_002	buf_jj_chair_002_1			0		27148		20	buf_jj_not_chair	1		2	2	6	13		6								1		627
+home_yi_mu_003	InterFurnNpc	椅木-3	npc\itemnpc1187	icon\funcnpc\cj_040001.png	333	5	2		5	sitdownchairloop		1	buf_jj_ty_chair	buf_jj_ty_chair_new	buf_jj_chair_003	buf_jj_chair_003_1			0		27148		40	buf_jj_not_chair	1		3	2	6	13		6								1		627
+home_yi_mu_004	InterFurnNpc	椅木-4	npc\itemnpc1188	icon\funcnpc\cj_040001.png	333	5	2		5	sitdownchairloop		1	buf_jj_ty_chair	buf_jj_ty_chair_new	buf_jj_chair_004	buf_jj_chair_004_1		3.14	0		27148		70	buf_jj_not_chair	1		4	2	6	13		6								1		627
+home_yi_mu_005	InterFurnNpc	椅木-5	npc\itemnpc1190	icon\funcnpc\cj_040001.png	333	5	2		5	sitdownchairloop		1	buf_jj_ty_chair	buf_jj_ty_chair_new	buf_jj_chair_005	buf_jj_chair_005_1			0		27148		120	buf_jj_not_chair	1		5	2	6	13		6								1		627
+home_yi_mu_006	InterFurnNpc	椅木-6	npc\itemnpc1191	icon\funcnpc\cj_040001.png	333	5	2		5	sitdownchairloop		1	buf_jj_ty_chair_mu6	buf_jj_ty_chair_mu6_new	buf_jj_chair_006	buf_jj_chair_006_1			0		27148		200	buf_jj_not_chair	1		6	2	6	13		6								1		627
+																																										
+home_yi_zhu_001	InterFurnNpc	椅竹-1	npc\itemnpc1192	icon\funcnpc\cj_040001.png	333	5	2		5	sitdownchairloop		1	buf_jj_ty_chair	buf_jj_ty_chair_new	buf_jj_chair_001	buf_jj_chair_001_1			0.1		27148		5	buf_jj_not_chair	1		1	2	6	13		6								1		627
+home_yi_zhu_002	InterFurnNpc	椅竹-2	npc\itemnpc1193	icon\funcnpc\cj_040001.png	333	5	2		5	sitdownchairloop		1	buf_jj_ty_chair	buf_jj_ty_chair_new	buf_jj_chair_002	buf_jj_chair_002_1			0		27148		20	buf_jj_not_chair	1		2	2	6	13		6								1		627
+home_yi_zhu_003	InterFurnNpc	椅竹-3	npc\itemnpc1194	icon\funcnpc\cj_040001.png	333	5	2		5	sitdownchairloop		1	buf_jj_ty_chair	buf_jj_ty_chair_new	buf_jj_chair_003	buf_jj_chair_003_1			0.1		27148		40	buf_jj_not_chair	1		3	2	6	13		6								1		627
+home_yi_zhu_004	InterFurnNpc	椅竹-4	npc\itemnpc1195	icon\funcnpc\cj_040001.png	333	5	2		5	sitdownchairloop		1	buf_jj_ty_chair	buf_jj_ty_chair_new	buf_jj_chair_004	buf_jj_chair_004_1			0.1		27148		70	buf_jj_not_chair	1		4	2	6	13		6								1		627
+																																										
+home_yi_shi_001	InterFurnNpc	椅石-1	npc\itemnpc1197	icon\funcnpc\cj_040001.png	333	5	2		5	sitdownchairloop		1	buf_jj_ty_chair	buf_jj_ty_chair_new	buf_jj_chair_001	buf_jj_chair_001_1			0		27148		5	buf_jj_not_chair	1		1	2	6	13		6								1		627
+home_yi_shi_002	InterFurnNpc	椅石-2	npc\itemnpc1198	icon\funcnpc\cj_040001.png	333	5	2		5	sitdownchairloop		1	buf_jj_ty_chair	buf_jj_ty_chair_new	buf_jj_chair_002	buf_jj_chair_002_1			0		27148		20	buf_jj_not_chair	1		2	2	6	13		6								1		627
+																																										
+//圣诞家具																																										
+home_chuang_sd_001	ShareFurnitureNpc	雪橇床	npc\npcitem907	icon\funcnpc\cj_040001.png	333	5	2		7			1			buf_jj_yt_006_bf	buf_jj_yt_006_1_bf					27148		200	buf_jj_not_bed	1		6	4	4	6		6	"1,Point01,interact546,buf_jj_using_bed,,interact546;2,Point02,interact547,buf_jj_using_bed,,interact546;"	2						1		626
+home_light_sd_001	InterFurnNpc	麋鹿灯	npc\npcitem908	icon\funcnpc\cj_040001.png	333	10	2		3			1									27148	buf_jj_light_sd_1	200		1		5	2	7	7										1		
+home_light_sd_002	InterFurnNpc	南瓜灯	npc\npcitem909	icon\funcnpc\cj_040001.png	333	10	2		3			1									27148	buf_jj_light_sd_2	200		1		5	2	7	7										1		
+home_xiulian_yuchi_sd_001	ShareFurnitureNpc	浴桶	npc\npcitem911	icon\funcnpc\cj_040001.png	333	5	2		8			1									27148		200	buf_jj_not_yt	1		6	4	4	5	3149	1	"1,Point01,interact550,buf_jj_using_yt,,interact550;2,Point02,interact545,buf_jj_using_yt_fs,,interact545;"							1		
+home_yi_sd_001	InterFurnNpc	椅子	npc\npcitem915	icon\funcnpc\cj_040001.png	333	5	2		5	sitdownchairloop		1	buf_jj_ty_chair	buf_jj_ty_chair_new	buf_jj_chair_006	buf_jj_chair_006_1			0		27148		200	buf_jj_not_chair	1		6	4	7	13		6								1		627
+home_yi_sd_002	InterFurnNpc	椅子	npc\npcitem919	icon\funcnpc\cj_040001.png	333	5	2		5	sitdownchairloop		1	buf_jj_ty_chair	buf_jj_ty_chair_new	buf_jj_chair_006	buf_jj_chair_006_1			0		27148		200	buf_jj_not_chair	1		6	4	7	13		6								1		627
+home_yi_sd_003	InterFurnNpc	椅子	npc\npcitem920	icon\funcnpc\cj_040001.png	333	5	2		5	sitdownchairloop		1	buf_jj_ty_chair_mu6	buf_jj_ty_chair_mu6_new	buf_jj_chair_006	buf_jj_chair_006_1			0.2		27148		200	buf_jj_not_chair	1		6	4	7	13		6								1		627
+home_xiulian_putuan_sd_001	InterFurnNpc	蒲团	npc\npcitem923	icon\funcnpc\cj_040001.png	333	5	2		0	ng_state_1		1	buf_jj_tongyong	buf_jj_tongyong	buf_jj_pt_006_bf	buf_jj_pt_006_1_bf					27148		200	buf_jj_not_pt	1		6	2	7	4		6								1		624
+home_chuang_sd_002	ShareFurnitureNpc	双人塌	npc\npcitem924	icon\funcnpc\cj_040001.png	333	5	2		9			1			buf_jj_yt_006_bf	buf_jj_yt_006_1_bf					27148		200	buf_jj_not_bed	1		6	4	4	6		6	"1,Point01,interact548,buf_jj_using_bed,,interact548;2,Point02,interact549,buf_jj_using_bed,,interact549;"	1						1		626
+																																										
+//15年圣诞																																										
+home_chuang_sd_003	ShareFurnitureNpc	朱纱紫熏榻	npc\home_chuang_sd_03	icon\funcnpc\cj_040001.png	333	5	2		7			1			buf_jj_yt_006_bf	buf_jj_yt_006_1_bf					27148		200	buf_jj_not_bed	1		6	4	4	6		6	"1,Point01,interact546,buf_jj_using_bed,,interact546;2,Point02,interact547,buf_jj_using_bed,,interact547;"	2						1		626
+home_chuang_sd_004	ShareFurnitureNpc	白玉冰凌椅	npc\home_chuang_sd_04	icon\funcnpc\cj_040001.png	333	5	2		9			1			buf_jj_yt_006_bf	buf_jj_yt_006_1_bf					27148		200	buf_jj_not_bed	1		6	4	4	6		6	"1,Point02,interact548,buf_jj_using_bed,,interact548;2,Point01,interact549,buf_jj_using_bed,,interact549;"	1						1		626
+home_xiulian_yuchi_sd_002	ShareFurnitureNpc	卧龙浴池	npc\home_xiulian_yuchi_sd_02	icon\funcnpc\cj_040001.png	333	5	2		8			1									27148		200	buf_jj_not_yt	1		6	4	4	5	4389		"1,Point01,interact550_yc,buf_jj_using_yt,,interact550_yc;Point01,interact550_yc,buf_jj_using_yt,,interact550_yc;2,Point02,interact550_yc,buf_jj_using_yt_fs,,interact550_yc;Point02,interact550_yc,buf_jj_using_yt_fs,,interact550_yc;"	2						1		
+home_light_sd_004	InterFurnNpc	鹤灯	npc\home_light_sd_04	icon\funcnpc\cj_040001.png	333	10	2		3			1									27148	buf_jj_light_sd_3	200		1		5	2	7	7										1		
+home_yi_sd_005	ShareFurnitureNpc	金帛楠木榻	npc\home_yi_sd_05	icon\funcnpc\cj_040001.png	333	5	2		9			1			buf_jj_chair_006	buf_jj_chair_006_1					27148		200	buf_jj_not_chair	1		6	4	4	13		6	"1,Point01,sitdownchairloop,buf_jj_ty_chair,,sitdownchairloop;2,Point02,sitdownchairloop,buf_jj_ty_chair,,sitdownchairloop;"	2						1		627
+home_light_sd_003	InterFurnNpc	半月灯	npc\home_light_sd_03	icon\funcnpc\cj_040001.png	333	10	2		3			1									27148	buf_jj_light_sd_3	200		1		5	2	7	7										1		
+																																										
+//庭院座椅																																										
+home_yi_out_001	InterFurnNpc	椅子	npc\npcitem1051	icon\funcnpc\cj_040001.png	333	5	2		5	sitdownchairloop		1	buf_jj_ty_chair	buf_jj_ty_chair_new	buf_jj_chair_006	buf_jj_chair_006_1			0		27148		20	buf_jj_not_chair	1		6	4	7	13		6								1		627
+home_yi_out_002	ShareFurnitureNpc	双人长凳	npc\npcitem1054	icon\funcnpc\cj_040001.png	333	5	2		23			1			buf_jj_chair_005	buf_jj_chair_005_1					27148		60	buf_jj_not_chair	1		6	4	4	6		6	"1,Point01,sitdownchairloop,buf_jj_ty_chair,,sitdownchairloop;2,Point02,sitdownchairloop,buf_jj_ty_chair,,sitdownchairloop;"	2						1		627
+home_table_out_001	ShareFurnitureNpc	石桌椅组合	npc\npcitem1052	icon\funcnpc\cj_040001.png	333	5	2		23			1			buf_jj_chair_005	buf_jj_chair_005_1					27148		100	buf_jj_not_chair	1		6	4	4	6		6	"1,Point01,sitdownchairloop,buf_jj_ty_chair,,sitdownchairloop;2,Point02,sitdownchairloop,buf_jj_ty_chair,,sitdownchairloop;3,Point03,sitdownchairloop,buf_jj_ty_chair,,sitdownchairloop;4,Point04,sitdownchairloop,buf_jj_ty_chair,,sitdownchairloop;"	2						1		627
+home_yi_out_003	ShareFurnitureNpc	椅子	npc\npcitem1053	icon\funcnpc\cj_040001.png	333	5	2		23			1			buf_jj_chair_005	buf_jj_chair_005_1					27148		100	buf_jj_not_chair	1		6	4	4	6		6	"1,Point01,interact590,buf_jj_ty_chair,,interact590;"	1						1		627
+home_yi_tree_001	ShareFurnitureNpc	秋千树（双人）	npc\npcitem1085_1	icon\funcnpc\cj_040001.png	333	5	2		23			1			buf_jj_chair_005	buf_jj_chair_005_1					27148		200	buf_jj_not_chair	1		6	4	4	6		6	"1,Point01,interact595_2,buf_jj_ty_chair,,interact595_4;2,Point02,interact595_1,buf_jj_ty_chair,,interact595_3;"	2						1	action	627
+home_yi_tree_002	ShareFurnitureNpc	秋千树（双人分开）	npc\npcitem1085_2	icon\funcnpc\cj_040001.png	333	5	2		23			1			buf_jj_chair_005	buf_jj_chair_005_1					27148		200	buf_jj_not_chair	1		6	4	4	6		6	"1,Point01,interact594_2,buf_jj_ty_chair,,interact594_4;2,Point02,interact594_1,buf_jj_ty_chair,,interact594_3;"	2						1	action	627
+home_yi_qqb_001	ShareFurnitureNpc	跷跷板	npc\npcitem1086	icon\funcnpc\cj_040001.png	333	5	2		23			1			buf_jj_chair_005	buf_jj_chair_005_1					27148		200	buf_jj_not_chair	1		6	4	4	6		6	"1,Point01,interact598_1,buf_jj_ty_chair,,interact598_5;2,Point02,interact598_2,buf_jj_ty_chair,,interact598_6;3,Point03,interact598_3,buf_jj_ty_chair,,interact598_7;4,Point04,interact598_4,buf_jj_ty_chair,,interact598_8;"	2						1	action	627
+																																										
+//圣诞家具																																										
+home_sd_new_004	InterFurnNpc	月牙灯	npc\npcitem1074	icon\funcnpc\cj_040001.png	333	10	2		3			1									27148	buf_jj_light_sd_2	200		1		6	4	7	7										1		
+home_sd_new_005	ShareFurnitureNpc	弈桌	npc\npcitem1075	icon\funcnpc\cj_040001.png	333	5	2		9			1			buf_jj_chair_006	buf_jj_chair_006_1					27148		200	buf_jj_not_chair	1		6	4	4	6		6	"1,Point01,sitdownchairloop,buf_jj_ty_chair,,sitdownchairloop;2,Point02,sitdownchairloop,buf_jj_ty_chair,,sitdownchairloop;3,Point03,sitdownchairloop,buf_jj_ty_chair,,sitdownchairloop;4,Point04,sitdownchairloop,buf_jj_ty_chair,,sitdownchairloop;"	2						1		627
+home_sd_new_003	InterFurnNpc	灯凳	npc\npcitem1073	icon\funcnpc\cj_040001.png	333	10	2		25	sitdownchairloop		1	buf_jj_ty_chair	buf_jj_ty_chair_new	buf_jj_chair_006	buf_jj_chair_006_1			0		27148	buf_jj_light_sd_3	200	buf_jj_not_chair	1		1	2	6	13		6				3	5	1		1		627
+																																										
+//搓衣板																																										
+home_jy_cyb_001	ShareFurnitureNpc	搓衣板	npc\npcitem1088_1	icon\funcnpc\cj_040001.png	333	5	2		26			1			buf_jj_cyb_001	buf_jj_cyb_001_1					27148		5	buf_jj_not_cyb	1		1	2	4	4		6	"1,Point01,interact596,buf_jj_ty_chair,,interact596;"	1						1		628
+home_jy_cyb_002	ShareFurnitureNpc	搓衣板	npc\npcitem1088_2	icon\funcnpc\cj_040001.png	333	5	2		26			1			buf_jj_cyb_002	buf_jj_cyb_002_1					27148		20	buf_jj_not_cyb	1		2	2	4	4		6	"1,Point01,interact596,buf_jj_ty_chair,,interact596;"	1						1		628
+home_jy_cyb_003	ShareFurnitureNpc	搓衣板	npc\npcitem1089_1	icon\funcnpc\cj_040001.png	333	5	2		26			1			buf_jj_cyb_003	buf_jj_cyb_003_1					27148		40	buf_jj_not_cyb	1		3	2	4	4		6	"1,Point01,interact596,buf_jj_ty_chair,,interact596;"	1						1		628
+home_jy_cyb_004	ShareFurnitureNpc	搓衣板	npc\npcitem1089_2	icon\funcnpc\cj_040001.png	333	5	2		26			1			buf_jj_cyb_004	buf_jj_cyb_004_1					27148		100	buf_jj_not_cyb	1		4	2	4	4		6	"1,Point01,interact596,buf_jj_ty_chair,,interact596;"	1						1		628
+home_jy_cyb_005	ShareFurnitureNpc	搓衣板	npc\npcitem1090_1	icon\funcnpc\cj_040001.png	333	5	2		26			1			buf_jj_cyb_005	buf_jj_cyb_005_1					27148		120	buf_jj_not_cyb	1		5	2	4	4		6	"1,Point01,interact596,buf_jj_ty_chair,,interact596;"	1						1		628
+home_jy_cyb_006	ShareFurnitureNpc	搓衣板	npc\npcitem1090_2	icon\funcnpc\cj_040001.png	333	5	2		26			1			buf_jj_cyb_006	buf_jj_cyb_006_1					27148		200	buf_jj_not_cyb	1		6	2	4	4		6	"1,Point01,interact596,buf_jj_ty_chair,,interact596;"	1						1		628
+																																										
+//植物灯																																										
+home_light_zhiwu_001	InterFurnNpc	莹草灯	npc\npcitem1087_1	icon\funcnpc\cj_040001.png	333	5	2		3			1									27148	buf_jj_light_zhiwu_1	200		1		6	4	7	7										1		
+home_light_zhiwu_002	InterFurnNpc	蘑菇灯	npc\npcitem1087_2	icon\funcnpc\cj_040001.png	333	5	2		3			1									27148	buf_jj_light_zhiwu_2	120		1		5	4	7	7										1		
+home_light_zhiwu_003	InterFurnNpc	金鱼草灯	npc\npcitem1087_3	icon\funcnpc\cj_040001.png	333	5	2		3			1									27148		120		1		6	4	7	7										1		
+																																										
+//武道为宗版本 																																										
+home_jy_wdwz_001	ShareFurnitureNpc	武学人偶（天）	npc\fbnpc00184	icon\funcnpc\cj_040001.png	333	5	2		27			1			buff_dy_wxro_tian	buff_dy_wxro_tian					27148		200	buff_dy_wxro_tian1	1		6	4	7	5		6	"1,Point01,CS_dm_qys07_gongji,buf_jj_ty_chair,,interact606;"	1						1		629
+home_jy_wdwz_002	ShareFurnitureNpc	武学人偶（地）	npc\fbnpc00182	icon\funcnpc\cj_040001.png	333	5	2		27			1			buff_dy_wxro_di	buff_dy_wxro_di					27148		120	buff_dy_wxro_di1	1		5	4	7	5		23	"1,Point01,CS_dm_qys07_gongji,buf_jj_ty_chair,,interact606;"	1						1		630
+home_jy_wdwz_003	ShareFurnitureNpc	武学人偶（玄）	npc\fbnpc00185	icon\funcnpc\cj_040001.png	333	5	2		27			1			buff_dy_wxro_xuan	buff_dy_wxro_xuan					27148		100	buff_dy_wxro_xuan1	1		4	4	7	5		23	"1,Point01,CS_dm_qys07_gongji,buf_jj_ty_chair,,interact606;"	1						1		631
+home_jy_wdwz_004	ShareFurnitureNpc	武学人偶（黄）	npc\fbnpc00183	icon\funcnpc\cj_040001.png	333	5	2		27			1			buff_dy_wxro_huang	buff_dy_wxro_huang					27148		40	buff_dy_wxro_huang1	1		3	4	7	5		23	"1,Point01,CS_dm_qys07_gongji,buf_jj_ty_chair,,interact606;"	1						1		632
+																																										
+//17圣诞家具																																										
+home_sd_17new_001	InterFurnNpc	提灯组	npc\npcitem1138		333	5	2		3			1									27148	buf_jj_light_sd_6	200		1		6	4	7	7										1		
+home_sd_17new_002	ShareFurnitureNpc	抱熊(椅）	npc\npcitem1139		333	5	2		23			1			buf_jj_pt_007_bf	buf_jj_pt_007_1_bf					27148		200		1		6	4	4	6		6	"1,Point01,interact141,buf_jj_ty_chair,,interact141;"							1		627
+home_sd_17new_003	ShareFurnitureNpc	双人摇椅	npc\npcitem1142		333	5	2		23			1			buf_jj_chair_006	buf_jj_chair_006_1					27148		200		1		6	4	4	6		6	"1,Point01,interact617,buf_jj_ty_chair,,interact617;2,Point02,interact617,buf_jj_ty_chair,,interact617"							1		627
+																																										
+home_zq_18new_001	InterFurnNpc	月圆花灯架	npc\npcitem1148		333	10	2		3			1									27148	buf_jj_light_zq_1	200		1		6	4	7	7										1		
+																																										
+//18年十月家具																																										
+home_10_new_003	InterFurnNpc	照明灯	npc\npcitem1152		333	5	2		3			1									27148	buf_jj_light_18sd_1	200		1		6	4	4	7										1		
+home_10_new_004	InterFurnNpc	椅子	npc\npcitem1156		333	5	2		5	sitdownchairloop		1	buf_jj_ty_chair	buf_jj_ty_chair_new	buf_jj_chair_006	buf_jj_chair_006_1		0.15	0.15		27148		200	buf_jj_not_chair	1		6	4	7	13		6		1						1		627
+home_10_new_005	ShareFurnitureNpc	床	npc\npcitem1154		333	5	2		7			1			buf_jj_yt_006_bf	buf_jj_yt_006_1_bf					27148		200	buf_jj_not_bed	1		6	4	4	6		6	"1,Point01,interact546,buf_jj_using_bed,,interact546"	1						1		626
+																																										
+//19年十二月家具																																										
+home_19_new_001	InterFurnNpc	鼠	npc\npcitem1164_01		333	5	2		3			1									27148	buf_jj_light_19sd	200		1		6	4	4	7										1		
+home_19_new_002	InterFurnNpc	牛	npc\npcitem1164_02		333	5	2		3			1									27148	buf_jj_light_19sd	200		1		6	4	4	7										1		
+home_19_new_003	InterFurnNpc	虎	npc\npcitem1164_03		333	5	2		3			1									27148	buf_jj_light_19sd	200		1		6	4	4	7												
+home_19_new_004	InterFurnNpc	兔	npc\npcitem1164_04		333	5	2		3			1									27148	buf_jj_light_19sd	200		1		6	4	4	7												
+home_19_new_005	InterFurnNpc	龙	npc\npcitem1164_05		333	5	2		3			1									27148	buf_jj_light_19sd	200		1		6	4	4	7												
+home_19_new_006	InterFurnNpc	蛇	npc\npcitem1164_06		333	5	2		3			1									27148	buf_jj_light_19sd	200		1		6	4	4	7												
+home_19_new_007	InterFurnNpc	马	npc\npcitem1164_07		333	5	2		3			1									27148	buf_jj_light_19sd	200		1		6	4	4	7												
+home_19_new_008	InterFurnNpc	羊	npc\npcitem1164_08		333	5	2		3			1									27148	buf_jj_light_19sd	200		1		6	4	4	7												
+home_19_new_009	InterFurnNpc	猴	npc\npcitem1164_09		333	5	2		3			1									27148	buf_jj_light_19sd	200		1		6	4	4	7												
+home_19_new_010	InterFurnNpc	鸡	npc\npcitem1164_10		333	5	2		3			1									27148	buf_jj_light_19sd	200		1		6	4	4	7												
+home_19_new_011	InterFurnNpc	狗	npc\npcitem1164_11		333	5	2		3			1									27148	buf_jj_light_19sd	200		1		6	4	4	7												
+home_19_new_012	InterFurnNpc	猪	npc\npcitem1164_12		333	5	2		3			1									27148	buf_jj_light_19sd	200		1		6	4	4	7												
+home_19_new_013	InterFurnNpc	猫	npc\npcitem1164_13		333	5	2		3			1									27148	buf_jj_light_19sd	200		1		6	4	4	7												
+home_19_new_014	ShareFurnitureNpc	树干椅	npc\npcitem1165		333	5	2		23			1	buf_jj_ty_chair	buf_jj_ty_chair_new	buf_jj_chair_006	buf_jj_chair_006_1					27148		200	buf_jj_not_chair	1		6	4	7	13		6	"1,Point01,interact639,buf_jj_ty_chair,,interact639;2,Point02,interact639,buf_jj_ty_chair,,interact639"	1						1		627
+																																										
+/20年双旦家具																																										
+home_20_new_003	InterFurnNpc	芳心红香灯	npc\npcitem1169		333	5	2		3			1									27148	buf_jj_light_20sd	200		1		6	5	5	7										1		
+																																										
+//蛟珠岛																																										
+home_21_dao_005	InterFurnNpc	贝壳灯-高灯	npc\itemnpc1701_1	icon\funcnpc\cj_040001.png	333	5	2		3			1									27148	buf_home_gy_001	200		1		6	4	7	7										1		
+home_21_dao_006	InterFurnNpc	贝壳灯-地灯	npc\itemnpc1701_2	icon\funcnpc\cj_040001.png	333	5	2		3			1									27148	buf_home_gy_002	200		1		6	4	7	7										1		
+																																										
+/21年新年家具																																										
+home_21_new_002	InterFurnNpc	灯1	npc\npcitem1184a		333	5	2		3			1									27148	buf_jj_light_21sd	200		1		6	5	7	7												
+home_21_new_003	InterFurnNpc	灯2	npc\npcitem1184b		333	5	2		3			1									27148	buf_jj_light_21sd	200		1		6	5	7	7												
+home_21_new_004	InterFurnNpc	老虎小椅子	npc\npcitem1185		333	5	2		5	sitdownchairloop		1	buf_jj_ty_chair_tiger	buf_jj_ty_chair_tiger_new	buf_jj_chair_006	buf_jj_chair_006_1			0.5		27148		200		1		6	5	7	7		6								1		627
+home_21_new_005	InterFurnNpc	老虎大椅子	npc\npcitem1185a		333	5	2		5	sitdownchairloop		1	buf_jj_ty_chair_tiger	buf_jj_ty_chair_tiger	buf_jj_chair_006	buf_jj_chair_006_1			0.5		27148		200		1		6	5	7	7		6								1		627
+home_21_new_006	InterFurnNpc	床	npc\npcitem1172		333	5	2		2	interact472		1	buf_jj_using_bed_1	buf_jj_using_bed_1	buf_jj_yt_006_bf	buf_jj_yt_006_1_bf		-1.57			27148		200		1		6	5	7	7		6								1		626
+																																										
+/22年新年家具																																										
+home_22_new_003	InterFurnNpc	玉兔银蟾	npc\npcitem1416		333	5	2		3			1									27148	buf_jj_light_2203	200		1		6	5	7	7												
+home_22_new_004	InterFurnNpc	兔囡囡	npc\npcitem1417		333	5	2		3			1									27148	buf_jj_light_2204	200		1		6	5	7	7												
+home_22_new_006	InterFurnNpc	月华流照	npc\npcitem1413		333	5	2		5	sitdownchairloop		1	buf_jj_ty_chair_moon	buf_jj_ty_chair_moon_new	buf_jj_chair_006	buf_jj_chair_006_1					27148		200		1		6	5	7	7	6130	6								1		627
+																																										
+//23年12月庄园家具																																										
+home_23_zy_001	ShareFurnitureNpc	摇摇椅	npc\homeitem001		333	5	2		23			1			buf_jj_chair_006	buf_jj_chair_006_1					27148		50		1		6	5	7	7		6	"1,gua01,yaoyi02,buf_jj_ty_chair,,yaoyi03;"							1		627
+home_23_zy_002	InterFurnNpc	屏风	npc\homeitem002		333	5	2		5	sitdownchairloop		1	buf_jj_ty_chair_23zy001	buf_jj_ty_chair_23zy001_new	buf_jj_chair_006	buf_jj_chair_006_1			1.2		27148		50		1		6	5	7	7		6								1		627
+home_23_zy_003	InterFurnNpc	荷叶田田床	npc\homeitem003		333	5	2		2	interact472		1	buf_jj_using_bed_23zy001	buf_jj_using_bed_23zy001_new	buf_jj_yt_006_bf	buf_jj_yt_006_1_bf		3.14	1		27148		50		1		6	5	7	7		6								1		626
+home_23_zy_005	ShareFurnitureNpc	满贯财盈桌	npc\homeitem005		333	5	2		23			1			buf_jj_chair_006	buf_jj_chair_006_1					27148		50		1		6	5	7	7		6	"1,Point01,sit_state_1_1h,buf_jj_ty_chair,,sit_state_1_1h;2,Point02,sit_state_1_1h,buf_jj_ty_chair,,sit_state_1_1h;3,Point03,sit_state_1_1h,buf_jj_ty_chair,,sit_state_1_1h;4,Point04,sit_state_1_1h,buf_jj_ty_chair,,sit_state_1_1h;5,Point05,sit_state_1_1h,buf_jj_ty_chair,,sit_state_1_1h;6,Point06,sit_state_1_1h,buf_jj_ty_chair,,sit_state_1_1h;"	1						1		627
+																																										
+//24年新春家具																																										
+home_24_new_002	ShareFurnitureNpc	床	npc\homeitem013		333	5	2		7			1			buf_jj_yt_006_bf	buf_jj_yt_006_1_bf					27148		200		2		6	5	7	7		6	"1,Point001,interact546,buf_jj_using_bed,,interact546;2,Point002,interact547,buf_jj_using_bed,,interact547;"	2						1		626
+home_24_new_004	ShareFurnitureNpc	摇摇椅	npc\homeitem015		333	5	2		23			1			buf_jj_chair_006	buf_jj_chair_006_1					27148		200		1		6	5	7	7		6	"1,Point001,sitloop_homeitem015,buf_jj_ty_chair,,sitloop_homeitem015;"							1		627
+home_24_new_005	InterFurnNpc	灯1	npc\homeitem017		333	5	2		3			1									27148	buf_jj_light_24hd	100		1		6	5	7	7												
+home_24_new_006	InterFurnNpc	灯2	npc\homeitem017a		333	5	2		3			1									27148	buf_jj_light_24sd	200		1		6	5	7	7												
+																																										
+//25年新春家具																																										
+home_25_new_004	InterFurnNpc	蛇灯	npc\homeitem023		333	5	2		3			1									27148	buf_jj_light_25	200		1		6	5	7	7												
+home_25_new_005	ShareFurnitureNpc	孔雀床	npc\homeitem036		333	5	2		7			1			buf_jj_yt_006_bf	buf_jj_yt_006_1_bf					27148		200		1		6	5	7	7		6	"1,Point001,interact546,buf_jj_using_bed,,interact546;2,Point002,interact547,buf_jj_using_bed,,interact547;"	2						1		626
+home_25_new_006	ShareFurnitureNpc	紫藤摇摇椅	npc\homeitem033		333	5	2		23			1			buf_jj_chair_006	buf_jj_chair_006_1					27148		200		1		6	5	7	7		6	"1,Point002,interact617,buf_jj_ty_chair,,interact617;2,Point001,interact617,buf_jj_ty_chair,,interact617"	2						1		627
+																																										
+//25年青山隐2.0																																										
+home_25_zy_004	ShareFurnitureNpc		npc\homeitem043		333	5	2		23			1			buf_jj_chair_006	buf_jj_chair_006_1					27148		50		1		6	5	7	7		6	"1,Point002,sit_dongying,buf_jj_ty_chair,,sit_dongying;2,Point001,sit_dongying,buf_jj_ty_chair,,sit_dongying"	2						1		627
+home_25_zy_006	ShareFurnitureNpc		npc\homeitem045		333	5	2		23			1			buf_jj_chair_006	buf_jj_chair_006_1					27148		50		1		6	5	7	7		6	"1,Point002,sit_dongying,buf_jj_ty_chair,,sit_dongying;2,Point001,sit_dongying,buf_jj_ty_chair,,sit_dongying"	2						1		627
+home_25_zy_007	InterFurnNpc		npc\homeitem046		333	5	2		3			1									27148	buf_jj_light_25zy_01	50		1		6	5	7	7												
+home_25_zy_016	InterFurnNpc		npc\homeitem055		333	5	2		3			1									27148	buf_jj_light_25zy_02	50		1		6	5	7	7												

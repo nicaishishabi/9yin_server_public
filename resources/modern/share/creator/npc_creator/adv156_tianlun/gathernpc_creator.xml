@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="F51B9BAE5F0C4AF6B99827F091ACA2C5" x="-61.162" y="-33.708" z="-197.633" radius="5.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="5.0" TaskSubId="76485" TaskSubType="3" HateLink="1">
+            <item No="1" id="gathernpc_tls_daily01_01" ay="3.849" amount="1" refreshtime="5" NotPositive="0" desc="污渍">
+                <position x="-60.849" z="-196.935" ay="3.849" />
+            </item>
+        </creator>
+        <creator No="653D2E3F962C431A8C431885A1F1F67E" x="-90.034" y="-35.913" z="-154.681" radius="5.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="5.0" TaskSubId="76484" TaskSubType="3" HateLink="1">
+            <item No="1" id="gathernpc_tls_daily01_02" ay="3.849" amount="1" refreshtime="5" NotPositive="0" desc="污渍">
+                <position x="-89.919" z="-154.907" ay="3.849" />
+            </item>
+        </creator>
+        <creator No="208499B7C926413097CCD92FF340D663" x="-95.648" y="-35.913" z="-228.659" radius="5.0" WakeupRange="5.0" ChaseRange="5.0" PatrolRange="5.0" TaskSubId="76483" TaskSubType="3" HateLink="1">
+            <item No="1" id="gathernpc_tls_daily01_03" ay="3.849" amount="1" refreshtime="5" NotPositive="0" desc="污渍">
+                <position x="-95.400" z="-229.914" ay="3.849" />
+            </item>
+        </creator>
+        <creator No="E6E4F8B3CDCC40E99C22A7EA1CA4C34D" x="-37.327" y="-23.305" z="-232.128" radius="3.0" WakeupRange="3.0" ChaseRange="3.0" PatrolRange="3.0" TaskSubId="76482" TaskSubType="3" HateLink="1">
+            <item No="1" id="gathernpc_tls_daily01_04" ax="4.773" ay="6.243" az="3.142" amount="1" refreshtime="5" NotPositive="0" desc="树枝">
+                <position x="-37.491" z="-231.458" ax="4.773" ay="6.243" az="3.142" />
+            </item>
+        </creator>
+        <creator No="3E3F913A608A41EF85E35984833ACEDA" x="-99.881" y="-26.893" z="-154.131" radius="3.0" WakeupRange="3.0" ChaseRange="3.0" PatrolRange="3.0" TaskSubId="76481" TaskSubType="3" HateLink="1">
+            <item No="1" id="gathernpc_tls_daily01_05" ax="5.891" ay="0.610" az="3.900" amount="1" refreshtime="5" NotPositive="0" desc="树枝">
+                <position x="-100.084" z="-154.221" ax="5.891" ay="0.610" az="3.900" />
+            </item>
+        </creator>
+        <creator No="632849DF629947058544BF8E20A5AA47" x="-41.277" y="-24.093" z="-191.850" radius="3.0" WakeupRange="3.0" ChaseRange="3.0" PatrolRange="3.0" TaskSubId="76480" TaskSubType="3" HateLink="1">
+            <item No="1" id="gathernpc_tls_daily01_06" ax="0.086" ay="2.099" az="6.163" amount="1" refreshtime="5" NotPositive="0" desc="树枝">
+                <position x="-41.911" z="-190.652" ax="0.086" ay="2.099" az="6.163" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="5C5B7A5186324FCEBE2D4787D3AB124A" x="1966.697" y="70.193" z="727.496" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="boxnpc_wuxianjiao_gujzlcy_003" sx="1.500" sy="1.500" sz="1.500" ay="-1" amount="4" refreshtime="10000" NotPositive="0" desc="蟾蜍">
+                <position x="1966.059" z="725.071" sx="1.500" sy="1.500" sz="1.500" ay="-1" />
+                <position x="1969.891" z="727.766" sx="1.500" sy="1.500" sz="1.500" ay="-1" />
+                <position x="1967.531" z="730.515" sx="1.500" sy="1.500" sz="1.500" ay="-1" />
+                <position x="1963.626" z="728.642" sx="1.500" sy="1.500" sz="1.500" ay="-1" />
+            </item>
+        </creator>
+        <creator No="C1D9697AF6774EBCB1473A9D461EEF77" x="2005.139" y="42.673" z="631.050" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="boxnpc_wuxianjiao_gujzlcy_002" sx="1.500" sy="1.500" sz="1.500" ay="-1" amount="4" refreshtime="10000" NotPositive="0" desc="蝎子">
+                <position x="2004.915" z="629.320" sx="1.500" sy="1.500" sz="1.500" ay="-1" />
+                <position x="2008.044" z="630.204" sx="1.500" sy="1.500" sz="1.500" ay="-1" />
+                <position x="2007.546" z="633.581" sx="1.500" sy="1.500" sz="1.500" ay="-1" />
+                <position x="2003.601" z="633.433" sx="1.500" sy="1.500" sz="1.500" ay="-1" />
+            </item>
+        </creator>
+        <creator No="0D04D690F8BF4FD1A5BCCD2431DCE525" x="1559.428" y="30.534" z="990.083" radius="60.0" WakeupRange="0.0" ChaseRange="0.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="newmp_wxj_jgzj_lzy005" ay="-1" amount="3" refreshtime="5000" desc="损坏的物件">
+                <position x="1538.283" z="969.734" ay="-1" />
+                <position x="1539.190" z="980.634" ay="-1" />
+                <position x="1572.300" z="1012.962" ay="-1" />
+            </item>
+        </creator>
+        <creator No="C3D9ED263DE74AE1A5E7743F76B6C151" x="1469.265" y="44.648" z="796.141" radius="40.0" WakeupRange="0.0" ChaseRange="0.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="newmp_wxj_jgzj_lzy003" ay="1.192" amount="3" refreshtime="5000" desc="损坏的物件">
+                <position x="1444.214" z="784.391" ay="1.192" />
+                <position x="1454.469" z="786.569" ay="1.192" />
+                <position x="1439.588" z="790.692" ay="0.819" />
+            </item>
+        </creator>
+        <creator No="89C489D8AFFB4F239E1EA3B5A081E41F" x="2022.418" y="6.913" z="716.741" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="boxnpc_wuxianjiao_gujzlcy_001" sx="2.000" sy="2.000" sz="2.000" ay="-1" amount="4" refreshtime="10000" NotPositive="0" desc="蜈蚣">
+                <position x="2021.039" z="715.378" sx="2.000" sy="2.000" sz="2.000" ay="-1" />
+                <position x="2024.797" z="715.048" sx="2.000" sy="2.000" sz="2.000" ay="-1" />
+                <position x="2025.266" z="717.960" sx="2.000" sy="2.000" sz="2.000" ay="-1" />
+                <position x="2022.323" z="719.310" sx="2.000" sy="2.000" sz="2.000" ay="-1" />
+            </item>
+        </creator>
+        <creator No="1509A7EF28504440A0188762BF49484F" x="1222.636" y="38.150" z="1079.257" radius="20.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather_wuxianjiao_rumen_001" amount="2" refreshtime="10000" NotPositive="0" desc="蝎子">
+                <position x="1220.686" z="1081.975" />
+                <position x="1219.772" z="1080.212" />
+                <position x="1214.454" z="1088.745" />
+            </item>
+            <item No="2" id="Gather_wuxianjiao_rumen_002" amount="2" refreshtime="10000" NotPositive="0" desc="蛇">
+                <position x="1227.362" z="1071.503" />
+                <position x="1232.672" z="1067.089" />
+            </item>
+            <item No="3" id="Gather_wuxianjiao_rumen_004" amount="2" refreshtime="10000" NotPositive="0" desc="蜘蛛">
+                <position x="1228.108" z="1069.567" />
+                <position x="1223.722" z="1068.570" />
+                <position x="1224.919" z="1064.206" />
+            </item>
+            <item No="4" id="Gather_wuxianjiao_rumen_003" amount="2" refreshtime="10000" NotPositive="0" desc="蛤蟆">
+                <position x="1227.133" z="1070.291" />
+                <position x="1242.799" z="1057.824" />
+                <position x="1239.493" z="1066.159" />
+            </item>
+            <item No="5" id="Gather_wuxianjiao_rumen_005" amount="2" refreshtime="10000" NotPositive="0" desc="蜈蚣">
+                <position x="1225.810" z="1072.867" />
+                <position x="1222.900" z="1061.553" />
+            </item>
+        </creator>
+        <creator No="C4434075D6F94EBEB06B460D4BF3C4F2" x="1605.769" y="94.705" z="661.029" radius="20.0" WakeupRange="0.0" ChaseRange="0.0" PatrolRange="0.0" HateLink="1">
+            <item No="1" id="newmp_wxj_jgzj_lzy002" ay="-1" amount="3" refreshtime="5000" desc="损坏的物件">
+                <position x="1617.509" z="653.751" ay="-1" />
+                <position x="1606.838" z="661.483" ay="-1" />
+                <position x="1592.465" z="670.598" ay="-1" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

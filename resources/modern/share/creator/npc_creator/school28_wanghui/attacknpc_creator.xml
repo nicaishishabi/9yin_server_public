@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="5F51567708F64E9EB4CA9A3105409B7D" x="429.198" y="5.988" z="24.956" radius="5.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="3.0" SpringRange="12" TaskSubId="77204" TaskSubType="1" HateLink="1">
+            <item No="1" id="npc_whc_dy_003" ay="-1" amount="3" refreshtime="5" desc="衙役">
+                <position x="429.198" z="24.956" ay="-1" />
+                <position x="430.589" z="26.070" ay="-1" />
+                <position x="430.299" z="23.671" ay="-1" />
+            </item>
+        </creator>
+        <creator No="5F51567708F64E9EB4CA9A3105409B7D" x="392.759" y="43.623" z="283.190" radius="5.0" WakeupRange="5.0" ChaseRange="30.0" PatrolRange="3.0" SpringRange="12" TaskSubId="77205" TaskSubType="1" HateLink="1">
+            <item No="1" id="npc_whc_dy_004" ay="-1" amount="3" refreshtime="5" desc="衙役">
+                <position x="392.759" z="283.190" ay="-1" />
+                <position x="392.231" z="281.501" ay="-1" />
+                <position x="392.396" z="285.485" ay="-1" />
+            </item>
+        </creator>
+        <creator No="A1C30C8DCD4A4B649CF296E433CCCF55" x="137.181" y="38.936" z="317.233" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="77270" TaskSubType="1" HateLink="1">
+            <item No="1" id="huntnpc_hhm_002" ay="-2.895" amount="5" refreshtime="30000" NotPositive="0" desc="祆教教徒">
+                <position x="137.743" z="317.984" ay="-2.895" WeaponMode="blade1_1" />
+                <position x="138.465" z="316.219" ay="-2.810" WeaponMode="blade1_1" />
+                <position x="138.407" z="314.333" ay="-3.075" WeaponMode="blade1_1" />
+                <position x="136.469" z="315.116" ay="3.028" WeaponMode="blade1_1" />
+                <position x="135.758" z="316.804" ay="3.063" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="D80B71FE91D8457B9E6F6482D792B346" x="137.258" y="38.932" z="317.206" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="77271" TaskSubType="1" HateLink="1">
+            <item No="1" id="huntnpc_hhm_003" ay="-2.805" amount="1" refreshtime="30000" NotPositive="0" desc="祆教大火师">
+                <position x="139.537" z="317.766" ay="-2.805" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="7C31F2F411E74810A73E1F005AF12B38" x="83.325" y="15.757" z="188.279" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="77279" TaskSubType="1" HateLink="1">
+            <item No="1" id="huntnpc_hhm_004" ay="-1" amount="5" refreshtime="5" NotPositive="0" desc="马匪">
+                <position x="86.398" z="188.235" ay="-1" WeaponMode="blade1_1" />
+                <position x="85.180" z="186.574" ay="-1" WeaponMode="blade1_1" />
+                <position x="83.434" z="185.362" ay="-1" WeaponMode="blade1_1" />
+                <position x="84.529" z="190.010" ay="-1" WeaponMode="blade1_1" />
+                <position x="83.057" z="190.869" ay="-1" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="A71B809E11D64F0681D86E5A38314CA9" x="83.348" y="15.764" z="188.348" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="77280" TaskSubType="1" HateLink="1">
+            <item No="1" id="huntnpc_hhm_005" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="马匪首领" />
+        </creator>
+        <creator No="325B3A4635594CFEA0F8C8CF22999491" x="80.822" y="14.665" z="179.816" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="77281" TaskSubType="1" HateLink="1">
+            <item No="1" id="huntnpc_hhm_006" ay="-1" amount="5" refreshtime="5" NotPositive="0" desc="祆教教众">
+                <position x="83.181" z="180.595" ay="-1" WeaponMode="blade1_1" />
+                <position x="83.302" z="178.486" ay="-1" WeaponMode="blade1_1" />
+                <position x="81.682" z="177.173" ay="-1" WeaponMode="blade1_1" />
+                <position x="83.084" z="182.634" ay="-1" WeaponMode="blade1_1" />
+                <position x="80.567" z="182.901" ay="-1" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="CFE83DBC58734160BAD5E77BEEE4ACB3" x="80.816" y="14.655" z="179.721" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="77282" TaskSubType="1" HateLink="1">
+            <item No="1" id="huntnpc_hhm_007" ay="-1" amount="2" refreshtime="5" NotPositive="0" desc="祆教大火师">
+                <position x="80.832" z="181.219" ay="-1" WeaponMode="blade1_1" />
+                <position x="80.142" z="179.385" ay="-1" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="09227CC89FEF45C4BBC34C927B1F8A28" x="85.264" y="20.640" z="-80.894" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="77292" TaskSubType="1" HateLink="1">
+            <item No="1" id="huntnpc_hhm_010" ay="-1" amount="5" refreshtime="5" NotPositive="0" desc="祆教教众">
+                <position x="88.271" z="-81.301" ay="-1" WeaponMode="blade1_1" />
+                <position x="87.230" z="-82.912" ay="-1" WeaponMode="blade1_1" />
+                <position x="86.226" z="-84.117" ay="-1" WeaponMode="blade1_1" />
+                <position x="87.881" z="-79.424" ay="-1" WeaponMode="blade1_1" />
+                <position x="86.526" z="-78.521" ay="-1" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="7C5C66D428C34D16A50B1285B204371D" x="85.264" y="20.662" z="-80.954" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="77293" TaskSubType="1" HateLink="1">
+            <item No="1" id="huntnpc_hhm_011" ay="-1" amount="2" refreshtime="5" NotPositive="0" desc="祆教大火师">
+                <position x="85.138" z="-79.062" ay="-1" WeaponMode="blade1_1" />
+                <position x="83.601" z="-81.426" ay="-1" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="411D6EED38C64DD98BFED7E72B1DC852" x="85.279" y="20.681" z="-80.997" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="77294" TaskSubType="1" HateLink="1">
+            <item No="1" id="huntnpc_hhm_012" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="安光明" />
+        </creator>
+        <creator No="9D476930FC014319B0BCB871BB108B86" x="257.194" y="1.774" z="-33.388" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="77256" TaskSubType="1" HateLink="1">
+            <item No="1" id="huntnpc_hhm_015" ay="-1" amount="6" refreshtime="5" NotPositive="0" desc="段释劫副手">
+                <position x="256.249" z="-35.809" ay="-1" WeaponMode="blade1_1" />
+                <position x="255.190" z="-33.251" ay="-1" WeaponMode="blade1_1" />
+                <position x="256.198" z="-30.907" ay="-1" WeaponMode="blade1_1" />
+                <position x="258.711" z="-35.349" ay="-1" WeaponMode="blade1_1" />
+                <position x="259.572" z="-33.028" ay="-1" WeaponMode="blade1_1" />
+                <position x="258.422" z="-30.602" ay="-1" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="A0B2BB8F4128425B91BDE4742AC9CBF4" x="60.766" y="45.040" z="310.569" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="77251" TaskSubType="1" HateLink="1" SubSceneNo="9312">
+            <item No="1" id="nmpwhc_gsfhhm_004" ay="5.113" amount="1" refreshtime="5" NotPositive="0" desc="事火祭司" />
+        </creator>
+        <creator No="AEF7540EAE3D4F318EEFE9678F5EF69F" x="60.618" y="44.576" z="306.485" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="77252" TaskSubType="1" HateLink="1" SubSceneNo="9312">
+            <item No="1" id="nmpwhc_gsfhhm_005" ay="5.873" amount="1" refreshtime="5" NotPositive="0" desc="护教法王" />
+        </creator>
+        <creator No="A4C954A858A048A688E2D3825351176A" x="325.232" y="55.545" z="412.766" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="boss_whz_dy_06" ay="-1" amount="1" refreshtime="40000" NotPositive="0" desc="鞑靼近卫" />
+            <item No="2" id="boss_whz_dy_07" ay="-1" amount="1" refreshtime="30000" NotPositive="0" desc="鞑靼近卫" />
+            <item No="3" id="boss_whz_dy_08" ay="-1" amount="2" refreshtime="15000" NotPositive="0" desc="鞑靼近卫">
+                <position x="326.982" z="414.148" ay="-1" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+                <position x="327.531" z="412.469" ay="-1" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="F5F81A9203C745E48DD2C758BE4880A6" x="324.357" y="57.814" z="437.508" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="boss_whz_dy_06" ay="-1" amount="1" refreshtime="40000" NotPositive="0" desc="鞑靼近卫" />
+            <item No="2" id="boss_whz_dy_07" ay="-1" amount="1" refreshtime="30000" NotPositive="0" desc="鞑靼近卫" />
+            <item No="3" id="boss_whz_dy_08" ay="-1" amount="2" refreshtime="15000" NotPositive="0" desc="鞑靼近卫">
+                <position x="326.106" z="438.890" ay="-1" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+                <position x="326.656" z="437.212" ay="-1" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="1FB6CF7FA7FF4B3E9DDE46AE52F33ACF" x="361.562" y="55.771" z="395.663" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="boss_whz_dy_06" ay="-1" amount="1" refreshtime="40000" NotPositive="0" desc="鞑靼近卫" />
+            <item No="2" id="boss_whz_dy_07" ay="-1" amount="1" refreshtime="30000" NotPositive="0" desc="鞑靼近卫" />
+            <item No="3" id="boss_whz_dy_08" ay="-1" amount="2" refreshtime="15000" NotPositive="0" desc="鞑靼近卫">
+                <position x="363.312" z="397.045" ay="-1" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+                <position x="363.469" z="395.385" ay="-1" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="548A10A4C46848CDABCF03F0BEB9C0E1" x="363.278" y="55.687" z="427.047" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="boss_whz_dy_06" ay="-1" amount="1" refreshtime="40000" NotPositive="0" desc="鞑靼近卫" />
+            <item No="2" id="boss_whz_dy_07" ay="-1" amount="1" refreshtime="30000" NotPositive="0" desc="鞑靼近卫" />
+            <item No="3" id="boss_whz_dy_08" ay="-1" amount="2" refreshtime="15000" NotPositive="0" desc="鞑靼近卫">
+                <position x="365.027" z="428.428" ay="-1" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+                <position x="365.185" z="426.768" ay="-1" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="EE763270F91A4CD1A27EF2EE154C3464" x="349.458" y="65.359" z="464.725" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="boss_whz_dy_06" ay="-1" amount="1" refreshtime="40000" NotPositive="0" desc="鞑靼近卫" />
+            <item No="2" id="boss_whz_dy_07" ay="-1" amount="1" refreshtime="30000" NotPositive="0" desc="鞑靼近卫" />
+            <item No="3" id="boss_whz_dy_08" ay="-1" amount="2" refreshtime="15000" NotPositive="0" desc="鞑靼近卫">
+                <position x="351.207" z="466.107" ay="-1" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+                <position x="351.365" z="464.447" ay="-1" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="8407791E5A2540CDB934A99B546F6A3A" x="410.865" y="56.039" z="425.690" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="boss_whz_dy_06" ay="-1" amount="1" refreshtime="40000" NotPositive="0" desc="鞑靼近卫" />
+            <item No="2" id="boss_whz_dy_07" ay="-1" amount="1" refreshtime="30000" NotPositive="0" desc="鞑靼近卫" />
+            <item No="3" id="boss_whz_dy_08" ay="-1" amount="2" refreshtime="15000" NotPositive="0" desc="鞑靼近卫">
+                <position x="412.614" z="427.072" ay="-1" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+                <position x="412.772" z="425.412" ay="-1" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="04325D007BFF45BAA9CCE30A36FCC6D7" x="405.950" y="56.680" z="380.430" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="boss_whz_dy_06" ay="-1" amount="1" refreshtime="40000" NotPositive="0" desc="鞑靼近卫" />
+            <item No="2" id="boss_whz_dy_07" ay="-1" amount="1" refreshtime="30000" NotPositive="0" desc="鞑靼近卫" />
+            <item No="3" id="boss_whz_dy_08" ay="-1" amount="2" refreshtime="15000" NotPositive="0" desc="鞑靼近卫">
+                <position x="407.700" z="381.812" ay="-1" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+                <position x="407.857" z="380.152" ay="-1" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="8627B61E5AE944DCBD0C8D714B80FF4B" x="391.585" y="56.123" z="350.312" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="boss_whz_dy_06" ay="-1" amount="1" refreshtime="40000" NotPositive="0" desc="鞑靼近卫" />
+            <item No="2" id="boss_whz_dy_07" ay="-1" amount="1" refreshtime="30000" NotPositive="0" desc="鞑靼近卫" />
+            <item No="3" id="boss_whz_dy_08" ay="-1" amount="2" refreshtime="15000" NotPositive="0" desc="鞑靼近卫">
+                <position x="393.334" z="351.694" ay="-1" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+                <position x="393.492" z="350.034" ay="-1" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="BB2EB9B4F11A4FDCA6E1A17C78DBBD1D" x="428.451" y="57.006" z="392.536" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="boss_whz_dy_06" ay="-1" amount="1" refreshtime="40000" NotPositive="0" desc="鞑靼近卫" />
+            <item No="2" id="boss_whz_dy_07" ay="-1" amount="1" refreshtime="30000" NotPositive="0" desc="鞑靼近卫" />
+            <item No="3" id="boss_whz_dy_08" ay="-1" amount="2" refreshtime="15000" NotPositive="0" desc="鞑靼近卫">
+                <position x="430.201" z="393.918" ay="-1" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+                <position x="430.358" z="392.258" ay="-1" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="DAA3F242A6AC489D8B16EFC4E52417A4" x="378.363" y="55.610" z="411.127" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="boss_whz_dy_06" ay="-1" amount="1" refreshtime="40000" NotPositive="0" desc="鞑靼近卫" />
+            <item No="2" id="boss_whz_dy_07" ay="-1" amount="1" refreshtime="30000" NotPositive="0" desc="鞑靼近卫" />
+            <item No="3" id="boss_whz_dy_08" ay="-1" amount="2" refreshtime="15000" NotPositive="0" desc="鞑靼近卫">
+                <position x="380.112" z="412.509" ay="-1" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+                <position x="380.270" z="410.849" ay="-1" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="4A2AFF4ABABA4CC1B056A972F584BBD8" x="324.992" y="66.068" z="462.426" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="boss_whz_dy_06" ay="-1" amount="1" refreshtime="40000" NotPositive="0" desc="鞑靼近卫" />
+            <item No="2" id="boss_whz_dy_07" ay="-1" amount="1" refreshtime="30000" NotPositive="0" desc="鞑靼近卫" />
+            <item No="3" id="boss_whz_dy_08" ay="-1" amount="2" refreshtime="15000" NotPositive="0" desc="鞑靼近卫">
+                <position x="326.742" z="463.808" ay="-1" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+                <position x="326.899" z="462.148" ay="-1" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="D492B580804A40DB8BB9F54AD33E2FEB" x="361.622" y="66.827" z="535.030" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="boss_whz_dy_06" ay="-1" amount="1" refreshtime="40000" NotPositive="0" desc="鞑靼近卫" />
+            <item No="2" id="boss_whz_dy_07" ay="-1" amount="1" refreshtime="30000" NotPositive="0" desc="鞑靼近卫" />
+            <item No="3" id="boss_whz_dy_08" ay="-1" amount="2" refreshtime="15000" NotPositive="0" desc="鞑靼近卫">
+                <position x="363.371" z="536.411" ay="-1" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+                <position x="363.529" z="534.751" ay="-1" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="9675A37246CF4826A38C3970A1F07A77" x="332.612" y="67.975" z="485.907" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="boss_whz_dy_06" ay="-1" amount="1" refreshtime="40000" NotPositive="0" desc="鞑靼近卫" />
+            <item No="2" id="boss_whz_dy_07" ay="-1" amount="1" refreshtime="30000" NotPositive="0" desc="鞑靼近卫" />
+            <item No="3" id="boss_whz_dy_08" ay="-1" amount="2" refreshtime="15000" NotPositive="0" desc="鞑靼近卫">
+                <position x="334.361" z="487.289" ay="-1" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+                <position x="334.519" z="485.629" ay="-1" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="2E52AE06AD224B008858715AAC912E43" x="381.298" y="64.013" z="476.898" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="boss_whz_dy_06" ay="-1" amount="1" refreshtime="40000" NotPositive="0" desc="鞑靼近卫" />
+            <item No="2" id="boss_whz_dy_07" ay="-1" amount="1" refreshtime="30000" NotPositive="0" desc="鞑靼近卫" />
+            <item No="3" id="boss_whz_dy_08" ay="-1" amount="2" refreshtime="15000" NotPositive="0" desc="鞑靼近卫">
+                <position x="383.047" z="478.280" ay="-1" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+                <position x="383.205" z="476.620" ay="-1" WeaponName="b_r_npcitem329" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

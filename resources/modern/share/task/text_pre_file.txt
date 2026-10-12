@@ -1,0 +1,54 @@
+STRING	STRING	STRING
+pre	prop	filename
+CanAcceptMenu_	TID	stringtask_normal
+CompleteMenu_	TID	stringtask_normal
+complete_	TID	stringtask_normal
+context_	TID	stringtask_normal
+menu_	TID	stringtask_normal
+target_	TID	stringtask_normal
+task_menu_accept_	TID	stringtask_normal
+task_menu_complete_	TID	stringtask_normal
+title_	TID	stringtask_normal
+next_	TID	stringtask_normal
+UncompleteMenu_	TID	stringtask_normal
+task_TrackInfo_	TID	stringtask_normal
+uncom_	TID	stringtask_normal
+		
+submitnpcex_	TID	stringtask_special
+questioninfo_	TID	stringtask_special
+quest_menu_	TID	stringtask_special
+quest	TID	stringtask_special
+storyinfo_	TID	stringtask_special
+story	TID	stringtask_special
+storyinfo	TID	stringtask_special
+dialogmenu_	TID	stringtask_special
+story_menu_	TID	stringtask_special
+storymenu_	TID	stringtask_special
+story_	TID	stringtask_special
+storymenu	TID	stringtask_special
+convoy_	TID	stringtask_special
+convoy_talk_	TID	stringtask_special
+interact_	TID	stringtask_special
+interact	TID	stringtask_special
+jiaoxue_jia_	TID	stringtask_special
+jiaoxue_xu_	TID	stringtask_special
+jiaoxue_real_	TID	stringtask_special
+useitem	TID	stringtask_special
+useitem_	TID	stringtask_special
+tasklua_	TID	stringtask_special
+hunter	TID	stringtask_special
+collect	TID	stringtask_special
+hunter_	TID	stringtask_special
+		
+dialog_	FID	stringtask_special
+okmenu	FID	stringtask_special
+okmenu_	FID	stringtask_special
+qiecuomenu_	FID	stringtask_special
+qiecuotitle_	FID	stringtask_special
+collect_menu_	FID	stringtask_special
+collect_title_	FID	stringtask_special
+qiecuo_title_	FID	stringtask_special
+		
+question_	QID	stringtask_special
+		
+AnswerText1（这个要特殊处理，AnswerText1_1 第一个数字表示第一个答案，第二个数字表示题库编号）		

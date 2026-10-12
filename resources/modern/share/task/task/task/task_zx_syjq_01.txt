@@ -1,0 +1,19 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	RoundID	Plot	Title	Step	SearchID	Line	AcceptNpc	SubmitNpc	AcceptSceneID	SubmitSceneID	AutoAcceptID	AutoSubmit	PreTaskLimit	NextTaskLimit	AcceptLimit	SubmitLimit	SubFunction	TaskItemList	RefreshMonster	TimeLimitLength	SubmitNpcEx	TaskScript	TitleId	ContextId	AcceptDialogId	CompleteDialogId	UnCompleteDialogId	TaskTargetId	TrackInfoID	LineNextInfo	CanAcceptMenu	UncompleteMenu	CompleteMenu	AcceptMovie	SubmitMovie	DramaAccept	DramaSubmit	CanGiveup	ShareType	RepeatType	RepeatPeriod	CountDayLimit	DifficultCoefficient	DifficultLevel	ReputationLimit	AcceptReputationLimit	TiaozhanTime	ConditionPrize
+73701					s1630101	17	WorldNpc10008		16		73702	1		73702	117143;115860;17146								title_73701	context_73701	accept_73701_1;menu_73701_1			target_73701			CanAcceptMenu_73701							0	0	0	0	0						
+73702					s1630101	17					73703	1	73701	73703									title_73702	context_73702	accept_73702_1;menu_73702_1			target_73702			CanAcceptMenu_73702							0	0	0	0	0						
+73703					s1630101	17					73704	1	73702	73704									title_73703	context_73703				target_73703										0	0	0	0	0						
+73704					s1630101	17		npc_xjqrw_008			73705		73703	73705									title_73704	context_73704				target_73704										0	0	0	0	0						
+73705					s1630101	17					73706	1	73704	73706									title_73705	context_73705				target_73705										0	0	0	0	0						
+73706					s1630101	17					73707	1	73705	73707									title_73706	context_73706				target_73706										0	0	0	0	0						
+73707					s1630101	17		npc_xjqrw_008			73708		73706	73708							SubmitNpcEx_73707		title_73707	context_73707		complete_73707;submit_73707		target_73707										0	0	0	0	0						
+73708					s1630101	17	npc_xjqrw_008	npc_xjqrw_008					73707	73801							SubmitNpcEx_73708		title_73708	context_73708		complete_73708;submit_73708		target_73708										0	0	0	0	0						120650|74461|0|0|0
+73710					s1630102	18					73711	1	74233	73711									title_73710	context_73710				target_73710										0	0	0	0	0						
+73711					s1630102	18					73712	1	73710	73712									title_73711	context_73711				target_73711										0	0	0	0	0						
+73712					s1630102	18					73713	1	73711	73713							SubmitNpcEx_73712		title_73712	context_73712				target_73712										0	0	0	0	0						
+73713					s1630102	18					73714	1	73712	73714									title_73713	context_73713				target_73713		next_73713								0	0	0	0	0						
+73714					s1630102	18					73715	1	73713	73715									title_73714	context_73714				target_73714										0	0	0	0	0						
+73715					s1630102	18					73716	1	73714	73716									title_73715	context_73715				target_73715										0	0	0	0	0						
+73716					s1630102	18					73717	1	73715	73717									title_73716	context_73716				target_73716										0	0	0	0	0						
+73717					s1630102	18					73718	1	73716	73718									title_73717	context_73717				target_73717										0	0	0	0	0						
+73718					s1630102	18		npc_2019jq_dingzw_026		898			73717	73810									title_73718	context_73718		complete_73718;submit_73718		target_73718					CompleteMenu_73718					0	0	0	0	0						120650|74461|0|0|0

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="32A3F8BD27F5489E857B3CC2C7A2C68F" x="-527.536" y="-6.208" z="-1546.392" radius="1.1" WakeupRange="2.6" ChaseRange="2.2" PatrolRange="2.3" TaskSubId="15575" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_xdm_hs_gdj" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="黑石">
+                <position x="-526.986" z="-1546.409" ay="-1" />
+                <position x="-527.857" z="-1546.616" ay="-1" />
+                <position x="-527.613" z="-1545.838" ay="-1" />
+            </item>
+        </creator>
+        <creator No="96140E3AD4994F89BD0E7A674316ABBA" x="-564.709" y="-6.117" z="-1594.454" radius="1.9" WakeupRange="7.1" ChaseRange="6.6" PatrolRange="5.0" TaskSubId="15575" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_xdm_hs_gdj" ay="-1" amount="4" refreshtime="5" NotPositive="0" desc="黑石">
+                <position x="-565.047" z="-1593.954" ay="-1" />
+                <position x="-563.962" z="-1593.521" ay="-1" />
+                <position x="-564.394" z="-1595.296" ay="-1" />
+                <position x="-563.866" z="-1594.575" ay="-1" />
+            </item>
+        </creator>
+        <creator No="DA867D15925941C39A4223C98644681B" x="-550.571" y="-6.257" z="-1514.333" radius="1.9" WakeupRange="5.3" ChaseRange="4.5" PatrolRange="3.8" TaskSubId="15575" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_xdm_hs_gdj" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="黑石">
+                <position x="-549.944" z="-1513.102" ay="-1" />
+                <position x="-550.106" z="-1514.529" ay="-1" />
+                <position x="-551.429" z="-1513.780" ay="-1" />
+            </item>
+        </creator>
+        <creator No="7A3C4F8C4CA64C438AE49E8E7043C53E" x="-555.059" y="162.749" z="-350.131" radius="6.7" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="8.2" TaskSubId="15571" TaskSubType="2" HateLink="1">
+            <item No="1" id="xdm_xueshizi_gdj" ay="-1" amount="9" refreshtime="5" NotPositive="0" desc="血石子">
+                <position x="-551.211" z="-349.518" ay="-1" />
+                <position x="-552.517" z="-346.096" ay="-1" />
+                <position x="-557.912" z="-345.483" ay="-1" />
+                <position x="-560.210" z="-350.573" ay="-1" />
+                <position x="-556.923" z="-348.509" ay="-1" />
+                <position x="-553.412" z="-354.627" ay="-1" />
+                <position x="-554.622" z="-346.403" ay="-1" />
+                <position x="-559.723" z="-348.307" ay="-1" />
+                <position x="-559.403" z="-354.421" ay="-1" />
+            </item>
+        </creator>
+        <creator No="A69B7A8108274301B26D46AAE3C67229" x="-425.313" y="319.272" z="-257.649" radius="1.5" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="-1.0" TaskSubId="15574" TaskSubType="3" HateLink="1">
+            <item No="1" id="Gather_xdm_st_gdj" ay="3.233" amount="4" refreshtime="5" NotPositive="0" desc="水桶">
+                <position x="-425.771" z="-258.244" ay="3.233" />
+                <position x="-424.689" z="-258.358" ay="3.233" />
+                <position x="-424.382" z="-257.621" ay="3.233" />
+                <position x="-424.813" z="-257.191" ay="3.233" />
+            </item>
+        </creator>
+        <creator No="3BC820815D974BEE8AFF5B0FAB6FE6FC" x="-250.582" y="305.634" z="-488.399" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather_xdm_dy_xhd" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="信号弹">
+                <position x="-249.713" z="-489.186" ay="-1" />
+            </item>
+        </creator>
+        <creator No="8B46E1645B9E442898AB1A48783031F6" x="-631.583" y="-6.451" z="-1572.540" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1" SubSceneNo="8543">
+            <item No="1" id="Gather_xdm_dy_xg" sx="0.610" sy="0.610" sz="0.610" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="血棺">
+                <position x="-631.357" z="-1568.197" sx="0.610" sy="0.610" sz="0.610" ay="-1" />
+            </item>
+        </creator>
+        <creator No="D78FBB699ED94FB2814B6CCABFE0B05A" x="-632.197" y="-6.500" z="-1571.683" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1" SubSceneNo="8544">
+            <item No="1" id="Gather_xdm_dy_xg1" sx="0.640" sy="0.640" sz="0.640" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="血棺">
+                <position x="-632.369" z="-1567.914" sx="0.640" sy="0.640" sz="0.640" ay="-1" />
+            </item>
+        </creator>
+        <creator No="183637E079FF4521B73F26F186D1FE57" x="-622.965" y="-6.279" z="-1517.931" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1" SubSceneNo="8544">
+            <item No="1" id="Gather_xdm_dy_xg1" sx="0.560" sy="0.560" sz="0.560" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="血棺">
+                <position x="-623.231" z="-1518.511" sx="0.560" sy="0.560" sz="0.560" ay="-1" />
+            </item>
+        </creator>
+        <creator No="4E968A1ADCFE4DF6ADF02362FEB4BA20" x="-615.001" y="-6.162" z="-1530.372" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1" SubSceneNo="8544">
+            <item No="1" id="Gather_xdm_dy_xg1" sx="0.560" sy="0.560" sz="0.560" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="血棺">
+                <position x="-615.266" z="-1530.953" sx="0.560" sy="0.560" sz="0.560" ay="-1" />
+            </item>
+        </creator>
+        <creator No="0E7253C615D3493DAE67204BBDA163FA" x="-646.662" y="-6.180" z="-1539.938" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1" SubSceneNo="8544">
+            <item No="1" id="Gather_xdm_dy_xg1" sx="0.560" sy="0.560" sz="0.560" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="血棺">
+                <position x="-646.928" z="-1540.518" sx="0.560" sy="0.560" sz="0.560" ay="-1" />
+            </item>
+        </creator>
+        <creator No="13A8D6F164F1461FAACA064AD5AD32C9" x="-608.284" y="-6.187" z="-1573.532" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1" SubSceneNo="8544">
+            <item No="1" id="Gather_xdm_dy_xg1" sx="0.560" sy="0.560" sz="0.560" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="血棺">
+                <position x="-608.549" z="-1574.112" sx="0.560" sy="0.560" sz="0.560" ay="-1" />
+            </item>
+        </creator>
+        <creator No="45BA619A9BE24BF6A769FE7D3911AF51" x="-565.196" y="-6.546" z="-1579.785" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1" SubSceneNo="8544">
+            <item No="1" id="Gather_xdm_dy_xg1" sx="0.560" sy="0.560" sz="0.560" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="血棺">
+                <position x="-565.462" z="-1580.365" sx="0.560" sy="0.560" sz="0.560" ay="-1" />
+            </item>
+        </creator>
+        <creator No="6E8102D6966D42B787A52126883C24D3" x="-541.255" y="-6.498" z="-1569.383" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1" SubSceneNo="8544">
+            <item No="1" id="Gather_xdm_dy_xg1" sx="0.560" sy="0.560" sz="0.560" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="血棺">
+                <position x="-541.521" z="-1569.963" sx="0.560" sy="0.560" sz="0.560" ay="-1" />
+            </item>
+        </creator>
+        <creator No="8D15C24E953446649A2971A6C2B27A04" x="-568.421" y="-6.099" z="-1546.566" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1" SubSceneNo="8544">
+            <item No="1" id="Gather_xdm_dy_xg1" sx="0.560" sy="0.560" sz="0.560" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="血棺">
+                <position x="-568.687" z="-1547.146" sx="0.560" sy="0.560" sz="0.560" ay="-1" />
+            </item>
+        </creator>
+        <creator No="A9EC9C24530D4C9FAB360F0F92CDDDB0" x="-570.856" y="-6.184" z="-1519.876" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1" SubSceneNo="8544">
+            <item No="1" id="Gather_xdm_dy_xg1" sx="0.560" sy="0.560" sz="0.560" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="血棺">
+                <position x="-571.122" z="-1520.456" sx="0.560" sy="0.560" sz="0.560" ay="-1" />
+            </item>
+        </creator>
+        <creator No="119081BF750243D78B9A18ABCA221CA8" x="-576.106" y="-6.315" z="-1485.162" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1" SubSceneNo="8544">
+            <item No="1" id="Gather_xdm_dy_xg1" sx="0.560" sy="0.560" sz="0.560" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="血棺">
+                <position x="-576.372" z="-1485.742" sx="0.560" sy="0.560" sz="0.560" ay="-1" />
+            </item>
+        </creator>
+        <creator No="FF04D8C7AF4B40E0AA7DF9BE75C291A4" x="-545.761" y="-6.461" z="-1513.561" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1" SubSceneNo="8544">
+            <item No="1" id="Gather_xdm_dy_xg1" sx="0.560" sy="0.560" sz="0.560" ay="-1" amount="1" refreshtime="-1" NotPositive="0" desc="血棺">
+                <position x="-546.027" z="-1514.141" sx="0.560" sy="0.560" sz="0.560" ay="-1" />
+            </item>
+        </creator>
+        <creator No="D5FD98F40A9241ECB4F6D675EDF37EFF" x="-49.430" y="329.333" z="-557.671" radius="20.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="15.0" TaskSubId="15651" TaskSubType="2" StaticY="1" HateLink="1">
+            <item No="1" id="AttackNpc_qy_xdm" ay="-0.300" amount="1" refreshtime="30000" NotPositive="0" desc="血刀门奇遇">
+                <position x="-48.734" y="329.337" z="-558.475" ay="-0.300" WeaponName="b_r_21" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="068393BD3559402B9795EA7795870A52" x="-497.640" y="326.546" z="-542.823" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="15700" TaskSubType="2" HateLink="1">
+			<item No="1" id="Gather_xdm_dy_zcxg" ay="2.482" amount="1" refreshtime="10000" NotPositive="0" desc="大漠奇草"/>
+		</creator>
+		<creator No="068393BD3559402B9795EA7795870A52" x="-463.726" y="348.779" z="-536.694" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="15701" TaskSubType="2" HateLink="1">
+			<item No="1" id="Gather_xdm_dy_zcxg1" ay="2.482" amount="1" refreshtime="10000" NotPositive="0" desc="大漠奇草"/>
+		</creator>
+		<creator No="068393BD3559402B9795EA7795870A52" x="-459.542" y="314.894" z="-522.098" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="15703" TaskSubType="2" HateLink="1">
+			<item No="1" id="Gather_xdm_dy_zcxg2" ay="2.482" amount="1" refreshtime="10000" NotPositive="0" desc="大漠奇草"/>
+		</creator>
+		<creator No="068393BD3559402B9795EA7795870A52" x="-467.313" y="311.678" z="-486.041" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="15702" TaskSubType="2" HateLink="1">
+			<item No="1" id="Gather_xdm_dy_zcxg3" ay="2.482" amount="1" refreshtime="10000" NotPositive="0" desc="大漠奇草"/>
+		</creator>
+		<creator No="068393BD3559402B9795EA7795870A52" x="-351.999" y="299.174" z="-466.616" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="15704" TaskSubType="2" HateLink="1">
+			<item No="1" id="Gather_xdm_dy_zcxg4" ay="2.482" amount="1" refreshtime="10000" NotPositive="0" desc="大漠奇草"/>
+		</creator>
+		<creator No="068393BD3559402B9795EA7795870A52" x="-326.800" y="305.635" z="-507.611" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="15705" TaskSubType="2" HateLink="1">
+			<item No="1" id="Gather_xdm_dy_zcxg5" ay="2.482" amount="1" refreshtime="10000" NotPositive="0" desc="大漠奇草"/>
+		</creator>
+		<creator No="068393BD3559402B9795EA7795870A52" x="-333.491" y="300.329" z="-460.140" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="15707" TaskSubType="2" HateLink="1">
+			<item No="1" id="Gather_xdm_dy_zcxg6" ay="2.482" amount="1" refreshtime="10000" NotPositive="0" desc="大漠奇草"/>
+		</creator>
+		<creator No="068393BD3559402B9795EA7795870A52" x="-404.272" y="305.127" z="-484.478" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="15708" TaskSubType="2" HateLink="1">
+			<item No="1" id="Gather_xdm_dy_zcxg7" ay="2.482" amount="1" refreshtime="10000" NotPositive="0" desc="大漠奇草"/>
+		</creator>
+		<creator No="068393BD3559402B9795EA7795870A52" x="-658.446" y="262.162" z="-298.641" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="15720" TaskSubType="2" HateLink="1">
+			<item No="1" id="Gather_xdm_dy_zczf1" ay="2.482" amount="1" refreshtime="10000" NotPositive="0" desc="大漠奇草"/>
+		</creator>
+		<creator No="068393BD3559402B9795EA7795870A52" x="-640.465" y="272.430" z="-277.157" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="15721" TaskSubType="2" HateLink="1">
+			<item No="1" id="Gather_xdm_dy_zczf2" ay="2.482" amount="1" refreshtime="10000" NotPositive="0" desc="大漠奇草"/>
+		</creator>
+		<creator No="068393BD3559402B9795EA7795870A52" x="-665.812" y="286.602" z="-266.917" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="15722" TaskSubType="2" HateLink="1">
+			<item No="1" id="Gather_xdm_dy_zczf3" ay="2.482" amount="1" refreshtime="10000" NotPositive="0" desc="大漠奇草"/>
+		</creator>
+		<creator No="068393BD3559402B9795EA7795870A52" x="-611.014" y="286.135" z="-213.380" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="15723" TaskSubType="2" HateLink="1">
+			<item No="1" id="Gather_xdm_dy_zczf4" ay="2.482" amount="1" refreshtime="10000" NotPositive="0" desc="大漠奇草"/>
+		</creator>
+    </randomcreator>
+</object>

@@ -1,0 +1,170 @@
+NPC编号	对象类型	名称	模型编号	NPC类型	走路速度	跑步速度	相对位置	子怪物	巡逻模式	AI类型	追击范围	路径编号	能否死亡	脚本编号	AI编辑包
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	script	Name	Resource	NpcType	WalkSpeed	RunSpeed	PosList	ChildList	PatrolMode	AITemplate	ChaseRange	PathID	CanDead	LuaScript	AIEditorPackID
+															
+Leader00001	TeamLeaderNpc	傻子	npc\monster016	11	1.2	3	"0,1;-1,-1;1,-1"	Monster00001;Monster00003;Monster00001	1	6	20	normal_path_009	0		
+															
+Leader_monv031190	TeamLeaderNpc	逃匿山贼_巡逻_桥上_2人	npc\monster016	11	1	5	"-1,0;1,0"	monv031100;monv031100	1	6	20	monv031190	0		
+Leader_monv031191	TeamLeaderNpc	逃匿山贼_巡逻_桥外三点_2人	npc\monster016	11	1	5	"0,0;0,-1"	monv031100;monv031100	1	6	20	monv031191	0		
+Leader_monv031192	TeamLeaderNpc	逃匿山贼_巡逻_庙边1_1人	npc\monster016	11	1	5	"0,0"	monv031100	1	6	20	monv031192	0		
+Leader_monv031193	TeamLeaderNpc	逃匿山贼_巡逻_庙边2_1人	npc\monster016	11	1	5	"0,0"	monv031100	1	6	20	monv031193	0		
+															
+Leader_sl_001	TeamLeaderNpc	恶商打手队	npc\monster016	11	1.2	6	"0,0;-1,-1;1,-1"	FightFuncNpc00204b;FightFuncNpc00201b;FightFuncNpc00201b	1	6	20	AI_sl_004	0		
+															
+Leader_xinshi01	TeamLeaderNpc	信使	npc\itemnpc057	11	1.5	5	"0,1;-1,-1;1,-1"	monf044300;monrf041000;monrf041000	1	6	30	AI_xinshi01	1		
+															
+Leader_xinshi02	TeamLeaderNpc	夺命恶徒	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm010500;monm010500;monm010500	1	6	30	school01_mst01	1		
+															
+Leader_shaolin01	TeamLeaderNpc	少林藏经阁巡逻3人	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm080300;monm080300;monm080300	1	6	30	school08_01	1		
+Leader_shaolin02	TeamLeaderNpc	达摩洞巡逻1人	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm084700	1	6	30	school08_02	1		
+Leader_shaolin03	TeamLeaderNpc	二祖庵巡逻1人a	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm084600	1	6	30	school08_03	1		
+Leader_shaolin04	TeamLeaderNpc	二祖庵巡逻1人b	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm084500	1	6	30	school08_04	1		
+Leader_shaolin05	TeamLeaderNpc	塔林巡逻1人a	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm084300	1	6	30	school08_05	1		
+Leader_shaolin06	TeamLeaderNpc	塔林巡逻1人b	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm084300	1	6	30	school08_06	1		
+Leader_shaolin07	TeamLeaderNpc	塔林巡逻1人c	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm084400	1	6	30	school08_07	1		
+Leader_shaolin08	TeamLeaderNpc	塔林巡逻1人d	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm084200	1	6	30	school08_08	1		
+Leader_shaolin09	TeamLeaderNpc	塔林巡逻1人e	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm084100	1	6	30	school08_09	1		
+Leader_shaolin10	TeamLeaderNpc	太平村巡逻2人a	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm081700;monm081700	1	6	30	school08_10	1		
+Leader_shaolin11	TeamLeaderNpc	太平村巡逻2人b	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm081700;monm081700	1	6	30	school08_11	1		
+Leader_shaolin12	TeamLeaderNpc	太平村巡逻1人c	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm081700	1	6	30	school08_12	1		
+Leader_shaolin13	TeamLeaderNpc	太平村巡逻1人d	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm082200	1	6	30	school08_13	1		
+Leader_shaolin14	TeamLeaderNpc	太平村巡逻1人e	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm081300	1	6	30	school08_14	1		
+Leader_shaolin15	TeamLeaderNpc	太平村巡逻2人f	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm081100;monm081200	1	6	30	school08_15	1		
+Leader_shaolin16	TeamLeaderNpc	太平村巡逻1人g	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm081600	1	6	30	school08_16	1		
+Leader_shaolin17	TeamLeaderNpc	太平村巡逻1人h	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm081600	1	6	30	school08_17	1		
+Leader_shaolin18	TeamLeaderNpc	太平村巡逻1人i	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm080100	1	6	30	school08_18	1		
+Leader_shaolin19	TeamLeaderNpc	太平村巡逻1人j	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm081500	1	6	30	school08_19	1		
+Leader_shaolin20	TeamLeaderNpc	太平村巡逻1人k	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm081400	1	6	30	school08_20	1		
+Leader_shaolin21	TeamLeaderNpc	少林寺巡逻1人a	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm080200	1	6	30	school08_21	1		
+Leader_shaolin22	TeamLeaderNpc	少林寺巡逻1人b	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm080500	1	6	30	school08_22	1		
+Leader_shaolin23	TeamLeaderNpc	少林寺巡逻2人c	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm080400;monm080400	1	6	30	school08_23	1		
+Leader_shaolin24	TeamLeaderNpc	少林寺巡逻2人d	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm080500;monm080500	1	6	30	school08_24	1		
+Leader_shaolin25	TeamLeaderNpc	少林寺巡逻2人e	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm080600;monm080600	1	6	30	school08_25	1		
+Leader_shaolin26	TeamLeaderNpc	少林寺巡逻3人f	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm080700;monm080700;monm080700	1	6	30	school08_26	1		
+Leader_shaolin27	TeamLeaderNpc	嵩山剑派巡逻2人a	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm083300;monm083300	1	6	30	school08_27	1		
+Leader_shaolin28	TeamLeaderNpc	嵩山剑派巡逻1人b	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm083400	1	6	30	school08_28	1		
+Leader_shaolin29	TeamLeaderNpc	嵩山剑派巡逻2人c	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm083700;monm083700	1	6	30	school08_29	1		
+Leader_shaolin30	TeamLeaderNpc	嵩山剑派巡逻1人d	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm083700	1	6	30	school08_30	1		
+Leader_shaolin31	TeamLeaderNpc	嵩山剑派巡逻2人e	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm083600;monm083600	1	6	30	school08_31	1		
+Leader_shaolin32	TeamLeaderNpc	嵩山剑派巡逻3人f	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm083100;monm083100;monm083100	1	6	30	school08_32	1		
+Leader_shaolin33	TeamLeaderNpc	嵩山剑派巡逻3人g	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm083600;monm083600;monm083600	1	6	30	school08_33	1		
+Leader_shaolin34	TeamLeaderNpc	嵩山剑派巡逻2人h	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm083600;monm083600	1	6	30	school08_34	1		
+Leader_shaolin35	TeamLeaderNpc	嵩山剑派巡逻2人i	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm083200;monm083200	1	6	30	school08_35	1		
+Leader_shaolin36	TeamLeaderNpc	嵩山剑派巡逻3人j	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm083500;monm083500;monm083500	1	6	30	school08_36	1		
+Leader_shaolin37	TeamLeaderNpc	嵩山剑派巡逻1人k	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm083500	1	6	30	school08_37	1		
+Leader_shaolin38	TeamLeaderNpc	嵩阳书院巡逻2人a	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm082400;monm082400	1	6	30	school08_38	1		
+Leader_shaolin39	TeamLeaderNpc	嵩阳书院巡逻3人b	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm082300;monm082300;monm082300	1	6	30	school08_39	1		
+Leader_shaolin40	TeamLeaderNpc	嵩阳书院巡逻2人c	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm082600;monm082600	1	6	30	school08_40	1		
+Leader_shaolin41	TeamLeaderNpc	嵩阳书院巡逻1人d	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm082600	1	6	30	school08_41	1		
+Leader_shaolin42	TeamLeaderNpc	嵩阳书院巡逻3人e	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm082700;monm082700;monm082700	1	6	30	school08_42	1		
+Leader_shaolin43	TeamLeaderNpc	嵩阳书院巡逻1人f	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm082400	1	6	30	school08_43	1		
+Leader_shaolin44	TeamLeaderNpc	嵩阳书院巡逻3人g	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm082400;monm082400;monm082400	1	6	30	school08_44	1		
+Leader_shaolin45	TeamLeaderNpc	嵩阳书院巡逻3人h	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm082500;monm082500;monm082500	1	6	30	school08_45	1		
+Leader_shaolin46	TeamLeaderNpc	嵩阳书院巡逻2人i	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm082500;monm082500	1	6	30	school08_46	1		
+Leader_shaolin47	TeamLeaderNpc	嵩阳书院巡逻2人j	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm082500;monm082500	1	6	30	school08_47	1		
+Leader_shaolin48	TeamLeaderNpc	嵩阳书院巡逻2人k	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm082500;monm082500	1	6	30	school08_48	1		
+															
+Leader_xinshi03	TeamLeaderNpc	夺命恶徒	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm010500;monm010500;monm010500	1	6	30	scene03_2	1		
+															
+Leader_fanhuan01	TeamLeaderNpc	锦衣卫刺客巡逻3人	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monf034300;monf034300;monf034300	1	6	30	scene03_01	1		
+Leader_fanhuan02	TeamLeaderNpc	密宗精英巡逻3人	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monf033700;monf033700;monf033700	1	6	30	scene03_02	1		
+Leader_fanhuan03	TeamLeaderNpc	官府兵痞巡逻3人	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monf032500;monf032500;monf032500	1	6	30	scene03_03	1		
+Leader_fanhuan04	TeamLeaderNpc	盗墓贼巡逻3人	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monf032400;monf032400;monf032400	1	6	30	scene03_04	1		
+Leader_fanhuan05	TeamLeaderNpc	幽冥宫劫掠弟子巡逻3人	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monrf033400;monrf033400;monrf033400	1	6	30	scene03_05	1		
+Leader_fanhuan06	TeamLeaderNpc	幽冥高手巡逻3人	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monf032600;monf032600;monf032600	1	6	30	scene03_06	1		
+Leader_fanhuan07	TeamLeaderNpc	饥饿暴民巡逻3人	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monf031600;monf031600;monf031600	1	6	30	scene03_07	1		
+Leader_fanhuan08	TeamLeaderNpc	凶残兵痞巡逻3人	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monf031300;monf031300;monf031300	1	6	30	scene03_08	1		
+Leader_fanhuan09	TeamLeaderNpc	凶残兵痞巡逻3人	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monrf033200;monrf033200;monrf033200	1	6	30	scene03_09	1		
+Leader_fanhuan10	TeamLeaderNpc	官府衙役巡逻3人	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monf030400;monf030400;monf030400	1	6	30	scene03_10	1		
+Leader_fanhuan11	TeamLeaderNpc	恶毒工头巡逻3人	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monf030700;monf030700;monf030700	1	6	30	scene03_11	1		
+															
+Leader_yanjing01	TeamLeaderNpc	外村征税甲首	npc\worldnpc124	11	1.5	5			1	6	30	city01_mst01	1		
+Leader_yanjing02	TeamLeaderNpc	哨岗守卫	npc\worldnpc124	11	1.5	5			1	6	30	city01_mst02	1		
+Leader_yanjing03	TeamLeaderNpc	哨岗守卫	npc\worldnpc124	11	1.5	5			1	6	30	city01_mst03	1		
+Leader_yanjing04	TeamLeaderNpc	军马场刀兵	npc\worldnpc124	11	1.5	5			1	6	30	city01_mst04	1		
+Leader_yanjing05	TeamLeaderNpc	沁水湖剑客	npc\worldnpc124	11	1.5	5			1	6	30	city01_mst05	1		
+Leader_yanjing06	TeamLeaderNpc	东盛殿护卫	npc\worldnpc124	11	1.5	5			1	6	30	city01_mst06	1		
+Leader_yanjing07	TeamLeaderNpc	东方世家练武弟子	npc\worldnpc124	11	1.5	5			1	6	30	city01_mst07	1		
+Leader_yanjing08	TeamLeaderNpc	杀人庄禁地刀卫	npc\worldnpc124	11	1.5	5			1	6	30	city01_mst08	1		
+Leader_yanjing09	TeamLeaderNpc	阴风谷剑客	npc\worldnpc124	11	1.5	5			1	6	30	city01_mst09	1		
+Leader_yanjing10	TeamLeaderNpc	黄泉杀手	npc\worldnpc124	11	1.5	5			1	6	30	city01_mst10	1		
+Leader_yanjing11	TeamLeaderNpc	金泉杀手	npc\worldnpc124	11	1.5	5			1	6	30	city01_mst11	1		
+Leader_yanjing12	TeamLeaderNpc	阴风谷妖女	npc\worldnpc124	11	1.5	5			1	6	30	city01_mst12	1		
+Leader_yanjing13	TeamLeaderNpc	锦衣卫高手	npc\worldnpc124	11	1.5	5			1	6	30	city01_mst13	1		
+Leader_yanjing14	TeamLeaderNpc	锦衣卫爪牙	npc\worldnpc124	11	1.5	5			1	6	30	city01_mst14	1		
+Leader_yanjing15	TeamLeaderNpc	山寨土匪	npc\worldnpc124	11	1.5	5			1	6	30	city01_mst15	1		
+Leader_yanjing16	TeamLeaderNpc	古墓派女弟子	npc\worldnpc124	11	1.5	5			1	6	30	city01_mst16	1		
+Leader_yanjing17	TeamLeaderNpc	锦衣卫守卫	npc\worldnpc124	11	1.5	5			1	6	30	city01_mst17	1		
+															
+Leader_junzitang01	TeamLeaderNpc	神木帮主堂刀卫	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm032700;monm032700;monm032700	1	6	30	school03_01	1		
+Leader_junzitang02	TeamLeaderNpc	龙母庙恶僧	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm031500;monm031500;monm031500	1	6	30	school03_02	1		
+Leader_junzitang04	TeamLeaderNpc	试剑台剑卫	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm031300;monm031300;monm031300	1	6	30	school03_04	1		
+Leader_junzitang05	TeamLeaderNpc	修罗道人	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm032500;monm032500	1	6	30	school03_05	1		
+Leader_junzitang06	TeamLeaderNpc	神木帮喽啰	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm032300;monm032300;monm032300	1	6	30	school03_06	1		
+Leader_junzitang07	TeamLeaderNpc	青龙堡喽啰	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm032100;monm032100;monm032100	1	6	30	school03_07	1		
+Leader_junzitang08	TeamLeaderNpc	鬼祟的极乐谷弟子	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm030200;monm030200;monm030200	1	6	30	school03_08	1		
+Leader_junzitang09	TeamLeaderNpc	礁岛哨兵	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm030400;monm030400;monm030400	1	6	30	school03_09	1		
+Leader_junzitang10	TeamLeaderNpc	贪婪的采燕窝者	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm030300;monm030300;monm030300	1	6	30	school03_10	1		
+Leader_junzitang11	TeamLeaderNpc	乱石坡恶匪	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm030600;monm030600;monm030600	1	6	30	school03_11	1		
+															
+Leader_junzitang567	TeamLeaderNpc	乱石坡恶匪	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	monm030600;monm030600	1	6	30	school03_11	1		
+															
+Leader_tongyong1	TeamLeaderNpc	关卡通用巡逻队	npc\worldnpc124	11	1.5	5	"1,1;-1,1"		1	6	30		1		
+Leader_tongyong2	TeamLeaderNpc	关卡通用巡逻队	npc\worldnpc111	11	1.5	5	"1,1;-1,1"		1	6	30		1		
+															
+Leader_chengdu_shipin	TeamLeaderNpc	主角女配角行走	npc\worldnpc124	11	1.5	5	"-0.299,-0.541;0.444,-0.447"	worldnpcNpc09998tangmen02;WorldNpc02204	1	6	30	city05_tangmen	0		
+															
+Leader_chengdu_tg01	TeamLeaderNpc	浣花派巡逻弟子	npc\worldnpc124	11	1.5	5	"1,1;-1,1"		1	6	30	FI_cd_065	1		
+Leader_chengdu_tg02	TeamLeaderNpc	浣花派巡逻弟子	npc\worldnpc124	11	1.5	5	"1,1;-1,1"		1	6	30	FI_cd_066	1		
+															
+Leader_rn_qiandeng01	TeamLeaderNpc	千灯镇精英巡逻小队1	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-1"	RN_qiandeng03;RN_qiandeng01;RN_qiandeng01	1	6	60	born04_rn_path01	1		
+Leader_rn_qiandeng02	TeamLeaderNpc	千灯镇精英巡逻小队2	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-2"	RN_qiandeng02;RN_qiandeng01;RN_qiandeng01	1	6	60		1		
+Leader_rn_erengu01	TeamLeaderNpc	恶人谷精英巡逻小队1	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-3"	RN_RN_erengu03;RN_qiandeng01;RN_qiandeng01	1	6	60	born04_rn_path01	1		
+Leader_rn_erengu02	TeamLeaderNpc	恶人谷精英巡逻小队2	npc\worldnpc124	11	1.5	5	"0,1;-1,-1;1,-4"	RN_RN_erengu03;RN_qiandeng01;RN_qiandeng01	1	6	60		1		
+Leader_rn_yanyuzhuang01	TeamLeaderNpc	烟雨庄精英巡逻小队1	npc\worldnpc125	11	1.5	5	"0,1;-1,-1;1,-5"	RN_yanyuzhuang03;RN_yanyuzhuang01;RN_yanyuzhuang01	1	6	60		1		
+Leader_rn_yanyuzhuang02	TeamLeaderNpc	烟雨庄精英巡逻小队2	npc\worldnpc126	11	1.5	5	"0,1;-1,-1;1,-6"	RN_yanyuzhuang03;RN_yanyuzhuang01;RN_yanyuzhuang01	1	6	60		1		
+Leader_rn_jimingyi01	TeamLeaderNpc	鸡鸣驿精英巡逻小队1	npc\worldnpc127	11	1.5	5	"0,1;-1,-1;1,-7"	RN_jimingyi03;RN_jimingyi01;RN_jimingyi01	1	6	60		1		
+Leader_rn_jimingyi02	TeamLeaderNpc	鸡鸣驿精英巡逻小队2	npc\worldnpc128	11	1.5	5	"0,1;-1,-1;1,-8"	RN_jimingyi03;RN_jimingyi01;RN_jimingyi01	1	6	60		1		
+Leader_rn_yanjing01	TeamLeaderNpc	燕京精英巡逻小队1	npc\worldnpc129	11	1.5	5	"0,1;0,0;0,-1;0,-2"	RN_jinling03;RN_jinling02;RN_jinling02;RN_jinling02	1	6	60	city0101_rn_path01	1		
+Leader_rn_yanjing02	TeamLeaderNpc	燕京精英巡逻小队2	npc\worldnpc130	11	1.5	5	"0,1;0,0;0,-1;0,-2"	RN_jinling03;RN_jinling02;RN_jinling02;RN_jinling02	1	6	60	city0101_rn_path02	1		
+Leader_rn_yanjing03	TeamLeaderNpc	燕京精英巡逻小队3	npc\worldnpc131	11	1.5	5	"0,1;0,0;0,-1;0,-2"	RN_jinling03;RN_jinling02;RN_jinling02;RN_jinling02	1	6	60		1		
+Leader_rn_yanjing04	TeamLeaderNpc	燕京精英巡逻小队4	npc\worldnpc132	11	1.5	5	"0,1;0,0;0,-1;0,-2"	RN_jinling03;RN_jinling02;RN_jinling02;RN_jinling02	1	6	60		1		
+Leader_qy_120401_shaolin_01	TeamLeaderNpc	少林三内奇遇第一波5人NPC（少林到洛阳）	npc\worldnpc132	11	1.5	5	"0,1;-1,0;1,0;1,-1;-1,-1"	qy_120401_luoyang_03;qy_120401_luoyang_02;qy_120401_luoyang_02;qy_120401_luoyang_02;qy_120401_luoyang_02	1	6	60		1		
+Leader_qy_120401_shaolin_02	TeamLeaderNpc	少林三内奇遇第一波5人NPC（洛阳到白马寺）	npc\worldnpc132	11	1.5	5	"0,1;-1,0;1,0;1,-1;-1,-1"	qy_120401_luoyang_03;qy_120401_luoyang_02;qy_120401_luoyang_02;qy_120401_luoyang_02;qy_120401_luoyang_02	1	6	60	qy_120401_luoyang_01	1		
+Leader_qy_120401_shaolin_03	TeamLeaderNpc	少林三内奇遇第一波3人NPC（白马寺到青云堡）	npc\worldnpc132	11	1.5	5	"0,1;-1,0"	qy_120401_luoyang_03;qy_111030_junzitang_xingjunke	1	6	60	qy_120401_luoyang_02	1		
+Leader_qy_120401_shaolin_04	TeamLeaderNpc	少林三内奇遇第二波5人NPC1（少林到洛阳）	npc\worldnpc132	11	1.5	5	"0,1;-1,0;1,0;1,-1;-1,-1"	qy_120401_shaolin_zucheng01;qy_120401_shaolin_qc01;qy_120401_luoyang_02;qy_120401_luoyang_02;qy_120401_luoyang_02	1	6	60	qy_120401_shaolin_01	1		
+Leader_qy_120401_shaolin_05	TeamLeaderNpc	少林三内奇遇第二波5人NPC2（洛阳到白马寺）	npc\worldnpc132	11	1.5	5	"0,1;-1,0;1,0;1,-1;-1,-1"	qy_120401_shaolin_zucheng;qy_120401_shaolin_qc_02;qy_120401_luoyang_02;qy_120401_luoyang_02;qy_120401_luoyang_02	1	6	60	qy_120401_luoyang_01	1		
+Leader_qy_120401_shaolin_06	TeamLeaderNpc	少林三内奇遇第二波4人NPC2（白马寺到小乌村）	npc\worldnpc132	11	1.5	5	"0,1;-1,0;1,0;1,-1;-1,-1"	qy_120401_shaolin_zucheng;qy_120401_shaolin_qc;qy_120401_luoyang_02;qy_120401_luoyang_02;qy_120401_luoyang_02	1	6	60	qy_120401_luoyang_03	1		
+Leader_qy_120401_shaolin_07	TeamLeaderNpc	新建第一波僧人	npc\worldnpc132	11	1.5	5	"0,1;-1,0;1,0;1,-1;-1,-1"	qy_120401_luoyang_03;qy_120401_luoyang_02;qy_120401_luoyang_02;qy_120401_luoyang_02;qy_120401_luoyang_02	1	6	60		1		
+															
+Leader_marry_1	TeamLeaderNpc	婚礼最高档次	npc\worldnpc129	11	1.5	5	"-1.951,-6.402;2.068,-8.850;2.067,-6.417;-1.945,-8.895;1.999,-4.096;-1.830,4.836;-1.836,1.818;-1.774,7.913;-1.891,-4.142;2.148,4.879;2.129,1.758;2.114,7.915;-1.893,-1.381;2.075,-1.389;0.224,7.287"	Marry_01_05;Marry_01_05;Marry_01_05;Marry_01_05;Marry_03_02;Marry_03_03;Marry_03_04;Marry_03_05;Marry_03_02;Marry_03_03;Marry_03_04;Marry_03_05;Marry_03_01;Marry_03_01;Marry_01_05	1	6	60	HL_JL5_07	1		1602
+Leader_marry_2	TeamLeaderNpc	婚礼最高档次	npc\worldnpc129	11	1.5	5	"-1.705,-1.420;-1.727,1.281;1.466,4.144;1.483,-1.456;1.501,1.250;-1.667,4.170;1.453,-3.783;-1.772,-3.764;0.051,3.676"	Marry_03_01;Marry_03_03;Marry_03_05;Marry_03_01;Marry_03_03;Marry_03_05;Marry_01_05;Marry_01_05;Marry_01_05	1	6	60	HL_JL4_07	1		1602
+Leader_marry_3	TeamLeaderNpc	婚礼最高档次	npc\worldnpc129	11	1.5	5	"-0.041,-2.477;1.421,-1.602;-1.508,-1.638;-1.545,1.864;1.478,1.868"	Marry_01_05;Marry_03_01;Marry_03_01;Marry_03_05;Marry_03_05	1	6	60	HL_JL2_07	1		1602
+															
+Leader_khd_1	TeamLeaderNpc	关卡通用巡逻队	npc\worldnpc111	11	1.5	5	"1,1;-1,1"		1	6	30		1		
+Leader_xuedaomen_1	TeamLeaderNpc	血刀门巡逻队	npc\worldnpc124	11	1.5	5	"1,1;-1,1"		1	6	30		1		
+															
+Leader_dbdh_01	TeamLeaderNpc	夺镖大会游街	npc\worldnpc129	11	1.5	4	"0.041,2.090;1.438,-5.723;-0.988,-5.564;1.457,-7.103;-0.941,-6.919;0.000,8.691;-1.764,6.416;1.441,6.695;-0.857,4.746;0.970,4.750;-0.941,-4.291;1.453,-4.314;-2.140,-2.428;2.409,0.625;2.664,-2.316;-2.341,0.588"	cfbj_hd_03_027;cfbj_hd_03_028;cfbj_hd_03_028;cfbj_hd_03_028;cfbj_hd_03_028;cfbj_hd_03_024;cfbj_hd_03_025;cfbj_hd_03_029;cfbj_hd_03_026;cfbj_hd_03_026;cfbj_hd_03_026;cfbj_hd_03_026;cfbj_hd_03_028;cfbj_hd_03_028;cfbj_hd_03_028;cfbj_hd_03_028	1	6	60	cfbj_dbdh_001	1		3306
+															
+	//念萝坝														
+Leader_school15_001	TeamLeaderNpc	念萝坝巡逻	npc\worldnpc124	11	1.5	5	"1,1;-1,1"		1	6	30		1		
+Leader_school15_002	TeamLeaderNpc	念萝坝巡逻	npc\worldnpc124	11	1.5	5	"1,1;-1,1"		1	6	30		1		
+Leader_school15_003	TeamLeaderNpc	念萝坝巡逻	npc\worldnpc124	11	1.5	5	"1,1;-1,1"		1	6	30		1		
+Leader_school15_004	TeamLeaderNpc	念萝坝巡逻	npc\worldnpc124	11	1.5	5	"1,1;-1,1"		1	6	30		1		
+Leader_school15_005	TeamLeaderNpc	念萝坝巡逻	npc\worldnpc124	11	1.5	5	"1,1;-1,1"		1	6	30		1		
+Leader_school15_006	TeamLeaderNpc	念萝坝巡逻	npc\worldnpc124	11	1.5	5	"1,1;-1,1"		1	6	30		1		
+Leader_school15_007	TeamLeaderNpc	念萝坝巡逻	npc\worldnpc124	11	1.5	5	"1,1;-1,1"		1	6	30		1		
+Leader_school15_008	TeamLeaderNpc	念萝坝巡逻	npc\worldnpc124	11	1.5	5	"1,1;-1,1"		1	6	30		1		
+Leader_school15_009	TeamLeaderNpc	念萝坝巡逻	npc\worldnpc124	11	1.5	5	"1,1;-1,1"		1	6	30		1		
+Leader_school15_010	TeamLeaderNpc	念萝坝巡逻	npc\worldnpc124	11	1.5	5	"1,1;-1,1"		1	6	30		1		
+Leader_school15_011	TeamLeaderNpc	念萝坝巡逻	npc\worldnpc124	11	1.5	5	"1,1;-1,1"		1	6	30		1		
+Leader_school15_012	TeamLeaderNpc	念萝坝巡逻	npc\worldnpc124	11	1.5	5	"1,1;-1,1"		1	6	30		1		
+Leader_school15_013	TeamLeaderNpc	念萝坝巡逻	npc\worldnpc124	11	1.5	5	"1,1;-1,1"		1	6	30		1		
+Leader_school15_014	TeamLeaderNpc	念萝坝巡逻	npc\worldnpc124	11	1.5	5	"1,1;-1,1"		1	6	30		1		
+Leader_school15_015	TeamLeaderNpc	念萝坝巡逻	npc\worldnpc124	11	1.5	5	"1,1;-1,1"		1	6	30		1		
+Leader_school15_016	TeamLeaderNpc	念萝坝巡逻	npc\worldnpc124	11	1.5	5	"1,1;-1,1"		1	6	30		1		
+Leader_school15_017	TeamLeaderNpc	念萝坝巡逻	npc\worldnpc124	11	1.5	5	"1,1;-1,1"		1	6	30		1		
+Leader_school15_018	TeamLeaderNpc	念萝坝巡逻	npc\worldnpc124	11	1.5	5	"1,1;-1,1"		1	6	30		1		
+Leader_school15_019	TeamLeaderNpc	念萝坝巡逻	npc\worldnpc124	11	1.5	5	"1,1;-1,1"		1	6	30		1		
+Leader_school15_020	TeamLeaderNpc	念萝坝巡逻	npc\worldnpc124	11	1.5	5	"1,1;-1,1"		1	6	30		1		
+Leader_school15_021	TeamLeaderNpc	念萝坝巡逻	npc\worldnpc124	11	1.5	5	"1,1;-1,1"		1	6	30		1		

@@ -1,0 +1,169 @@
+{
+  "fixture_version": 1,
+  "sources": {
+    "template_table": {
+      "path": "res/share/npc/npcconfig/worldnpc/school_commonnpc.txt",
+      "encoding": "GBK",
+      "sha256": "B6C08D78FEB4661D56FCE361CD2A5E0C6F1E6D9C296B847D48075EEF07728640",
+      "columns": 130,
+      "logical_records_including_headers": 5986
+    },
+    "creator": {
+      "path": "res/share/creator/npc_creator/school07_wudang/commonnpc.xml",
+      "encoding": "UTF-8",
+      "sha256": "955692AC964E9F24B387CD2276748E608B30436C1FFF87CDA93B2E6295203E6D",
+      "items": 1433
+    }
+  },
+  "template": {
+    "config_id": "FuncNpc01608",
+    "logical_record": 3628,
+    "physical_start_line": 3664,
+    "raw_non_empty": {
+      "ID": "FuncNpc01608",
+      "script": "CommonNpc",
+      "Name": "武当门派指引人",
+      "AIParaNo": "8",
+      "NpcType": "229",
+      "SelectState": "2",
+      "CursorShape": "2",
+      "WalkSpeed": "1.25",
+      "RunSpeed": "4",
+      "WeaponMode": "hand1_1",
+      "Resource": "npc\\worldnpc288",
+      "Photo": "icon\\funcnpc\\worldnpc288.png",
+      "CKindID": "0",
+      "LuaScript": "npc\\introducer_npc.lua",
+      "AITemplate": "3",
+      "PatrolMode": "0",
+      "PatrolRange": "0",
+      "SpringRange": "20",
+      "School": "prop_QiTaMenPai_1",
+      "Hometown": "Home_133",
+      "Camp": "1",
+      "OriginPara1": "1",
+      "OriginPara2": "7",
+      "OriginPara3": "5",
+      "NpcTalkRule": "talkrule010705",
+      "CanQiecuo": "1",
+      "PowerNo": "1",
+      "Level": "2",
+      "BossLevel": "1",
+      "NotPositive": "1",
+      "CantBeKilled": "1",
+      "AIFightFreq": "2000",
+      "ChaseRange": "15",
+      "SkillHoldTime": "2000",
+      "SelfForceID": "1",
+      "SummonIDBeginFight": "0",
+      "StopTime": "10",
+      "table@TaskCanAccept": "52;51621;",
+      "Character": "1",
+      "KarmaLevel": "4"
+    }
+  },
+  "creator_instance": {
+    "ordinal_one_based": 428,
+    "physical_line": 432,
+    "no": "9DA93858D02B4E50A00BE524FF74FD37",
+    "template_id": "FuncNpc01608",
+    "attributes": {
+      "x": "481.266",
+      "y": "87.399",
+      "z": "631.501",
+      "ay": "0.240",
+      "RefreshTime": "30000.0",
+      "PatrolMode": "1",
+      "WakeupRange": "12.0",
+      "ChaseRange": "13.0",
+      "NotPositive": "0",
+      "WeaponMode": "hand10_1",
+      "desc": "武当门派指引人",
+      "ChildList": "",
+      "PosList": ""
+    }
+  },
+  "expected": {
+    "transform": {
+      "x": 481.266,
+      "y": 87.399,
+      "z": 631.501,
+      "orient_y": 0.24
+    },
+    "creator_overrides": {
+      "WeaponMode": {
+        "wire_type": "string",
+        "value": "hand10_1",
+        "replaces": "hand1_1"
+      },
+      "PatrolMode": {
+        "wire_type": "int32",
+        "value": 1,
+        "replaces": 0
+      },
+      "ChaseRange": {
+        "wire_type": "float32",
+        "value": 13,
+        "replaces": 15
+      },
+      "NotPositive": {
+        "wire_type": "int32",
+        "value": 0,
+        "replaces": 1
+      },
+      "RefreshTime": {
+        "wire_type": "int32",
+        "value": 30000,
+        "replaces": null
+      }
+    },
+    "resolved_properties": {
+      "ConfigID": { "wire_type": "string", "value": "FuncNpc01608", "source": "template.ID" },
+      "Name": { "wire_type": "widestr", "value": "武当门派指引人", "source": "template.Name" },
+      "NpcType": { "wire_type": "int32", "value": 229, "source": "template.NpcType" },
+      "SelectState": { "wire_type": "byte", "value": 2, "source": "template.SelectState" },
+      "CursorShape": { "wire_type": "byte", "value": 2, "source": "template.CursorShape" },
+      "WalkSpeed": { "wire_type": "float32", "value": 1.25, "source": "template.WalkSpeed" },
+      "RunSpeed": { "wire_type": "float32", "value": 4, "source": "template.RunSpeed" },
+      "WeaponMode": { "wire_type": "string", "value": "hand10_1", "source": "creator.WeaponMode" },
+      "Resource": { "wire_type": "string", "value": "npc\\worldnpc288", "source": "template.Resource" },
+      "Photo": { "wire_type": "string", "value": "icon\\funcnpc\\worldnpc288.png", "source": "template.Photo" },
+      "CKindID": { "wire_type": "int32", "value": 0, "source": "template.CKindID" },
+      "LuaScript": { "wire_type": "string", "value": "npc\\introducer_npc.lua", "source": "template.LuaScript" },
+      "AITemplate": { "wire_type": "int32", "value": 3, "source": "template.AITemplate" },
+      "PatrolMode": { "wire_type": "int32", "value": 1, "source": "creator.PatrolMode" },
+      "PatrolRange": { "wire_type": "float32", "value": 0, "source": "template.PatrolRange" },
+      "SpringRange": { "wire_type": "float32", "value": 20, "source": "template.SpringRange" },
+      "School": { "wire_type": "string", "value": "prop_QiTaMenPai_1", "source": "template.School" },
+      "Hometown": { "wire_type": "string", "value": "Home_133", "source": "template.Hometown" },
+      "Camp": { "wire_type": "int32", "value": 1, "source": "template.Camp" },
+      "OriginPara1": { "wire_type": "int32", "value": 1, "source": "template.OriginPara1" },
+      "OriginPara2": { "wire_type": "int32", "value": 7, "source": "template.OriginPara2" },
+      "OriginPara3": { "wire_type": "int32", "value": 5, "source": "template.OriginPara3" },
+      "NpcTalkRule": { "wire_type": "string", "value": "talkrule010705", "source": "template.NpcTalkRule" },
+      "CanQiecuo": { "wire_type": "int32", "value": 1, "source": "template.CanQiecuo" },
+      "PowerNo": { "wire_type": "int32", "value": 1, "source": "template.PowerNo" },
+      "Level": { "wire_type": "int32", "value": 2, "source": "template.Level" },
+      "BossLevel": { "wire_type": "int32", "value": 1, "source": "template.BossLevel" },
+      "NotPositive": { "wire_type": "int32", "value": 0, "source": "creator.NotPositive" },
+      "CantBeKilled": { "wire_type": "int32", "value": 1, "source": "template.CantBeKilled" },
+      "AIFightFreq": { "wire_type": "int32", "value": 2000, "source": "template.AIFightFreq" },
+      "ChaseRange": { "wire_type": "float32", "value": 13, "source": "creator.ChaseRange" },
+      "SkillHoldTime": { "wire_type": "int32", "value": 2000, "source": "template.SkillHoldTime" },
+      "SelfForceID": { "wire_type": "int32", "value": 1, "source": "template.SelfForceID" },
+      "SummonIDBeginFight": { "wire_type": "int32", "value": 0, "source": "template.SummonIDBeginFight" },
+      "StopTime": { "wire_type": "int32", "value": 10, "source": "template.StopTime" },
+      "Character": { "wire_type": "int32", "value": 1, "source": "template.Character" },
+      "KarmaLevel": { "wire_type": "int32", "value": 4, "source": "template.KarmaLevel" },
+      "RefreshTime": { "wire_type": "int32", "value": 30000, "source": "creator.RefreshTime" }
+    },
+    "preserved_unmapped": {
+      "template.script": "CommonNpc",
+      "template.AIParaNo": "8",
+      "template.table@TaskCanAccept": "52;51621;",
+      "creator.WakeupRange": "12.0",
+      "creator.ChildList": "",
+      "creator.PosList": ""
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "accounts": {
+    "acct:v1:112cd36f1e1d2bac408e0428aabef6e399080c2bc33407de6677e60dec97c2a6": {
+      "name": "商弘",
+      "appearance": [
+        "book5",
+        "icon\\players\\boy01_create.png",
+        "333333333333333333333333333333333333333333X38\u0001",
+        "1",
+        "obj\\char\\b_hair\\b_hair1",
+        "cloth_b0001",
+        "pants_b0001",
+        "shoes_b0001",
+        "newschool_shenjihui",
+        ""
+      ],
+      "scene": {
+        "config": "ini\\scene\\city05_ChengDu",
+        "resource": "city05"
+      },
+      "position": {
+        "x": 666.6227,
+        "y": 33.104218,
+        "z": 296.8855,
+        "orient": 1.5942605
+      }
+    },
+    "local_default": {
+      "name": "邢军",
+      "appearance": [
+        "book5",
+        "icon\\players\\boy01_create.png",
+        "333333333333333333333333333333333333333333X38\u0001",
+        "1",
+        "obj\\char\\b_hair\\b_hair1",
+        "cloth_b0001",
+        "pants_b0001",
+        "shoes_b0001",
+        "school_wudang",
+        ""
+      ],
+      "scene": {
+        "config": "ini\\scene\\school07_WuDang",
+        "resource": "school07"
+      },
+      "position": {
+        "x": 480.22354,
+        "y": 102.659004,
+        "z": 427.45483,
+        "orient": -3.0996265
+      }
+    }
+  },
+  "identities": {
+    "acct:v1:112cd36f1e1d2bac408e0428aabef6e399080c2bc33407de6677e60dec97c2a6": {
+      "account_id": 2,
+      "role_id": 2,
+      "status": 1,
+      "account_version": 1,
+      "role_version": 1,
+      "appearance_version": 6,
+      "location_version": 2200
+    },
+    "local_default": {
+      "account_id": 1,
+      "role_id": 1,
+      "status": 1,
+      "account_version": 1,
+      "role_version": 1,
+      "appearance_version": 1,
+      "location_version": 1
+    }
+  },
+  "next_account_id": 3,
+  "next_role_id": 3
+}

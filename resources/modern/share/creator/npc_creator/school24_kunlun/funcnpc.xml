@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <staticcreator>
+        <item No="07312DDADB0245428BA310DD27096EF4" x="55.537" y="150.191" z="-313.522" ay="-0.095" id="Npc_yd_wg_cs_kl01" RefreshTime="30000.0" PatrolMode="1" WakeupRange="3.0" ChaseRange="3.0" NotPositive="0" desc="昆仑派演武堂入口" ChildList="" PosList="" />
+        <item No="E792F6C771F64191BCD7FDEB20633738" x="-298.890" y="9.943" z="167.872" id="EventNpc_xl_kl02" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" SubSceneNo="9217" desc="巡逻离开" ChildList="" PosList="" />
+        <item No="F87D5F5A8B164264BCBE5D07D089CC92" x="-127.164" y="109.551" z="-147.788" id="EventNpc_xl_kl02" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" SubSceneNo="9217" desc="巡逻离开" ChildList="" PosList="" />
+        <item No="FD72922687F843DAA9BEF24349082591" x="-127.615" y="109.551" z="-148.153" id="EventNpc_xl_kl01" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" desc="巡逻触发" ChildList="" PosList="" />
+        <item No="D4850F5366EC41719EF4381B3579B2F9" x="-301.630" y="10.000" z="169.372" id="EventNpc_xl_kl01" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" desc="巡逻触发" ChildList="" PosList="" />
+        <item No="5E541EE3DBF94249B2AB605191CD7E3E" x="-231.308" y="188.240" z="-413.436" id="Event_klzyb_001" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" desc="" ChildList="" PosList="" />
+        <item No="093F9854CEC74C548125102AB076D184" x="-145.027" y="188.240" z="-353.997" id="Event_klzyb_002" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" desc="" ChildList="" PosList="" />
+        <item No="79649555D647483BAD642C198201CFFB" x="30.239" y="10.677" z="129.985" id="DoorNpc00104" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" desc="前往恶人谷" ChildList="" PosList="" />
+        <item No="8345FB30023B4FAAB9B8579B44A4CD81" x="-125.766" y="188.450" z="-367.868" id="Event_klzyb_003" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" desc="离开" ChildList="" PosList="" />
+        <item No="51A846E9506A492E92D0FC4E3DAAA4EA" x="-126.741" y="41.390" z="25.937" id="Event_klzyb_007" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" desc="拜祭路师兄" ChildList="" PosList="" />
+        <item No="118DBA3C50A9429881A91DB13A808942" x="1100.678" y="30.372" z="-823.694" id="Event_klzyb_008" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" SubSceneNo="9218" desc="宝库入口" ChildList="" PosList="" />
+        <item No="BE1C68AF8412442995DB0FFD5F6623D8" x="1139.235" y="22.653" z="-811.736" id="Event_klzyb_006" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" SubSceneNo="9218" desc="离开宝库" ChildList="" PosList="" />
+        <item No="2CC7E699702F458C8D0A80BF7ED29E9D" x="66.684" y="150.907" z="-150.482" ay="-2.350" id="Reliveschool24A" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" desc="游方药师" ChildList="" PosList="" />
+        <item No="C59C02B617E846ECB244B41E853A5EB8" x="86.287" y="32.642" z="153.953" ay="-0.590" id="Relive_Fhjiangyou" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" desc="游方药师" ChildList="" PosList="" />
+        <item No="D69ABFCF4D8242EB872E886208201ED2" x="-235.213" y="64.042" z="-214.185" sx="0.990" sy="0.990" sz="0.990" id="Event_klzyb_005" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" desc="宝库入口" ChildList="" PosList="" />
+        <item No="E954355D30BE494A8476D5F99D0FC0E6" x="-42.616" y="17.453" z="-181.183" id="Event_klzyb_004" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" desc="隐秘之处" ChildList="" PosList="" />
+        <item No="24FEB6249431463F8E0FBB9FC7428633" x="-233.346" y="64.536" z="-213.069" id="Event_klzyb_009" RefreshTime="30000.0" PatrolMode="1" WakeupRange="12.0" ChaseRange="23.0" NotPositive="0" desc="宝库入口" ChildList="" PosList="" />
+        <item No="2267CFA9F81045CF8D11DFB0565B68BD" x="-228.606" y="74.271" z="-2.046" id="GotoDoorklp_guj04" RefreshTime="30000.0" PatrolMode="1" WakeupRange="4.0" ChaseRange="4.0" NotPositive="0" desc="前往岛上" ChildList="" PosList="" />
+        <item No="13CDC41215CA46ACA3A19B2B621F9C5C" x="-269.222" y="75.960" z="-10.292" id="GotoDoorklp_guj05" RefreshTime="30000.0" PatrolMode="1" WakeupRange="4.0" ChaseRange="4.0" NotPositive="0" desc="前往岸边" ChildList="" PosList="" />
+        <item No="D780EADAA7D44CF2B1BD8FF32AEFDED6" x="-109.205" y="10.505" z="267.973" id="Eventnpc_ty_dy_01" RefreshTime="30000.0" PatrolMode="1" WakeupRange="5.0" ChaseRange="23.0" NotPositive="0" desc="76233传送删buff" ChildList="" PosList="" />
+        <item No="1CD6F9744BFB4935B8D629F5DD72DFC3" x="-100.604" y="10.875" z="271.729" id="Eventnpc_ty_dy_02" RefreshTime="30000.0" PatrolMode="1" WakeupRange="5.0" ChaseRange="23.0" NotPositive="0" desc="76234触发说话1" ChildList="" PosList="" />
+        <item No="9B7C7594A1424BFE848C085728F8E1B1" x="15.659" y="13.796" z="258.064" id="Eventnpc_ty_dy_03" RefreshTime="30000.0" PatrolMode="1" WakeupRange="5.0" ChaseRange="23.0" NotPositive="0" desc="76234触发说话" ChildList="" PosList="" />
+        <item No="60F7280E60A14DAD98BE0A80FB5CEBEC" x="-127.073" y="188.241" z="-424.999" id="Eventnpc_ty_dy_04" RefreshTime="30000.0" PatrolMode="1" WakeupRange="5.0" ChaseRange="23.0" NotPositive="0" desc="76236传送删buff" ChildList="" PosList="" />
+    </staticcreator>
+</object>

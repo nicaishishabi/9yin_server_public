@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="FF45465909594CDE99DA2717500C8F83" x="915.204" y="169.137" z="104.095" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="71663" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_mm_dy_dj" ay="-1" amount="5" refreshtime="5" NotPositive="0" desc="少林典籍">
+                <position x="914.194" z="103.192" ay="-1" />
+                <position x="916.355" z="100.094" ay="-1" />
+                <position x="918.136" z="100.048" ay="-1" />
+                <position x="918.327" z="100.273" ay="-1" />
+                <position x="917.414" z="105.961" ay="-1" />
+            </item>
+        </creator>
+        <creator No="F8F9CDFFC00E4008A28A263F0E55088B" x="906.559" y="169.137" z="99.836" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="71663" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_mm_dy_dj" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="少林典籍">
+                <position x="905.212" z="101.234" ay="-1" />
+                <position x="906.504" z="96.762" ay="-1" />
+                <position x="910.762" z="99.059" ay="-1" />
+            </item>
+        </creator>
+        <creator No="056A0F33AAAA457F9334CAA2A9B58B56" x="914.637" y="169.137" z="93.071" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="71663" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_mm_dy_dj" ay="-1" amount="2" refreshtime="5" NotPositive="0" desc="少林典籍">
+                <position x="915.126" z="95.437" ay="-1" />
+                <position x="914.578" z="90.110" ay="-1" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

@@ -1,0 +1,239 @@
+NPC编号	对象类型	名称	模型编号	NPC种类ID	NPC类型	响应范围	传送门开关	脚本编号	传送包编号	AI编辑包	传送门通过的条件包ID		
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING		
+ID	script	Name	Resource	CKindID	NpcType	SpringRange	IsClose	LuaScript	DoorPackageID	AIEditorPackID	ConditionID		
+													
+DoorTest	Door	实验传送门	ini\scene\city02_SuZhou	4	41	5	0		1				
+													
+	//跨场景传送门												
+DoorNpc00001	Door	前往燕京	npc\funcnpc019	4	41	8	0		1		200055		
+													
+DoorNpc00002	Door	前往洛阳	npc\funcnpc019	4	41	8	0		2				
+DoorNpc00003	Door	前往塞外大漠	npc\funcnpc019	4	41	8	0		3				
+													
+DoorNpc00004	Door	前往苏州	npc\funcnpc019	4	41	8	0		4				
+													
+DoorNpc00005	Door	前往成都	npc\funcnpc019	4	41	8	0		5				
+DoorNpc00006	Door	前往凌霄城	npc\funcnpc019	4	41	8	0		6		28276		
+DoorNpc00088	Door	前往明教	npc\funcnpc019	4	41	8	0		2133		116238		
+													
+DoorNpc00007	Door	前往燕京	npc\funcnpc019	4	41	8	0		7				
+													
+DoorNpc00008	Door	前往燕京	npc\funcnpc019	4	41	8	0		8				
+													
+DoorNpc00009	Door	前往苏州	npc\funcnpc019	4	41	8	0		9				
+													
+DoorNpc00010	Door	前往苏州	npc\funcnpc019	4	41	8	0		10				
+													
+DoorNpc00011	Door	前往成都	npc\funcnpc019	4	41	8	0		11				
+													
+DoorNpc00012	Door	前往成都	npc\funcnpc019	4	41	8	0		12				
+													
+DoorNpc00013	Door	前往洛阳	npc\funcnpc019	4	41	8	0		13				
+													
+DoorNpc00014	Door	前往洛阳	npc\funcnpc019	4	41	8	0		14				
+													
+DoorNpc00015	Door	前往燕京	npc\funcnpc019	4	41	8	1		15				
+													
+DoorNpc00016	Door	前往燕京	npc\funcnpc019	4	41	8	1		16				
+													
+DoorNpc00017	Door	前往燕京	npc\funcnpc019	4	41	8	1		17				
+													
+DoorNpc00018	Door	前往成都	npc\funcnpc019	4	41	8	1		18				
+													
+DoorNpc00019	Door	前往成都	npc\funcnpc019	4	41	8	1		19				
+													
+DoorNpc00020	Door	前往千灯镇	npc\funcnpc019	4	41	8	1		20				
+													
+DoorNpc00021	Door	前往苏州	npc\funcnpc019	4	41	8	1		21				
+													
+DoorNpc00022	Door	前往恶人谷	npc\funcnpc019	4	41	8	0		22				
+													
+DoorNpc00023	Door	前往洛阳	npc\funcnpc019	4	41	8	1		23				
+													
+DoorNpc00089	Door	前往恶人谷	npc\funcnpc019	4	41	8	0		2134				
+													
+DoorNpc00090	Door	前往神机营	npc\funcnpc019	4	41	8	0		2142		116832		
+													
+DoorNpc00091	Door	前往燕京	npc\funcnpc019	4	41	8	0		2143				
+													
+DoorNpc00092	Door	前往天山派	npc\funcnpc019	4	41	8	0		2159		117309		
+													
+DoorNpc00093	Door	前往塞外大漠	npc\funcnpc019	4	41	8	0		2160				
+													
+DoorNpc00024	Door	前往鸡鸣驿	npc\funcnpc019	4	41	8	0		24				
+DoorNpc00025	Door	前往锦衣卫	npc\funcnpc019	4	41	8	0		25				
+DoorNpc00026	Door	前往丐帮	npc\funcnpc019	4	41	8	0		26				
+DoorNpc00027	Door	前往幽云十六州	npc\funcnpc019	4	41	8	1		27				
+DoorNpc00028	Door	前往蓬莱仙境	npc\funcnpc019	4	41	8	1		28				
+DoorNpc00029	Door	前往泛黄平原	npc\funcnpc019	4	41	8	1		29				
+DoorNpc00030	Door	前往金陵	npc\funcnpc019	4	41	8	0		30				
+													
+DoorNpc00031	Door	前往烟雨庄	npc\funcnpc019	4	41	8	0		31		200055		
+DoorNpc00032	Door	前往君子堂	npc\funcnpc019	4	41	8	0		32		200055		
+DoorNpc00033	Door	前往极乐谷	npc\funcnpc019	4	41	8	0		33		200055		
+DoorNpc00034	Door	前往梅花岭	npc\funcnpc019	4	41	8	1		34		200055		
+DoorNpc00035	Door	前往金陵	npc\funcnpc019	4	41	8	0		35		200055		
+													
+DoorNpc00036	Door	前往恶人谷	npc\funcnpc019	4	41	8	0		36				
+DoorNpc00037	Door	前往塞北草原	npc\funcnpc019	4	41	8	1		37				
+DoorNpc00038	Door	前往武当	npc\funcnpc019	4	41	8	0		38				
+DoorNpc00039	Door	前往少林	npc\funcnpc019	4	41	8	0		39				
+DoorNpc00040	Door	前往金陵	npc\funcnpc019	4	41	8	0		40				
+													
+DoorNpc00041	Door	前往千灯镇	npc\funcnpc019	4	41	8	0		41				
+DoorNpc00042	Door	前往唐门	npc\funcnpc019	4	41	8	0		42		200055		
+DoorNpc00043	Door	前往峨眉	npc\funcnpc019	4	41	8	0		43		200055		
+DoorNpc00044	Door	前往向阳坡	npc\funcnpc019	4	41	8	0		44		120853		
+DoorNpc00045	Door	前往念萝坝	npc\funcnpc019	4	41	8	0		65		120854		
+DoorNpc00046	Door	前往金陵	npc\funcnpc019	4	41	8	0		46		200055		
+DoorNpc00074	Door	前往成都	npc\funcnpc019	4	41	8	0		2072				
+													
+DoorNpc00047	Door	前往燕京	npc\funcnpc019	4	41	8	0		47				
+DoorNpc00048	Door	前往苏州	npc\funcnpc019	4	41	8	0		48				
+DoorNpc00049	Door	前往洛阳	npc\funcnpc019	4	41	8	0		49				
+DoorNpc00050	Door	前往成都	npc\funcnpc019	4	41	8	0		50				
+													
+DoorNpc00051	Door	城内部传送1	npc\funcnpc019	4	41	8	0		51				
+DoorNpc00052	Door	城内部传送2	npc\funcnpc019	4	41	8	0		52				
+													
+DoorNpc00058	Door	前往大漠鬼城	npc\funcnpc019	4	41	8	0		58				
+DoorNpc00059	Door	前往塞外大漠	npc\funcnpc019	4	41	8	0		59				
+DoorNpc00060	Door	前往华山	npc\funcnpc019	4	41	8	0		60				
+DoorNpc00061	Door	前往洛阳	npc\funcnpc019	4	41	8	0		61				
+													
+DoorNpc00062	Door	前往移花宫	npc\itemnpc057	4	47	8	0		1126		120852		
+DoorNpc00063	Door	前往成都	npc\itemnpc057	4	47	8	0		1127		102184		
+													
+DoorNpc00064	Door	前往桃花岛	npc\funcnpc019	4	41	8	0		1137		120852		
+DoorNpc00065	Door	前往苏州	npc\funcnpc019	4	41	8	0		1138				
+													
+DoorNpc00066	Door	前往无根门	npc\itemnpc057_jlg01	4	41	8	0		1128		101996		
+													
+DoorNpc00067	Door	前往古墓派	npc\funcnpc019	4	41	8	0		63				
+DoorNpc00068	Door	前往燕京	npc\funcnpc019	4	41	8	0		62				
+													
+DoorNpc00069	Door	念萝坝前往成都	npc\funcnpc019	4	41	8	0		64		110007		
+													
+DoorNpc00070	Door	洛阳前往华山	npc\funcnpc019	4	41	8	0		66		111329		
+													
+DoorNpc00071	Door	鸡鸣驿前往神水宫	npc\funcnpc019	4	41	8	0		2039		200055		
+DoorNpc00072	Door	神水宫前往鸡鸣驿	npc\funcnpc019	4	41	8	0		2060				
+													
+DoorNpc00073	Door	华山前往洛阳	npc\funcnpc019	4	41	8	0		67				
+													
+DoorNpc00094	Door	蓬莱岛前往烟雨庄	npc\funcnpc019	4	41	8	0		2167				
+DoorNpc00075	Door	烟雨庄前往蓬莱岛	npc\itemnpc057_wuqi	4	41	8	0		2075				
+DoorNpc00076	Door	蓬莱岛前往烟雨庄	npc\funcnpc019	4	41	8	0		2076		112436		
+DoorNpc00077	Door	蓬莱岛前往侠客岛	npc\itemnpc057_xuanwo	4	41	8	0		2077		28051		
+DoorNpc00078	Door	蓬莱岛前往无极岛	npc\funcnpc019	4	41	8	0		2078		28051		
+DoorNpc00079	Door	侠客岛前往蓬莱岛	npc\itemnpc057_wuqi	4	41	8	0		2079		28051		
+DoorNpc00080	Door	侠客岛前往无极岛	npc\funcnpc019	4	41	8	0		2080		28051		
+DoorNpc00081	Door	无极岛前往蓬莱岛	npc\itemnpc057_wuqi	4	41	8	0		2081		28051		
+DoorNpc00082	Door	无极岛前往侠客岛	npc\itemnpc057_xuanwo	4	41	8	0		2082		28051		
+													
+DoorNpc00083	Door	五仙教前往千灯镇	npc\funcnpc019	4	41	8	0		2085				
+DoorNpc00084	Door	千灯镇前往五仙教	npc\funcnpc019	4	41	8	0		2086		120851		
+													
+DoorNpc00085	Door	凌霄城前往千灯镇	npc\funcnpc019	4	41	8	0		2090				
+													
+DoorNpc00086	Door	达摩派前往塞外大漠	npc\funcnpc019	4	41	8	0		2096				
+DoorNpc00087	Door	塞外大漠前往达摩派	npc\funcnpc019	4	41	8	0		2095				
+													
+DoorNpc00096	Door	前往冥岳	npc\funcnpc019	4	41	8	0		2175				
+													
+DoorNpc00095	Door	前往永夜城	npc\funcnpc019	4	41	8	0		2176				
+													
+DoorNpc00097	Door	前往鬼市	npc\funcnpc019	4	41	8	0		2189		120087		
+													
+DoorNpc00098	Door	前往永夜城	npc\itemnpc057_xuanwo	4	41	8	0		2190				
+													
+DoorNpc00099	Door	前往永夜城	npc\funcnpc019	4	41	8	0		2191				
+													
+DoorNpc00100	Door	前往净天宫	npc\funcnpc019	4	41	8	0		2192		118496		
+													
+DoorNpc00101	Door	前往天弈谷	npc\funcnpc019	4	41	8	0		2193		118590		
+													
+DoorNpc00102	Door	前往洛阳	npc\funcnpc019	4	41	8	0		2194				
+													
+DoorNpc00103	Door	前往昆仑派	npc\funcnpc019	4	41	8	0		2198		118856		
+DoorNpc00104	Door	前往恶人谷	npc\funcnpc019	4	41	8	0		2199				
+													
+DoorNpc00105	Door	前往恶人谷	npc\funcnpc019	4	41	8	0		2212				
+DoorNpc00106	Door	前往天轮寺	npc\funcnpc019	4	41	8	0		2211		119680		`
+													
+DoorNpc00107	Door	前往青衣阁	npc\funcnpc019	4	41	8	0		2226		120855		
+DoorNpc00108	Door	前往成都	npc\funcnpc019	4	41	8	0		2227				
+													
+DoorNpc00109	Door	前往刑天城	npc\funcnpc019	4	41	8	0		2241		200563		
+DoorNpc00110	Door	前往恶人谷	npc\funcnpc019	4	41	8	0		2242				
+													
+DoorNpc00111	Door	前往望辉洲	npc\funcnpc019	4	41	8	0		2249		200915		
+DoorNpc00112	Door	前往塞外大漠	npc\funcnpc019	4	41	8	0		2250				
+													
+DoorNpc00113	Door	前往秘境·山鬼地窟	npc\funcnpc019	4	41	8	0		2284				
+DoorNpc00114	Door	前往巫墟	npc\funcnpc019	4	41	8	0		2285				
+DoorNpc00115	Door	前往巫墟	npc\funcnpc019	4	41	8	0		2286		203112		
+DoorNpc00116	Door	前往成都	npc\funcnpc019	4	41	8	0		2287				
+													
+	//副本场景传送门												
+DoorNpcclone048	Door	武馆教学副本出口	npc\funcnpc019a	4	41	1	0	npc\DoorNpcclone048.lua					
+DoorNpcclone048a	Door	武馆教学副本出口	npc\funcnpc019a	4	41	1	0	npc\DoorNpcclone048.lua					
+DoorNpcclone048b	Door	武馆教学副本出口	npc\funcnpc019a	4	41	1	0	npc\DoorNpcclone048.lua					
+DoorNpcclone048c	Door	武馆教学副本出口	npc\funcnpc019a	4	41	1	0	npc\DoorNpcclone048.lua					
+DoorNpcclone048d	Door	武馆教学副本出口	npc\funcnpc019a	4	41	1	0	npc\DoorNpcclone048.lua					
+													
+													
+DoorNpcwuguan01	Door	千灯1，2武馆入口	npc\funcnpc019a	4	231	1	0	npc\DoorNpcwuguan.lua					
+DoorNpcwuguan02	Door	烟雨庄武馆入口	npc\funcnpc019a	4	231	1	0	npc\DoorNpcwuguan.lua					
+DoorNpcwuguan03	Door	成都武馆入口	npc\funcnpc019a	4	231	1	0	npc\DoorNpcwuguan.lua					
+DoorNpcwuguan04	Door	鸡鸣驿武馆入口	npc\funcnpc019a	4	231	1	0	npc\DoorNpcwuguan.lua					
+DoorNpcwuguan05	Door	洛阳武馆入口	npc\funcnpc019a	4	231	1	0	npc\DoorNpcwuguan.lua					
+													
+Doorclone024a	Door	摘星阁前往千灯镇	npc\funcnpc019	4	41	3	0		1117				
+													
+	//场景内传送门												
+DoorTest_01	Door	实验场景内传送门	npc\itemnpc057	4	43	5	0	npc\goto_door_npc.lua	2000				
+													
+	//分组场景传送门												
+DoorNpcGroup001	Door	鱼市出口	npc\funcnpc019	4	42	3	0		1026				
+DoorNpcshg_01	Door	神水宫主殿后前往水晶宫	npc\funcnpc019	4	43	1	0	npc\goto_door_npc.lua	2040				
+DoorNpcshg_02	Door	水晶宫前往冰火殿	npc\funcnpc019	4	43	4	0	npc\goto_door_npc.lua	2041				
+DoorNpcshg_03	Door	冰火殿前往神水宫主殿后	npc\funcnpc019	4	43	4	0	npc\goto_door_npc.lua	2042				
+DoorNpcshg_04	Door	水晶宫前往神水宫主殿后	npc\funcnpc019	4	43	1	0	npc\goto_door_npc.lua	2043				
+													
+	//演武堂场景传送门												
+Npc_yd_wg_cs_wd01	Door	武当演武堂入口	npc\funcnpc019d	4	231	1	0	npc\DoorNpcwuguan.lua					
+Npc_yd_wg_cs_sl01	Door	少林演武堂入口	npc\funcnpc019d	4	231	1	0	npc\DoorNpcwuguan.lua					
+Npc_yd_wg_cs_em01	Door	峨眉演武堂入口	npc\funcnpc019d	4	231	1	0	npc\DoorNpcwuguan.lua					
+Npc_yd_wg_cs_gb01	Door	丐帮演武堂入口	npc\funcnpc019d	4	231	1	0	npc\DoorNpcwuguan.lua					
+Npc_yd_wg_cs_tm01	Door	唐门演武堂入口	npc\funcnpc019d	4	231	1	0	npc\DoorNpcwuguan.lua					
+Npc_yd_wg_cs_jz01	Door	君子堂演武堂入口	npc\funcnpc019d	4	231	1	0	npc\DoorNpcwuguan.lua					
+Npc_yd_wg_cs_jy01	Door	锦衣卫演武堂入口	npc\funcnpc019d	4	231	1	0	npc\DoorNpcwuguan.lua					
+Npc_yd_wg_cs_jl01	Door	极乐谷演武堂入口	npc\funcnpc019d	4	231	1	0	npc\DoorNpcwuguan.lua					
+Npc_yd_wg_cs_mj01	Door	明教演武堂入口	npc\funcnpc019d	4	231	1	0	npc\DoorNpcwuguan.lua			115006		
+Npc_yd_wg_cs_ts01	Door	天山派演武堂入口	npc\funcnpc019d	4	231	1	0	npc\DoorNpcwuguan.lua			115006		
+Npc_yd_wg_cs_kl01	Door	昆仑派演武堂入口	npc\funcnpc019d	4	231	1	0	npc\DoorNpcwuguan.lua			115006		
+Npc_yd_wg_cs_xtb01	Door	邢天堡演武堂入口	npc\funcnpc019d	4	231	1	0	npc\DoorNpcwuguan.lua			115006		
+Npc_yd_wg_cs_wuxu01	Door	巫墟演武堂入口	npc\funcnpc019d	4	231	1	0	npc\DoorNpcwuguan.lua			115006		
+													
+Npc_yd_wg_cs_wd02	Door	武当演武堂出口	npc\funcnpc019d	4	41	1	0	npc\DoorNpcclone048.lua					
+Npc_yd_wg_cs_sl02	Door	少林演武堂出口	npc\funcnpc019d	4	41	1	0	npc\DoorNpcclone048.lua					
+Npc_yd_wg_cs_em02	Door	峨眉演武堂出口	npc\funcnpc019d	4	41	1	0	npc\DoorNpcclone048.lua					
+Npc_yd_wg_cs_gb02	Door	丐帮演武堂出口	npc\funcnpc019d	4	41	1	0	npc\DoorNpcclone048.lua					
+Npc_yd_wg_cs_tm02	Door	唐门演武堂出口	npc\funcnpc019d	4	41	1	0	npc\DoorNpcclone048.lua					
+Npc_yd_wg_cs_jz02	Door	君子堂演武堂出口	npc\funcnpc019d	4	41	1	0	npc\DoorNpcclone048.lua					
+Npc_yd_wg_cs_jy02	Door	锦衣卫演武堂出口	npc\funcnpc019d	4	41	1	0	npc\DoorNpcclone048.lua					
+Npc_yd_wg_cs_jl02	Door	极乐谷演武堂出口	npc\funcnpc019d	4	41	1	0	npc\DoorNpcclone048.lua					
+Npc_yd_wg_cs_mj02	Door	明教演武堂出口	npc\funcnpc019d	4	41	1	0						
+Npc_yd_wg_cs_ts02	Door	天山派演武堂出口	npc\funcnpc019d	4	41	2	0						
+Npc_yd_wg_cs_kl02	Door	昆仑派演武堂出口	npc\funcnpc019d	4	41	2	0						
+Npc_yd_wg_cs_xtb02	Door	邢天堡演武堂出口	npc\funcnpc019d	4	41	2	0						
+Npc_yd_wg_cs_wuxu02	Door	巫墟演武堂出口	npc\funcnpc019d	4	41	2	0						
+													
+city03war01_transport1	Door	前往正阳门	npc\funcnpc019	4	41	4	0						
+													
+	江湖测试												
+DoorNpc_qdz001	Door	前往秘窟	npc\funcnpc019	4	41	4	0						
+DoorNpc_fam001	Door	离开秘窟	npc\funcnpc019	4	41	4	0						
+													
+GotoDoorscene_fc_001	Door	移动之泉传送门	npc\itemnpc057_xuanwo1	4	43	1	0	npc\goto_door_npc.lua	2273				

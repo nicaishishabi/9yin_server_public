@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="34105302E9C443D0BAEA29A85BA585D3" x="-546.595" y="59.541" z="-78.781" radius="8.8" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="12805" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_thd_cc001" ay="-1" amount="6" refreshtime="5" NotPositive="0" desc="苦情花">
+                <position x="-552.224" z="-82.717" ay="-1" />
+                <position x="-551.879" z="-77.702" ay="-1" />
+                <position x="-547.016" z="-80.350" ay="-1" />
+                <position x="-539.964" z="-80.716" ay="-1" />
+                <position x="-543.360" z="-81.693" ay="-1" />
+                <position x="-546.491" z="-84.508" ay="-1" />
+            </item>
+        </creator>
+        <creator No="92ADCFCE4C3245399369B5B944A51B18" x="-765.775" y="53.601" z="-180.985" radius="8.8" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="12806" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_thd_cc002" ay="-1" amount="6" refreshtime="5" NotPositive="0" desc="木头">
+                <position x="-759.083" z="-178.803" ay="-1" />
+                <position x="-759.282" z="-182.459" ay="-1" />
+                <position x="-761.713" z="-185.251" ay="-1" />
+                <position x="-765.727" z="-186.797" ay="-1" />
+                <position x="-769.959" z="-182.986" ay="-1" />
+                <position x="-766.981" z="-179.674" ay="-1" />
+            </item>
+        </creator>
+        <creator No="97B067D2B6364B7D95FC1D390E55C236" x="-278.368" y="55.668" z="5.084" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather_thd_qin" sx="1.140" sy="1.140" sz="1.140" ay="4.637" az="5.822" amount="1" refreshtime="5" NotPositive="0" desc="藏起来的琴" />
+        </creator>
+        <creator No="118590DB60F646F095AAF15ECC1AC96B" x="-1604.401" y="40.248" z="11.735" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="12878" TaskSubType="3" HateLink="1">
+            <item No="1" id="Gather0001thd" ax="0.319" ay="3.211" amount="7" refreshtime="5" NotPositive="0" desc="粮草">
+                <position x="-1605.081" z="13.873" ax="0.319" ay="3.211" />
+                <position x="-1605.084" z="13.241" ax="6.015" ay="3.054" />
+                <position x="-1606.060" z="11.875" ay="3.054" />
+                <position x="-1605.362" z="11.518" ay="3.054" az="4.892" />
+                <position x="-1606.146" z="13.234" ax="5.656" ay="1.409" az="6.283" />
+                <position x="-1606.831" z="13.568" ax="1.225" ay="3.054" />
+                <position x="-1605.370" z="12.056" sz="0.855" ax="0.389" ay="4.294" />
+            </item>
+        </creator>
+        <creator No="40BB591DF5B146E4AC2C3E7D28758790" x="-703.774" y="55.198" z="11.056" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather_thd_hualu_4" sx="2.850" sy="2.850" sz="2.850" amount="1" refreshtime="30000" NotPositive="0" desc="花露4" />
+            <item No="2" id="Gather_thd_hualu_5" sx="2.290" sy="2.290" sz="2.290" amount="1" refreshtime="30000" NotPositive="0" desc="花露5" />
+            <item No="3" id="Gather_thd_hualu_6" sx="2.690" sy="2.690" sz="2.690" amount="1" refreshtime="30000" NotPositive="0" desc="花露6" />
+        </creator>
+        <creator No="2539F67B00E74C17BDB9133A1C17BCBA" x="-743.771" y="41.147" z="-73.015" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather_thd_hualu_7" sx="3.150" sy="3.150" sz="3.150" amount="1" refreshtime="30000" NotPositive="0" desc="花露7" />
+            <item No="2" id="Gather_thd_hualu_8" sx="2.900" sy="2.900" sz="2.900" amount="1" refreshtime="30000" NotPositive="0" desc="花露8" />
+            <item No="3" id="Gather_thd_hualu_9" sx="2.990" sy="2.990" sz="2.990" amount="1" refreshtime="30000" NotPositive="0" desc="花露9" />
+        </creator>
+        <creator No="CBEB00CC42DF4C8896EFB5DE99DAD2D6" x="-788.185" y="110.078" z="34.984" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" HateLink="1">
+            <item No="1" id="Gather_thd_hualu_10" sx="4.350" sy="4.350" sz="4.350" amount="1" refreshtime="5" NotPositive="0" desc="花露10" />
+            <item No="2" id="Gather_thd_hualu_11" sx="4.160" sy="4.160" sz="4.160" amount="1" refreshtime="5" NotPositive="0" desc="花露11" />
+            <item No="3" id="Gather_thd_hualu_12" sx="4.270" sy="4.270" sz="4.270" amount="1" refreshtime="5" NotPositive="0" desc="花露12" />
+        </creator>
+        <creator No="81AA594B73A6474284929CF50B42DBE1" x="-696.255" y="41.865" z="-83.296" radius="2.5" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="12848" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_thd_cc003" sx="2.140" sy="2.140" sz="2.140" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="桃树" />
+        </creator>
+        <creator No="A58E54F018CC4AADB7D87361E499CB89" x="-482.288" y="49.214" z="-148.923" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="12890" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_thd_cc006" ay="-1" amount="2" refreshtime="5" NotPositive="0" desc="红铜矿">
+                <position x="-483.776" z="-145.915" ay="-1" />
+                <position x="-482.522" z="-151.792" ay="-1" />
+            </item>
+        </creator>
+        <creator No="4FB53D22D5E04D0992ADC18D474666F2" x="-462.458" y="47.809" z="-175.733" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="12890" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_thd_cc006" ay="-1" amount="2" refreshtime="5" NotPositive="0" desc="红铜矿">
+                <position x="-463.455" z="-179.465" ay="-1" />
+                <position x="-465.694" z="-173.849" ay="-1" />
+            </item>
+        </creator>
+        <creator No="9A6B3FE0DABA41489AE87FBD2A8B35E8" x="-558.560" y="79.243" z="-224.505" radius="5.0" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="12891" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_thd_cc007" sx="2.930" sy="2.930" sz="2.930" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="竹子" />
+        </creator>
+        <creator No="6F74E983FACD48CF8601E9311FB9D96D" x="-770.845" y="53.755" z="-205.052" radius="8.4" WakeupRange="20.0" ChaseRange="10.0" PatrolRange="5.0" TaskSubId="12892" TaskSubType="2" HateLink="1">
+            <item No="1" id="Gather_thd_cc008" sx="3.000" sy="3.000" sz="3.000" ay="-1" amount="5" refreshtime="5" NotPositive="0" desc="红辣椒">
+                <position x="-776.605" z="-200.116" sx="1.580" sy="1.580" sz="1.580" ay="-1" />
+                <position x="-776.306" z="-203.207" sx="1.580" sy="1.580" sz="1.580" ay="-1" />
+                <position x="-776.567" z="-208.275" sx="1.580" sy="1.580" sz="1.580" ay="-1" />
+                <position x="-764.314" z="-203.188" sx="1.580" sy="1.580" sz="1.580" ay="-1" />
+                <position x="-764.925" z="-209.390" sx="1.580" sy="1.580" sz="1.580" ay="-1" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

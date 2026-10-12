@@ -1,0 +1,17 @@
+NPC编号	ini注释名称	对象类型	Npc类型	级别	表现AI包编号	AI类型	脚本编号	选择操作	模型编号	性别	模型半径	NPC种类ID	走路速度	跑步速度	能否攻击	能不能被攻击	武器持握方式	武器名称	武器类型	空闲状态对话
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	Name	script	NpcType	Level	AIParaNo	AITemplate	LuaScript	SelectState	Resource	Gender	CollideRadius	CKindID	WalkSpeed	RunSpeed	CantAttack	CantBeAttack	WeaponMode	WeaponName	WeaponType	FreeTalk
+qy_PostNpc001	小男孩	PostNpc	110	10	1			2	npc\worldnpc435		0.945	0	3	4.5	1	1	hand1_1			
+qy_PostNpc002	小女孩	PostNpc	110	10	1			2	npc\worldnpc617		0.945	0	3	4.5	1	1	hand1_1			
+qy_PostNpc003	中年江湖侠义男子	PostNpc	110	10	1			2	npc\worldnpc002		0.945	0	3	4.5	1	1	hand1_1			
+qy_PostNpc004	中年江湖中性男子	PostNpc	110	10	1			2	npc\worldnpc222		0.945	0	3	4.5	1	1	hand1_1			
+qy_PostNpc005	中年江湖邪恶男子	PostNpc	110	10	1			2	npc\worldnpc546		0.945	0	3	4.5	1	1	hand1_1			
+qy_PostNpc006	中年江湖侠义女子	PostNpc	110	10	1			2	npc\worldnpc226		0.945	0	3	4.5	1	1	hand1_1			
+qy_PostNpc007	中年江湖中性女子	PostNpc	110	10	1			2	npc\worldnpc242		0.945	0	3	4.5	1	1	hand1_1			
+qy_PostNpc008	中年江湖邪恶女子	PostNpc	110	10	1			2	npc\worldnpc388		0.945	0	3	4.5	1	1	hand1_1			
+qy_PostNpc009	中年百姓男子	PostNpc	110	10	1			2	npc\worldnpc569		0.945	0	3	4.5	1	1	hand1_1			
+qy_PostNpc010	中年百姓女子	PostNpc	110	10	1			2	npc\worldnpc462		0.945	0	3	4.5	1	1	hand1_1			
+qy_PostNpc011	老年江湖男子	PostNpc	110	10	1			2	npc\worldnpc244a		0.945	0	3	4.5	1	1	hand1_1			
+qy_PostNpc012	老年江湖女子	PostNpc	110	10	1			2	npc\worldnpc034		0.945	0	3	4.5	1	1	hand1_1			
+qy_PostNpc013	老年百姓男子	PostNpc	110	10	1			2	npc\worldnpc516		0.945	0	3	4.5	1	1	hand1_1			
+qy_PostNpc014	老年百姓女子	PostNpc	110	10	1			2	npc\worldnpc009		0.945	0	3	4.5	1	1	hand1_1			

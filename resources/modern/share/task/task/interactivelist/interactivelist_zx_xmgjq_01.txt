@@ -1,0 +1,70 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	NpcId	SceneID	DialogID	GetItems	LostItems	TrackInfo	OkMenu	TaskID	HideNpcID	BufferID	EventBuffID
+74307	npc_xmg_dy_01	832	DialogID_74307	useitem_xmg_dy_01-1		interactinfo_74307	okmenu_74307	74333			
+74309	npc_xmg_dy_02	832				interactinfo_74309		74335			
+74302	Eventnpc_xmg_dy_02	832				interactinfo_74302		74332		buff_xmg_dy_02	
+74303	Eventnpc_xmg_dy_03	832				interactinfo_74303		74332		buff_xmg_dy_03	
+74304	Eventnpc_xmg_dy_04	832				interactinfo_74304		74332		buff_xmg_dy_04	
+74305	Eventnpc_xmg_dy_05	832				interactinfo_74305		74332		buff_xmg_dy_05	
+74312		832				interactinfo_74312		74337			
+74315	newmp_tsp_001	832	DialogID_74315			interactinfo_74315	okmenu_74315	74340			
+74382								74382			
+74328	Eventnpc_xmg_dy_11	3				interactinfo_74328		74343			
+74310	EventNpc_smgzyb_001	891				interactinfo_74310		74301			
+74317	EventNpc_smgzyb_002	891				interactinfo_74317		74303			
+74318	caijinpc_smgzyb_003	891				interactinfo_74318		74304			
+74319	EventNpc_smgzyb_003	891				interactinfo_74319		74307			
+74320	newmp_xmg_005	891	DialogID_74320	itemxmg_zyb_001-1		interactinfo_74320	okmenu_74320	74308			
+74321	newmp_xmg_002	891	DialogID_74321		itemxmg_zyb_001-1	interactinfo_74321	okmenu_74321	74308			
+74322	newmp_xmg_002	891	DialogID_74322	useitem_xmgzyb_002-1		interactinfo_74322	okmenu_74322	74309			
+74323	EventNpc_smgzyb_005	891				interactinfo_74323		74309			
+74324	newmp_xmg_002	891	DialogID_74324	useitem_xmgzyb_003-1		interactinfo_74324	okmenu_74324	74310			
+74383											
+74333	newmp_xmg_001	891	DialogID_74333	itemxmg_zyb_002-1		interactinfo_74333	okmenu_74333	74314			
+74334	xmgnpc_zyb_010	891	DialogID_74334		itemxmg_zyb_002-1	interactinfo_74334	okmenu_74334	74314			
+74325	EventNpc_smgzyb_006	891				interactinfo_74325		74313			
+74326	newmp_xmg_001	891		itemxmg_zyb_002-1		interactinfo_74326					
+74327	xmgnpc_zyb_010	891			itemxmg_zyb_002-1	interactinfo_74327					
+74341	Eventnpc_xmg_dy_10	3				interactinfo_74341		74342			
+74314	newmp_tsp_001	832	DialogID_74314		item_xmg_dy_02-1	interactinfo_74314	okmenu_74314	74340			
+74390	xmgnpc_week_sword_001	891	DialogID_74390			interactinfo_74390	okmenu_74390	74388			
+74391	xmgnpc_week_sword_002	891	DialogID_74391			interactinfo_74391	okmenu_74391	74388			
+74392	xmgnpc_week_sword_003	891	DialogID_74392			interactinfo_74392	okmenu_74392	74388			
+74393		891	DialogID_74393			interactinfo_74393	okmenu_74393	74388			
+74308	npc_xmg_dy_01	832	DialogID_74308	item_xmg_dy_01-1	useitem_xmg_dy_01-1	interactinfo_74308	okmenu_74308	74333			
+74340	npc_xmg_dy_22	3	DialogID_74340	item_xmg_dy_012-1		interactinfo_74340	okmenu_74340				
+74331	npc_xmg_dy_22	3	DialogID_74331	item_xmg_dy_12-1		interactinfo_74331	okmenu_74331	74342			
+74329	npc_xmg_dy_24	3	DialogID_74329		item_xmg_dy_10-1|item_xmg_dy_12-1	interactinfo_74329	okmenu_74329	74344			
+74330	npc_xmg_dy_25	3	DialogID_74330	item_xmg_dy_11-1		interactinfo_74330	okmenu_74330	74345			
+74332	npc_xmg_dy_22	3	DialogID_74332		item_xmg_dy_11-1	interactinfo_74332	okmenu_74332	74346			
+74343	newmp_tsp_001	832	DialogID_74343		item_xmg_dy_01-1	interactinfo_74343	okmenu_74343	74333			
+74344	Eventnpc_xmg_dy_12	3				interactinfo_74344		74342		buff_xmg_dy_14	
+74313	npc_xmg_dy_03	832	DialogID_74313			interactinfo_74313	okmenu_74313	74338			
+74342		3				interactinfo_74342		74347			
+74347	npc_xmg_dy_24	3	DialogID_74347		item_xmg_dy_12-1	interactinfo_74347	okmenu_74347	74343			
+74306	Eventnpc_xmg_dy_06	832				interactinfo_74306		74332			
+74301	Eventnpc_xmg_dy_01	832				interactinfo_74301		74331			
+74311	npc_xmg_dy_02	832	DialogID_74311	useitem_xmg_dy_02-1		interactinfo_74311	okmenu_74311	74336			
+74316	DriveNpc_xmg_dy_01	3				interactinfo_74316		74341			
+74346		832				interactinfo_74346		74332			
+74345		832				interactinfo_74345		74331			
+74396	my_gujzcsl_003	931	DialogID_74396	item_mywzsj_guj001-1		interactinfo_74396	okmenu_74396	74396			
+74397	my_gujzcsl_004	930	DialogID_74397	item_mylxxxguj_001-1		interactinfo_74397	okmenu_74397	74397			
+74398	my_gujzcsl_005	930	DialogID_74398	item_mylxxxguj_001-1		interactinfo_74398	okmenu_74398	74397			
+74399	my_gujzcsl_006	930	DialogID_74399	item_mylxxxguj_001-1		interactinfo_74399	okmenu_74399	74397			
+74400	my_gujzcsl_007	930	DialogID_74400	item_mylxxxguj_001-1		interactinfo_74400	okmenu_74400	74397			
+74353		456									
+74350	npcmp_dingzw_tyhg_zcrw_002	456	DialogID_74350			interactinfo_74350	okmenu_74350				
+74351	npcmp_dingzw_tyhg_zcrw_003	456	DialogID_74351			interactinfo_74351	okmenu_74351				
+74352	npcmp_dingzw_tyhg_zcrw_004	456	DialogID_74352			interactinfo_74352	okmenu_74352				
+74354	worldnpc04101	5	DialogID_74354			interactinfo_74354	okmenu_74354				
+74355	WorldNpc03003	6	DialogID_74355			interactinfo_74355	okmenu_74355				
+74358	WorldNpc02203	9	DialogID_74358			interactinfo_74358	okmenu_74358				
+74356	WorldNpc03305	7	DialogID_74356			interactinfo_74356	okmenu_74356				
+74357	WorldNpc03816	8	DialogID_74357			interactinfo_74357	okmenu_74357				
+74359	WorldNpc02604	10	DialogID_74359			interactinfo_74359	okmenu_74359				
+74360	WorldNpc04401	11	DialogID_74360			interactinfo_74360	okmenu_74360				
+74361	WorldNpc00212	12	DialogID_74361			interactinfo_74361	okmenu_74361				
+74362	newmp_mj_001	769	DialogID_74362			interactinfo_74362	okmenu_74362				
+74363	newmp_tsp_001	832	DialogID_74363			interactinfo_74363	okmenu_74363				
+74364	newmp_kl_001	448	DialogID_74364			interactinfo_74364	okmenu_74364				

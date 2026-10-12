@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="726566EC6FC248CB8E9DD6A6F783E744" x="89.627" y="142.128" z="-22.886" radius="8.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="waiyuboss_wy_013" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="BOSSC老大2">
+                <position x="84.831" z="-25.723" ay="-1" WeaponMode="blade1_1" />
+            </item>
+        </creator>
+        <creator No="5723FD7C33B84A8AA705EE6D55992866" x="162.209" y="128.094" z="-26.548" radius="8.0" WakeupRange="12.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="waiyuboss_wy_017" ay="4.724" amount="1" refreshtime="5" NotPositive="0" desc="参合" />
+            <item No="2" id="waiyuboss_wy_019" ay="4.724" amount="1" refreshtime="5" NotPositive="0" desc="男人" />
+        </creator>
+        <creator No="01B5B3F07B2743E8979FAF8EACC970DF" x="134.213" y="128.094" z="31.618" radius="8.0" WakeupRange="12.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="waiyuboss_wy_017" ay="5.878" amount="1" refreshtime="5" NotPositive="0" desc="参合" />
+            <item No="2" id="waiyuboss_wy_019" ay="5.878" amount="1" refreshtime="5" NotPositive="0" desc="男人" />
+        </creator>
+        <creator No="5B6143EDD0DD4D62A646808C47DE8095" x="160.690" y="128.091" z="7.485" radius="7.0" WakeupRange="12.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="waiyuboss_wy_015" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="BOSS手下">
+                <position x="162.050" z="4.170" ay="-1" />
+            </item>
+            <item No="2" id="waiyuboss_wy_018" ay="-1" amount="2" refreshtime="5" NotPositive="0" desc="太玄">
+                <position x="156.203" z="8.286" ay="-1" WeaponName="s_r_npcitem202" WeaponMode="sword1_1" />
+                <position x="158.821" z="12.495" ay="-1" WeaponName="s_r_npcitem202" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="03424FCA70F44E86823048093E510CB4" x="130.764" y="140.883" z="-5.351" radius="8.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="waiyuboss_wy_014" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="太极拳">
+                <position x="132.921" z="-8.752" ay="-1" />
+            </item>
+            <item No="2" id="waiyuboss_wy_015" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="圣火令">
+                <position x="129.077" z="-1.259" ay="-1" WeaponName="k_r_npcitem307" WeaponMode="knife1_2" />
+            </item>
+        </creator>
+        <creator No="F07A356A56F74D95920291F36A98A228" x="101.758" y="128.094" z="32.059" radius="8.0" WakeupRange="12.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="waiyuboss_wy_019" ay="0.266" amount="2" refreshtime="5" NotPositive="0" desc="男人">
+                <position x="99.556" z="27.797" ay="0.266" />
+                <position x="98.966" z="34.474" ay="0.266" />
+            </item>
+            <item No="2" id="waiyuboss_wy_018" ay="0.266" amount="1" refreshtime="5" NotPositive="0" desc="太玄" />
+        </creator>
+        <creator No="E31D42B449544DF18E8EF3FB691BBACA" x="198.553" y="128.094" z="-20.378" radius="5.0" WakeupRange="11.8" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="waiyuboss_wy_014" ay="0.939" amount="1" refreshtime="5" NotPositive="0" desc="太极拳">
+                <position x="197.224" z="-17.897" ay="0.939" />
+            </item>
+            <item No="2" id="waiyuboss_wy_015" ay="1.480" amount="1" refreshtime="5" NotPositive="0" desc="圣火令">
+                <position x="202.264" z="-19.833" ay="1.480" WeaponName="k_r_npcitem307" WeaponMode="knife1_2" />
+            </item>
+        </creator>
+        <creator No="9EE905D6529E4B7B9379D1564AB5D8B4" x="150.758" y="128.094" z="-65.180" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="waiyuboss_wy_019" ay="-1" amount="2" refreshtime="5" NotPositive="0" desc="男人">
+                <position x="145.340" z="-62.425" ay="-1" />
+                <position x="152.763" z="-60.215" ay="-1" />
+            </item>
+            <item No="2" id="waiyuboss_wy_018" ay="-1" amount="2" refreshtime="5" NotPositive="0" desc="太玄">
+                <position x="148.574" z="-69.973" ay="-1" WeaponName="s_r_npcitem202" WeaponMode="sword1_1" />
+                <position x="154.247" z="-67.519" ay="-1" WeaponName="s_r_npcitem202" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="FAF5B30DF50C471785E8593298878D7B" x="380.227" y="76.447" z="74.812" radius="8.0" WakeupRange="12.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="waiyuboss_wy_022" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="西洋">
+                <position x="384.222" z="73.689" ay="-1" WeaponName="s_r_npcitem313" WeaponMode="sword1_2" />
+                <position x="376.725" z="74.031" ay="-1" WeaponName="s_r_npcitem313" WeaponMode="sword1_2" />
+                <position x="380.637" z="80.078" ay="-1" WeaponName="s_r_npcitem313" WeaponMode="sword1_2" />
+            </item>
+        </creator>
+        <creator No="A7D6639E000146BB8C6CF8271574C94E" x="170.104" y="128.066" z="-107.974" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="waiyuboss_wy_019" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="男人" />
+            <item No="2" id="waiyuboss_wy_018" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="太玄" />
+        </creator>
+        <creator No="8C6D0315CBE84823BDCEEFAFE53EF832" x="200.781" y="135.100" z="-172.465" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="waiyuboss_wy_020" ay="-1" amount="2" refreshtime="5" NotPositive="0" desc="全真">
+                <position x="195.837" z="-169.257" ay="-1" WeaponName="s_r_217" WeaponMode="sword1_2" />
+                <position x="202.884" z="-168.544" ay="-1" WeaponName="s_r_217" WeaponMode="sword1_2" />
+            </item>
+            <item No="2" id="waiyuboss_wy_021" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="姑洗" />
+        </creator>
+        <creator No="50BFD3CB9B9349EC8AD1479D9ED43859" x="227.396" y="135.100" z="-207.124" radius="8.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="waiyuboss_wy_020" ay="-1" amount="2" refreshtime="5" NotPositive="0" desc="全真">
+                <position x="222.453" z="-203.917" ay="-1" WeaponName="s_r_217" WeaponMode="sword1_2" />
+                <position x="229.499" z="-203.203" ay="-1" WeaponName="s_r_217" WeaponMode="sword1_2" />
+            </item>
+            <item No="2" id="waiyuboss_wy_021" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="姑洗" />
+        </creator>
+        <creator No="FD3F5ACC594B4D9F8FFAAE5D0BE36F86" x="176.081" y="136.242" z="-208.540" radius="8.0" WakeupRange="12.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="waiyuboss_wy_020" ay="0.754" amount="2" refreshtime="5" NotPositive="0" desc="全真">
+                <position x="170.300" z="-207.395" ay="0.754" WeaponName="s_r_217" WeaponMode="sword1_2" />
+                <position x="176.579" z="-204.118" ay="1.296" WeaponName="s_r_217" WeaponMode="sword1_2" />
+            </item>
+            <item No="2" id="waiyuboss_wy_021" ay="2.727" amount="1" refreshtime="5" NotPositive="0" desc="姑洗" />
+        </creator>
+        <creator No="130A8F9EB61245FE83735352099F0BA9" x="257.469" y="135.012" z="-237.310" radius="8.0" WakeupRange="12.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="waiyuboss_wy_020" ay="1.439" amount="2" refreshtime="5" NotPositive="0" desc="全真">
+                <position x="253.717" z="-232.765" ay="1.439" WeaponName="s_r_217" WeaponMode="sword1_2" />
+                <position x="260.652" z="-234.201" ay="1.981" WeaponName="s_r_217" WeaponMode="sword1_2" />
+            </item>
+            <item No="2" id="waiyuboss_wy_021" ay="3.412" amount="1" refreshtime="5" NotPositive="0" desc="姑洗" />
+        </creator>
+        <creator No="C2FCA64215134B51BEB36B9EA3D70958" x="226.952" y="129.985" z="-279.419" radius="8.0" WakeupRange="12.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="waiyuboss_wy_020" ay="0.754" amount="2" refreshtime="5" NotPositive="0" desc="全真">
+                <position x="221.172" z="-278.273" ay="0.754" WeaponName="s_r_217" WeaponMode="sword1_2" />
+                <position x="227.451" z="-274.997" ay="1.296" WeaponName="s_r_217" WeaponMode="sword1_2" />
+            </item>
+            <item No="2" id="waiyuboss_wy_021" ay="2.727" amount="1" refreshtime="5" NotPositive="0" desc="姑洗" />
+        </creator>
+        <creator No="383C9CEBBDC94D5EA70565E7E155D05B" x="202.904" y="129.985" z="-328.896" radius="8.0" WakeupRange="12.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="waiyuboss_wy_020" ay="0.754" amount="2" refreshtime="5" NotPositive="0" desc="全真">
+                <position x="197.123" z="-327.751" ay="0.754" WeaponName="s_r_217" WeaponMode="sword1_2" />
+                <position x="203.402" z="-324.474" ay="1.296" WeaponName="s_r_217" WeaponMode="sword1_2" />
+            </item>
+            <item No="2" id="waiyuboss_wy_021" ay="2.727" amount="1" refreshtime="5" NotPositive="0" desc="姑洗" />
+        </creator>
+        <creator No="3A969F2C5B144B8D9E222FC40104714F" x="164.772" y="130.118" z="-316.283" radius="8.0" WakeupRange="12.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="waiyuboss_wy_020" ay="0.754" amount="2" refreshtime="5" NotPositive="0" desc="全真">
+                <position x="158.991" z="-315.138" ay="0.754" WeaponName="s_r_217" WeaponMode="sword1_2" />
+                <position x="165.270" z="-311.861" ay="1.296" WeaponName="s_r_217" WeaponMode="sword1_2" />
+            </item>
+            <item No="2" id="waiyuboss_wy_021" ay="2.727" amount="1" refreshtime="5" NotPositive="0" desc="姑洗" />
+        </creator>
+        <creator No="0EF0F1D9C64D4921AB06710D566D2FDF" x="205.949" y="103.269" z="28.357" radius="8.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="waiyuboss_wy_015" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="圣火令" />
+            <item No="2" id="waiyuboss_wy_018" ay="-1" amount="2" refreshtime="5" NotPositive="0" desc="太玄">
+                <position x="210.205" z="27.836" ay="-1" WeaponName="s_r_npcitem202" WeaponMode="sword1_1" />
+                <position x="205.531" z="31.898" ay="-1" WeaponName="s_r_npcitem202" WeaponMode="sword1_1" />
+            </item>
+        </creator>
+        <creator No="3E4E675765F14A7DBE7466C64C9902EB" x="246.896" y="91.650" z="45.391" radius="8.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="waiyuboss_wy_017" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="参合" />
+            <item No="2" id="waiyuboss_wy_022" ay="-1" amount="2" refreshtime="5" NotPositive="0" desc="西洋">
+                <position x="243.014" z="43.709" ay="-1" WeaponName="s_r_npcitem313" WeaponMode="sword1_2" />
+                <position x="249.655" z="43.049" ay="-1" WeaponName="s_r_npcitem313" WeaponMode="sword1_2" />
+            </item>
+            <item No="3" id="waiyuboss_wy_020" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="全真" />
+        </creator>
+        <creator No="A89AA8E150B446E08A4B2B6670FED5CC" x="318.051" y="89.901" z="18.144" radius="6.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="waiyuboss_wy_022" ay="2.605" amount="2" refreshtime="5" NotPositive="0" desc="西洋">
+                <position x="322.158" z="16.868" ay="2.605" WeaponName="s_r_npcitem313" WeaponMode="sword1_2" />
+                <position x="314.919" z="17.070" ay="-1" WeaponName="s_r_npcitem313" WeaponMode="sword1_2" />
+            </item>
+            <item No="2" id="waiyuboss_wy_016" ay="2.727" amount="1" refreshtime="5" NotPositive="0" desc="打狗棒(古谱)强">
+                <position x="317.205" z="13.967" ay="2.727" WeaponName="st_r_1002" WeaponMode="stuff1_1" />
+            </item>
+            <item No="3" id="waiyuboss_wy_020" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="全真">
+                <position x="318.295" z="16.174" ay="-1" WeaponName="s_r_217" WeaponMode="sword1_2" />
+            </item>
+        </creator>
+        <creator No="49DCD9FC285146B1B3C4559D0D65EC2E" x="348.699" y="81.210" z="90.764" radius="8.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="waiyuboss_wy_022" ay="2.727" amount="3" refreshtime="5" NotPositive="0" desc="西洋">
+                <position x="344.477" z="91.747" ay="2.727" WeaponName="s_r_npcitem313" WeaponMode="sword1_2" />
+                <position x="346.739" z="86.606" ay="2.727" WeaponName="s_r_npcitem313" WeaponMode="sword1_2" />
+                <position x="353.328" z="92.872" ay="2.727" WeaponName="s_r_npcitem313" WeaponMode="sword1_2" />
+            </item>
+            <item No="2" id="waiyuboss_wy_020" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="全真">
+                <position x="344.153" z="88.404" ay="-1" WeaponName="s_r_217" WeaponMode="sword1_2" />
+            </item>
+        </creator>
+        <creator No="F02ADC4492B94EA3A91B288322C7588F" x="273.849" y="89.901" z="115.423" radius="8.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="waiyuboss_wy_016" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="打狗棒(古谱)强">
+                <position x="275.570" z="119.856" ay="-1" WeaponName="st_r_1002" WeaponMode="stuff1_1" />
+            </item>
+            <item No="2" id="waiyuboss_wy_022" ay="-1" amount="2" refreshtime="5" NotPositive="0" desc="西洋">
+                <position x="269.722" z="117.791" ay="-1" WeaponName="s_r_npcitem313" WeaponMode="sword1_2" />
+                <position x="273.060" z="117.574" ay="-1" WeaponName="s_r_npcitem313" WeaponMode="sword1_2" />
+            </item>
+            <item No="3" id="waiyuboss_wy_020" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="全真">
+                <position x="270.862" z="120.894" ay="-1" WeaponName="s_r_217" WeaponMode="sword1_2" />
+            </item>
+        </creator>
+        <creator No="B0D5D8BEC2E841EF8B3DEA40A423C36F" x="358.307" y="76.446" z="123.908" radius="8.0" WakeupRange="12.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="waiyuboss_wy_022" ay="3.819" amount="3" refreshtime="5" NotPositive="0" desc="西洋">
+                <position x="362.400" z="124.593" ay="3.819" WeaponName="s_r_npcitem313" WeaponMode="sword1_2" />
+                <position x="355.472" z="121.709" ay="1.078" WeaponName="s_r_npcitem313" WeaponMode="sword1_2" />
+                <position x="356.435" z="128.847" ay="0.153" WeaponName="s_r_npcitem313" WeaponMode="sword1_2" />
+            </item>
+        </creator>
+        <creator No="B5B373A4E8F448749DE964CFE1FCC2A4" x="323.255" y="84.733" z="139.713" radius="8.0" WakeupRange="12.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="waiyuboss_wy_022" ay="-1" amount="2" refreshtime="5" NotPositive="0" desc="西洋">
+                <position x="322.139" z="135.517" ay="-1" WeaponName="s_r_npcitem313" WeaponMode="sword1_2" />
+                <position x="324.885" z="144.640" ay="-1" WeaponName="s_r_npcitem313" WeaponMode="sword1_2" />
+            </item>
+        </creator>
+        <creator No="F3A7182F673547BEBCA4C3E716224087" x="395.840" y="71.607" z="111.120" radius="8.0" WakeupRange="12.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="waiyuboss_wy_022" ay="-1" amount="3" refreshtime="5" NotPositive="0" desc="西洋">
+                <position x="399.835" z="109.997" ay="-1" WeaponName="s_r_npcitem313" WeaponMode="sword1_2" />
+                <position x="392.339" z="110.339" ay="-1" WeaponName="s_r_npcitem313" WeaponMode="sword1_2" />
+                <position x="396.250" z="116.387" ay="-1" WeaponName="s_r_npcitem313" WeaponMode="sword1_2" />
+            </item>
+            <item No="2" id="waiyuboss_wy_020" ay="-1" amount="1" refreshtime="5" NotPositive="0" desc="全真" />
+        </creator>
+        <creator No="EB83648E7761449AB6F313324B38FB18" x="368.221" y="84.702" z="39.528" radius="8.0" WakeupRange="12.0" ChaseRange="27.0" PatrolRange="10.0">
+            <item No="1" id="waiyuboss_wy_022" ay="-1" amount="2" refreshtime="5" NotPositive="0" desc="西洋">
+                <position x="372.495" z="37.533" ay="-1" WeaponName="s_r_npcitem313" WeaponMode="sword1_2" />
+                <position x="364.701" z="40.842" ay="-1" WeaponName="s_r_npcitem313" WeaponMode="sword1_2" />
+            </item>
+        </creator>
+        <creator No="380A7B1F7E9B4C5E9DB4F3E34B5AEC19" x="467.903" y="33.447" z="138.811" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="71806" TaskSubType="1" HateLink="1">
+            <item No="1" id="npc_jlg_mxm02" ay="-1" amount="4" refreshtime="5" NotPositive="0" desc="伏击之人">
+                <position x="466.854" z="140.648" ay="-1" />
+                <position x="464.781" z="138.780" ay="-1" />
+                <position x="466.333" z="135.809" ay="-1" />
+                <position x="470.198" z="138.297" ay="-1" />
+            </item>
+        </creator>
+        <creator No="765EDFA3BF0C4DD289BC2150ECB8B454" x="482.191" y="19.335" z="184.954" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="71807" TaskSubType="1" HateLink="1">
+            <item No="1" id="npc_jlg_mxm03" ay="-1" amount="4" refreshtime="5" NotPositive="0" desc="伏击之人">
+                <position x="479.739" z="185.460" ay="-1" />
+                <position x="481.977" z="181.849" ay="-1" />
+                <position x="485.467" z="187.112" ay="-1" />
+                <position x="484.593" z="183.267" ay="-1" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

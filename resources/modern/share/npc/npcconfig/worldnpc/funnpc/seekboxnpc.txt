@@ -1,0 +1,197 @@
+NPC编号	对象类型	名称	模型编号			NPC种类ID	响应范围	选择操作分类	脚本编号	采集范围	采集动作名	读条时间(ms)	一次性开启编号	掉落	无拾取物消失时间（s）	最大消失时间(s)	宝箱开启前特效	宝箱开启后特效	钥匙数量	钥匙id	NPC特效名称	鼠标形状	开启条件	AI编辑包	分配类型	存在时间
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	script	Name	Resource	Photo	NpcType	CKindID	SpringRange	SelectState	LuaScript	OpenRange	OpenAction	DelayTime	SeekBoxNpcNo	DropID	DestroyTime1	DestoryTime2	BeforeOpenEffect	AfterOpenEffect	KeyNum	KeyID	NpcEffect	CursorShape	ConditionID	AIEditorPackID	AllotType	LifeTime
+											5															
+yhgceshi001	SeekBoxNpc	木质宝箱1	npc\itemnpc586	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		1	drop_yhg_sl_001	3	900						28				
+yhgceshi002	SeekBoxNpc	木质宝箱2	npc\itemnpc586	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		2	drop_yhg_sl_001	3	900						28				
+yhgceshi003	SeekBoxNpc	木质宝箱3	npc\itemnpc586	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		3	drop_yhg_sl_001	3	900						28				
+yhgceshi004	SeekBoxNpc	木质宝箱4	npc\itemnpc586	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		4	drop_yhg_sl_001	3	900						28				
+yhgceshi005	SeekBoxNpc	木质宝箱5	npc\itemnpc586	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		5	drop_yhg_sl_001	3	900						28				
+yhgceshi006	SeekBoxNpc	木质宝箱6	npc\itemnpc586	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		6	drop_yhg_sl_001	3	900						28				
+yhgceshi007	SeekBoxNpc	木质宝箱7	npc\itemnpc586	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		7	drop_yhg_sl_001	3	900						28				
+yhgceshi008	SeekBoxNpc	木质宝箱8	npc\itemnpc586	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		8	drop_yhg_sl_001	3	900						28				
+yhgceshi009	SeekBoxNpc	木质宝箱9	npc\itemnpc586	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		9	drop_yhg_sl_001	3	900						28				
+yhgceshi010	SeekBoxNpc	木质宝箱10	npc\itemnpc586	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		10	drop_yhg_sl_001	3	900						28				
+yhgceshi011	SeekBoxNpc	木质宝箱11	npc\itemnpc586	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		11	drop_yhg_sl_001	3	900						28				
+yhgceshi012	SeekBoxNpc	木质宝箱12	npc\itemnpc586	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		12	drop_yhg_sl_001	3	900						28				
+yhgceshi013	SeekBoxNpc	木质宝箱13	npc\itemnpc586	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		13	drop_yhg_sl_001	3	900						28				
+yhgceshi014	SeekBoxNpc	木质宝箱14	npc\itemnpc586	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		14	drop_yhg_sl_001	3	900						28				
+yhgceshi015	SeekBoxNpc	木质宝箱15	npc\itemnpc586	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		15	drop_yhg_sl_001	3	900						28				
+yhgceshi016	SeekBoxNpc	木质宝箱16	npc\itemnpc586	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		16	drop_yhg_sl_001	3	900						28				
+yhgceshi017	SeekBoxNpc	木质宝箱17	npc\itemnpc586	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		17	drop_yhg_sl_001	3	900						28				
+yhgceshi018	SeekBoxNpc	木质宝箱18	npc\itemnpc586	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		18	drop_yhg_sl_001	3	900						28				
+yhgceshi019	SeekBoxNpc	木质宝箱19	npc\itemnpc586	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		19	drop_yhg_sl_001	3	900						28				
+yhgceshi020	SeekBoxNpc	木质宝箱20	npc\itemnpc586	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		20	drop_yhg_sl_001	3	900						28				
+																										
+yhg_seekbox001	SeekBoxNpc	一捆马草	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		50	yhg_seekboxdl001	3	500						28	103524			
+yhg_seekbox002	SeekBoxNpc	一枚墨玉梅花	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		51	yhg_seekboxdl002	3	500						28	103524			
+yhg_seekbox003	SeekBoxNpc	装饰坛砵(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		52	yhg_seekboxdl003	3	500						28	103524			
+yhg_seekbox004	SeekBoxNpc	置物柜(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		53	yhg_seekboxdl004	3	500						28	103525			
+yhg_seekbox005	SeekBoxNpc	宝箱(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		54	yhg_seekboxdl005	3	500						28	103525			
+yhg_seekbox006	SeekBoxNpc	置物格里的香囊	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		55	yhg_seekboxdl006	3	500						28	103525			
+yhg_seekbox007	SeekBoxNpc	花瓶(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		56	yhg_seekboxdl007	3	500						28	103525			
+yhg_seekbox008	SeekBoxNpc	多宝格上的小盒子	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		57	yhg_seekboxdl008	3	500						28	103525			
+yhg_seekbox009	SeekBoxNpc	陶器(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		58	yhg_seekboxdl009	3	500						28	103525			
+yhg_seekbox010	SeekBoxNpc	花篮1(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		59	yhg_seekboxdl010	3	500						28	103525			
+yhg_seekbox011	SeekBoxNpc	花篮2(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		60	yhg_seekboxdl011	3	500						28	103525			
+yhg_seekbox012	SeekBoxNpc	矿堆1(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		61	yhg_seekboxdl012	3	500						28	103525			
+yhg_seekbox013	SeekBoxNpc	矿堆2(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		62	yhg_seekboxdl013	3	500						28	103525			
+yhg_seekbox014	SeekBoxNpc	木材堆1(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		63	yhg_seekboxdl014	3	500						28	103525			
+yhg_seekbox015	SeekBoxNpc	木材堆2(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		64	yhg_seekboxdl015	3	500						28	103525			
+yhg_seekbox016	SeekBoxNpc	木材堆3(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		65	yhg_seekboxdl016	3	500						28	103525			
+yhg_seekbox017	SeekBoxNpc	木材堆4(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		66	yhg_seekboxdl017	3	500						28	103525			
+yhg_seekbox018	SeekBoxNpc	锻台上的盒子(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		67	yhg_seekboxdl018	3	500						28	103525			
+yhg_seekbox019	SeekBoxNpc	置物格里的小坛子	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		68	yhg_seekboxdl019	3	500						28	103525			
+yhg_seekbox020	SeekBoxNpc	置物柜(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		69	yhg_seekboxdl020	3	500						28	103525			
+yhg_seekbox021	SeekBoxNpc	梳妆台上的香囊	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		70	yhg_seekboxdl021	3	500						28	103524			
+yhg_seekbox022	SeekBoxNpc	闺床上的匣子	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		71	yhg_seekboxdl022	3	500						28	103524			
+yhg_seekbox023	SeekBoxNpc	置物柜(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		72	yhg_seekboxdl023	3	500						28	103524			
+yhg_seekbox024	SeekBoxNpc	置衣架上的布料	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		73	yhg_seekboxdl024	3	500						28	103524			
+yhg_seekbox025	SeekBoxNpc	澡盆里的粉玫瑰花	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		74	yhg_seekboxdl025	3	500						28	103524			
+yhg_seekbox026	SeekBoxNpc	置物架上的小酒坛	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		75	yhg_seekboxdl026	3	500						28	103524			
+yhg_seekbox027	SeekBoxNpc	角落的中酒坛(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		76	yhg_seekboxdl027	3	500						28	103524			
+yhg_seekbox028	SeekBoxNpc	大缸(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		77	yhg_seekboxdl028	3	500						28	103524			
+yhg_seekbox029	SeekBoxNpc	蒸架上的一笼馒头	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		78	yhg_seekboxdl029	3	500						28	103524			
+yhg_seekbox030	SeekBoxNpc	蒸架上的一笼包子	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		79	yhg_seekboxdl030	3	500						28	103524			
+yhg_seekbox031	SeekBoxNpc	置物架上的苹果	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		80	yhg_seekboxdl031	3	500						28	103524			
+yhg_seekbox032	SeekBoxNpc	案上的大白菜(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		81	yhg_seekboxdl032	3	500						28	103524			
+yhg_seekbox033	SeekBoxNpc	酒坛	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		82	yhg_seekboxdl033	3	500						28	103524			
+yhg_seekbox034	SeekBoxNpc	桌上一盘烩双丁(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		83	yhg_seekboxdl034	3	500						28	103524			
+yhg_seekbox035	SeekBoxNpc	桌上一碗冰糖八宝粥	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		84	yhg_seekboxdl035	3	500						28	103524			
+yhg_seekbox036	SeekBoxNpc	桌上一盘九转大肠(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		85	yhg_seekboxdl036	3	500						28	103524			
+yhg_seekbox037	SeekBoxNpc	桌上一碟桂花栗粉糕(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		86	yhg_seekboxdl037	3	500						28	103525			
+yhg_seekbox038	SeekBoxNpc	桌上一盘石锅萧山鸡(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		87	yhg_seekboxdl038	3	500						28	103525			
+yhg_seekbox039	SeekBoxNpc	桌上一碗冰糖蒸酥酪	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		88	yhg_seekboxdl039	3	500						28	103525			
+yhg_seekbox040	SeekBoxNpc	桌上一碟鲜花饼(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		89	yhg_seekboxdl040	3	500						28	103525			
+yhg_seekbox041	SeekBoxNpc	桌上一壶曲米春(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		90	yhg_seekboxdl041	3	500						28	103525			
+yhg_seekbox042	SeekBoxNpc	桌上一碗玫瑰樱桃粥	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		91	yhg_seekboxdl042	3	500						28	103525			
+yhg_seekbox043	SeekBoxNpc	桌上一本书册(+药师心得)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		92	yhg_seekboxdl043	3	500						28	103526			
+yhg_seekbox044	SeekBoxNpc	置物格上的红塞长瓷瓶(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		93	yhg_seekboxdl044	3	500						28	103526			
+yhg_seekbox045	SeekBoxNpc	置物格上的包布瓷瓶(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		94	yhg_seekboxdl045	3	500						28	103526			
+yhg_seekbox046	SeekBoxNpc	置物格上的细长瓷瓶(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		95	yhg_seekboxdl046	3	500						28	103526			
+yhg_seekbox047	SeekBoxNpc	置物格上的红塞瓷瓶(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		96	yhg_seekboxdl047	3	500						28	103526			
+yhg_seekbox048	SeekBoxNpc	置物格上的一个瓷罐(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		97	yhg_seekboxdl048	3	500						28	103526			
+yhg_seekbox049	SeekBoxNpc	置物格上的一个陶罐(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		98	yhg_seekboxdl049	3	500						28	103526			
+yhg_seekbox050	SeekBoxNpc	置物格上的细长瓷瓶(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		99	yhg_seekboxdl050	3	500						28	103526			
+yhg_seekbox051	SeekBoxNpc	置物格上的白瓷瓶(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		100	yhg_seekboxdl051	3	500						28	103526			
+yhg_seekbox052	SeekBoxNpc	置物格上的陶罐(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		101	yhg_seekboxdl052	3	500						28	103526			
+yhg_seekbox053	SeekBoxNpc	置物格顶上的宝箱(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		102	yhg_seekboxdl053	3	500						28	103526			
+yhg_seekbox054	SeekBoxNpc	置物格上的侠客令	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		103	yhg_seekboxdl054	3	500						28	103526			
+yhg_seekbox055	SeekBoxNpc	书架上的羊皮残片	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		104	yhg_seekboxdl055	3	500						28	103526			
+yhg_seekbox056	SeekBoxNpc	书架上的羊皮残片	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		105	yhg_seekboxdl056	3	500						28	103526			
+yhg_seekbox057	SeekBoxNpc	箱子(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		106	yhg_seekboxdl057	3	500						28	103526			
+yhg_seekbox058	SeekBoxNpc	置物柜顶的箱子(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		107	yhg_seekboxdl058	3	500						28	103526			
+yhg_seekbox059	SeekBoxNpc	箱子(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		108	yhg_seekboxdl059	3	500						28	103526			
+yhg_seekbox060	SeekBoxNpc	置物格上的红匣子(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		109	yhg_seekboxdl060	3	500						28	103525			
+yhg_seekbox061	SeekBoxNpc	书架上的书(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		110	yhg_seekboxdl061	3	500						28	103525			
+yhg_seekbox062	SeekBoxNpc	置物架上的青花瓷瓶(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		111	yhg_seekboxdl062	3	500						28	103525			
+yhg_seekbox063	SeekBoxNpc	置物柜上的瓷瓶(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		112	yhg_seekboxdl063	3	500						28	103525			
+yhg_seekbox064	SeekBoxNpc	置物柜上的竹盒(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		113	yhg_seekboxdl064	3	500						28	103525			
+yhg_seekbox065	SeekBoxNpc	地上的箱子（拾取绑定）	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		114	yhg_seekboxdl065	3	500						28	103524			
+yhg_seekbox066	SeekBoxNpc	地上的箱子（拾取绑定）	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		115	yhg_seekboxdl066	3	500						28	103524			
+yhg_seekbox067	SeekBoxNpc	墨玉梅花树下（拾取绑定）	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		116	yhg_seekboxdl067	3	500						28	103524			
+yhg_seekbox068	SeekBoxNpc	墨玉梅花树下（拾取绑定）	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		117	yhg_seekboxdl068	3	500						28	103524			
+yhg_seekbox069	SeekBoxNpc	墨玉梅花树下（拾取绑定）	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		118	yhg_seekboxdl069	3	500						28	103524			
+yhg_seekbox070	SeekBoxNpc	2楼置物格上的宝箱(已有)	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		119	yhg_seekboxdl070	3	500						28	103527			
+yhg_seekbox071	SeekBoxNpc	2楼置物格上的细长瓷瓶	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		120	yhg_seekboxdl071	3	500						28	103527			
+yhg_seekbox072	SeekBoxNpc	2楼置物格上的木塞瓷瓶	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		121	yhg_seekboxdl072	3	500						28	103527			
+yhg_seekbox073	SeekBoxNpc	2楼置物格上的匣子	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		122	yhg_seekboxdl073	3	500						28	103527			
+yhg_seekbox074	SeekBoxNpc	梳妆台上的绣玉花囊	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		123	yhg_seekboxdl074	3	500						28	103527			
+yhg_seekbox075	SeekBoxNpc	明玉功突破要诀	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		124	yhg_seekboxdl075	3	500						28	103527			
+yhg_seekbox076	SeekBoxNpc	墨子悲丝尾曲	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		125	yhg_seekboxdl076	3	500						28	103527			
+yhg_seekbox077	SeekBoxNpc	随机宝物	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		126	yhg_seekboxdl077	3	500						28	103527			
+yhg_seekbox078	SeekBoxNpc	墨玉梅花	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		127	yhg_seekboxdl078	3	500						28	103527			
+yhg_seekbox079	SeekBoxNpc	我也不知道	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		128	yhg_seekboxdl079	3	500						28	103526			
+yhg_seekbox080	SeekBoxNpc	行脚令	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		129	yhg_seekboxdl080	3	500						28	103526			
+yhg_seekbox081	SeekBoxNpc	绿萤石	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		130	yhg_seekboxdl081	3	500						28	103526			
+yhg_seekbox082	SeekBoxNpc	狐皮	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		131	yhg_seekboxdl082	3	500						28	103526			
+yhg_seekbox083	SeekBoxNpc	金元再生丹	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		132	yhg_seekboxdl083	3	500						28	103526			
+yhg_seekbox084	SeekBoxNpc	百家衣碎片	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		133	yhg_seekboxdl084	3	500						28	103524			
+yhg_seekbox085	SeekBoxNpc	菊花酒	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		134	yhg_seekboxdl085	3	500						28	103524			
+yhg_seekbox086	SeekBoxNpc	鲍鱼	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		135	yhg_seekboxdl086	3	500						28	103524			
+yhg_seekbox087	SeekBoxNpc	精致蔗糖	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		136	yhg_seekboxdl087	3	500						28	103524			
+yhg_seekbox088	SeekBoxNpc	花神七式批注书	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		137	yhg_seekboxdl088	3	500						28	103526			
+yhg_seekbox089	SeekBoxNpc	花神七式批注书	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		138	yhg_seekboxdl089	3	500						28	103527			
+yhg_seekbox090	SeekBoxNpc	雪莲药膏	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		139	yhg_seekboxdl090	3	500						28	103527			
+																										
+thd_seekbox001	SeekBoxNpc	桃花枝	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		140	thd_seekboxdl055	3	500						28	103530			
+thd_seekbox002	SeekBoxNpc	竹枝	npc\itemnpc539	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		141	thd_seekboxdl056	3	500						28	103530			
+thd_seekbox003	SeekBoxNpc	食盒	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		142	thd_seekboxdl057	3	500						28	103529			
+thd_seekbox004	SeekBoxNpc	正在锅上的蒸笼（米缸）	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		143	thd_seekboxdl058	3	500						28	103528			
+thd_seekbox005	SeekBoxNpc	桌上的菜肴	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		144	thd_seekboxdl059	3	500						28	103528			
+thd_seekbox006	SeekBoxNpc	梳妆盒	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		145	thd_seekboxdl060	3	500						28	103529			
+thd_seekbox007	SeekBoxNpc	案上的大白菜	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		146	thd_seekboxdl061	3	500						28	103528			
+thd_seekbox008	SeekBoxNpc	屋内的木箱（罐子）	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		147	thd_seekboxdl062	3	500						28	103528			
+thd_seekbox009	SeekBoxNpc	屋外的柴堆（破车）	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		148	thd_seekboxdl063	3	500						28	103528			
+thd_seekbox010	SeekBoxNpc	案上的菜肴（碗）	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		149	thd_seekboxdl064	3	500						28	103528			
+thd_seekbox011	SeekBoxNpc	桌下的鱼篓	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		150	thd_seekboxdl065	3	500						28	103528			
+thd_seekbox012	SeekBoxNpc	屋内的木盒（袋子）	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		151	thd_seekboxdl066	3	500						28	103528			
+thd_seekbox013	SeekBoxNpc	屋内的陶罐（簸箕）	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		152	thd_seekboxdl067	3	500						28	103528			
+thd_seekbox014	SeekBoxNpc	玉石桃花（灯台）	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		153	thd_seekboxdl068	3	500						28	103531			
+thd_seekbox015	SeekBoxNpc	玉石竹节（茶壶）	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		154	thd_seekboxdl069	3	500						28	103531			
+thd_seekbox016	SeekBoxNpc	《周易》	npc\itemnpc686	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		155	thd_seekboxdl070	3	500						28	103529			
+thd_seekbox017	SeekBoxNpc	龙纹玉箫	npc\itemnpc472	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		156	thd_seekboxdl071	3	500						28	103529			
+thd_seekbox018	SeekBoxNpc	金丝花纹锦盒	npc\itemnpc688	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		157	thd_seekboxdl072	3	500						28	103529			
+thd_seekbox019	SeekBoxNpc	古旧木箱	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		158	thd_seekboxdl073	3	500						28	103529			
+thd_seekbox020	SeekBoxNpc	鎏金葫芦	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		159	thd_seekboxdl074	3	500						28	103529			
+thd_seekbox021	SeekBoxNpc	绿瓷方酒坛（酒坛）	npc\itemnpc872	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		160	thd_seekboxdl075	3	500						28	103530			
+thd_seekbox022	SeekBoxNpc	桃木剑	npc\itemnpc205	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		161	thd_seekboxdl076	3	500						28	103530			
+thd_seekbox023	SeekBoxNpc	特大酒坛（酒缸）	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		162	thd_seekboxdl077	3	500						28	103528			
+thd_seekbox024	SeekBoxNpc	紫金罗盘	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		163	thd_seekboxdl078	3	500						28	103529			
+thd_seekbox025	SeekBoxNpc	针灸铜人	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		164	thd_seekboxdl079	3	500						28	103528			
+thd_seekbox026	SeekBoxNpc	小药瓶	npc\itemnpc666	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		165	thd_seekboxdl080	3	500						28	103528			
+thd_seekbox027	SeekBoxNpc	《神农本草经》	npc\itemnpc053	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		166	thd_seekboxdl081	3	500						28	103528			
+thd_seekbox028	SeekBoxNpc	《金匮要略》	npc\itemnpc021	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		167	thd_seekboxdl082	3	500						28	103528			
+thd_seekbox029	SeekBoxNpc	《八阵图遗篇》	npc\itemnpc588	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		168	thd_seekboxdl083	3	500						28	103530			
+thd_seekbox030	SeekBoxNpc	嵩阳铁剑	npc\itemnpc202	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		169	thd_seekboxdl084	3	500						28	103529			
+thd_seekbox031	SeekBoxNpc	陨铁短匕（蛇形剑）	npc\itemnpc644	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		170	thd_seekboxdl085	3	500						28	103529			
+thd_seekbox032	SeekBoxNpc	鬼头大刀	npc\itemnpc647	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		171	thd_seekboxdl086	3	500						28	103529			
+thd_seekbox033	SeekBoxNpc	玉女剑	npc\itemnpc646	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		172	thd_seekboxdl087	3	500						28	103529			
+thd_seekbox034	SeekBoxNpc	白玉挂坠（香包）	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		173	thd_seekboxdl088	3	500						28	103529			
+thd_seekbox035	SeekBoxNpc	剑谱	npc\itemnpc047	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		174	thd_seekboxdl089	3	500						28	103528			
+thd_seekbox036	SeekBoxNpc	《名花图鉴》	npc\itemnpc460	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		175	thd_seekboxdl090	3	500						28	103528			
+thd_seekbox037	SeekBoxNpc	《广陵散残篇》	npc\itemnpc026	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		176	thd_seekboxdl091	3	500						28	103529			
+thd_seekbox038	SeekBoxNpc	古琴	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		177	thd_seekboxdl092	3	500						28	103528			
+thd_seekbox039	SeekBoxNpc	首饰若干	npc\itemnpc177	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		178	thd_seekboxdl093	3	500						28	103529			
+thd_seekbox040	SeekBoxNpc	锦盒	npc\itemnpc688	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		179	thd_seekboxdl094	3	500						28	103529			
+thd_seekbox041	SeekBoxNpc	黑色金属	npc\cj020100	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		180	thd_seekboxdl095	3	500						28	103530			
+thd_seekbox042	SeekBoxNpc	铜色金属	npc\cj020040	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		181	thd_seekboxdl096	3	500						28	103529			
+thd_seekbox043	SeekBoxNpc	灰色金属	npc\cj020001	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		182	thd_seekboxdl097	3	500						28	103528			
+thd_seekbox044	SeekBoxNpc	精致木盒	npc\itemnpc005	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		183	thd_seekboxdl098	3	500						28	103528			
+thd_seekbox045	SeekBoxNpc	锦囊	npc\itemnpc439	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		184	thd_seekboxdl099	3	500						28	103529			
+thd_seekbox046	SeekBoxNpc	花纹石板（石块）	npc\cj020140	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		185	thd_seekboxdl100	3	500						28	103529			
+thd_seekbox047	SeekBoxNpc	大宝箱	npc\itemnpc588	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		186	thd_seekboxdl101	3	500						28	103529			
+thd_seekbox048	SeekBoxNpc	中宝箱	npc\itemnpc587	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		187	thd_seekboxdl102	3	500						28	103528			
+thd_seekbox049	SeekBoxNpc	小宝箱	npc\itemnpc586	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		188	thd_seekboxdl103	3	500						28	103528			
+thd_seekbox050	SeekBoxNpc	陶罐	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		189	thd_seekboxdl104	3	500						28	103528			
+thd_seekbox051	SeekBoxNpc	瓷罐（钱币）	npc\itemnpc733	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		190	thd_seekboxdl105	3	500						28	103528			
+thd_seekbox052	SeekBoxNpc	瓷花瓶	npc\npcitem633	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		191	thd_seekboxdl106	3	500						28	103528			
+thd_seekbox053	SeekBoxNpc	刀剑	npc\cj020040	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		192	thd_seekboxdl107	3	500						28	103528			
+thd_seekbox054	SeekBoxNpc	石像	npc\cj020001	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041		193	thd_seekboxdl108	3	500						28	103528			
+																										
+	//刑天城隐藏宝箱																									
+thd_seekbox055	SeekBoxNpc	秘密宝箱	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041	2000	194	drop_box_xtc_s_001	3							28	121250			
+thd_seekbox056	SeekBoxNpc	秘密宝箱	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041	2000	195	drop_box_xtc_s_001	3							28	121250			
+thd_seekbox057	SeekBoxNpc	秘密宝箱	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041	2000	196	drop_box_xtc_s_001	3							28	121250			
+thd_seekbox058	SeekBoxNpc	秘密宝箱	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041	2000	197	drop_box_xtc_s_001	3							28	121250			
+thd_seekbox059	SeekBoxNpc	秘密宝箱	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041	2000	198	drop_box_xtc_s_001	3							28	121250			
+thd_seekbox060	SeekBoxNpc	秘密宝箱	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041	2000	199	drop_box_xtc_s_001	3							28	121250			
+thd_seekbox061	SeekBoxNpc	秘密宝箱	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041	2000	200	drop_box_xtc_s_001	3							28	121250			
+thd_seekbox062	SeekBoxNpc	秘密宝箱	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041	2000	201	drop_box_xtc_s_001	3							28	121250			
+thd_seekbox063	SeekBoxNpc	秘密宝箱	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041	2000	202	drop_box_xtc_s_001	3							28	121250			
+thd_seekbox064	SeekBoxNpc	秘密宝箱	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041	2000	203	drop_box_xtc_s_001	3							28	121250			
+thd_seekbox065	SeekBoxNpc	秘密宝箱	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041	2000	204	drop_box_xtc_s_001	3							28	121250			
+thd_seekbox066	SeekBoxNpc	秘密宝箱	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041	2000	205	drop_box_xtc_s_001	3							28	121250			
+thd_seekbox067	SeekBoxNpc	秘密宝箱	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041	2000	206	drop_box_xtc_s_001	3							28	121250			
+thd_seekbox068	SeekBoxNpc	秘密宝箱	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041	2000	207	drop_box_xtc_s_001	3							28	121250			
+thd_seekbox069	SeekBoxNpc	秘密宝箱	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041	2000	208	drop_box_xtc_s_001	3							28	121250			
+thd_seekbox070	SeekBoxNpc	秘密宝箱	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041	2000	209	drop_box_xtc_s_001	3							28	121250			
+thd_seekbox071	SeekBoxNpc	秘密宝箱	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041	2000	210	drop_box_xtc_s_001	3							28	121250			
+thd_seekbox072	SeekBoxNpc	秘密宝箱	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041	2000	211	drop_box_xtc_s_001	3							28	121250			
+thd_seekbox073	SeekBoxNpc	秘密宝箱	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041	2000	212	drop_box_xtc_s_001	3							28	121250			
+thd_seekbox074	SeekBoxNpc	秘密宝箱	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041	2000	213	drop_box_xtc_s_001	3							28	121250			
+thd_seekbox075	SeekBoxNpc	秘密宝箱	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041	2000	214	drop_box_xtc_s_001	3							28	121250			
+thd_seekbox076	SeekBoxNpc	秘密宝箱	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041	2000	215	drop_box_xtc_s_001	3							28	121250			
+thd_seekbox077	SeekBoxNpc	秘密宝箱	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041	2000	216	drop_box_xtc_s_001	3							28	121250			
+thd_seekbox078	SeekBoxNpc	秘密宝箱	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041	2000	217	drop_box_xtc_s_001	3							28	121250			
+thd_seekbox079	SeekBoxNpc	秘密宝箱	npc\itemboxnpc001	icon\funcnpc\itemnpc005.png	297		3	9	npc\npc_seek_box.lua	2	interact041	2000	218	drop_box_xtc_s_001	3							28	121250			

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="29ED03A2C4404023B2341B282CAAF288" x="75.741" y="143.187" z="657.202" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="-1" StaticY="1" HateLink="1">
+            <item No="1" id="GatherClone031_004" ay="0.002" amount="1" refreshtime="20" NotPositive="0" desc="宝箱">
+                <position x="75.717" y="143.611" z="654.482" ay="0.002" />
+            </item>
+        </creator>
+        <creator No="14DAF59ADB4A4192978F76FC9B9083AB" x="102.058" y="144.264" z="674.614" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="-1" StaticY="1" HateLink="1">
+            <item No="1" id="GatherClone031_002" ay="6.270" amount="1" refreshtime="20" NotPositive="0" desc="毒药盒子">
+                <position x="101.952" y="144.690" z="674.114" ay="6.270" />
+            </item>
+        </creator>
+        <creator No="FF672859F11C4D8C9D8944D6C6825F0F" x="98.737" y="144.968" z="724.603" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="-1" StaticY="1" HateLink="1">
+            <item No="1" id="GatherClone031_004" ay="0.002" amount="1" refreshtime="20" NotPositive="0" desc="宝箱">
+                <position x="101.103" y="146.507" z="723.242" ay="0.002" />
+            </item>
+            <item No="2" id="GatherClone031_005" sx="0.396" sy="0.460" sz="0.489" ay="0.002" amount="1" refreshtime="20" NotPositive="0" desc="酒杯">
+                <position x="94.009" y="145.817" z="722.133" sx="0.396" sy="0.460" sz="0.489" ay="0.002" />
+            </item>
+        </creator>
+        <creator No="113F6992DC1A44C28BA04C5C27024838" x="90.603" y="144.968" z="714.551" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="-1" HateLink="1">
+            <item No="1" id="GatherClone031_006" ay="1.587" amount="2" refreshtime="20" NotPositive="0" desc="小佛像">
+                <position x="90.341" z="715.300" ay="1.587" />
+                <position x="89.412" z="714.784" ay="4.817" />
+            </item>
+            <item No="2" id="GatherClone031_007" ay="1.587" amount="1" refreshtime="20" NotPositive="0" desc="小香炉">
+                <position x="90.227" z="714.008" ay="1.587" />
+            </item>
+            <item No="3" id="GatherClone031_008" ay="1.587" amount="1" refreshtime="20" NotPositive="0" desc="花盆">
+                <position x="90.346" z="720.850" ay="1.587" />
+            </item>
+        </creator>
+        <creator No="CD4EAB6CB78C414AA5130FFCC6072BEB" x="86.479" y="154.979" z="722.346" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="-1" HateLink="1">
+            <item No="1" id="GatherClone031_004" ay="4.697" amount="1" refreshtime="20" NotPositive="0" desc="宝箱">
+                <position x="83.145" z="722.186" ay="4.697" />
+            </item>
+            <item No="2" id="GatherClone031_009" ax="1.571" ay="5.900" amount="1" refreshtime="20" NotPositive="0" desc="小香囊">
+                <position x="83.474" z="726.210" ax="1.571" ay="5.900" />
+            </item>
+            <item No="3" id="GatherClone031_007" ay="5.900" amount="1" refreshtime="20" NotPositive="0" desc="小香炉">
+                <position x="89.849" z="725.325" ay="5.900" />
+            </item>
+        </creator>
+        <creator No="E37D4B08AB004EC19783E199DBA2C169" x="105.342" y="144.968" z="731.818" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="-1" HateLink="1">
+            <item No="1" id="GatherClone031_003" ay="5.900" amount="1" refreshtime="20" NotPositive="0" desc="酒壶">
+                <position x="105.336" z="733.568" ay="5.900" />
+            </item>
+            <item No="2" id="GatherClone031_008" ay="5.900" amount="1" refreshtime="20" NotPositive="0" desc="花盆">
+                <position x="98.931" z="733.557" ay="5.900" />
+            </item>
+            <item No="3" id="GatherClone031_005" sx="0.509" sy="0.720" sz="0.375" ay="5.900" amount="1" refreshtime="20" NotPositive="0" desc="酒杯">
+                <position x="110.828" z="732.185" sx="0.509" sy="0.720" sz="0.375" ay="5.900" />
+            </item>
+        </creator>
+        <creator No="EA8D5B3F45F24296B460CCF4ED29077C" x="122.140" y="143.187" z="778.040" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="-1" HateLink="1">
+            <item No="1" id="GatherClone031_003" ay="5.900" amount="1" refreshtime="20" NotPositive="0" desc="酒壶">
+                <position x="123.742" z="770.329" ay="5.900" />
+            </item>
+            <item No="2" id="GatherClone031_004" ay="4.770" amount="1" refreshtime="20" NotPositive="0" desc="宝箱">
+                <position x="117.511" z="772.438" ay="4.770" />
+            </item>
+            <item No="3" id="GatherClone031_006" ay="4.770" amount="1" refreshtime="20" NotPositive="0" desc="小佛像">
+                <position x="114.728" z="783.292" ay="4.770" />
+            </item>
+            <item No="4" id="GatherClone031_007" ay="4.770" amount="1" refreshtime="20" NotPositive="0" desc="小香炉">
+                <position x="114.359" z="773.212" ay="4.770" />
+            </item>
+        </creator>
+        <creator No="96DBEAD742D145429F7017D3DBA275F3" x="93.173" y="145.951" z="783.936" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="-1" HateLink="1">
+            <item No="1" id="GatherClone031_009" ax="4.712" ay="5.005" amount="1" refreshtime="20" NotPositive="0" desc="小香囊">
+                <position x="89.431" z="783.113" ax="4.712" ay="5.005" />
+            </item>
+            <item No="2" id="GatherClone031_006" ay="5.005" amount="1" refreshtime="20" NotPositive="0" desc="小佛像">
+                <position x="96.001" z="783.103" ay="5.005" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

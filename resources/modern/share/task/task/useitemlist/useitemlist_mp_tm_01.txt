@@ -1,0 +1,62 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	ItemID	ProCount	AddPro	TrackInfoID	DeleteSelf	LockTarget	Radius	SceneID	Water	AddItems	DeleteItems	TargetConfig	TaskID
+9001	useitem_8h	1	1	useiteminfo_9001_1	0	1	5	9	0	taskitem_9h	taskitem_8h	ItemNpc02003	50003
+9002	useitem_15h	1	1	useiteminfo_9002_2	0	1	5	9	0	taskitem_26h	taskitem_34h	ItemNpc02004	50003
+9009	useitem_12h	1	1	useiteminfo_9009	1	1	5	9	0			WorldNpc02240	50093
+9011	useitem_4d	1	1	useiteminfo_9011	1	1	5	9	0			Gather00006d	50127
+9012	useitem_5d	1	1	useiteminfo_9012	1	0	5	9	0			EventNpc50131	50130
+9013	useitem_6d	1	1	useiteminfo_9013	1	1	5	9	0			WorldNpc02230	50140
+9014	useitem_7d	1	1	useiteminfo_9014	1	1	5	9	0			WorldNpc02230	50142
+9015	useitem_8d	1	1	useiteminfo_9015	0	1	5	9	0			ItemNpc02007	50154
+9016	useitem_9d	1	1	useiteminfo_9016	1				0	taskitem_34d			50175
+9017	useitem_1e	1	1	useiteminfo_9017	0	1	5	1	0			ItemNpc00008	50211
+9018	useitem_2e	1	1	useiteminfo_9018	0				0	taskitem_17e	taskitem_3m		50232
+9019	useitem_7e	1	1	useiteminfo_9019	1	1	5	1	0			ItemNpc00008	50234
+9020	useitem_9e	1	1	useiteminfo_9020	1	1	5	9	0			ItemNpc02008	50241
+9021	useitem_3e	1	1	useiteminfo_9021	1				0	taskitem_5m	taskitem_24e		50251
+9022	useitem_4e	1	1	useiteminfo_9022	1	1	5	9	0			GatherNpc00213	50259
+9023	useitem_5e	1	1	useiteminfo_9023	1	1	5	9	0			WorldNpc02256	50275
+9024	useitem_8e	1	1	useiteminfo_9024	1				0				50280
+9025	useitem_6e	1	1	useiteminfo_9025	1	1	5	21	0			WorldNpc05805	50285
+9026	useitem_1l	1	1	useiteminfo_9026	1	0	5	9	0			ItemNpc02006	50291
+9027	useitem_2l	1	1	useiteminfo_9027	1	1	0	16	0			WorldNpc10021	50296
+9028	useitem_3l	1	1	useiteminfo_9028	1	1	0	16	0			WorldNpc10025	50304
+9030	useitem_5l	1	1	useiteminfo_9030	1	1	0	16	0			WorldNpc10030	50316
+9031	useitem_6l	1	1	useiteminfo_9031	1	0	0		0				50319
+9032	useitem_7l	1	1	useiteminfo_9032	1	1	0	16	0			WorldNpc10035	50334
+9033	useitem_1k	1	1	useiteminfo_9033	1				0				50344
+9034	useitem_2k	1	1	useiteminfo_9034_1	0	1	0	9	0			Gather00005k	50371
+9035	useitem_3k	1	1	useiteminfo_9035_2	1	1	0	9	0			Gather00005k	50371
+9036	useitem_4k	1	1	useiteminfo_9036	1	0	5	9	0			EventNpc50376	50376
+9037	useitem_5k	1	1	useiteminfo_9037	1	0	20	9	1	taskitem_9k		EventNpc50380	50380
+9038	useitem_6j	1	1	useiteminfo_9038	1	1	0	7	0			WorldNpc03420	50405
+9039	useitem_7j	1	1	useiteminfo_9039	1	1	0	7	0			Gather00004j	50416
+9040	useitem_8j	1	1	useiteminfo_9040	1	1	0	7	0			WorldNpc03422	50417
+9041	useitem_9j	1	1	useiteminfo_9041_2	1	1	0	7	0			WorldNpc03422	50429
+9042	useitem_6k	1	1	useiteminfo_9042	1				0				50438
+9043	useitem_7k	1	1	useiteminfo_9043_1	1	1	0	9	0			WorldNpc02205	50442
+9044	useitem_7k	1	1	useiteminfo_9044_2	1	1	0	9	0			WorldNpc02204	50442
+9045	useitem_8k	1	1	useiteminfo_9045	1	1	0	2	0			WorldNpc09307	50450
+9046	useitem_9k	1	1	useiteminfo_9046	1	1	0	9	0			Gather00014k	50461
+9047	useitem_10k	1	1	useiteminfo_9047	1	1	0	9	0			WorldNpc02203	50472
+9048	useitem_8l	1	1	useiteminfo_9048	1	1	0	9	0			ItemNpc02011	50485
+9049	useitem_9l	1	1	useiteminfo_9049	1	1	0	20	0			WorldNpc06616	50496
+9050	useitem_10l	1	1	useiteminfo_9050	1	1	0	9	0			Gather00004l	50511
+9051	useitem_11l	1	1	useiteminfo_9051	1				0				50516
+9056	useitem_1m	1	1	useiteminfo_9056_1	1	0	0		0	useitem_9j	taskitem_19j		50429
+9052	useitem_12l	1	1	useiteminfo_9052	1				0				50522
+9053	useitem_13l	1	1	useiteminfo_9053	1	1	5	9	0			Gather00006d	50528
+9054	useitem_10j	1	1	useiteminfo_9054	1	1	5	9	0			WorldNpc02205	50561
+9007	useitem_13h	1	1	useiteminfo_9007	1				0	taskitem_21h	taskitem_20h		50063
+9010	useitem_3d	1	1	useiteminfo_9010	1				0	taskitem_22d	taskitem_17d;taskitem_18d		50121
+9008	useitem_14h	1	1	useiteminfo_9008	1	0	5	9	0			WorldNpc02243	50080
+9055	useitem_11j	1	1	useiteminfo_9055	1	1	5	9	0			WorldNpc02209	50573
+9029	useitem_4l	1	1	useiteminfo_9029	1		5	16	0			WorldNpc10027	50312
+9006	useitem_11h	1	1	useiteminfo_9006	1	1	5	9	0			WorldNpc02252	50045
+9005	useitem_10h	1	1	useiteminfo_9005	1	1	5	9	0			WorldNpc02251	50033
+9004	useitem_23h	1	1	useiteminfo_9004	0	1	5	9	0			WorldNpc02239	50038
+9003	useitem_9h	1	1	useiteminfo_9003	1	1	8	9	0			WorldNpc02239	
+9057	useitem_013cyh	1	1	useiteminfo_9057	1	1	5	9	0	useitem_014cyh		WorldNpc02239	
+9058	useitem_014cyh	1	1	useiteminfo_9058	1	1	5	9	0	useitem_015cyh		WorldNpc02239	
+9059	useitem_015cyh	1	1	useiteminfo_9059	1	1	5	9	0	useitem_016cyh		WorldNpc02239	
+9060	useitem_016cyh	1	1	useiteminfo_9060	1	1	5	9	0			WorldNpc02239	

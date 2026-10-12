@@ -1,0 +1,65 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	Plot	Title	Step	SearchID	Line	AcceptNpc	SubmitNpc	SceneID	AcceptSceneID	SubmitSceneID	AutoAcceptID	AutoSubmit	PreTaskLimit	NextTaskLimit	NotShowMenu	Relation	LuckValue	AcceptLimit	SubmitLimit	AcceptDecMoney	SubFunction	TaskItemList	RefreshMonster	TimeLimitLength	SubmitNpcEx	TaskScript	TitleId	ContextId	AcceptDialogId	CompleteDialogId	UnCompleteDialogId	TaskTargetId	TrackInfoID	LineNextInfo	CanAcceptMenu	UncompleteMenu	CompleteMenu	AcceptMovie	SubmitMovie	DramaAccept	DramaSubmit	CanGiveup	ShareType	RepeatType	RepeatPeriod	CountDayLimit	DifficultCoefficient	DifficultLevel	NeedVip
+55001	70			s1240101	2	sl158	sl158		12	12				55002				25359							SubmitNpcEx_55001		title_55001	context_55001	accept_55001_1;menu_55001_1	complete_55001;submit_55001		target_55001		next_55001	CanAcceptMenu_55001		CompleteMenu_55001					0	0	0					
+55002	70			s1240101	2	sl158	WorldNpc00492		12	12			55001	55003				834							SubmitNpcEx_55002		title_55002	context_55002	accept_55002_1;menu_55002_1	complete_55002;submit_55002		target_55002		next_55002	CanAcceptMenu_55002		CompleteMenu_55002					0	0	0					
+55003	70			s1240101	2	WorldNpc00492	sl074		12	12	55004		55002	55004				834							SubmitNpcEx_55003		title_55003	context_55003	accept_55003_1;menu_55003_1	complete_55003;submit_55003		target_55003		next_55003	CanAcceptMenu_55003		CompleteMenu_55003					0	0	0					
+55004	70			s1240101	2	sl158	sl158		12	12			55003	55005				834							SubmitNpcEx_55004		title_55004	context_55004	accept_55004_1;menu_55004_1	complete_55004;submit_55004		target_55004		next_55004	CanAcceptMenu_55004		CompleteMenu_55004					0	0	0					
+55005	70			s1240101	2	sl158	sz311		12	14			55004	55006				834							SubmitNpcEx_55005		title_55005	context_55005	accept_55005_1;menu_55005_1	complete_55005;submit_55005		target_55005		next_55005	CanAcceptMenu_55005		CompleteMenu_55005					0	0	0					
+55006	70			s1240101	2	sz311	sl158		14	14			55005					834							SubmitNpcEx_55006		title_55006	context_55006	accept_55006_1;menu_55006_1	complete_55006;submit_55006		target_55006		next_55006	CanAcceptMenu_55006		CompleteMenu_55006					0	0	0					
+55007	71			s1240101	2	hbyd002	hbyd002		14	14				55008				25360							SubmitNpcEx_55007		title_55007	context_55007	accept_55007_1;menu_55007_1	complete_55007;submit_55007		target_55007		next_55007	CanAcceptMenu_55007		CompleteMenu_55007					0	0	0					
+55008	71			s1240101	2	hbyd002	sl158		14	14			55007	55009				834				56001			SubmitNpcEx_55008		title_55008	context_55008	accept_55008_1;menu_55008_1	complete_55008;submit_55008		target_55008		next_55008	CanAcceptMenu_55008		CompleteMenu_55008					0	0	0					
+55009	71			s1240101	2	sl158	sl158		12	12			55008	55010				834							SubmitNpcEx_55009		title_55009	context_55009	accept_55009_1;menu_55009_1	complete_55009;submit_55009		target_55009		next_55009	CanAcceptMenu_55009		CompleteMenu_55009					0	0	0					
+55010	71			s1240101	2	sl158	sl158		12		55011		55009	55011				834				56002			SubmitNpcEx_55010		title_55010	context_55010	accept_55010_1;menu_55010_1	complete_55010;submit_55010		target_55010		next_55010	CanAcceptMenu_55010		CompleteMenu_55010					0	0	0					
+55011	71			s1240101	2					14	55012	1	55010	55012				834							SubmitNpcEx_55011		title_55011	context_55011		complete_55011;submit_55011		target_55011		next_55011								0	0	0					
+55012	71			s1240101	2				14	14	55013		55011	55013				834							SubmitNpcEx_55012		title_55012	context_55012				target_55012		next_55012					5960			0	0	0					
+55013	71			s1240101	2		WorldNpc00212			12			55012					834							SubmitNpcEx_55013		title_55013	context_55013		complete_55013;submit_55013		target_55013		next_55013			CompleteMenu_55013					0	0	0					
+55020				s1240101	2	WorldNpc00212	WorldNpc00212		12	12	55021			55021				25057							SubmitNpcEx_55020		title_55020	context_55020	accept_55020_1;menu_55020_1	complete_55020;submit_55020		target_55020		next_55020	CanAcceptMenu_55020		CompleteMenu_55020					0	0	0					
+55021				s1240101	2		npc_4nei_sl_55021		12	12	55022		55020	55022				834							SubmitNpcEx_55021		title_55021	context_55021	accept_55021_1;menu_55021_1	complete_55021;submit_55021		target_55021		next_55021			CompleteMenu_55021					0	0	0					
+55022				s1240101	2		npc_4nei_sl_55022		12	9	55023		55021	55023				834							SubmitNpcEx_55022		title_55022	context_55022	accept_55022_1;menu_55022_1	complete_55022;submit_55022		target_55022		next_55022			CompleteMenu_55022					0	0	0					
+55023				s1240101	2		WorldNpc02477		9	9	55025		55022	55025				834							SubmitNpcEx_55023		title_55023	context_55023		complete_55023;submit_55023		target_55023		next_55023			CompleteMenu_55023					0	0	0					
+55025				s1240101	2		npc_4nei_sl_yapu_2		12	12	55026		55023	55026				834							SubmitNpcEx_55025		title_55025	context_55025		complete_55025;submit_55025		target_55025		next_55025			CompleteMenu_55025					0	0	0					
+55026				s1240101	2		npc_4nei_sl_55026		12	12	55027		55025	55027				834							SubmitNpcEx_55026		title_55026	context_55026		complete_55026;submit_55026		target_55026		next_55026			CompleteMenu_55026					0	0	0					
+55027				s1240101	2		WorldNpc00212		12	12			55026					834							SubmitNpcEx_55027		title_55027	context_55027	accept_55027_1;menu_55027_1	complete_55027;submit_55027		target_55027		next_55027	CanAcceptMenu_55027		CompleteMenu_55027					0	0	0					
+55030				s1240101	2	sl158	sl158		12	12								25393							SubmitNpcEx_55030		title_55030	context_55030	accept_55030_1;menu_55030_1	complete_55030;submit_55030		target_55030		next_55030	CanAcceptMenu_55030		CompleteMenu_55030					0	0	1	1	1			
+55031				s1240101	2	npc_4neidh_wd	npc_4neidh_wd		11	11								25400									title_55031	context_55031	accept_55031_1;menu_55031_1	complete_55031;submit_55031		target_55031		next_55031	CanAcceptMenu_55031		CompleteMenu_55031					0	0	1	1	1			
+55032				s1240101	2	WorldNpc02205	WorldNpc02205		9	9								25406							SubmitNpcEx_55032		title_55032	context_55032	accept_55032_1;menu_55032_1	complete_55032;submit_55032		target_55032		next_55032	CanAcceptMenu_55032		CompleteMenu_55032					0	0	1	1	1			
+55033				s1240101	2	npc_4neidh_jlg	npc_4neidh_jlg		8	8								25396									title_55033	context_55033	accept_55033_1;menu_55033_1	complete_55033;submit_55033		target_55033			CanAcceptMenu_55033		CompleteMenu_55033					0	0	1	1	1			
+55034				s1240101	2	npc_4neidh_jzt	npc_4neidh_jzt		7	7								25413									title_55034	context_55034	accept_55034_1;menu_55034_1	complete_55034;submit_55034		target_55034			CanAcceptMenu_55034		CompleteMenu_55034					0	0	1	1	1			
+55035				s1240101	2	npc_4neidh_jy	npc_4neidh_jy		5	5								25402									title_55035	context_55035	accept_55035_1;menu_55035_1	complete_55035;submit_55035		target_55035			CanAcceptMenu_55035		CompleteMenu_55035					0	0	1	1	1			
+55036				s1240101	2	gb161	gb161		6	6								25397									title_55036	context_55036	accept_55036_1;menu_55036_1	complete_55036;submit_55036		target_55036			CanAcceptMenu_55036		CompleteMenu_55036					0	0	1	1	1			
+55037				s1240101	2	WorldNpc02604	WorldNpc02604		10	10								25415							SubmitNpcEx_55037		title_55037	context_55037				target_55037		next_55037								0	0	1	1	1			
+55038				s1240101	2	WorldNpc00212	WorldNpc00212		12	12				55039				25445							SubmitNpcEx_55038		title_55038	context_55038	accept_55038_1;menu_55038_1	complete_55038;submit_55038		target_55038		next_55038	CanAcceptMenu_55038		CompleteMenu_55038					0	0	0	0	0			
+55039				s1240101	2	WorldNpc00212	NPCxszhh_4nei_yuming		12	15			55038	57532				834							SubmitNpcEx_55039		title_55039	context_55039	accept_55039_1;menu_55039_1|accept_55039_2;menu_55039_2	complete_55039;submit_55039		target_55039		next_55039	CanAcceptMenu_55039		CompleteMenu_55039					0	0	0	0	0			
+55040				s1240101	2	WorldNpc00212	WorldNpc00212		12	12								834;106236							SubmitNpcEx_55040		title_55040	context_55040	accept_55040_1;menu_55040_1	complete_55040;submit_55040		target_55040		next_55040	CanAcceptMenu_55040		CompleteMenu_55040					0	0	0	0	0			
+55050				s1240102	2	npc_5neidh_sl			12		55051	1		55051				26749							SubmitNpcEx_55050		title_55050	context_55050				target_55050		next_55050	CanAcceptMenu_55050			5963				1	0	0					
+55051				s1240102	2						55052	1	55050	55052											SubmitNpcEx_55051		title_55051	context_55051				target_55051		next_55051								0	0	0					
+55052				s1240102	2						55053	1	55051	55053													title_55052	context_55052				target_55052										0	0	0					
+55053				s1240102	2						55054	1	55052	55054													title_55053	context_55053				target_55053		next_55053								0	0	0					
+55054				s1240102	2						55055	1	55053	55055													title_55054	context_55054				target_55054		next_55054								0	0	0					
+55055				s1240102	2						55056	1	55054	55056													title_55055	context_55055				target_55055		next_55055								0	0	0					
+55056				s1240102	2						55057	1	55055	55057													title_55056	context_55056				target_55056		next_55056								0	0	0					
+55057				s1240102	2						55058	1	55056	55058													title_55057	context_55057				target_55057		next_55057					5962			0	0	0					
+55058				s1240102	2		npc_5nei_sl_020			12			55057												SubmitNpcEx_55058		title_55058	context_55058		complete_55058;submit_55058		target_55058					CompleteMenu_55058					0	0	0					
+55059				s1240102	2							1																														0	0	0					
+55060				s1240102	2							1																														0	0	0					
+55070				s1240102	2	5nei_gbmdt001			14		55071	1		55071				26852									title_55070	context_55070	accept_55070_1;menu_55070_1			target_55070			CanAcceptMenu_55070							1	0	0					
+55071				s1240102	2						55072	1	55070	55072													title_55071	context_55071				target_55071		next_55071								0	0	0					
+55072				s1240102	2		FunnpcClone033012			15			55071														title_55072	context_55072		complete_55072;submit_55072		target_55072					CompleteMenu_55072					0	0	0					
+55073				s1240102	2							1																														0	0	0					
+55074				s1240102	2							1																														0	0	0					
+55075				s1240102	2							1																														0	0	0					
+55076				s1240102	2							1																														0	0	0					
+55077				s1240102	2							1																														0	0	0					
+55078				s1240102	2							1																														0	0	0					
+55079				s1240102	2							1																														0	0	0					
+55080				s1240102	2							1																														0	0	0					
+55081				s1240102	2							1																														0	0	0					
+55082				s1240102	2							1																														0	0	0					
+55083				s1240102	2							1																														0	0	0					
+55084				s1240102	2							1																														0	0	0					
+55085				s1240102	2							1																														0	0	0					
+55086				s1240102	2							1																														0	0	0					
+55087				s1240102	2							1																														0	0	0					
+55088				s1240102	2							1																														0	0	0					
+55089				s1240102	2							1																														0	0	0					
+55090				s1240102	2							1																														0	0	0					

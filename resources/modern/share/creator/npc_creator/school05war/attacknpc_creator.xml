@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="59BBEE6BB6BB4A82A8F93C65149C5827" x="1038.938" y="77.985" z="-128.175" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="newschoolwar3_swmon_tm04" ay="-1.570" amount="1" refreshtime="120" NotPositive="0" desc="唐门内堂弟子">
+                <position x="1037.145" z="-131.386" ay="-1.570" />
+            </item>
+            <item No="2" id="newschoolwar3_swmon_tm01" ay="-1.795" amount="2" refreshtime="120" NotPositive="0" desc="唐门男弟子">
+                <position x="1039.857" z="-130.858" ay="-1.795" />
+                <position x="1037.256" z="-127.605" ay="-1.735" />
+            </item>
+            <item No="3" id="newschoolwar3_swmon_tm02" ay="-1.510" amount="1" refreshtime="120" NotPositive="0" desc="唐门女弟子">
+                <position x="1035.596" z="-129.470" ay="-1.510" />
+            </item>
+        </creator>
+        <creator No="32162C583C5A4F38BA7E40C358B6F080" x="1052.569" y="77.985" z="-135.747" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="newschoolwar3_swmon_tm04" ay="-1.725" amount="3" refreshtime="120" NotPositive="0" desc="唐门内堂弟子">
+                <position x="1055.128" z="-134.397" ay="-1.725" />
+                <position x="1051.335" z="-133.289" ay="-1.680" />
+                <position x="1051.266" z="-138.440" ay="-1.180" />
+            </item>
+        </creator>
+        <creator No="9F061665BC214F9F9F6E783989BAE6C2" x="1043.287" y="77.985" z="-160.925" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="newschoolwar3_swmon_tm04" amount="3" refreshtime="120" NotPositive="0" desc="唐门内堂弟子">
+                <position x="1045.816" z="-163.239" />
+                <position x="1043.346" z="-156.883" />
+                <position x="1041.694" z="-163.075" />
+            </item>
+        </creator>
+        <creator No="9106248C76B54F5598BFB9764F968753" x="1028.704" y="77.985" z="-154.273" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="newschoolwar3_swmon_tm01" amount="2" refreshtime="120" NotPositive="0" desc="唐门男弟子">
+                <position x="1031.815" z="-153.136" />
+                <position x="1027.119" z="-153.893" />
+            </item>
+            <item No="2" id="newschoolwar3_swmon_tm04" amount="1" refreshtime="120" NotPositive="0" desc="唐门内堂弟子">
+                <position x="1029.267" z="-152.276" />
+            </item>
+            <item No="3" id="newschoolwar3_swmon_tm02" amount="1" refreshtime="120" NotPositive="0" desc="唐门女弟子">
+                <position x="1028.992" z="-155.481" />
+            </item>
+        </creator>
+        <creator No="BB43DB91D00B40469DF09FE54977874C" x="987.229" y="68.735" z="-152.038" radius="5.0" WakeupRange="30.0" ChaseRange="30.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="newschoolwar3_swmon_tm05" amount="2" refreshtime="120" NotPositive="0" desc="唐家堡守卫">
+                <position x="993.721" z="-153.402" />
+                <position x="980.207" z="-150.081" />
+            </item>
+            <item No="2" id="newschoolwar3_swmon_tm04" amount="3" refreshtime="120" NotPositive="0" desc="唐门内堂弟子">
+                <position x="991.109" z="-148.565" />
+                <position x="985.694" z="-153.387" />
+                <position x="982.649" z="-147.970" />
+            </item>
+            <item No="3" id="newschoolwar3_swmon_tm08" amount="4" refreshtime="120" NotPositive="0" desc="唐门高级女弟子">
+                <position x="989.256" z="-150.919" />
+                <position x="988.662" z="-155.864" />
+                <position x="983.497" z="-150.379" ay="-0.040" />
+                <position x="982.576" z="-154.986" />
+            </item>
+        </creator>
+        <creator No="3FADF1881CE846F3AC6BBE5480645280" x="1006.018" y="68.735" z="-105.056" radius="5.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="newschoolwar3_swmon_tm06" ay="-2.390" amount="3" refreshtime="120" NotPositive="0" desc="唐家堡高手">
+                <position x="1003.041" z="-100.607" ay="-2.390" />
+                <position x="1008.899" z="-103.425" ay="-2.650" />
+                <position x="1008.516" z="-110.542" ay="-1.820" />
+            </item>
+            <item No="2" id="newschoolwar3_swmon_tm02" ay="-2.390" amount="1" refreshtime="120" NotPositive="0" desc="唐门女弟子">
+                <position x="1000.981" z="-103.870" ay="-2.390" />
+            </item>
+            <item No="3" id="newschoolwar3_swmon_tm08" ay="-2.815" amount="1" refreshtime="120" NotPositive="0" desc="唐门高级女弟子">
+                <position x="1003.191" z="-105.008" ay="-2.815" />
+            </item>
+            <item No="4" id="newschoolwar3_swmon_tm05" ay="-2.280" amount="2" refreshtime="120" NotPositive="0" desc="唐家堡守卫">
+                <position x="1001.436" z="-107.129" ay="-2.280" />
+                <position x="1006.973" z="-106.804" ay="-2.945" />
+            </item>
+            <item No="5" id="newschoolwar3_swmon_tm03" ay="-2.475" amount="1" refreshtime="120" NotPositive="0" desc="唐门外堂弟子">
+                <position x="1005.812" z="-103.660" ay="-2.475" />
+            </item>
+            <item No="6" id="newschoolwar3_swmon_tm04" ay="-2.640" amount="2" refreshtime="120" NotPositive="0" desc="唐门内堂弟子">
+                <position x="1003.284" z="-109.736" ay="-2.640" />
+                <position x="1010.310" z="-106.491" ay="-2.655" />
+            </item>
+            <item No="7" id="newschoolwar3_swmon_tm07" ay="-2.530" amount="1" refreshtime="120" NotPositive="0" desc="唐门高级男弟子">
+                <position x="1012.846" z="-109.049" ay="-2.530" />
+            </item>
+        </creator>
+        <creator No="7D3BE3069BCA46F090B4E547787798BE" x="942.843" y="68.319" z="-108.801" radius="5.0" WakeupRange="40.0" ChaseRange="40.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="newschoolwar3_swmon_tm05" ay="-2.735" amount="4" refreshtime="120" NotPositive="0" desc="唐家堡守卫">
+                <position x="946.237" z="-94.079" ay="-2.735" />
+                <position x="948.167" z="-95.953" ay="-2.380" />
+                <position x="934.921" z="-122.013" />
+                <position x="940.482" z="-121.962" />
+            </item>
+            <item No="2" id="newschoolwar3_swmon_tm04" ay="-2.205" amount="4" refreshtime="120" NotPositive="0" desc="唐门内堂弟子">
+                <position x="945.042" z="-95.970" ay="-2.205" />
+                <position x="936.781" z="-119.397" />
+                <position x="964.093" z="-128.803" />
+                <position x="970.156" z="-109.698" ay="-1.585" />
+            </item>
+            <item No="3" id="newschoolwar3_swmon_tm08" amount="6" refreshtime="120" NotPositive="0" desc="唐门高级女弟子">
+                <position x="960.386" z="-105.126" />
+                <position x="963.283" z="-103.819" />
+                <position x="961.832" z="-107.104" />
+                <position x="953.405" z="-123.221" />
+                <position x="955.736" z="-126.409" />
+                <position x="956.842" z="-122.576" />
+            </item>
+            <item No="4" id="newschoolwar3_swmon_tm03" amount="6" refreshtime="120" NotPositive="0" desc="唐门外堂弟子">
+                <position x="954.035" z="-136.265" />
+                <position x="949.942" z="-134.686" />
+                <position x="945.874" z="-133.342" />
+                <position x="965.933" z="-94.764" ay="-2.980" />
+                <position x="961.784" z="-93.002" ay="-2.545" />
+                <position x="968.795" z="-95.636" ay="-2.685" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!-- 被2011 rel. 2 sp1 (jiangyingxi) 使用XMLSpy vsnail编辑的 (http://www.altova.com) by -->
+<Object>
+	<Property ID="ID001" Name="模版" FuncID="7" NpcID="Ceshi_zq_001" EnableFunc="1" Desc="说明" ArenaFunc="ArenaFunc" AH_Camp="AH_Camp" HasBlackMarketCSM="HasBlackMarketCSM" HasBlackMarketShow="HasBlackMarketShow" SkillShopId="SkillShopId" TransQuests="TransQuests" TransPoint="TransPoint" OpenOtherPoints="OpenOtherPoints" AddMake="AddMake" NpcName="蒸汽测试001"/>
+	<Property ID="Streng001" Name="装备强化001" FuncID="10" NpcID="Ceshi_zq_002" EnableFunc="1" NpcName="装备强化"/>
+	<Property ID="Streng002" Name="装备强化002" FuncID="10" NpcID="Ceshi_qh_016" EnableFunc="1" NpcName="装备强化"/>
+	<Property ID="Streng003" Name="装备强化003" FuncID="10" NpcID="npc_m301_0036" EnableFunc="1" NpcName="装备强化导师罗伯特"/>
+	<Property ID="Streng004" Name="装备强化004" FuncID="10" NpcID="Newtest300_zq_002" EnableFunc="1" NpcName="装备强化"/>
+	<Property ID="Streng005" Name="装备强化005" FuncID="10" NpcID="Newtest300_qh_016" EnableFunc="1" NpcName="装备强化"/>
+	<Property ID="Compound001" Name="装备合成001" FuncID="12" NpcID="Ceshi_qh_015" EnableFunc="1" NpcName="道具合成"/>
+	<Property ID="Compound002" Name="装备合成002" FuncID="12" NpcID="Ceshi_zq_001" EnableFunc="1" NpcName="道具合成"/>
+	<Property ID="Compound017" Name="装备合成017" FuncID="12" NpcID="Newtest300_zq_001" EnableFunc="1" NpcName="道具合成"/>
+	<Property ID="Compound018" Name="装备合成018" FuncID="12" NpcID="Newtest300_qh_015" EnableFunc="1" NpcName="道具合成"/>
+	<Property ID="Compound019" Name="装备合成019" FuncID="12" NpcID="npc_qhm002_0162" EnableFunc="1" NpcName="朝日圣地道具合成"/>
+	<Property ID="Compound020" Name="装备合成020" FuncID="12" NpcID="npc_qhm002_0163" EnableFunc="1" NpcName="提奥迪亚道具合成"/>
+	<Property ID="Compound021" Name="装备合成021" FuncID="12" NpcID="npc_zqm001_0160" EnableFunc="1" NpcName="克威尔郡道具合成"/>
+	<Property ID="Compound022" Name="装备合成022" FuncID="12" NpcID="npc_qhm003_0105" EnableFunc="1" NpcName="晨曦丘陵装备合成"/>
+	<Property ID="Compound023" Name="装备合成023" FuncID="12" NpcID="npc_zqm003_0125" EnableFunc="1" NpcName="卡地亚装备合成"/>
+	<Property ID="Compound026" Name="装备合成026" FuncID="12" NpcID="npc_zqm003_0124" EnableFunc="1" NpcName="卡地亚装备合成"/>
+	<Property ID="CompoundEnchase1" Name="宝石合成01" FuncID="13" NpcID="npc_qhm002_0162" EnableFunc="1" NpcName="朝日圣地道具合成"/>
+	<Property ID="CompoundEnchase2" Name="宝石合成02" FuncID="13" NpcID="npc_qhm002_0163" EnableFunc="1" NpcName="提奥迪亚道具合成"/>
+	<Property ID="CompoundEnchase3" Name="宝石合成03" FuncID="13" NpcID="npc_zqm001_0160" EnableFunc="1" NpcName="克威尔郡道具合成"/>
+	<Property ID="CompoundEnchase4" Name="宝石合成04" FuncID="13" NpcID="npc_qhm003_0105" EnableFunc="1" NpcName="晨曦丘陵装备合成"/>
+	<Property ID="CompoundEnchase5" Name="宝石合成05" FuncID="13" NpcID="npc_zqm003_0125" EnableFunc="1" NpcName="卡地亚装备合成"/>
+	<Property ID="CompoundEnchase6" Name="宝石合成06" FuncID="13" NpcID="npc_zqm003_0124" EnableFunc="1" NpcName="卡地亚装备合成"/>
+	<Property ID="Slot001" Name="装备打孔001" FuncID="14" NpcID="Ceshi_qh_016" EnableFunc="1" NpcName="装备打孔"/>
+	<Property ID="Slot002" Name="装备打孔002" FuncID="14" NpcID="Newtest300_zq_001" EnableFunc="1" NpcName="装备打孔"/>
+	<Property ID="Slot003" Name="装备打孔003" FuncID="14" NpcID="Newtest300_qh_015" EnableFunc="1" NpcName="装备打孔"/>
+	<Property ID="Slot004" Name="装备打孔004" FuncID="14" NpcID="npc_zqm001_0160" EnableFunc="1" NpcName="克威尔郡装备打孔"/>
+	<Property ID="Slot005" Name="装备打孔005" FuncID="14" NpcID="npc_qhm002_0162" EnableFunc="1" NpcName="朝日圣地装备打孔"/>
+	<Property ID="Slot006" Name="装备打孔006" FuncID="14" NpcID="npc_qhm003_0105" EnableFunc="1" NpcName="晨曦丘陵装备打孔"/>
+	<Property ID="Slot007" Name="装备打孔007" FuncID="14" NpcID="npc_qhm002_0163" EnableFunc="1" NpcName="提奥迪亚装备打孔"/>
+	<Property ID="Slot008" Name="装备打孔008" FuncID="14" NpcID="npc_zqm003_0124" EnableFunc="1" NpcName="卡地亚装备打孔"/>
+	<Property ID="ItemBind001" Name="装备绑定001" FuncID="35" NpcID="Ceshi_zq_002" EnableFunc="1" NpcName="道具绑定"/>
+	<Property ID="ItemBind002" Name="装备绑定002" FuncID="35" NpcID="Ceshi_qh_016" EnableFunc="1" NpcName="道具绑定"/>
+	<Property ID="ItemBind003" Name="装备绑定003" FuncID="35" NpcID="npc_m301_0036" EnableFunc="1" NpcName="装备绑定导师罗伯特"/>
+	<Property ID="ItemBind004" Name="装备绑定004" FuncID="35" NpcID="Newtest300_zq_002" EnableFunc="1" NpcName="道具绑定"/>
+	<Property ID="ItemBind005" Name="装备绑定005" FuncID="35" NpcID="Newtest300_qh_016" EnableFunc="1" NpcName="道具绑定"/>
+	<Property ID="Hotel001" Name="旅店绑定炉石001" FuncID="48" NpcID="Ceshi_qh_1037" EnableFunc="1" NpcName="炉石绑定"/>
+	<Property ID="Hotel002" Name="旅店绑定炉石002" FuncID="48" NpcID="Ceshi_zq_1037" EnableFunc="1" NpcName="炉石绑定"/>
+	<Property ID="npc_guild001" Name="公会管理001" FuncID="24" NpcID="Ceshi_zq_1026" EnableFunc="1" NpcName="公会管理员"/>
+	<Property ID="npc_guild002" Name="公会管理002" FuncID="24" NpcID="Ceshi_qh_1026" EnableFunc="1" NpcName="公会管理员"/>
+	<Property ID="npc_guild003" Name="公会管理003" FuncID="24" NpcID="npc_qhm002_0057" EnableFunc="1" NpcName="温德尔_尘风"/>
+	<Property ID="npc_guild004" Name="公会管理004" FuncID="24" NpcID="Newtest300_zq_1026" EnableFunc="1" NpcName="公会管理员"/>
+	<Property ID="npc_guild005" Name="公会管理005" FuncID="24" NpcID="Newtest300_qh_1026" EnableFunc="1" NpcName="公会管理员"/>
+	<Property ID="npc_guild006" Name="公会管理006" FuncID="24" NpcID="npc_qhm003_0031" EnableFunc="1" NpcName="公会管理员"/>
+	<Property ID="npc_guild007" Name="公会管理007" FuncID="24" NpcID="npc_zlm010_0107" EnableFunc="1" NpcName="杰迪亚"/>
+	<Property ID="npc_guild008" Name="公会管理008" FuncID="24" NpcID="npc_m301_0013" EnableFunc="1" NpcName="鲁道夫_布雷恩"/>
+	<Property ID="npc_guild009" Name="公会管理009" FuncID="24" NpcID="npc_zqm003_0015" EnableFunc="1" NpcName="图奇_耀金"/>
+	<Property ID="npc_guild010" Name="公会管理010" FuncID="24" NpcID="npc_ZQEW001_0006" EnableFunc="1" NpcName="葛尔斯"/>
+	<Property ID="npc_guild011" Name="公会管理011" FuncID="24" NpcID="npc_QHEW002_0006" EnableFunc="1" NpcName="霍莱奇"/>
+	<Property ID="npc_guild012" Name="公会管理012" FuncID="24" NpcID="npc_ZLEW011_0006" EnableFunc="1" NpcName="西德尼"/>
+	<Property ID="npc_guild013" Name="公会管理013" FuncID="24" NpcID="npc_ZQEW005_0006" EnableFunc="1" NpcName="瑞德里"/>
+	<Property ID="npc_guild014" Name="公会管理014" FuncID="24" NpcID="npc_ZLEW002_0006" EnableFunc="1" NpcName="多米克拉"/>
+	<Property ID="npc_guild015" Name="公会管理015" FuncID="24" NpcID="npc_ZLEW012_0006" EnableFunc="1" NpcName="马尔斯"/>
+	<Property ID="npc_guild016" Name="公会管理016" FuncID="24" NpcID="npc_ZLEW012_1006" EnableFunc="1" NpcName="马尔斯"/>
+	<Property ID="npc_guild017" Name="公会管理017" FuncID="24" NpcID="npc_ZLEW012_2006" EnableFunc="1" NpcName="马尔斯"/>
+	<Property ID="npc_guild018" Name="公会管理018" FuncID="24" NpcID="npc_ZLEW012_3006" EnableFunc="1" NpcName="马尔斯"/>
+	<Property ID="npc_guild019" Name="公会管理019" FuncID="24" NpcID="npc_QHEW005_0006" EnableFunc="1" NpcName="艾莉西亚"/>
+	<Property ID="npc_guild020" Name="公会管理020" FuncID="24" NpcID="npc_ZQEW003_0006" EnableFunc="1" NpcName="达尼尔"/>
+	<Property ID="npc_guild021" Name="公会管理021" FuncID="24" NpcID="npc_QHEW003_0006" EnableFunc="1" NpcName="门罗"/>
+	<Property ID="Auction001" Name="拍卖001" FuncID="17" NpcID="Ceshi_zq_1006" AH_Camp="1" NpcName="拍卖行"/>
+	<Property ID="Auction002" Name="拍卖002" FuncID="17" NpcID="Ceshi_qh_1006" AH_Camp="2" NpcName="拍卖行"/>
+	<Property ID="Auction003" Name="拍卖002" FuncID="17" NpcID="Newtest300_zq_1006" AH_Camp="1" NpcName="拍卖大师"/>
+	<Property ID="Auction004" Name="拍卖003" FuncID="17" NpcID="Newtest300_qh_1006" AH_Camp="2" NpcName="拍卖大师"/>
+	<Property ID="BlackMarket001" Name="黑市001" FuncID="18" NpcID="Newtest300_qh_1006" Enabled="1" NpcName="黑市"/>
+	<Property ID="BlackMarket007" Name="黑市007" FuncID="18" NpcID="Newtest300_zq_1006" Enabled="1" NpcName="黑市"/>
+	<Property ID="Depot001" Name="仓库001" FuncID="20" NpcID="Ceshi_zq_1007" EnableFunc="1" NpcName="银行管理员"/>
+	<Property ID="Depot002" Name="仓库002" FuncID="20" NpcID="Ceshi_qh_1007" EnableFunc="1" NpcName="银行管理员"/>
+	<Property ID="Depot003" Name="仓库003" FuncID="20" NpcID="npc_m301_0006" EnableFunc="1" NpcName="仓库管理员坎贝尔"/>
+	<Property ID="Depot004" Name="仓库004" FuncID="20" NpcID="npc_qhm002_0053" EnableFunc="1" NpcName="诺兰特_逆水"/>
+	<Property ID="Depot005" Name="仓库005" FuncID="20" NpcID="npc_qhm005_0012" EnableFunc="1" NpcName="翁卡_阔叶"/>
+	<Property ID="Depot006" Name="仓库006" FuncID="20" NpcID="npc_qhm005_0016" EnableFunc="1" NpcName="布隆威斯特_逆水"/>
+	<Property ID="Depot007" Name="仓库007" FuncID="20" NpcID="npc_qhm005_0048" EnableFunc="1" NpcName="米丽妮_尘风"/>
+	<Property ID="Depot008" Name="仓库008" FuncID="20" NpcID="npc_zqm002_0027" EnableFunc="1" NpcName="马卡斯·杰罗德"/>
+	<Property ID="Depot009" Name="仓库009" FuncID="20" NpcID="npc_zqm001_0029" EnableFunc="1" NpcName="卡扎_索尔"/>
+	<Property ID="Depot010" Name="仓库010" FuncID="20" NpcID="Newtest300_zq_1007" EnableFunc="1" NpcName="仓库管理员"/>
+	<Property ID="Depot011" Name="仓库011" FuncID="20" NpcID="Newtest300_qh_1007" EnableFunc="1" NpcName="仓库管理员"/>
+	<Property ID="Depot012" Name="仓库012" FuncID="20" NpcID="npc_zlm015_0010" EnableFunc="1" NpcName="银行管理员"/>
+	<Property ID="Depot013" Name="仓库013" FuncID="20" NpcID="npc_qhm003_0030" EnableFunc="1" NpcName="兰道尔·卡列"/>
+	<Property ID="Depot014" Name="仓库014" FuncID="20" NpcID="npc_qhm004_0055" EnableFunc="1" NpcName="仓库管理员"/>
+	<Property ID="Depot015" Name="仓库015" FuncID="20" NpcID="npc_qhm004_0056" EnableFunc="1" NpcName="仓库管理员"/>
+	<Property ID="Depot016" Name="仓库016" FuncID="20" NpcID="npc_qhm004_0057" EnableFunc="1" NpcName="仓库管理员"/>
+	<Property ID="Depot017" Name="仓库017" FuncID="20" NpcID="npc_qhm004_0058" EnableFunc="1" NpcName="仓库管理员"/>
+	<Property ID="Depot018" Name="仓库018" FuncID="20" NpcID="npc_zlm002_0009" EnableFunc="1" NpcName="仓库管理员"/>
+	<Property ID="Depot019" Name="仓库019" FuncID="20" NpcID="npc_zlm002_0019" EnableFunc="1" NpcName="仓库管理员"/>
+	<Property ID="Depot020" Name="仓库020" FuncID="20" NpcID="npc_zlm002_0029" EnableFunc="1" NpcName="仓库管理员"/>
+	<Property ID="Depot021" Name="仓库021" FuncID="20" NpcID="npc_zlm010_0106" EnableFunc="1" NpcName="都德萨满"/>
+	<Property ID="Depot022" Name="仓库022" FuncID="20" NpcID="npc_zqm003_0004" EnableFunc="1" NpcName="昆塔诺_耀金"/>
+	<Property ID="Depot024" Name="仓库024" FuncID="20" NpcID="npc_zqm004_0014" EnableFunc="1" NpcName="布巴拉西"/>
+	<Property ID="Depot025" Name="仓库025" FuncID="20" NpcID="npc_zlm011_0117" EnableFunc="1" NpcName="克兰·隆"/>
+	<Property ID="Depot026" Name="仓库026" FuncID="20" NpcID="npc_zqm005_0037" EnableFunc="1" NpcName="丹尼斯·唐"/>
+	<Property ID="Depot027" Name="仓库027" FuncID="20" NpcID="npc_zlm008_0082" EnableFunc="1" NpcName="格得·耀金"/>
+	<Property ID="Depot028" Name="仓库028" FuncID="20" NpcID="npc_zqm003_0006" EnableFunc="1" NpcName="托莫涅_耀金"/>
+	<Property ID="Depot029" Name="仓库029" FuncID="20" NpcID="npc_zqm003_0005" EnableFunc="1" NpcName="埃布埃_耀金"/>
+	<Property ID="Depot030" Name="仓库030" FuncID="20" NpcID="npc_ZQEW001_0007" EnableFunc="1" NpcName="克烈多"/>
+	<Property ID="Depot031" Name="仓库031" FuncID="20" NpcID="npc_QHEW002_0007" EnableFunc="1" NpcName="肯森维多"/>
+	<Property ID="Depot032" Name="仓库032" FuncID="20" NpcID="npc_ZLEW011_0007" EnableFunc="1" NpcName="斯宾"/>
+	<Property ID="Depot033" Name="仓库033" FuncID="20" NpcID="npc_ZQEW005_0007" EnableFunc="1" NpcName="杰里科"/>
+	<Property ID="Depot034" Name="仓库034" FuncID="20" NpcID="npc_ZLEW002_0007" EnableFunc="1" NpcName="达科多"/>
+	<Property ID="Depot035" Name="仓库035" FuncID="20" NpcID="npc_ZLEW012_0007" EnableFunc="1" NpcName="纳萨尼尔"/>
+	<Property ID="Depot036" Name="仓库036" FuncID="20" NpcID="npc_ZLEW012_1007" EnableFunc="1" NpcName="纳萨尼尔"/>
+	<Property ID="Depot037" Name="仓库037" FuncID="20" NpcID="npc_ZLEW012_2007" EnableFunc="1" NpcName="纳萨尼尔"/>
+	<Property ID="Depot038" Name="仓库038" FuncID="20" NpcID="npc_ZLEW012_3007" EnableFunc="1" NpcName="纳萨尼尔"/>
+	<Property ID="Depot039" Name="仓库039" FuncID="20" NpcID="npc_QHEW005_0007" EnableFunc="1" NpcName="阿曼"/>
+	<Property ID="Depot040" Name="仓库040" FuncID="20" NpcID="npc_QHEW003_0007" EnableFunc="1" NpcName="密克"/>
+	<Property ID="Depot041" Name="仓库041" FuncID="20" NpcID="npc_ZQEW003_0007" EnableFunc="1" NpcName="爱格伯特"/>
+	<Property ID="MakeBlack001" Name="生产黑金001" FuncID="32" NpcID="Ceshi_qh_015" EnableFunc="1" AddMake="100" NpcName="宝石，装备合成"/>
+	<Property ID="MakeBlack002" Name="生产黑金002" FuncID="32" NpcID="Ceshi_zq_001" EnableFunc="1" AddMake="100" NpcName="蒸汽测试001"/>
+	<Property ID="MakeBlack004" Name="生产黑金004" FuncID="32" NpcID="npc_leidianshoujiqi2" EnableFunc="1" AddMake="100"/>
+	<Property ID="LearnSkill21" Name="惩罚者训练" FuncID="47" NpcID="Ceshi_zq_1010" SkillShopId="LearnSkill21" NpcName="惩罚者训练师"/>
+	<Property ID="LearnSkill22" Name="神枪手训练" FuncID="47" NpcID="Ceshi_zq_1011" SkillShopId="LearnSkill22" NpcName="神枪手训练师"/>
+	<Property ID="LearnSkill23" Name="执行者训练" FuncID="47" NpcID="Ceshi_zq_1012" SkillShopId="LearnSkill23" NpcName="执行者训练师"/>
+	<Property ID="LearnSkill24" Name="器械师训练" FuncID="47" NpcID="Ceshi_zq_1013" SkillShopId="LearnSkill24" NpcName="器械师训练师"/>
+	<Property ID="LearnSkill25" Name="构造师训练" FuncID="47" NpcID="Ceshi_zq_1014" SkillShopId="LearnSkill25" NpcName="构造师训练师"/>
+	<Property ID="LearnSkill26" Name="异教徒训练" FuncID="47" NpcID="Ceshi_zq_1015" SkillShopId="LearnSkill26" NpcName="异教徒训练师"/>
+	<Property ID="LearnSkill27" Name="咒术师训练" FuncID="47" NpcID="Ceshi_zq_1016" SkillShopId="LearnSkill27" NpcName="咒术师训练师"/>
+	<Property ID="LearnSkill28" Name="黑暗祭师训练" FuncID="47" NpcID="Ceshi_zq_1017" SkillShopId="LearnSkill28" NpcName="黑暗祭师训练师"/>
+	<Property ID="LearnSkill29" Name="女巫训练" FuncID="47" NpcID="Ceshi_zq_1018" SkillShopId="LearnSkill29" NpcName="女巫训练师"/>
+	<Property ID="LearnSkill30" Name="泰坦骑士训练" FuncID="47" NpcID="Ceshi_zq_1019" SkillShopId="LearnSkill30" NpcName="泰坦骑士训练师"/>
+	<Property ID="LearnSkill31" Name="风暴骑士训练" FuncID="47" NpcID="Ceshi_zq_1020" SkillShopId="LearnSkill31" NpcName="风暴骑士训练师"/>
+	<Property ID="LearnSkill32" Name="破碎骑士训练" FuncID="47" NpcID="Ceshi_zq_1021" SkillShopId="LearnSkill32" NpcName="破碎骑士训练师"/>
+	<Property ID="LearnSkill33" Name="熊人训练" FuncID="47" NpcID="Ceshi_qh_1010" SkillShopId="LearnSkill33" NpcName="熊人训练师"/>
+	<Property ID="LearnSkill34" Name="蛮牛人训练" FuncID="47" NpcID="Ceshi_qh_1011" SkillShopId="LearnSkill34" NpcName="蛮牛人训练师"/>
+	<Property ID="LearnSkill35" Name="狼人训练" FuncID="47" NpcID="Ceshi_qh_1012" SkillShopId="LearnSkill35" NpcName="狼人训练师"/>
+	<Property ID="LearnSkill36" Name="刀锋战士训练" FuncID="47" NpcID="Ceshi_qh_1013" SkillShopId="LearnSkill36" NpcName="刀锋战士训练师"/>
+	<Property ID="LearnSkill37" Name="狩猎者训练" FuncID="47" NpcID="Ceshi_qh_1014" SkillShopId="LearnSkill37" NpcName="狩猎者训练师"/>
+	<Property ID="LearnSkill38" Name="魔剑士训练" FuncID="47" NpcID="Ceshi_qh_1015" SkillShopId="LearnSkill38" NpcName="魔剑士训练师"/>
+	<Property ID="LearnSkill39" Name="炼器师训练" FuncID="47" NpcID="Ceshi_qh_1016" SkillShopId="LearnSkill39" NpcName="炼器师训练师"/>
+	<Property ID="LearnSkill40" Name="医师训练" FuncID="47" NpcID="Ceshi_qh_1017" SkillShopId="LearnSkill40" NpcName="医师训练师"/>
+	<Property ID="LearnSkill41" Name="变能师训练" FuncID="47" NpcID="Ceshi_qh_1018" SkillShopId="LearnSkill41" NpcName="变能师训练师"/>
+	<Property ID="LearnSkill42" Name="控火者训练" FuncID="47" NpcID="Ceshi_qh_1019" SkillShopId="LearnSkill42" NpcName="控火者训练师"/>
+	<Property ID="LearnSkill43" Name="大地使者训练" FuncID="47" NpcID="Ceshi_qh_1020" SkillShopId="LearnSkill43" NpcName="大地使者训练师"/>
+	<Property ID="LearnSkill44" Name="御风者训练" FuncID="47" NpcID="Ceshi_qh_1021" SkillShopId="LearnSkill44" NpcName="御风者训练师"/>
+	<Property ID="Job001" Name="职业001" FuncID="19" NpcID="npc_qhm002_0071" Desc="job_0001" TransQuests="8005" NpcName="爱格伯特_逆水"/>
+	<Property ID="Job002" Name="职业002" FuncID="19" NpcID="npc_qhm002_0072" Desc="job_0001" TransQuests="8007" NpcName="埃利奥特_尘风"/>
+	<Property ID="Job003" Name="职业003" FuncID="19" NpcID="npc_qhm002_0073" Desc="job_0001" TransQuests="8006" NpcName="弗纳尔_焚炎"/>
+	<Property ID="Job008" Name="职业008" FuncID="19" NpcID="npc_qhm001_0112" Desc="job_0001" TransQuests="8010" NpcName="迪内加·撕裂"/>
+	<Property ID="Job009" Name="职业009" FuncID="19" NpcID="npc_qhm001_0113" Desc="job_0001" TransQuests="8011" NpcName="科图雷·怒吼"/>
+	<Property ID="Job010" Name="职业010" FuncID="19" NpcID="npc_zqm002_0025" Desc="job_0001" TransQuests="8008" NpcName="贾斯丁·希埃尔"/>
+	<Property ID="Job011" Name="职业011" FuncID="19" NpcID="npc_zqm002_0026" Desc="job_0001" TransQuests="8009" NpcName="凯瑟琳·多萝西"/>
+	<Property ID="Job012" Name="职业012" FuncID="19" NpcID="npc_qhm003_0087" Desc="job_0001" TransQuests="8012" NpcName="兰德·诺特森"/>
+	<Property ID="Job013" Name="职业013" FuncID="19" NpcID="npc_qhm003_0088" Desc="job_0001" TransQuests="8013" NpcName="特里·埃莫森"/>
+	<Property ID="Job014" Name="职业014" FuncID="19" NpcID="npc_qhm003_0089" Desc="job_0001" TransQuests="8014" NpcName="布兰诺·帕森特"/>
+	<Property ID="Job015" Name="职业015" FuncID="19" NpcID="npc_zqm003_0018" Desc="job_0001" TransQuests="8015" NpcName="卡迈拉·坚铜"/>
+	<Property ID="Job016" Name="职业016" FuncID="19" NpcID="npc_zqm003_0019" Desc="job_0001" TransQuests="8016" NpcName="克鲁文·坚铜"/>
+	<Property ID="Job017" Name="职业017" FuncID="19" NpcID="npc_zqm003_0020" Desc="job_0001" TransQuests="8017" NpcName="哈比伦·亮银"/>
+	<Property ID="Job018" Name="职业018" FuncID="19" NpcID="Newtest300_zq_1009" Desc="job_0001" TransQuests="19317" NpcName="转职大师"/>
+	<Property ID="Job019" Name="职业019" FuncID="19" NpcID="Newtest300_qh_1009" Desc="job_0001" TransQuests="19307" NpcName="转职大师"/>
+	<Property ID="Transport001" Name="到飞机场" FuncID="22" NpcID="npc_zqm001_0130" TransPoint="102" NpcName="到飞机场"/>
+	<Property ID="Transport002" Name="移动城堡" FuncID="22" NpcID="npc_fly_0033" TransPoint="1" NpcName="移动城堡"/>
+	<Property ID="Transport003" Name="飞机场" FuncID="22" NpcID="npc_fly_0035" TransPoint="3" NpcName="飞机场"/>
+	<Property ID="Transport004" Name="机场" FuncID="22" NpcID="npc_zqm001_0129" TransPoint="11" NpcName="机场"/>
+	<Property ID="Transport005" Name="十锤城" FuncID="22" NpcID="npc_zqm003_0105" TransPoint="12" NpcName="十锤城"/>
+	<Property ID="Transport006" Name="薄雾堡" FuncID="22" NpcID="npc_zqm002_0088" TransPoint="13" NpcName="薄雾堡"/>
+	<Property ID="Transport007" Name="王国军前哨站" FuncID="22" NpcID="npc_zqm005_0030" TransPoint="14" NpcName="王国军前哨站"/>
+	<Property ID="Transport008" Name="王国东征指挥要塞" FuncID="22" NpcID="npc_zqm005_0032" TransPoint="15" NpcName="王国东征指挥要塞"/>
+	<Property ID="Transport009" Name="远征港" FuncID="22" NpcID="npc_zqm005_0031" TransPoint="16" NpcName="远征港"/>
+	<Property ID="Transport010" Name="卡萨罗" FuncID="22" NpcID="npc_qhm002_0039" TransPoint="21" NpcName="卡萨罗"/>
+	<Property ID="Transport013" Name="望乡关" FuncID="22" NpcID="npc_qhm005_0067" TransPoint="24" NpcName="望乡关"/>
+	<Property ID="Transport014" Name="树荫岗" FuncID="22" NpcID="npc_qhm005_0070" TransPoint="25" NpcName="树荫岗"/>
+	<Property ID="Transport017" Name="落日卡口" FuncID="22" NpcID="npc_qhm002_0046" TransPoint="36" NpcName="落日卡口"/>
+	<Property ID="Transport018" Name="圣日卡口" FuncID="22" NpcID="npc_qhm002_0048" TransPoint="35" NpcName="圣日卡口"/>
+	<Property ID="Transport019" Name="圣日哨岗" FuncID="22" NpcID="npc_qhm004_0051" TransPoint="37" NpcName="圣日哨岗"/>
+	<Property ID="Transport020" Name="海神殿" FuncID="22" NpcID="npc_qhm004_0053" TransPoint="38" NpcName="海神殿"/>
+	<Property ID="Transport021" Name="巨树卡口" FuncID="22" NpcID="npc_qhm004_0052" TransPoint="39" NpcName="巨树卡口"/>
+	<Property ID="Transport015" Name="讨逆军营地" FuncID="22" NpcID="npc_zlm010_0102" TransPoint="31" NpcName="讨逆军营地"/>
+	<Property ID="Transport016" Name="寒落山脚" FuncID="22" NpcID="npc_zlm010_0103" TransPoint="32" NpcName="寒落山脚"/>
+	<Property ID="Transport022" Name="卡拉福德港" FuncID="22" NpcID="npc_zlm008_0076" TransPoint="50" NpcName="卡拉福德港"/>
+	<Property ID="Transport023" Name="山色镇" FuncID="22" NpcID="npc_qhm003_0058" TransPoint="40" NpcName="山色镇"/>
+	<Property ID="Transport024" Name="金鳍海岸" FuncID="22" NpcID="npc_qhm003_0050" TransPoint="41" NpcName="金鳍海岸"/>
+	<Property ID="Transport025" Name="黎明港" FuncID="22" NpcID="npc_qhm003_0029" TransPoint="42" NpcName="黎明港"/>
+	<Property ID="Transport026" Name="雾月之辉" FuncID="22" NpcID="npc_zlm002_0075" TransPoint="43" NpcName="雾月之辉"/>
+	<Property ID="Transport027" Name="月辉驻地" FuncID="22" NpcID="npc_zlm002_0076" TransPoint="44" NpcName="月辉驻地"/>
+	<Property ID="Transport028" Name="尤图恩侦察营" FuncID="22" NpcID="npc_zlm002_0077" TransPoint="45" NpcName="尤图恩侦察营"/>
+	<Property ID="Transport029" Name="月灼南营" FuncID="22" NpcID="npc_zlm002_0078" TransPoint="46" NpcName="月灼南营"/>
+	<Property ID="Transport030" Name="克里斯堡" FuncID="22" NpcID="npc_zlm015_0094" TransPoint="47" NpcName="克里斯堡"/>
+	<Property ID="Transport031" Name="新月岗哨" FuncID="22" NpcID="npc_zlm015_0104" TransPoint="48" NpcName="新月岗哨"/>
+	<Property ID="Transport032" Name="利爪哨所" FuncID="22" NpcID="npc_zlm015_0103" TransPoint="49" NpcName="利爪哨所"/>
+	<Property ID="Transport033" Name="奥柏古国遗迹" FuncID="22" NpcID="npc_zlm008_0077" TransPoint="51" NpcName="奥柏古国遗迹"/>
+	<Property ID="Transport034" Name="荒漠废墟" FuncID="22" NpcID="npc_zlm008_0078" TransPoint="52" NpcName="荒漠废墟"/>
+	<Property ID="Transport035" Name="水晶谷" FuncID="22" NpcID="npc_zlm008_0079" TransPoint="53" NpcName="水晶谷"/>
+	<Property ID="Transport036" Name="铁鞋矿区" FuncID="22" NpcID="npc_zqm003_0003" TransPoint="54" NpcName="铁鞋矿区"/>
+	<Property ID="Transport037" Name="龙喉要塞" FuncID="22" NpcID="npc_zqm003_0002" TransPoint="55" NpcName="龙喉要塞"/>
+	<Property ID="Transport038" Name="莱尔小镇" FuncID="22" NpcID="npc_zqm001_0150" TransPoint="56" NpcName="莱尔小镇"/>
+	<Property ID="Transport039" Name="鲁尔勒" FuncID="22" NpcID="npc_zqm001_0095" TransPoint="57" NpcName="鲁尔勒"/>
+	<Property ID="Transport040" Name="提亚堡" FuncID="22" NpcID="npc_zqm004_0016" TransPoint="58" NpcName="提亚堡"/>
+	<Property ID="Transport041" Name="提亚港" FuncID="22" NpcID="npc_zqm004_0038" TransPoint="59" NpcName="提亚港"/>
+	<Property ID="Transport042" Name="远征军营地" FuncID="22" NpcID="npc_zlm011_0077" TransPoint="60" NpcName="远征军营地"/>
+	<Property ID="Transport043" Name="先锋哨站" FuncID="22" NpcID="npc_zlm011_0079" TransPoint="61" NpcName="先锋哨站"/>
+	<Property ID="Trigger001" Name="触发器001" FuncID="7" NpcID="Ceshi_zq_1023" Desc="ui_ridebc" NpcName="蒸汽战斗载具NPC"/>
+	<Property ID="Trigger002" Name="触发器002" FuncID="7" NpcID="npc_ZC_0001" Desc="ui_npc_ZC_0001" NpcName="蒸汽战车"/>
+	<Property ID="Trigger003" Name="触发器003" FuncID="7" NpcID="npc_ZC_0002" Desc="ui_npc_ZC_0002" NpcName="野战吉普"/>
+	<Property ID="Trigger004" Name="触发器004" FuncID="7" NpcID="npc_ZC_0003" Desc="ui_npc_ZC_0003" NpcName="探索者"/>
+	<Property ID="Trigger005" Name="触发器005" FuncID="7" NpcID="npc_ZC_0006" Desc="ui_npc_ZC_0006" NpcName="战争巨兽"/>
+	<Property ID="Trigger006" Name="触发器006" FuncID="7" NpcID="npc_ZC_0007" Desc="ui_npc_ZC_0007" NpcName="自然之灵"/>
+	<Property ID="Trigger007" Name="触发器007" FuncID="7" NpcID="npc_ZC_0008" Desc="ui_npc_ZC_0008" NpcName="剧毒之灵"/>
+	<Property ID="Trigger008" Name="触发器008" FuncID="7" NpcID="npc_ZC_0009" Desc="ui_npc_ZC_0009" NpcName="军用羊驼"/>
+	<Property ID="Trigger009" Name="触发器009" FuncID="7" NpcID="npc_ZC_0010" Desc="ui_npc_ZC_0001" NpcName="蒸汽战车"/>
+	<Property ID="Trigger010" Name="触发器010" FuncID="7" NpcID="npc_ZC_0011" Desc="ui_npc_ZC_0002" NpcName="野战吉普"/>
+	<Property ID="Trigger011" Name="触发器011" FuncID="7" NpcID="npc_ZC_0012" Desc="ui_npc_ZC_0003" NpcName="探索者"/>
+	<Property ID="Trigger012" Name="触发器012" FuncID="7" NpcID="npc_ZC_0014" Desc="ui_npc_ZC_0014" NpcName="投石车"/>
+	<Property ID="Trigger013" Name="触发器013" FuncID="7" NpcID="npc_ZC_0015" Desc="ui_npc_ZC_0006" NpcName="战争巨兽"/>
+	<Property ID="Trigger014" Name="触发器014" FuncID="7" NpcID="npc_ZC_0016" Desc="ui_npc_ZC_0007" NpcName="自然之灵"/>
+	<Property ID="Trigger015" Name="触发器015" FuncID="7" NpcID="npc_ZC_0017" Desc="ui_npc_ZC_0008" NpcName="剧毒之灵"/>
+	<Property ID="Trigger016" Name="触发器016" FuncID="7" NpcID="npc_ZC_0018" Desc="ui_npc_ZC_0009" NpcName="军用羊驼"/>
+	<Property ID="Trigger017" Name="触发器017" FuncID="7" NpcID="npc_m201_0001" Desc="ui_npc_m201_0001" NpcName="飞龙"/>
+	<Property ID="Trigger018" Name="触发器018" FuncID="7" NpcID="npc_m201_0002" Desc="ui_npc_m201_0002" NpcName="灰机"/>
+	<Property ID="Trigger019" Name="触发器019" FuncID="7" NpcID="npc_ZC_0013" Desc="ui_npc_add_hp" NpcName="修墙"/>
+	<Property ID="Trigger020" Name="触发器020" FuncID="7" NpcID="npc_tiaodiya_0001" Desc="ui_fb_tadynpc01" NpcName="竞技场管理员"/>
+	<Property ID="Trigger021" Name="触发器021" FuncID="7" NpcID="FB_tiannudongxue_0011_1" Desc="ui_f100_npc001" NpcName="中立村长"/>
+	<Property ID="Trigger022" Name="触发器022" FuncID="7" NpcID="fb_llqd_007" Desc="ui_fb_llqdnpc01,ui_fb_llqdnpc04" NpcName="鱼人长老"/>
+	<Property ID="Trigger023" Name="触发器023" FuncID="7" NpcID="FB_TNDX_MS_13" Desc="ui_fb_tndxnpc01" NpcName="被关押的村民"/>
+	<Property ID="Trigger024" Name="触发器024" FuncID="7" NpcID="fb_llqd_013" Desc="ui_fb_llqdnpc02" NpcName="鱼人智慧长老"/>
+	<Property ID="Trigger025" Name="触发器025" FuncID="7" NpcID="fb_llqd_014" Desc="ui_fb_llqdnpc03,ui_fb_llqdnpc23" NpcName="鱼人生命长老"/>
+	<Property ID="Trigger026" Name="触发器026" FuncID="7" NpcID="fb_llqd_015" Desc="ui_fb_llqdnpc08,ui_fb_llqdnpc09,ui_fb_llqdnpc10,ui_fb_llqdnpc11,ui_fb_llqdnpc22" NpcName="鱼人建筑长老"/>
+	<Property ID="Trigger027" Name="触发器027" FuncID="7" NpcID="fb_llqd_006" Desc="ui_fb_llqdnpc05,ui_fb_llqdnpc06,ui_fb_llqdnpc07" NpcName="骑兵领队"/>
+	<Property ID="Trigger028" Name="触发器028" FuncID="7" NpcID="fb_llqd_010" Desc="ui_fb_llqdnpc12,ui_fb_llqdnpc13,ui_fb_llqdnpc14,ui_fb_llqdnpc15,ui_fb_llqdnpc21" NpcName="防御塔"/>
+	<Property ID="Trigger029" Name="触发器029" FuncID="7" NpcID="fb_llqd_024" Desc="ui_fb_llqdnpc37,ui_fb_llqdnpc16,ui_fb_llqdnpc18,ui_fb_llqdnpc19,ui_fb_llqdnpc20" NpcName="鱼人光明水晶塔"/>
+	<Property ID="Trigger030" Name="触发器030" FuncID="7" NpcID="fb_llqd_025" Desc="ui_fb_llqdnpc12,ui_fb_llqdnpc13,ui_fb_llqdnpc14,ui_fb_llqdnpc15" NpcName="辅助火炮"/>
+	<Property ID="Trigger032" Name="触发器032" FuncID="7" NpcID="fb_llqd_026" Desc="ui_fb_llqdnpc24" NpcName="防御塔座基"/>
+	<Property ID="Trigger033" Name="触发器033" FuncID="7" NpcID="npc_FB105_0002" Desc="anzhuoshouji" NpcName="德维克"/>
+	<Property ID="Trigger034" Name="触发器034" FuncID="7" NpcID="fb_llqd_007_L2" Desc="ui_fb_llqdnpc01,ui_fb_llqdnpc04" NpcName="鱼人长老"/>
+	<Property ID="Trigger035" Name="触发器035" FuncID="7" NpcID="fb_llqd_013_L2" Desc="ui_fb_llqdnpc02" NpcName="鱼人智慧长老"/>
+	<Property ID="Trigger036" Name="触发器036" FuncID="7" NpcID="fb_llqd_014_L2" Desc="ui_fb_llqdnpc03,ui_fb_llqdnpc23" NpcName="鱼人生命长老"/>
+	<Property ID="Trigger037" Name="触发器037" FuncID="7" NpcID="fb_llqd_015_L2" Desc="ui_fb_llqdnpc08,ui_fb_llqdnpc09,ui_fb_llqdnpc10,ui_fb_llqdnpc11,ui_fb_llqdnpc22" NpcName="鱼人建筑长老"/>
+	<Property ID="Trigger038" Name="触发器038" FuncID="7" NpcID="fb_llqd_006_L2" Desc="ui_fb_llqdnpc05,ui_fb_llqdnpc06,ui_fb_llqdnpc07" NpcName="骑兵领队"/>
+	<Property ID="Trigger039" Name="触发器039" FuncID="7" NpcID="fb_llqd_010_L2" Desc="ui_fb_llqdnpc12,ui_fb_llqdnpc13,ui_fb_llqdnpc14,ui_fb_llqdnpc15,ui_fb_llqdnpc21" NpcName="防御塔"/>
+	<Property ID="Trigger040" Name="触发器040" FuncID="7" NpcID="fb_llqd_024_L2" Desc="ui_fb_llqdnpc16,ui_fb_llqdnpc17,ui_fb_llqdnpc18,ui_fb_llqdnpc19,ui_fb_llqdnpc20" NpcName="鱼人光明水晶塔"/>
+	<Property ID="Trigger041" Name="触发器041" FuncID="7" NpcID="fb_llqd_025_L2" Desc="ui_fb_llqdnpc12,ui_fb_llqdnpc13,ui_fb_llqdnpc14,ui_fb_llqdnpc15" NpcName="辅助火炮"/>
+	<Property ID="Trigger042" Name="触发器042" FuncID="7" NpcID="fb_llqd_026_L2" Desc="ui_fb_llqdnpc24" NpcName="防御塔座基"/>
+	<Property ID="Trigger043" Name="触发器043" FuncID="7" NpcID="npc_FB103_0001" Desc="npc_FB103_0100" NpcName="雷娜"/>
+	<Property ID="Trigger044" Name="触发器044" FuncID="7" NpcID="npc_FB103_0015" Desc="npc_FB103_0101" NpcName="雷杰"/>
+	<Property ID="Trigger046" Name="触发器046" FuncID="7" NpcID="FB_TNDX_MS_13_L2" Desc="ui_fb_tndxnpc01" NpcName="被关押的村民"/>
+	<Property ID="Trigger047" Name="雷娜（下坡通用）" FuncID="7" NpcID="npc_FB103_0042" Desc="npc_FB103_0102" NpcName="雷娜"/>
+	<Property ID="Trigger048" Name="雷娜（分支选择）" FuncID="7" NpcID="npc_FB103_0043" Desc="npc_FB103_0103" NpcName="雷娜"/>
+	<Property ID="Trigger049" Name="雷娜（选择搜索）" FuncID="7" NpcID="npc_FB103_0045" Desc="npc_FB103_0105" NpcName="雷娜"/>
+	<Property ID="Trigger050" Name="雷娜（直冲）" FuncID="7" NpcID="npc_FB103_0046" Desc="npc_FB103_0102" NpcName="雷娜"/>
+	<Property ID="Trigger051" Name="雷娜（双人直冲）" FuncID="7" NpcID="npc_FB103_0047" Desc="npc_FB103_0106" NpcName="雷娜"/>
+	<Property ID="Trigger052" Name="雷娜（平台终点）" FuncID="7" NpcID="npc_FB103_0048" Desc="npc_FB103_0107" NpcName="雷娜"/>
+	<Property ID="Trigger053" Name="雷娜（开关）" FuncID="7" NpcID="npc_FB103_0049" Desc="npc_FB103_0110" NpcName="雷娜"/>
+	<Property ID="Trigger054" Name="雷娜（开关开启）" FuncID="7" NpcID="npc_FB103_0050" Desc="npc_FB103_0108" NpcName="雷娜"/>
+	<Property ID="Trigger055" Name="雷娜（开关开启）" FuncID="7" NpcID="npc_FB103_0051" Desc="npc_FB103_0109" NpcName="雷娜"/>
+	<Property ID="Trigger056" Name="触发器047" FuncID="7" NpcID="npc_FB105_0015" Desc="anzhuoshouji" NpcName="德维克"/>
+	<Property ID="Trigger057" Name="副本传送" FuncID="7" NpcID="npc_FB105_0016" Desc="tongdao01" NpcName="拉菲特"/>
+	<Property ID="Trigger058" Name="副本传送2" FuncID="7" NpcID="npc_FB105_0017" Desc="tongdao01,tongdao02" NpcName="拉菲特"/>
+	<Property ID="Trigger059" Name="副本传送3" FuncID="7" NpcID="npc_FB105_0018" Desc="tongdao01,tongdao02,tongdao03" NpcName="拉菲特"/>
+	<Property ID="Trigger060" Name="副本传送4" FuncID="7" NpcID="npc_FB105_0019" Desc="tongdao01,tongdao02,tongdao03,tongdao04" NpcName="拉菲特"/>
+	<Property ID="Trigger061" Name="机关（开关开启前）" FuncID="7" NpcID="npc_FB103_0054" Desc="npc_FB103_0111" NpcName="机关"/>
+	<Property ID="Trigger062" Name="机关（开关开启后）" FuncID="7" NpcID="npc_FB103_0055" Desc="npc_FB103_0111" NpcName="机关"/>
+	<Property ID="Trigger063" Name="触发器047" FuncID="7" NpcID="npc_xinshou_0012" Desc="ceshizc01,ceshizc02" NpcName="洛瑞丽娅"/>
+	<Property ID="Trigger064" Name="触发器048" FuncID="7" NpcID="npc_xinshou_0022" Desc="ceshizc03,ceshizc04" NpcName="格蕾丝"/>
+	<Property ID="Trigger065" Name="永生之灵" FuncID="7" NpcID="npc_xinshou_0034" Desc="npc_FB106_01" NpcName="德里安"/>
+	<Property ID="Trigger066" Name="拉维尔" FuncID="7" NpcID="npc_FB105_0023" Desc="npctalkd01" NpcName="拉维尔"/>
+	<Property ID="Trigger067" Name="拉威尔" FuncID="7" NpcID="npc_FB105_0025" Desc="npctalkd02" NpcName="拉威尔"/>
+	<Property ID="Trigger068" Name="拉莫斯_莱尔" FuncID="7" NpcID="npc_zqm001_0229" Desc="npctalkd03" NpcName="拉莫斯_莱尔"/>
+	<Property ID="Trigger069" Name="议会审判长" FuncID="7" NpcID="npc_zqm003_0116" Desc="npctalkd04" NpcName="议会审判长"/>
+	<Property ID="Trigger070" Name="德维特 _沉星" FuncID="7" NpcID="npc_qhm002_0070" Desc="npc_FB106_01" NpcName="德维特 _沉星"/>
+	<Property ID="Trigger071" Name="阿尔文_布兰多" FuncID="7" NpcID="npc_qhm003_0055" Desc="npctalkd06" NpcName="阿尔文_布兰多"/>
+	<Property ID="Trigger072" Name="赛佛特_亮银" FuncID="7" NpcID="npc_xinshou_0037" Desc="npctalkd07" NpcName="赛佛特_亮银"/>
+	<Property ID="Trigger073" Name="维隆卡_坚铜" FuncID="7" NpcID="npc_xinshou_0053" Desc="npctalkd08" NpcName="维隆卡·坚铜"/>
+	<Property ID="Trigger074" Name="拉_影舞" FuncID="7" NpcID="npc_xinshou_0054" Desc="npctalkd09" NpcName="拉·影舞"/>
+	<Property ID="Trigger075" Name="薇娜_弗伦" FuncID="7" NpcID="npc_xinshou_0040" Desc="npctalkd10" NpcName="薇娜_弗伦"/>
+	<Property ID="Trigger076" Name="能量井战场传送1" FuncID="7" NpcID="npc_ZQEW_0059" Desc="ewbattlewar_cs0001" NpcName="盖亚提炼所西门传送门里-外"/>
+	<Property ID="Trigger077" Name="能量井战场传送2" FuncID="7" NpcID="npc_ZQEW_0060" Desc="ewbattlewar_cs0002" NpcName="盖亚提炼所西门传送门外-里"/>
+	<Property ID="Trigger078" Name="能量井战场传送3" FuncID="7" NpcID="npc_ZQEW_0061" Desc="ewbattlewar_cs0003" NpcName="奥尔迪加能源工厂南门外右"/>
+	<Property ID="Trigger079" Name="能量井战场传送4" FuncID="7" NpcID="npc_ZQEW_0062" Desc="ewbattlewar_cs0004" NpcName="奥尔迪加能源工厂南门内右"/>
+	<Property ID="Trigger080" Name="能量井战场传送5" FuncID="7" NpcID="npc_ZQEW_0063" Desc="ewbattlewar_cs0005" NpcName="奥尔迪加能源工厂南门外左"/>
+	<Property ID="Trigger081" Name="能量井战场传送6" FuncID="7" NpcID="npc_ZQEW_0064" Desc="ewbattlewar_cs0006" NpcName="奥尔迪加能源工厂南门内左"/>
+	<Property ID="Trigger082" Name="能量井战场传送7" FuncID="7" NpcID="npc_ZQEW_0065" Desc="ewbattlewar_cs0007" NpcName="奥尔迪加能源工厂北门外右"/>
+	<Property ID="Trigger083" Name="能量井战场传送8" FuncID="7" NpcID="npc_ZQEW_0066" Desc="ewbattlewar_cs0008" NpcName="奥尔迪加能源工厂北门内右"/>
+	<Property ID="Trigger084" Name="能量井战场传送9" FuncID="7" NpcID="npc_ZQEW_0067" Desc="ewbattlewar_cs0009" NpcName="奥尔迪加能源工厂北门外左"/>
+	<Property ID="Trigger085" Name="能量井战场传送10" FuncID="7" NpcID="npc_ZQEW_0068" Desc="ewbattlewar_cs0010" NpcName="奥尔迪加能源工厂北门内左"/>
+	<Property ID="Trigger086" Name="能量井战场传送11" FuncID="7" NpcID="npc_ZQEW_0069" Desc="ewbattlewar_cs0011" NpcName="马休存储站南门外右"/>
+	<Property ID="Trigger087" Name="能量井战场传送12" FuncID="7" NpcID="npc_ZQEW_0070" Desc="ewbattlewar_cs0012" NpcName="马休存储站南门内右"/>
+	<Property ID="Trigger088" Name="能量井战场传送13" FuncID="7" NpcID="npc_ZQEW_0071" Desc="ewbattlewar_cs0013" NpcName="马休存储站南门外左"/>
+	<Property ID="Trigger089" Name="能量井战场传送14" FuncID="7" NpcID="npc_ZQEW_0072" Desc="ewbattlewar_cs0014" NpcName="马休存储站南门内左"/>
+	<Property ID="Trigger090" Name="能量井战场传送15" FuncID="7" NpcID="npc_ZQEW_0073" Desc="ewbattlewar_cs0015" NpcName="马休存储站北门外右"/>
+	<Property ID="Trigger091" Name="能量井战场传送16" FuncID="7" NpcID="npc_ZQEW_0074" Desc="ewbattlewar_cs0016" NpcName="马休存储站北门内右"/>
+	<Property ID="Trigger092" Name="能量井战场传送17" FuncID="7" NpcID="npc_ZQEW_0075" Desc="ewbattlewar_cs0017" NpcName="马休存储站北门外左"/>
+	<Property ID="Trigger093" Name="能量井战场传送18" FuncID="7" NpcID="npc_ZQEW_0076" Desc="ewbattlewar_cs0018" NpcName="马休存储站北门内左"/>
+	<Property ID="Trigger094" Name="能量井战场传送19" FuncID="7" NpcID="npc_QHEW_0045" Desc="ewbattlewar_cs0019" NpcName="大地裂隙南门外右"/>
+	<Property ID="Trigger095" Name="能量井战场传送20" FuncID="7" NpcID="npc_QHEW_0046" Desc="ewbattlewar_cs0020" NpcName="大地裂隙南门内右"/>
+	<Property ID="Trigger096" Name="能量井战场传送21" FuncID="7" NpcID="npc_QHEW_0047" Desc="ewbattlewar_cs0021" NpcName="大地裂隙南门外左"/>
+	<Property ID="Trigger097" Name="能量井战场传送22" FuncID="7" NpcID="npc_QHEW_0048" Desc="ewbattlewar_cs0022" NpcName="大地裂隙南门内左"/>
+	<Property ID="Trigger098" Name="能量井战场传送23" FuncID="7" NpcID="npc_QHEW_0049" Desc="ewbattlewar_cs0023" NpcName="大地裂隙北门外右"/>
+	<Property ID="Trigger099" Name="能量井战场传送24" FuncID="7" NpcID="npc_QHEW_0050" Desc="ewbattlewar_cs0024" NpcName="大地裂隙北门内右"/>
+	<Property ID="Trigger100" Name="能量井战场传送25" FuncID="7" NpcID="npc_QHEW_0051" Desc="ewbattlewar_cs0025" NpcName="大地裂隙北门外左"/>
+	<Property ID="Trigger101" Name="能量井战场传送26" FuncID="7" NpcID="npc_QHEW_0052" Desc="ewbattlewar_cs0026" NpcName="大地裂隙北门内左"/>
+	<Property ID="Trigger102" Name="能量井战场传送27" FuncID="7" NpcID="npc_QHEW_0053" Desc="ewbattlewar_cs0027" NpcName="守护谷地南门外右"/>
+	<Property ID="Trigger103" Name="能量井战场传送28" FuncID="7" NpcID="npc_QHEW_0054" Desc="ewbattlewar_cs0028" NpcName="守护谷地南门内右"/>
+	<Property ID="Trigger104" Name="能量井战场传送29" FuncID="7" NpcID="npc_QHEW_0055" Desc="ewbattlewar_cs0029" NpcName="守护谷地南门外左"/>
+	<Property ID="Trigger105" Name="能量井战场传送30" FuncID="7" NpcID="npc_QHEW_0056" Desc="ewbattlewar_cs0030" NpcName="守护谷地南门内左"/>
+	<Property ID="Trigger106" Name="能量井战场传送31" FuncID="7" NpcID="npc_QHEW_0057" Desc="ewbattlewar_cs0031" NpcName="守护谷地北门外右"/>
+	<Property ID="Trigger107" Name="能量井战场传送32" FuncID="7" NpcID="npc_QHEW_0058" Desc="ewbattlewar_cs0032" NpcName="守护谷地北门内右"/>
+	<Property ID="Trigger108" Name="能量井战场传送33" FuncID="7" NpcID="npc_QHEW_0059" Desc="ewbattlewar_cs0033" NpcName="守护谷地北门外左"/>
+	<Property ID="Trigger109" Name="能量井战场传送34" FuncID="7" NpcID="npc_QHEW_0060" Desc="ewbattlewar_cs0034" NpcName="守护谷地北门内左"/>
+	<Property ID="Trigger110" Name="尼尔斯_帕顿" FuncID="7" NpcID="npc_xinshou_0056" Desc="npctalkd11" NpcName="尼尔斯_帕顿"/>
+	<Property ID="Trigger111" Name="莫莎_德拉尼" FuncID="7" NpcID="npc_xinshou_0055" Desc="npctalkd12" NpcName="莫莎_德拉尼"/>
+	<Property ID="Trigger112" Name="安格斯_怒阳" FuncID="7" NpcID="npc_xinshou_0041" Desc="npctalkd13" NpcName="安格斯_怒阳"/>
+	<Property ID="Trigger113" Name="奥格斯_伯德" FuncID="7" NpcID="npc_xinshou_0057" Desc="npctalkd14" NpcName="奥格斯_伯德"/>
+	<Property ID="Trigger114" Name="多娅_卡兰" FuncID="7" NpcID="npc_xinshou_0058" Desc="npctalkd15" NpcName="多娅_卡兰"/>
+	<Property ID="Trigger115" Name="萨拉菲摩_霜风" FuncID="7" NpcID="npc_xinshou_0038" Desc="npctalkd16" NpcName="萨拉菲摩_霜风"/>
+	<Property ID="Trigger116" Name="菲尔_火语" FuncID="7" NpcID="npc_xinshou_0059" Desc="npctalkd17" NpcName="菲尔_火语"/>
+	<Property ID="Trigger117" Name="莫兰尔_柯姆" FuncID="7" NpcID="npc_xinshou_0060" Desc="npctalkd18" NpcName="莫兰尔_柯姆"/>
+	<Property ID="Trigger118" Name="触发器102" FuncID="7" NpcID="fb_nllqd_007" Desc="ui_fb_llqdnpc03,ui_fb_llqdnpc01,ui_fb_llqdnpc04,ui_fb_llqdnpc02" NpcName="生命长老"/>
+	<Property ID="Trigger119" Name="触发器103" FuncID="7" NpcID="fb_nllqd_014" Desc="ui_fb_llqdnpc18,ui_fb_llqdnpc19,ui_fb_llqdnpc20" NpcName="攻击长老"/>
+	<Property ID="Trigger120" Name="触发器104" FuncID="7" NpcID="fb_nllqd_006" Desc="ui_fb_llqdnpc05,ui_fb_llqdnpc06,ui_fb_llqdnpc07" NpcName="骑士队长"/>
+	<Property ID="Trigger121" Name="触发器105" FuncID="7" NpcID="fb_llqd_046" Desc="ui_fb_llqdnpc25,ui_fb_llqdnpc26,ui_fb_llqdnpc27" NpcName="召唤水晶"/>
+	<Property ID="Trigger122" Name="触发器106" FuncID="7" NpcID="fb_llqd_044" Desc="ui_fb_llqdnpc28,ui_fb_llqdnpc29" NpcName="守护石灵"/>
+	<Property ID="Trigger123" Name="触发器107" FuncID="7" NpcID="fb_llqd_045" Desc="ui_fb_llqdnpc28,ui_fb_llqdnpc29" NpcName="魔法炮塔"/>
+	<Property ID="Trigger124" Name="触发器108" FuncID="7" NpcID="fb_llqd_047" Desc="ui_fb_llqdnpc28,ui_fb_llqdnpc29" NpcName="攻击火炮"/>
+	<Property ID="Trigger125" Name="触发器109" FuncID="7" NpcID="npc_llqd_0002" Desc="ui_fb_llqdnpc31,ui_fb_llqdnpc32,ui_fb_llqdnpc33,ui_fb_llqdnpc35" NpcName="铸造师"/>
+	<Property ID="Trigger126" Name="触发器110" FuncID="7" NpcID="npc_llqd_0003" Desc="ui_fb_llqdnpc01,ui_fb_llqdnpc04,ui_fb_llqdnpc02" NpcName="祝福之树"/>
+	<Property ID="Trigger127" Name="触发器111" FuncID="7" NpcID="npc_llqd_0001" Desc="ui_fb_llqdnpc30" NpcName="幽魂草"/>
+	<Property ID="Trigger128" Name="永生之灵德里安" FuncID="7" NpcID="npc_xinshou_0063" Desc="npctalkd19" NpcName="永生之灵德里安"/>
+	<Property ID="Trigger129" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ_0021" Desc="npctalkd36" NpcName="进攻方北门外右防御炮塔"/>
+	<Property ID="Trigger130" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ_0022" Desc="npctalkd36" NpcName="防御炮塔"/>
+	<Property ID="Trigger131" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ_0023" Desc="npctalkd37" NpcName="防御炮塔"/>
+	<Property ID="Trigger132" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ_0024" Desc="npctalkd38" NpcName="防御炮塔"/>
+	<Property ID="Trigger133" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ_0025" Desc="npctalkd39" NpcName="防御炮塔"/>
+	<Property ID="Trigger134" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ_0026" Desc="npctalkd40" NpcName="防御炮塔"/>
+	<Property ID="Trigger135" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ_0027" Desc="npctalkd41" NpcName="防御炮塔"/>
+	<Property ID="Trigger136" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ_0028" Desc="npctalkd42" NpcName="防御炮塔"/>
+	<Property ID="Trigger137" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ_0029" Desc="npctalkd43" NpcName="防御炮塔"/>
+	<Property ID="Trigger138" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ_0030" Desc="npctalkd44" NpcName="防御炮塔"/>
+	<Property ID="Trigger139" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ_0031" Desc="npctalkd45" NpcName="防御炮塔"/>
+	<Property ID="Trigger140" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ_0032" Desc="npctalkd46" NpcName="防御炮塔"/>
+	<Property ID="Trigger141" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ_0033" Desc="npctalkd47" NpcName="防御炮塔"/>
+	<Property ID="Trigger142" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ_0034" Desc="npctalkd48" NpcName="防御炮塔"/>
+	<Property ID="Trigger143" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ_0035" Desc="npctalkd49" NpcName="防御炮塔"/>
+	<Property ID="Trigger144" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ_0036" Desc="npctalkd50" NpcName="防御炮塔"/>
+	<Property ID="Trigger145" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ_0037" Desc="npctalkd51" NpcName="防御炮塔"/>
+	<Property ID="Trigger146" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ_0038" Desc="npctalkd52" NpcName="防御炮塔"/>
+	<Property ID="Trigger147" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ_0039" Desc="npctalkd53" NpcName="防御炮塔"/>
+	<Property ID="Trigger148" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ_0040" Desc="npctalkd54" NpcName="防御炮塔"/>
+	<Property ID="Trigger149" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ_0041" Desc="npctalkd55" NpcName="防御炮塔"/>
+	<Property ID="Trigger150" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ_0042" Desc="npctalkd56" NpcName="防御炮塔"/>
+	<Property ID="Trigger151" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ_0043" Desc="npctalkd57" NpcName="防御炮塔"/>
+	<Property ID="Trigger152" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ_0044" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger153" Name="创建空袭战机" FuncID="7" NpcID="npc_ZQNLJ_0045" Desc="npctalkd59" NpcName="创建空袭战机"/>
+	<Property ID="Trigger154" Name="创建空袭战机" FuncID="7" NpcID="npc_ZQNLJ_0046" Desc="npctalkd60" NpcName="创建空袭战机"/>
+	<Property ID="Trigger155" Name="创建空袭战机" FuncID="7" NpcID="npc_ZQNLJ_0047" Desc="npctalkd61" NpcName="创建空袭战机"/>
+	<Property ID="Trigger156" Name="创建空袭战机" FuncID="7" NpcID="npc_ZQNLJ_0048" Desc="npctalkd62" NpcName="创建空袭战机"/>
+	<Property ID="Trigger157" Name="创建空袭战机" FuncID="7" NpcID="npc_ZQNLJ_0049" Desc="npctalkd63" NpcName="创建空袭战机"/>
+	<Property ID="Trigger158" Name="创建空袭战机" FuncID="7" NpcID="npc_ZQNLJ_0050" Desc="npctalkd64" NpcName="创建空袭战机"/>
+	<Property ID="Trigger159" Name="创建空袭战机" FuncID="7" NpcID="npc_ZQNLJ_0051" Desc="npctalkd65" NpcName="创建空袭战机"/>
+	<Property ID="Trigger160" Name="创建空袭战机" FuncID="7" NpcID="npc_ZQNLJ_0052" Desc="npctalkd66" NpcName="创建空袭战机"/>
+	<Property ID="Trigger161" Name="创建空袭战机" FuncID="7" NpcID="npc_ZQNLJ_0053" Desc="npctalkd67" NpcName="创建空袭战机"/>
+	<Property ID="Trigger162" Name="创建空袭战机" FuncID="7" NpcID="npc_ZQNLJ_0054" Desc="npctalkd68" NpcName="创建空袭战机"/>
+	<Property ID="Trigger163" Name="创建空袭战机" FuncID="7" NpcID="npc_ZQNLJ_0055" Desc="npctalkd69" NpcName="创建空袭战机"/>
+	<Property ID="Trigger164" Name="创建空袭战机" FuncID="7" NpcID="npc_ZQNLJ_0056" Desc="npctalkd70" NpcName="创建空袭战机"/>
+	<Property ID="Trigger168" Name="孵化火鹰" FuncID="7" NpcID="npc_QHNLJ_0023" Desc="npctalkd73" NpcName="孵化火鹰"/>
+	<Property ID="Trigger169" Name="孵化火鹰" FuncID="7" NpcID="npc_QHNLJ_0024" Desc="npctalkd73" NpcName="孵化火鹰"/>
+	<Property ID="Trigger170" Name="孵化火鹰" FuncID="7" NpcID="npc_QHNLJ_0025" Desc="npctalkd73" NpcName="孵化火鹰"/>
+	<Property ID="Trigger171" Name="孵化火鹰" FuncID="7" NpcID="npc_QHNLJ_0026" Desc="npctalkd73" NpcName="孵化火鹰"/>
+	<Property ID="Trigger172" Name="孵化火鹰" FuncID="7" NpcID="npc_QHNLJ_0027" Desc="npctalkd73" NpcName="孵化火鹰"/>
+	<Property ID="Trigger173" Name="孵化火鹰" FuncID="7" NpcID="npc_QHNLJ_0028" Desc="npctalkd73" NpcName="孵化火鹰"/>
+	<Property ID="Trigger174" Name="孵化火鹰" FuncID="7" NpcID="npc_QHNLJ_0029" Desc="npctalkd73" NpcName="孵化火鹰"/>
+	<Property ID="Trigger175" Name="孵化火鹰" FuncID="7" NpcID="npc_QHNLJ_0030" Desc="npctalkd73" NpcName="孵化火鹰"/>
+	<Property ID="Trigger176" Name="孵化火鹰" FuncID="7" NpcID="npc_QHNLJ_0031" Desc="npctalkd73" NpcName="孵化火鹰"/>
+	<Property ID="Trigger177" Name="孵化火鹰" FuncID="7" NpcID="npc_QHNLJ_0032" Desc="npctalkd73" NpcName="孵化火鹰"/>
+	<Property ID="Trigger178" Name="孵化火鹰" FuncID="7" NpcID="npc_QHNLJ_0033" Desc="npctalkd73" NpcName="孵化火鹰"/>
+	<Property ID="Trigger179" Name="孵化火鹰" FuncID="7" NpcID="npc_QHNLJ_0034" Desc="npctalkd73" NpcName="孵化火鹰"/>
+	<Property ID="Trigger180" Name="法罗尔" FuncID="7" NpcID="npc_zqm001_0221" Desc="npc_FB116_01" NpcName="法罗尔"/>
+	<Property ID="Trigger181" Name="米卢" FuncID="7" NpcID="npc_llqd_0004" Desc="milu_llqd" NpcName="米卢"/>
+	<Property ID="Trigger183" Name="墨克威" FuncID="7" NpcID="npc_ZQEW001_0005" Desc="npctalkd75" NpcName="墨克威"/>
+	<Property ID="Trigger184" Name="神谕之地空袭" FuncID="7" NpcID="npc_QHEW002_0005" Desc="npctalkd76" NpcName="神谕之地空袭"/>
+	<Property ID="Trigger185" Name="转职副本出口（蒸汽）" FuncID="7" NpcID="npc_xinshou_0061" Desc="npctalkd77" NpcName="转职副本出口（蒸汽）"/>
+	<Property ID="Trigger186" Name="转职副本出口（奇幻）" FuncID="7" NpcID="npc_xinshou_0062" Desc="npctalkd77" NpcName="转职副本出口（奇幻）"/>
+	<Property ID="Trigger187" Name="触发器105" FuncID="7" NpcID="fb_llqd_046_L2" Desc="ui_fb_llqdnpc25,ui_fb_llqdnpc26,ui_fb_llqdnpc27" NpcName="召唤水晶"/>
+	<Property ID="Trigger188" Name="触发器106" FuncID="7" NpcID="fb_llqd_044_L2" Desc="ui_fb_llqdnpc28,ui_fb_llqdnpc29" NpcName="守护石灵"/>
+	<Property ID="Trigger189" Name="触发器107" FuncID="7" NpcID="fb_llqd_045_L2" Desc="ui_fb_llqdnpc28,ui_fb_llqdnpc29" NpcName="魔法炮塔"/>
+	<Property ID="Trigger200" Name="触发器108" FuncID="7" NpcID="fb_llqd_047_L2" Desc="ui_fb_llqdnpc28,ui_fb_llqdnpc29" NpcName="攻击火炮"/>
+	<Property ID="Trigger201" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ211_0001" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger202" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ211_0002" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger203" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ211_0003" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger204" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ211_0004" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger205" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ211_0005" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger206" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ211_0006" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger207" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ211_0007" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger208" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ211_0008" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger209" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ211_0009" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger210" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ211_0010" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger211" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ211_0011" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger212" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ211_0012" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger213" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ211_0013" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger214" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ211_0014" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger215" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ211_0015" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger216" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ211_0016" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger217" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ211_0017" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger218" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ211_0018" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger219" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ211_0019" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger220" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ211_0020" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger221" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ211_0021" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger222" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ211_0022" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger223" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ211_0023" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger224" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ211_0024" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger225" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZLNLJ210_0021" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger226" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZLNLJ210_0022" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger227" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZLNLJ210_0023" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger228" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZLNLJ210_0024" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger229" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZLNLJ210_0025" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger230" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZLNLJ210_0026" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger231" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZLNLJ210_0027" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger232" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZLNLJ210_0028" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger233" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZLNLJ210_0029" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger234" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZLNLJ210_0030" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger235" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZLNLJ210_0031" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger236" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZLNLJ210_0032" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger237" Name="追踪格里芬的脚印" FuncID="7" NpcID="npc_qhS015_0001" Desc="ui_fb_plgdnpc001" NpcName="格里芬的脚印"/>
+	<Property ID="Trigger238" Name="黑剑士的拷问" FuncID="7" NpcID="Event_zlm002_0024" Desc="ui_fb_plgdnpc002" NpcName="黑剑士的拷问"/>
+	<Property ID="Trigger239" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ216_0021" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger240" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ216_0022" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger241" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ216_0023" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger242" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ216_0024" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger243" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ216_0025" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger244" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ216_0026" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger245" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ216_0027" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger246" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ216_0028" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger247" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ216_0029" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger248" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ216_0030" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger249" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ216_0031" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger250" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ216_0032" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger251" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ216_0033" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger252" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ216_0034" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger253" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ216_0035" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger254" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ216_0036" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger255" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ216_0037" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger256" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ216_0038" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger257" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ216_0039" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger258" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ216_0040" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger259" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ216_0041" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger260" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ216_0042" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger261" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ216_0043" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger262" Name="创建防御炮塔" FuncID="7" NpcID="npc_ZQNLJ216_0044" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger263" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ_0035" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger264" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ_0036" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger265" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ_0037" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger266" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ_0038" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger267" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ_0039" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger268" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ_0040" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger269" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ_0041" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger270" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ_0042" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger271" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ_0043" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger272" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ_0044" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger273" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ_0045" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger274" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ_0046" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger275" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ_0047" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger276" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ_0048" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger277" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ_0049" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger278" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ_0050" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger279" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ_0051" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger280" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ_0052" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger281" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ_0053" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger282" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ_0054" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger283" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ_0055" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger284" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ_0056" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger285" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ_0057" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger287" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ_0058" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger288" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ213_0001" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger289" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ213_0002" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger290" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ213_0003" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger291" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ213_0004" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger292" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ213_0005" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger293" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ213_0006" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger294" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ213_0007" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger295" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ213_0008" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger296" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ213_0009" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger297" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ213_0010" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger298" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ213_0011" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger299" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ213_0012" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger300" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ213_0013" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger301" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ213_0014" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger302" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ213_0015" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger303" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ213_0016" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger304" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ213_0017" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger305" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ213_0018" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger306" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ213_0019" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger307" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ213_0020" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger308" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ213_0021" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger309" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ213_0022" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger310" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ213_0023" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger311" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ213_0024" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger312" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ215_0001" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger313" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ215_0002" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger314" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ215_0003" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger315" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ215_0004" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger316" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ215_0005" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger317" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ215_0006" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger318" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ215_0007" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger319" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ215_0008" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger320" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ215_0009" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger321" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ215_0010" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger322" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ215_0011" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger323" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ215_0012" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger324" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ215_0013" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger325" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ215_0014" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger326" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ215_0015" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger327" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ215_0016" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger328" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ215_0017" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger329" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ215_0018" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger330" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ215_0019" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger331" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ215_0020" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger332" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ215_0021" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger333" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ215_0022" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger334" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ215_0023" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger335" Name="创建防御炮塔" FuncID="7" NpcID="npc_QHNLJ215_0024" Desc="npctalkd58" NpcName="防御炮塔"/>
+	<Property ID="Trigger336" Name="打开界面" FuncID="7" NpcID="npc_E3001" Desc="ui_E3_003" NpcName="蒸汽"/>
+	<Property ID="Trigger337" Name="打开界面" FuncID="7" NpcID="npc_E3002" Desc="ui_E3_003" NpcName="蒸汽"/>
+	<Property ID="Trigger338" Name="打开界面" FuncID="7" NpcID="npc_E3003" Desc="ui_E3_003" NpcName="奇幻"/>
+	<Property ID="Trigger339" Name="打开界面" FuncID="7" NpcID="npc_E3004" Desc="ui_E3_003" NpcName="奇幻"/>
+	<Property ID="Trigger340" Name="打开界面" FuncID="7" NpcID="npc_E3005" Desc="ui_E3_003" NpcName="奇幻"/>
+	<Property ID="Trigger341" Name="打开界面" FuncID="7" NpcID="npc_E3006" Desc="ui_E3_003" NpcName="奇幻"/>
+	<Property ID="Trigger342" Name="打开界面" FuncID="7" NpcID="npc_E3007" Desc="ui_E3_003" NpcName="奇幻"/>
+	<Property ID="Trigger343" Name="打开界面" FuncID="7" NpcID="npc_E3008" Desc="ui_E3_003" NpcName="奇幻"/>
+	<Property ID="npc_show_bc012" Name="召唤载具012" FuncID="23" NpcID="npc_zlm001_0040" BConfigId="wangyu_003,wangyu_004" BCFunc="1,1" BCDesc="ui_ridebc3,ui_ridebc2" NpcName="亡语湿地源机构探索队营地"/>
+	<Property ID="npc_show_bc014" Name="召唤载具014" FuncID="23" NpcID="npc_zlm001_0044" BConfigId="wangyu_005,wangyu_006" BCFunc="1,1" BCDesc="ui_ridebc3,ui_ridebc1" NpcName="亡语湿地源机构侦察站"/>
+	<Property ID="npc_show_bc016" Name="召唤载具016" FuncID="23" NpcID="npc_zlm001_0089" BConfigId="wangyu_008,wangyu_009" BCFunc="1,1" BCDesc="ui_ridebc4,ui_ridebc5" NpcName="亡语湿地源机构侦察站"/>
+	<Property ID="npc_show_bc018" Name="召唤载具018" FuncID="23" NpcID="npc_zlm001_0072" BConfigId="wangyu_007" BCFunc="1" BCDesc="ui_ridebc6" NpcName="亡语湿地源机构探索队营地（任务）"/>
+	<Property ID="npc_show_bc019" Name="召唤载具019" FuncID="23" NpcID="npc_zlm007_0073" BConfigId="fangzhu_001,fangzhu_003" BCFunc="1,1" BCDesc="ui_ridebc7,ui_ridebc8" NpcName="放逐之地自由之塔"/>
+	<Property ID="npc_show_bc021" Name="召唤载具021" FuncID="23" NpcID="npc_zlm007_0007" BConfigId="fangzhu_002" BCFunc="1" BCDesc="ui_ridebc9" NpcName="放逐之地智慧崖"/>
+	<Property ID="npc_show_bc022" Name="召唤载具022" FuncID="23" NpcID="npc_zlm007_0044" BConfigId="fangzhu_004" BCFunc="1" BCDesc="ui_ridebc9" NpcName="放逐之地荒野林地"/>
+	<Property ID="npc_show_bc032" Name="召唤载具032" FuncID="23" NpcID="npc_zlm005_0020" BConfigId="nufeng_001" BCFunc="1" BCDesc="ui_ridebc18" NpcName="机械鸟"/>
+	<Property ID="npc_show_bc033" Name="召唤载具033" FuncID="23" NpcID="npc_zlm005_0074" BConfigId="nufeng_002" BCFunc="1" BCDesc="ui_ridebc19" NpcName="机械鸟"/>
+	<Property ID="npc_show_bc034" Name="召唤载具034" FuncID="23" NpcID="npc_zlm005_0033" BConfigId="nufeng_003" BCFunc="1" BCDesc="ui_ridebc18" NpcName="飞龙"/>
+	<Property ID="npc_show_bc035" Name="召唤载具035" FuncID="23" NpcID="npc_zlm005_0044" BConfigId="nufeng_004" BCFunc="1" BCDesc="ui_ridebc20" NpcName="飞龙"/>
+	<Property ID="npc_show_bc036" Name="召唤载具036" FuncID="23" NpcID="npc_zlm006_0011" BConfigId="lingxin_001" BCFunc="1" BCDesc="ui_ridebc21" NpcName="机械鸟"/>
+	<Property ID="npc_show_bc037" Name="召唤载具037" FuncID="23" NpcID="npc_zlm006_0080" BConfigId="lingxin_002" BCFunc="1" BCDesc="ui_ridebc22" NpcName="机械鸟"/>
+	<Property ID="npc_show_bc038" Name="召唤载具038" FuncID="23" NpcID="npc_zlm006_0081" BConfigId="lingxin_003" BCFunc="1" BCDesc="ui_ridebc23" NpcName="机械鸟"/>
+	<Property ID="npc_show_bc039" Name="召唤载具039" FuncID="23" NpcID="npc_zlm006_0035" BConfigId="lingxin_004" BCFunc="1" BCDesc="ui_ridebc22" NpcName="机械鸟"/>
+	<Property ID="npc_show_bc040" Name="召唤载具040" FuncID="23" NpcID="npc_zlm006_0082" BConfigId="lingxin_005" BCFunc="1" BCDesc="ui_ridebc24" NpcName="飞龙"/>
+	<Property ID="npc_show_bc041" Name="召唤载具041" FuncID="23" NpcID="npc_zlm006_0084" BConfigId="lingxin_006" BCFunc="1" BCDesc="ui_ridebc25" NpcName="飞龙"/>
+	<Property ID="npc_show_bc042" Name="召唤载具042" FuncID="23" NpcID="npc_zlm006_0083" BConfigId="lingxin_007" BCFunc="1" BCDesc="ui_ridebc23" NpcName="飞龙"/>
+	<Property ID="npc_show_bc043" Name="召唤载具043" FuncID="23" NpcID="npc_zlm006_0085" BConfigId="lingxin_008" BCFunc="1" BCDesc="ui_ridebc25" NpcName="飞龙"/>
+	<Property ID="npc_show_bc044" Name="召唤载具044" FuncID="23" NpcID="npc_zlm006_0086" BConfigId="lingxin_009" BCFunc="1" BCDesc="ui_ridebc26" NpcName="飞翔机"/>
+	<Property ID="npc_show_bc045" Name="召唤载具045" FuncID="23" NpcID="npc_zlm009_0058" BConfigId="emohuan_001" BCFunc="1" BCDesc="ui_ridebc28" NpcName="飞翔机"/>
+	<Property ID="npc_show_bc046" Name="召唤载具046" FuncID="23" NpcID="npc_zlm009_0059" BConfigId="emohuan_002" BCFunc="1" BCDesc="ui_ridebc27" NpcName="飞翔机"/>
+	<Property ID="npc_show_bc047" Name="召唤载具047" FuncID="23" NpcID="npc_zlm014_0115" BConfigId="ailisika_001" BCFunc="1" BCDesc="ui_ridebc30" NpcName="空战机"/>
+	<Property ID="npc_show_bc048" Name="召唤载具048" FuncID="23" NpcID="npc_zlm014_0116" BConfigId="ailisika_002" BCFunc="1" BCDesc="ui_ridebc31" NpcName="翔藤架"/>
+	<Property ID="npc_show_bc049" Name="召唤载具049" FuncID="23" NpcID="npc_zqm001_0036" BConfigId="kewei_001" BCFunc="1" BCDesc="ui_ridebc32" NpcName="克威尔郡鲁尔勒机场"/>
+	<Property ID="npc_show_bc050" Name="召唤载具050" FuncID="23" NpcID="npc_zqm001_0035" BConfigId="kewei_002" BCFunc="1" BCDesc="ui_ridebc33" NpcName="克威尔郡鲁尔勒车站"/>
+	<Property ID="npc_show_bc053" Name="召唤载具053" FuncID="23" NpcID="npc_zlm014_0117" BConfigId="beishanmai_005" BCFunc="1" BCDesc="ui_ridebc38" NpcName="北山脉蒸汽轰炸机管理员"/>
+	<Property ID="npc_show_bc054" Name="召唤载具054" FuncID="23" NpcID="npc_zlm014_0118" BConfigId="beishanmai_004" BCFunc="1" BCDesc="ui_ridebc38" NpcName="北山脉奇幻轰炸机管理员"/>
+	<Property ID="npc_show_bc055" Name="召唤载具055" FuncID="23" NpcID="npc_zqm002_0031" BConfigId="liehen_001,liehen_002" BCFunc="1,1" BCDesc="ui_ridebcliehen01,ui_ridebcliehen02" NpcName="裂痕丘陵薄雾堡"/>
+	<Property ID="npc_show_bc057" Name="召唤载具057" FuncID="23" NpcID="npc_zqm002_0050" BConfigId="liehen_003" BCFunc="1" BCDesc="ui_ridebcliehen03" NpcName="裂痕丘陵繁星塔"/>
+	<Property ID="npc_show_bc058" Name="召唤载具058" FuncID="23" NpcID="npc_zqm002_0069" BConfigId="liehen_004" BCFunc="1" BCDesc="ui_ridebcliehen03" NpcName="裂痕丘陵墓地哨所"/>
+	<Property ID="npc_show_bc063" Name="召唤载具059" FuncID="23" NpcID="Newtest300_zq_1050" BConfigId="Newtest300_bc_01" BCFunc="1" BCDesc="ui_ridebc2001" NpcName="蒸汽载具大师"/>
+	<Property ID="npc_show_bc064" Name="召唤载具060" FuncID="23" NpcID="npc_qhm002_0013" BConfigId="zhaori_cj" BCFunc="1" BCDesc="ui_ridebc39" NpcName="飞龙"/>
+	<Property ID="npc_show_bc065" Name="召唤载具061" FuncID="23" NpcID="npc_qhm002_0157" BConfigId="zhaori_cj01" BCFunc="1" BCDesc="ui_ridebc40" NpcName="飞龙"/>
+	<Property ID="npc_show_bc066" Name="召唤载具062" FuncID="23" NpcID="npc_zqm001_0075" BConfigId="kwej_kx" BCFunc="1" BCDesc="ui_ridebc41" NpcName="空袭战机"/>
+	<Property ID="npc_show_bc068" Name="召唤载具063" FuncID="23" NpcID="npc_zlm011_0082" BConfigId="jrwx_2" BCFunc="1" BCDesc="ui_ridebc43"/>
+	<Property ID="npc_show_bc069" Name="召唤载具064" FuncID="23" NpcID="npc_zlm011_0055" BConfigId="jrwx_1" BCFunc="1" BCDesc="ui_ridebc44"/>
+	<Property ID="npc_show_bc071" Name="召唤载具065" FuncID="23" NpcID="npc_zqm003_0155" BConfigId="kdy_fein" BCFunc="1" BCDesc="ui_ridebc45"/>
+	<Property ID="npc_show_bc072" Name="召唤载具066" FuncID="23" NpcID="npc_zqm003_0154" BConfigId="kdy_jijia" BCFunc="1" BCDesc="ui_ridebc46"/>
+	<Property ID="npc_show_bc073" Name="召唤载具067" FuncID="23" NpcID="npc_zqm003_0087" BConfigId="kdy_zhiy" BCFunc="1" BCDesc="ui_ridebc47"/>
+	<Property ID="npc_show_bc074" Name="召唤载具068" FuncID="23" NpcID="npc_zqm001_0203" BConfigId="yatilun01" BCFunc="1" BCDesc="ui_ridebc48"/>
+	<Property ID="npc_show_bc075" Name="召唤载具069" FuncID="23" NpcID="npc_zqm001_0204" BConfigId="yatilun02,yatilun05" BCFunc="1,1" BCDesc="ui_ridebc49,ui_ridebc52"/>
+	<Property ID="npc_show_bc076" Name="召唤载具070" FuncID="23" NpcID="npc_zqm001_0205" BConfigId="yatilun03,yatilun04" BCFunc="1,1" BCDesc="ui_ridebc50,ui_ridebc51"/>
+	<Property ID="npc_show_bc077" Name="克威能量井战场01" FuncID="23" NpcID="npc_ZQEW_0040" BConfigId="zq_nljzc01_001,zq_nljzc01_002" BCFunc="1,1" BCDesc="ui_ridebczqnljzc01,ui_ridebczqnljzc02" NpcName="盖亚提炼所"/>
+	<Property ID="npc_show_bc078" Name="克威能量井战场02" FuncID="23" NpcID="npc_ZQEW_0046" BConfigId="zq_nljzc01_003,zq_nljzc01_004" BCFunc="1,1" BCDesc="ui_ridebczqnljzc03,ui_ridebczqnljzc04" NpcName="奥尔迪加能源工厂"/>
+	<Property ID="npc_show_bc079" Name="克威能量井战场03" FuncID="23" NpcID="npc_ZQEW_0052" BConfigId="zq_nljzc01_005,zq_nljzc01_006" BCFunc="1,1" BCDesc="ui_ridebczqnljzc05,ui_ridebczqnljzc06" NpcName="马休存储站"/>
+	<Property ID="npc_show_bc080" Name="朝日圣地井战场01" FuncID="23" NpcID="npc_QHEW_0038" BConfigId="qh_nljzc01_001,qh_nljzc01_002" BCFunc="1,1" BCDesc="ui_ridebcqhnljzc01,ui_ridebcqhnljzc02" NpcName="光辉岛"/>
+	<Property ID="npc_show_bc081" Name="朝日圣地井战场02" FuncID="23" NpcID="npc_QHEW_0040" BConfigId="qh_nljzc01_003,qh_nljzc01_004" BCFunc="1,1" BCDesc="ui_ridebcqhnljzc03,ui_ridebcqhnljzc04" NpcName="大地裂隙"/>
+	<Property ID="npc_show_bc082" Name="朝日圣地井战场03" FuncID="23" NpcID="npc_QHEW_0042" BConfigId="qh_nljzc01_005,qh_nljzc01_006" BCFunc="1,1" BCDesc="ui_ridebcqhnljzc05,ui_ridebcqhnljzc06" NpcName="守护谷地"/>
+	<Property ID="npc_show_bc083" Name="朝日圣地轰炸任务" FuncID="23" NpcID="npc_qhm002_0228" BConfigId="zhaori_hongzha" BCFunc="1" BCDesc="ui_ridebc53" NpcName="轰炸任务"/>
+	<Property ID="npc_show_bc084" Name="晨曦丘陵轰炸任务" FuncID="23" NpcID="npc_qhm003_0101" BConfigId="chenxi_hongzha" BCFunc="1" BCDesc="ui_ridebc54" NpcName="轰炸任务"/>
+	<Property ID="npc_show_bc089" Name="FPS战场蒸汽载具" FuncID="23" NpcID="npc_fpszc_0002" BConfigId="ZC_zqbc_001,ZC_zqbc_002,ZC_zqbc_003" BCFunc="1,1,1" BCDesc="ui_ride_fps01,ui_ride_fps02,ui_ride_fps03" NpcName="FPS战场"/>
+	<Property ID="npc_show_bc090" Name="FPS战场奇幻载具" FuncID="23" NpcID="npc_fpszc_0001" BConfigId="ZC_qhbc_001,ZC_qhbc_002,ZC_qhbc_003" BCFunc="1,1,1" BCDesc="ui_ride_fps04,ui_ride_fps05,ui_ride_fps06" NpcName="FPS战场"/>
+	<Property ID="npc_show_bc091" Name="军阶战场蒸汽飞行载具" FuncID="23" NpcID="npc_zqm405_00216" BConfigId="JJ_bc_002" BCFunc="1" BCDesc="ui_ridebc55"  NpcName="军阶战场蒸汽载具大师"/>
+	<Property ID="npc_show_bc092" Name="军阶战场奇幻飞行载具" FuncID="23" NpcID="npc_zqm405_00232" BConfigId="JJ_bc_005" BCFunc="1" BCDesc="ui_ridebc55"  NpcName="军阶战场蒸汽载具大师"/>
+	<Property ID="npc_show_bc093" Name="军阶战场蒸汽狙击载具" FuncID="23" NpcID="npc_zqm405_00224" BConfigId="JJ_zqbc_002" BCFunc="1" BCDesc="ui_ridebc56"  NpcName="军阶战场蒸汽载具大师"/>
+	<Property ID="npc_show_bc094" Name="军阶战场奇幻狙击载具" FuncID="23" NpcID="npc_zqm405_00242" BConfigId="JJ_qhbc_002" BCFunc="1" BCDesc="ui_ridebc56"  NpcName="军阶战场蒸汽载具大师"/>
+	<Property ID="life_occ_npc_zq_0" Name="冶炼NPC" FuncID="36" NpcID="Newtest300_qh_028" OccupType="1" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_zq_11" Name="锻造训练师" FuncID="36" NpcID="npc_zqm001_0185" OccupType="1" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_zq_12" Name="锻造训练师" FuncID="36" NpcID="npc_zqm003_0128" OccupType="1" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_zq_13" Name="锻造训练师" FuncID="36" NpcID="npc_zqm004_0123" OccupType="1" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_zq_14" Name="锻造训练师" FuncID="36" NpcID="npc_zqm005_0138" OccupType="1" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_zq_15" Name="锻造训练师" FuncID="36" NpcID="npc_zlm010_0146" OccupType="1" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_zq_21" Name="裁缝训练师" FuncID="36" NpcID="npc_zqm001_0187" OccupType="2" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_zq_22" Name="裁缝训练师" FuncID="36" NpcID="npc_zqm003_0130" OccupType="2" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_zq_23" Name="裁缝训练师" FuncID="36" NpcID="npc_zqm004_0125" OccupType="2" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_zq_24" Name="裁缝训练师" FuncID="36" NpcID="npc_zqm005_0140" OccupType="2" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_zq_25" Name="裁缝训练师" FuncID="36" NpcID="npc_zlm010_0148" OccupType="2" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_zq_31" Name="炼金训练师" FuncID="36" NpcID="npc_zqm001_0188" OccupType="3" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_zq_32" Name="炼金训练师" FuncID="36" NpcID="npc_zqm003_0131" OccupType="3" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_zq_33" Name="炼金训练师" FuncID="36" NpcID="npc_zqm004_0126" OccupType="3" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_zq_34" Name="炼金训练师" FuncID="36" NpcID="npc_zqm005_0141" OccupType="3" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_zq_35" Name="炼金训练师" FuncID="36" NpcID="npc_zlm010_0149" OccupType="3" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_zq_41" Name="珠宝训练师" FuncID="36" NpcID="npc_zqm001_0186" OccupType="4" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_zq_42" Name="珠宝训练师" FuncID="36" NpcID="npc_zqm003_0129" OccupType="4" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_zq_43" Name="珠宝训练师" FuncID="36" NpcID="npc_zqm004_0124" OccupType="4" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_zq_44" Name="珠宝训练师" FuncID="36" NpcID="npc_zqm005_0139" OccupType="4" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_zq_45" Name="珠宝训练师" FuncID="36" NpcID="npc_zlm010_0147" OccupType="4" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_zq_51" Name="铸甲训练师" FuncID="36" NpcID="npc_zqm001_0207" OccupType="5" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_zq_52" Name="铸甲训练师" FuncID="36" NpcID="npc_zqm003_0169" OccupType="5" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_zq_53" Name="铸甲训练师" FuncID="36" NpcID="npc_zqm004_0130" OccupType="5" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_zq_54" Name="铸甲训练师" FuncID="36" NpcID="npc_zqm005_0143" OccupType="5" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_zq_55" Name="铸甲训练师" FuncID="36" NpcID="npc_zlm010_0176" OccupType="5" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_qh_11" Name="锻造训练师" FuncID="36" NpcID="npc_qhm003_0113" OccupType="1" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_qh_12" Name="锻造训练师" FuncID="36" NpcID="npc_qhm002_0183" OccupType="1" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_qh_13" Name="锻造训练师" FuncID="36" NpcID="npc_zlm002_0083" OccupType="1" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_qh_14" Name="锻造训练师" FuncID="36" NpcID="npc_qhm004_0066" OccupType="1" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_qh_15" Name="锻造训练师" FuncID="36" NpcID="npc_zlm010_0150" OccupType="1" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_qh_21" Name="裁缝训练师" FuncID="36" NpcID="npc_qhm003_0115" OccupType="2" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_qh_22" Name="裁缝训练师" FuncID="36" NpcID="npc_qhm002_0185" OccupType="2" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_qh_23" Name="裁缝训练师" FuncID="36" NpcID="npc_zlm002_0085" OccupType="2" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_qh_24" Name="裁缝训练师" FuncID="36" NpcID="npc_qhm004_0068" OccupType="2" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_qh_25" Name="裁缝训练师" FuncID="36" NpcID="npc_zlm010_0152" OccupType="2" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_qh_31" Name="炼金训练师" FuncID="36" NpcID="npc_qhm003_0116" OccupType="3" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_qh_32" Name="炼金训练师" FuncID="36" NpcID="npc_qhm002_0186" OccupType="3" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_qh_33" Name="炼金训练师" FuncID="36" NpcID="npc_zlm002_0086" OccupType="3" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_qh_34" Name="炼金训练师" FuncID="36" NpcID="npc_qhm004_0069" OccupType="3" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_qh_35" Name="炼金训练师" FuncID="36" NpcID="npc_zlm010_0153" OccupType="3" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_qh_41" Name="珠宝训练师" FuncID="36" NpcID="npc_qhm003_0114" OccupType="4" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_qh_42" Name="珠宝训练师" FuncID="36" NpcID="npc_qhm002_0184" OccupType="4" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_qh_43" Name="珠宝训练师" FuncID="36" NpcID="npc_zlm002_0084" OccupType="4" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_qh_44" Name="珠宝训练师" FuncID="36" NpcID="npc_qhm004_0067" OccupType="4" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_qh_45" Name="珠宝训练师" FuncID="36" NpcID="npc_zlm010_0151" OccupType="4" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_qh_51" Name="铸甲训练师" FuncID="36" NpcID="npc_qhm003_0127" OccupType="5" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_qh_52" Name="铸甲训练师" FuncID="36" NpcID="npc_qhm002_0200" OccupType="5" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_qh_53" Name="铸甲训练师" FuncID="36" NpcID="npc_zlm002_0089" OccupType="5" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_qh_54" Name="铸甲训练师" FuncID="36" NpcID="npc_qhm004_0071" OccupType="5" Comm="OccpType 生活类型"/>
+	<Property ID="life_occ_npc_qh_55" Name="铸甲训练师" FuncID="36" NpcID="npc_zlm010_0177" OccupType="5" Comm="OccpType 生活类型"/>
+	<Property ID="PVPTask" Name="PVPTask" FuncID="6" NpcID="npc_qhpvp001_0001" PVPTaskID="Task6" Desc="ui_pvp_task_descqh"/>
+	<Property ID="PVPTask1" Name="PVPTask" FuncID="6" NpcID="npc_zqpvp001_0002" PVPTaskID="Task10" Desc="ui_pvp_task_desczq"/>
+	<Property ID="PVPTask6" Name="PVPTask" FuncID="40" NpcID="npc_qhpvp002_0001" PVPTaskID="Task4" Desc="ui_ridebcqhkx02"/>
+	<Property ID="PVPTask7" Name="PVPTask" FuncID="40" NpcID="npc_zqpvp002_0001" PVPTaskID="Task5" Desc="ui_ridebczqkx02"/>
+	<Property ID="PVPTask2" Name="PVPTask" FuncID="6" NpcID="npc_qhpvp001_0002" PVPTaskID="Task6" Desc="ui_pvp_task_descqh"/>
+	<Property ID="PVPTask4" Name="PVPTask" FuncID="6" NpcID="npc_zqpvp001_0003" PVPTaskID="Task10" Desc="ui_pvp_task_descqh"/>
+	<Property ID="PVPTask8" Name="PVPTask" FuncID="41" NpcID="npc_zqpvp002_0002" PVPTaskID="Task4" AttackCarrer="PVP_kongxi001,PVP_kongxi001,PVP_kongxi001" Desc="ui_ridebczqkx01"/>
+	<Property ID="PVPTask9" Name="PVPTask" FuncID="41" NpcID="npc_qhpvp002_0002" PVPTaskID="Task5" AttackCarrer="PVP_kongxi002,PVP_kongxi002,PVP_kongxi002" Desc="ui_pvp_task_kxqh"/>
+	<Property ID="PVPTask36" Name="PVPTask" FuncID="49" NpcID="FB_SLZD_01" PVPTaskID="Task35,Task36" Desc="ui_pvp_task_shilian"/>
+	<Property ID="Ceshi_zq_1058" Name="监察员" FuncID="46" NpcID="Ceshi_zq_1058" NpcName="监察员" Desc="ui_prision_jcy"/>
+	<Property ID="Ceshi_qh_1058" Name="监察员" FuncID="46" NpcID="Ceshi_qh_1058" NpcName="监察员" Desc="ui_prision_jcy"/>
+	<Property ID="Ceshi_qh_1060" Name="神秘人" FuncID="43" NpcID="Ceshi_qh_1060" NpcName="神秘人" Desc="ui_prision_smr"/>
+	<Property ID="Ceshi_zq_1060" Name="神秘人" FuncID="43" NpcID="Ceshi_zq_1060" NpcName="神秘人" Desc="ui_prision_smr"/>
+	<Property ID="Ceshi_zq_1061" Name="向导" FuncID="44" NpcID="Ceshi_zq_1061" NpcName="向导" Desc="ui_prision_xd"/>
+	<Property ID="Ceshi_qh_1061" Name="向导" FuncID="44" NpcID="Ceshi_qh_1061" NpcName="向导" Desc="ui_prision_xd"/>
+	<Property ID="Ceshi_zq_1059" Name="典狱官" FuncID="45" NpcID="Ceshi_zq_1059" NpcName="典狱官" Desc="ui_prision_dyg"/>
+	<Property ID="Ceshi_qh_1059" Name="典狱官" FuncID="45" NpcID="Ceshi_qh_1059" NpcName="典狱官" Desc="ui_prision_dyg"/>
+	<Property ID="Transport044" Name="奥莱·希尔瓦纳" FuncID="22" NpcID="npc_zqm001_365" NpcName="奥莱·希尔瓦纳" TransPoint="64"/>
+	<Property ID="npc_ZQEW001_0084" Name="能量井停车管理员" FuncID="50" NpcID="npc_ZQEW001_0084" EnableFunc="1" NpcName="能量井停车管理员"/>
+	<Property ID="npc_QHEW002_0063" Name="能量井停车管理员" FuncID="50" NpcID="npc_QHEW002_0063" EnableFunc="1" NpcName="能量井停车管理员"/>
+	<Property ID="npc_ZLEW012_0058" Name="能量井停车管理员" FuncID="50" NpcID="npc_ZLEW012_0058" EnableFunc="1" NpcName="能量井停车管理员"/>
+	<Property ID="npc_show_bc085" Name="达贡盆地轰炸任务" FuncID="23" NpcID="npc_zlm012_0030" BConfigId="Carrier_dagong_2577" BCFunc="1" BCDesc="ui_ridebc53" NpcName="轰炸任务"/>
+	<Property ID="npc_show_bc088" NpcName="轰炸任务" Name="达贡轰炸任务" FuncID="23" NpcID="npc_zlm012_0027" BConfigId="Carrier_zlm012_002" BCFunc="1" BCDesc="ui_ridebc60"/>
+	<Property ID="Transport045" Name="莱戈·谢尔多" FuncID="22" NpcID="npc_zqm001_366" NpcName="莱戈·谢尔多" TransPoint="63"/>
+	<Property ID="Transport046" Name="詹姆斯·邦德儿" FuncID="22" NpcID="npc_zqm001_367" NpcName="詹姆斯·邦德儿" TransPoint="62"/>
+	<Property ID="Transport047" Name="巴赫·豪夫斯基" FuncID="22" NpcID="npc_zqm012_00207" NpcName="巴赫·豪夫斯基" TransPoint="65"/>
+	<Property ID="Transport048" Name="哈瑞斯·宾赛" FuncID="22" NpcID="npc_zqm012_00202" NpcName="哈瑞斯·宾赛" TransPoint="67"/>
+	<Property ID="Transport048_1" Name="拉格丝·特露儿" FuncID="22" NpcID="npc_zqm012_00203" NpcName="拉格丝·特露儿" TransPoint="66"/>
+	<Property ID="Transport049" Name="格丝·安露儿" FuncID="22" NpcID="npc_zqm012_00206" NpcName="格丝·安露儿" TransPoint="74"/>
+	<Property ID="Transport050" Name="加林古·殇" FuncID="22" NpcID="npc_zqm012_00205" NpcName="加林古·殇" TransPoint="73"/>
+	<Property ID="Transport051" Name="戈特·巨力" FuncID="22" NpcID="npc_qhm004_0201" NpcName="戈特·巨力" TransPoint="71"/>
+	<Property ID="Transport052" Name="蒙哥·破风" FuncID="22" NpcID="npc_qhm004_0202" NpcName="蒙哥·破风" TransPoint="70"/>
+	<Property ID="Transport053" Name="蒙多·死躯" FuncID="22" NpcID="npc_qhm004_0203" NpcName="蒙多·死躯" TransPoint="69"/>
+	<Property ID="Transport054" Name="蒙戈特·坚壁" FuncID="22" NpcID="npc_qhm004_0200" NpcName="蒙戈特·坚壁" TransPoint="68"/>
+	<Property ID="Transport055" Name="斯派洛·洛格" FuncID="22" NpcID="npc_qhm003_0302" NpcName="斯派洛·洛格" TransPoint="72"/>
+	<Property ID="Transport056" Name="萨姆·海德" FuncID="22" NpcID="npc_qhm003_0300" NpcName="萨姆·海德" TransPoint="76"/>
+	<Property ID="Transport057" Name="杰克·洛斯" FuncID="22" NpcID="npc_qhm003_0301" NpcName="杰克·洛斯" TransPoint="75"/>
+	<Property ID="Trigger238_1" Name="梅丽尔" FuncID="7" NpcID="npc_zqS011_0001" Desc="ui_Event_7015_01" NpcName="对话后7015事件开始刷怪"/>
+	<Property ID="life_occ_npc_qh_80" Name="卡斯·逐星" FuncID="36" NpcID="npc_zlm010_0300" OccupType="1" Comm="OccpType 生活类型"/>
+	<Property ID="Depot041_1" Name="仓库041" FuncID="20" NpcID="npc_zlm010_0305" EnableFunc="1" NpcName="特仑苏"/>
+	<Property ID="Depot042" Name="仓库042" FuncID="20" NpcID="npc_zlm010_0310" EnableFunc="1" NpcName="麦哲"/>
+	<Property ID="EAIGift001" FuncID="51" EnableFunc="1"  NpcID="npc_zqm001_0178"/>
+	<Property ID="EAIGift002" FuncID="51" EnableFunc="1"  NpcID="npc_zqm003_0152"/>
+	<Property ID="EAIGift003" FuncID="51" EnableFunc="1"  NpcID="npc_zlm010_0323"/>
+	<Property ID="EAIGift004" FuncID="51" EnableFunc="1"  NpcID="npc_zlm010_0324"/>
+  	<Property ID="npc_GRZJ_0001" Name="个人机械管理员" FuncID="111" NpcID="npc_GRZJ_0001" PerMakeID="1" NpcName="个人机械管理员"/>
+  	<Property ID="npc_GRZJ_0002" Name="个人机械管理员" FuncID="111" NpcID="npc_GRZJ_0002" PerMakeID="1" NpcName="个人机械管理员"/>
+  	<Property ID="npc_GRZJ_0003" Name="个人机械管理员" FuncID="111" NpcID="npc_GRZJ_0003" PerMakeID="1" NpcName="个人机械管理员"/>
+  	<Property ID="npc_GRZJ_0004" Name="个人骑兽管理员" FuncID="111" NpcID="npc_GRZJ_0004" PerMakeID="2" NpcName="个人骑兽管理员"/>
+  	<Property ID="npc_GRZJ_0005" Name="个人骑兽管理员" FuncID="111" NpcID="npc_GRZJ_0005" PerMakeID="2" NpcName="个人骑兽管理员"/>
+  	<Property ID="npc_GRZJ_0006" Name="个人骑兽管理员" FuncID="111" NpcID="npc_GRZJ_0006" PerMakeID="2" NpcName="个人骑兽管理员"/>
+  	<Property ID="npc_GRZJ_0007" Name="个人载具管理员" FuncID="111" NpcID="npc_GRZJ_0007" PerMakeID="3" NpcName="个人载具管理员"/>
+  	<Property ID="npc_GRZJ_0008" Name="个人机械管理员" FuncID="111" NpcID="npc_zqm405_00213" PerMakeID="1" NpcName="军阶战场载具管理员"/>
+  	<Property ID="npc_GRZJ_0009" Name="个人骑兽管理员" FuncID="111" NpcID="npc_zqm405_00229" PerMakeID="2" NpcName="军阶战场载具管理员"/>
+</Object>
+
+

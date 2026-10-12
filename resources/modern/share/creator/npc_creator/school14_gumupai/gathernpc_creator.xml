@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="EFA26E8676A8469BA9990E3FFEC947E1" x="-206.821" y="355.678" z="-318.491" radius="4.0" WakeupRange="4.0" ChaseRange="4.0" PatrolRange="4.0" TaskSubId="15451" TaskSubType="3" HateLink="1">
+            <item No="1" id="Gather_gmp_011" ay="5.428" amount="3" refreshtime="5" NotPositive="0" desc="蒲团">
+                <position x="-207.501" z="-316.680" ay="5.428" />
+                <position x="-206.630" z="-317.317" ay="5.428" />
+                <position x="-205.778" z="-317.783" ay="5.428" />
+            </item>
+        </creator>
+        <creator No="7FE0C33401E94106A355135A032955E1" x="-247.075" y="391.014" z="-522.071" radius="10.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" TaskSubId="15455" TaskSubType="3" HateLink="1">
+            <item No="1" id="Gather_gmp_012" ay="-1" amount="4" refreshtime="5" NotPositive="0" desc="蒲团">
+                <position x="-242.435" z="-521.879" ay="-1" />
+                <position x="-244.433" z="-521.852" ay="-1" />
+                <position x="-246.535" z="-521.822" ay="-1" />
+                <position x="-248.944" z="-521.826" ay="-1" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

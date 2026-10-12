@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="F2759E3AC865463FA0DA9B1CC37AF8D8" x="-26.206" y="10.861" z="0.240" radius="3.6" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="50_50">
+            <item No="1" id="npc_dynamicclone_002" ay="1.580" amount="4" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-23.781" z="-1.136" ay="1.580" />
+                <position x="-25.147" z="-2.256" />
+                <position x="-25.084" z="2.765" sx="1.140" sy="1.140" sz="1.140" ay="-3.068" />
+                <position x="-24.028" z="1.312" ay="1.530" />
+            </item>
+            <item No="2" id="npc_dynamicclone_001" amount="2" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-26.750" z="-2.340" />
+                <position x="-27.395" z="2.620" ay="2.985" />
+            </item>
+        </creator>
+        <creator No="5A4C908E2B484E13841DA440A6DE2C60" x="-81.508" y="12.083" z="-65.312" radius="2.2" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="49_49">
+            <item No="1" id="npc_dynamicclone_001" ay="1.565" amount="3" refreshtime="-1" NotPositive="0" desc="赤虹">
+                <position x="-81.189" z="-66.005" ay="1.565" />
+                <position x="-81.652" z="-64.528" ay="1.565" />
+                <position x="-80.632" z="-65.819" ay="1.565" />
+            </item>
+        </creator>
+        <creator No="AC9FB5011C7145769207C4E034E2AA03" x="-64.122" y="12.158" z="-76.285" radius="2.5" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="49_49">
+            <item No="1" id="npc_dynamicclone_002" ay="-3.130" amount="2" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-66.057" z="-74.527" ay="-3.130" />
+                <position x="-61.797" z="-74.599" ay="3.133" />
+                <position x="-64.050" z="-75.626" ay="-3.130" />
+            </item>
+        </creator>
+        <creator No="08C6D06744EA41308ED2F97FB24F92A5" x="-64.084" y="12.158" z="-52.929" radius="3.1" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="49_49">
+            <item No="1" id="npc_dynamicclone_007" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-64.539" z="-51.577" />
+            </item>
+            <item No="2" id="npc_dynamicclone_003" amount="2" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-61.579" z="-53.069" />
+                <position x="-66.526" z="-51.911" />
+            </item>
+        </creator>
+        <creator No="707BB5194509459CB71CD234CE8A541F" x="-81.768" y="10.831" z="-128.457" radius="5.0" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="48_49">
+            <item No="1" id="npc_dynamicclone_001" amount="2" refreshtime="-1" NotPositive="0" desc="赤虹">
+                <position x="-83.178" z="-131.397" />
+                <position x="-79.446" z="-127.259" />
+            </item>
+        </creator>
+        <creator No="D5A9AC2B50914DAB861FEB253B5E185A" x="-55.155" y="10.847" z="-131.640" radius="2.3" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="48_49">
+            <item No="1" id="npc_dynamicclone_009" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-56.229" z="-129.957" />
+            </item>
+            <item No="2" id="npc_dynamicclone_003" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-56.919" z="-132.231" />
+            </item>
+            <item No="3" id="npc_dynamicclone_004" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-54.156" z="-131.030" />
+            </item>
+        </creator>
+        <creator No="09E2CE283DEE4482A561AFD76DA3AC58" x="-59.389" y="11.300" z="-113.394" radius="2.7" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="48_49">
+            <item No="1" id="npc_dynamicclone_004" amount="2" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-59.054" z="-111.824" />
+                <position x="-58.466" z="-114.180" />
+            </item>
+        </creator>
+        <creator No="A2D45B970CF74A59A3408308EE980F5B" x="-145.941" y="10.594" z="-127.791" radius="5.0" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="48_48">
+            <item No="1" id="npc_dynamicclone_001" ay="3.050" amount="3" refreshtime="-1" NotPositive="0" desc="赤虹">
+                <position x="-148.528" z="-128.470" ay="3.050" />
+                <position x="-143.363" z="-129.604" ay="3.050" />
+                <position x="-145.980" z="-124.824" ay="3.050" />
+            </item>
+        </creator>
+        <creator No="689AA4C6249B47428055093CE10C064E" x="-117.506" y="10.894" z="-125.791" radius="2.2" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="48_48">
+            <item No="1" id="npc_dynamicclone_004" amount="2" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-116.082" z="-126.702" />
+                <position x="-117.122" z="-124.415" ay="2.990" />
+            </item>
+            <item No="2" id="npc_dynamicclone_009" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本精英" />
+        </creator>
+        <creator No="CC2EEDB19AC24E94888AAE74249469A4" x="-179.141" y="11.744" z="-137.707" radius="5.0" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="48_47">
+            <item No="1" id="npc_dynamicclone_001" amount="3" refreshtime="-1" NotPositive="0" desc="赤虹">
+                <position x="-176.725" z="-137.272" />
+                <position x="-179.803" z="-135.265" />
+                <position x="-181.354" z="-139.367" />
+            </item>
+        </creator>
+        <creator No="3AAA84A5D4EA4E06BD0DCEEA7D043F3E" x="-189.188" y="11.177" z="-108.317" radius="2.0" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="48_47">
+            <item No="1" id="npc_dynamicclone_001" ay="-1.445" amount="3" refreshtime="-1" NotPositive="0" desc="赤虹">
+                <position x="-187.813" z="-108.794" ay="-1.445" />
+                <position x="-188.619" z="-107.444" ay="-1.445" />
+                <position x="-189.958" z="-107.366" ay="-1.445" />
+            </item>
+        </creator>
+        <creator No="98D9C3D5231C438B99646F61BD9C7F43" x="-196.398" y="11.587" z="-107.787" radius="1.6" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="48_47">
+            <item No="1" id="npc_dynamicclone_005" ay="2.160" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-196.832" z="-108.757" ay="2.160" />
+            </item>
+            <item No="2" id="npc_dynamicclone_009" ay="1.570" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-196.703" z="-106.923" ay="1.570" />
+            </item>
+        </creator>
+        <creator No="6F8D623C6353424F9F004A81A1D034D4" x="-192.201" y="11.138" z="-81.009" radius="3.3" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="49_47">
+            <item No="1" id="npc_dynamicclone_006" ay="1.455" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-192.235" z="-83.058" ay="1.455" />
+            </item>
+            <item No="2" id="npc_dynamicclone_009" ay="1.060" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-194.810" z="-81.288" ay="1.060" />
+            </item>
+            <item No="3" id="npc_dynamicclone_007" ay="1.010" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-193.503" z="-79.413" ay="1.010" />
+            </item>
+        </creator>
+        <creator No="9E8F07AE49DB488DB8286B19C3D14015" x="-212.215" y="11.138" z="-64.274" radius="3.5" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="49_47">
+            <item No="1" id="npc_dynamicclone_009" ay="1.400" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-209.013" z="-67.113" ay="1.400" />
+            </item>
+            <item No="2" id="npc_dynamicclone_004" ay="1.255" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-212.658" z="-68.262" ay="1.255" />
+            </item>
+            <item No="3" id="npc_dynamicclone_005" ay="1.560" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-212.157" z="-61.921" ay="1.560" />
+            </item>
+            <item No="4" id="npc_dynamicclone_006" ay="1.735" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-211.236" z="-59.548" ay="1.735" />
+            </item>
+        </creator>
+        <creator No="F4E97C0C6EE04E819125C3BE729D17F6" x="-196.269" y="11.483" z="-46.339" radius="2.0" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="49_47">
+            <item No="1" id="npc_dynamicclone_005" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="2" id="npc_dynamicclone_006" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="3" id="npc_dynamicclone_009" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+        </creator>
+        <creator No="B67BE72236F545AB8623B18B51793E36" x="-191.892" y="10.633" z="-19.537" radius="2.8" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="50_47">
+            <item No="1" id="npc_dynamicclone_006" ay="1.975" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="2" id="npc_dynamicclone_007" ay="1.975" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="3" id="npc_dynamicclone_008" ay="1.975" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+        </creator>
+        <creator No="CD2408C5074F4C389C21663CAE1CFDD6" x="-185.632" y="11.284" z="-1.782" radius="5.0" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="50_47">
+            <item No="1" id="npc_dynamicclone_001" ay="1.975" amount="4" refreshtime="-1" NotPositive="0" desc="赤虹">
+                <position x="-183.084" z="-3.690" ay="1.975" />
+                <position x="-185.330" z="1.342" ay="1.975" />
+                <position x="-187.266" z="0.321" ay="1.975" />
+                <position x="-187.652" z="1.620" ay="1.975" />
+            </item>
+        </creator>
+        <creator No="380BD75890AE4579A8F0792DA72B7297" x="-197.068" y="11.138" z="24.073" radius="2.4" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="50_47">
+            <item No="1" id="npc_dynamicclone_007" ay="2.995" amount="2" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-196.667" z="22.163" ay="2.995" />
+                <position x="-195.893" z="22.586" ay="2.995" />
+            </item>
+            <item No="2" id="npc_dynamicclone_006" ay="2.995" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+        </creator>
+        <creator No="3EBC8DF78C0A476A96A5A6B650C9669C" x="-201.217" y="11.284" z="0.800" radius="5.0" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="50_47">
+            <item No="1" id="npc_dynamicclone_007" ay="1.975" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="2" id="npc_dynamicclone_006" ay="1.975" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="3" id="npc_dynamicclone_008" ay="1.975" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+        </creator>
+        <creator No="B5CACEA1F060465B8F2EA5D217711AF8" x="-200.164" y="10.685" z="77.280" radius="5.0" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="51_47">
+            <item No="1" id="npc_dynamicclone_001" ay="2.995" amount="3" refreshtime="-1" NotPositive="0" desc="赤虹">
+                <position x="-200.237" z="76.019" ay="2.995" />
+                <position x="-199.516" z="80.485" ay="2.995" />
+                <position x="-202.240" z="80.975" ay="2.995" />
+            </item>
+        </creator>
+        <creator No="1CBBD358E45846D1A5CA9EDF80E6EB56" x="-178.662" y="11.585" z="71.848" radius="3.0" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="51_47">
+            <item No="1" id="npc_dynamicclone_009" ay="2.995" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="2" id="npc_dynamicclone_006" ay="2.995" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="3" id="npc_dynamicclone_007" ay="2.995" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+        </creator>
+        <creator No="7D3E98CD692B4DC19A50EC21DDC81DE6" x="-190.884" y="10.975" z="86.343" radius="5.0" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="52_47">
+            <item No="1" id="npc_dynamicclone_009" ay="2.995" amount="2" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-193.417" z="86.099" ay="2.995" />
+                <position x="-188.583" z="86.542" ay="2.995" />
+            </item>
+            <item No="2" id="npc_dynamicclone_006" ay="2.995" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+        </creator>
+        <creator No="8481D3CB712044A49A12E60860FB396D" x="-195.748" y="10.744" z="59.174" radius="2.7" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="51_47">
+            <item No="1" id="npc_dynamicclone_006" ay="2.995" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="2" id="npc_dynamicclone_008" ay="2.995" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+        </creator>
+        <creator No="695EEC14B1334E67B197AA24BBF4FDBD" x="-139.664" y="12.158" z="3.792" radius="1.7" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="50_48">
+            <item No="1" id="npc_dynamicclone_009" ay="5.175" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="2" id="npc_dynamicclone_007" ay="5.175" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+        </creator>
+        <creator No="AFC5F063FC4C4A0089E42E86AE305B6C" x="-134.685" y="12.158" z="-8.608" radius="2.2" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="50_48">
+            <item No="1" id="npc_dynamicclone_008" ay="5.175" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-134.685" z="-8.608" ay="5.175" />
+                <position x="-133.779" z="-8.185" ay="5.175" />
+            </item>
+            <item No="2" id="npc_dynamicclone_007" ay="5.175" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+        </creator>
+        <creator No="922EFA0B9D9044A3AB55BA7476CC52B0" x="-122.571" y="12.158" z="-6.818" radius="2.7" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="50_48">
+            <item No="1" id="npc_dynamicclone_001" ay="5.175" amount="3" refreshtime="-1" NotPositive="0" desc="赤虹">
+                <position x="-122.941" z="-7.318" ay="5.175" />
+                <position x="-123.324" z="-8.391" ay="5.175" />
+                <position x="-120.948" z="-7.355" ay="5.175" />
+            </item>
+        </creator>
+        <creator No="AE2EC6F1CAE54D9D8198133C9CB4695C" x="-248.663" y="10.443" z="1.496" radius="2.8" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="50_46">
+            <item No="1" id="npc_dynamicclone_001" ay="2.292" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="2" id="npc_dynamicclone_002" ay="2.562" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-248.454" z="4.489" ay="2.562" />
+                <position x="-249.292" z="2.273" ay="2.292" />
+            </item>
+        </creator>
+        <creator No="BAC26038E4E243F292A8D73F3783C2AF" x="-256.574" y="11.070" z="-16.636" radius="3.3" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="50_46">
+            <item No="1" id="npc_dynamicclone_002" ay="5.617" amount="3" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-254.588" z="-15.098" ay="5.617" />
+                <position x="-256.507" z="-14.373" ay="5.617" />
+                <position x="-258.473" z="-17.183" ay="5.617" />
+            </item>
+        </creator>
+        <creator No="F6395FA011614A7F888B3AFC78F73D3A" x="-243.318" y="10.880" z="-60.400" radius="3.6" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="49_46">
+            <item No="1" id="npc_dynamicclone_005" ay="1.849" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="2" id="npc_dynamicclone_006" ay="1.849" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="3" id="npc_dynamicclone_007" ay="1.849" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+        </creator>
+        <creator No="EB11CF8D8625454584AE87A43D089BEF" x="-262.127" y="11.017" z="-56.310" radius="3.4" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="49_46">
+            <item No="1" id="npc_dynamicclone_004" ay="1.849" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="2" id="npc_dynamicclone_009" ay="1.849" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="3" id="npc_dynamicclone_005" ay="1.849" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+        </creator>
+        <creator No="D771842173FA4C6E9B2BF46E6CD411EC" x="-76.697" y="10.993" z="-1.544" radius="3.1" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="50_49">
+            <item No="1" id="npc_dynamicclone_001" ay="1.849" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="2" id="npc_dynamicclone_002" ay="1.849" amount="2" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-76.550" z="0.967" ay="1.849" />
+                <position x="-77.234" z="-3.189" ay="1.849" />
+            </item>
+        </creator>
+        <creator No="7776314411AD471E910A8F34C8E5DAD0" x="-56.731" y="11.900" z="-6.354" radius="1.8" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="50_49">
+            <item No="1" id="npc_dynamicclone_005" ay="0.054" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="2" id="npc_dynamicclone_009" ay="0.054" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+        </creator>
+        <creator No="F9E30655F2124B4F9BB5572F6F883A47" x="-57.811" y="11.386" z="8.210" radius="2.2" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="50_49">
+            <item No="1" id="npc_dynamicclone_007" ay="3.539" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="2" id="npc_dynamicclone_009" ay="3.539" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+        </creator>
+        <creator No="534AD6D30C9240FEB65203EC8CC0C23D" x="-62.460" y="11.138" z="54.071" radius="2.7" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="51_49">
+            <item No="1" id="npc_dynamicclone_006" ay="2.854" amount="2" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-63.777" z="52.958" ay="2.854" />
+                <position x="-60.656" z="53.720" ay="2.854" />
+            </item>
+            <item No="2" id="npc_dynamicclone_009" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本精英" />
+        </creator>
+        <creator No="6BA3C839142146E69F7A730534C0B1E1" x="-65.800" y="11.138" z="76.896" radius="2.8" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="51_49">
+            <item No="1" id="npc_dynamicclone_007" ay="0.084" amount="2" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-67.419" z="77.725" ay="0.084" />
+                <position x="-63.935" z="77.734" ay="0.084" />
+            </item>
+            <item No="2" id="npc_dynamicclone_009" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本精英" />
+        </creator>
+        <creator No="1CF6DC2F0BE045909E37529338DCFF59" x="-75.288" y="11.267" z="122.746" radius="2.8" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="52_49">
+            <item No="1" id="npc_dynamicclone_004" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-76.692" z="122.488" />
+            </item>
+            <item No="2" id="npc_dynamicclone_006" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-74.013" z="123.706" />
+            </item>
+            <item No="3" id="npc_dynamicclone_009" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-74.109" z="121.211" />
+            </item>
+        </creator>
+        <creator No="DA2FF433F245468B88941DC5013EB000" x="-67.363" y="11.138" z="141.448" radius="3.3" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="52_49">
+            <item No="1" id="npc_dynamicclone_001" ay="4.087" amount="3" refreshtime="-1" NotPositive="0" desc="赤虹">
+                <position x="-66.898" z="139.953" ay="4.087" />
+                <position x="-65.556" z="141.409" ay="4.087" />
+                <position x="-68.167" z="142.796" ay="4.087" />
+            </item>
+        </creator>
+        <creator No="C2456B9A63E74632B21F6CECDAA985A6" x="-124.142" y="11.219" z="117.064" radius="2.2" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="52_48">
+            <item No="1" id="npc_dynamicclone_004" ay="4.087" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="2" id="npc_dynamicclone_009" ay="4.087" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+        </creator>
+        <creator No="BF5F35765FF040029CD0F25F335E5442" x="-132.145" y="11.219" z="116.497" radius="2.3" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="52_48">
+            <item No="1" id="npc_dynamicclone_009" ay="1.239" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="2" id="npc_dynamicclone_007" ay="1.239" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+        </creator>
+        <creator No="78B4DC79999349BB9170B66129975E7E" x="-149.748" y="11.138" z="127.232" radius="5.0" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="52_48">
+            <item No="1" id="npc_dynamicclone_001" ay="3.055" amount="3" refreshtime="-1" NotPositive="0" desc="赤虹">
+                <position x="-149.915" z="125.471" ay="3.055" />
+                <position x="-149.733" z="130.645" ay="3.055" />
+                <position x="-150.326" z="128.032" ay="3.055" />
+            </item>
+        </creator>
+        <creator No="459900122F1A4BE79B9832F16AC0730E" x="-184.697" y="11.284" z="144.948" radius="3.3" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="52_47">
+            <item No="1" id="npc_dynamicclone_001" ay="3.644" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="2" id="npc_dynamicclone_002" ay="3.644" amount="2" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-186.484" z="143.822" ay="3.644" />
+                <position x="-185.655" z="145.669" ay="3.644" />
+            </item>
+        </creator>
+        <creator No="A0E99957D01D4A0EAD591BFEEC46DFFD" x="-170.347" y="11.878" z="126.212" radius="3.2" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="52_47">
+            <item No="1" id="npc_dynamicclone_004" ay="0.886" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="2" id="npc_dynamicclone_005" ay="0.886" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+        </creator>
+        <creator No="1976B649033747A49EA7C2239DF61514" x="-210.353" y="11.138" z="125.247" radius="2.1" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="52_47">
+            <item No="1" id="npc_dynamicclone_009" ay="0.821" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="2" id="npc_dynamicclone_004" ay="0.821" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="3" id="npc_dynamicclone_006" ay="0.821" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+        </creator>
+        <creator No="3AB54BB88713461F9440AF56B96300BF" x="-196.465" y="11.138" z="143.005" radius="2.4" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="52_47">
+            <item No="1" id="npc_dynamicclone_006" ay="2.941" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="2" id="npc_dynamicclone_008" ay="2.941" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+        </creator>
+        <creator No="6DE343B2493F487183F184436A9C0421" x="-240.029" y="11.151" z="117.473" radius="1.9" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="52_46">
+            <item No="1" id="npc_dynamicclone_009" ay="0.821" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="2" id="npc_dynamicclone_005" ay="0.821" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="3" id="npc_dynamicclone_006" ay="0.821" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+        </creator>
+        <creator No="7F5B428B2BFD44FFAE7311F8F2ED1583" x="-260.760" y="10.501" z="137.252" radius="2.4" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="52_46">
+            <item No="1" id="npc_dynamicclone_001" ay="2.181" amount="3" refreshtime="-1" NotPositive="0" desc="赤虹">
+                <position x="-262.036" z="137.070" ay="2.181" />
+                <position x="-260.826" z="136.255" ay="2.181" />
+                <position x="-259.671" z="138.257" ay="2.181" />
+            </item>
+        </creator>
+        <creator No="29C0148F4E1A4ED69C694770C3ABAC61" x="-265.666" y="10.499" z="119.925" radius="2.0" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="52_46">
+            <item No="1" id="npc_dynamicclone_006" ay="0.821" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="2" id="npc_dynamicclone_009" ay="0.821" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="3" id="npc_dynamicclone_007" ay="0.821" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+        </creator>
+        <creator No="3742C336BCDD4E83ABAA04811E5FA542" x="-124.240" y="11.138" z="48.824" radius="2.0" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="51_48">
+            <item No="1" id="npc_dynamicclone_006" ay="5.686" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="2" id="npc_dynamicclone_008" ay="5.651" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="3" id="npc_dynamicclone_009" ay="5.981" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="4" id="npc_dynamicclone_007" ay="6.046" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+        </creator>
+        <creator No="8902EF020AB34D4FA49FDA0B983B231C" x="-142.332" y="11.138" z="47.049" radius="5.0" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="51_48">
+            <item No="1" id="npc_dynamicclone_009" ay="5.981" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="2" id="npc_dynamicclone_007" ay="5.981" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="3" id="npc_dynamicclone_006" ay="0.023" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+            <item No="4" id="npc_dynamicclone_008" ay="5.981" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+        </creator>
+        <creator No="5C5A7863BAE84061A7830B0B4BFC3705" x="-141.013" y="11.138" z="59.952" radius="2.5" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="51_48">
+            <item No="1" id="npc_dynamicclone_001" ay="0.023" amount="3" refreshtime="-1" NotPositive="0" desc="赤虹">
+                <position x="-142.322" z="60.512" ay="0.023" />
+                <position x="-141.244" z="58.519" ay="0.023" />
+                <position x="-139.826" z="61.245" ay="0.023" />
+            </item>
+        </creator>
+        <creator No="B424AB4089814BCFBE91E5021CC3BB81" x="-256.816" y="11.138" z="52.919" radius="2.5" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="51_46">
+            <item No="1" id="npc_dynamicclone_001" ay="3.053" amount="3" refreshtime="-1" NotPositive="0" desc="赤虹">
+                <position x="-255.892" z="51.653" ay="3.053" />
+                <position x="-256.938" z="51.141" ay="3.053" />
+                <position x="-257.971" z="52.065" ay="3.053" />
+            </item>
+        </creator>
+        <creator No="14F7DD2D126249CDA58D9356A6A27F02" x="-253.960" y="10.708" z="77.443" radius="2.5" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="51_46">
+            <item No="1" id="npc_dynamicclone_003" ay="0.023" amount="2" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-252.174" z="77.942" ay="0.023" />
+                <position x="-255.440" z="77.929" ay="0.023" />
+            </item>
+            <item No="2" id="npc_dynamicclone_004" ay="2.181" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+        </creator>
+        <creator No="5F22ECB78CC74C0A9680AC8914B9500A" x="-281.063" y="11.586" z="-127.513" radius="3.0" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="48_46">
+            <item No="1" id="npc_dynamicclone_001" ay="-1.310" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-280.587" z="-125.084" ay="-1.310" />
+            </item>
+            <item No="2" id="npc_dynamicclone_003" ay="-0.820" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-281.339" z="-130.205" ay="-0.820" />
+            </item>
+            <item No="3" id="npc_dynamicclone_004" ay="-2.355" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+        </creator>
+        <creator No="77137CA3272E49F0A84FFE0498554F13" x="-255.756" y="11.138" z="-129.617" radius="3.0" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="48_46">
+            <item No="1" id="npc_dynamicclone_001" ay="1.725" amount="3" refreshtime="-1" NotPositive="0" desc="赤虹">
+                <position x="-256.114" z="-127.970" ay="1.725" />
+                <position x="-257.358" z="-129.760" ay="1.725" />
+                <position x="-255.223" z="-131.221" ay="1.725" />
+            </item>
+        </creator>
+        <creator No="D53724D7183A4B2B95DFDFB20A88A029" x="-14.730" y="10.657" z="-65.080" radius="2.2" WakeupRange="16.0" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="49_50">
+            <item No="1" id="npc_dynamicclone_003" ay="4.953" amount="2" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="-15.780" z="-63.749" ay="4.953" />
+                <position x="-14.766" z="-66.936" ay="4.678" />
+            </item>
+            <item No="2" id="npc_dynamicclone_004" ay="-2.355" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本小怪" />
+        </creator>
+        <creator No="E8ADFA6B89CB4C02B90854978B775EC5" x="11.938" y="11.138" z="-60.896" radius="2.8" WakeupRange="15.2" ChaseRange="200.0" PatrolRange="10.0" HateLink="1" ZoneName="49_50">
+            <item No="1" id="npc_dynamicclone_001" ay="-2.355" amount="3" refreshtime="-1" NotPositive="0" desc="动态副本小怪">
+                <position x="11.787" z="-62.313" ay="-2.355" />
+                <position x="11.672" z="-59.427" ay="-2.355" />
+                <position x="13.517" z="-60.561" ay="-2.355" />
+            </item>
+        </creator>
+        <creator No="3DDD8D9F9E724530AD00FDCEB0C9B96C" x="-524.104" y="10.248" z="1.332" radius="3.4" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="npc_dynamicclone_011" ay="1.565" amount="2" refreshtime="-1" NotPositive="0" desc="动态副本精英">
+                <position x="-526.832" z="1.326" ay="1.565" />
+                <position x="-526.051" z="-0.625" ay="1.565" />
+            </item>
+            <item No="2" id="npc_dynamicclone_010" ay="1.565" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本精英" />
+        </creator>
+        <creator No="6723A7CA0D9841559170286B49E5A726" x="-563.688" y="10.178" z="-8.395" radius="3.7" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="npc_dynamicclone_009" ay="1.565" amount="2" refreshtime="-1" NotPositive="0" desc="动态副本精英">
+                <position x="-564.842" z="-6.024" ay="1.565" />
+                <position x="-561.438" z="-6.413" ay="1.565" />
+            </item>
+            <item No="2" id="npc_dynamicclone_011" ay="1.565" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本精英" />
+        </creator>
+        <creator No="249C7B888AD64118819AA408884CC1CB" x="-577.350" y="15.000" z="-19.405" radius="2.9" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="npc_dynamicclone_010" ay="1.565" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本精英" />
+            <item No="2" id="npc_dynamicclone_009" ay="1.565" amount="2" refreshtime="-1" NotPositive="0" desc="动态副本精英">
+                <position x="-576.461" z="-18.350" ay="1.565" />
+                <position x="-579.110" z="-18.914" ay="1.565" />
+            </item>
+        </creator>
+        <creator No="4DE5AB2C1B1843FE95DD680C06EEF9EA" x="-576.980" y="20.000" z="-38.830" radius="2.9" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="npc_dynamicclone_009" ay="1.565" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本精英" />
+            <item No="2" id="npc_dynamicclone_011" ay="1.565" amount="2" refreshtime="-1" NotPositive="0" desc="动态副本精英">
+                <position x="-575.580" z="-39.941" ay="1.565" />
+                <position x="-577.966" z="-37.349" />
+            </item>
+        </creator>
+        <creator No="CCD62FD633884429A9FD6CF68D9194FB" x="-563.227" y="25.000" z="-50.760" radius="3.2" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="npc_dynamicclone_010" ay="1.565" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本精英" />
+            <item No="2" id="npc_dynamicclone_011" ay="1.565" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本精英" />
+        </creator>
+        <creator No="7FF800F1A78543118AE192E09FF6C9E9" x="-510.655" y="20.000" z="-38.578" radius="3.2" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="npc_dynamicclone_010" ay="1.565" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本精英" />
+            <item No="2" id="npc_dynamicclone_011" ay="1.565" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本精英" />
+        </creator>
+        <creator No="C2122C8C694E4C7EAA3DFFEC1C89818B" x="-511.160" y="21.944" z="-49.883" radius="2.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="npc_dynamicclone_010" ay="1.565" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本精英" />
+        </creator>
+        <creator No="6EEAD038F9B441669A0FE49DB11F7E93" x="-526.443" y="25.000" z="-50.549" radius="3.6" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="npc_dynamicclone_010" ay="1.565" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本精英" />
+            <item No="2" id="npc_dynamicclone_011" ay="1.565" amount="2" refreshtime="-1" NotPositive="0" desc="动态副本精英">
+                <position x="-526.497" z="-48.567" ay="1.565" />
+                <position x="-528.172" z="-50.968" ay="1.565" />
+            </item>
+        </creator>
+        <creator No="3F621B8DB13D431DAF6AC10057A20E48" x="-510.217" y="15.000" z="-20.474" radius="3.1" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1">
+            <item No="1" id="npc_dynamicclone_010" ay="1.565" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本精英" />
+            <item No="2" id="npc_dynamicclone_011" ay="1.565" amount="1" refreshtime="-1" NotPositive="0" desc="动态副本精英" />
+        </creator>
+    </randomcreator>
+</object>

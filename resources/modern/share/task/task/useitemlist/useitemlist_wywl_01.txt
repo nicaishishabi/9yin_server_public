@@ -1,0 +1,12 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	ItemID	ProCount	AddPro	TrackInfoID	DeleteSelf	LockTarget	Radius	SceneID	Water	AddItems	DeleteItems	TargetConfig	TaskID
+72305													
+72303	item_juqing_002	5	1	useiteminfo_72303		1	3	725				npc_ftask_111	72304
+72306	item_jqwf_001	3	1	useiteminfo_72306		1	3	725				npc_jqrwzy_001	72307
+72304	useitem_4yjq_001	1	1	useiteminfo_72304				725					72331
+72301	item_4yjq_003	1	1	useiteminfo_72301	1			725		item_juqing_001	item_4yjq_004		72304
+72302	item_juqing_001	1	1	useiteminfo_72302				725					72304
+72307	useitem_4yjq_004	1	1	useiteminfo_72307	1	1	5	725		item_4yjq_005		gather_wywl_002	72309
+72308	useitem_4yjq_005	1	1	useiteminfo_72308	1		3	12				EventNpc_wywl_001	72310
+72309	useitem_4yjq_007	1	1	useiteminfo_72309	1								72313
+72310	useitem_4yjq_002	1	1	useiteminfo_72310	1		5	725				EventNpc_wywl_002	

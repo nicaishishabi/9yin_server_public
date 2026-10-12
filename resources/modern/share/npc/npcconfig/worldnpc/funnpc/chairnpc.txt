@@ -1,0 +1,5 @@
+NPC编号	对象类型	ini注释名称	表现AI包编号	NPC类型	选择操作	鼠标形状	模型编号	NPC种类ID	响应范围	使用者位置偏移量x	使用者位置偏移量y	使用者位置偏移量z	使用者面朝	使用动作
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	script	Name	AIParaNo	NpcType	SelectState	CursorShape	Resource	CKindID	SpringRange	ChairOffsetX	ChairOffsetY	ChairOffsetZ	ChairUserOrient	ChairAction
+matchchair_npc01	CommonNpc	椅子	8	167			npc\npcitem629	4	20	0	1	0	-1.2	sitdown
+matchchair_npc02	ChairNpc	椅子	8	167	2	2	npc\itemnpc063	4	20	0	1	0	-1.2	interact235

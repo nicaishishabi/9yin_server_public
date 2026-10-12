@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<object>
+    <randomcreator>
+        <creator No="61D3BF5BAB9949CC842CB87F77591D80" x="-43.502" y="107.760" z="-100.775" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8717">
+            <item No="1" id="wjd_gc_stage1_002" ay="-1" amount="10" refreshtime="180000" NotPositive="0" desc="东瀛足轻">
+                <position x="-57.523" z="-104.672" ay="-1" />
+                <position x="-52.829" z="-119.194" ay="-1" />
+                <position x="-44.088" z="-116.093" ay="-1" />
+                <position x="-63.038" z="-119.356" ay="-1" />
+                <position x="-30.763" z="-108.289" ay="-1" />
+                <position x="-24.043" z="-102.354" ay="-1" />
+                <position x="-34.391" z="-98.212" ay="-1" />
+                <position x="-33.628" z="-83.863" ay="-1" />
+                <position x="-54.374" z="-89.984" ay="-1" />
+                <position x="-52.063" z="-97.397" ay="-1" />
+            </item>
+            <item No="2" id="wjd_gc_stage1_003" ay="2.291" amount="10" refreshtime="180000" NotPositive="0" desc="东瀛武士">
+                <position x="-23.483" z="-107.570" ay="2.291" />
+                <position x="-19.059" z="-97.906" ay="2.291" />
+                <position x="-39.210" z="-78.088" ay="2.291" />
+                <position x="-49.287" z="-100.977" ay="2.291" />
+                <position x="-64.501" z="-103.548" ay="2.291" />
+                <position x="-60.341" z="-113.566" ay="2.291" />
+                <position x="-58.351" z="-124.235" ay="2.291" />
+                <position x="-51.189" z="-122.403" ay="2.291" />
+                <position x="-47.831" z="-115.075" ay="2.291" />
+                <position x="-32.491" z="-115.068" ay="2.291" />
+            </item>
+        </creator>
+        <creator No="C4B416148F82462A9F19B3C1A4052EA7" x="8.704" y="107.529" z="-69.924" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8717">
+            <item No="1" id="wjd_gc_stage1_002" ay="-1" amount="10" refreshtime="180000" NotPositive="0" desc="东瀛足轻">
+                <position x="11.758" z="-72.520" ay="-1" />
+                <position x="21.343" z="-78.796" ay="-1" />
+                <position x="17.142" z="-88.866" ay="-1" />
+                <position x="6.889" z="-82.864" ay="-1" />
+                <position x="-5.559" z="-76.743" ay="-1" />
+                <position x="2.336" z="-59.225" ay="-1" />
+                <position x="28.720" z="-77.448" ay="-1" />
+                <position x="31.350" z="-66.614" ay="-1" />
+                <position x="21.215" z="-59.895" ay="-1" />
+                <position x="15.590" z="-77.993" ay="-1" />
+            </item>
+            <item No="2" id="wjd_gc_stage1_003" ay="2.291" amount="10" refreshtime="180000" NotPositive="0" desc="东瀛武士">
+                <position x="12.935" z="-90.528" ay="2.291" />
+                <position x="5.837" z="-89.870" ay="2.291" />
+                <position x="12.561" z="-83.552" ay="2.291" />
+                <position x="-5.965" z="-82.498" ay="2.291" />
+                <position x="-15.481" z="-79.017" ay="2.291" />
+                <position x="1.090" z="-71.915" ay="2.291" />
+                <position x="21.486" z="-71.650" ay="2.291" />
+                <position x="25.932" z="-66.048" ay="2.291" />
+                <position x="-1.371" z="-57.890" ay="2.291" />
+                <position x="-16.700" z="-64.396" ay="2.291" />
+            </item>
+        </creator>
+        <creator No="9344B03F901B4224B06360492B17D9A0" x="79.230" y="108.066" z="-80.807" radius="40.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8717">
+            <item No="1" id="wjd_gc_stage1_002" ay="-1" amount="10" refreshtime="180000" NotPositive="0" desc="东瀛足轻">
+                <position x="52.050" z="-70.117" ay="-1" />
+                <position x="47.735" z="-81.944" ay="-1" />
+                <position x="64.264" z="-74.325" ay="-1" />
+                <position x="60.473" z="-61.221" ay="-1" />
+                <position x="68.889" z="-59.558" ay="-1" />
+                <position x="75.005" z="-68.594" ay="-1" />
+                <position x="85.652" z="-73.289" ay="-1" />
+                <position x="99.148" z="-64.648" ay="-1" />
+                <position x="103.403" z="-75.369" ay="-1" />
+                <position x="90.199" z="-55.252" ay="-1" />
+            </item>
+            <item No="2" id="wjd_gc_stage1_003" ay="2.291" amount="10" refreshtime="180000" NotPositive="0" desc="东瀛武士">
+                <position x="71.235" z="-108.267" ay="2.291" />
+                <position x="65.182" z="-106.606" ay="2.291" />
+                <position x="72.678" z="-112.863" ay="2.291" />
+                <position x="77.935" z="-106.130" ay="2.291" />
+                <position x="68.776" z="-110.709" ay="2.291" />
+                <position x="93.546" z="-65.945" ay="2.291" />
+                <position x="104.795" z="-70.283" ay="2.291" />
+                <position x="75.814" z="-61.697" ay="2.291" />
+                <position x="85.521" z="-50.430" ay="2.291" />
+                <position x="91.731" z="-73.715" ay="2.291" />
+            </item>
+        </creator>
+        <creator No="E363E10F179B402E97104EF495263804" x="-98.163" y="107.551" z="-99.454" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8717">
+            <item No="1" id="wjd_gc_stage1_002" ay="2.512" amount="10" refreshtime="180000" NotPositive="0" desc="东瀛足轻">
+                <position x="-79.957" z="-88.023" ay="2.512" />
+                <position x="-76.994" z="-87.688" ay="2.291" />
+                <position x="-110.172" z="-94.864" ay="2.291" />
+                <position x="-100.899" z="-93.054" ay="2.291" />
+                <position x="-120.719" z="-107.816" ay="2.291" />
+                <position x="-100.591" z="-111.625" ay="2.291" />
+                <position x="-92.164" z="-108.968" ay="2.291" />
+                <position x="-95.153" z="-98.172" ay="2.291" />
+                <position x="-104.335" z="-94.957" ay="2.291" />
+                <position x="-104.243" z="-110.056" ay="2.291" />
+            </item>
+            <item No="2" id="wjd_gc_stage1_003" ay="2.291" amount="10" refreshtime="180000" NotPositive="0" desc="东瀛武士">
+                <position x="-77.443" z="-104.333" ay="2.291" />
+                <position x="-77.505" z="-109.244" ay="2.291" />
+                <position x="-80.916" z="-113.164" ay="2.291" />
+                <position x="-76.266" z="-113.908" ay="2.291" />
+                <position x="-77.218" z="-95.640" ay="2.291" />
+                <position x="-120.163" z="-89.179" ay="2.291" />
+                <position x="-124.651" z="-92.412" ay="2.291" />
+                <position x="-100.581" z="-96.082" ay="2.291" />
+                <position x="-118.750" z="-109.268" ay="2.291" />
+                <position x="-95.897" z="-110.557" ay="2.291" />
+            </item>
+        </creator>
+        <creator No="8C2F8093D4C04916B1FC218649984A23" x="-159.331" y="108.699" z="-82.278" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8717">
+            <item No="1" id="wjd_gc_stage1_002" ay="2.291" amount="10" refreshtime="180000" NotPositive="0" desc="东瀛足轻">
+                <position x="-156.815" z="-57.443" ay="2.291" />
+                <position x="-167.752" z="-58.981" ay="2.291" />
+                <position x="-151.643" z="-78.147" ay="2.291" />
+                <position x="-171.204" z="-84.422" ay="2.291" />
+                <position x="-166.289" z="-101.371" ay="2.291" />
+                <position x="-148.546" z="-97.267" ay="2.291" />
+                <position x="-149.369" z="-107.947" ay="2.291" />
+                <position x="-133.070" z="-84.508" ay="2.291" />
+                <position x="-143.463" z="-88.169" ay="2.291" />
+                <position x="-179.501" z="-89.257" ay="2.291" />
+            </item>
+            <item No="2" id="wjd_gc_stage1_003" ay="2.291" amount="10" refreshtime="180000" NotPositive="0" desc="东瀛武士">
+                <position x="-157.190" z="-64.956" ay="2.291" />
+                <position x="-171.888" z="-76.214" ay="2.291" />
+                <position x="-179.896" z="-83.438" ay="2.291" />
+                <position x="-172.230" z="-101.128" ay="2.291" />
+                <position x="-140.618" z="-98.317" ay="2.291" />
+                <position x="-144.813" z="-77.357" ay="2.291" />
+                <position x="-162.789" z="-89.855" ay="2.291" />
+                <position x="-152.843" z="-93.275" ay="2.291" />
+                <position x="-162.426" z="-107.508" ay="2.291" />
+                <position x="-157.083" z="-100.522" ay="2.291" />
+            </item>
+        </creator>
+        <creator No="205559CF521E4899B013D0E0DE2239A5" x="-99.007" y="115.733" z="-40.410" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8717">
+            <item No="1" id="wjd_gc_stage1_012" ay="0.876" amount="10" refreshtime="180000" NotPositive="0" desc="东瀛足轻(精锐）">
+                <position x="-123.087" z="-52.368" ay="0.876" />
+                <position x="-123.064" z="-44.393" ay="1.106" />
+                <position x="-112.463" z="-47.418" ay="1.106" />
+                <position x="-112.881" z="-60.530" ay="1.106" />
+                <position x="-101.147" z="-54.613" ay="1.106" />
+                <position x="-89.328" z="-62.376" ay="1.106" />
+                <position x="-91.014" z="-26.318" ay="1.106" />
+                <position x="-92.348" z="-21.782" ay="1.106" />
+                <position x="-71.567" z="-39.466" ay="2.931" />
+                <position x="-72.495" z="-43.972" ay="2.931" />
+            </item>
+            <item No="2" id="wjd_gc_stage1_013" ay="2.946" amount="10" refreshtime="180000" NotPositive="0" desc="东瀛武士（精锐）">
+                <position x="-98.267" z="-62.034" ay="2.946" />
+                <position x="-96.065" z="-62.220" ay="2.946" />
+                <position x="-106.343" z="-56.788" ay="2.946" />
+                <position x="-117.216" z="-51.047" ay="2.946" />
+                <position x="-84.380" z="-62.012" ay="2.946" />
+                <position x="-85.764" z="-26.412" ay="2.946" />
+                <position x="-87.238" z="-20.461" ay="2.946" />
+                <position x="-76.396" z="-23.139" ay="2.946" />
+                <position x="-73.656" z="-30.826" ay="2.946" />
+                <position x="-80.999" z="-41.409" ay="2.946" />
+            </item>
+        </creator>
+        <creator No="6D2CBA8A36BA4EA09C29F80509D0E2D1" x="-142.443" y="118.535" z="-11.724" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8717">
+            <item No="1" id="wjd_gc_stage1_012" ay="2.026" amount="10" refreshtime="180000" NotPositive="0" desc="东瀛足轻(精锐）">
+                <position x="-130.116" z="9.159" ay="2.026" />
+                <position x="-133.275" z="9.428" ay="2.026" />
+                <position x="-132.043" z="1.058" ay="2.026" />
+                <position x="-135.100" z="1.431" ay="2.026" />
+                <position x="-132.734" z="-16.601" ay="2.026" />
+                <position x="-129.696" z="-15.617" ay="2.026" />
+                <position x="-142.255" z="-28.857" ay="2.026" />
+                <position x="-137.450" z="-28.398" ay="2.026" />
+                <position x="-148.449" z="-36.826" ay="2.946" />
+                <position x="-150.658" z="-33.887" ay="3.391" />
+            </item>
+            <item No="2" id="wjd_gc_stage1_013" ay="2.946" amount="10" refreshtime="180000" NotPositive="0" desc="东瀛武士（精锐）">
+                <position x="-144.181" z="-32.666" ay="2.946" />
+                <position x="-133.486" z="-29.121" ay="2.946" />
+                <position x="-131.701" z="-31.896" ay="2.946" />
+                <position x="-129.933" z="-9.399" ay="2.946" />
+                <position x="-132.154" z="-2.355" ay="2.946" />
+                <position x="-147.016" z="-31.044" ay="2.946" />
+                <position x="-144.682" z="-36.688" ay="2.946" />
+                <position x="-133.170" z="-35.024" ay="2.946" />
+                <position x="-129.367" z="-22.074" ay="2.946" />
+                <position x="-153.255" z="-37.177" ay="2.946" />
+            </item>
+        </creator>
+        <creator No="EB9C532AEA9D466F8D5804E1B79C58A8" x="-94.968" y="121.700" z="18.283" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8717">
+            <item No="1" id="wjd_gc_stage1_012" ay="2.946" amount="10" refreshtime="180000" NotPositive="0" desc="东瀛足轻(精锐）">
+                <position x="-69.161" z="14.065" ay="2.946" />
+                <position x="-71.899" z="17.770" ay="2.946" />
+                <position x="-84.951" z="1.613" ay="2.946" />
+                <position x="-84.774" z="-2.797" ay="2.946" />
+                <position x="-90.349" z="-1.131" ay="2.946" />
+                <position x="-92.652" z="-1.177" ay="2.941" />
+                <position x="-88.647" z="-9.026" ay="2.946" />
+                <position x="-91.741" z="-8.774" ay="2.946" />
+                <position x="-108.723" z="11.164" ay="2.946" />
+                <position x="-101.662" z="10.576" ay="2.946" />
+            </item>
+            <item No="2" id="wjd_gc_stage1_013" ay="2.946" amount="10" refreshtime="180000" NotPositive="0" desc="东瀛武士（精锐）">
+                <position x="-72.806" z="15.069" ay="2.946" />
+                <position x="-77.440" z="13.138" ay="2.946" />
+                <position x="-84.269" z="8.090" ay="2.946" />
+                <position x="-89.519" z="4.523" ay="2.946" />
+                <position x="-119.274" z="8.279" ay="2.946" />
+                <position x="-115.823" z="3.897" ay="2.946" />
+                <position x="-90.204" z="-5.373" ay="2.946" />
+                <position x="-106.083" z="10.509" ay="2.946" />
+                <position x="-99.325" z="9.862" ay="2.946" />
+                <position x="-115.361" z="9.835" ay="2.946" />
+            </item>
+        </creator>
+        <creator No="07969A163DF74AD88E9771590B8E68C3" x="-13.216" y="116.844" z="2.593" radius="40.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8717">
+            <item No="1" id="wjd_gc_stage1_012" ay="2.931" amount="10" refreshtime="180000" NotPositive="0" desc="东瀛足轻(精锐）">
+                <position x="-50.440" z="-1.030" ay="2.931" />
+                <position x="-46.155" z="-0.995" ay="2.931" />
+                <position x="-3.390" z="12.299" ay="2.931" />
+                <position x="-0.050" z="13.233" ay="2.931" />
+                <position x="14.535" z="4.448" ay="2.001" />
+                <position x="13.083" z="1.348" ay="2.026" />
+                <position x="-47.325" z="-14.207" ay="2.026" />
+                <position x="-44.167" z="-14.336" ay="2.026" />
+                <position x="-27.201" z="-0.589" ay="2.026" />
+                <position x="-39.032" z="-6.396" ay="2.026" />
+            </item>
+            <item No="2" id="wjd_gc_stage1_013" ay="2.946" amount="10" refreshtime="180000" NotPositive="0" desc="东瀛武士（精锐）">
+                <position x="15.982" z="-10.818" ay="2.946" />
+                <position x="7.832" z="-15.981" ay="2.946" />
+                <position x="-0.888" z="-10.245" ay="2.946" />
+                <position x="-0.047" z="8.867" ay="2.946" />
+                <position x="-13.349" z="-2.468" ay="2.946" />
+                <position x="-24.140" z="0.105" ay="2.946" />
+                <position x="-46.883" z="-6.009" ay="2.946" />
+                <position x="-45.959" z="-15.145" ay="2.946" />
+                <position x="14.103" z="-17.703" ay="2.946" />
+                <position x="20.599" z="10.270" ay="2.946" />
+            </item>
+        </creator>
+        <creator No="A552CD9B76DB423E93C4A298732AFB4E" x="-50.890" y="112.079" z="-55.005" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8717">
+            <item No="1" id="wjd_gc_stage1_012" ay="2.931" amount="10" refreshtime="180000" NotPositive="0" desc="东瀛足轻(精锐）">
+                <position x="-50.318" z="-41.490" ay="2.931" />
+                <position x="-45.719" z="-42.018" ay="2.931" />
+                <position x="-46.045" z="-48.141" ay="2.931" />
+                <position x="-46.559" z="-53.050" ay="2.931" />
+                <position x="-47.609" z="-56.905" ay="3.736" />
+                <position x="-76.365" z="-64.019" ay="2.931" />
+                <position x="-71.901" z="-62.919" ay="2.931" />
+                <position x="-68.186" z="-53.369" ay="2.931" />
+                <position x="-27.020" z="-51.610" ay="2.931" />
+                <position x="-26.268" z="-56.825" ay="1.931" />
+            </item>
+            <item No="2" id="wjd_gc_stage1_013" ay="2.946" amount="10" refreshtime="180000" NotPositive="0" desc="东瀛武士（精锐）">
+                <position x="-67.443" z="-60.303" ay="2.946" />
+                <position x="-60.456" z="-59.560" ay="2.946" />
+                <position x="-73.832" z="-68.868" ay="2.946" />
+                <position x="-66.218" z="-41.776" ay="2.946" />
+                <position x="-46.850" z="-30.637" ay="2.946" />
+                <position x="-46.955" z="-35.108" ay="2.946" />
+                <position x="-51.938" z="-56.488" ay="2.946" />
+                <position x="-54.511" z="-54.067" ay="2.946" />
+                <position x="-56.162" z="-55.125" ay="2.946" />
+                <position x="-54.590" z="-63.473" ay="5.306" />
+            </item>
+        </creator>
+        <creator No="CF915EB123A74153AA7F55F2A17ADAB1" x="-19.735" y="146.712" z="74.047" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8717">
+            <item No="1" id="wjd_gc_stage2_002" ay="3.258" amount="10" refreshtime="180000" NotPositive="0" desc="浪人">
+                <position x="-32.118" z="50.466" ay="3.258" />
+                <position x="-27.587" z="49.843" ay="3.181" />
+                <position x="-34.984" z="55.965" ay="3.181" />
+                <position x="-34.057" z="61.058" ay="3.181" />
+                <position x="-11.988" z="59.996" ay="5.291" />
+                <position x="-7.100" z="66.652" ay="4.311" />
+                <position x="-15.718" z="60.508" ay="5.286" />
+                <position x="-18.852" z="71.391" ay="4.311" />
+                <position x="-15.253" z="69.872" ay="4.311" />
+                <position x="-25.008" z="80.228" ay="4.311" />
+            </item>
+            <item No="2" id="wjd_gc_stage2_003" ay="4.311" amount="10" refreshtime="180000" NotPositive="0" desc="剑豪">
+                <position x="-27.588" z="72.884" ay="4.311" />
+                <position x="-22.324" z="74.119" ay="4.311" />
+                <position x="-20.318" z="57.177" ay="4.311" />
+                <position x="-28.916" z="55.091" ay="4.311" />
+                <position x="-29.645" z="63.097" ay="4.311" />
+                <position x="-5.810" z="75.865" ay="4.311" />
+                <position x="-2.455" z="73.863" ay="4.311" />
+                <position x="-10.731" z="70.158" ay="4.311" />
+                <position x="-23.420" z="64.804" ay="4.311" />
+                <position x="-24.864" z="59.723" ay="4.311" />
+            </item>
+        </creator>
+        <creator No="6CA8A2E6B710423FBBE6810987BAA6E7" x="86.515" y="172.861" z="118.982" radius="50.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8717">
+            <item No="1" id="wjd_gc_stage2_003" ay="4.311" amount="10" refreshtime="180000" NotPositive="0" desc="剑豪">
+                <position x="44.830" z="112.254" ay="4.311" />
+                <position x="45.766" z="109.863" ay="4.311" />
+                <position x="69.279" z="114.563" ay="4.311" />
+                <position x="68.319" z="117.585" ay="4.311" />
+                <position x="100.058" z="121.774" ay="4.311" />
+                <position x="98.574" z="112.106" ay="4.311" />
+                <position x="99.703" z="104.362" ay="4.311" />
+                <position x="96.819" z="102.718" ay="4.311" />
+                <position x="89.114" z="111.770" ay="0.948" />
+                <position x="86.801" z="113.804" ay="0.858" />
+            </item>
+            <item No="2" id="wjd_gc_stage2_002" ay="5.581" amount="10" refreshtime="180000" NotPositive="0" desc="浪人">
+                <position x="100.527" z="123.591" ay="5.581" />
+                <position x="96.480" z="109.980" ay="5.581" />
+                <position x="84.786" z="115.938" ay="5.581" />
+                <position x="79.479" z="113.332" ay="4.311" />
+                <position x="70.310" z="124.951" ay="4.311" />
+                <position x="73.615" z="126.911" ay="4.311" />
+                <position x="101.215" z="98.151" ay="6.026" />
+                <position x="105.240" z="116.009" ay="6.026" />
+                <position x="98.800" z="116.053" ay="6.026" />
+                <position x="100.426" z="120.171" ay="6.026" />
+            </item>
+        </creator>
+        <creator No="DBD90E7A0D7E4ED3A92FD798056BD5E7" x="34.663" y="214.636" z="187.712" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8717">
+            <item No="1" id="wjd_gc_stage2_002" ay="1.483" amount="10" refreshtime="180000" NotPositive="0" desc="浪人">
+                <position x="18.878" z="180.841" ay="1.483" />
+                <position x="17.942" z="184.456" ay="1.483" />
+                <position x="26.618" z="178.345" ay="1.483" />
+                <position x="23.544" z="175.282" ay="1.483" />
+                <position x="55.999" z="200.286" ay="1.483" />
+                <position x="57.080" z="193.494" ay="1.483" />
+                <position x="45.728" z="180.309" ay="1.483" />
+                <position x="50.467" z="174.236" ay="1.483" />
+                <position x="39.415" z="201.211" ay="2.898" />
+                <position x="46.763" z="200.509" ay="2.678" />
+            </item>
+            <item No="2" id="wjd_gc_stage2_003" ay="2.898" amount="10" refreshtime="180000" NotPositive="0" desc="剑豪">
+                <position x="42.145" z="188.224" ay="2.898" />
+                <position x="38.539" z="195.899" ay="2.898" />
+                <position x="37.433" z="161.739" ay="2.898" />
+                <position x="26.775" z="167.175" ay="2.898" />
+                <position x="50.897" z="186.070" ay="2.898" />
+                <position x="51.569" z="195.627" ay="2.898" />
+                <position x="20.448" z="190.592" ay="2.898" />
+                <position x="23.111" z="194.822" ay="2.898" />
+                <position x="45.830" z="191.493" ay="2.898" />
+                <position x="33.560" z="166.664" ay="2.898" />
+            </item>
+        </creator>
+        <creator No="AA238D20A67A4C1FA3282B2B9B2BE640" x="-154.225" y="178.815" z="82.610" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8717">
+            <item No="1" id="wjd_gc_stage2_003" ay="2.213" amount="10" refreshtime="180000" NotPositive="0" desc="剑豪">
+                <position x="-171.825" z="71.770" ay="2.213" />
+                <position x="-172.432" z="66.497" ay="1.943" />
+                <position x="-162.554" z="69.878" ay="1.868" />
+                <position x="-166.247" z="75.240" ay="2.273" />
+                <position x="-156.464" z="83.906" ay="1.528" />
+                <position x="-158.785" z="85.302" ay="2.163" />
+                <position x="-157.466" z="93.912" ay="0.933" />
+                <position x="-161.427" z="95.983" ay="1.543" />
+                <position x="-156.492" z="108.968" ay="1.753" />
+                <position x="-152.596" z="106.156" ay="1.823" />
+            </item>
+            <item No="2" id="wjd_gc_stage2_002" ay="1.943" amount="10" refreshtime="180000" NotPositive="0" desc="浪人">
+                <position x="-147.104" z="100.013" ay="1.943" />
+                <position x="-152.637" z="96.212" ay="1.943" />
+                <position x="-157.950" z="98.656" ay="1.943" />
+                <position x="-158.842" z="89.059" ay="1.943" />
+                <position x="-152.146" z="89.721" ay="1.943" />
+                <position x="-168.244" z="69.352" ay="1.943" />
+                <position x="-162.963" z="74.060" ay="1.943" />
+                <position x="-157.046" z="69.856" ay="1.943" />
+                <position x="-164.429" z="63.905" ay="1.943" />
+                <position x="-158.743" z="66.015" ay="1.943" />
+            </item>
+        </creator>
+        <creator No="349611A8487F42D9A70BEC693C20A981" x="-97.076" y="167.306" z="102.064" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8717">
+            <item No="1" id="wjd_gc_stage2_002" ay="1.943" amount="10" refreshtime="180000" NotPositive="0" desc="浪人">
+                <position x="-77.118" z="115.300" ay="1.943" />
+                <position x="-78.339" z="111.457" ay="1.943" />
+                <position x="-82.127" z="110.567" ay="1.943" />
+                <position x="-88.981" z="108.875" ay="1.943" />
+                <position x="-91.496" z="106.830" ay="1.943" />
+                <position x="-94.299" z="108.159" ay="1.943" />
+                <position x="-96.656" z="105.811" ay="1.943" />
+                <position x="-108.281" z="101.311" ay="1.943" />
+                <position x="-113.475" z="102.527" ay="1.943" />
+                <position x="-121.829" z="102.306" ay="1.943" />
+            </item>
+            <item No="2" id="wjd_gc_stage2_003" ay="1.943" amount="10" refreshtime="180000" NotPositive="0" desc="剑豪">
+                <position x="-123.755" z="104.062" ay="1.943" />
+                <position x="-118.669" z="100.293" ay="1.943" />
+                <position x="-109.033" z="103.812" ay="1.943" />
+                <position x="-116.913" z="103.355" ay="1.943" />
+                <position x="-104.258" z="102.520" ay="1.943" />
+                <position x="-83.572" z="108.394" ay="1.943" />
+                <position x="-78.999" z="113.266" ay="1.943" />
+                <position x="-91.083" z="109.034" ay="1.943" />
+                <position x="-99.528" z="103.134" ay="1.943" />
+                <position x="-116.915" z="101.251" ay="1.943" />
+            </item>
+        </creator>
+        <creator No="76CC987F33194EB88638CDA36DCF6AA1" x="-41.119" y="215.873" z="175.554" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8717">
+            <item No="1" id="wjd_gc_stage3_003" ay="1.943" amount="14" refreshtime="180000" NotPositive="0" desc="下忍">
+                <position x="-22.446" z="184.280" ay="1.943" />
+                <position x="-21.866" z="180.716" ay="1.943" />
+                <position x="-31.531" z="179.454" ay="1.943" />
+                <position x="-30.784" z="175.141" ay="1.943" />
+                <position x="-50.178" z="190.847" ay="2.513" />
+                <position x="-42.279" z="190.953" ay="3.323" />
+                <position x="-61.028" z="176.150" ay="2.633" />
+                <position x="-55.842" z="168.384" ay="2.513" />
+                <position x="-51.728" z="170.474" ay="2.513" />
+                <position x="-41.771" z="170.879" ay="2.513" />
+                <position x="-25.828" z="171.919" ay="2.513" />
+                <position x="-26.730" z="184.414" ay="2.513" />
+                <position x="-26.391" z="177.441" ay="2.513" />
+                <position x="-64.442" z="177.713" ay="3.318" />
+            </item>
+            <item No="2" id="wjd_gc_stage3_004" ay="2.633" amount="6" refreshtime="180000" NotPositive="0" desc="中忍">
+                <position x="-50.102" z="197.694" ay="2.633" />
+                <position x="-43.075" z="198.237" ay="2.633" />
+                <position x="-61.690" z="178.561" ay="2.633" />
+                <position x="-20.934" z="182.324" ay="2.633" />
+                <position x="-55.209" z="172.097" ay="2.633" />
+                <position x="-67.402" z="168.856" ay="2.633" />
+            </item>
+        </creator>
+        <creator No="E555F1BB19BB4ADFB6938279CBB3E932" x="-105.611" y="220.317" z="159.631" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8717">
+            <item No="1" id="wjd_gc_stage3_004" ay="2.513" amount="6" refreshtime="180000" NotPositive="0" desc="中忍">
+                <position x="-89.269" z="171.245" ay="2.513" />
+                <position x="-119.445" z="155.320" ay="2.513" />
+                <position x="-115.139" z="176.882" ay="2.513" />
+                <position x="-96.181" z="157.927" ay="2.513" />
+                <position x="-92.405" z="137.777" ay="2.513" />
+                <position x="-93.454" z="135.443" ay="2.513" />
+            </item>
+            <item No="2" id="wjd_gc_stage3_003" ay="2.513" amount="14" refreshtime="180000" NotPositive="0" desc="下忍">
+                <position x="-102.479" z="166.949" ay="2.513" />
+                <position x="-93.739" z="160.206" ay="2.513" />
+                <position x="-112.325" z="155.823" ay="2.513" />
+                <position x="-85.070" z="161.337" ay="2.513" />
+                <position x="-81.596" z="154.884" ay="2.513" />
+                <position x="-82.103" z="147.145" ay="0.928" />
+                <position x="-90.222" z="143.031" ay="0.928" />
+                <position x="-101.670" z="137.072" ay="0.928" />
+                <position x="-102.186" z="131.672" ay="0.928" />
+                <position x="-103.380" z="133.778" ay="0.928" />
+                <position x="-86.899" z="154.772" ay="0.928" />
+                <position x="-88.209" z="158.953" ay="0.928" />
+                <position x="-81.766" z="159.301" ay="0.928" />
+                <position x="-83.587" z="166.855" ay="0.928" />
+            </item>
+        </creator>
+        <creator No="0FA04DED32A845E3BC400CFBC89FAF3F" x="-162.287" y="217.951" z="159.502" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8717">
+            <item No="1" id="wjd_gc_stage3_003" ay="0.928" amount="14" refreshtime="180000" NotPositive="0" desc="下忍">
+                <position x="-140.880" z="145.116" ay="0.928" />
+                <position x="-142.883" z="142.786" ay="0.928" />
+                <position x="-157.761" z="152.741" ay="0.928" />
+                <position x="-154.221" z="155.955" ay="0.928" />
+                <position x="-169.504" z="158.505" ay="0.928" />
+                <position x="-168.283" z="154.972" ay="0.928" />
+                <position x="-169.619" z="166.595" ay="0.928" />
+                <position x="-158.057" z="172.492" ay="2.703" />
+                <position x="-152.497" z="167.272" ay="4.796" />
+                <position x="-144.114" z="162.703" ay="3.811" />
+                <position x="-152.438" z="162.511" ay="5.081" />
+                <position x="-160.411" z="169.107" ay="2.703" />
+                <position x="-160.327" z="162.916" ay="1.923" />
+                <position x="-168.213" z="171.244" ay="2.363" />
+            </item>
+            <item No="2" id="wjd_gc_stage3_004" ay="3.811" amount="6" refreshtime="180000" NotPositive="0" desc="中忍">
+                <position x="-147.972" z="159.375" ay="3.811" />
+                <position x="-163.770" z="166.076" ay="3.811" />
+                <position x="-157.955" z="155.468" ay="3.811" />
+                <position x="-149.561" z="149.463" ay="3.811" />
+                <position x="-166.370" z="162.125" ay="3.811" />
+                <position x="-144.514" z="145.222" ay="3.811" />
+            </item>
+        </creator>
+        <creator No="B920FA53FD7240DBA28682C41936F665" x="-163.129" y="221.837" z="218.478" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8717">
+            <item No="1" id="wjd_gc_stage3_003" ay="2.313" amount="14" refreshtime="180000" NotPositive="0" desc="下忍">
+                <position x="-184.511" z="216.801" ay="2.313" />
+                <position x="-177.819" z="217.017" ay="2.313" />
+                <position x="-170.243" z="217.271" ay="2.313" />
+                <position x="-158.449" z="217.393" ay="2.313" />
+                <position x="-147.319" z="217.535" ay="2.313" />
+                <position x="-182.165" z="208.059" ay="2.313" />
+                <position x="-175.795" z="207.949" ay="2.313" />
+                <position x="-158.248" z="206.701" ay="2.313" />
+                <position x="-153.096" z="207.026" ay="2.313" />
+                <position x="-177.826" z="195.748" ay="2.313" />
+                <position x="-157.973" z="195.504" ay="2.313" />
+                <position x="-150.223" z="201.309" ay="2.313" />
+                <position x="-181.493" z="201.440" ay="2.313" />
+                <position x="-161.648" z="200.435" ay="2.313" />
+            </item>
+            <item No="2" id="wjd_gc_stage3_004" ay="2.313" amount="6" refreshtime="180000" NotPositive="0" desc="中忍">
+                <position x="-174.132" z="213.440" ay="2.313" />
+                <position x="-153.824" z="213.879" ay="2.313" />
+                <position x="-156.027" z="200.725" ay="2.313" />
+                <position x="-176.836" z="201.280" ay="2.313" />
+                <position x="-143.261" z="212.440" ay="2.313" />
+                <position x="-162.265" z="211.282" ay="2.313" />
+            </item>
+        </creator>
+        <creator No="7868A834AD86465287F0331F5FC6644A" x="-45.070" y="221.747" z="228.630" radius="30.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8717">
+            <item No="1" id="wjd_gc_stage3_004" ay="2.313" amount="6" refreshtime="180000" NotPositive="0" desc="中忍">
+                <position x="-49.904" z="226.153" ay="2.313" />
+                <position x="-43.302" z="226.410" ay="2.313" />
+                <position x="-40.306" z="226.590" ay="2.313" />
+                <position x="-52.119" z="226.429" ay="2.313" />
+                <position x="-54.831" z="226.354" ay="2.313" />
+                <position x="-38.124" z="226.700" ay="2.313" />
+            </item>
+            <item No="2" id="wjd_gc_stage3_003" ay="2.313" amount="14" refreshtime="180000" NotPositive="0" desc="下忍">
+                <position x="-66.919" z="226.661" ay="2.313" />
+                <position x="-66.997" z="224.412" ay="2.313" />
+                <position x="-67.141" z="222.094" ay="2.313" />
+                <position x="-67.307" z="219.623" ay="2.313" />
+                <position x="-67.658" z="216.865" ay="2.313" />
+                <position x="-67.729" z="214.418" ay="2.313" />
+                <position x="-67.779" z="211.337" ay="2.313" />
+                <position x="-29.978" z="209.938" ay="3.953" />
+                <position x="-29.509" z="212.014" ay="4.203" />
+                <position x="-28.732" z="214.214" ay="3.933" />
+                <position x="-28.188" z="216.880" ay="3.798" />
+                <position x="-27.349" z="219.732" ay="3.453" />
+                <position x="-27.064" z="222.504" ay="3.803" />
+                <position x="-26.380" z="225.112" ay="3.878" />
+            </item>
+        </creator>
+        <creator No="6B78ABDA12AF41598ED45D93287599AB" x="-205.341" y="182.599" z="84.067" radius="20.0" WakeupRange="16.0" ChaseRange="27.0" PatrolRange="10.0" HateLink="1" SubSceneNo="8717">
+            <item No="1" id="npc_wjd_xx_008" ay="-1" amount="8" refreshtime="-1" desc="粮草">
+                <position x="-193.425" z="84.472" ay="-1" />
+                <position x="-198.160" z="80.793" ay="-1" />
+                <position x="-200.179" z="92.974" ay="-1" />
+                <position x="-207.692" z="90.013" ay="-1" />
+                <position x="-202.138" z="85.022" ay="-1" />
+                <position x="-191.354" z="78.592" ay="-1" />
+                <position x="-219.284" z="81.666" ay="-1" />
+                <position x="-214.859" z="73.207" ay="-1" />
+            </item>
+        </creator>
+        <creator No="3672AE85C5B840DA8403214DF5A2F03A" x="-91.299" y="120.017" z="-49.504" radius="5.0" WakeupRange="5.0" ChaseRange="27.0" PatrolRange="-1.0" StaticY="1" HateLink="1">
+            <item No="1" id="npc_wjd_jd_01" ay="-2.880" amount="1" refreshtime="60000" NotPositive="0" desc="间谍1">
+                <position x="-91.299" z="-49.504" ay="-2.880" BornAction="ty_kneel_danxi_loop" RandomAction="ty_kneel_danxi_loop" />
+            </item>
+        </creator>
+        <creator No="55E5BE3E4EA5423B85E03356982461CA" x="-5.594" y="151.988" z="49.876" radius="5.0" WakeupRange="5.0" ChaseRange="27.0" PatrolRange="-1.0" StaticY="1" HateLink="1">
+            <item No="1" id="npc_wjd_jd_01" ay="-0.845" amount="1" refreshtime="60000" NotPositive="0" desc="间谍1">
+                <position x="-5.594" z="49.876" ay="-0.845" BornAction="ty_kneel_danxi_loop" RandomAction="ty_kneel_danxi_loop" />
+            </item>
+        </creator>
+        <creator No="5DF3412C654A4DD9BD7963AD8DA556AF" x="-44.602" y="161.164" z="65.675" radius="5.0" WakeupRange="5.0" ChaseRange="27.0" PatrolRange="-1.0" StaticY="1" HateLink="1">
+            <item No="1" id="npc_wjd_jd_01" ay="2.038" amount="1" refreshtime="60000" NotPositive="0" desc="间谍1">
+                <position x="-44.602" z="65.675" ay="2.038" BornAction="ty_kneel_danxi_loop" RandomAction="ty_kneel_danxi_loop" />
+            </item>
+        </creator>
+        <creator No="CC23150B188C4953A2A8FA6C20789A29" x="83.753" y="183.041" z="134.753" radius="5.0" WakeupRange="5.0" ChaseRange="27.0" PatrolRange="-1.0" StaticY="1" HateLink="1">
+            <item No="1" id="npc_wjd_jd_01" ay="3.018" amount="1" refreshtime="60000" NotPositive="0" desc="间谍1">
+                <position x="83.753" z="134.753" ay="3.018" BornAction="ty_kneel_danxi_loop" RandomAction="ty_kneel_danxi_loop" />
+            </item>
+        </creator>
+        <creator No="642E0FF292B0458EB9B92494DE0072CD" x="126.020" y="181.536" z="132.684" radius="5.0" WakeupRange="5.0" ChaseRange="27.0" PatrolRange="-1.0" StaticY="1" HateLink="1">
+            <item No="1" id="npc_wjd_jd_01" ay="-1.705" amount="1" refreshtime="60000" NotPositive="0" desc="间谍1">
+                <position x="126.020" z="132.684" ay="-1.705" BornAction="ty_kneel_danxi_loop" RandomAction="ty_kneel_danxi_loop" />
+            </item>
+        </creator>
+        <creator No="3031251FCD2D46DCB1C3997B301370D0" x="36.074" y="227.828" z="207.708" radius="5.0" WakeupRange="5.0" ChaseRange="27.0" PatrolRange="-1.0" StaticY="1" HateLink="1">
+            <item No="1" id="npc_wjd_jd_01" ay="3.098" amount="1" refreshtime="60000" NotPositive="0" desc="间谍1">
+                <position x="36.074" z="207.708" ay="3.098" BornAction="ty_kneel_danxi_loop" RandomAction="ty_kneel_danxi_loop" />
+            </item>
+        </creator>
+        <creator No="83260CD7DE3B4C18951D28160FDAB61F" x="-12.064" y="234.984" z="203.285" radius="5.0" WakeupRange="5.0" ChaseRange="27.0" PatrolRange="-1.0" StaticY="1" HateLink="1">
+            <item No="1" id="npc_wjd_jd_01" ay="-1.580" amount="1" refreshtime="60000" NotPositive="0" desc="间谍1">
+                <position x="-12.064" z="203.285" ay="-1.580" BornAction="ty_kneel_danxi_loop" RandomAction="ty_kneel_danxi_loop" />
+            </item>
+        </creator>
+        <creator No="CD40356166C04B6086FF7BB09B53C850" x="-1.100" y="237.696" z="234.614" radius="5.0" WakeupRange="5.0" ChaseRange="27.0" PatrolRange="-1.0" StaticY="1" HateLink="1">
+            <item No="1" id="npc_wjd_jd_01" ay="-1.555" amount="1" refreshtime="60000" NotPositive="0" desc="间谍1">
+                <position x="-1.100" z="234.614" ay="-1.555" BornAction="ty_kneel_danxi_loop" RandomAction="ty_kneel_danxi_loop" />
+            </item>
+        </creator>
+        <creator No="FF06C3F3B691437098469A454443DB9F" x="-77.448" y="236.031" z="264.745" radius="5.0" WakeupRange="5.0" ChaseRange="27.0" PatrolRange="-1.0" StaticY="1" HateLink="1">
+            <item No="1" id="npc_wjd_jd_01" ay="3.108" amount="1" refreshtime="60000" NotPositive="0" desc="间谍1">
+                <position x="-77.448" z="264.745" ay="3.108" BornAction="ty_kneel_danxi_loop" RandomAction="ty_kneel_danxi_loop" />
+            </item>
+        </creator>
+        <creator No="C9B939518EDE4773B6A722D2FCC130E9" x="-135.747" y="234.542" z="186.300" radius="5.0" WakeupRange="5.0" ChaseRange="27.0" PatrolRange="-1.0" StaticY="1" HateLink="1">
+            <item No="1" id="npc_wjd_jd_01" ay="-1.020" amount="1" refreshtime="60000" NotPositive="0" desc="间谍1">
+                <position x="-135.747" z="186.300" ay="-1.020" BornAction="ty_kneel_danxi_loop" RandomAction="ty_kneel_danxi_loop" />
+            </item>
+        </creator>
+        <creator No="7687542D73BA42EDA301A9EC059CF911" x="-208.916" y="233.145" z="229.722" radius="5.0" WakeupRange="5.0" ChaseRange="27.0" PatrolRange="-1.0" StaticY="1" HateLink="1">
+            <item No="1" id="npc_wjd_jd_01" ay="1.458" amount="1" refreshtime="60000" NotPositive="0" desc="间谍1">
+                <position x="-208.916" z="229.722" ay="1.458" BornAction="ty_kneel_danxi_loop" RandomAction="ty_kneel_danxi_loop" />
+            </item>
+        </creator>
+        <creator No="4F4F53881E9F41288DBE77983462D6B4" x="-183.651" y="229.431" z="161.429" radius="5.0" WakeupRange="5.0" ChaseRange="27.0" PatrolRange="-1.0" StaticY="1" HateLink="1">
+            <item No="1" id="npc_wjd_jd_01" ay="2.258" amount="1" refreshtime="60000" NotPositive="0" desc="间谍1">
+                <position x="-183.651" z="161.429" ay="2.258" BornAction="ty_kneel_danxi_loop" RandomAction="ty_kneel_danxi_loop" />
+            </item>
+        </creator>
+        <creator No="21890CCC80C84B5EA68725CE676C99DC" x="-163.427" y="225.791" z="146.570" radius="5.0" WakeupRange="5.0" ChaseRange="27.0" PatrolRange="-1.0" StaticY="1" HateLink="1">
+            <item No="1" id="npc_wjd_jd_01" ay="0.088" amount="1" refreshtime="60000" NotPositive="0" desc="间谍1">
+                <position x="-163.427" z="146.570" ay="0.088" BornAction="ty_kneel_danxi_loop" RandomAction="ty_kneel_danxi_loop" />
+            </item>
+        </creator>
+    </randomcreator>
+</object>

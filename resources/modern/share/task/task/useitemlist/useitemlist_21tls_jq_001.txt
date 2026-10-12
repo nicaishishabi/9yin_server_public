@@ -1,0 +1,16 @@
+STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+ID	ItemID	ProCount	AddPro	TrackInfoID	DeleteSelf	LockTarget	Radius	SceneID	Water	AddItems	DeleteItems	TargetConfig	TaskID
+76491	item_tls_daily02_01	1	1	useiteminfo_76491		1	2	471				tasknpc_tls_daily02_01	76491
+76492	item_tls_daily02_01	1	1	useiteminfo_76492		1	2	471				tasknpc_tls_daily02_02	76491
+76493	item_tls_daily02_01	1	1	useiteminfo_76493		1	2	471				tasknpc_tls_daily02_03	76491
+76494	item_tls_daily02_01	1	1	useiteminfo_76494		1	2	471				tasknpc_tls_daily02_04	76491
+76495	item_tls_daily02_01	1	1	useiteminfo_76495		1	2	471				tasknpc_tls_daily02_05	76491
+76496	item_tls_daily03_01	1	1	useiteminfo_76496		1	2	471				tasknpc_tls_daily03_01	76492
+76497	item_tls_daily03_01	1	1	useiteminfo_76497		1	2	471				tasknpc_tls_daily03_02	76492
+76498	item_tls_daily03_01	1	1	useiteminfo_76498		1	2	471				tasknpc_tls_daily03_03	76492
+76499	item_tls_daily03_01	1	1	useiteminfo_76499		1	2	471				tasknpc_tls_daily03_04	76492
+76500	item_tls_daily04_01	1	1	useiteminfo_76500	1			471		item_tls_daily04_04	item_tls_daily04_02;item_tls_daily04_03		76493
+76487	item_tls_daily07_00	1	1	useiteminfo_76487				471		item_tls_daily07_01;item_tls_daily07_02;item_tls_daily07_03			76496
+76490	item_tls_daily07_01	1	1	useiteminfo_76490	1	1	2	471				tasknpc_tls_daily07_03	76496
+76489	item_tls_daily07_02	1	1	useiteminfo_76489	1	1	2	471				tasknpc_tls_daily07_04	76496
+76488	item_tls_daily07_03	1	1	useiteminfo_76488	1	1	2	471				tasknpc_tls_daily07_02	76496
